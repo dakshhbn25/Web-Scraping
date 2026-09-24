@@ -1,0 +1,207 @@
+{
+  "record_id": "speaker-medical-018",
+  "speaker_name": "Patricia Maric",
+  "linkedin_url": "https://www.linkedin.com/in/patriciamaric/",
+  "likelihood": 9,
+  "full_name": "patricia maric",
+  "job_title": "global medical transformation lead, strategy, innovation & medical transformation",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united arab emirates",
+  "location_region": true,
+  "location_locality": false,
+  "skills": [
+    "agile",
+    "business development",
+    "change management",
+    "clinical pharmacy",
+    "clinical research",
+    "communicating with impact",
+    "creative solutions",
+    "cross functional projects",
+    "customer engagement",
+    "customer events",
+    "customer interaction",
+    "customer service",
+    "data generation",
+    "design thinking",
+    "digital essentials",
+    "digital health",
+    "english",
+    "healthcare",
+    "immunology",
+    "integrated care",
+    "ios",
+    "leadership project management",
+    "life sciences",
+    "market research",
+    "marketing strategy",
+    "medical affiars",
+    "medical education",
+    "medical technology",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft word",
+    "negotiation",
+    "omni channel marketing",
+    "patient care management",
+    "patient education",
+    "patient experience",
+    "patient safety",
+    "patient services",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "pharmaceutics",
+    "pharmacology",
+    "pharmacotherapy",
+    "pharmacy",
+    "powerpoint",
+    "problem solving",
+    "project management",
+    "public speaking",
+    "research",
+    "respiration",
+    "respiratory",
+    "standard operating procedure",
+    "strategic communications",
+    "teamwork",
+    "training",
+    "transformation strategy",
+    "transformational change",
+    "transformational leadership",
+    "windows"
+  ],
+  "interests": [
+    "animal welfare",
+    "arts and culture",
+    "education",
+    "environment",
+    "health",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "global medical transformation lead, strategy, innovation & medical transformation",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "patient experience lead, transformation, greater gulf mco",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-02",
+      "end_date": "2024-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor, global medical affairs",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "key account specialist",
+      "company": "ferring pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical representative",
+      "company": "ferring pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-02",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "project assistant",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-02",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "student assistant",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2016-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "national university of sciences and technology (nust)",
+      "majors": [
+        "business",
+        "international business",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "china pharmaceutical university",
+      "majors": [
+        "education",
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "upf barcelona school of management",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2013",
+      "end_date": "2020"
+    },
+    {
+      "school": "college of pharmacy and biochemistry, zagreb, croatia",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "2010",
+      "end_date": "2016"
+    },
+    {
+      "school": "university of zagreb / sveučilište u zagrebu",
+      "majors": [
+        "biochemistry",
+        "pharmacy"
+      ],
+      "degrees": [
+        "doctor of pharmacy",
+        "doctorates"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "x. gymnasium 'ivan supek'",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005",
+      "end_date": "2009"
+    }
+  ]
+}

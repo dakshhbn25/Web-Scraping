@@ -1,0 +1,558 @@
+{
+  "record_id": "speaker-viennacx-068",
+  "speaker_name": "Pierre Metrailler",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/pierremetrailler/",
+  "scraped_at": "2026-09-21T11:38:51.976259+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "FtE7IL9ssjCQo2dZOT2k7Q_0000",
+    "full_name": "pierre metrailler",
+    "first_name": "pierre",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "metrailler",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/pierremetrailler",
+    "linkedin_username": "pierremetrailler",
+    "linkedin_id": "3147241",
+    "facebook_url": "facebook.com/pierre.metrailler.5",
+    "facebook_username": "pierre.metrailler.5",
+    "facebook_id": null,
+    "twitter_url": "twitter.com/pimetrai",
+    "twitter_username": "pimetrai",
+    "github_url": "github.com/pimetrai",
+    "github_username": "pimetrai",
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "information services",
+    "job_title": "chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "qL2xvlaB3LtT3Dl6p7QbGwBN7gmG",
+    "job_company_name": "onomi",
+    "job_company_website": "onomi.io",
+    "job_company_size": "1-10",
+    "job_company_founded": 2000,
+    "job_company_industry": "information services",
+    "job_company_industry_v2": "information services",
+    "job_company_linkedin_url": "linkedin.com/company/onomihq",
+    "job_company_linkedin_id": "104961204",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "lausanne, vaud, switzerland",
+    "job_company_location_locality": "lausanne",
+    "job_company_location_metro": null,
+    "job_company_location_region": "vaud",
+    "job_company_location_geo": "46.51,6.63",
+    "job_company_location_street_address": "1 avenue du théâtre",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-31",
+    "job_last_verified": "2026-08-06",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": true,
+    "location_address_line_2": "suite 650",
+    "location_postal_code": true,
+    "location_geo": true,
+    "location_last_updated": "2026-08-06",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "clean technology",
+      "consumer internet",
+      "enterprise software",
+      "health care",
+      "mobile"
+    ],
+    "skills": [],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "switzerland"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "onomi",
+          "size": "1-10",
+          "id": "qL2xvlaB3LtT3Dl6p7QbGwBN7gmG",
+          "founded": 2000,
+          "industry": "information services",
+          "industry_v2": "information services",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "1 avenue du théâtre",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "46.51,6.63"
+          },
+          "linkedin_url": "linkedin.com/company/onomihq",
+          "linkedin_id": "104961204",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "onomi.io"
+        },
+        "location_names": [
+          "chicago, illinois, united states"
+        ],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "spotme",
+          "size": "51-200",
+          "id": "1OaloBAfOlgmCX7EHMLfawgiGJod",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "935 west chestnut street",
+            "address_line_2": "suite 650",
+            "postal_code": "60642",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/spotme",
+          "linkedin_id": "1057848",
+          "facebook_url": "facebook.com/spotme",
+          "twitter_url": "twitter.com/spotme",
+          "website": "spotme.com"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland",
+          "chicago, illinois, united states",
+          "new york, new york, united states"
+        ],
+        "end_date": null,
+        "start_date": "2016-11",
+        "title": {
+          "name": "chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "spotme",
+          "size": "51-200",
+          "id": "1OaloBAfOlgmCX7EHMLfawgiGJod",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "935 west chestnut street",
+            "address_line_2": "suite 650",
+            "postal_code": "60642",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/spotme",
+          "linkedin_id": "1057848",
+          "facebook_url": "facebook.com/spotme",
+          "twitter_url": "twitter.com/spotme",
+          "website": "spotme.com"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland"
+        ],
+        "end_date": "2016-11",
+        "start_date": "2014-01",
+        "title": {
+          "name": "chief executive officer europe & group chief financial officer",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "spotme",
+          "size": "51-200",
+          "id": "1OaloBAfOlgmCX7EHMLfawgiGJod",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "935 west chestnut street",
+            "address_line_2": "suite 650",
+            "postal_code": "60642",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/spotme",
+          "linkedin_id": "1057848",
+          "facebook_url": "facebook.com/spotme",
+          "twitter_url": "twitter.com/spotme",
+          "website": "spotme.com"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2008-01",
+        "title": {
+          "name": "chief operations officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "spotme",
+          "size": "51-200",
+          "id": "1OaloBAfOlgmCX7EHMLfawgiGJod",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "935 west chestnut street",
+            "address_line_2": "suite 650",
+            "postal_code": "60642",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/spotme",
+          "linkedin_id": "1057848",
+          "facebook_url": "facebook.com/spotme",
+          "twitter_url": "twitter.com/spotme",
+          "website": "spotme.com"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland"
+        ],
+        "end_date": "2008-12",
+        "start_date": "2004-10",
+        "title": {
+          "name": "system architect",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ntt",
+          "size": "10001+",
+          "id": "6IBEOdtc3vpnLxTQDkDViwKey5og",
+          "founded": 1985,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "chiyoda ku, tokio, japan",
+            "locality": "chiyoda ku",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "5-1 otemachi",
+            "address_line_2": null,
+            "postal_code": "100-8116",
+            "geo": "35.67,139.76"
+          },
+          "linkedin_url": "linkedin.com/company/ntt",
+          "linkedin_id": "92814",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "group.ntt"
+        },
+        "location_names": [],
+        "end_date": "2004-10",
+        "start_date": "2004-03",
+        "title": {
+          "name": "research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "spotme",
+          "size": "51-200",
+          "id": "1OaloBAfOlgmCX7EHMLfawgiGJod",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "935 west chestnut street",
+            "address_line_2": "suite 650",
+            "postal_code": "60642",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/spotme",
+          "linkedin_id": "1057848",
+          "facebook_url": "facebook.com/spotme",
+          "twitter_url": "twitter.com/spotme",
+          "website": "spotme.com"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland"
+        ],
+        "end_date": "2004-02",
+        "start_date": "2001-01",
+        "title": {
+          "name": "software engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "software",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "swiss ski school",
+          "size": "1001-5000",
+          "id": "sWCNoBGhrOo7iSZXJdouugnB82mn",
+          "founded": 1932,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "switzerland",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/schweizer-skischule",
+          "linkedin_id": "36169697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "swiss-ski-school.ch"
+        },
+        "location_names": [],
+        "end_date": "2001-12",
+        "start_date": "1996-01",
+        "title": {
+          "name": "ski instructor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2013",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "linköping university",
+          "type": "post-secondary institution",
+          "id": "whxUCeEMZek7wzWvUhJpKg_0000",
+          "location": {
+            "name": "linköping, östergötland, sweden",
+            "locality": "linköping",
+            "region": "östergötland",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/linkoping-university",
+          "facebook_url": "facebook.com/linkopingsuniversitet",
+          "twitter_url": "twitter.com/liu_universitet",
+          "linkedin_id": "164742",
+          "website": "liu.se",
+          "domain": "liu.se"
+        },
+        "degrees": [],
+        "start_date": "2000-01",
+        "end_date": "2001-12",
+        "majors": [
+          "computer science",
+          "electrical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "epfl",
+          "type": "post-secondary institution",
+          "id": "UfPrlABXOhkRlTTAY5Z7Bw_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/epfl",
+          "facebook_url": "facebook.com/epflcampus",
+          "twitter_url": "twitter.com/epfl",
+          "linkedin_id": "3883",
+          "website": "epfl.ch",
+          "domain": "epfl.ch"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2004",
+        "majors": [
+          "communication"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3147241",
+        "url": "linkedin.com/in/pierremetrailler",
+        "username": "pierremetrailler"
+      },
+      {
+        "network": "github",
+        "id": "MDQ6VXNlcjU4MTI1MA==",
+        "url": "github.com/pimetrai",
+        "username": "pimetrai"
+      },
+      {
+        "network": "facebook",
+        "id": null,
+        "url": "facebook.com/pierre.metrailler.5",
+        "username": "pierre.metrailler.5"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/pimetrai",
+        "username": "pimetrai"
+      },
+      {
+        "network": "stackoverflow",
+        "id": "2415294",
+        "url": "stackoverflow.com/users/2415294",
+        "username": null
+      },
+      {
+        "network": "angellist",
+        "id": null,
+        "url": "angel.co/pierre-metrailler",
+        "username": "pierre-metrailler"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/pierre-metrailler-3a10791",
+        "username": "pierre-metrailler-3a10791"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

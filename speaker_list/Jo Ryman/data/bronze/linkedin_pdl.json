@@ -1,0 +1,560 @@
+{
+  "record_id": "speaker-dubrovnik-115",
+  "speaker_name": "Jo Ryman",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/jo-ryman-7a300b2/",
+  "scraped_at": "2026-09-18T10:23:37.169387+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "zm08nhVkbemAt3xBl2eqEA_0000",
+    "full_name": "jo ryman",
+    "first_name": "jo",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "ryman",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/jo-ryman-7a300b2",
+    "linkedin_username": "jo-ryman-7a300b2",
+    "linkedin_id": "5992107",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "marketing and advertising",
+    "job_title": "marketing consultant;brand & organisational transformation specialist, strategy, capability building",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [],
+    "job_company_id": "CkuJBBvrfillrKb0falnhQCTKkps",
+    "job_company_name": "oxfordsm",
+    "job_company_website": "oxfordsm.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 1987,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/oxfordsm",
+    "job_company_linkedin_id": "52957",
+    "job_company_facebook_url": "facebook.com/oxfordsm-1939759166104326",
+    "job_company_twitter_url": "twitter.com/oxfordsm",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-07-02",
+    "job_last_verified": "2026-07-09",
+    "job_start_date": "2018-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": true,
+    "location_geo": true,
+    "location_last_updated": "2025-07-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "brand architecture",
+      "brand development",
+      "brand equity",
+      "brand management",
+      "business development",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "communication",
+      "culture change",
+      "customer engagement",
+      "customer experience",
+      "customer insight",
+      "easily adaptable",
+      "fast moving consumer goods",
+      "fmcg",
+      "global marketing",
+      "innovation development",
+      "innovation management",
+      "integrated marketing",
+      "international marketing",
+      "line management",
+      "management",
+      "market data",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing operations",
+      "marketing research",
+      "marketing strategy",
+      "matrix management",
+      "organizational development",
+      "positioning",
+      "product innovation",
+      "project management",
+      "segmentation",
+      "shopper marketing",
+      "stakeholder management",
+      "strategy",
+      "trade marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "oxfordsm",
+          "size": "51-200",
+          "id": "CkuJBBvrfillrKb0falnhQCTKkps",
+          "founded": 1987,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/oxfordsm",
+          "linkedin_id": "52957",
+          "facebook_url": "facebook.com/oxfordsm-1939759166104326",
+          "twitter_url": "twitter.com/oxfordsm",
+          "website": "oxfordsm.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2018-09",
+        "title": {
+          "name": "marketing consultant;brand & organisational transformation specialist, strategy, capability building",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "kantar consulting",
+          "size": "501-1000",
+          "id": "hZahucqfVyivCmrqHXYdNQmeRH34",
+          "founded": 2017,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "24-28 bloomsbury way",
+            "address_line_2": null,
+            "postal_code": "wc1a 2px",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/consulting-by-kantar",
+          "linkedin_id": "797397",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2018-08",
+        "start_date": "2014-06",
+        "title": {
+          "name": "partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "effectivebrands holding b.v.",
+          "size": "1-10",
+          "id": "zitU8UwjgQyCHyqlCpBFRQFctAV9",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "74 grote bickersstraat",
+            "address_line_2": null,
+            "postal_code": "1013 ks",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/effectivebrands-holding-b.v.",
+          "linkedin_id": "25095081",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-06",
+        "start_date": "2010-10",
+        "title": {
+          "name": "partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "effectivebrands holding b.v.",
+          "size": "1-10",
+          "id": "zitU8UwjgQyCHyqlCpBFRQFctAV9",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "74 grote bickersstraat",
+            "address_line_2": null,
+            "postal_code": "1013 ks",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/effectivebrands-holding-b.v.",
+          "linkedin_id": "25095081",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-09",
+        "start_date": "2009-01",
+        "title": {
+          "name": "director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2008-04",
+        "title": {
+          "name": "global marketing programme director / consultant",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2007-12",
+        "start_date": "2007-06",
+        "title": {
+          "name": "european marketing excellence director",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2006",
+        "title": {
+          "name": "general marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "birds eye",
+          "size": "501-1000",
+          "id": "JhNYi3Ayaidw5JIrGI8e0QWgQbXX",
+          "founded": null,
+          "industry": "food production",
+          "industry_v2": "food and beverage manufacturing",
+          "location": {
+            "name": "kelly usa, texas, united states",
+            "locality": "kelly usa",
+            "region": "texas",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "29.42,-98.49"
+          },
+          "linkedin_url": "linkedin.com/company/birds-eye-foods",
+          "linkedin_id": "19662",
+          "facebook_url": "facebook.com/birdseyevegetables",
+          "twitter_url": "twitter.com/birdseye",
+          "website": "birdseye.com"
+        },
+        "location_names": [],
+        "end_date": "2007-05",
+        "start_date": "2006-11",
+        "title": {
+          "name": "general marketing manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "restaurants",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2006-11",
+        "start_date": "1996-03",
+        "title": {
+          "name": "marketing manager, brand development",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of oxford",
+          "type": "post-secondary institution",
+          "id": "0DqFeiO1KFc2xNVeC7BnyA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxforduni",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4477",
+          "website": "ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1988-01",
+        "end_date": "1991",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "st nicholas' school fleet",
+          "type": "post-secondary institution",
+          "id": "JPnHQ3tq7fNqtbGPeHAXOw_0000",
+          "location": {
+            "name": "fleet, england, united kingdom",
+            "locality": "fleet",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/st-nicholas-school-fleet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "53089076",
+          "website": "stnicholas.school",
+          "domain": "stnicholas.school"
+        },
+        "degrees": [],
+        "start_date": "1981-01",
+        "end_date": "1988",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "5992107",
+        "url": "linkedin.com/in/jo-ryman-7a300b2",
+        "username": "jo-ryman-7a300b2"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

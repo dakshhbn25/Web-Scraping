@@ -1,0 +1,667 @@
+{
+  "record_id": "speaker-dubrovnik-114",
+  "speaker_name": "Delphine O’Keeffe",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/okeeffedelphine/",
+  "scraped_at": "2026-09-18T10:23:35.129564+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "9W6LnSOw2s2Uef2qp8eb4Q_0000",
+    "full_name": "delphine o'keeffe",
+    "first_name": "delphine",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "o",
+    "last_name": "o'keeffe",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/okeeffedelphine",
+    "linkedin_username": "okeeffedelphine",
+    "linkedin_id": "151608623",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "project director & consultant in pharma",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "CkuJBBvrfillrKb0falnhQCTKkps",
+    "job_company_name": "oxfordsm",
+    "job_company_website": "oxfordsm.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 1987,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/oxfordsm",
+    "job_company_linkedin_id": "52957",
+    "job_company_facebook_url": "facebook.com/oxfordsm-1939759166104326",
+    "job_company_twitter_url": "twitter.com/oxfordsm",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2022-09-20",
+    "job_last_verified": "2026-07-17",
+    "job_start_date": "2022-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "brand development",
+      "brand management",
+      "brand marketing",
+      "budget management",
+      "business development",
+      "business planning",
+      "clm",
+      "competitive analysis",
+      "cross functional collaborations",
+      "cross functional team leadership",
+      "digital marketing",
+      "healthcare",
+      "hospital sales",
+      "key opinion leaders",
+      "kol development",
+      "kol identification",
+      "kol management",
+      "launch experience",
+      "leadership",
+      "management",
+      "market access",
+      "market analysis",
+      "marketing",
+      "marketing strategy",
+      "nhs",
+      "omni channel marketing",
+      "oncology",
+      "operational excellence",
+      "operational planning",
+      "people development",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "planning budgeting and forecasting",
+      "product launch",
+      "product management",
+      "sales",
+      "sales and marketing",
+      "sales effectiveness",
+      "sales growth",
+      "sales management",
+      "sales operations",
+      "salesforce.com",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "team management",
+      "teamwork",
+      "vaccines",
+      "veeva"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "oxfordsm",
+          "size": "51-200",
+          "id": "CkuJBBvrfillrKb0falnhQCTKkps",
+          "founded": 1987,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/oxfordsm",
+          "linkedin_id": "52957",
+          "facebook_url": "facebook.com/oxfordsm-1939759166104326",
+          "twitter_url": "twitter.com/oxfordsm",
+          "website": "oxfordsm.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-09",
+        "title": {
+          "name": "project director & consultant in pharma",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2022-09",
+        "start_date": "2021-04",
+        "title": {
+          "name": "franchise head - neurology & immunology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "reading, england, united kingdom"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2019-11",
+        "title": {
+          "name": "head of marketing - mutiple sclerosis & neurology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2019-11",
+        "start_date": "2017-04",
+        "title": {
+          "name": "brand lead - rheumatology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi pasteur msd",
+          "size": "1001-5000",
+          "id": "zdIr0ESrB2ZqJCZBTXi7CgkRYmuW",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/sanofi-pasteur-msd",
+          "linkedin_id": "14008",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "spmsd.com"
+        },
+        "location_names": [
+          "east london, eastern cape, south africa"
+        ],
+        "end_date": "2017-03",
+        "start_date": "2013-10",
+        "title": {
+          "name": "vaccine development manager (field access)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi pasteur msd",
+          "size": "1001-5000",
+          "id": "zdIr0ESrB2ZqJCZBTXi7CgkRYmuW",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/sanofi-pasteur-msd",
+          "linkedin_id": "14008",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "spmsd.com"
+        },
+        "location_names": [],
+        "end_date": "2013-10",
+        "start_date": "2010-04",
+        "title": {
+          "name": "vaccine territory manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi pasteur msd",
+          "size": "1001-5000",
+          "id": "zdIr0ESrB2ZqJCZBTXi7CgkRYmuW",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/sanofi-pasteur-msd",
+          "linkedin_id": "14008",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "spmsd.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2010-04",
+        "start_date": "2009-04",
+        "title": {
+          "name": "product manager - travel vaccines",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi pasteur msd",
+          "size": "1001-5000",
+          "id": "zdIr0ESrB2ZqJCZBTXi7CgkRYmuW",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/sanofi-pasteur-msd",
+          "linkedin_id": "14008",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "spmsd.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2009-04",
+        "start_date": "2008-07",
+        "title": {
+          "name": "promotional campaign manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi pasteur msd",
+          "size": "1001-5000",
+          "id": "zdIr0ESrB2ZqJCZBTXi7CgkRYmuW",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/sanofi-pasteur-msd",
+          "linkedin_id": "14008",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "spmsd.com"
+        },
+        "location_names": [],
+        "end_date": "2008-07",
+        "start_date": "2007-09",
+        "title": {
+          "name": "assistant product manager - hpv vaccine",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2007",
+        "start_date": "2005",
+        "title": {
+          "name": "global marketing roles",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bd",
+          "size": "10001+",
+          "id": "Ov7XUgvTRAREC0pAb6jgug7FzjI9",
+          "founded": 1897,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "franklin lakes, new jersey, united states",
+            "locality": "franklin lakes",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 becton drive",
+            "address_line_2": null,
+            "postal_code": "07417",
+            "geo": "41.0,-74.20"
+          },
+          "linkedin_url": "linkedin.com/company/bd1",
+          "linkedin_id": "3102",
+          "facebook_url": "facebook.com/bectondickinsonandco",
+          "twitter_url": "twitter.com/bdandco",
+          "website": "bd.com"
+        },
+        "location_names": [],
+        "end_date": "2004-09",
+        "start_date": "2003-09",
+        "title": {
+          "name": "marketing assistant - emea",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "oxford brookes university",
+          "type": "post-secondary institution",
+          "id": "4cLlXMV1osyzDnu6BAEbAw_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordbrookes",
+          "facebook_url": "facebook.com/oxfordbrookes",
+          "twitter_url": "twitter.com/oxford_brookes",
+          "linkedin_id": "13996",
+          "website": "brookes.ac.uk",
+          "domain": "brookes.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2004",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "excelia",
+          "type": "post-secondary institution",
+          "id": "NWy26bAvVt6qjoruUqGILg_0000",
+          "location": {
+            "name": "la rochelle, nouvelle-aquitaine, france",
+            "locality": "la rochelle",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/excelia-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "12611763",
+          "website": "excelia-group.com",
+          "domain": "excelia-group.com"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2004",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "151608623",
+        "url": "linkedin.com/in/okeeffedelphine",
+        "username": "okeeffedelphine"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/delphine-o-keeffe-57b93442",
+        "username": "delphine-o-keeffe-57b93442"
+      },
+      {
+        "network": "linkedin",
+        "id": "151608623",
+        "url": "linkedin.com/in/delphine-moreau-57b93442",
+        "username": "delphine-moreau-57b93442"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

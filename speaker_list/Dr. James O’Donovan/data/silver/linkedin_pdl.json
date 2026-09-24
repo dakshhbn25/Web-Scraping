@@ -1,0 +1,278 @@
+{
+  "record_id": "speaker-dubrovnik-069",
+  "speaker_name": "Dr. James O’Donovan",
+  "linkedin_url": "https://www.linkedin.com/in/doctorodonovan/",
+  "likelihood": 9,
+  "full_name": "james o'donovan",
+  "job_title": "director of research, digital innovation and ai",
+  "industry": "government administration",
+  "current_company": "community health impact coalition",
+  "current_company_website": "chwimpact.org",
+  "current_company_industry": "non-profit organization management",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "academic publishing",
+    "academic writing",
+    "artificial intelligence",
+    "brand awareness",
+    "brand management",
+    "business analysis",
+    "business case development",
+    "business development",
+    "business strategy",
+    "change communications",
+    "clinical research",
+    "clinical skills",
+    "coalition development",
+    "collaborative problem solving",
+    "communication",
+    "complex project management",
+    "content strategy",
+    "cross functional team leadership",
+    "cross team collaboration",
+    "curriculum development",
+    "curriculum mapping",
+    "decision making",
+    "digital health",
+    "digital product development",
+    "direct patient care",
+    "early stage ventures",
+    "education",
+    "educational leadership",
+    "executive management",
+    "global health",
+    "graduate medical education",
+    "grant writing",
+    "graphic design",
+    "health economics",
+    "health promotion",
+    "healthcare",
+    "influencing others",
+    "innovation management",
+    "integrated business planning",
+    "interdisciplinary care",
+    "interdisciplinary collaboration",
+    "international relations",
+    "interpersonal communication",
+    "large language models",
+    "leadership",
+    "management",
+    "marketing strategy",
+    "medical device r&d",
+    "medical devices",
+    "medical education",
+    "medical terminology",
+    "medicine",
+    "negotiation",
+    "networking",
+    "non profit management",
+    "organizational behavior",
+    "organizational culture",
+    "patient assessment",
+    "patient safety",
+    "policy analysis",
+    "presentation skills",
+    "presentations",
+    "product design",
+    "product development",
+    "program design",
+    "project management",
+    "psychiatric care",
+    "public health",
+    "public health education",
+    "publication planning",
+    "publishing",
+    "qualitative research",
+    "quality improvement",
+    "quality patient care",
+    "quantitative research",
+    "research",
+    "research skills",
+    "scientific writing",
+    "scripting",
+    "social sciences",
+    "stakeholder management",
+    "start up ventures",
+    "strategic partnerships",
+    "strategic planning",
+    "strategic policy development",
+    "strategy",
+    "strategy implementation",
+    "team alignment",
+    "team building",
+    "team leadership",
+    "teamwork",
+    "technical advisory",
+    "time management",
+    "video editing",
+    "video post production",
+    "video production"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director of research, digital innovation and ai",
+      "company": "community health impact coalition",
+      "company_industry": "non-profit organization management",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "clinical assistant professor",
+      "company": "icahn school of medicine at mount sinai",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "technical advisory group member",
+      "company": "world health organization",
+      "company_industry": "international affairs",
+      "start_date": "2023-06",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "memory assessment service doctor",
+      "company": "cumbria, northumberland, tyne and wear nhs foundation trust",
+      "company_industry": "mental health care",
+      "start_date": "2023-02",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "director of research",
+      "company": "community health impact coalition",
+      "company_industry": "non-profit organization management",
+      "start_date": "2023-02",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "general practice speciality registrar",
+      "company": "northumbria healthcare nhs foundation trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2021-01",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "tutor",
+      "company": "imperial college london",
+      "company_industry": "research",
+      "start_date": "2019-12",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior house officer - emergency medicine",
+      "company": "leeds teaching hospitals nhs trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2019-04",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "director of research and evaluation",
+      "company": "omni med uganda",
+      "company_industry": null,
+      "start_date": "2017-08",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "clinical tutor",
+      "company": "university of cambridge",
+      "company_industry": "research",
+      "start_date": "2016-09",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "founder",
+      "company": "doctor o'donovan medical education limited",
+      "company_industry": "government administration",
+      "start_date": "2014-06",
+      "end_date": "2026-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ucl",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2023-10",
+      "end_date": "2025-08"
+    },
+    {
+      "school": "stanford university",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "university of oxford",
+      "majors": [
+        "education"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2017-08",
+      "end_date": "2021"
+    },
+    {
+      "school": "harvard university",
+      "majors": [
+        "global health"
+      ],
+      "degrees": [],
+      "start_date": "2013-09",
+      "end_date": "2014"
+    },
+    {
+      "school": "harvard university",
+      "majors": [
+        "global health"
+      ],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2014-12"
+    },
+    {
+      "school": "newcastle university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "newcastle university",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2015"
+    }
+  ]
+}

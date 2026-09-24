@@ -1,0 +1,188 @@
+{
+  "record_id": "speaker-dubrovnik-060",
+  "speaker_name": "Giorgio Mazzoleni",
+  "linkedin_url": "https://www.linkedin.com/in/giorgiomazzoleniphd/",
+  "likelihood": 9,
+  "full_name": "giorgio mazzoleni",
+  "job_title": "head of global medical digital",
+  "industry": "pharmaceuticals",
+  "current_company": "viiv healthcare",
+  "current_company_website": "viivhealthcare.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytics",
+    "artificial intelligence",
+    "assay development",
+    "biochemistry",
+    "bioinformatics",
+    "biotechnology",
+    "business development",
+    "business process management",
+    "business strategy",
+    "cell culture",
+    "change management",
+    "chromatography",
+    "commercialization",
+    "continuous process improvement",
+    "corporate governance",
+    "corporate relocation",
+    "customer engagement",
+    "customer insights",
+    "data analytics",
+    "digital healthcare",
+    "digital strategy",
+    "digital transformation",
+    "early stage startups",
+    "flow cytometry",
+    "fundraising",
+    "generative ai for leadership",
+    "generative ai for management",
+    "immunoassays",
+    "immunology",
+    "in vitro",
+    "large scale business transformation",
+    "leadership",
+    "life sciences",
+    "management",
+    "marketing",
+    "marketing communications",
+    "medical affairs",
+    "medical compliance",
+    "medical devices",
+    "medical governance",
+    "microarray",
+    "molecular biology",
+    "operational risk management",
+    "operations management",
+    "pcr",
+    "personalised medicine",
+    "pharmaceutical industry",
+    "product development",
+    "product management",
+    "project governance",
+    "project management",
+    "protein expression",
+    "protein purification",
+    "proteomics",
+    "purchasing negotiation",
+    "purification",
+    "r&d",
+    "research",
+    "resource management",
+    "strategy",
+    "supplier management",
+    "team leadership",
+    "technology transfer",
+    "virtual teams",
+    "western blotting"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of global medical digital",
+      "company": "viiv healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global medical insights lead, director | development, global medical",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-03",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs operations and governance manager - global medical affairs, rare diseases",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-02",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical project coordinator - global medical affairs, rare diseases",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-03",
+      "end_date": "2017-02",
+      "is_primary": false
+    },
+    {
+      "title": "operations & product manager microtest diagnostics (imperial college spin-out)",
+      "company": "microtest diagnostics limited",
+      "company_industry": null,
+      "start_date": "2011-08",
+      "end_date": "2016-03",
+      "is_primary": false
+    },
+    {
+      "title": "researcher",
+      "company": "px'therapeutics",
+      "company_industry": "biotechnology",
+      "start_date": "2009-04",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "researcher",
+      "company": "università degli studi di perugia",
+      "company_industry": "research",
+      "start_date": "2007-07",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant",
+      "company": "imperial college london",
+      "company_industry": "research",
+      "start_date": "2004-11",
+      "end_date": "2006-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imperial college london",
+      "majors": [
+        "immunology",
+        "molecular biology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "imperial college london",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2006-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "università degli studi di perugia",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2004"
+    }
+  ]
+}

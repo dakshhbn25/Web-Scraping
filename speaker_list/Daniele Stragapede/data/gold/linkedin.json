@@ -1,0 +1,380 @@
+{
+  "record_id": "speaker-viennacx-036",
+  "speaker_name": "Daniele Stragapede",
+  "designation": "Innovation, Data & AI Transformation Senior Director",
+  "company": "chiesi.com",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/danielestragapede/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Chiesi Italia",
+  "linkedin_location": "Milan, Lombardy, Italy, IT",
+  "linkedin_connections": "500",
+  "linkedin_followers": "12139",
+  "linkedin_about": "🌟 𝐏𝐔𝐑𝐏𝐎𝐒𝐄🌟: 𝑻𝒐 𝒊𝒎𝒑𝒓𝒐𝒗𝒆 𝒍𝒊𝒗𝒆𝒔 𝒃𝒚 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒊𝒏𝒈…",
+  "linkedin_about_en": null,
+  "linkedin_languages": "**Italian** (-), **English** (-)",
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Lisa Fazion",
+      "company": "Cairo Communication",
+      "profile_url": "https://it.linkedin.com/in/lfazion"
+    },
+    {
+      "name": "Mirko Rocco",
+      "company": "Lovehoney Group",
+      "profile_url": "https://de.linkedin.com/in/mirkorocco"
+    },
+    {
+      "name": "Miriam Panìco",
+      "company": "Loyal Guru",
+      "profile_url": "https://es.linkedin.com/in/miriampanico"
+    },
+    {
+      "name": "Erika Cesana",
+      "company": "Molteni&C",
+      "profile_url": "https://it.linkedin.com/in/erikacesana"
+    },
+    {
+      "name": "Micol Bissaco",
+      "company": "WeWorld Onlus",
+      "profile_url": "https://it.linkedin.com/in/micolbissaco"
+    },
+    {
+      "name": "Emanuela Baraldi",
+      "company": "Execus",
+      "profile_url": "https://it.linkedin.com/in/emanuelabaraldi"
+    },
+    {
+      "name": "Floriana Picece",
+      "company": "PAYBACK ITALIA",
+      "profile_url": "https://it.linkedin.com/in/florianapicece"
+    },
+    {
+      "name": "Martino Viesti",
+      "company": "EssilorLuxottica",
+      "profile_url": "https://it.linkedin.com/in/martinoviesti"
+    },
+    {
+      "name": "Davide Campofredano",
+      "company": "Cavallo Consulting & Partners",
+      "profile_url": "https://it.linkedin.com/in/davidecampofredano"
+    },
+    {
+      "name": "Nicola Arcieri",
+      "company": "MagicPrices",
+      "profile_url": "https://it.linkedin.com/in/nicolaarcieri"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "chiesi italia",
+  "linkedin_current_company_website": "chiesi.it",
+  "linkedin_skills": [
+    "account management",
+    "advertising",
+    "artificial intelligence",
+    "b2b marketing",
+    "business development",
+    "business ethics",
+    "business intelligence",
+    "business strategy",
+    "creating a positive work environment",
+    "creative problem solving",
+    "crm",
+    "customer engagement",
+    "customer experience",
+    "customer insight",
+    "data governance",
+    "decision making",
+    "digital marketing",
+    "digital strategy",
+    "diversity and inclusion",
+    "e commerce",
+    "email marketing",
+    "growth strategies",
+    "innovation management",
+    "it governance",
+    "lead generation",
+    "leadership",
+    "lingua inglese",
+    "market analysis",
+    "marketing",
+    "marketing management",
+    "marketing online",
+    "meeting deadlines",
+    "mobile devices",
+    "mobile marketing",
+    "motivating people",
+    "negotiation",
+    "new business development",
+    "omni channel marketing",
+    "online advertising",
+    "online marketing",
+    "problem solving",
+    "professional networking",
+    "profitable growth",
+    "project management",
+    "public speaking",
+    "risk management",
+    "sales growth",
+    "sales management",
+    "search engine optimization",
+    "sem",
+    "seo",
+    "social media marketing",
+    "team leadership",
+    "team management",
+    "technology commercialization",
+    "technology marketing",
+    "web marketing"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "innovation, data & ai transformation senior director",
+      "company": "chiesi italia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "innovation & customer experience senior director",
+      "company": "chiesi italia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "innovation & customer experience director",
+      "company": "chiesi italia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": "2024-07",
+      "is_primary": false
+    },
+    {
+      "title": "customer insights and engagement lead - digital & omnichannel | customer experience | data science",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-10",
+      "end_date": "2022-05",
+      "is_primary": false
+    },
+    {
+      "title": "integrated customer engagement (ice) - digital & omnichannel | customer experience",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-06",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "customer excellence & digital strategy - launch of italian customer experience practice",
+      "company": "kpmg italy",
+      "company_industry": "management consulting",
+      "start_date": "2016-02",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "manager digital strategy & transformation",
+      "company": "alkemy group",
+      "company_industry": "management consulting",
+      "start_date": "2013-07",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder & partner",
+      "company": "chepizza app",
+      "company_industry": null,
+      "start_date": "2012-05",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "chief digital officer",
+      "company": "media lives",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-04",
+      "end_date": "2013-07",
+      "is_primary": false
+    },
+    {
+      "title": "business development executive, digital",
+      "company": "artefact",
+      "company_industry": "management consulting",
+      "start_date": "2011-10",
+      "end_date": "2012-04",
+      "is_primary": false
+    },
+    {
+      "title": "digital sales manager",
+      "company": "advit internet vertical advertising",
+      "company_industry": null,
+      "start_date": "2009-11",
+      "end_date": "2011-10",
+      "is_primary": false
+    },
+    {
+      "title": "management consultant, digital practice",
+      "company": "kube partners",
+      "company_industry": "computer software",
+      "start_date": "2008-01",
+      "end_date": "2009-11",
+      "is_primary": false
+    },
+    {
+      "title": "business analyst | digital consultant",
+      "company": "studio set industrial advertising",
+      "company_industry": null,
+      "start_date": "2003-01",
+      "end_date": "2005-12",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "mip politecnico di milano",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "insead",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "sda bocconi",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2018",
+      "end_date": "2018"
+    },
+    {
+      "school": "consulting",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "sda bocconi",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "faro - faculdade de rondônia",
+      "majors": [
+        "acting"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2012-12"
+    },
+    {
+      "school": "sole 24 ore business school",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2009",
+      "end_date": "2009"
+    },
+    {
+      "school": "dale carnegie training",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "sole 24 ore business school",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "sole 24 ore business school",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2009-12"
+    },
+    {
+      "school": "sole 24 ore business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2009-01"
+    },
+    {
+      "school": "czech technical university in prague",
+      "majors": [
+        "economics",
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "university of illinois chicago",
+      "majors": [
+        "computer engineering",
+        "engineering",
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "politecnico di milano",
+      "majors": [
+        "engineering"
+      ],
+      "degrees": [
+        "master of engineering",
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2007"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

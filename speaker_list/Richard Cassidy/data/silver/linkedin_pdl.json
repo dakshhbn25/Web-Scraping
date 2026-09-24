@@ -1,0 +1,212 @@
+{
+  "record_id": "speaker-dubrovnik-030",
+  "speaker_name": "Richard Cassidy",
+  "linkedin_url": "https://www.linkedin.com/in/cassidyrichard/",
+  "likelihood": 9,
+  "full_name": "richard c",
+  "job_title": "senior vice president, rx+ business accelerator",
+  "industry": "pharmaceuticals",
+  "current_company": "astellas pharma",
+  "current_company_website": "astellas.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analysis",
+    "business acumen",
+    "business analysis",
+    "business development",
+    "business planning",
+    "business process",
+    "business relationship management",
+    "business strategy",
+    "change management",
+    "commercialization",
+    "communication",
+    "cross cultural communication skills",
+    "cross cultural teams",
+    "cross functional team leadership",
+    "customer relations",
+    "customer satisfaction",
+    "customer service",
+    "decision making",
+    "digital health",
+    "emerging technologies",
+    "entrepreneurship",
+    "financial analysis",
+    "global marketing",
+    "healthcare",
+    "innovation management",
+    "leadership",
+    "lifesciences",
+    "management",
+    "market analysis",
+    "marketing strategy",
+    "medical devices",
+    "mergers and acquisitions",
+    "negotiation",
+    "ophthalmology",
+    "pharmaceutical industry",
+    "product launch",
+    "product management",
+    "project management",
+    "project planning",
+    "project portfolio management",
+    "start ups",
+    "stem cells",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "strategy development",
+    "team leadership",
+    "teamwork",
+    "venture capital"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior vice president, rx+ business accelerator",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "hlth community thought leader",
+      "company": "hlth inc.",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "digitx partners",
+      "company_industry": "venture capital & private equity",
+      "start_date": "2021-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of operations & commercialization",
+      "company": "astellas institute for regenerative medicine",
+      "company_industry": null,
+      "start_date": "2018-10",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "executive director corporate planning",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-04",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "director corporate planning",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-05",
+      "end_date": "2016-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, corporate strategy & planning",
+      "company": "astellas pharma europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-01",
+      "end_date": "2014-05",
+      "is_primary": false
+    },
+    {
+      "title": "strategic relations director",
+      "company": "smithbayes",
+      "company_industry": "computer software",
+      "start_date": "2007-09",
+      "end_date": "2008-09",
+      "is_primary": false
+    },
+    {
+      "title": "strategic relations director",
+      "company": "ge healthcare",
+      "company_industry": "hospital & health care",
+      "start_date": "2005-11",
+      "end_date": "2007-08",
+      "is_primary": false
+    },
+    {
+      "title": "portfolio manager",
+      "company": "ge healthcare",
+      "company_industry": "hospital & health care",
+      "start_date": "2001-02",
+      "end_date": "2005-10",
+      "is_primary": false
+    },
+    {
+      "title": "international brand manager",
+      "company": "amersham",
+      "company_industry": null,
+      "start_date": "1999-01",
+      "end_date": "2001-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "london business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "saïd business school, university of oxford",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "university of cambridge",
+      "majors": [
+        "design",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "1995-08",
+      "end_date": "1996-07"
+    },
+    {
+      "school": "university of cambridge",
+      "majors": [
+        "design",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "1995-01",
+      "end_date": "1996-12"
+    },
+    {
+      "school": "the university of edinburgh",
+      "majors": [
+        "chemical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "1990-10",
+      "end_date": "1994-07"
+    },
+    {
+      "school": "yis",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

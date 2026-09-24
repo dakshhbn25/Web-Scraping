@@ -1,0 +1,111 @@
+{
+  "record_id": "speaker-dubrovnik-090",
+  "speaker_name": "Nicholas Rosen",
+  "linkedin_url": "https://www.linkedin.com/in/nicholas-rosen/",
+  "likelihood": 9,
+  "full_name": "nicholas rosen",
+  "job_title": "founder & chief executive officer",
+  "industry": "computer software",
+  "current_company": "exaris solutions",
+  "current_company_website": "exaris-solutions.de",
+  "current_company_industry": "research",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "clinical pathways",
+    "clinical research",
+    "din iso zertifizierung",
+    "gesundheitsmanagement",
+    "gesundheitspflege",
+    "gesundheitswesen",
+    "health care management",
+    "hipaa",
+    "klinische forschung",
+    "medicine",
+    "medizin",
+    "medizinische informationstechnologie",
+    "projektmanagement"
+  ],
+  "interests": [
+    "civil rights and social action",
+    "health",
+    "human rights",
+    "politics"
+  ],
+  "experience": [
+    {
+      "title": "founder & chief executive officer",
+      "company": "exaris solutions",
+      "company_industry": "research",
+      "start_date": "2021-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "pm data driven hcp consulting",
+      "company": "deutsche apotheker- und ärztebank - apobank",
+      "company_industry": "banking",
+      "start_date": "2019-02",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "business development - healthcare analyst",
+      "company": "deutsche apotheker- und ärztebank - apobank",
+      "company_industry": "banking",
+      "start_date": "2018-01",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "trainee business analyst",
+      "company": "deutsche apotheker- und ärztebank - apobank",
+      "company_industry": "banking",
+      "start_date": "2016-06",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "salesforce analyst",
+      "company": "ge healthcare",
+      "company_industry": "hospital & health care",
+      "start_date": "2015-10",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "werkstudent",
+      "company": "klinikum duisburg ggmbh",
+      "company_industry": "hospital & health care",
+      "start_date": "2011-05",
+      "end_date": "2014-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "apollon hochschule der gesundheitswirtschaft",
+      "majors": [],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "hochschule niederrhein",
+      "majors": [
+        "health care",
+        "management"
+      ],
+      "degrees": [
+        "bachelor of applied science",
+        "bachelors"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2013"
+    }
+  ]
+}

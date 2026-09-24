@@ -1,0 +1,174 @@
+{
+  "record_id": "speaker-viennacx-007",
+  "speaker_name": "Dr. Marion C. Legler",
+  "linkedin_url": "https://www.linkedin.com/in/dr-marion-c-legler-b389a7150/",
+  "likelihood": 9,
+  "full_name": "marion legler",
+  "job_title": "head of pharma decision science & ai",
+  "industry": "pharmaceuticals",
+  "current_company": "bayer",
+  "current_company_website": "bayer.com",
+  "current_company_industry": "chemicals",
+  "location_country": "germany",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "data analysis",
+    "data science",
+    "data strategy",
+    "datenanalyse",
+    "englisch",
+    "machine learning",
+    "microsoft excel",
+    "politikberatung",
+    "project management",
+    "projektmanagement",
+    "python",
+    "r",
+    "research",
+    "statistik",
+    "strategie",
+    "strategische beratung",
+    "volkswirtschaftlihche gesamtrechnungen",
+    "wirtschaftswissenschaften"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of pharma decision science & ai",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2022-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of decision science & adv analytics | medical affairs, pharmacovigilance & regulatory affairs",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-06",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant data science",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2018-02",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior researcher @ health economy research",
+      "company": "wifor institute",
+      "company_industry": "research",
+      "start_date": "2013-10",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "researcher @ zentrum für management im gesundheitswesen",
+      "company": "universität für weiterbildung krems",
+      "company_industry": "higher education",
+      "start_date": "2012-12",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "akademischer tutor",
+      "company": "wu (vienna university of economics and business)",
+      "company_industry": "higher education",
+      "start_date": "2012-09",
+      "end_date": "2013-02",
+      "is_primary": false
+    },
+    {
+      "title": "volontariat",
+      "company": "austrian federal economic chamber",
+      "company_industry": "management consulting",
+      "start_date": "2012-08",
+      "end_date": "2012-09",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "economica institut für wirtschaftsforschung",
+      "company_industry": "research",
+      "start_date": "2012-01",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "niederosterreichische landesregierung",
+      "company_industry": null,
+      "start_date": "2011-08",
+      "end_date": "2011-11",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "federation of austrian industries",
+      "company_industry": "non-profit organization management",
+      "start_date": "2011-01",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "sozialversicherung der selbständigen",
+      "company_industry": "insurance",
+      "start_date": "2008-11",
+      "end_date": "2010-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of bremen",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018-01"
+    },
+    {
+      "school": "university of bremen",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01-01",
+      "end_date": "2018-12-31"
+    },
+    {
+      "school": "wu (vienna university of economics and business)",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2011-01-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "uppsala university",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2010-01-01",
+      "end_date": null
+    },
+    {
+      "school": "wu (vienna university of economics and business)",
+      "majors": [],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2008-01-01",
+      "end_date": "2011"
+    }
+  ]
+}

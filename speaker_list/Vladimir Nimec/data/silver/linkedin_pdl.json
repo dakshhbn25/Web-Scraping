@@ -1,0 +1,198 @@
+{
+  "record_id": "speaker-viennacx-035",
+  "speaker_name": "Vladimir Nimec",
+  "linkedin_url": "https://www.linkedin.com/in/vnimec/?skipRedirect=true",
+  "likelihood": 9,
+  "full_name": "vladimir nimec",
+  "job_title": "head of applied ai solutions",
+  "industry": "hospital & health care",
+  "current_company": "daiichi sankyo europe gmbh",
+  "current_company_website": "daiichi-sankyo.eu",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile development",
+    "agile methodologies",
+    "ai strategy",
+    "amazon redshift",
+    "amazon web services",
+    "analytical skills",
+    "analytics",
+    "apache spark",
+    "artificial intelligence",
+    "azure databricks",
+    "bid preparation",
+    "big data",
+    "c",
+    "ci/cd",
+    "cloud computing",
+    "communication",
+    "consulting",
+    "critical thinking",
+    "data analysis",
+    "data architecture",
+    "data engineering",
+    "data management",
+    "data modeling",
+    "data quality",
+    "data strategies",
+    "databircks",
+    "delta lake",
+    "devops",
+    "digital transformation",
+    "extract",
+    "general data protection regulation",
+    "generative ai",
+    "git",
+    "image processing",
+    "keras",
+    "key performance indicators",
+    "latex",
+    "leadership",
+    "load",
+    "machine learning",
+    "microsoft azure",
+    "mlops",
+    "postgresql",
+    "problem solving",
+    "product leadership",
+    "product strategy",
+    "project management",
+    "python",
+    "python",
+    "pytorch",
+    "regulatory compliance",
+    "snowflake",
+    "solution architecture",
+    "sql",
+    "strategic planning",
+    "tableau",
+    "team leadership",
+    "team management",
+    "technical leadership",
+    "transform"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of applied ai solutions",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director data & ai",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-08",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "data science and data engineering senior manager",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-12",
+      "end_date": "2024-08",
+      "is_primary": false
+    },
+    {
+      "title": "data engineer - architect",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-06",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior analyst - data & ai",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2020-03",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "independent consulting",
+      "company": "udacity",
+      "company_industry": "e-learning",
+      "start_date": "2019-02",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "machine learning engineer",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2018-01",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist",
+      "company": "orno",
+      "company_industry": "restaurants",
+      "start_date": "2016-02",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "lidl lietuva",
+      "company_industry": "retail",
+      "start_date": "2013-02",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior specialist",
+      "company": "kauno savivaldybė",
+      "company_industry": "government administration",
+      "start_date": "2012",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "chief consultant",
+      "company": "ecocentras npo",
+      "company_industry": null,
+      "start_date": "2012",
+      "end_date": "2012",
+      "is_primary": false
+    },
+    {
+      "title": "founder & chief executive officer",
+      "company": "eirene",
+      "company_industry": "information technology and services",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "architect",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2009",
+      "end_date": "2012",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "vilnius tech - vilnius gediminas technical university",
+      "majors": [
+        "architecture",
+        "engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    }
+  ]
+}

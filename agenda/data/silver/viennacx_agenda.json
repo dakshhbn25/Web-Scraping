@@ -1,0 +1,908 @@
+[
+  {
+    "session_title": "Opening remarks",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "09:00 AM",
+    "end_time": "09:10 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Dario Safaric",
+        "designation": "Chairman - NEXT Pharma Summit",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Interactive Opening: Pharma CX & AI Town Hall for One Customer. One Experience. Are We Ready?",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "09:10 AM",
+    "end_time": "09:50 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Itziar Canamasas",
+        "designation": "Global Head of Oncology, SVP",
+        "company": "Boehringer Ingelheim"
+      },
+      {
+        "speaker_name": "Neyran Erlevent",
+        "designation": "Global Head of Integrated Experience and Operations",
+        "company": "Roche"
+      },
+      {
+        "speaker_name": "Claude Broudic",
+        "designation": "GPS operations Director",
+        "company": "Servier"
+      },
+      {
+        "speaker_name": "Dr Azmain Chowdhury",
+        "designation": "Medical Doctor",
+        "company": "NHS"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Riding the AI Wave: Mastering the Conditions, Not Just the Board",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "09:50 AM",
+    "end_time": "10:10 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Neyran Erlevent",
+        "designation": "Global Head of Integrated Experience and Operations",
+        "company": "Roche"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Future of Pharma Engagement – Building Trusted HCP Partnerships Through Customer Experience and AI",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "10:10 AM",
+    "end_time": "10:30 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Berk Kiran",
+        "designation": "Vice President, Head of Commercial Operations Specialty Medicine Europe",
+        "company": "Daiichi Sankyo"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "AI Won't Wait. Neither Will Your Customers. How to Transform Faster Than Customer Expectations.",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "11:00 AM",
+    "end_time": "11:25 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Phoebos Stergiou",
+        "designation": "Head of Product Management, Omnichannel Customer Engagement, Digital Innovation, Senior Director",
+        "company": "Gilead"
+      },
+      {
+        "speaker_name": "David Brown",
+        "designation": "Snr Director, Global Head of Data, Analytics & AI",
+        "company": "Viiv Healthcare"
+      },
+      {
+        "speaker_name": "Eva Martins",
+        "designation": "Global Head Launch and Commercialization Excellence",
+        "company": "Sanofi"
+      },
+      {
+        "speaker_name": "Vangelis Oikonomou",
+        "designation": "Director, International Commercial Excellence",
+        "company": "Novartis"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Next 5 Years of Pharma Engagement: From CRM Systems to Scientific Loyalty Engines",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "11:05 AM",
+    "end_time": "11:25 AM",
+    "track": "AI STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Yavor Angelov",
+        "designation": "Senior Product Owner CRM",
+        "company": "Daiichi Sankyo"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Oxford Debate: Should Pharma Stop Visiting HCPs?",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "11:25 AM",
+    "end_time": "11:50 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Almudena Fraga",
+        "designation": "Director Customer Engagement Plans - Commercial Transformation, International Operations",
+        "company": "Novo Nordisk"
+      },
+      {
+        "speaker_name": "Andrew Binns",
+        "designation": "Director",
+        "company": "Poke"
+      },
+      {
+        "speaker_name": "Yacin Marzouki",
+        "designation": "Founder | independent pharma advisor",
+        "company": "Biond health"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Pharma’s Future Commercial Leader, Builder, Orchestrator or AI Manager?",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "11:50 AM",
+    "end_time": "12:15 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Nataliya Andreychuk",
+        "designation": "Co-founder & CEO",
+        "company": "Viseven"
+      },
+      {
+        "speaker_name": "Enrique Galicia",
+        "designation": "VP Global Commercial Excellence",
+        "company": "Bial"
+      },
+      {
+        "speaker_name": "Micheál O’Toole",
+        "designation": "Senior Director, Global Sales Force Excellence",
+        "company": "AstraZeneca"
+      },
+      {
+        "speaker_name": "Gökhan Salmanoglu",
+        "designation": "Commercial Excellence and AI Transformation Leader, International Markets",
+        "company": "Pfizer"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Your Next Colleague Isn't Human: The Human Touch. Supercharged",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "12:15 PM",
+    "end_time": "12:35 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Graham Addison",
+        "designation": "Senior Director, Global Launch & Marketing Excellence",
+        "company": "AstraZeneca"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Is It Time to Retire the \"M\" in CRM? The New HCP Equation: Relationships Before Management.",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "12:35 PM",
+    "end_time": "01:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Simon Cox",
+        "designation": "Commercial Excellence Director",
+        "company": "Sobi"
+      },
+      {
+        "speaker_name": "Sam Rolfe",
+        "designation": "Sales Director, EMEA",
+        "company": "Exeevo"
+      },
+      {
+        "speaker_name": "Gonzalo Llerena",
+        "designation": "Global Commercial Excellence Lead",
+        "company": "Woerwag Pharma"
+      },
+      {
+        "speaker_name": "Dr Dev Gakhar",
+        "designation": "NHS Clinical Entrepreneur",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Market Has Moved. Has Your Launch Plan? How AI Turns Signals into Action",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "02:00 PM",
+    "end_time": "02:25 PM",
+    "track": "AI STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Yariv Hefez",
+        "designation": "Former Senior Vice President Head Global Business Franchise Oncology",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "From Customer-Led to AI-Led: Are We Losing the Customer in the Race to Automate?",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "02:00 PM",
+    "end_time": "02:25 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Lorena Cabré",
+        "designation": "Global Digital & Content Strategy Lead / AI powered GTM Content Models",
+        "company": "Roche"
+      },
+      {
+        "speaker_name": "Daniele Stragapede",
+        "designation": "Innovation, Data & AI Transformation Senior Director",
+        "company": "Chiesi"
+      },
+      {
+        "speaker_name": "Lisa Schenk",
+        "designation": "Sales Force Effectiveness Manager DACH",
+        "company": "Aspen"
+      },
+      {
+        "speaker_name": "Darren Feenan",
+        "designation": "Senior Strategist",
+        "company": "Kanga Health"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Rep Paradox. Why AI Makes Every HCP Conversation More Valuable—and More Vulnerable.",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "02:25 PM",
+    "end_time": "02:50 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Jan Zimmermann",
+        "designation": "Associate Director Customer Excellence & Operations",
+        "company": "Shionogi"
+      },
+      {
+        "speaker_name": "Luca Frangoni",
+        "designation": "Global Head of Customer Channel Solutions",
+        "company": "Boehringer Ingelheim"
+      },
+      {
+        "speaker_name": "Debbie Young",
+        "designation": "Multichannel Strategy and Customer Insights Director",
+        "company": "Otsuka"
+      },
+      {
+        "speaker_name": "Yukti Khurana",
+        "designation": "Director, Medical Insights & Impact",
+        "company": "Astellas"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Scaling Pharma Commercial Execution with AI Co-Workers — Live Demo from Field Teams to the C-Suite",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "02:30 PM",
+    "end_time": "02:55 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "TBA",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "03:00 PM",
+    "end_time": "03:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Augmented Marketer: Rebuilding Pharma Talent for the AI-Native Customer Experience",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "02:50 PM",
+    "end_time": "03:10 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Enrique Galicia",
+        "designation": "VP Global Commercial Excellence",
+        "company": "Bial"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Award-Winning Vitiligo Mirror - where science, AI, AR and human empathy combine forces",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "03:10 PM",
+    "end_time": "03:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Justus Le Roy",
+        "designation": "Director Digital Marketing & Engagement Strategy, Incyte International",
+        "company": "Incyte"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "With Great AI Comes Great Governance. From Infinite Content to Trusted HCP Content",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "04:00 PM",
+    "end_time": "04:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Shivani Parikh",
+        "designation": "Head, Content & Channel Enablement",
+        "company": "Astellas"
+      },
+      {
+        "speaker_name": "Sihame Bahri",
+        "designation": "Global Omnichannel Engagement Lead",
+        "company": "CSL"
+      },
+      {
+        "speaker_name": "Huw Jenkins",
+        "designation": "Director, Global Content Strategy",
+        "company": "Astellas"
+      },
+      {
+        "speaker_name": "Sebastian Lipp",
+        "designation": "Head of Content Platforms",
+        "company": "Takeda"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "When HCPs & Patients Ask AI: The New Rules of Pharma Discovery. From SEO to AEO and GEO: how pharma can build visibility, relevance and trust across brands, products and health information",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "04:20 PM",
+    "end_time": "04:40 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Julia Azfar",
+        "designation": "SVP Sales & Marketing",
+        "company": "Brain Station"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "VALUE UNLOCKED: An Executive Masterclass for Building Pharma's Next Commercial Advantage",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "04:00 PM",
+    "end_time": "05:30 PM",
+    "track": "AI STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Wayne Simmons",
+        "designation": "Founder & Author",
+        "company": "The Customer Excellence Agency"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "TBA",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "04:40 PM",
+    "end_time": "05:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "From Static Segmentation to Living Customer engagement strategies - Why pharma needs AI-enabled agility, and why AI alone is not enough",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "05:00 PM",
+    "end_time": "05:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Ashish Saxena",
+        "designation": "Senior Global Solution Manager",
+        "company": "Boehringer Ingelheim"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Publicant ergo sunt. Don’t let your segmentation and targeting be philosophical. How public data sources improve and scale HCP engagement",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "05:20 PM",
+    "end_time": "05:40 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Nico Renner",
+        "designation": "Senior Product Manager, Hematology & Oncology",
+        "company": "BeOne Medicines"
+      },
+      {
+        "speaker_name": "Nicholas Rosen",
+        "designation": "Founder & CEO",
+        "company": "Exaris Solutions"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "NEXT Voices: Day 1 Awards & Live Q&A",
+    "event_name": "ViennaCX",
+    "day": "Day 1",
+    "start_time": "05:40 PM",
+    "end_time": "06:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "From Alignment to Accountability. The playbook for enterprise-wide HCP engagement.",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "09:00 AM",
+    "end_time": "09:25 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Mateja Vrtacnik Mandic",
+        "designation": "Country Head Oncology Portugal a.i.",
+        "company": "Takeda"
+      },
+      {
+        "speaker_name": "Yariv Hefez",
+        "designation": "Former Senior Vice President Head Global Business Franchise Oncology",
+        "company": null
+      },
+      {
+        "speaker_name": "Gökhan Salmanoglu",
+        "designation": "Commercial Excellence and AI Transformation Leader, International Markets",
+        "company": "Pfizer"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Year 1 A.O. (After Optimization) - CX Leadership in the Age of Empowered Intelligent Systems",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "09:25 AM",
+    "end_time": "09:45 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Morgwn Shaw",
+        "designation": "Associate Director - Omnichannel Experience, Strategy, Planning & Production",
+        "company": "Bristol Myers Squib"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Think Different. Not Artificial. Designing Customer Experiences HCPs Actually Want.",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "09:45 AM",
+    "end_time": "10:10 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Sylvia Park-Ekecs",
+        "designation": "Global Head of Consumer Experience",
+        "company": "Sanofi"
+      },
+      {
+        "speaker_name": "Djordje Cakic",
+        "designation": "Customer Experience and Omnichannel Engagement Lead, CEETRIS region",
+        "company": "Roche"
+      },
+      {
+        "speaker_name": "Naira Marin",
+        "designation": "Head of Global Marketing Excellence",
+        "company": "B.Braun"
+      },
+      {
+        "speaker_name": "Tobias Bernard",
+        "designation": "Global Digital Marketing",
+        "company": "Tillotts Pharma"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Your customer isn't on a journey. They're inside an influence system",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "10:10 AM",
+    "end_time": "10:30 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Ewa Nuckey",
+        "designation": "Senior Director, Commercial and Customer Experience Strategy, Digitas Health LDN",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "What 300+ Hours in the Cockpit Taught Me About AI, CX and Leadership",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "11:00 AM",
+    "end_time": "11:20 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Vangelis Oikonomou",
+        "designation": "Director, International Commercial Excellence",
+        "company": "Novartis"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "CX Measurement / Voice of the Customer at Bayer: From the sidelines to the heart of value creation",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "11:20 AM",
+    "end_time": "11:40 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Florian Gäng",
+        "designation": "Director, Global Customer Experience Strategy",
+        "company": "Bayer"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Performance Era: Redesigning Work to Win",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "11:40 AM",
+    "end_time": "12:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Alyssa Fenoglio",
+        "designation": "Founder & Strategic Advisor",
+        "company": "The Human Algorithm Advisory"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Oxford Debate: License to Engage: Should AI Agents Make More Customer Engagement Decisions Than Humans?",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "12:00 PM",
+    "end_time": "12:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Lisa Schenk",
+        "designation": "Sales Force Effectiveness Manager DACH",
+        "company": "Aspen Pharma"
+      },
+      {
+        "speaker_name": "Emilien Le Flahat",
+        "designation": "Commercial Advanced Analytics & AI Product Line Owner",
+        "company": "Sanofi"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "The Employee of the Year Might Be an AI Agent. What Happens When Your Best HCP Engagement Partner Isn't Human?",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "12:20 PM",
+    "end_time": "12:40 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Andreas Mitsakis",
+        "designation": "Omnichannel Execution Lead Central & South Europe Cluster",
+        "company": "Sanofi"
+      },
+      {
+        "speaker_name": "Nadia Hergli",
+        "designation": "Former VP Medical Affairs International",
+        "company": null
+      },
+      {
+        "speaker_name": "Vladimir Nimec",
+        "designation": "Head of Applied AI Solutions",
+        "company": null
+      },
+      {
+        "speaker_name": "Romika Bhowmick",
+        "designation": "Former Head of External Digital Channels",
+        "company": "Teva"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Two Worlds, One Standard: Elevating Digital HCP Journeys with Consumer-Grade Excellence.",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "12:40 PM",
+    "end_time": "01:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Madicken Baltzer Skovholm",
+        "designation": "Associate Director & Head of Global Content Excellence",
+        "company": "ALK"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Lunch break & Networking",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "01:00 PM",
+    "end_time": "02:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "Beyond Tools: The Hard Truth About Making AI Work in Commercial Pharma",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "02:00 PM",
+    "end_time": "02:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Neel Edeling",
+        "designation": "Sr. AI Manager, AI & Compliance",
+        "company": "Opella"
+      },
+      {
+        "speaker_name": "Guilherme Duarte",
+        "designation": "Senior Data Management & AI Lead",
+        "company": "Novo Nordisk"
+      },
+      {
+        "speaker_name": "Khwaja Muhammad Saquib",
+        "designation": "Content Strategy Manager",
+        "company": "GSK"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "AI & People. Balancing the Light and Shadow of AI - for the most human outcome",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "02:20 PM",
+    "end_time": "02:40 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "David Wilson",
+        "designation": "Global Digital Transformation & Innovation Director",
+        "company": "Kyowa Kirin"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "TBA",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "02:40 PM",
+    "end_time": "03:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "From Listening to Impact: Building the Omnichannel Customer Experience Ecosystem in the Age of AI",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "03:00 PM",
+    "end_time": "03:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Daniele Stragapede",
+        "designation": "Innovation, Data & AI Transformation Senior Director",
+        "company": "Chiesi"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "TBA",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "03:20 PM",
+    "end_time": "03:40 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  },
+  {
+    "session_title": "NEXT Voices: Day 2 Awards & Live Q&A",
+    "event_name": "ViennaCX",
+    "day": "Day 2",
+    "start_time": "03:40 PM",
+    "end_time": "04:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:58.582149+00:00"
+  }
+]

@@ -1,0 +1,265 @@
+{
+  "record_id": "speaker-viennacx-057",
+  "speaker_name": "Enrique Galicia",
+  "linkedin_url": "https://www.linkedin.com/in/enriquegalicia/",
+  "likelihood": 9,
+  "full_name": "enrique galicia",
+  "job_title": "vice president global commercial excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "bial",
+  "current_company_website": "bial.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "portugal",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology industry",
+    "brand development",
+    "brand management",
+    "business coaching",
+    "business development",
+    "business insights",
+    "business strategy",
+    "cardiovascular disease",
+    "competitive analysis",
+    "corporate governance",
+    "cross functional team leadership",
+    "customer relationship management",
+    "digital marketing",
+    "digital strategy",
+    "enterprise marketing",
+    "entrepreneurship",
+    "executive coaching",
+    "executive leadership",
+    "field force effectiveness",
+    "global health",
+    "global marketing",
+    "go to market strategy",
+    "healthcare",
+    "international marketing",
+    "kol development",
+    "latin american business",
+    "latin american markets",
+    "market access",
+    "market analysis",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "mental health",
+    "negotiation",
+    "neuroscience",
+    "new business development",
+    "online marketing",
+    "oral communication",
+    "p&l management",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "pricing",
+    "product development",
+    "product launch",
+    "product launches",
+    "product life cycle management",
+    "product lifecycle management",
+    "product management",
+    "product marketing",
+    "sales effectiveness",
+    "segmentation",
+    "strategic partnerships",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "strategy development",
+    "team leadership"
+  ],
+  "interests": [
+    "children",
+    "environment",
+    "health"
+  ],
+  "experience": [
+    {
+      "title": "vice president global commercial excellence",
+      "company": "bial",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global marketing & launch excellence director (rare diseases & oncology)",
+      "company": "ipsen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-06",
+      "end_date": "2024-05",
+      "is_primary": false
+    },
+    {
+      "title": "strategic marketing consultant",
+      "company": "ipsen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "dysport relaunch mission lead",
+      "company": "ipsen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-05",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "rare disease (rozimab) commercial & marketing global lead",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-01",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "global strategic brand & portfolio planning head (global marketing excellence team)",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-01",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "latin america business unit head - neurology",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2016-12",
+      "is_primary": false
+    },
+    {
+      "title": "latina commercial director & international markets lead",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-09",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing head mexico & business development latam lead",
+      "company": "m8 pharmaceuticals, inc",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-12",
+      "end_date": "2012-09",
+      "is_primary": false
+    },
+    {
+      "title": "business unit manager / cardiometabolism group",
+      "company": "laboratorios liomont",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-01",
+      "end_date": "2009-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior marketing manager / cardiovascular franchise",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-07",
+      "end_date": "2008-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager / gastrointestinal team",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-01",
+      "end_date": "2007-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager / neuroscience franchise",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-01",
+      "end_date": "2007-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager / neuroscience team",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-01",
+      "end_date": "2005-12",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager / antibiotics & antivirals team + neuroscience team",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1999-05",
+      "end_date": "2001-12",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative and marketing assistant / rare & immunology diseases",
+      "company": "baxter international inc.",
+      "company_industry": "medical devices",
+      "start_date": "1997-01",
+      "end_date": "1999-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "thepower",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2020",
+      "end_date": "2021"
+    },
+    {
+      "school": "universidad panamericana",
+      "majors": [
+        "business administration",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": "1995-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "universidad panamericana",
+      "majors": [
+        "business",
+        "international business",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1994",
+      "end_date": "2000"
+    },
+    {
+      "school": "thepower",
+      "majors": [
+        "business",
+        "business administration",
+        "entrepreneurship",
+        "international business",
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

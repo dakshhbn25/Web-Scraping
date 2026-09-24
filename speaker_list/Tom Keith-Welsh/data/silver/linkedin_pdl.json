@@ -1,0 +1,220 @@
+{
+  "record_id": "speaker-dubrovnik-084",
+  "speaker_name": "Tom Keith-Welsh",
+  "linkedin_url": "https://www.linkedin.com/in/tomkw/",
+  "likelihood": 9,
+  "full_name": "tom keith-welsh",
+  "job_title": "client partner - healthcare and life sciences",
+  "industry": "information technology and services",
+  "current_company": "endava",
+  "current_company_website": "endava.com",
+  "current_company_industry": "information technology and services",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "advertising",
+    "benefits realisation",
+    "brand architecture",
+    "brand management",
+    "business analysis",
+    "business strategy",
+    "business valuation",
+    "customer engagement",
+    "data analysis",
+    "digital health",
+    "digital marketing",
+    "digital strategy",
+    "digital technology",
+    "email marketing",
+    "epma",
+    "healthcare",
+    "healthcare industry",
+    "healthcare information technology",
+    "healthcare information technology",
+    "healthcare management",
+    "hospital pharmacy",
+    "hospitals",
+    "interpersonal skills",
+    "leadership",
+    "life sciences",
+    "management",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "new business development",
+    "new media marketing",
+    "online advertising",
+    "online marketing",
+    "online sales",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "print management",
+    "product development",
+    "product innovation",
+    "product marketing",
+    "professional mentoring",
+    "project management",
+    "sales",
+    "social media",
+    "strategic analysis",
+    "strategic communications",
+    "strategic planning",
+    "strategic vision",
+    "strategy",
+    "website development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "client partner - healthcare and life sciences",
+      "company": "endava",
+      "company_industry": "information technology and services",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "mentor advisor",
+      "company": "pharmstars",
+      "company_industry": "management consulting",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "data valuation advisor, healthcare",
+      "company": "xferdata",
+      "company_industry": "information technology and services",
+      "start_date": "2025-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior director, strategy - digital health & innovation",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical affairs technology products & data",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-07",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical digital, data, analytics & systems",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2023-07",
+      "is_primary": false
+    },
+    {
+      "title": "tech lead, global product strategy, specialty care",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "tech lead eu (interim)",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-02",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "director commercial & digital tech, uk & ireland",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-10",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "digital health deployment lead",
+      "company": "merck group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior project manager",
+      "company": "royal united hospitals bath nhs foundation trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2015-07",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "project manager - eprescribing (epma)",
+      "company": "great western hospitals nhs foundation trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-03",
+      "end_date": "2015-06",
+      "is_primary": false
+    },
+    {
+      "title": "president of comparative medicine network",
+      "company": "royal society of medicine",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-11",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "safemedsearch",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-01",
+      "end_date": "2015-06",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager - pharmacy",
+      "company": "icnet international ltd.",
+      "company_industry": "hospital & health care",
+      "start_date": "2009-06",
+      "end_date": "2012-01",
+      "is_primary": false
+    },
+    {
+      "title": "fellow",
+      "company": "royal society of medicine",
+      "company_industry": "hospital & health care",
+      "start_date": "2003",
+      "end_date": null,
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of the west of england",
+      "majors": [
+        "pharmacology",
+        "physiology"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "sherborne boys",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1997"
+    }
+  ]
+}

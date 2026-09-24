@@ -1,0 +1,516 @@
+{
+  "record_id": "speaker-viennacx-023",
+  "speaker_name": "Yavor Angelov",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/yavor-angelov/",
+  "scraped_at": "2026-09-18T10:25:43.423502+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "XVs9BI0oIcYLRNMt1mPwCQ_0000",
+    "full_name": "yavor angelov",
+    "first_name": "yavor",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "angelov",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/yavor-angelov",
+    "linkedin_username": "yavor-angelov",
+    "linkedin_id": "680851080",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "jjTCsA6ZigCirIoWc1ZPlg2kdWPy",
+    "job_company_name": "angelov consulting",
+    "job_company_website": "angelovconsulting.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2022,
+    "job_company_industry": "information technology and services",
+    "job_company_industry_v2": "it services and it consulting",
+    "job_company_linkedin_url": "linkedin.com/company/angelov-consulting",
+    "job_company_linkedin_id": "106927390",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "heilbronn, baden-württemberg, germany",
+    "job_company_location_locality": "heilbronn",
+    "job_company_location_metro": null,
+    "job_company_location_region": "baden-württemberg",
+    "job_company_location_geo": "49.12,9.21",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "74074",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-06-26",
+    "job_last_verified": "2026-08-22",
+    "job_start_date": "2022-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-22",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile methodologies",
+      "agile product ownership",
+      "agile project management",
+      "agile web development",
+      "ai ethics",
+      "android",
+      "artificial general intelligence",
+      "artificial intelligence",
+      "atlassian suite",
+      "automated artificial intelligence",
+      "bulgarian",
+      "business analysis",
+      "career development",
+      "cascading style sheets",
+      "coaching and mentoring",
+      "confluence",
+      "content management",
+      "content management systems",
+      "crm strategy and roadmap development",
+      "cross functional team leadership",
+      "customer relationship management",
+      "data driven decision making",
+      "digital strategy",
+      "e commerce",
+      "english",
+      "german",
+      "html",
+      "invision",
+      "ios",
+      "javascript",
+      "jira",
+      "kanban",
+      "mobile application development",
+      "personal development",
+      "product development",
+      "product innovation",
+      "product launch",
+      "product management",
+      "product marketing",
+      "product operations",
+      "product road mapping",
+      "product strategy",
+      "project management",
+      "release management",
+      "requirements analysis",
+      "requirements engineering",
+      "retail",
+      "russian",
+      "scrum",
+      "search engine optimization",
+      "software development",
+      "stakeholder management",
+      "team leadership",
+      "teamwork",
+      "user experience",
+      "user stories",
+      "user story development",
+      "vendor management",
+      "web development",
+      "wireframing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "angelov consulting",
+          "size": "1-10",
+          "id": "jjTCsA6ZigCirIoWc1ZPlg2kdWPy",
+          "founded": 2022,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "heilbronn, baden-württemberg, germany",
+            "locality": "heilbronn",
+            "region": "baden-württemberg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "74074",
+            "geo": "49.12,9.21"
+          },
+          "linkedin_url": "linkedin.com/company/angelov-consulting",
+          "linkedin_id": "106927390",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "angelovconsulting.com"
+        },
+        "location_names": [
+          "heilbronn, baden-württemberg, germany"
+        ],
+        "end_date": null,
+        "start_date": "2022-06",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "adplist.org",
+          "size": "1-10",
+          "id": "GtMOvcplRojZKEIH09Y7egENp1Co",
+          "founded": 2021,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "singapore, central region, singapore",
+            "locality": "singapore",
+            "region": "central region",
+            "metro": null,
+            "country": "singapore",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "1.32,103.83"
+          },
+          "linkedin_url": "linkedin.com/company/adplist",
+          "linkedin_id": "42779272",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/adplist",
+          "website": "adplist.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-09",
+        "title": {
+          "name": "mentor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": null,
+        "start_date": "2024-02",
+        "title": {
+          "name": "senior product owner crm",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the shoring company",
+          "size": "11-50",
+          "id": "HYSfGfo73CVAR1O99L9orwdw9Eae",
+          "founded": 2022,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "böbingen an der rems, baden-württemberg, germany",
+            "locality": "böbingen an der rems",
+            "region": "baden-württemberg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "18 geschwister-scholl-straße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "48.81,9.91"
+          },
+          "linkedin_url": "linkedin.com/company/the-shoring-company",
+          "linkedin_id": "86605384",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "shoring.io"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-06",
+        "title": {
+          "name": "senior product consultant",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kaufland e-commerce",
+          "size": "501-1000",
+          "id": "9kyTIm9tEz5mZXBr9TzsfwB7Vs3X",
+          "founded": 2015,
+          "industry": "internet",
+          "industry_v2": "online and mail order retail",
+          "location": {
+            "name": "köln, north rhine-westphalia, germany",
+            "locality": "köln",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 habsburgerring",
+            "address_line_2": null,
+            "postal_code": "50674",
+            "geo": "50.95,6.98"
+          },
+          "linkedin_url": "linkedin.com/company/real.digital",
+          "linkedin_id": "17956794",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kaufland-ecommerce.com"
+        },
+        "location_names": [
+          "heilbronn, baden-württemberg, germany"
+        ],
+        "end_date": "2023-04",
+        "start_date": "2019-03",
+        "title": {
+          "name": "senior product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "qvc",
+          "size": "10001+",
+          "id": "jarMtuPwvUtzttgt9dLYwQ2c1sVa",
+          "founded": 1986,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "west chester, pennsylvania, united states",
+            "locality": "west chester",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1200 wilson drive",
+            "address_line_2": null,
+            "postal_code": "19380",
+            "geo": "39.95,-75.59"
+          },
+          "linkedin_url": "linkedin.com/company/qvc-international",
+          "linkedin_id": "20840335",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "qurateretailgroup.com"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2019-02",
+        "start_date": "2017-07",
+        "title": {
+          "name": "digital product owner",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cm4all gmbh - a we22 company",
+          "size": "51-200",
+          "id": "lr5c8hML5lCmASiCoIEKoQmYI4Zw",
+          "founded": 1999,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "köln, north rhine-westphalia, germany",
+            "locality": "köln",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6a im mediapark",
+            "address_line_2": null,
+            "postal_code": "50670",
+            "geo": "50.95,6.98"
+          },
+          "linkedin_url": "linkedin.com/company/cm4all",
+          "linkedin_id": "42049",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cm4all.com"
+        },
+        "location_names": [
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2016-01",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cm4all gmbh - a we22 company",
+          "size": "51-200",
+          "id": "lr5c8hML5lCmASiCoIEKoQmYI4Zw",
+          "founded": 1999,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "köln, north rhine-westphalia, germany",
+            "locality": "köln",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6a im mediapark",
+            "address_line_2": null,
+            "postal_code": "50670",
+            "geo": "50.95,6.98"
+          },
+          "linkedin_url": "linkedin.com/company/cm4all",
+          "linkedin_id": "42049",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cm4all.com"
+        },
+        "location_names": [
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2015-02",
+        "title": {
+          "name": "working student",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of cologne",
+          "type": "post-secondary institution",
+          "id": "pygFZypcEvhsIutn64v3uA_0000",
+          "location": {
+            "name": "cologne, north rhine-westphalia, germany",
+            "locality": "cologne",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cologne",
+          "facebook_url": "facebook.com/universitaetkoeln",
+          "twitter_url": "twitter.com/unicologne",
+          "linkedin_id": "15189",
+          "website": "uni-koeln.de",
+          "domain": "uni-koeln.de"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2012-10",
+        "end_date": "2017-02",
+        "majors": [
+          "business",
+          "informatics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "680851080",
+        "url": "linkedin.com/in/yavor-angelov",
+        "username": "yavor-angelov"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,133 @@
+{
+  "record_id": "speaker-dubrovnik-076",
+  "speaker_name": "Lorna Fergusson",
+  "linkedin_url": "https://www.linkedin.com/in/lorna-fergusson-5964937/",
+  "likelihood": 9,
+  "full_name": "lorna fergusson",
+  "job_title": "director medical excellence & operations, international",
+  "industry": "biotechnology",
+  "current_company": "bridgebio",
+  "current_company_website": "bridgebio.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "bone",
+    "business process improvement",
+    "capability development",
+    "clinical development",
+    "clinical trials",
+    "collaborative leadership",
+    "computational chemistry",
+    "customer relationship management",
+    "drug discovery",
+    "field medical",
+    "internal and external communications",
+    "lifesciences",
+    "medical education",
+    "mentoring",
+    "nephrology",
+    "networking",
+    "oncology",
+    "organic chemistry",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "process automation",
+    "science education",
+    "scientific communications",
+    "sop development",
+    "strategic leadership",
+    "team leadership",
+    "teamwork"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director medical excellence & operations, international",
+      "company": "bridgebio",
+      "company_industry": "biotechnology",
+      "start_date": "2026-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global field medical excellence lead",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2021-05",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical communications lead general medicine",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2019-08",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "scientific communications senior manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2015-04",
+      "end_date": "2019-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical communication manage",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2012-01",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "acting medical communication senior manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2011-04",
+      "end_date": "2011-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical information / medical communication executive",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2007-08",
+      "end_date": "2011-04",
+      "is_primary": false
+    },
+    {
+      "title": "drug safety executive",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2005-11",
+      "end_date": "2007-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of nottingham",
+      "majors": [
+        "chemistry",
+        "philosophy"
+      ],
+      "degrees": [],
+      "start_date": "2000-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "university of kent",
+      "majors": [],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2000"
+    }
+  ]
+}

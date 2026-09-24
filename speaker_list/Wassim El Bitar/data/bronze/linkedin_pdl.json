@@ -1,0 +1,504 @@
+{
+  "record_id": "speaker-medical-021",
+  "speaker_name": "Wassim El Bitar",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/wassim-el-bitar-2a749a84/",
+  "scraped_at": "2026-09-18T10:24:38.889556+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "BbPs5b0wOpAFyRtNBFHQOA_0000",
+    "full_name": "wassim bitar",
+    "first_name": "wassim",
+    "middle_initial": "e",
+    "middle_name": "el",
+    "last_initial": "b",
+    "last_name": "bitar",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/wassim-el-bitar-2a749a84",
+    "linkedin_username": "wassim-el-bitar-2a749a84",
+    "linkedin_id": "299798047",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/drwassimelbitar",
+    "twitter_username": "drwassimelbitar",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "hospital & health care",
+    "job_title": "pediatrician - pediatric & adolescent gynecology",
+    "job_title_role": "health",
+    "job_title_sub_role": "doctor",
+    "job_title_class": "services",
+    "job_title_levels": [],
+    "job_company_id": "xxbMamz6tnwCjYD52ouHTQdItyRG",
+    "job_company_name": "chirec hospital group",
+    "job_company_website": "chirec.be",
+    "job_company_size": "1001-5000",
+    "job_company_founded": null,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/chirec",
+    "job_company_linkedin_id": "98563",
+    "job_company_facebook_url": "facebook.com/groupehospitalierchirec",
+    "job_company_twitter_url": "twitter.com/chirecgroup",
+    "job_company_location_name": "auderghem, brussels, belgium",
+    "job_company_location_locality": "auderghem",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.81,4.42",
+    "job_company_location_street_address": "201 boulevard du triomphe",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "1160",
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-05-29",
+    "job_last_verified": "2026-06-04",
+    "job_start_date": "2023-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-04",
+    "phone_numbers": true,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "acls",
+      "adolescent health",
+      "bls",
+      "clinical research",
+      "critical care",
+      "healthcare",
+      "healthcare consulting",
+      "healthcare management",
+      "hospitals",
+      "icu",
+      "inpatient",
+      "medical education",
+      "medicine",
+      "newborn and child therapy",
+      "patient safety",
+      "pediatrics",
+      "prevention",
+      "vaccinations",
+      "youth development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium",
+      "lebanon"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "chirec hospital group",
+          "size": "1001-5000",
+          "id": "xxbMamz6tnwCjYD52ouHTQdItyRG",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "auderghem, brussels, belgium",
+            "locality": "auderghem",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "201 boulevard du triomphe",
+            "address_line_2": null,
+            "postal_code": "1160",
+            "geo": "50.81,4.42"
+          },
+          "linkedin_url": "linkedin.com/company/chirec",
+          "linkedin_id": "98563",
+          "facebook_url": "facebook.com/groupehospitalierchirec",
+          "twitter_url": "twitter.com/chirecgroup",
+          "website": "chirec.be"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-05",
+        "title": {
+          "name": "pediatrician - pediatric & adolescent gynecology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "chirec hospital group",
+          "size": "1001-5000",
+          "id": "xxbMamz6tnwCjYD52ouHTQdItyRG",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "auderghem, brussels, belgium",
+            "locality": "auderghem",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "201 boulevard du triomphe",
+            "address_line_2": null,
+            "postal_code": "1160",
+            "geo": "50.81,4.42"
+          },
+          "linkedin_url": "linkedin.com/company/chirec",
+          "linkedin_id": "98563",
+          "facebook_url": "facebook.com/groupehospitalierchirec",
+          "twitter_url": "twitter.com/chirecgroup",
+          "website": "chirec.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2026-05",
+        "start_date": "2023-10",
+        "title": {
+          "name": "chairperson- pediatric department / chef de service de pédiatrie",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fame fm",
+          "size": "11-50",
+          "id": "B1ZHLBRhmXiDMOsEhreYFAvYUSE5",
+          "founded": 2015,
+          "industry": "media production",
+          "industry_v2": "media production",
+          "location": {
+            "name": "beirut, lebanon",
+            "locality": null,
+            "region": "beirut",
+            "metro": null,
+            "country": "lebanon",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/fame-fm",
+          "linkedin_id": "11491901",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "famefm.com"
+        },
+        "location_names": [],
+        "end_date": "2016-01",
+        "start_date": "2014-11",
+        "title": {
+          "name": "radio show anchor",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mbc tv",
+          "size": "1-10",
+          "id": "YyqIIyH8W9hmMg4WbqeBrwCBKrAO",
+          "founded": null,
+          "industry": "broadcast media",
+          "industry_v2": "broadcast media production and distribution",
+          "location": {
+            "name": "moldova",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "moldova",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/mbc-tv",
+          "linkedin_id": "6853562",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mbc.md"
+        },
+        "location_names": [],
+        "end_date": "2013-03",
+        "start_date": "2012-10",
+        "title": {
+          "name": "tv show co-anchor",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hôpital des enfants",
+          "size": "1-10",
+          "id": "uWm0DCicqCMeij5yzgLBdgSZwJzm",
+          "founded": null,
+          "industry": "medical practice",
+          "industry_v2": "medical practices",
+          "location": {
+            "name": "saint-avé, bretagne, france",
+            "locality": "saint-avé",
+            "region": "bretagne",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "330 avenue de grande bretagne toulouse",
+            "address_line_2": null,
+            "postal_code": "31300",
+            "geo": "47.68,-2.73"
+          },
+          "linkedin_url": "linkedin.com/company/hôpital-des-enfants",
+          "linkedin_id": "51421669",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "toulouse, occitanie, france"
+        ],
+        "end_date": "2013-07",
+        "start_date": "2011-07",
+        "title": {
+          "name": "medical specialist",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hôtel-dieu de france",
+          "size": "1001-5000",
+          "id": "1SNutQttqwn6mwvobs7yBAZWvHth",
+          "founded": 1923,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "beirut, beirut, lebanon",
+            "locality": "beirut",
+            "region": "beirut",
+            "metro": null,
+            "country": "lebanon",
+            "continent": "asia",
+            "street_address": "boulevard a naccache street achrafieh area 166830",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "33.89,35.50"
+          },
+          "linkedin_url": "linkedin.com/company/hotel-dieu-de-france",
+          "linkedin_id": "6501845",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2011-06",
+        "start_date": "2007-07",
+        "title": {
+          "name": "medical doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "saint joseph university of beirut",
+          "type": "post-secondary institution",
+          "id": "mpBAySHTtUj7vK-9k7tFEg_0000",
+          "location": {
+            "name": "beirut, beirut, lebanon",
+            "locality": "beirut",
+            "region": "beirut",
+            "country": "lebanon",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/usjliban",
+          "facebook_url": "facebook.com/usj.edu.lb",
+          "twitter_url": "twitter.com/usjliban",
+          "linkedin_id": "15098323",
+          "website": "usj.edu.lb",
+          "domain": "usj.edu.lb"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "2000-07",
+        "end_date": "2011-06",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "saint joseph university of beirut",
+          "type": "post-secondary institution",
+          "id": "mpBAySHTtUj7vK-9k7tFEg_0000",
+          "location": {
+            "name": "beirut, beirut, lebanon",
+            "locality": "beirut",
+            "region": "beirut",
+            "country": "lebanon",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/usjliban",
+          "facebook_url": "facebook.com/usj.edu.lb",
+          "twitter_url": "twitter.com/usjliban",
+          "linkedin_id": "15098323",
+          "website": "usj.edu.lb",
+          "domain": "usj.edu.lb"
+        },
+        "degrees": [
+          "doctorates",
+          "doctor of medicine"
+        ],
+        "start_date": "2000-07",
+        "end_date": "2011-06",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "collège melkart",
+          "type": "secondary school",
+          "id": "TB2DxyGCAlRlsLq98T149g_0000",
+          "location": {
+            "name": "baabda, mount lebanon, lebanon",
+            "locality": "baabda",
+            "region": "mount lebanon",
+            "country": "lebanon",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/collège-melkart",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "34741204",
+          "website": "melkart.edu.lb",
+          "domain": "melkart.edu.lb"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université paul sabatier toulouse iii",
+          "type": "post-secondary institution",
+          "id": "bH5MzmUq06Ptjf4NXi1NWA_0000",
+          "location": {
+            "name": "toulouse, occitanie, france",
+            "locality": "toulouse",
+            "region": "occitanie",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-toulouse",
+          "facebook_url": "facebook.com/ut3paulsabatier",
+          "twitter_url": "twitter.com/ut3paulsabatier",
+          "linkedin_id": "15250261",
+          "website": "univ-tlse3.fr",
+          "domain": "univ-tlse3.fr"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "gynecology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université paul sabatier toulouse iii",
+          "type": "post-secondary institution",
+          "id": "bH5MzmUq06Ptjf4NXi1NWA_0000",
+          "location": {
+            "name": "toulouse, occitanie, france",
+            "locality": "toulouse",
+            "region": "occitanie",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-toulouse",
+          "facebook_url": "facebook.com/ut3paulsabatier",
+          "twitter_url": "twitter.com/ut3paulsabatier",
+          "linkedin_id": "15250261",
+          "website": "univ-tlse3.fr",
+          "domain": "univ-tlse3.fr"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "gynecology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "299798047",
+        "url": "linkedin.com/in/wassim-el-bitar-2a749a84",
+        "username": "wassim-el-bitar-2a749a84"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/drwassimelbitar",
+        "username": "drwassimelbitar"
+      },
+      {
+        "network": "linkedin",
+        "id": "299798047",
+        "url": "linkedin.com/in/wassim-bitar-2a749a84",
+        "username": "wassim-bitar-2a749a84"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

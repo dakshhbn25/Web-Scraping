@@ -1,0 +1,758 @@
+{
+  "record_id": "speaker-viennacx-005",
+  "speaker_name": "Claude Broudic",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/claude-broudic-606263/?skipRedirect=true",
+  "scraped_at": "2026-09-18T10:25:09.115067+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "hkEz5WWyybg9G6IB0GVxLQ_0000",
+    "full_name": "claude broudic",
+    "first_name": "claude",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "broudic",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/claude-broudic-606263",
+    "linkedin_username": "claude-broudic-606263",
+    "linkedin_id": "628134",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "gps operations director",
+    "job_title_role": "operations",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "vwQVktL9Ca2928apBIruBgzuvACs",
+    "job_company_name": "servier",
+    "job_company_website": "servier.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1954,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/servier",
+    "job_company_linkedin_id": "165926",
+    "job_company_facebook_url": "facebook.com/servierinternational",
+    "job_company_twitter_url": "twitter.com/servier",
+    "job_company_location_name": "suresnes, île-de-france, france",
+    "job_company_location_locality": "suresnes",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.87,2.22",
+    "job_company_location_street_address": "50 rue carnot",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "92150",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2025-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biopharmaceuticals",
+      "biotechnologie",
+      "biotechnology",
+      "cardiologie",
+      "cardiology",
+      "clinical development",
+      "clinical trials",
+      "communication",
+      "competitive intelligence",
+      "dermatology",
+      "diabetes",
+      "endocrinology",
+      "essais cliniques",
+      "gastroenterology",
+      "hospital sales",
+      "infectious diseases",
+      "lancement de produit",
+      "life sciences",
+      "lifesciences",
+      "maladies infectieuses",
+      "market access",
+      "market analysis",
+      "nephrology",
+      "neurologie",
+      "neurology",
+      "oncologie",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "pharmaceutics",
+      "pharmacovigilance",
+      "product launch",
+      "programmes de transformation",
+      "regulatory affairs",
+      "regulatory submissions",
+      "rheumatology",
+      "sales effectiveness",
+      "sciences de la vie",
+      "secteur pharmaceutique",
+      "therapeutic areas",
+      "vaccines",
+      "ventes pharmaceutiques"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "montenegro",
+      "spain"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2025-03",
+        "title": {
+          "name": "gps operations director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2023-03",
+        "title": {
+          "name": "chief of staff",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "aides",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2020-09",
+        "title": {
+          "name": "operational performance director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [],
+        "end_date": "2020-09",
+        "start_date": "2015-10",
+        "title": {
+          "name": "general manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2012-02",
+        "title": {
+          "name": "deputy regional operations manager eastern europe",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd france",
+          "size": "501-1000",
+          "id": "VDrz5ysE57oL6eSrp6T1VAbHtoDG",
+          "founded": 1961,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "puteaux, île-de-france, france",
+            "locality": "puteaux",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "10-12 cours michelet",
+            "address_line_2": null,
+            "postal_code": "92800",
+            "geo": "48.88,2.23"
+          },
+          "linkedin_url": "linkedin.com/company/msd-france",
+          "linkedin_id": "10432866",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/msdfrance",
+          "website": "msd-france.com"
+        },
+        "location_names": [
+          "la basse ecarde, normandie, france",
+          "vire, normandie, france"
+        ],
+        "end_date": "2012-02",
+        "start_date": "2010-08",
+        "title": {
+          "name": "district manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2010-08",
+        "start_date": "2009-08",
+        "title": {
+          "name": "tra pre-launch manager (mission)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2010-08",
+        "start_date": "2009-01",
+        "title": {
+          "name": "cardiology marketing manager (mission)",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2008-12",
+        "start_date": "2006-03",
+        "title": {
+          "name": "cardiology product manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2006",
+        "start_date": "2003",
+        "title": {
+          "name": "market analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [],
+        "end_date": "2006-03",
+        "start_date": "2003-03",
+        "title": {
+          "name": "analyst in business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hybrigenics",
+          "size": "1-10",
+          "id": "WYczKsQnkg9V8vXkWrnCmwAtwQRy",
+          "founded": 1998,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/hybrigenics",
+          "linkedin_id": "55220",
+          "facebook_url": "facebook.com/hybrigenics-333417060401",
+          "twitter_url": null,
+          "website": "hybrigenics.com"
+        },
+        "location_names": [],
+        "end_date": "2002-11",
+        "start_date": "2002-07",
+        "title": {
+          "name": "market analyst & business développement",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "agrogene",
+          "size": "1-10",
+          "id": "iCUGvBzinEb89Bc5M7xEcQpb9nyZ",
+          "founded": null,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "jataí, goiás, brazil",
+            "locality": "jataí",
+            "region": "goiás",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": "74 r minas gerais",
+            "address_line_2": null,
+            "postal_code": "75800-087",
+            "geo": "-17.86,-51.76"
+          },
+          "linkedin_url": "linkedin.com/company/agrogene",
+          "linkedin_id": "24918352",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2001-08",
+        "start_date": "2001-05",
+        "title": {
+          "name": "assistant marketing et commercial (stage)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ecole supérieure d'ingénieur de luminy",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1999",
+        "end_date": "2002",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kedge business school",
+          "type": "post-secondary institution",
+          "id": "K9e8kYUdUv2qNMxlO2sIBw_0000",
+          "location": {
+            "name": "talence, nouvelle-aquitaine, france",
+            "locality": "talence",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kedge-business-school",
+          "facebook_url": "facebook.com/kedgebs",
+          "twitter_url": "twitter.com/kedgebs",
+          "linkedin_id": "2757210",
+          "website": "kedge.edu",
+          "domain": "kedge.edu"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2002",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "polytech marseille",
+          "type": "post-secondary institution",
+          "id": "AtCBKTlrzdsavHtLztR8mQ_0000",
+          "location": {
+            "name": "marseille, provence-alpes-côte d'azur, france",
+            "locality": "marseille",
+            "region": "provence-alpes-côte d'azur",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/polytech-marseille",
+          "facebook_url": "facebook.com/aixmarseilleuniversite",
+          "twitter_url": "twitter.com/univamu",
+          "linkedin_id": "1615274",
+          "website": "polytech.univ-amu.fr",
+          "domain": "univ-amu.fr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2002",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "628134",
+        "url": "linkedin.com/in/claude-broudic-606263",
+        "username": "claude-broudic-606263"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

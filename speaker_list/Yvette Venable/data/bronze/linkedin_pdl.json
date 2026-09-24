@@ -1,0 +1,710 @@
+{
+  "record_id": "speaker-dubrovnik-072",
+  "speaker_name": "Yvette Venable",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/yvette-venable-017a17/",
+  "scraped_at": "2026-09-18T09:37:38.161409+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "C4yxrvAXyOLcrbKQRuDIYQ_0000",
+    "full_name": "yvette venable",
+    "first_name": "yvette",
+    "middle_initial": "a",
+    "middle_name": "anne",
+    "last_initial": "v",
+    "last_name": "venable",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/yvette-venable-017a17",
+    "linkedin_username": "yvette-venable-017a17",
+    "linkedin_id": "2521171",
+    "facebook_url": "facebook.com/yvette.venable",
+    "facebook_username": "yvette.venable",
+    "facebook_id": "710568439",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "interim head of europe & canada market access",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+    "job_company_name": "astrazeneca",
+    "job_company_website": "astrazeneca.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1999,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astrazeneca",
+    "job_company_linkedin_id": "1603",
+    "job_company_facebook_url": "facebook.com/astrazenecacareers",
+    "job_company_twitter_url": "twitter.com/astrazeneca",
+    "job_company_location_name": "cambridge, england, united kingdom",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "52.19,0.11",
+    "job_company_location_street_address": "1 francis crick avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "cb2 0aa",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-08-04",
+    "job_last_verified": "2026-08-04",
+    "job_start_date": "2023-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "b2b",
+      "biotechnology",
+      "building organizational capability",
+      "coalitions",
+      "commercial strategy",
+      "communication",
+      "community engagement",
+      "corporate affairs",
+      "corporate communications",
+      "corporate social responsibility",
+      "crisis communications",
+      "crisis management",
+      "cross functional team leadership",
+      "digital strategy",
+      "emerging trends",
+      "event management",
+      "event planning",
+      "executive communications",
+      "executive management",
+      "executive visibility",
+      "external affairs",
+      "external communications",
+      "external relations",
+      "finance",
+      "global policy",
+      "government officials",
+      "healthcare",
+      "integrated marketing",
+      "internal communications",
+      "international issues",
+      "international policy",
+      "international relations",
+      "latin",
+      "latin america",
+      "leadership",
+      "legislative relations",
+      "life sciences",
+      "management",
+      "market access",
+      "market/patient access",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "media relations",
+      "message development",
+      "oncology",
+      "organizational leadership",
+      "patient advocacy",
+      "patient education",
+      "pharmaceutical industry",
+      "policy advocacy",
+      "press releases",
+      "product launch",
+      "project management",
+      "public affairs",
+      "public health",
+      "public policy",
+      "public relations",
+      "public speaking",
+      "regional policy",
+      "reputation management",
+      "self confidence",
+      "social media",
+      "speech writing",
+      "spokesperson",
+      "stakeholder engagement",
+      "strategic communications",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "tactical planning",
+      "team leadership",
+      "team management",
+      "trade associations",
+      "written communication"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states",
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-08",
+        "title": {
+          "name": "interim head of europe & canada market access",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2023-01",
+        "title": {
+          "name": "global payer partnerships and policy: global market access",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "institute of clinical and economic review",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2023-04",
+        "start_date": "2020-04",
+        "title": {
+          "name": "vice president of patient engagement",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kyowa kirin international plc.",
+          "size": "501-1000",
+          "id": "kTCTePycQDuxDM56o5BMCwJw17v0",
+          "founded": 1995,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "galashiels, scotland, united kingdom",
+            "locality": "galashiels",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "td1 1qh",
+            "geo": "55.61,-2.79"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-international-plc.",
+          "linkedin_id": "56606",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirininternational.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019",
+        "start_date": "2017",
+        "title": {
+          "name": "global head of public affairs and patient advocacy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "baxalta",
+          "size": "10001+",
+          "id": "9NUrgJI1MWMygZeJe8xviAetPeqJ",
+          "founded": 2015,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "illinois, united states",
+            "locality": null,
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/baxalta",
+          "linkedin_id": "9450864",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/baxalta",
+          "website": "baxalta.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017",
+        "start_date": "2015",
+        "title": {
+          "name": "global patient engagement, advocacy and access director, hematology & rare blood diseases",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2014",
+        "start_date": "2012",
+        "title": {
+          "name": "global head (vice director) of public policy and patient access",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "edelman",
+          "size": "5001-10000",
+          "id": "0VEP0AHEO7VqkMLsNhB9IwkH8UPX",
+          "founded": 1952,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "250 hudson street",
+            "address_line_2": null,
+            "postal_code": "10013",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/edelman",
+          "linkedin_id": "3536",
+          "facebook_url": "facebook.com/edelman",
+          "twitter_url": "twitter.com/edelmanpr",
+          "website": "edelman.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2012",
+        "start_date": "2009",
+        "title": {
+          "name": "director (svp) , health",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2009",
+        "start_date": "2006",
+        "title": {
+          "name": "director of public affairs, emea, oncology & cv / metabolics",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fleishmanhillard",
+          "size": "1001-5000",
+          "id": "Ew6IjXqsa2XePjekR8ZuFwM35fNH",
+          "founded": 1946,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "st. louis, missouri, united states",
+            "locality": "st. louis",
+            "region": "missouri",
+            "metro": "st. louis, missouri",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 north broadway",
+            "address_line_2": null,
+            "postal_code": "63102",
+            "geo": "38.61,-90.28"
+          },
+          "linkedin_url": "linkedin.com/company/fleishmanhillard",
+          "linkedin_id": "4346",
+          "facebook_url": "facebook.com/fleishmanhillard",
+          "twitter_url": "twitter.com/fleishman",
+          "website": "fleishmanhillard.com"
+        },
+        "location_names": [],
+        "end_date": "2006",
+        "start_date": "2004",
+        "title": {
+          "name": "senior vice president",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ogilvy",
+          "size": "10001+",
+          "id": "1ltrr5oBgFr1qhjyqeQDAglg7G2M",
+          "founded": 1948,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "175 greenwich street",
+            "address_line_2": null,
+            "postal_code": "10007",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/ogilvy",
+          "linkedin_id": "1673",
+          "facebook_url": "facebook.com/ogilvy",
+          "twitter_url": "twitter.com/ogilvy",
+          "website": "ogilvy.com"
+        },
+        "location_names": [],
+        "end_date": "2004",
+        "start_date": "2000",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "walgreens",
+          "size": "10001+",
+          "id": "stYwu3zWdV1j4tuJbEyoiwyGZK77",
+          "founded": 1901,
+          "industry": "retail",
+          "industry_v2": "retail pharmacies",
+          "location": {
+            "name": "deerfield, illinois, united states",
+            "locality": "deerfield",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "108 wilmot road",
+            "address_line_2": null,
+            "postal_code": "60015",
+            "geo": "42.16,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/walgreens",
+          "linkedin_id": "3589",
+          "facebook_url": "facebook.com/walgreens",
+          "twitter_url": "twitter.com/walgreens",
+          "website": "walgreens.com"
+        },
+        "location_names": [],
+        "end_date": "2000",
+        "start_date": "1997",
+        "title": {
+          "name": "communications manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "imperial college london",
+          "type": "post-secondary institution",
+          "id": "Fz8Pa7Dul89QmPc-6UAp1A_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "5106",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [
+          "master of public health",
+          "masters"
+        ],
+        "start_date": "2023-09",
+        "end_date": "2025-09",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "drake university",
+          "type": "post-secondary institution",
+          "id": "1zrmlAAG5K7m7o14qvLhig_0000",
+          "location": {
+            "name": "des moines, iowa, united states",
+            "locality": "des moines",
+            "region": "iowa",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/drake-university",
+          "facebook_url": "facebook.com/drakeuniversity",
+          "twitter_url": "twitter.com/drakeuniversity",
+          "linkedin_id": "163499",
+          "website": "drake.edu",
+          "domain": "drake.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1990-01",
+        "end_date": "1994",
+        "majors": [
+          "business marketing",
+          "journalism",
+          "latin american studies"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lake central high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "1990",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "2521171",
+        "url": "linkedin.com/in/yvette-venable-017a17",
+        "username": "yvette-venable-017a17"
+      },
+      {
+        "network": "facebook",
+        "id": "710568439",
+        "url": "facebook.com/yvette.venable",
+        "username": "yvette.venable"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

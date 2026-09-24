@@ -1,0 +1,200 @@
+{
+  "record_id": "speaker-viennacx-005",
+  "speaker_name": "Claude Broudic",
+  "linkedin_url": "https://www.linkedin.com/in/claude-broudic-606263/?skipRedirect=true",
+  "likelihood": 9,
+  "full_name": "claude broudic",
+  "job_title": "gps operations director",
+  "industry": "pharmaceuticals",
+  "current_company": "servier",
+  "current_company_website": "servier.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biopharmaceuticals",
+    "biotechnologie",
+    "biotechnology",
+    "cardiologie",
+    "cardiology",
+    "clinical development",
+    "clinical trials",
+    "communication",
+    "competitive intelligence",
+    "dermatology",
+    "diabetes",
+    "endocrinology",
+    "essais cliniques",
+    "gastroenterology",
+    "hospital sales",
+    "infectious diseases",
+    "lancement de produit",
+    "life sciences",
+    "lifesciences",
+    "maladies infectieuses",
+    "market access",
+    "market analysis",
+    "nephrology",
+    "neurologie",
+    "neurology",
+    "oncologie",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "pharmaceutics",
+    "pharmacovigilance",
+    "product launch",
+    "programmes de transformation",
+    "regulatory affairs",
+    "regulatory submissions",
+    "rheumatology",
+    "sales effectiveness",
+    "sciences de la vie",
+    "secteur pharmaceutique",
+    "therapeutic areas",
+    "vaccines",
+    "ventes pharmaceutiques"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "gps operations director",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief of staff",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "operational performance director",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "general manager",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "deputy regional operations manager eastern europe",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-02",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "district manager",
+      "company": "msd france",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-08",
+      "end_date": "2012-02",
+      "is_primary": false
+    },
+    {
+      "title": "tra pre-launch manager (mission)",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-08",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "cardiology marketing manager (mission)",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-01",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "cardiology product manager",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-03",
+      "end_date": "2008-12",
+      "is_primary": false
+    },
+    {
+      "title": "market analyst",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "analyst in business development",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-03",
+      "end_date": "2006-03",
+      "is_primary": false
+    },
+    {
+      "title": "market analyst & business développement",
+      "company": "hybrigenics",
+      "company_industry": "biotechnology",
+      "start_date": "2002-07",
+      "end_date": "2002-11",
+      "is_primary": false
+    },
+    {
+      "title": "assistant marketing et commercial (stage)",
+      "company": "agrogene",
+      "company_industry": "retail",
+      "start_date": "2001-05",
+      "end_date": "2001-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ecole supérieure d'ingénieur de luminy",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [],
+      "start_date": "1999",
+      "end_date": "2002"
+    },
+    {
+      "school": "kedge business school",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2002"
+    },
+    {
+      "school": "polytech marseille",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2002"
+    }
+  ]
+}

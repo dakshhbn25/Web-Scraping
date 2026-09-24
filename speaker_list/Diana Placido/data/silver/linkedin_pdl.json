@@ -1,0 +1,212 @@
+{
+  "record_id": "speaker-viennacx-008",
+  "speaker_name": "Diana Placido",
+  "linkedin_url": "https://www.linkedin.com/in/diana-medeiros-pl%C3%A1cido-400a59/",
+  "likelihood": 9,
+  "full_name": "diana plácido",
+  "job_title": "cdto - chief digital & technology officer",
+  "industry": "pharmaceuticals",
+  "current_company": "viiv healthcare",
+  "current_company_website": "viivhealthcare.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "artificial intelligence",
+    "biotechnology",
+    "business development",
+    "business innovation",
+    "business insights",
+    "business intelligence",
+    "business planning",
+    "business strategy",
+    "change management",
+    "competitive analysis",
+    "consulting",
+    "consumer healthcare",
+    "cross functional team leadership",
+    "customer driven innovation",
+    "customer insight",
+    "customer relationship management",
+    "data science",
+    "digital innovation",
+    "digital marketing",
+    "digital strategy",
+    "digital transformation",
+    "entrepreneurship",
+    "healthcare",
+    "innovation management",
+    "internet",
+    "leadership",
+    "life sciences",
+    "lifesciences",
+    "management",
+    "management consulting",
+    "marketing management",
+    "mergers and acquisitions",
+    "open innovation",
+    "operations management",
+    "pharmaceutical industry",
+    "pharmacoeconomics",
+    "product innovation",
+    "project management",
+    "sales management",
+    "sales operations",
+    "sales strategy",
+    "sales trainings",
+    "science",
+    "start ups",
+    "strategic planning",
+    "strategy",
+    "team leadership",
+    "team management",
+    "technology transfer",
+    "transformational leadership"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "cdto - chief digital & technology officer",
+      "company": "viiv healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief digital officer (cdo)",
+      "company": "viiv healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-11",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, region europe pharma commercial tech & digital",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2023-11",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, head of market access",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-06",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "lifehub uk head",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2019-09",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "marketing & sales operations bu head",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2016-03",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "director innovation strategy",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2014-02",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "innovation manager healthcare & consumer care",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2012-10",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager",
+      "company": "groupon",
+      "company_industry": "computer software",
+      "start_date": "2011-01",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "mckinsey & company",
+      "company": "mckinsey & company",
+      "company_industry": "management consulting",
+      "start_date": "2008",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "independent consultant - part time while finishing phd",
+      "company": "technology transfer",
+      "company_industry": null,
+      "start_date": "2006-06",
+      "end_date": "2008-07",
+      "is_primary": false
+    },
+    {
+      "title": "summer internship",
+      "company": "esrf - the european synchrotron",
+      "company_industry": "research",
+      "start_date": "2000-06",
+      "end_date": "2000-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "harvard university",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2003-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "massachusetts institute of technology",
+      "majors": [],
+      "degrees": [
+        "doctorates",
+        "doctor of philosophy"
+      ],
+      "start_date": "2001",
+      "end_date": "2008"
+    },
+    {
+      "school": "universidade nova de lisboa",
+      "majors": [],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2008-01"
+    },
+    {
+      "school": "universidade nova de lisboa",
+      "majors": [
+        "chemistry",
+        "organic chemistry"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates",
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2001-12"
+    }
+  ]
+}

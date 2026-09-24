@@ -1,0 +1,908 @@
+{
+  "record_id": "speaker-viennacx-019",
+  "speaker_name": "David Wilson",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/david-wilson-ab0171b/",
+  "scraped_at": "2026-09-18T10:25:37.089940+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "7inB7kfeV4EU7wc2tIhRnQ_0000",
+    "full_name": "david wilson",
+    "first_name": "david",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "w",
+    "last_name": "wilson",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/david-wilson-ab0171b",
+    "linkedin_username": "david-wilson-ab0171b",
+    "linkedin_id": "33243108",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global digital transformation & innovation director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "kTCTePycQDuxDM56o5BMCwJw17v0",
+    "job_company_name": "kyowa kirin international plc.",
+    "job_company_website": "kyowakirininternational.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 1995,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/kyowa-kirin-international-plc.",
+    "job_company_linkedin_id": "56606",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "galashiels, scotland, united kingdom",
+    "job_company_location_locality": "galashiels",
+    "job_company_location_metro": null,
+    "job_company_location_region": "scotland",
+    "job_company_location_geo": "55.61,-2.79",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "td1 1qh",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-01-05",
+    "job_last_verified": "2026-08-14",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-14",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "autocad",
+      "cdm",
+      "client liaison",
+      "creative writing",
+      "estimating",
+      "full ms office",
+      "graphics",
+      "ms project",
+      "ojeu tendering",
+      "options analysis",
+      "photoshop",
+      "planning applications",
+      "powerpoint",
+      "presentations",
+      "procurement",
+      "professional applications",
+      "proposals",
+      "quark xpress",
+      "recruitment",
+      "risk assessment",
+      "scheduling",
+      "see 9",
+      "see less",
+      "sketch visualisation",
+      "technical drawing",
+      "visio"
+    ],
+    "skills": [
+      "agentic ai",
+      "ai governance",
+      "application development",
+      "art direction",
+      "artificial intelligence",
+      "artificial intelligence for business",
+      "business analysis",
+      "business development",
+      "business planning",
+      "business strategy",
+      "cdm",
+      "certified project manager",
+      "change management",
+      "client development",
+      "client liaison",
+      "communication",
+      "concept development",
+      "contract management",
+      "contract negotiation",
+      "creative direction",
+      "creative technology",
+      "creativity and innovation",
+      "cross cultural teams",
+      "cross team collaboration",
+      "cultural awareness",
+      "customer engagement",
+      "customer experience",
+      "data governance",
+      "design management",
+      "digital project management",
+      "digital strategy",
+      "digital transformation",
+      "emerging technologies",
+      "estimating",
+      "exhibit design",
+      "global delivery",
+      "global standardisation",
+      "governance",
+      "interaction design",
+      "interactive development",
+      "internal and external clients",
+      "interpretive design",
+      "it transformation",
+      "lateral thinking",
+      "leadership",
+      "management",
+      "mentoring",
+      "microsoft office",
+      "ms project",
+      "new business development",
+      "operations management",
+      "options analysis",
+      "people management",
+      "performance development",
+      "powerpoint",
+      "presentations",
+      "problem solving",
+      "process scheduler",
+      "procurement",
+      "product development",
+      "product leadership",
+      "program management",
+      "project control",
+      "project delivery",
+      "project management",
+      "project planning",
+      "proposal writing",
+      "proposals",
+      "requirements analysis",
+      "responsible ai",
+      "risk assessment",
+      "scheduling",
+      "sketch visualisation",
+      "stakeholder management",
+      "strategic leadership",
+      "strategic planning",
+      "strategy",
+      "team leadership",
+      "teamwork",
+      "technical drawing",
+      "technology adoption",
+      "thought leadership",
+      "training",
+      "user experience"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "kyowa kirin international plc.",
+          "size": "501-1000",
+          "id": "kTCTePycQDuxDM56o5BMCwJw17v0",
+          "founded": 1995,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "galashiels, scotland, united kingdom",
+            "locality": "galashiels",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "td1 1qh",
+            "geo": "55.61,-2.79"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-international-plc.",
+          "linkedin_id": "56606",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirininternational.com"
+        },
+        "location_names": [
+          "bonifacio global city, metro manila, philippines"
+        ],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "global digital transformation & innovation director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "kyowa kirin co., ltd.",
+          "size": "5001-10000",
+          "id": "P26dmJgVBweBHLa6PHqVHQ2qISWS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ōtemachi, tokyo, japan",
+            "locality": "ōtemachi",
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "1-9-2 ohtemachi",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "35.68,139.76"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-co-ltd",
+          "linkedin_id": "1239741",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirin.co.jp"
+        },
+        "location_names": [
+          "marlow, england, united kingdom"
+        ],
+        "end_date": "2024-08",
+        "start_date": "2020-12",
+        "title": {
+          "name": "digital programme director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "consultant",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2020-02",
+        "title": {
+          "name": "project director project lead experience director senior project manager creative lead",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cocreate",
+          "size": "1-10",
+          "id": "jdlrUK2V6BZcBbQbyky5VwKOSkrH",
+          "founded": 2018,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "74 back church lane",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/cocreate-the-future-of-work",
+          "linkedin_id": "30112927",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cocreate.software"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2017-09",
+        "title": {
+          "name": "founder, board director & customer experience director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "engage works",
+          "size": "11-50",
+          "id": "wau75gLX0b4n1L3QApoCwQ9bt5f8",
+          "founded": 2005,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "se10 0bn",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/engageworksltd",
+          "linkedin_id": "390640",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "engageworks.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2012-09",
+        "title": {
+          "name": "board director, strategic project, consultancy & production director at engage works ltd",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cod steaks",
+          "size": "11-50",
+          "id": "FjpprPOtb0ZQouq3uxZnmAKmvaLY",
+          "founded": 1980,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "bristol, england, united kingdom",
+            "locality": "bristol",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "2 cole road street",
+            "address_line_2": null,
+            "postal_code": "bs2 0ug",
+            "geo": "51.45,-2.59"
+          },
+          "linkedin_url": "linkedin.com/company/cod-steaks",
+          "linkedin_id": "2776634",
+          "facebook_url": "facebook.com/codsteaks",
+          "twitter_url": "twitter.com/codsteaks",
+          "website": "codsteaks.com"
+        },
+        "location_names": [
+          "bristol, england, united kingdom"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2011-04",
+        "title": {
+          "name": "head of programme & project management, business development & design",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "design pm mishkat science centre",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2010-11",
+        "start_date": "2010-10",
+        "title": {
+          "name": "senior project manager - interactives",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "natural history museum",
+          "size": "1001-5000",
+          "id": "U1rFigkrTbEQMF15w9iKGASnhch3",
+          "founded": 1881,
+          "industry": "museums and institutions",
+          "industry_v2": "museums, historical sites, and zoos",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sw7 5bd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/natural-history-museum",
+          "linkedin_id": "11782",
+          "facebook_url": "facebook.com/naturalhistorymuseum",
+          "twitter_url": "twitter.com/nhm_london",
+          "website": "nhm.ac.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2011-02",
+        "start_date": "2010-09",
+        "title": {
+          "name": "senior project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chatham historic dockyard",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-03",
+        "start_date": "2009-02",
+        "title": {
+          "name": "senior project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rnli",
+          "size": "1001-5000",
+          "id": "i9uc35rCTTJXoJ96RUpHGgGQdKZn",
+          "founded": 1824,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "poole, england, united kingdom",
+            "locality": "poole",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "bh15 1hz",
+            "geo": "50.71,-1.97"
+          },
+          "linkedin_url": "linkedin.com/company/rnli",
+          "linkedin_id": "31724",
+          "facebook_url": "facebook.com/rnli",
+          "twitter_url": "twitter.com/rnli",
+          "website": "rnli.org"
+        },
+        "location_names": [
+          "poole, england, united kingdom"
+        ],
+        "end_date": "2012-04",
+        "start_date": "2008-06",
+        "title": {
+          "name": "project director & client's project manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dwi",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-09",
+        "start_date": "2008-04",
+        "title": {
+          "name": "project director, project manager & interpretive designer - independent consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "weight aware uk",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "taunton, england, united kingdom"
+        ],
+        "end_date": "2011-04",
+        "start_date": "2008-04",
+        "title": {
+          "name": "director, project & creative manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nmsi science museum",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2008-03",
+        "start_date": "2004-10",
+        "title": {
+          "name": "senior project manager major projects group",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mice international",
+          "size": "5001-10000",
+          "id": "N4Q5ZYyg9MATeBrt8gqrAArejUln",
+          "founded": null,
+          "industry": "events services",
+          "industry_v2": "events services",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/mice-international",
+          "linkedin_id": "104543",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2004-10",
+        "start_date": "2004-01",
+        "title": {
+          "name": "lead creative manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pci live",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2003-12",
+        "start_date": "2003-08",
+        "title": {
+          "name": "freelance design and project management",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hb.source",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2003-05",
+        "start_date": "2000-10",
+        "title": {
+          "name": "head of design",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "explore at-bristol",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2000-07",
+        "start_date": "1997-11",
+        "title": {
+          "name": "project co-ordinator & head of design",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "brennan & whalley",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1997-11",
+        "start_date": "1993-11",
+        "title": {
+          "name": "senior interpretive designer & manager",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "middlesex university",
+          "type": "post-secondary institution",
+          "id": "y8p2NQd9QHT40wCUoxdpcg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/middlesex-university",
+          "facebook_url": "facebook.com/middlesexuniversity",
+          "twitter_url": "twitter.com/middlesexuni",
+          "linkedin_id": "11125",
+          "website": "mdx.ac.uk",
+          "domain": "mdx.ac.uk"
+        },
+        "degrees": [
+          "masters",
+          "master of science"
+        ],
+        "start_date": "1987",
+        "end_date": "1991",
+        "majors": [
+          "communication",
+          "management",
+          "business",
+          "construction"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "middlesex university",
+          "type": "post-secondary institution",
+          "id": "y8p2NQd9QHT40wCUoxdpcg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/middlesex-university",
+          "facebook_url": "facebook.com/middlesexuniversity",
+          "twitter_url": "twitter.com/middlesexuni",
+          "linkedin_id": "11125",
+          "website": "mdx.ac.uk",
+          "domain": "mdx.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1987-01",
+        "end_date": "1991",
+        "majors": [
+          "architecture",
+          "design"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "33243108",
+        "url": "linkedin.com/in/david-wilson-ab0171b",
+        "username": "david-wilson-ab0171b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

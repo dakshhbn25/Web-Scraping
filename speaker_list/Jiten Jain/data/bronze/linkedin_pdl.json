@@ -1,0 +1,589 @@
+{
+  "record_id": "speaker-dubrovnik-126",
+  "speaker_name": "Jiten Jain",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/jitenj/",
+  "scraped_at": "2026-09-18T10:23:59.464160+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "dP8lIAhtNarglLy7oIwn9A_0000",
+    "full_name": "jiten jain",
+    "first_name": "jiten",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "j",
+    "last_name": "jain",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/jitenj",
+    "linkedin_username": "jitenj",
+    "linkedin_id": "31965920",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/jitenjain83",
+    "twitter_username": "jitenjain83",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "mentor",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "ktn7BuFgWDtRCBF7zCtfrQFIiGZp",
+    "job_company_name": "media for all [mefa]",
+    "job_company_website": "mediaforall.org.uk",
+    "job_company_size": "11-50",
+    "job_company_founded": null,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "advertising services",
+    "job_company_linkedin_url": "linkedin.com/company/media-for-all-uk1",
+    "job_company_linkedin_id": "42350019",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-06-19",
+    "job_last_verified": "2026-08-07",
+    "job_start_date": "2025-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-07",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "biofuels",
+      "brand management",
+      "digital",
+      "functional foods",
+      "international travel",
+      "nutrition",
+      "organizational development",
+      "pharma and biopharma",
+      "pharma and healthcare delivery",
+      "playing basketball and cricket",
+      "professional networking",
+      "strategic planning",
+      "vitamins and enzymes"
+    ],
+    "skills": [
+      "analytics",
+      "b2b",
+      "brand management",
+      "business development",
+      "business planning",
+      "business strategy",
+      "competitive analysis",
+      "competitive intelligence",
+      "crm",
+      "cross functional team leadership",
+      "customer relationship management",
+      "digital marketing",
+      "entrepreneurship",
+      "healthcare",
+      "key account management",
+      "management consulting",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing research",
+      "marketing strategy",
+      "new business development",
+      "organizational development",
+      "product development",
+      "product launch",
+      "product management",
+      "product marketing",
+      "project management",
+      "start ups",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy",
+      "team building",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "india"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "media for all [mefa]",
+          "size": "11-50",
+          "id": "ktn7BuFgWDtRCBF7zCtfrQFIiGZp",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/media-for-all-uk1",
+          "linkedin_id": "42350019",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mediaforall.org.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "mentor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "pm society",
+          "size": "11-50",
+          "id": "npi1mxooz34zQNAMFndGDwmiX4fe",
+          "founded": 1976,
+          "industry": "marketing and advertising",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/pmsociety",
+          "linkedin_id": "406401",
+          "facebook_url": "facebook.com/pmsociety",
+          "twitter_url": null,
+          "website": "pmsociety.org.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "digital interest group & industry-agency interest group : committee member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doceree",
+          "size": "51-200",
+          "id": "APPcjg9sxGJKY853sjVjagvvRGT0",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "parsippany, new jersey, united states",
+            "locality": "parsippany",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "07054",
+            "geo": "40.85,-74.40"
+          },
+          "linkedin_url": "linkedin.com/company/doceree",
+          "linkedin_id": "33191624",
+          "facebook_url": "facebook.com/doceree",
+          "twitter_url": null,
+          "website": "doceree.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2023-09",
+        "title": {
+          "name": "vice president - sales & partnerships and general manager - uk & eu",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doceree",
+          "size": "51-200",
+          "id": "APPcjg9sxGJKY853sjVjagvvRGT0",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "parsippany, new jersey, united states",
+            "locality": "parsippany",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "07054",
+            "geo": "40.85,-74.40"
+          },
+          "linkedin_url": "linkedin.com/company/doceree",
+          "linkedin_id": "33191624",
+          "facebook_url": "facebook.com/doceree",
+          "twitter_url": null,
+          "website": "doceree.com"
+        },
+        "location_names": [],
+        "end_date": "2023-08",
+        "start_date": "2022-04",
+        "title": {
+          "name": "assistant vice president - sales & partnership (emerging markets)",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doceree",
+          "size": "51-200",
+          "id": "APPcjg9sxGJKY853sjVjagvvRGT0",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "parsippany, new jersey, united states",
+            "locality": "parsippany",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "07054",
+            "geo": "40.85,-74.40"
+          },
+          "linkedin_url": "linkedin.com/company/doceree",
+          "linkedin_id": "33191624",
+          "facebook_url": "facebook.com/doceree",
+          "twitter_url": null,
+          "website": "doceree.com"
+        },
+        "location_names": [],
+        "end_date": "2022-04",
+        "start_date": "2021-09",
+        "title": {
+          "name": "senior director - sales & partnership",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doceree",
+          "size": "51-200",
+          "id": "APPcjg9sxGJKY853sjVjagvvRGT0",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "parsippany, new jersey, united states",
+            "locality": "parsippany",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "07054",
+            "geo": "40.85,-74.40"
+          },
+          "linkedin_url": "linkedin.com/company/doceree",
+          "linkedin_id": "33191624",
+          "facebook_url": "facebook.com/doceree",
+          "twitter_url": null,
+          "website": "doceree.com"
+        },
+        "location_names": [],
+        "end_date": "2021-08",
+        "start_date": "2020-09",
+        "title": {
+          "name": "director - sales & partnership",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "a.d.a.m. health",
+          "size": "51-200",
+          "id": "omhC9LkezP3bs7bjSOFFbgoZpQCW",
+          "founded": 1990,
+          "industry": "hospital & health care",
+          "industry_v2": "wellness and fitness services",
+          "location": {
+            "name": "johns creek, georgia, united states",
+            "locality": "johns creek",
+            "region": "georgia",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "30097",
+            "geo": "34.05,-84.19"
+          },
+          "linkedin_url": "linkedin.com/company/a-d-a-m--inc-",
+          "linkedin_id": "292085",
+          "facebook_url": "facebook.com/adamhealth",
+          "twitter_url": "twitter.com/adam_health",
+          "website": "adam.com"
+        },
+        "location_names": [
+          "delhi, delhi, india",
+          "new delhi, delhi, india"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2015-03",
+        "title": {
+          "name": "dgm strategy & business",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "via media health",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "delhi, delhi, india",
+          "new delhi, delhi, india"
+        ],
+        "end_date": "2015-02",
+        "start_date": "2013-01",
+        "title": {
+          "name": "senior manager strategy & bussines",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nutritionists republic",
+          "size": "51-200",
+          "id": "rdVqwuSXQ3QfZNOPtIcXjwWGyW9K",
+          "founded": 2011,
+          "industry": "media production",
+          "industry_v2": null,
+          "location": {
+            "name": "noida sector 27, uttar pradesh, india",
+            "locality": "noida sector 27",
+            "region": "uttar pradesh",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "201301",
+            "geo": "28.76,77.48"
+          },
+          "linkedin_url": "linkedin.com/company/nutritionists-republic",
+          "linkedin_id": "2428665",
+          "facebook_url": "facebook.com/nutritionistsrepublic",
+          "twitter_url": null,
+          "website": "nutritionistsrepublic.com"
+        },
+        "location_names": [
+          "new delhi, delhi, india",
+          "delhi, delhi, india"
+        ],
+        "end_date": "2013-01",
+        "start_date": "2011-10",
+        "title": {
+          "name": "brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "via media health communications private limited",
+          "size": "1-10",
+          "id": "b2Hkp57yfw2f8yn7qcxB5g5sHWmo",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "mandawali fazalpur, delhi, india",
+            "locality": "mandawali fazalpur",
+            "region": "delhi",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": "plot no i.p extension",
+            "address_line_2": "unit no 211 iind floor",
+            "postal_code": "110092",
+            "geo": "28.62,77.27"
+          },
+          "linkedin_url": "linkedin.com/company/via-media-health-communications-private-limited",
+          "linkedin_id": "29079019",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2011-09",
+        "start_date": "2008-12",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "indian institute of foreign trade",
+          "type": "post-secondary institution",
+          "id": "FpgSF4iwweuBfl8GfZC6lw_0000",
+          "location": {
+            "name": "new delhi, delhi, india",
+            "locality": "new delhi",
+            "region": "delhi",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/indian-institute-of-foreign-trade",
+          "facebook_url": "facebook.com/iift1963",
+          "twitter_url": null,
+          "linkedin_id": "224366",
+          "website": "iift.edu",
+          "domain": "iift.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2013",
+        "majors": [
+          "commerce",
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "31965920",
+        "url": "linkedin.com/in/jitenj",
+        "username": "jitenj"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/jitenjain83",
+        "username": "jitenjain83"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/jiten-jain-968856a",
+        "username": "jiten-jain-968856a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

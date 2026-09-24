@@ -1,0 +1,158 @@
+{
+  "record_id": "speaker-dubrovnik-025",
+  "speaker_name": "Dan Cohen",
+  "linkedin_url": "https://www.linkedin.com/in/dancohen23/",
+  "likelihood": 9,
+  "full_name": "dan cohen",
+  "job_title": "vice president, global head of commercial operations",
+  "industry": "biotechnology",
+  "current_company": "biogen",
+  "current_company_website": "biogen.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "account management",
+    "cross functional team leadership",
+    "diabetes",
+    "healthcare",
+    "increase productivity",
+    "key account management",
+    "leadership",
+    "lean six sigma",
+    "management",
+    "marketing",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "revenue generation",
+    "sales effectiveness",
+    "six sigma",
+    "strategic planning",
+    "strategy",
+    "training"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "vice president, global head of commercial operations",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2023-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president, head of biosimilars europe, canada and partner markets",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2020-11",
+      "end_date": "2023-11",
+      "is_primary": false
+    },
+    {
+      "title": "general manager uk region - biosimilars uk, ire, nl",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2018-07",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of ethics & compliance - uk, ireland and northern europe",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-03",
+      "end_date": "2018-07",
+      "is_primary": false
+    },
+    {
+      "title": "biomedicines business unit director, uk & ireland",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-03",
+      "end_date": "2017-03",
+      "is_primary": false
+    },
+    {
+      "title": "regional brand leader autoimmune - australia, canada & europe",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-10",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager & transformation leader",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-12",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "business consultant - lean six sigma black belt",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-01",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "regional sales manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-08",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "urology training manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-04",
+      "end_date": "2006-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior sales representative",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-04",
+      "end_date": "2004-04",
+      "is_primary": false
+    },
+    {
+      "title": "marketing associate",
+      "company": "aberdeen",
+      "company_industry": "financial services",
+      "start_date": "1999-07",
+      "end_date": "2000-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "edinburgh napier university",
+      "majors": [
+        "business",
+        "business finance",
+        "commerce"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1995-01",
+      "end_date": "1999"
+    },
+    {
+      "school": "whitgift school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "record_id": "speaker-dubrovnik-033",
+  "speaker_name": "Cristina Halunga",
+  "linkedin_url": "https://www.linkedin.com/in/cristina-halunga-15b6a0108/",
+  "likelihood": 9,
+  "full_name": "cristina halunga",
+  "job_title": "global omnichannel operations lead",
+  "industry": "pharmaceuticals",
+  "current_company": "grünenthal group",
+  "current_company_website": "grunenthal.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "italy",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analisi dei dati qualitativi",
+    "analisi dei dati statistici",
+    "assistenza clienti",
+    "business intelligence",
+    "customer insight",
+    "forecasting",
+    "formazione",
+    "industria farmaceutica",
+    "insight",
+    "lavoro di squadra",
+    "lingua inglese",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft word",
+    "ricerca",
+    "ricerca primaria",
+    "ricerca secondaria",
+    "ricerche di mercato",
+    "spss"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global omnichannel operations lead",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital customer experience manager",
+      "company": "grünenthal italia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-03",
+      "end_date": "2023-11",
+      "is_primary": false
+    },
+    {
+      "title": "junior customer experience business partner",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-12",
+      "end_date": "2021-03",
+      "is_primary": false
+    },
+    {
+      "title": "market research and business intelligence support",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-11",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "market research intern",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-05",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "tirocinante post lauream",
+      "company": "università degli studi di milano-bicocca",
+      "company_industry": "research",
+      "start_date": "2017-10",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "servizio per gli studenti con disabilità e dsa",
+      "company": "università degli studi di milano-bicocca",
+      "company_industry": "research",
+      "start_date": "2012-01",
+      "end_date": "2014-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "università degli studi di milano - bicocca",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2014-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "università degli studi di milano - bicocca",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2010",
+      "end_date": "2016"
+    }
+  ]
+}

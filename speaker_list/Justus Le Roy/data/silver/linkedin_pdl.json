@@ -1,0 +1,209 @@
+{
+  "record_id": "speaker-viennacx-009",
+  "speaker_name": "Justus Le Roy",
+  "linkedin_url": "https://www.linkedin.com/in/justusleroy/",
+  "likelihood": 9,
+  "full_name": "justus le roy",
+  "job_title": "director digital marketing & engagement strategy, incyte international",
+  "industry": "pharmaceuticals",
+  "current_company": "incyte",
+  "current_company_website": "incyte.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe photoshop",
+    "analytical skills",
+    "analytics",
+    "b2b marketing",
+    "biotechnology industry",
+    "business development",
+    "business strategy",
+    "communication",
+    "content management systems",
+    "content strategy",
+    "customer engagement",
+    "customer experience",
+    "customer relationship management",
+    "digital communication",
+    "digital innovation",
+    "digital marketing",
+    "digital media",
+    "digital strategy",
+    "digital transformation",
+    "e business",
+    "e commerce",
+    "email marketing",
+    "go to market strategy",
+    "google adwords",
+    "google analytics",
+    "internet strategy",
+    "journey mapping",
+    "key performance indicators",
+    "management",
+    "marketing",
+    "marketing analytics",
+    "marketing automation",
+    "marketing leadership",
+    "marketing strategy",
+    "media strategy",
+    "multi channel marketing",
+    "omni channel marketing",
+    "online marketing",
+    "paid search strategy",
+    "pharmaceutics",
+    "product strategy",
+    "program management",
+    "project management",
+    "salesforce.com",
+    "search engine marketing",
+    "search engine optimization",
+    "sem",
+    "seo",
+    "sharepoint",
+    "sitecore",
+    "social media",
+    "social media marketing",
+    "strategic planning",
+    "strategy",
+    "team development",
+    "team leadership",
+    "user experience",
+    "web 2.0",
+    "web analytics",
+    "web development",
+    "web marketing",
+    "web project management",
+    "website development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director digital marketing & engagement strategy, incyte international",
+      "company": "incyte",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate director digital, europe",
+      "company": "incyte",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-07",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "international digital director neauvia, matex lab s.a.",
+      "company": "evibes digital consulting",
+      "company_industry": null,
+      "start_date": "2019-06",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "head global digital strategy marketing, communication, innovation & transformation",
+      "company": "invista",
+      "company_industry": "chemicals",
+      "start_date": "2014-01",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "emea digital marketing manager hp.com",
+      "company": "hp",
+      "company_industry": "information technology and services",
+      "start_date": "2009",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "country manager belgium & luxembourg digital marketing & hp.com",
+      "company": "hp",
+      "company_industry": "information technology and services",
+      "start_date": "2006",
+      "end_date": "2009",
+      "is_primary": false
+    },
+    {
+      "title": "independent consultant web & digital services",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2002-01",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "webmaster - digital product interfaces - interactive marketing",
+      "company": "verizon",
+      "company_industry": "information technology and services",
+      "start_date": "1999",
+      "end_date": "2006",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ehsal management school",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2000",
+      "end_date": "2002"
+    },
+    {
+      "school": "vdab",
+      "majors": [
+        "design",
+        "web development"
+      ],
+      "degrees": [],
+      "start_date": "1998-01",
+      "end_date": "1999-12"
+    },
+    {
+      "school": "ehsal management school",
+      "majors": [
+        "kinesiology",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1994",
+      "end_date": "2002"
+    },
+    {
+      "school": "leuven university press",
+      "majors": [
+        "physical education"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1994",
+      "end_date": "1998"
+    },
+    {
+      "school": "ku leuven",
+      "majors": [
+        "kinesiology",
+        "management",
+        "physical education",
+        "sports management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1994-01",
+      "end_date": "1998-12"
+    }
+  ]
+}

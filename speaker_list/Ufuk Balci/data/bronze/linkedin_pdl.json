@@ -1,0 +1,761 @@
+{
+  "record_id": "speaker-medical-030",
+  "speaker_name": "Ufuk Balci",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/ufukbalci/",
+  "scraped_at": "2026-09-18T10:24:57.798937+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "L6UjKKUuqzg7-chB2KO4QQ_0000",
+    "full_name": "ufuk balci",
+    "first_name": "ufuk",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "balci",
+    "sex": "male",
+    "birth_year": true,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/ufukbalci",
+    "linkedin_username": "ufukbalci",
+    "linkedin_id": "98723196",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of business excellence",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+    "job_company_name": "gsk",
+    "job_company_website": "gsk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1830,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/glaxosmithkline",
+    "job_company_linkedin_id": "1399",
+    "job_company_facebook_url": "facebook.com/gsk",
+    "job_company_twitter_url": "twitter.com/gsk",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "ub11 1bt",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-01",
+    "job_last_verified": "2026-07-15",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-15",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "education"
+    ],
+    "skills": [
+      "adobe analytics",
+      "brand management",
+      "brand strategy",
+      "business strategy",
+      "change management",
+      "coaching",
+      "communication",
+      "content marketing",
+      "cross country running",
+      "customer experience",
+      "digital marketing",
+      "digital media",
+      "event management",
+      "healthcare",
+      "high stress environment",
+      "leadership",
+      "management",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "microsoft office",
+      "multi channel marketing",
+      "omni channel marketing",
+      "online advertising",
+      "operational excellence",
+      "personal development",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "product marketing",
+      "project management",
+      "sales",
+      "segmentation",
+      "social media",
+      "social media marketing",
+      "strategic planning",
+      "strategy",
+      "stress management",
+      "team building",
+      "team leadership",
+      "web analytics"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands",
+      "turkey"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "head of business excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2024-10",
+        "start_date": "2021-09",
+        "title": {
+          "name": "omnichannel excellence team leader | region midi europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2021-09",
+        "start_date": "2020-10",
+        "title": {
+          "name": "digital transformation lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "istanbul, istanbul, turkey"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2019-01",
+        "title": {
+          "name": "digital engagement manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2019-01",
+        "start_date": "2018-01",
+        "title": {
+          "name": "multi-channel marketing manager | region emerging markets central",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2018-01",
+        "start_date": "2016-08",
+        "title": {
+          "name": "digital marketing lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2016-08",
+        "start_date": "2016-01",
+        "title": {
+          "name": "multi-channel marketing content lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "istanbul, istanbul, turkey"
+        ],
+        "end_date": "2016",
+        "start_date": "2015",
+        "title": {
+          "name": "brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2015",
+        "start_date": "2014",
+        "title": {
+          "name": "global future leaders program | sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "istanbul, istanbul, turkey"
+        ],
+        "end_date": "2014-06",
+        "start_date": "2014-02",
+        "title": {
+          "name": "product marketing part-timer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "google",
+          "size": "10001+",
+          "id": "aKCIYBNF9ey6o5CjHCCO4goHYKlf",
+          "founded": 1998,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1600 amphitheatre parkway",
+            "address_line_2": null,
+            "postal_code": "94043",
+            "geo": "37.38,-122.07"
+          },
+          "linkedin_url": "linkedin.com/company/google",
+          "linkedin_id": "1441",
+          "facebook_url": "facebook.com/google",
+          "twitter_url": "twitter.com/google",
+          "website": "google.com"
+        },
+        "location_names": [],
+        "end_date": "2014-07",
+        "start_date": "2013-08",
+        "title": {
+          "name": "brand ambassador",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "sales_development",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "istanbul, istanbul, turkey"
+        ],
+        "end_date": "2013-10",
+        "start_date": "2013-07",
+        "title": {
+          "name": "brand management intern",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "microsoft",
+          "size": "10001+",
+          "id": "RZOFiRjw26VpLObnwmYXGgRyn3aW",
+          "founded": 1975,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "redmond, washington, united states",
+            "locality": "redmond",
+            "region": "washington",
+            "metro": "seattle, washington",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 microsoft way",
+            "address_line_2": null,
+            "postal_code": "98052",
+            "geo": "47.66,-122.06"
+          },
+          "linkedin_url": "linkedin.com/company/microsoft",
+          "linkedin_id": "1035",
+          "facebook_url": "facebook.com/microsoft",
+          "twitter_url": "twitter.com/microsoft",
+          "website": "microsoft.com"
+        },
+        "location_names": [
+          "istanbul, istanbul, turkey"
+        ],
+        "end_date": "2012-11",
+        "start_date": "2012-08",
+        "title": {
+          "name": "marketing communications intern",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "istanbul technical university",
+          "type": "post-secondary institution",
+          "id": "wzO60qi0XTwwkClFvZj2mQ_0000",
+          "location": {
+            "name": "istanbul, istanbul, turkey",
+            "locality": "istanbul",
+            "region": "istanbul",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/itu1773",
+          "facebook_url": "facebook.com/itu1773",
+          "twitter_url": "twitter.com/itu1773",
+          "linkedin_id": "12071",
+          "website": "itu.edu.tr",
+          "domain": "itu.edu.tr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2018",
+        "end_date": "2020",
+        "majors": [
+          "engineering",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "istanbul technical university",
+          "type": "post-secondary institution",
+          "id": "wzO60qi0XTwwkClFvZj2mQ_0000",
+          "location": {
+            "name": "istanbul, istanbul, turkey",
+            "locality": "istanbul",
+            "region": "istanbul",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/itu1773",
+          "facebook_url": "facebook.com/itu1773",
+          "twitter_url": "twitter.com/itu1773",
+          "linkedin_id": "12071",
+          "website": "itu.edu.tr",
+          "domain": "itu.edu.tr"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2009",
+        "end_date": "2014",
+        "majors": [
+          "engineering",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "burak bora anatolian high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2005",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "98723196",
+        "url": "linkedin.com/in/ufukbalci",
+        "username": "ufukbalci"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/ufuk-balcı-59008b29",
+        "username": "ufuk-balcı-59008b29"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

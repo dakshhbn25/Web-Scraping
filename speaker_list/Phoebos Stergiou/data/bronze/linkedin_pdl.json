@@ -1,0 +1,683 @@
+{
+  "record_id": "speaker-viennacx-051",
+  "speaker_name": "Phoebos Stergiou",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/phoebos-stergiou/",
+  "scraped_at": "2026-09-18T10:26:33.316739+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "nXOCODLwEeLFXpVfVqIp9w_0000",
+    "full_name": "phoebos stergiou",
+    "first_name": "phoebos",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "stergiou",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/phoebos-stergiou",
+    "linkedin_username": "phoebos-stergiou",
+    "linkedin_id": "355844612",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/phoebosstergiou",
+    "twitter_username": "phoebosstergiou",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of product management, omnichannel customer engagement, digital innovation, senior director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+    "job_company_name": "gilead sciences",
+    "job_company_website": "gilead.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1987,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/gilead-sciences",
+    "job_company_linkedin_id": "163993",
+    "job_company_facebook_url": "facebook.com/gilead-sciences-162678203751209",
+    "job_company_twitter_url": "twitter.com/gileadsciences",
+    "job_company_location_name": "foster city, california, united states",
+    "job_company_location_locality": "foster city",
+    "job_company_location_metro": null,
+    "job_company_location_region": "california",
+    "job_company_location_geo": "38.47,-122.43",
+    "job_company_location_street_address": "333 lakeside drive",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "94404",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2022-11-25",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2022-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile methodologies",
+      "analysis",
+      "analytical skills",
+      "brand management",
+      "building organizational capability",
+      "business development",
+      "business intelligence",
+      "business planning",
+      "change management",
+      "coaching",
+      "commercial operation",
+      "communication",
+      "competitive analysis",
+      "crm",
+      "cross cultural communication skills",
+      "customer relations",
+      "customer segmentation strategy",
+      "digital marketing",
+      "emerging markets",
+      "emotional intelligence",
+      "go to market strategy",
+      "handle multiple priorities",
+      "implementation planning",
+      "interpersonal skills",
+      "key performance indicators",
+      "launch products",
+      "leadership",
+      "market analysis",
+      "market intelligence",
+      "market research",
+      "marketing intelligence",
+      "multi channel marketing",
+      "opportunity identification",
+      "people development",
+      "people management",
+      "performance management",
+      "pharmaceutical industry",
+      "pharmaceutical management",
+      "pharmaceutical project management",
+      "presentation skills",
+      "problem solving",
+      "process improvement",
+      "product launch",
+      "product leadership",
+      "product management",
+      "product promotion",
+      "product strategy",
+      "profitability improvement",
+      "project coordination",
+      "project management",
+      "resource allocation",
+      "resourcing strategy",
+      "sales analysis",
+      "sales compensation",
+      "sales effectiveness",
+      "strategic thinking",
+      "swot analysis",
+      "team leadership",
+      "territory management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2022-09",
+        "title": {
+          "name": "head of product management, omnichannel customer engagement, digital innovation, senior director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "loop horizon",
+          "size": "11-50",
+          "id": "wd09kC1wgBBkiee25cmkZQYgy5Kr",
+          "founded": 2019,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "4a blake mews",
+            "address_line_2": null,
+            "postal_code": "tw9 3ga",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/loophorizon",
+          "linkedin_id": "35495138",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "loophorizon.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-09",
+        "start_date": "2022-01",
+        "title": {
+          "name": "head of product, group product management",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-12",
+        "start_date": "2018-11",
+        "title": {
+          "name": "head of product, customer channels, senior director",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2017-07",
+        "title": {
+          "name": "head of crm channel, director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2015-05",
+        "title": {
+          "name": "commercial operations global po",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2013-03",
+        "title": {
+          "name": "commercial effectiveness manager, emerging markets",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2013-02",
+        "start_date": "2011-09",
+        "title": {
+          "name": "business improvement consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2011-08",
+        "start_date": "2009-07",
+        "title": {
+          "name": "commercial analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "microlife ag",
+          "size": "1001-5000",
+          "id": "74hkaEkKeNALSa2knhrXrwU8fsec",
+          "founded": null,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "widnau, st. gallen, switzerland",
+            "locality": "widnau",
+            "region": "st. gallen",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "9443",
+            "geo": "47.4,9.63"
+          },
+          "linkedin_url": "linkedin.com/company/microlife-ag",
+          "linkedin_id": "1021751",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "microlife.ch"
+        },
+        "location_names": [],
+        "end_date": "2008-10",
+        "start_date": "2008-09",
+        "title": {
+          "name": "freelance product design consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hsbc",
+          "size": "10001+",
+          "id": "67Ly9We2lCbHIAsBbeguQgjzM5Cd",
+          "founded": 1865,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "8 canada square",
+            "address_line_2": null,
+            "postal_code": "e14 5hq",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/hsbc",
+          "linkedin_id": "1241",
+          "facebook_url": "facebook.com/hsbc.bank.581",
+          "twitter_url": null,
+          "website": "hsbc.com"
+        },
+        "location_names": [],
+        "end_date": "2006-09",
+        "start_date": "2006-08",
+        "title": {
+          "name": "web developer - summer internship",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vodafone",
+          "size": "10001+",
+          "id": "ToostUBBJgMHLHQeweAvhAFaRxBI",
+          "founded": 1982,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 kingdom street",
+            "address_line_2": null,
+            "postal_code": "w2 6by",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/vodafone",
+          "linkedin_id": "1217",
+          "facebook_url": "facebook.com/vodafoneuk",
+          "twitter_url": null,
+          "website": "vodafone.com"
+        },
+        "location_names": [],
+        "end_date": "2004-09",
+        "start_date": "2004-08",
+        "title": {
+          "name": "strategy administrator - summer internship",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of bristol",
+          "type": "post-secondary institution",
+          "id": "6W9HEMM6lB0RVO3dwnucXQ_0000",
+          "location": {
+            "name": "bristol, england, united kingdom",
+            "locality": "bristol",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bristol",
+          "facebook_url": "facebook.com/bristoluniversity",
+          "twitter_url": "twitter.com/bristoluni",
+          "linkedin_id": "8094",
+          "website": "bristol.ac.uk",
+          "domain": "bristol.ac.uk"
+        },
+        "degrees": [
+          "master of engineering",
+          "masters"
+        ],
+        "start_date": "2003",
+        "end_date": "2007",
+        "majors": [
+          "electronics",
+          "electronics engineering",
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "arsakeio graduates / alumni",
+          "type": "secondary school",
+          "id": "hc9yaoHXWzv8QqLvFtjUBg_0000",
+          "location": {
+            "name": "athens, attica, greece",
+            "locality": "athens",
+            "region": "attica",
+            "country": "greece",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/arsakeio-alumni",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18390325",
+          "website": "arsakeio.gr",
+          "domain": "arsakeio.gr"
+        },
+        "degrees": [],
+        "start_date": "1997",
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "355844612",
+        "url": "linkedin.com/in/phoebos-stergiou",
+        "username": "phoebos-stergiou"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/phoebosstergiou",
+        "username": "phoebosstergiou"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/phoebos-stergiou-7182089b",
+        "username": "phoebos-stergiou-7182089b"
+      },
+      {
+        "network": "linkedin",
+        "id": "355844612",
+        "url": "linkedin.com/in/phoebosstergiou",
+        "username": "phoebosstergiou"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

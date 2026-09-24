@@ -1,0 +1,652 @@
+{
+  "record_id": "speaker-dubrovnik-022",
+  "speaker_name": "Alex Condoleon",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/alex-condoleon/",
+  "scraped_at": "2026-09-18T09:35:49.627958+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "osM1s205NjKXpaOwpqIfgw_0000",
+    "full_name": "alex condoleon",
+    "first_name": "alex",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "condoleon",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/alex-condoleon",
+    "linkedin_username": "alex-condoleon",
+    "linkedin_id": "12054163",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "chief medical affairs officer of medical engagements & impact",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+    "job_company_name": "pfizer",
+    "job_company_website": "pfizer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1848,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/pfizer",
+    "job_company_linkedin_id": "1185",
+    "job_company_facebook_url": "facebook.com/pfizer",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "new york, new york, united states",
+    "job_company_location_locality": "new york",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.71,-73.99",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10017",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-03-19",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2023",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "artificial intelligence",
+      "biotechnology",
+      "business case development",
+      "business case preparation",
+      "business development",
+      "business process improvement",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "clinical development",
+      "clinical research",
+      "clinical trials",
+      "competitive analysis",
+      "consumer healthcare",
+      "cross cultural communication skills",
+      "cross cultural management",
+      "cross cultural teams",
+      "cross functional team leadership",
+      "data analysis",
+      "deal structuring",
+      "diabetes",
+      "digital engagement",
+      "digital health",
+      "digital healthcare",
+      "digital solutions",
+      "digital strategy",
+      "digital transformation",
+      "drug development",
+      "due diligence",
+      "executive team",
+      "generative ai",
+      "global experience",
+      "healthcare",
+      "healthcare analytics",
+      "hospitals",
+      "innovation",
+      "innovation development",
+      "integrated care",
+      "kol management",
+      "leadership",
+      "life cycle management",
+      "life sciences",
+      "machine learning",
+      "management",
+      "market access",
+      "medical affairs",
+      "medical communications",
+      "medical education",
+      "medicine",
+      "negotiation",
+      "networking",
+      "neurology",
+      "omnichannel",
+      "oncology",
+      "organizational leadership",
+      "patient safety",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "pharmaceutics",
+      "pharmacovigilance",
+      "product innovation",
+      "product launch",
+      "project management",
+      "regulatory affairs",
+      "relationship building",
+      "scientific communications",
+      "social media communications",
+      "strategic leadership",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic thinking",
+      "strategic vision",
+      "strategy",
+      "team building",
+      "team leadership",
+      "team management",
+      "therapeutic areas"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "france",
+      "china"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "cambridge, massachusetts, united states"
+        ],
+        "end_date": null,
+        "start_date": "2023",
+        "title": {
+          "name": "chief medical affairs officer of medical engagements & impact",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "cambridge, massachusetts, united states",
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2023",
+        "start_date": "2020",
+        "title": {
+          "name": "vice president, head of digital healthcare - us, general medicines business unit",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2020",
+        "start_date": "2019",
+        "title": {
+          "name": "vice president global head of strategic planning & applied artificial intelligence, sanofi medical",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2019",
+        "start_date": "2016",
+        "title": {
+          "name": "vice president, head of global medical affairs, sanofi consumer healthcare",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2016",
+        "start_date": "2013",
+        "title": {
+          "name": "senior medical director, sanofi - china",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2013",
+        "start_date": "2009",
+        "title": {
+          "name": "medical director - australia & new zealand",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2009",
+        "start_date": "2007",
+        "title": {
+          "name": "medical affairs manager - retail busines unit",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2005",
+        "title": {
+          "name": "clinical research physician",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "graduate school of management st. petersburg state university",
+          "type": "post-secondary institution",
+          "id": "Kwv-K0jLcLM5XnUfIDtvow_0000",
+          "location": {
+            "name": "saint petersburg, saint petersburg, russia",
+            "locality": "saint petersburg",
+            "region": "saint petersburg",
+            "country": "russia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/gsom.spbu",
+          "facebook_url": "facebook.com/saintpetersburgstateuniversity",
+          "twitter_url": "twitter.com/spb_university",
+          "linkedin_id": "15128523",
+          "website": "gsom.spbu.ru",
+          "domain": "spbu.ru"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2012",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "macquarie business school",
+          "type": "post-secondary institution",
+          "id": "Bf9xBKtlar---qvsqxpBbQ_0000",
+          "location": {
+            "name": "macquarie university, new south wales, australia",
+            "locality": "macquarie university",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/macquarie-business-school",
+          "facebook_url": "facebook.com/macquarieuni",
+          "twitter_url": "twitter.com/macquarie_uni",
+          "linkedin_id": "7764",
+          "website": "mq.edu.au",
+          "domain": "mq.edu.au"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2006",
+        "end_date": "2008",
+        "majors": [
+          "accounting",
+          "business administration",
+          "business administration and management",
+          "financial management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": 4.0
+      },
+      {
+        "school": {
+          "name": "macquarie university - graduate school of business",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2006",
+        "end_date": "2008",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "unsw",
+          "type": "post-secondary institution",
+          "id": "59BKAfOUdVwR-FNgLLJgig_0000",
+          "location": {
+            "name": "unsw sydney, new south wales, australia",
+            "locality": "unsw sydney",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/unsw",
+          "facebook_url": "facebook.com/unsw",
+          "twitter_url": "twitter.com/unsw",
+          "linkedin_id": "6096",
+          "website": "unsw.edu.au",
+          "domain": "unsw.edu.au"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelors"
+        ],
+        "start_date": "1995",
+        "end_date": "2000",
+        "majors": [
+          "government",
+          "health care",
+          "leadership",
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "12054163",
+        "url": "linkedin.com/in/alex-condoleon",
+        "username": "alex-condoleon"
+      },
+      {
+        "network": "linkedin",
+        "id": "12054163",
+        "url": "linkedin.com/in/alexander-condoleon",
+        "username": "alexander-condoleon"
+      },
+      {
+        "network": "linkedin",
+        "id": "12054163",
+        "url": "linkedin.com/in/alexander-condoleon-9570534",
+        "username": "alexander-condoleon-9570534"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

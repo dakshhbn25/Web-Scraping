@@ -1,0 +1,162 @@
+{
+  "record_id": "speaker-dubrovnik-050",
+  "speaker_name": "Dr. Petra Nathan",
+  "linkedin_url": "https://www.linkedin.com/in/dr-petra-nathan-ba939929/",
+  "likelihood": 9,
+  "full_name": "petra nathan",
+  "job_title": "elevatehealth founder",
+  "industry": "research",
+  "current_company": "elevatehealth",
+  "current_company_website": "elevatehealthopenscience.com",
+  "current_company_industry": "hospital & health care",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "asthma",
+    "biochemistry",
+    "bioinformatics",
+    "cell culture",
+    "characterization",
+    "co creation",
+    "enzymology",
+    "immunohistochemistry",
+    "implementation science",
+    "lateral leadership",
+    "latex",
+    "lung function testing",
+    "matlab",
+    "microscopy",
+    "molecular biology",
+    "molecular cloning",
+    "patient journey modelling",
+    "pcr",
+    "programming",
+    "science",
+    "scientific presentations",
+    "scientific writing",
+    "sql",
+    "stategic planning",
+    "statistics",
+    "supervision/ teaching",
+    "western blotting"
+  ],
+  "interests": [
+    "animal welfare",
+    "arts and culture",
+    "civil rights and social action",
+    "environment",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "elevatehealth founder",
+      "company": "elevatehealth",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of implementation science",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "innovation evidence - evidence generation - global medical affaires (rotation)",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-09",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor dermatology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical marketing (rotation)",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-05",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "pharmaberater",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "phd student",
+      "company": "helmholtz-gemeinschaft / helmholtz association",
+      "company_industry": "research",
+      "start_date": "2011-09",
+      "end_date": "2015-07",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "university of munich",
+      "company_industry": "research",
+      "start_date": "2009-07",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "scientific member",
+      "company": "helmholz institute halle-leipzig",
+      "company_industry": null,
+      "start_date": "2007-12",
+      "end_date": "2008-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "technische universität münchen (technical university of munich)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009",
+      "end_date": "2013"
+    },
+    {
+      "school": "technical university of munich",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2015-12"
+    },
+    {
+      "school": "technical university of munich",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2015-01"
+    },
+    {
+      "school": "the martin luther university of halle - wittenberg",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2002-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "the martin luther university of halle - wittenberg",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

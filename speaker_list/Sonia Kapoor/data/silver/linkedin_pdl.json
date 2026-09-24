@@ -1,0 +1,136 @@
+{
+  "record_id": "speaker-dubrovnik-051",
+  "speaker_name": "Sonia Kapoor",
+  "linkedin_url": "https://www.linkedin.com/in/sonia-kapoor-9216179/",
+  "likelihood": 9,
+  "full_name": "sonia kapoor",
+  "job_title": "chief marketing officer, co-founder",
+  "industry": "consumer goods",
+  "current_company": "fortal",
+  "current_company_website": "fortalvidros.com.br",
+  "current_company_industry": null,
+  "location_country": "united arab emirates",
+  "location_region": true,
+  "location_locality": false,
+  "skills": [
+    "brand building",
+    "brand development",
+    "brand equity",
+    "brand management",
+    "btl activations",
+    "business development",
+    "business strategy",
+    "competitive analysis",
+    "consumer behaviour",
+    "customer insight",
+    "data driven marketing",
+    "digital commerce",
+    "digital marketing",
+    "e commerce",
+    "fast moving consumer goods",
+    "fmcg",
+    "growth strategy",
+    "integrated campaign planning",
+    "management",
+    "market analysis",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing management",
+    "marketing mix development",
+    "marketing research",
+    "marketing strategy",
+    "p&l management",
+    "performance marketing",
+    "product development",
+    "roi management",
+    "strategic brand positioning",
+    "team leadership",
+    "team management",
+    "trade marketing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief marketing officer, co-founder",
+      "company": "fortal",
+      "company_industry": null,
+      "start_date": "2026-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of omnichannel",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital marketing",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2022-07",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "u studio & digital marketing leader",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2019-01",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "brand marketing & business unit p & l senior manager, beauty & personal care",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2017-01",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "global brand manager",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2014-09",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "brand development, lifebuoy global",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2011-06",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager- air care",
+      "company": "sc johnson",
+      "company_industry": "consumer goods",
+      "start_date": "2010-03",
+      "end_date": "2011-07",
+      "is_primary": false
+    },
+    {
+      "title": "assistant brand manager",
+      "company": "sc johnson",
+      "company_industry": "consumer goods",
+      "start_date": "2008-11",
+      "end_date": "2010-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "symbiosis institute of management studies",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

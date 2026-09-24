@@ -1,0 +1,1037 @@
+{
+  "record_id": "speaker-dubrovnik-004",
+  "speaker_name": "Ricardo Castrillo",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/ricardocastrillo/",
+  "scraped_at": "2026-09-18T09:06:25.545919+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "D3jFr47xVagvXbwVU-B5Ew_0000",
+    "full_name": "ricardo castrillo",
+    "first_name": "ricardo",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "castrillo",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/ricardocastrillo",
+    "linkedin_username": "ricardocastrillo",
+    "linkedin_id": "24337086",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/rcastrpe7",
+    "twitter_username": "rcastrpe7",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of commercial operations europe, canada, and international",
+    "job_title_role": "operations",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+    "job_company_name": "alexion pharmaceuticals, inc.",
+    "job_company_website": "alexion.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1992,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+    "job_company_linkedin_id": "16750",
+    "job_company_facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+    "job_company_twitter_url": "twitter.com/alexionpharma",
+    "job_company_location_name": "boston, massachusetts, united states",
+    "job_company_location_locality": "boston",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.33,-71.04",
+    "job_company_location_street_address": "121 seaport boulevard",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-10-16",
+    "job_last_verified": "2026-07-07",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-07",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "advisory boards",
+      "artificial intelligence",
+      "biotechnology",
+      "build strong relationships",
+      "business acumen",
+      "business analytics",
+      "business planning",
+      "business strategy",
+      "change management",
+      "commercial planning",
+      "competencia transcultural",
+      "corporate finance",
+      "cross functional team leadership",
+      "desarrollo de cuentas clave",
+      "digital transformation",
+      "director level",
+      "driving results",
+      "english",
+      "entrepreneurship",
+      "environmental",
+      "governance",
+      "healthcare",
+      "innovation management",
+      "insight generation",
+      "inspiring teams",
+      "international development",
+      "international marketing",
+      "launch experience",
+      "launch strategies",
+      "leadership",
+      "liderazgo en ventas y marketing",
+      "make things happen",
+      "management",
+      "market access",
+      "market analysis",
+      "marketing",
+      "marketing management",
+      "marketing strategy",
+      "medical devices",
+      "negotiation",
+      "new business opportunities",
+      "non executive director",
+      "oncology",
+      "open mind",
+      "organizational leadership",
+      "p&l management",
+      "payer and tender business",
+      "people development",
+      "pharmaceutical industry",
+      "pricing strategy",
+      "problem solving",
+      "product launch",
+      "relationship building",
+      "social",
+      "stakeholder management",
+      "strategic alliances",
+      "strategic collaboration",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic thinking",
+      "strategic vision",
+      "strategy",
+      "sustainable business",
+      "talent management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [
+          "baar, zug, switzerland",
+          "zug, zug, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "head of commercial operations europe, canada, and international",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ferrer",
+          "size": "1001-5000",
+          "id": "0ACljLLmPioNWWVAWphRsg917yvv",
+          "founded": 1959,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "diagonal, catalonia, spain",
+            "locality": "diagonal",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.40,2.21"
+          },
+          "linkedin_url": "linkedin.com/company/ferrerforgood",
+          "linkedin_id": "115985",
+          "facebook_url": "facebook.com/ferrerforgood",
+          "twitter_url": "twitter.com/ferrerforgood",
+          "website": "ferrer.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2024-02",
+        "start_date": "2022-01",
+        "title": {
+          "name": "chief commercial officer (cco) ferrer international",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ferquim",
+          "size": "1-10",
+          "id": "k4tyCEeun4SMHitXBMFmjgpQSrZF",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "mexico",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "mexico",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ferquim",
+          "linkedin_id": "6794263",
+          "facebook_url": "facebook.com/ferquims.a.dec.v.2",
+          "twitter_url": null,
+          "website": "ferquim.com"
+        },
+        "location_names": [],
+        "end_date": "2024-01",
+        "start_date": "2022-01",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "farmaindustria",
+          "size": "11-50",
+          "id": "kenOIr5M8QP81ZSGhBiqXQ8SSnyr",
+          "founded": 1963,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.43,-3.72"
+          },
+          "linkedin_url": "linkedin.com/company/farmaindustria",
+          "linkedin_id": "6809636",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/farmaindustria",
+          "website": "farmaindustria.es"
+        },
+        "location_names": [],
+        "end_date": "2024-01",
+        "start_date": "2020-01",
+        "title": {
+          "name": "national trade association board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ferrer",
+          "size": "1001-5000",
+          "id": "0ACljLLmPioNWWVAWphRsg917yvv",
+          "founded": 1959,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "diagonal, catalonia, spain",
+            "locality": "diagonal",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.40,2.21"
+          },
+          "linkedin_url": "linkedin.com/company/ferrerforgood",
+          "linkedin_id": "115985",
+          "facebook_url": "facebook.com/ferrerforgood",
+          "twitter_url": "twitter.com/ferrerforgood",
+          "website": "ferrer.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2022-02",
+        "start_date": "2018-07",
+        "title": {
+          "name": "general manager (country director, managing director, country president)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi españa & portugal",
+          "size": "201-500",
+          "id": "zMff0wHMxBjbFPYMWgBvXgvOkTk2",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "41-43 plaça d'europa",
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/chiesiespaña",
+          "linkedin_id": "10364550",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.es"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2017-07",
+        "title": {
+          "name": "special care & rare disease and consumer health care business unit director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi group",
+          "size": "5001-10000",
+          "id": "Nfi8Yr32CR8WTrIM2BY1hwdz0q0N",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "131 viaduct paradigna",
+            "address_line_2": null,
+            "postal_code": "43122",
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-group",
+          "linkedin_id": "40291",
+          "facebook_url": "facebook.com/chiesifarmaceutici",
+          "twitter_url": null,
+          "website": "chiesi.com"
+        },
+        "location_names": [
+          "parma, emilia-romagna, italy"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2016-12",
+        "title": {
+          "name": "open collaboration platform for innovation leader (disc)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi españa & portugal",
+          "size": "201-500",
+          "id": "zMff0wHMxBjbFPYMWgBvXgvOkTk2",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "41-43 plaça d'europa",
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/chiesiespaña",
+          "linkedin_id": "10364550",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.es"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2016-01",
+        "title": {
+          "name": "special care & rare disease director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi españa & portugal",
+          "size": "201-500",
+          "id": "zMff0wHMxBjbFPYMWgBvXgvOkTk2",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "41-43 plaça d'europa",
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/chiesiespaña",
+          "linkedin_id": "10364550",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.es"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2014-06",
+        "title": {
+          "name": "special care business director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2014-06",
+        "start_date": "2011-09",
+        "title": {
+          "name": "kam director & business unit director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eada business school",
+          "size": "201-500",
+          "id": "zcCk5ewmOqMUt8ODBTLBfAqtksaS",
+          "founded": 1957,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "204 carrer d'arago",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/school/eada",
+          "linkedin_id": "163539",
+          "facebook_url": "facebook.com/eadabs",
+          "twitter_url": "twitter.com/eada_world",
+          "website": "eada.edu"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": null,
+        "start_date": "2010-01",
+        "title": {
+          "name": "associate professor pharma marketing",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [],
+        "end_date": "2011-09",
+        "start_date": "2009-12",
+        "title": {
+          "name": "business unit director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2009-12",
+        "start_date": "2008-01",
+        "title": {
+          "name": "marketing manager urology / oncology",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "scras ipsen international",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2008-09",
+        "start_date": "2006-09",
+        "title": {
+          "name": "international brand manager (endocrinology)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2002-09",
+        "title": {
+          "name": "senior product manager oncology / endocrinology",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2002-09",
+        "start_date": "2002-05",
+        "title": {
+          "name": "junior product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "entry"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "eada business school",
+          "type": "post-secondary institution",
+          "id": "aOc8Ahs-X9bDbekSB0QK1g_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/eada",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "163539",
+          "website": "eada.edu",
+          "domain": "eada.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-09",
+        "end_date": "2022-03",
+        "majors": [
+          "sustainability",
+          "sustainability studies"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "iese business school",
+          "type": "post-secondary institution",
+          "id": "Y87BftjK52-iFSI18DQsaA_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/iese-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164299",
+          "website": "iese.edu",
+          "domain": "iese.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2021-07",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sda bocconi",
+          "type": "post-secondary institution",
+          "id": "mcrSZaF2jMLdAT8OdAMArg_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sda-bocconi-school-of-management",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "6406",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [],
+        "start_date": "2017-01-01",
+        "end_date": "2018",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tcapu school",
+          "type": "post-secondary institution",
+          "id": "VTqYKgOrfG6NIt1GwLTe7g_0000",
+          "location": {
+            "name": "tehran, iran",
+            "locality": null,
+            "region": "tehran",
+            "country": "iran",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/company/the-biz-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "68253492",
+          "website": "tcapu.com",
+          "domain": "tcapu.com"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2008",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esade",
+          "type": "post-secondary institution",
+          "id": "BinkVpLIAly4rqAMKcbzgw_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esade",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "163678",
+          "website": "esade.edu",
+          "domain": "esade.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2008-09",
+        "end_date": "2010-07",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esade",
+          "type": "post-secondary institution",
+          "id": "BinkVpLIAly4rqAMKcbzgw_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esade",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "163678",
+          "website": "esade.edu",
+          "domain": "esade.edu"
+        },
+        "degrees": [],
+        "start_date": "2008-01-01",
+        "end_date": "2010-01-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitat de barcelona",
+          "type": "post-secondary institution",
+          "id": "ueQJP5cCUdW8-Ii3aUSkvA_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-barcelona",
+          "facebook_url": "facebook.com/universitatdebarcelona",
+          "twitter_url": "twitter.com/unibarcelona",
+          "linkedin_id": "8082",
+          "website": "ub.edu",
+          "domain": "ub.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1996-01-01",
+        "end_date": "2001-01-01",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "24337086",
+        "url": "linkedin.com/in/ricardocastrillo",
+        "username": "ricardocastrillo"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/rcastrpe7",
+        "username": "rcastrpe7"
+      },
+      {
+        "network": "linkedin",
+        "id": "24337086",
+        "url": "linkedin.com/in/★-ricardo-castrillo-b661978",
+        "username": "★-ricardo-castrillo-b661978"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/â-ricardo-castrillo-b661978",
+        "username": "â-ricardo-castrillo-b661978"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

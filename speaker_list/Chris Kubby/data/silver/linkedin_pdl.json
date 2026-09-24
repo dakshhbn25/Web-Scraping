@@ -1,0 +1,217 @@
+{
+  "record_id": "speaker-dubrovnik-091",
+  "speaker_name": "Chris Kubby",
+  "linkedin_url": "https://www.linkedin.com/in/kubby/",
+  "likelihood": 9,
+  "full_name": "chris kubby",
+  "job_title": "chief executive officer & founder",
+  "industry": "marketing and advertising",
+  "current_company": "kubbco",
+  "current_company_website": "kubbco.com",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe creative suite",
+    "advertising",
+    "art direction",
+    "b2b",
+    "brand development",
+    "cms",
+    "copywriting",
+    "corporate branding",
+    "corporate communications",
+    "corporate identity",
+    "creative development",
+    "creative direction",
+    "crm",
+    "css",
+    "customer relations",
+    "digital marketing",
+    "digital media",
+    "digital strategy",
+    "e commerce",
+    "email marketing",
+    "empowerment",
+    "event management",
+    "event planning",
+    "graphic design",
+    "illustrator",
+    "integrated marketing",
+    "internal communications",
+    "investor relations",
+    "lead generation",
+    "leadership",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "online advertising",
+    "online marketing",
+    "photography",
+    "photoshop",
+    "public relations",
+    "sem",
+    "seo",
+    "social media",
+    "social media marketing",
+    "social networking",
+    "strategic communications",
+    "strategy",
+    "strategy development",
+    "team management",
+    "web analytics",
+    "web design",
+    "web development"
+  ],
+  "interests": [
+    "advertising",
+    "arts and culture",
+    "blogging",
+    "branding",
+    "business development",
+    "civil rights and social action",
+    "content marketing",
+    "conversion rate optimization",
+    "design",
+    "digital marketing",
+    "education",
+    "growth hacking",
+    "health",
+    "human rights",
+    "marketing",
+    "messaging",
+    "mobile",
+    "press",
+    "pretty much anything business",
+    "product development",
+    "sales",
+    "science and technology",
+    "see 7",
+    "see less",
+    "sem",
+    "seo",
+    "social media",
+    "video",
+    "web analytics"
+  ],
+  "experience": [
+    {
+      "title": "chief executive officer & founder",
+      "company": "kubbco",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "strategic advisor",
+      "company": "databoard",
+      "company_industry": "information technology and services",
+      "start_date": "2017-08",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "growth hacker / marketing consultant",
+      "company": "seier capital",
+      "company_industry": "venture capital & private equity",
+      "start_date": "2016-04",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital marketing",
+      "company": "norriq danmark",
+      "company_industry": "information technology and services",
+      "start_date": "2014-02",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing manager",
+      "company": "simcorp",
+      "company_industry": "computer software",
+      "start_date": "2010-04",
+      "end_date": "2014-02",
+      "is_primary": false
+    },
+    {
+      "title": "digital media director",
+      "company": "adtomic communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2009-11",
+      "end_date": "2010-04",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "adtomic communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2008-11",
+      "end_date": "2010-04",
+      "is_primary": false
+    },
+    {
+      "title": "communications associate",
+      "company": "balaton group inc.",
+      "company_industry": null,
+      "start_date": "2005-09",
+      "end_date": "2008-10",
+      "is_primary": false
+    },
+    {
+      "title": "founder and chief executive officer",
+      "company": "chubby baby productions",
+      "company_industry": null,
+      "start_date": "1999-09",
+      "end_date": "2005-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "hubspot academy",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2015-12"
+    },
+    {
+      "school": "marketing association at san francisco state university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "university of calgary",
+      "majors": [
+        "communications"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2004-12"
+    },
+    {
+      "school": "hubspot academy",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1978",
+      "end_date": "1985"
+    },
+    {
+      "school": "george macdougall high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

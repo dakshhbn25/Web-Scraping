@@ -1,0 +1,999 @@
+{
+  "record_id": "speaker-dubrovnik-019",
+  "speaker_name": "Alyssa Fenoglio",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/afenoglio/",
+  "scraped_at": "2026-09-18T09:35:43.162528+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "3EiLPnOUNQThA3344lnWhw_0000",
+    "full_name": "alyssa fenoglio",
+    "first_name": "alyssa",
+    "middle_initial": "r",
+    "middle_name": "rachelle",
+    "last_initial": "f",
+    "last_name": "fenoglio",
+    "sex": "female",
+    "birth_year": true,
+    "birth_date": true,
+    "linkedin_url": "linkedin.com/in/afenoglio",
+    "linkedin_username": "afenoglio",
+    "linkedin_id": "9377148",
+    "facebook_url": "facebook.com/alyssa.fenoglio",
+    "facebook_username": "alyssa.fenoglio",
+    "facebook_id": "573763670",
+    "twitter_url": "twitter.com/arfenog",
+    "twitter_username": "arfenog",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "management consulting",
+    "job_title": "ai transformation advisor & speaker",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [],
+    "job_company_id": "Crw1x0T4BLE3QeL7dx13NQFsjOT9",
+    "job_company_name": "the stem",
+    "job_company_website": "thestem.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2013,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/the-stem",
+    "job_company_linkedin_id": "3475834",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "larchmont, new york, united states",
+    "job_company_location_locality": "larchmont",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.92,-73.75",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10538",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-06-15",
+    "job_last_verified": "2026-09-08",
+    "job_start_date": "2026-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-08",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "children",
+      "economic empowerment"
+    ],
+    "skills": [
+      "advisory boards",
+      "advisory councils",
+      "ai transformation",
+      "artificial intelligence",
+      "artificial intelligence for business",
+      "brand activation",
+      "brand development",
+      "brand management",
+      "brand marketing",
+      "brand strategy",
+      "building partnerships",
+      "business strategy",
+      "business transformation",
+      "campaign launch",
+      "capability development",
+      "career development",
+      "change management",
+      "coaching",
+      "competitive analysis",
+      "consumer marketing",
+      "consumer products",
+      "corporate advisory",
+      "crm",
+      "cross functional collaborations",
+      "cross functional team leadership",
+      "customer experience",
+      "customer relationship management",
+      "digital health",
+      "digital marketing",
+      "digital strategy",
+      "digital transformation",
+      "diversity and inclusion",
+      "e commerce",
+      "emerging markets",
+      "executive leadership",
+      "field sales training",
+      "generative ai tools",
+      "global cross functional team leadership",
+      "global leadership",
+      "global marketing",
+      "global strategy",
+      "influencer marketing",
+      "international marketing",
+      "keynote speaking",
+      "kol development",
+      "kol management",
+      "leadership",
+      "management",
+      "market analysis",
+      "market development",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing research",
+      "marketing strategy",
+      "medical devices",
+      "medtech",
+      "mobile marketing",
+      "national sales meeting",
+      "omni channel marketing",
+      "omnichannel marketing",
+      "online advertising",
+      "organizational capability",
+      "p&l management",
+      "people development",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "president's club",
+      "product development",
+      "product launch",
+      "product management",
+      "product marketing",
+      "responsible marketing",
+      "retail partnerships",
+      "sales",
+      "sales management",
+      "sales operations",
+      "sales presentations",
+      "segmentation",
+      "senior stakeholder management",
+      "small business development",
+      "social media marketing",
+      "sponsorship activation",
+      "sports marketing",
+      "stakeholder management",
+      "strategic advising",
+      "strategic partnerships",
+      "strategic thinking",
+      "strategy",
+      "sustainability",
+      "team leadership",
+      "university lecturing",
+      "venture capital",
+      "wearable technology",
+      "women's leadership"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "netherlands",
+      "france"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "the stem",
+          "size": "51-200",
+          "id": "Crw1x0T4BLE3QeL7dx13NQFsjOT9",
+          "founded": 2013,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "larchmont, new york, united states",
+            "locality": "larchmont",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10538",
+            "geo": "40.92,-73.75"
+          },
+          "linkedin_url": "linkedin.com/company/the-stem",
+          "linkedin_id": "3475834",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thestem.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-05",
+        "title": {
+          "name": "ai transformation advisor & speaker",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "thena capital",
+          "size": "1-10",
+          "id": "nr40bBL1CyFxqqTxUobKAAyY8VH0",
+          "founded": null,
+          "industry": "venture capital & private equity",
+          "industry_v2": "venture capital and private equity principals",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/thena-capital",
+          "linkedin_id": "40807025",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thenacapital.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "fellow & advisor",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the human algorithm advisory",
+          "size": "1-10",
+          "id": "ybTpplS8o5zDMXMy41RtSQyliMyU",
+          "founded": 2025,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/the-human-algorithm-advisory",
+          "linkedin_id": "108941308",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thehumanalgorithm.co"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "founder & strategic advisor",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "global ai leaders network (gail)",
+          "size": "1-10",
+          "id": "iFgIBr3YzqNDGZzxIo358QZCXJaL",
+          "founded": 2024,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "edinburgh, scotland, united kingdom",
+            "locality": "edinburgh",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "55.93,-3.22"
+          },
+          "linkedin_url": "linkedin.com/company/global-ai-leaders-network",
+          "linkedin_id": "105233829",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "gailnetwork.com"
+        },
+        "location_names": [
+          "edinburgh, scotland, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-07",
+        "title": {
+          "name": "strategic advisor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "klick",
+          "size": "1001-5000",
+          "id": "XPuXhb82a20T4fFJkZ0tlwhEOls6",
+          "founded": 1997,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "metro": null,
+            "country": "canada",
+            "continent": "north america",
+            "street_address": "175 bloor street east",
+            "address_line_2": null,
+            "postal_code": "m4w 3r8",
+            "geo": "43.65,-79.38"
+          },
+          "linkedin_url": "linkedin.com/company/klick-health",
+          "linkedin_id": "634643",
+          "facebook_url": "facebook.com/klickhealth",
+          "twitter_url": "twitter.com/klickhealth",
+          "website": "klick.com"
+        },
+        "location_names": [
+          "toronto, ontario, canada"
+        ],
+        "end_date": "2025-03",
+        "start_date": "2024-03",
+        "title": {
+          "name": "healthcare ai board advisor",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chief",
+          "size": "51-200",
+          "id": "vJNt9vylNvRNIUaL20AnZgCIUQ65",
+          "founded": 2019,
+          "industry": "professional training & coaching",
+          "industry_v2": "think tanks",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "13 east 19th street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/joinchief",
+          "linkedin_id": "11864448",
+          "facebook_url": "facebook.com/joinchiefnow",
+          "twitter_url": null,
+          "website": "chief.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2025-09",
+        "start_date": "2023-09",
+        "title": {
+          "name": "chief member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wfa",
+          "size": "11-50",
+          "id": "ky7pvzL9uTEHNwCCJ1Vm0gELozV3",
+          "founded": 1953,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "140 avenue louise",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/company/wfa",
+          "linkedin_id": "211451",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/wfamarketers",
+          "website": "wfanet.org"
+        },
+        "location_names": [],
+        "end_date": "2025-11",
+        "start_date": "2023-04",
+        "title": {
+          "name": "council member & advisor - ai council, chief marketing officer forum",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2025-10",
+        "start_date": "2023-04",
+        "title": {
+          "name": "vice president, global head of digital commercial",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2023-04",
+        "start_date": "2019",
+        "title": {
+          "name": "assistant vice president of global marketing excellence, consumer healthcare",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "texas a&m university",
+          "size": "10001+",
+          "id": "CNvrekBW2uGCnvHkQGiwmA6CTuUB",
+          "founded": 1876,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "college station, texas, united states",
+            "locality": "college station",
+            "region": "texas",
+            "metro": "college station, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "805 rudder tower",
+            "address_line_2": null,
+            "postal_code": "77843",
+            "geo": "30.57,-96.30"
+          },
+          "linkedin_url": "linkedin.com/school/texas-a&m-university",
+          "linkedin_id": "4556",
+          "facebook_url": "facebook.com/tamu",
+          "twitter_url": "twitter.com/cnve",
+          "website": "tamu.edu"
+        },
+        "location_names": [
+          "college station, texas, united states"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2018-03",
+        "title": {
+          "name": "visiting lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2019",
+        "start_date": "2017",
+        "title": {
+          "name": "senior director of global marketing excellence & multi-channel engagement",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [
+          "austin, texas, united states"
+        ],
+        "end_date": "2017",
+        "start_date": "2016",
+        "title": {
+          "name": "director of global consumer marketing - st jude medical neuromodulation",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "neurometrix, inc.",
+          "size": "11-50",
+          "id": "WNr7sOt2I4BCrkNtuegkUAl3kLeV",
+          "founded": 1996,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "rockaway, new jersey, united states",
+            "locality": "rockaway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 forge way",
+            "address_line_2": "suite 205",
+            "postal_code": "07866",
+            "geo": "40.94,-74.49"
+          },
+          "linkedin_url": "linkedin.com/company/neurometrix",
+          "linkedin_id": "56402",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/neurometrix",
+          "website": "neurometrix.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2016",
+        "start_date": "2014",
+        "title": {
+          "name": "director of marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2014",
+        "start_date": "2011",
+        "title": {
+          "name": "senior assistant brand manager - gillette north america",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2013",
+        "start_date": "2011",
+        "title": {
+          "name": "senior global assistant brand manager - gillette global",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medtronic",
+          "size": "10001+",
+          "id": "eNoRZQzcsn1b9Mtcjer5dgF5NPj5",
+          "founded": 1949,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "minneapolis, minnesota, united states",
+            "locality": "minneapolis",
+            "region": "minnesota",
+            "metro": "minneapolis, minnesota",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "710 medtronic parkway",
+            "address_line_2": null,
+            "postal_code": "55432",
+            "geo": "44.98,-93.26"
+          },
+          "linkedin_url": "linkedin.com/company/medtronic",
+          "linkedin_id": "1841",
+          "facebook_url": "facebook.com/medtronic",
+          "twitter_url": "twitter.com/medtronic",
+          "website": "medtronic.com"
+        },
+        "location_names": [
+          "los angeles, california, united states"
+        ],
+        "end_date": "2011",
+        "start_date": "2008",
+        "title": {
+          "name": "senior global product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alcon",
+          "size": "10001+",
+          "id": "CQsl37eNqj1t3y3wPCJlbwvAZjEn",
+          "founded": 1945,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "cointrin, geneva, switzerland",
+            "locality": "cointrin",
+            "region": "geneva",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "58 avenue louis-casaï",
+            "address_line_2": null,
+            "postal_code": "1216",
+            "geo": "46.22,6.1"
+          },
+          "linkedin_url": "linkedin.com/company/alcon",
+          "linkedin_id": "5275",
+          "facebook_url": "facebook.com/alconeyecare",
+          "twitter_url": null,
+          "website": "alcon.com"
+        },
+        "location_names": [
+          "los angeles, california, united states"
+        ],
+        "end_date": "2008",
+        "start_date": "2005",
+        "title": {
+          "name": "specialty pharmaceutical sales representative & sales trainer",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "usc marshall school of business",
+          "type": "post-secondary institution",
+          "id": "0xVBLwISqApdBCwSdSKi1Q_0000",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/uscmarshallschoolofbusiness",
+          "facebook_url": "facebook.com/usc",
+          "twitter_url": "twitter.com/usc",
+          "linkedin_id": "3083",
+          "website": "marshall.usc.edu",
+          "domain": "usc.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2006",
+        "end_date": "2008",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "texas a&m university",
+          "type": "post-secondary institution",
+          "id": "b1GMMfa6o2X1XDjRHMNJ0Q_0000",
+          "location": {
+            "name": "college station, texas, united states",
+            "locality": "college station",
+            "region": "texas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/texas-a&m-university",
+          "facebook_url": "facebook.com/tamu",
+          "twitter_url": "twitter.com/tamu",
+          "linkedin_id": "4556",
+          "website": "tamu.edu",
+          "domain": "tamu.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1999",
+        "end_date": "2003",
+        "majors": [
+          "kinesiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "texas a&m university",
+          "type": "post-secondary institution",
+          "id": "b1GMMfa6o2X1XDjRHMNJ0Q_0000",
+          "location": {
+            "name": "college station, texas, united states",
+            "locality": "college station",
+            "region": "texas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/texas-a&m-university",
+          "facebook_url": "facebook.com/tamu",
+          "twitter_url": "twitter.com/tamu",
+          "linkedin_id": "4556",
+          "website": "tamu.edu",
+          "domain": "tamu.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "communications"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "9377148",
+        "url": "linkedin.com/in/afenoglio",
+        "username": "afenoglio"
+      },
+      {
+        "network": "facebook",
+        "id": "573763670",
+        "url": "facebook.com/alyssa.fenoglio",
+        "username": "alyssa.fenoglio"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/arfenog",
+        "username": "arfenog"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/alyssa-fenoglio-7101823",
+        "username": "alyssa-fenoglio-7101823"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

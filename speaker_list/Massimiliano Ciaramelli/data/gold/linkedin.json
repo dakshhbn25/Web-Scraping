@@ -1,0 +1,280 @@
+{
+  "record_id": "speaker-dubrovnik-086",
+  "speaker_name": "Massimiliano Ciaramelli",
+  "designation": "Head of Customer Success",
+  "company": "mamahealth.com",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/massimilianociaramelli/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "mama health",
+  "linkedin_location": "United States, US",
+  "linkedin_connections": "500",
+  "linkedin_followers": "2937",
+  "linkedin_about": "None",
+  "linkedin_about_en": null,
+  "linkedin_languages": "**Italiano** (Native or bilingual proficiency), **Inglese** (Full professional proficiency), **Spagnolo** (Limited working proficiency), **French** (Elementary proficiency), **German** (Elementary proficiency)",
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Isaac Eleini",
+      "company": "Atlassian",
+      "profile_url": "https://uk.linkedin.com/in/isaaceleini"
+    },
+    {
+      "name": "Itziar Hernández",
+      "company": "Microsoft",
+      "profile_url": "https://es.linkedin.com/in/itzihj"
+    },
+    {
+      "name": "Robin Ostlund",
+      "company": "Bain & Company",
+      "profile_url": "https://uk.linkedin.com/in/robin-ostlund"
+    },
+    {
+      "name": "Valentine Décamps",
+      "company": "Airtable",
+      "profile_url": "https://www.linkedin.com/in/vdecamps"
+    },
+    {
+      "name": "Pedro Almeida",
+      "company": "RLA Consulting Limited",
+      "profile_url": "https://uk.linkedin.com/in/pedrohgalmeida"
+    },
+    {
+      "name": "Danielle Pease",
+      "company": "Flooid",
+      "profile_url": "https://uk.linkedin.com/in/danielle-pease-9779b0a7"
+    },
+    {
+      "name": "Fay Halkiadaki",
+      "company": "8x8",
+      "profile_url": "https://uk.linkedin.com/in/fayhalk"
+    },
+    {
+      "name": "Hannah Rugg",
+      "company": "Cognisess",
+      "profile_url": "https://uk.linkedin.com/in/hannah-rugg-83202b58"
+    },
+    {
+      "name": "Simon Howson-Baggott",
+      "company": "LinkedIn",
+      "profile_url": "https://uk.linkedin.com/in/simonhowsonbaggott"
+    }
+  ],
+  "linkedin_industry": "hospital & health care",
+  "linkedin_current_company": "mama health",
+  "linkedin_current_company_website": "mamahealth.com",
+  "linkedin_skills": [
+    "business plan",
+    "business strategy",
+    "lavoro di squadra",
+    "leadership",
+    "management",
+    "marketing",
+    "microsoft excel",
+    "powerpoint",
+    "project management",
+    "pubbliche relazioni",
+    "public relations",
+    "public speaking",
+    "strategia d'impresa",
+    "teamwork"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "vice president, commercial",
+      "company": "mama health",
+      "company_industry": "hospital & health care",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of customer success",
+      "company": "mama health",
+      "company_industry": "hospital & health care",
+      "start_date": "2025-01",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "ambassador",
+      "company": "weroad",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "2024-01",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "travel coordinator",
+      "company": "weroad",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global director, customer value solutions",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2022-03",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "team leader, adoption programs",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2021-10",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior customer success manager",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2020-07",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "customer success manager",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2019-01",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "allianz partners",
+      "company_industry": "insurance",
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "chief of staff to the chief executive officer",
+      "company": "beyers koffie",
+      "company_industry": "food production",
+      "start_date": "2017-10",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "strategy consulting",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2017-01",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "vicepresident & head of public relations",
+      "company": "b.wine",
+      "company_industry": "wine and spirits",
+      "start_date": "2015-01",
+      "end_date": "2017-09",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "harvard business school online",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021-01"
+    },
+    {
+      "school": "the university of queensland",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2016",
+      "end_date": "2017"
+    },
+    {
+      "school": "università bocconi",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2015",
+      "end_date": "2017"
+    },
+    {
+      "school": "university of auckland",
+      "majors": [],
+      "degrees": [
+        "bachelor of commerce",
+        "bachelors"
+      ],
+      "start_date": "2014",
+      "end_date": "2014"
+    },
+    {
+      "school": "università bocconi",
+      "majors": [
+        "finance",
+        "international economics",
+        "management"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2012",
+      "end_date": "2015"
+    },
+    {
+      "school": "liceo scientifico \"tito lucrezio caro\", naples, italy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007",
+      "end_date": "2012"
+    },
+    {
+      "school": "univeristy of colorado school of medicine",
+      "majors": [
+        "commerce"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "school": "liceo scientifico caro di",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2012"
+    },
+    {
+      "school": "liceo scientifico tito lucrezio caro",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2012"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

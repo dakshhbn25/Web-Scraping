@@ -1,0 +1,189 @@
+{
+  "record_id": "speaker-dubrovnik-094",
+  "speaker_name": "Dominik Mergler",
+  "linkedin_url": "https://www.linkedin.com/in/dominikmergler/?locale=en",
+  "likelihood": 9,
+  "full_name": "dominik mergler",
+  "job_title": "director customer engagement & prokurist (authorised representative)",
+  "industry": "computer hardware",
+  "current_company": "valantic",
+  "current_company_website": "valantic.com",
+  "current_company_industry": "management consulting",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "amazon web services",
+    "business development",
+    "business planning",
+    "business strategy",
+    "englisch",
+    "entrepreneurship",
+    "event management",
+    "german",
+    "management consulting",
+    "market research",
+    "marketing strategy",
+    "marketingstrategie",
+    "microsoft excel",
+    "microsoft powerpoint",
+    "microsoft word",
+    "open innovation",
+    "post merger integration",
+    "projektmanagement",
+    "research",
+    "salesforce",
+    "start ups",
+    "tableau",
+    "team leadership",
+    "unternehmensberatung",
+    "unternehmensstrategie",
+    "unternehmertum"
+  ],
+  "interests": [
+    "basketball",
+    "fitness",
+    "fussball",
+    "musik"
+  ],
+  "experience": [
+    {
+      "title": "director customer engagement & prokurist (authorised representative)",
+      "company": "valantic",
+      "company_industry": "management consulting",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "bloomreach ambassador",
+      "company": "bloomreach",
+      "company_industry": "internet",
+      "start_date": "2023-07",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "director customer engagement",
+      "company": "valantic",
+      "company_industry": "management consulting",
+      "start_date": "2023-01",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "advisory board",
+      "company": "cupeva group",
+      "company_industry": "staffing and recruiting",
+      "start_date": "2021-03",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "director business development & marketing",
+      "company": "valantic",
+      "company_industry": "management consulting",
+      "start_date": "2021-03",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing & enablement - manufacturing operations management",
+      "company": "siemens digital industries software",
+      "company_industry": "computer software",
+      "start_date": "2019-02",
+      "end_date": "2021-03",
+      "is_primary": false
+    },
+    {
+      "title": "manager business enablement program",
+      "company": "siemens digital industries software",
+      "company_industry": "computer software",
+      "start_date": "2016-10",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "projektmanagement post merger integration",
+      "company": "siemens digital industries software",
+      "company_industry": "computer software",
+      "start_date": "2013-11",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "head of recruiting services / co-founder",
+      "company": "brain agents ug",
+      "company_industry": null,
+      "start_date": "2012-06",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "assistant to the managing partner",
+      "company": "competivation consulting",
+      "company_industry": "management consulting",
+      "start_date": "2012-01",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder",
+      "company": "talentsconnect ag",
+      "company_industry": "computer software",
+      "start_date": "2010-09",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "projektmanagement",
+      "company": "enadvice ag",
+      "company_industry": null,
+      "start_date": "2010-01",
+      "end_date": "2010-04",
+      "is_primary": false
+    },
+    {
+      "title": "projektmanagement",
+      "company": "management systems network",
+      "company_industry": null,
+      "start_date": "2009-01",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "ressort sponsoring",
+      "company": "ofw organisationsforum wirtschaftskongress gemeinnützige gmbh",
+      "company_industry": "events services",
+      "start_date": "2008-08",
+      "end_date": "2010-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "fom university of applied sciences for economics and management",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "university of cologne",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": null
+    }
+  ]
+}

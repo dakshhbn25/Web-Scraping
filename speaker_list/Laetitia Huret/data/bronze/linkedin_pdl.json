@@ -1,0 +1,695 @@
+{
+  "record_id": "speaker-dubrovnik-055",
+  "speaker_name": "Laetitia Huret",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/laetitiahuret/",
+  "scraped_at": "2026-09-18T09:37:02.192845+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "p3ot9CkMdM85uuOONIJQOA_0000",
+    "full_name": "laetitia huret",
+    "first_name": "laetitia",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "h",
+    "last_name": "huret",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/laetitiahuret",
+    "linkedin_username": "laetitiahuret",
+    "linkedin_id": "412367271",
+    "facebook_url": "facebook.com/laetitia.l.huret",
+    "facebook_username": "laetitia.l.huret",
+    "facebook_id": "1076169672",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "transformation excellence lead",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "vwQVktL9Ca2928apBIruBgzuvACs",
+    "job_company_name": "servier",
+    "job_company_website": "servier.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1954,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/servier",
+    "job_company_linkedin_id": "165926",
+    "job_company_facebook_url": "facebook.com/servierinternational",
+    "job_company_twitter_url": "twitter.com/servier",
+    "job_company_location_name": "suresnes, île-de-france, france",
+    "job_company_location_locality": "suresnes",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.87,2.22",
+    "job_company_location_street_address": "50 rue carnot",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "92150",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-01-23",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "children",
+      "civil rights and social action",
+      "disaster and humanitarian relief",
+      "environment",
+      "human rights",
+      "politics",
+      "science and technology"
+    ],
+    "skills": [
+      "adobe illustrator",
+      "benchmarking",
+      "business english",
+      "cascading style sheets",
+      "communication interne",
+      "content marketing",
+      "corporate communications",
+      "customer journeys",
+      "drupal",
+      "ehealth",
+      "english",
+      "gestion de projet",
+      "git",
+      "github",
+      "google analytics",
+      "html5",
+      "indesign",
+      "javascript",
+      "lead qualification",
+      "leadership",
+      "management",
+      "marketing btob",
+      "marketing communications",
+      "marketing digital",
+      "marketing sur linkedin",
+      "microsoft excel",
+      "microsoft office",
+      "microsoft word",
+      "optimisation pour les moteurs de recherche",
+      "parler en public",
+      "photoshop",
+      "powerpoint",
+      "project management",
+      "project planning",
+      "react.js",
+      "redmine",
+      "relations clients",
+      "stakeholder management",
+      "suivi de budgets",
+      "web design",
+      "wordpress"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "ireland",
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "transformation excellence lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2026-02",
+        "start_date": "2024-04",
+        "title": {
+          "name": "global digital project lead - emailing activation",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier ireland",
+          "size": "201-500",
+          "id": "MffzGy6vzfhk0G8dCX0ElACz1n7L",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "money little, wicklow, ireland",
+            "locality": "money little",
+            "region": "wicklow",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "y14 e284",
+            "geo": "52.78,-6.16"
+          },
+          "linkedin_url": "linkedin.com/company/servier-ireland",
+          "linkedin_id": "81429803",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "servier.ie"
+        },
+        "location_names": [
+          "arklow, wicklow, ireland"
+        ],
+        "end_date": "2024-04",
+        "start_date": "2022-05",
+        "title": {
+          "name": "communication specialist - vie",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "liveli crèches",
+          "size": "1001-5000",
+          "id": "tvSJA89N9EWMPipBLpNlhwI6yQkz",
+          "founded": 2003,
+          "industry": "individual & family services",
+          "industry_v2": "individual and family services",
+          "location": {
+            "name": "boulogne-billancourt, île-de-france, france",
+            "locality": "boulogne-billancourt",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "92773",
+            "geo": "48.83,2.24"
+          },
+          "linkedin_url": "linkedin.com/company/liveli-by-sodexo",
+          "linkedin_id": "71245323",
+          "facebook_url": "facebook.com/livelibysodexo",
+          "twitter_url": null,
+          "website": "liveli.fr"
+        },
+        "location_names": [
+          "boulogne-billancourt, île-de-france, france"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2020-10",
+        "title": {
+          "name": "commercial communication officer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2020-09",
+        "start_date": "2019-09",
+        "title": {
+          "name": "internal communication officer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "babilou",
+          "size": "5001-10000",
+          "id": "DznbrXCpCxoAiBC20H5UDQ1PA3TS",
+          "founded": 2003,
+          "industry": "individual & family services",
+          "industry_v2": "individual and family services",
+          "location": {
+            "name": "bois-colombes, île-de-france, france",
+            "locality": "bois-colombes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "60 avenue de l'europe",
+            "address_line_2": null,
+            "postal_code": "92270",
+            "geo": "48.91,2.26"
+          },
+          "linkedin_url": "linkedin.com/company/babilou",
+          "linkedin_id": "1055000",
+          "facebook_url": "facebook.com/crechesbabilou",
+          "twitter_url": "twitter.com/babilou_fr",
+          "website": "babilou.fr"
+        },
+        "location_names": [
+          "courbevoie, île-de-france, france"
+        ],
+        "end_date": "2019-09",
+        "start_date": "2018-09",
+        "title": {
+          "name": "chargée de marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dissonances",
+          "size": "11-50",
+          "id": "mYwLQJteYChnsayIiUVbRAQteWK3",
+          "founded": 1993,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "levallois-perret, île-de-france, france",
+            "locality": "levallois-perret",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "42 rue pierre brossolette",
+            "address_line_2": null,
+            "postal_code": "92300",
+            "geo": "48.89,2.28"
+          },
+          "linkedin_url": "linkedin.com/company/agence-dissonances",
+          "linkedin_id": "3222824",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "dissonances.fr"
+        },
+        "location_names": [
+          "levallois-perret, île-de-france, france"
+        ],
+        "end_date": "2018-09",
+        "start_date": "2017-09",
+        "title": {
+          "name": "chargée de marketing et communication",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "box conseil",
+          "size": "1-10",
+          "id": "sfuYCcrRYDyIeRAl3DXFUgGNxtHS",
+          "founded": 2005,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "boulogne-billancourt, île-de-france, france",
+            "locality": "boulogne-billancourt",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "5 rue de la belle feuille",
+            "address_line_2": null,
+            "postal_code": "92100",
+            "geo": "48.83,2.24"
+          },
+          "linkedin_url": "linkedin.com/company/box-conseil",
+          "linkedin_id": "11451979",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "boxconseil.fr"
+        },
+        "location_names": [],
+        "end_date": "2016-10",
+        "start_date": "2016-05",
+        "title": {
+          "name": "assistante chef de projet",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "codecademy",
+          "type": "post-secondary institution",
+          "id": "uDDcbedvfBBHT1BsL4F9JQ_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/codecademy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2696602",
+          "website": "codecademy.com",
+          "domain": "codecademy.com"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023-09",
+        "majors": [
+          "design",
+          "multimedia"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esp ecole supérieure de publicité, communication et marketing",
+          "type": "post-secondary institution",
+          "id": "JCtbaLo8Nlgzh4ufAIIJqQ_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esp-ecole-supérieure-de-publicité-communication-et-marketing",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15099299",
+          "website": "espub.org",
+          "domain": "espub.org"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2018-09",
+        "end_date": "2020-09",
+        "majors": [
+          "business",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esp ecole supérieure de publicité, communication et marketing",
+          "type": "post-secondary institution",
+          "id": "JCtbaLo8Nlgzh4ufAIIJqQ_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esp-ecole-supérieure-de-publicité-communication-et-marketing",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15099299",
+          "website": "espub.org",
+          "domain": "espub.org"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2015",
+        "end_date": "2018",
+        "majors": [
+          "communication",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "paris - pantheon - assas university",
+          "type": "post-secondary institution",
+          "id": "HKQZkqA7AyCIUnjlmVMHXw_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/assasuniversite",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1231179",
+          "website": "assas-universite.fr",
+          "domain": "assas-universite.fr"
+        },
+        "degrees": [],
+        "start_date": "2013",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée molière rio",
+          "type": "secondary school",
+          "id": "UwCP95SvTgLd7XKleFUBPw_0000",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/lycée-molière-rio",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "76200206",
+          "website": "lyceemoliere.com.br",
+          "domain": "lyceemoliere.com.br"
+        },
+        "degrees": [],
+        "start_date": "2006",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of london",
+          "type": "post-secondary institution",
+          "id": "PdVcslpI3UQnOOell4Do8Q_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-london",
+          "facebook_url": "facebook.com/londonu",
+          "twitter_url": "twitter.com/londonu",
+          "linkedin_id": "166649",
+          "website": "london.ac.uk",
+          "domain": "london.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée molière rio",
+          "type": "secondary school",
+          "id": "UwCP95SvTgLd7XKleFUBPw_0000",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/lycée-molière-rio",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "76200206",
+          "website": "lyceemoliere.com.br",
+          "domain": "lyceemoliere.com.br"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université paris ii - panthéon - assas",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "412367271",
+        "url": "linkedin.com/in/laetitiahuret",
+        "username": "laetitiahuret"
+      },
+      {
+        "network": "facebook",
+        "id": "1076169672",
+        "url": "facebook.com/laetitia.l.huret",
+        "username": "laetitia.l.huret"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

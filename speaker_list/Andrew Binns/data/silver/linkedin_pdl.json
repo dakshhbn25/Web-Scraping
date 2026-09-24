@@ -1,0 +1,129 @@
+{
+  "record_id": "speaker-dubrovnik-079",
+  "speaker_name": "Andrew Binns",
+  "linkedin_url": "https://www.linkedin.com/in/andrewjohnbinns/",
+  "likelihood": 9,
+  "full_name": "andrew binns",
+  "job_title": "director",
+  "industry": "marketing and advertising",
+  "current_company": "poke",
+  "current_company_website": "pokemarketing.co.uk",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "affiliate marketing",
+    "conversion optimization",
+    "digital marketing",
+    "digital strategy",
+    "e commerce",
+    "email marketing",
+    "google adwords",
+    "google analytics",
+    "management",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "medical communications",
+    "online advertising",
+    "online marketing",
+    "organic search",
+    "ppc",
+    "search engine optimization",
+    "sem",
+    "seo",
+    "web analytics"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director",
+      "company": "poke",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global marketing director",
+      "company": "croda",
+      "company_industry": "chemicals",
+      "start_date": "2025-04",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital & innovation",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-08",
+      "end_date": "2025-04",
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "poke",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-10",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "marketing strategy consultant",
+      "company": "andrew binns",
+      "company_industry": null,
+      "start_date": "2020-02",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "cim | the chartered institute of marketing",
+      "company_industry": "marketing and advertising",
+      "start_date": "2019-12",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "havas lynx",
+      "company_industry": "marketing and advertising",
+      "start_date": "2018-10",
+      "end_date": "2020-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president strategy & planning",
+      "company": "ashfield, part of udg healthcare (now inizio)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-02",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "head of strategy",
+      "company": "rippleffect",
+      "company_industry": "online media",
+      "start_date": "2005-10",
+      "end_date": "2015-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of derby",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1994-01",
+      "end_date": "1997-12"
+    },
+    {
+      "school": "university of derby",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1994-01",
+      "end_date": "1997-01"
+    }
+  ]
+}

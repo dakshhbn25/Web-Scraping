@@ -1,0 +1,546 @@
+{
+  "record_id": "speaker-dubrovnik-014",
+  "speaker_name": "Lauren Leahy",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/leahycreative/",
+  "scraped_at": "2026-09-18T09:35:32.239723+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "3hLCF4mqvlZCxnxX4gaaKA_0000",
+    "full_name": "lauren leahy",
+    "first_name": "lauren",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "leahy",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/leahycreative",
+    "linkedin_username": "leahycreative",
+    "linkedin_id": "13938780",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "international medical affairs omnichannel leader",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+    "job_company_name": "eli lilly and company",
+    "job_company_website": "lilly.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1876,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+    "job_company_linkedin_id": "1663",
+    "job_company_facebook_url": "facebook.com/elilillyandco",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "indianapolis, indiana, united states",
+    "job_company_location_locality": "indianapolis",
+    "job_company_location_metro": "indianapolis, indiana",
+    "job_company_location_region": "indiana",
+    "job_company_location_geo": "39.83,-86.09",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "46285",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2023-02-08",
+    "job_last_verified": "2026-08-31",
+    "job_start_date": "2022-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "australia",
+    "location_continent": "oceania",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-31",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "biotechnology",
+      "change management",
+      "clinical development",
+      "code of conduct",
+      "communication",
+      "content development",
+      "creative problem solving",
+      "creativity skills",
+      "cross functional collaborations",
+      "customer engagement",
+      "customer experience management",
+      "editing",
+      "editorial",
+      "educational workshops",
+      "emotional intelligence",
+      "event management",
+      "health",
+      "health care professionals",
+      "influencing others",
+      "innovation management",
+      "interpersonal skills",
+      "leadership",
+      "leading transformational change",
+      "marketing communications",
+      "medical communications",
+      "medical education",
+      "medical writing",
+      "multi channel marketing",
+      "organization skills",
+      "personal development",
+      "pharmaceutical industry",
+      "productivity improvement",
+      "project management",
+      "relationship building",
+      "social influence",
+      "stakeholder management",
+      "strategic communications",
+      "strategic planning",
+      "strategy",
+      "symposia",
+      "technical writing",
+      "therapeutic areas",
+      "third party relationships",
+      "third party vendor management",
+      "time management",
+      "training",
+      "workshop development",
+      "writing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "australia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-12",
+        "title": {
+          "name": "international medical affairs omnichannel leader",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2020-05",
+        "title": {
+          "name": "senior digital content manager - third-party websites (napac)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cerebral palsy alliance",
+          "size": "1001-5000",
+          "id": "mpDfkx8HEuuC6737MYd54w1ZDy3V",
+          "founded": 1945,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "allambie heights, new south wales, australia",
+            "locality": "allambie heights",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "187 allambie road",
+            "address_line_2": null,
+            "postal_code": "2100",
+            "geo": "-33.76,151.25"
+          },
+          "linkedin_url": "linkedin.com/company/cerebral-palsy-alliance",
+          "linkedin_id": "1888528",
+          "facebook_url": "facebook.com/cerebralpalsyalliance",
+          "twitter_url": null,
+          "website": "cerebralpalsy.org.au"
+        },
+        "location_names": [
+          "allambie heights, new south wales, australia"
+        ],
+        "end_date": "2020-05",
+        "start_date": "2020-01",
+        "title": {
+          "name": "marketing communications manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "leahy creative",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2020-05",
+        "start_date": "2015-01",
+        "title": {
+          "name": "freelance medical communications consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [],
+        "end_date": "2015-01",
+        "start_date": "2012-05",
+        "title": {
+          "name": "medical communications manager, bone and general medicine",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elixir healthcare education pty ltd",
+          "size": "1-10",
+          "id": "VlcWnpxxZnQyUJ3aTorh0QK9Ras3",
+          "founded": 2000,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "north sydney, new south wales, australia",
+            "locality": "north sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "50 berry street",
+            "address_line_2": null,
+            "postal_code": "2060",
+            "geo": "-33.83,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/elixir-healthcare-education-pty-ltd",
+          "linkedin_id": "1313421",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "elixir.net.au"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2012-05",
+        "start_date": "2009-07",
+        "title": {
+          "name": "editorial program manager",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elixir healthcare education pty ltd",
+          "size": "1-10",
+          "id": "VlcWnpxxZnQyUJ3aTorh0QK9Ras3",
+          "founded": 2000,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "north sydney, new south wales, australia",
+            "locality": "north sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "50 berry street",
+            "address_line_2": null,
+            "postal_code": "2060",
+            "geo": "-33.83,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/elixir-healthcare-education-pty-ltd",
+          "linkedin_id": "1313421",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "elixir.net.au"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2009-07",
+        "start_date": "2006-01",
+        "title": {
+          "name": "senior medical writer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "charles sturt university",
+          "type": "post-secondary institution",
+          "id": "oOKoj7BbjhZoLNogRtakDQ_0000",
+          "location": {
+            "name": "bathurst, new south wales, australia",
+            "locality": "bathurst",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/charles-sturt-university",
+          "facebook_url": "facebook.com/charlessturtuni",
+          "twitter_url": "twitter.com/charlessturtuni",
+          "linkedin_id": "14243",
+          "website": "csu.edu.au",
+          "domain": "csu.edu.au"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2009",
+        "end_date": "2020",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "charles sturt university",
+          "type": "post-secondary institution",
+          "id": "oOKoj7BbjhZoLNogRtakDQ_0000",
+          "location": {
+            "name": "bathurst, new south wales, australia",
+            "locality": "bathurst",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/charles-sturt-university",
+          "facebook_url": "facebook.com/charlessturtuni",
+          "twitter_url": "twitter.com/charlessturtuni",
+          "linkedin_id": "14243",
+          "website": "csu.edu.au",
+          "domain": "csu.edu.au"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009",
+        "end_date": "2011",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of sydney",
+          "type": "post-secondary institution",
+          "id": "VnGqlJVPLJhXROY2hR8kqQ_0000",
+          "location": {
+            "name": "the university of sydney, new south wales, australia",
+            "locality": "the university of sydney",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-sydney",
+          "facebook_url": "facebook.com/sydneyuni",
+          "twitter_url": "twitter.com/sydney_uni",
+          "linkedin_id": "166676",
+          "website": "sydney.edu.au",
+          "domain": "sydney.edu.au"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2002",
+        "end_date": "2005",
+        "majors": [
+          "biology",
+          "communications"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "loreto normanhurst",
+          "type": "secondary school",
+          "id": "pH4yPyjHeZ01ICkh-5wP5w_0000",
+          "location": {
+            "name": "normanhurst, new south wales, australia",
+            "locality": "normanhurst",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/loreto-normanhurst",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3675112",
+          "website": "loretonh.nsw.edu.au",
+          "domain": "loretonh.nsw.edu.au"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "13938780",
+        "url": "linkedin.com/in/leahycreative",
+        "username": "leahycreative"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

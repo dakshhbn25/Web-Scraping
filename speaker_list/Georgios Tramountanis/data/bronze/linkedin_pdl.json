@@ -1,0 +1,626 @@
+{
+  "record_id": "speaker-medical-009",
+  "speaker_name": "Georgios Tramountanis",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/georgiostramountanis/",
+  "scraped_at": "2026-09-18T10:24:19.378299+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "gCMQaQb6xkvy74OQF5drwA_0000",
+    "full_name": "georgios tramountanis",
+    "first_name": "georgios",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "t",
+    "last_name": "tramountanis",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/georgiostramountanis",
+    "linkedin_username": "georgiostramountanis",
+    "linkedin_id": "15030248",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "data, digital & technology, global head medical core capabilities - global portfolio division",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+    "job_company_name": "takeda",
+    "job_company_website": "takeda.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1781,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+    "job_company_linkedin_id": "5482",
+    "job_company_facebook_url": "facebook.com/takedapharma",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "tokyo, japan",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokyo",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2025-07-29",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-04",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biopharmaceuticals",
+      "biotechnology",
+      "cancer",
+      "cancer research",
+      "cardiology",
+      "clinical development",
+      "clinical research",
+      "clinical trial management",
+      "clinical trials",
+      "competitive intelligence",
+      "cro",
+      "ctms",
+      "diabetes",
+      "gastroenterology",
+      "gcp",
+      "genetics",
+      "hematology",
+      "ich gcp",
+      "immunology",
+      "inflammation",
+      "informatics",
+      "life sciences",
+      "lifesciences",
+      "medical affairs",
+      "medical education",
+      "medical information systems",
+      "medical training",
+      "medical writing",
+      "molecular biology",
+      "nephrology",
+      "neurology",
+      "oncology",
+      "osteoporosis",
+      "people management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacovigilance",
+      "r&d",
+      "research",
+      "rheumatology",
+      "science",
+      "scientific analysis",
+      "scientific communications",
+      "scientific presentation",
+      "statistics",
+      "strategic communications",
+      "strategy",
+      "therapeutic areas",
+      "urology"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "data, digital & technology, global head medical core capabilities - global portfolio division",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "takeda oncology",
+          "size": "1001-5000",
+          "id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+          "founded": 1993,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 landsdowne street",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/takedaoncology",
+          "linkedin_id": "4682",
+          "facebook_url": "facebook.com/takedaoncology",
+          "twitter_url": null,
+          "website": "takedaoncology.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2022-01",
+        "title": {
+          "name": "head (sr. dir.) global oncology medical information, medical review and digital strategy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda oncology",
+          "size": "1001-5000",
+          "id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+          "founded": 1993,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 landsdowne street",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/takedaoncology",
+          "linkedin_id": "4682",
+          "facebook_url": "facebook.com/takedaoncology",
+          "twitter_url": null,
+          "website": "takedaoncology.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2022-01",
+        "start_date": "2019-11",
+        "title": {
+          "name": "head, global oncology medical information and review",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2019-11",
+        "start_date": "2017-05",
+        "title": {
+          "name": "director, global medical information & review",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": "2017-05",
+        "start_date": "2013-03",
+        "title": {
+          "name": "associate director global medical information - emerging markets lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2013-02",
+        "start_date": "2010-06",
+        "title": {
+          "name": "medical information senior manager, international",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2010-06",
+        "start_date": "2008-09",
+        "title": {
+          "name": "medical information / communication manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ppd",
+          "size": "10001+",
+          "id": "oi8BizF8P4GIv9egDEXnMwkcQBxw",
+          "founded": 1985,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "waltham, massachusetts, united states",
+            "locality": "waltham",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "168 3rd avenue",
+            "address_line_2": null,
+            "postal_code": "02451",
+            "geo": "42.37,-71.21"
+          },
+          "linkedin_url": "linkedin.com/company/ppd",
+          "linkedin_id": "4430",
+          "facebook_url": "facebook.com/ppdcro",
+          "twitter_url": "twitter.com/ppdcro",
+          "website": "ppd.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2008-09",
+        "start_date": "2007-02",
+        "title": {
+          "name": "clinical research associate",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "coronis research s.a.",
+          "size": "11-50",
+          "id": "O2o6yBzt5Low6JH2WJZ2ZgE3Q4yg",
+          "founded": 1997,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "chalandri, attica, greece",
+            "locality": "chalandri",
+            "region": "attica",
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": "2 nikitara street",
+            "address_line_2": null,
+            "postal_code": "15232",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/coronis-research-sa",
+          "linkedin_id": "630155",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "coronis.gr"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2007-02",
+        "start_date": "2006-06",
+        "title": {
+          "name": "clinical research associate",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of birmingham",
+          "size": "5001-10000",
+          "id": "hZDguiPz17oEVLt7UCA0kQtEfQXq",
+          "founded": 1900,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.47,-1.91"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-birmingham",
+          "linkedin_id": "166627",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "birmingham.ac.uk"
+        },
+        "location_names": [
+          "birmingham, england, united kingdom"
+        ],
+        "end_date": "2004-12",
+        "start_date": "2003-07",
+        "title": {
+          "name": "post doc",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of birmingham",
+          "type": "post-secondary institution",
+          "id": "IZkjZ9CUVreuf8fXyZLCmQ_0000",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-birmingham",
+          "facebook_url": "facebook.com/unibirmingham",
+          "twitter_url": "twitter.com/unibirmingham",
+          "linkedin_id": "166627",
+          "website": "birmingham.ac.uk",
+          "domain": "birmingham.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2003",
+        "majors": [
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of birmingham",
+          "type": "post-secondary institution",
+          "id": "IZkjZ9CUVreuf8fXyZLCmQ_0000",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-birmingham",
+          "facebook_url": "facebook.com/unibirmingham",
+          "twitter_url": "twitter.com/unibirmingham",
+          "linkedin_id": "166627",
+          "website": "birmingham.ac.uk",
+          "domain": "birmingham.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1996-01",
+        "end_date": "1999",
+        "majors": [
+          "biology",
+          "genetics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "15030248",
+        "url": "linkedin.com/in/georgiostramountanis",
+        "username": "georgiostramountanis"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

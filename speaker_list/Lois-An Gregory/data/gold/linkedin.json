@@ -1,0 +1,40 @@
+{
+  "record_id": "speaker-dubrovnik-047",
+  "speaker_name": "Lois-An Gregory",
+  "designation": "Strategy & Insights, Health & Wellness",
+  "company": "google",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/lois-an-gregory-000a03366/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": "[Skip to main content](https://www.linkedin.com/in/lois-an-gregory-000a03366/#main-content)[LinkedIn](https://www.linkedin.com/?trk=public_profile_not-found-log-in_nav-header-logo)",
+  "linkedin_connections": null,
+  "linkedin_followers": null,
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": null,
+  "linkedin_current_company": null,
+  "linkedin_current_company_website": null,
+  "linkedin_skills": [],
+  "linkedin_experience": [],
+  "linkedin_education": [],
+  "data_sources": {
+    "tavily": true,
+    "pdl": false
+  },
+  "missing_fields": [
+    "linkedin_current_company",
+    "linkedin_about",
+    "linkedin_skills",
+    "linkedin_experience"
+  ]
+}

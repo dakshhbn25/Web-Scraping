@@ -1,0 +1,789 @@
+{
+  "record_id": "speaker-dubrovnik-092",
+  "speaker_name": "Dr William McCully",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/williammccully/",
+  "scraped_at": "2026-09-18T09:38:21.731099+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "luBzp9Rycj81v7mByHNojw_0000",
+    "full_name": "william mccully",
+    "first_name": "william",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "mccully",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/williammccully",
+    "linkedin_username": "williammccully",
+    "linkedin_id": "304996077",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "co-founder & director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director",
+      "owner"
+    ],
+    "job_company_id": "8S4GZWbQHoyff6a74PN06AWgdyyH",
+    "job_company_name": "aithena",
+    "job_company_website": "aithena.co.uk",
+    "job_company_size": "1-10",
+    "job_company_founded": 2024,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/aithena-ltd",
+    "job_company_linkedin_id": "103400069",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "nw1 6jj",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-12",
+    "job_last_verified": "2026-07-25",
+    "job_start_date": "2024-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-25",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "current affairs",
+      "design",
+      "football",
+      "guitar",
+      "music",
+      "rugby",
+      "science",
+      "technology"
+    ],
+    "skills": [
+      "antimicrobials",
+      "biotechnology",
+      "clinical pharmacy",
+      "clinical research",
+      "clinical trials",
+      "coeliac disease",
+      "crohn's disease",
+      "data analysis",
+      "drug discovery",
+      "gastroenterology",
+      "graphpad prism",
+      "healthcare",
+      "inflammatory bowel disease",
+      "keynote",
+      "life sciences",
+      "management",
+      "medical affairs",
+      "medicinal chemistry",
+      "medicine",
+      "method development",
+      "natural products",
+      "networking",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "pharmacology",
+      "pharmacy",
+      "powerpoint",
+      "presentations",
+      "project management",
+      "public engagement",
+      "public speaking",
+      "quantitative analytics",
+      "research",
+      "spss",
+      "statistics",
+      "ulcerative colitis"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "canada"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "aithena",
+          "size": "1-10",
+          "id": "8S4GZWbQHoyff6a74PN06AWgdyyH",
+          "founded": 2024,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "nw1 6jj",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/aithena-ltd",
+          "linkedin_id": "103400069",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aithena.co.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-08",
+        "title": {
+          "name": "co-founder & director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "holburn, england, united kingdom",
+          "holborn, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2021-08",
+        "title": {
+          "name": "director, patient access to care",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-08",
+        "start_date": "2020-10",
+        "title": {
+          "name": "associate director, medical affairs | covid-19",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "uxbridge, england, united kingdom"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2019-06",
+        "title": {
+          "name": "medical lead uk & ireland",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2017-09",
+        "title": {
+          "name": "global medical affairs excellence manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tillotts pharma ag",
+          "size": "201-500",
+          "id": "7K06Uyo6ubJq9S7b2ifMsQj3K6ee",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rheinfelden, aargau, switzerland",
+            "locality": "rheinfelden",
+            "region": "aargau",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "15 baslerstrasse",
+            "address_line_2": null,
+            "postal_code": "4310",
+            "geo": "47.54,7.79"
+          },
+          "linkedin_url": "linkedin.com/company/tillotts-pharma-ag",
+          "linkedin_id": "78085",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/tillotts_pharma",
+          "website": "tillotts.com"
+        },
+        "location_names": [
+          "rheinfelden, aargau, switzerland",
+          "lincoln, england, united kingdom"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2016-01",
+        "title": {
+          "name": "medical affairs manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tillotts pharma ag",
+          "size": "201-500",
+          "id": "7K06Uyo6ubJq9S7b2ifMsQj3K6ee",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rheinfelden, aargau, switzerland",
+            "locality": "rheinfelden",
+            "region": "aargau",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "15 baslerstrasse",
+            "address_line_2": null,
+            "postal_code": "4310",
+            "geo": "47.54,7.79"
+          },
+          "linkedin_url": "linkedin.com/company/tillotts-pharma-ag",
+          "linkedin_id": "78085",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/tillotts_pharma",
+          "website": "tillotts.com"
+        },
+        "location_names": [
+          "lincoln, england, united kingdom"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2015-10",
+        "title": {
+          "name": "acting medical affairs manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tillotts pharma ag",
+          "size": "201-500",
+          "id": "7K06Uyo6ubJq9S7b2ifMsQj3K6ee",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rheinfelden, aargau, switzerland",
+            "locality": "rheinfelden",
+            "region": "aargau",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "15 baslerstrasse",
+            "address_line_2": null,
+            "postal_code": "4310",
+            "geo": "47.54,7.79"
+          },
+          "linkedin_url": "linkedin.com/company/tillotts-pharma-ag",
+          "linkedin_id": "78085",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/tillotts_pharma",
+          "website": "tillotts.com"
+        },
+        "location_names": [
+          "lincoln, england, united kingdom"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2014-05",
+        "title": {
+          "name": "medical and scientific liaison manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cardiff university / prifysgol caerdydd",
+          "size": "5001-10000",
+          "id": "5FfKScGqB82g1bdDOk9xGQUu9Gku",
+          "founded": 1883,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cf10 3at",
+            "geo": "51.48,-3.18"
+          },
+          "linkedin_url": "linkedin.com/school/cardiff-university",
+          "linkedin_id": "9126",
+          "facebook_url": "facebook.com/cardiffuni",
+          "twitter_url": "twitter.com/cardiffuni",
+          "website": "cardiff.ac.uk"
+        },
+        "location_names": [
+          "caerdydd, wales, united kingdom"
+        ],
+        "end_date": "2013-11",
+        "start_date": "2010-01",
+        "title": {
+          "name": "phd researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "locum wales & south west england",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "wales, england, united kingdom"
+        ],
+        "end_date": "2014-05",
+        "start_date": "2009-08",
+        "title": {
+          "name": "community pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs wales",
+          "size": "10001+",
+          "id": "yf0SFRl5sFXYIGbB6JydGwNqZRmx",
+          "founded": 1945,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "castell-nedd port talbot-neath port talbot, wales, united kingdom",
+            "locality": "castell-nedd port talbot-neath port talbot",
+            "region": "wales",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.65,-3.74"
+          },
+          "linkedin_url": "linkedin.com/company/nhs-wales",
+          "linkedin_id": "421227",
+          "facebook_url": "facebook.com/swanseabay.nhs",
+          "twitter_url": null,
+          "website": "wales.nhs.uk"
+        },
+        "location_names": [
+          "pen-y-bont ar ogwr, wales, united kingdom"
+        ],
+        "end_date": "2009-08",
+        "start_date": "2008-08",
+        "title": {
+          "name": "pre-registration pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "macclesfield, england, united kingdom"
+        ],
+        "end_date": "2007-09",
+        "start_date": "2007-08",
+        "title": {
+          "name": "summer research student",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almac group",
+          "size": "5001-10000",
+          "id": "MGS5HT8IKKwgjv8r4wbbcgYy5s6B",
+          "founded": 1968,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "craigavon, northern ireland, united kingdom",
+            "locality": "craigavon",
+            "region": "northern ireland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "bt63 5qd",
+            "geo": "54.44,-6.32"
+          },
+          "linkedin_url": "linkedin.com/company/almac-group",
+          "linkedin_id": "11440",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/almacgroup",
+          "website": "almacgroup.com"
+        },
+        "location_names": [
+          "craigavon, northern ireland, united kingdom"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2006-09",
+        "title": {
+          "name": "summer internship",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "cim | the chartered institute of marketing",
+          "type": "post-secondary institution",
+          "id": "nbfcfAyPqtzGOteq4qBX2g_0000",
+          "location": {
+            "name": "cookham, england, united kingdom",
+            "locality": "cookham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/chartered-institute-of-marketing",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "479618",
+          "website": "cim.co.uk",
+          "domain": "cim.co.uk"
+        },
+        "degrees": [],
+        "start_date": "2023-03",
+        "end_date": "2024-03",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cardiff university / prifysgol caerdydd",
+          "type": "post-secondary institution",
+          "id": "3BMi3SlOB82smUKAMCezYg_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cardiff-university",
+          "facebook_url": "facebook.com/cardiffuni",
+          "twitter_url": "twitter.com/cardiffuni",
+          "linkedin_id": "9126",
+          "website": "cardiff.ac.uk",
+          "domain": "cardiff.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cardiff university / prifysgol caerdydd",
+          "type": "post-secondary institution",
+          "id": "3BMi3SlOB82smUKAMCezYg_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cardiff-university",
+          "facebook_url": "facebook.com/cardiffuni",
+          "twitter_url": "twitter.com/cardiffuni",
+          "linkedin_id": "9126",
+          "website": "cardiff.ac.uk",
+          "domain": "cardiff.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2008",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "friends' school lisburn",
+          "type": "post-secondary institution",
+          "id": "tSeI0m4v82B1qGEG-ibvzQ_0000",
+          "location": {
+            "name": "lisburn, northern ireland, united kingdom",
+            "locality": "lisburn",
+            "region": "northern ireland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/friendslisburn",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "29323139",
+          "website": "friendsschoollisburn.org.uk",
+          "domain": "friendsschoollisburn.org.uk"
+        },
+        "degrees": [],
+        "start_date": "2002-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "304996077",
+        "url": "linkedin.com/in/williammccully",
+        "username": "williammccully"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

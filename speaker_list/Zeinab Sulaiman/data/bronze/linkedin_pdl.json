@@ -1,0 +1,609 @@
+{
+  "record_id": "speaker-dubrovnik-097",
+  "speaker_name": "Zeinab Sulaiman",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/zeinab-sulaiman-6030a738/",
+  "scraped_at": "2026-09-18T09:38:32.368998+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PHkBx1jGbG4n0S6uypUe0A_0000",
+    "full_name": "zeinab sulaiman",
+    "first_name": "zeinab",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "sulaiman",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/zeinab-sulaiman-6030a738",
+    "linkedin_username": "zeinab-sulaiman-6030a738",
+    "linkedin_id": "131603619",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "practice leader, medical affairs centre of excellence",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "H1FtE262xtdQITABrRRUUATGtA5a",
+    "job_company_name": "sorcero",
+    "job_company_website": "sorcero.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2018,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/sorceroai",
+    "job_company_linkedin_id": "27143444",
+    "job_company_facebook_url": "facebook.com/sorceroai",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "washington, district of columbia, united states",
+    "job_company_location_locality": "washington",
+    "job_company_location_metro": "district of columbia",
+    "job_company_location_region": "district of columbia",
+    "job_company_location_geo": "38.87,-77.00",
+    "job_company_location_street_address": "1301 k street northwest",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "20005",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-03-15",
+    "job_last_verified": "2026-03-23",
+    "job_start_date": "2024-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-04-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "ascribe system manager",
+      "change management",
+      "clinical pharmacy",
+      "clinical research",
+      "direct line management",
+      "healthcare",
+      "healthcare information technology",
+      "healthcare management",
+      "hospital pharmacy",
+      "hospitals",
+      "identifying new opportunities",
+      "key performance indicators",
+      "leadership",
+      "line management",
+      "management",
+      "medical affairs",
+      "nhs contracting and supplies",
+      "patient safety",
+      "pharmaceutical industry",
+      "pharmacists",
+      "pharmacy",
+      "procurement and logistics",
+      "strategic communications",
+      "strategy",
+      "team leadership",
+      "workshops"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sorcero",
+          "size": "51-200",
+          "id": "H1FtE262xtdQITABrRRUUATGtA5a",
+          "founded": 2018,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1301 k street northwest",
+            "address_line_2": null,
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/sorceroai",
+          "linkedin_id": "27143444",
+          "facebook_url": "facebook.com/sorceroai",
+          "twitter_url": null,
+          "website": "sorcero.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-02",
+        "title": {
+          "name": "practice leader, medical affairs centre of excellence",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "kite pharma",
+          "size": "1001-5000",
+          "id": "q5pBvYRX7VpLpsd6oEBS5Q1tP8gK",
+          "founded": 2009,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "santa monica, california, united states",
+            "locality": "santa monica",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 broadway",
+            "address_line_2": null,
+            "postal_code": "90404",
+            "geo": "34.01,-118.47"
+          },
+          "linkedin_url": "linkedin.com/company/kite-pharma-inc-",
+          "linkedin_id": "5807055",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kitepharma",
+          "website": "kitepharma.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-01",
+        "start_date": "2022-04",
+        "title": {
+          "name": "global head of medical transformation and innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2020-06",
+        "title": {
+          "name": "director, global medical affairs operations business engagement and kpi",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "uxbridge, england, united kingdom"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2019-02",
+        "title": {
+          "name": "associate director, process and operations",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [],
+        "end_date": "2019-02",
+        "start_date": "2018-10",
+        "title": {
+          "name": "senior manager, medical affairs operations emeac",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2017-07",
+        "title": {
+          "name": "medical affairs manager, medical affairs operations",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [],
+        "end_date": "2017-07",
+        "start_date": "2016-03",
+        "title": {
+          "name": "associate manager, medical affairs operations",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "moorfields eye hospital, london",
+          "size": "1001-5000",
+          "id": "3B4JXEO9Chc5tzmUmYYgBQh3VpRm",
+          "founded": 1804,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "162 city road",
+            "address_line_2": null,
+            "postal_code": "ec1v 2pd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/moorfieldseyehospital",
+          "linkedin_id": "865001",
+          "facebook_url": "facebook.com/moorfieldseyehospital",
+          "twitter_url": null,
+          "website": "moorfields.nhs.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2014-07",
+        "title": {
+          "name": "lead pharmacist, procurement and distribution",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "logistics",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "moorfields eye hospital, london",
+          "size": "1001-5000",
+          "id": "3B4JXEO9Chc5tzmUmYYgBQh3VpRm",
+          "founded": 1804,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "162 city road",
+            "address_line_2": null,
+            "postal_code": "ec1v 2pd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/moorfieldseyehospital",
+          "linkedin_id": "865001",
+          "facebook_url": "facebook.com/moorfieldseyehospital",
+          "twitter_url": null,
+          "website": "moorfields.nhs.uk"
+        },
+        "location_names": [],
+        "end_date": "2014-07",
+        "start_date": "2013-08",
+        "title": {
+          "name": "project support pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "business training",
+          "type": "post-secondary institution",
+          "id": "nbHvXnN6vBzPhGP1LvotVA_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/business-training",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "54258",
+          "website": "businesstraining.com",
+          "domain": "businesstraining.com"
+        },
+        "degrees": [],
+        "start_date": "2018",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "business training",
+          "type": "post-secondary institution",
+          "id": "nbHvXnN6vBzPhGP1LvotVA_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/business-training",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "54258",
+          "website": "businesstraining.com",
+          "domain": "businesstraining.com"
+        },
+        "degrees": [],
+        "start_date": "2014",
+        "end_date": "2016",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "king's college london",
+          "type": "post-secondary institution",
+          "id": "2q2YIlBvBucJNrXjuIZYyQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/king's-college-london",
+          "facebook_url": "facebook.com/kingscollegelondon",
+          "twitter_url": "twitter.com/kingscollegelon",
+          "linkedin_id": "7198",
+          "website": "kcl.ac.uk",
+          "domain": "kcl.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2007",
+        "end_date": "2011",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "duffer miller college",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2005",
+        "end_date": "2007",
+        "majors": [
+          "biology",
+          "chemistry",
+          "mathematics",
+          "physics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "131603619",
+        "url": "linkedin.com/in/zeinab-sulaiman-6030a738",
+        "username": "zeinab-sulaiman-6030a738"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/zeinab-sulaiman-603a738",
+        "username": "zeinab-sulaiman-603a738"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

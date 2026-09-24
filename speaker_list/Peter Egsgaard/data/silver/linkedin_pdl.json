@@ -1,0 +1,233 @@
+{
+  "record_id": "speaker-viennacx-044",
+  "speaker_name": "Peter Egsgaard",
+  "linkedin_url": "https://www.linkedin.com/in/peteregsgaard/",
+  "likelihood": 9,
+  "full_name": "peter egsgaard",
+  "job_title": "global head of customer excellence & operations | rare disease",
+  "industry": "biotechnology",
+  "current_company": "biogen",
+  "current_company_website": "biogen.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "accounting",
+    "balanced scorecard",
+    "biotechnology",
+    "budget management",
+    "budget process",
+    "business analysis",
+    "business development",
+    "business growth strategies",
+    "business intelligence",
+    "business planning",
+    "business process design",
+    "business process improvement",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "cross functional team leadership",
+    "customer relationship management",
+    "customer segmentation strategy",
+    "fast moving consumer goods",
+    "field force effectiveness",
+    "field force management",
+    "finance",
+    "financial accounting",
+    "financial analysis",
+    "financial reporting",
+    "forecasting",
+    "growth management",
+    "growth strategies",
+    "launch experience",
+    "launch products",
+    "launch strategies",
+    "management",
+    "market access",
+    "market analysis",
+    "marketing budget management",
+    "marketing strategy",
+    "offshoring",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "planning budgeting and forecasting",
+    "pricing strategy",
+    "product launch",
+    "project management",
+    "risk management",
+    "sales effectiveness",
+    "sales force alignment",
+    "shared service center",
+    "sourcing",
+    "strategic planning",
+    "strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of customer excellence & operations | rare disease",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2023-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of customer excellence & operations | europe, canada & partner markets",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2020-06",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior director | head of customer & market insights | europe, canada & partner markets | biogen",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2019-11",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of decision support for eu, canada and emerging markets",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2017-07",
+      "end_date": "2019-11",
+      "is_primary": false
+    },
+    {
+      "title": "vice president - finance, business information & commercial excellence",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-10",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "director - finance & business information - region europe",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-11",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "manager business planning and execution",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-03",
+      "end_date": "2008-11",
+      "is_primary": false
+    },
+    {
+      "title": "finance manager product supply",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-01",
+      "end_date": "2008-03",
+      "is_primary": false
+    },
+    {
+      "title": "finance business partner to group chief financial officer / corporate business controller",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-12",
+      "end_date": "2007-01",
+      "is_primary": false
+    },
+    {
+      "title": "production site controller / project lead",
+      "company": "colgate-palmolive",
+      "company_industry": "consumer goods",
+      "start_date": "2005-08",
+      "end_date": "2005-11",
+      "is_primary": false
+    },
+    {
+      "title": "finance manager - uk production site",
+      "company": "colgate-palmolive",
+      "company_industry": "consumer goods",
+      "start_date": "2005-01",
+      "end_date": "2005-08",
+      "is_primary": false
+    },
+    {
+      "title": "business analyst nordics",
+      "company": "colgate-palmolive",
+      "company_industry": "consumer goods",
+      "start_date": "2003-01",
+      "end_date": "2005-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit professional education",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2023-10",
+      "end_date": "2023"
+    },
+    {
+      "school": "mit professional education",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2023-12"
+    },
+    {
+      "school": "babson college",
+      "majors": [
+        "business management",
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "insead",
+      "majors": [
+        "education",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "the be. leadership programme",
+      "majors": [
+        "business",
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "insead",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "aarhus university",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1996-09",
+      "end_date": "2002-11"
+    }
+  ]
+}

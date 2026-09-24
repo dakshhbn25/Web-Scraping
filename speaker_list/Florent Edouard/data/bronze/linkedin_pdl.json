@@ -1,0 +1,661 @@
+{
+  "record_id": "speaker-dubrovnik-068",
+  "speaker_name": "Florent Edouard",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/florentedouard/",
+  "scraped_at": "2026-09-18T09:37:29.442806+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "E-iNfgmPBHBe-hQ-lfcKzw_0000",
+    "full_name": "florent edouard",
+    "first_name": "florent",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "edouard",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/florentedouard",
+    "linkedin_username": "florentedouard",
+    "linkedin_id": "3978538",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of the digital accelerator",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-20",
+    "job_last_verified": "2026-08-09",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-09",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "children",
+      "disaster and humanitarian relief",
+      "education",
+      "environment",
+      "health",
+      "human rights",
+      "science and technology"
+    ],
+    "skills": [
+      "agile leadership",
+      "analytical skills",
+      "analytics",
+      "artificial intelligence",
+      "budgets",
+      "business analysis",
+      "business development",
+      "business innovation",
+      "business intelligence",
+      "business planning",
+      "business process",
+      "business strategy",
+      "change management",
+      "cloud computing",
+      "commercial",
+      "consulting",
+      "crm",
+      "crm integration",
+      "cross functional team leadership",
+      "customer experience",
+      "customer relations",
+      "customer relationship management",
+      "customer service",
+      "data science",
+      "data warehousing",
+      "digital marketing",
+      "digital transformation",
+      "enterprise software",
+      "executive management",
+      "information technology",
+      "integrated multi channel marketing",
+      "leadership",
+      "management",
+      "market access",
+      "market analysis",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing strategy",
+      "multi channel marketing",
+      "negotiation",
+      "online marketing",
+      "people development",
+      "pharma",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product innovation",
+      "product launch",
+      "product management",
+      "project management",
+      "restructuring",
+      "sales",
+      "sales and marketing",
+      "sales effectiveness",
+      "sales force development",
+      "sales force effectiveness",
+      "sales operations",
+      "sales process",
+      "sales support",
+      "search engine optimization",
+      "segmentation",
+      "siebel",
+      "strategic marketing",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy",
+      "team leadership",
+      "team management",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "netherlands",
+      "germany",
+      "japan"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "global head of the digital accelerator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [],
+        "end_date": "2024-09",
+        "start_date": "2017-12",
+        "title": {
+          "name": "senior vice president, global head of commercial excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2017-05",
+        "title": {
+          "name": "vice president, global head of analytics and intelligence, respiratory",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "data_analyst",
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2017-05",
+        "start_date": "2013-08",
+        "title": {
+          "name": "vice president marketing gastro and respiratory",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2013-08",
+        "start_date": "2008-02",
+        "title": {
+          "name": "global head of crm",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2008-02",
+        "start_date": "2005-09",
+        "title": {
+          "name": "sfe director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ims health",
+          "size": "10001+",
+          "id": "7qyy9KpFF8Uyur9Bl9a6HAumG1Ju",
+          "founded": 1954,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "danbury, connecticut, united states",
+            "locality": "danbury",
+            "region": "connecticut",
+            "metro": "bridgeport, connecticut",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "83 wooster heights road",
+            "address_line_2": null,
+            "postal_code": "06810",
+            "geo": "41.40,-73.45"
+          },
+          "linkedin_url": "linkedin.com/company/ims-health",
+          "linkedin_id": "3331",
+          "facebook_url": "facebook.com/imshealth",
+          "twitter_url": "twitter.com/imshealth",
+          "website": "imshealth.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2005-08",
+        "start_date": "2000-06",
+        "title": {
+          "name": "partner and cio",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "groupe caisse des dépôts",
+          "size": "10001+",
+          "id": "qvw7VwWAATW4QZ6y7NximAItNRLT",
+          "founded": 1816,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "56 rue de lille",
+            "address_line_2": null,
+            "postal_code": "75007",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/groupe-caisse-des-dépôts",
+          "linkedin_id": "368547",
+          "facebook_url": "facebook.com/groupecaissedesdepots",
+          "twitter_url": "twitter.com/caissedesdepots",
+          "website": "caissedesdepots.fr"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2000-06",
+        "start_date": "1991-12",
+        "title": {
+          "name": "business director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2015-01",
+        "end_date": "2015",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "iae bordeaux",
+          "type": "post-secondary institution",
+          "id": "DUxHTbLzBuoFmId892vT6A_0000",
+          "location": {
+            "name": "bordeaux, nouvelle-aquitaine, france",
+            "locality": "bordeaux",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/iae-bordeaux",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2735697",
+          "website": "iae-bordeaux.fr",
+          "domain": "iae-bordeaux.fr"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1991-01",
+        "end_date": "1992",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université de bordeaux",
+          "type": "post-secondary institution",
+          "id": "eRHgtfFVjMcAZfwj1GUuuA_0000",
+          "location": {
+            "name": "talence, nouvelle-aquitaine, france",
+            "locality": "talence",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-de-bordeaux",
+          "facebook_url": "facebook.com/univbordeaux",
+          "twitter_url": "twitter.com/univbordeaux",
+          "linkedin_id": "5059250",
+          "website": "u-bordeaux.fr",
+          "domain": "u-bordeaux.fr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1989-01",
+        "end_date": "1991",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université de bordeaux",
+          "type": "post-secondary institution",
+          "id": "eRHgtfFVjMcAZfwj1GUuuA_0000",
+          "location": {
+            "name": "talence, nouvelle-aquitaine, france",
+            "locality": "talence",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-de-bordeaux",
+          "facebook_url": "facebook.com/univbordeaux",
+          "twitter_url": "twitter.com/univbordeaux",
+          "linkedin_id": "5059250",
+          "website": "u-bordeaux.fr",
+          "domain": "u-bordeaux.fr"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1985-01",
+        "end_date": "1989",
+        "majors": [
+          "mathematics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3978538",
+        "url": "linkedin.com/in/florentedouard",
+        "username": "florentedouard"
+      },
+      {
+        "network": "linkedin",
+        "id": "3978538",
+        "url": "linkedin.com/in/florent-edouard-48a3ba1",
+        "username": "florent-edouard-48a3ba1"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

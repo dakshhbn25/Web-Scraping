@@ -1,0 +1,114 @@
+{
+  "record_id": "speaker-viennacx-007",
+  "speaker_name": "Dr. Marion C. Legler",
+  "linkedin_url": "https://www.linkedin.com/in/dr-marion-c-legler-b389a7150/",
+  "full_name": "Dr. Marion C. Legler",
+  "headline_company": "Bayer",
+  "location": "Germany, DE",
+  "connections": "500",
+  "followers": "1859",
+  "about": null,
+  "about_en": null,
+  "experience": [
+    {
+      "title": "Bayer",
+      "duration": "N/A - Present",
+      "redacted": false
+    },
+    {
+      "title": "******** ***********",
+      "duration": "N/A - Present",
+      "redacted": true
+    },
+    {
+      "title": "*****",
+      "duration": "N/A - Present",
+      "redacted": true
+    },
+    {
+      "title": "*********ä* ******",
+      "duration": "N/A - Present",
+      "redacted": false
+    },
+    {
+      "title": "** (********************ä* ****)",
+      "duration": "N/A - Present",
+      "redacted": false
+    }
+  ],
+  "education": [
+    {
+      "school": "Universität Bremen",
+      "duration": "2018 - 2018"
+    }
+  ],
+  "languages": null,
+  "languages_en": null,
+  "certifications": null,
+  "certifications_en": null,
+  "honors_and_awards": null,
+  "honors_and_awards_en": null,
+  "activity": [
+    {
+      "text": "Paper Highlight 👉 Symbolic XAI: A step closer to AI that explains its own reasoning — logically. Researchers at BIFOLD have been exploring how to…",
+      "text_en": null,
+      "interaction": "Liked by Dr. Marion C. Legler",
+      "post_url": "https://www.linkedin.com/posts/bifoldberlin_paper-highlight-symbolic-xai-a-step-closer-activity-7432092928249917440-pigJ",
+      "image_url": null
+    },
+    {
+      "text": "Can you spot me? Last day in Davos. I am so incredibly grateful for Safia Agueni and Rupa Dash for providing a forum at which I could join other…",
+      "text_en": null,
+      "interaction": "Liked by Dr. Marion C. Legler",
+      "post_url": "https://www.linkedin.com/posts/angelimoeller_health-ai-activity-7420419536899833856-S_69",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQFFiSXwhNpbXg/feedshare-shrink_800/B4DZvqgPyxJMAg-/0/1769165881168?e=2147483647&v=beta&t=qqhjuQYVyX_EvaQ9Pqm0M4vj_bKxEU6dYijEVVFtNt8"
+    }
+  ],
+  "people_also_viewed": [
+    {
+      "name": "Dr. Michael Kuehler",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/michaelkuehler"
+    },
+    {
+      "name": "Tiemo Redel",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/tiemoredel"
+    },
+    {
+      "name": "Dr. Oliver Daniel Schwich",
+      "company": "Merck Life Science",
+      "profile_url": "https://de.linkedin.com/in/oliver-daniel-schwich"
+    },
+    {
+      "name": "Dr. Barbara Stollfuss",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/dr-barbara-stollfuss-470630179"
+    },
+    {
+      "name": "Christian de Vries",
+      "company": "Bayer AG",
+      "profile_url": "https://de.linkedin.com/in/christian-de-vries-826a3738"
+    },
+    {
+      "name": "Philipp Ellinger",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/philipp-ellinger-4727a9b9"
+    },
+    {
+      "name": "Eva Bretschneider",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/eva-bretschneider"
+    },
+    {
+      "name": "Carsten Müller MD",
+      "company": "Bayer Pharmaceuticals",
+      "profile_url": "https://de.linkedin.com/in/carsten-m%C3%BCller-md-62812990"
+    },
+    {
+      "name": "Michael Sonntag",
+      "company": "Wörwag Pharma GmbH & Co. KG",
+      "profile_url": "https://de.linkedin.com/in/michael-sonntag/en"
+    }
+  ]
+}

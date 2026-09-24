@@ -1,0 +1,677 @@
+{
+  "record_id": "speaker-medical-006",
+  "speaker_name": "Lynn Mertens",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/lynn-mertens-a091135b/?locale=en",
+  "scraped_at": "2026-09-18T10:24:12.773479+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "rqI2PHWR-DMMzjWasGzspQ_0000",
+    "full_name": "lynn mertens",
+    "first_name": "lynn",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "mertens",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lynn-mertens-a091135b",
+    "linkedin_username": "lynn-mertens-a091135b",
+    "linkedin_id": "212281065",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical impact lead",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+    "job_company_name": "ucb",
+    "job_company_website": "ucb.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1928,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ucb-pharma",
+    "job_company_linkedin_id": "26195",
+    "job_company_facebook_url": "facebook.com/ucbbiopharma",
+    "job_company_twitter_url": "twitter.com/ucb_news",
+    "job_company_location_name": "brussels, brussels, belgium",
+    "job_company_location_locality": "brussels",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.84,4.34",
+    "job_company_location_street_address": "60 allée de la recherche",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-01",
+    "job_last_verified": "2026-02-11",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-04-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "genetics and neurosciences",
+      "reading",
+      "sports",
+      "travelling"
+    ],
+    "skills": [
+      "argus",
+      "argus safety",
+      "auditing",
+      "business development",
+      "business excellence",
+      "business requirements",
+      "cancer genetics",
+      "capability building",
+      "change management",
+      "clinical research",
+      "commercial strategy",
+      "communicatie",
+      "communicatietraining",
+      "competitor analysis",
+      "compliancemanagement",
+      "crm",
+      "cross country collaboration",
+      "crossfunctional collaboration",
+      "customer insights",
+      "data analysis",
+      "data analytics",
+      "digital marketing",
+      "drug safety",
+      "emotionele intelligentie",
+      "engagement planning",
+      "genetics",
+      "medical excellence",
+      "neurogenetics",
+      "neuropsychology",
+      "neuroscience",
+      "omnichannel",
+      "oncology",
+      "onderhandeling",
+      "performance management",
+      "persoonlijke ontwikkeling",
+      "pharmacovigilance",
+      "productmanagement",
+      "projectmanagement",
+      "pubmed",
+      "qppv",
+      "salesforce.com",
+      "scientific writing",
+      "stakeholder engagement",
+      "storytelling",
+      "strategic thinking",
+      "strategy",
+      "strategy to execution",
+      "teaching skills",
+      "veeva",
+      "veeva vault"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium",
+      "colombia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "global medical impact lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": "2024-09",
+        "start_date": "2023-07",
+        "title": {
+          "name": "global medical crm business manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2022-02",
+        "start_date": "2021-08",
+        "title": {
+          "name": "global business excellence manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2023-07",
+        "start_date": "2020-05",
+        "title": {
+          "name": "head medical excellence & capabilities | western european cluster lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2020-09",
+        "start_date": "2020-01",
+        "title": {
+          "name": "european launch excellence manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2020-01",
+        "start_date": "2018-01",
+        "title": {
+          "name": "brand & disease area manager hematology",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium",
+          "anderlecht, brussels, belgium"
+        ],
+        "end_date": "2018-01",
+        "start_date": "2016-09",
+        "title": {
+          "name": "safety leader benelux",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "health_and_safety",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2016-01",
+        "start_date": "2015-09",
+        "title": {
+          "name": "drug safety manager",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "health_and_safety",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ghent university",
+          "size": "5001-10000",
+          "id": "X8J9vTc4csnJC1Er3QAO4wcOdmmF",
+          "founded": 1817,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "33 sint-pietersnieuwstraat",
+            "address_line_2": null,
+            "postal_code": "9000",
+            "geo": "51.05,3.71"
+          },
+          "linkedin_url": "linkedin.com/school/ghent-university",
+          "linkedin_id": "4815",
+          "facebook_url": "facebook.com/ugent",
+          "twitter_url": "twitter.com/ugent",
+          "website": "ugent.be"
+        },
+        "location_names": [
+          "gent, flanders, belgium"
+        ],
+        "end_date": "2015-06",
+        "start_date": "2013-09",
+        "title": {
+          "name": "cancer researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "education first oxford",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": "2016-12",
+        "majors": [
+          "business",
+          "english"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universiteit gent",
+          "type": "post-secondary institution",
+          "id": "qyLaY--IPypUaGk351tvTQ_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/universiteit-gent",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "22968753",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2013",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ghent university",
+          "type": "post-secondary institution",
+          "id": "7VGcAvE08s3YNsujh7ajyA_0000",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ghent-university",
+          "facebook_url": "facebook.com/ugent",
+          "twitter_url": "twitter.com/ugent",
+          "linkedin_id": "4815",
+          "website": "ugent.be",
+          "domain": "ugent.be"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universiteit gent",
+          "type": "post-secondary institution",
+          "id": "qyLaY--IPypUaGk351tvTQ_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/universiteit-gent",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "22968753",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2010",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ghent university",
+          "type": "post-secondary institution",
+          "id": "7VGcAvE08s3YNsujh7ajyA_0000",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ghent-university",
+          "facebook_url": "facebook.com/ugent",
+          "twitter_url": "twitter.com/ugent",
+          "linkedin_id": "4815",
+          "website": "ugent.be",
+          "domain": "ugent.be"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2013-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sint - aloysiuscollege ninove",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2010",
+        "majors": [
+          "mathematics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "212281065",
+        "url": "linkedin.com/in/lynn-mertens-a091135b",
+        "username": "lynn-mertens-a091135b"
+      },
+      {
+        "network": "linkedin",
+        "id": "212281065",
+        "url": "linkedin.com/in/lynn-m-a091135b",
+        "username": "lynn-m-a091135b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

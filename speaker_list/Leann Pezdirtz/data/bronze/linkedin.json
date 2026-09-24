@@ -1,0 +1,14 @@
+{
+  "record_id": "speaker-dubrovnik-077",
+  "speaker_name": "Leann Pezdirtz",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/leann-pezdirtz-0487a588/",
+  "scraped_at": "2026-09-21T10:22:06.469804+00:00",
+  "status": "failed",
+  "error": [
+    {
+      "url": "https://www.linkedin.com/in/leann-pezdirtz-0487a588/",
+      "error": "Failed to fetch url"
+    }
+  ]
+}

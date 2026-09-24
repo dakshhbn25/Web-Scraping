@@ -1,0 +1,137 @@
+{
+  "record_id": null,
+  "speaker_name": "Ashvin Dharmavaram Bhogendra",
+  "linkedin_url": "https://www.linkedin.com/in/ashvin-bhogendra-73b74736",
+  "likelihood": 9,
+  "full_name": "ashvin bhogendra",
+  "job_title": "principal",
+  "industry": "management consulting",
+  "current_company": "axtria - ingenious insights",
+  "current_company_website": "axtria.com",
+  "current_company_industry": "computer software",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business analytics",
+    "business development",
+    "business intelligence",
+    "business operations",
+    "business process",
+    "consulting",
+    "cross functional team leadership",
+    "management consulting",
+    "operational efficiency",
+    "pharmaceutical industry",
+    "process management",
+    "sales operations"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "principal",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "principal",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2023-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior director",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2020-09",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "business operations manager",
+      "company": "zs",
+      "company_industry": "management consulting",
+      "start_date": "2016-08",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "business operations manager",
+      "company": "zs",
+      "company_industry": "management consulting",
+      "start_date": "2004-03",
+      "end_date": "2016-07",
+      "is_primary": false
+    },
+    {
+      "title": "application developer",
+      "company": "covansys",
+      "company_industry": "information technology and services",
+      "start_date": "2000-06",
+      "end_date": "2001-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the university of texas at austin",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2001",
+      "end_date": "2004"
+    },
+    {
+      "school": "birla institute of technology and science, pilani",
+      "majors": [
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "1996-06",
+      "end_date": "2000-05"
+    },
+    {
+      "school": "the university of texas at austin",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2003-12"
+    },
+    {
+      "school": "birla institute of technology & science, pilani",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2000-05"
+    },
+    {
+      "school": "vidya mandir senior secondary school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "1996"
+    },
+    {
+      "school": "b. k. birla college (empowered autonomous status), kalyan",
+      "majors": [
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

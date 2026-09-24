@@ -1,0 +1,869 @@
+{
+  "record_id": "speaker-dubrovnik-034",
+  "speaker_name": "Kausar Riaz Ahmed",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/kausar-riaz-ahmed/",
+  "scraped_at": "2026-09-18T09:36:15.641602+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "FKp2TNA60pe9xzhoFjVpYw_0000",
+    "full_name": "kausar ahmed",
+    "first_name": "kausar",
+    "middle_initial": "r",
+    "middle_name": "riaz",
+    "last_initial": "a",
+    "last_name": "ahmed",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/kausar-riaz-ahmed",
+    "linkedin_username": "kausar-riaz-ahmed",
+    "linkedin_id": "56487979",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "co-founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "ln2vXrKrYi7k20cKrGQV8g0BcJVJ",
+    "job_company_name": "riaz ahmed foundation (raf)",
+    "job_company_website": "riazahmedfoundation.org",
+    "job_company_size": "1-10",
+    "job_company_founded": 2022,
+    "job_company_industry": "non-profit organization management",
+    "job_company_industry_v2": "non-profit organizations",
+    "job_company_linkedin_url": "linkedin.com/company/riaz-ahmed-foundation",
+    "job_company_linkedin_id": "106535534",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "chennai, tamil nadu, india",
+    "job_company_location_locality": "chennai",
+    "job_company_location_metro": null,
+    "job_company_location_region": "tamil nadu",
+    "job_company_location_geo": "13.08,80.27",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "india",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2025-06-16",
+    "job_last_verified": "2026-08-31",
+    "job_start_date": "2022-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-11-06",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "children",
+      "economic empowerment",
+      "education",
+      "science and technology"
+    ],
+    "skills": [
+      "analytical skills",
+      "autophagy",
+      "biotechnology",
+      "business development",
+      "cancer biology",
+      "cancer drug discovery",
+      "cancer research",
+      "carcinogenicity",
+      "cell",
+      "cell biology",
+      "cell culture",
+      "cell signaling",
+      "change management",
+      "clinical development",
+      "clinical research",
+      "commercialization",
+      "computational modeling",
+      "confocal microscopy",
+      "cross functional leadership",
+      "cross functional team leadership",
+      "cytotoxicity",
+      "data analysis",
+      "data analytics",
+      "digital health",
+      "elisa",
+      "entrepreneurship",
+      "flow cytometry",
+      "fluorescence microscopy",
+      "gene expression profiling",
+      "genomics",
+      "genotoxicity",
+      "global regulatory compliance",
+      "good laboratory practices",
+      "graphpad prism",
+      "healthcare",
+      "immunoprecipitation",
+      "in vitro",
+      "in vivo",
+      "ingenuity pathway analysis",
+      "innovation",
+      "jmp",
+      "leadership",
+      "leadsscope model applier",
+      "luminex",
+      "market research",
+      "metabolism",
+      "microsoft office",
+      "microsoft project",
+      "molecular biology",
+      "mutagenicity",
+      "oncology",
+      "operations management",
+      "partnerships",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "pharmacology",
+      "portfolio management",
+      "presentation skills",
+      "presentations",
+      "product development",
+      "program management",
+      "project management",
+      "protein chemistry",
+      "public speaking",
+      "python",
+      "python",
+      "qpcr",
+      "qsar",
+      "radioactivity",
+      "real time pcr",
+      "real time polymerase chain reaction",
+      "regulatory compliance",
+      "regulatory policy",
+      "regulatory submissions",
+      "research and development",
+      "risk assessment",
+      "si/shrna studies",
+      "small molecule inhibitors",
+      "spotfire",
+      "strategic communications",
+      "strategy",
+      "tissue culture",
+      "toxicological risk assessment",
+      "transfection",
+      "translational medicine",
+      "vitic nexus",
+      "western blotting"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "riaz ahmed foundation (raf)",
+          "size": "1-10",
+          "id": "ln2vXrKrYi7k20cKrGQV8g0BcJVJ",
+          "founded": 2022,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "chennai, tamil nadu, india",
+            "locality": "chennai",
+            "region": "tamil nadu",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "13.08,80.27"
+          },
+          "linkedin_url": "linkedin.com/company/riaz-ahmed-foundation",
+          "linkedin_id": "106535534",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "riazahmedfoundation.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-01",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-04",
+        "title": {
+          "name": "senior director, head of ai for precision oncology",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2026-04",
+        "start_date": "2024-02",
+        "title": {
+          "name": "director, generative ai medical engagement lead",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2024-02",
+        "start_date": "2023-02",
+        "title": {
+          "name": "director, group lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fda",
+          "size": "10001+",
+          "id": "eikHHVPUP7Ve24dkXzk8RQILgfUH",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "silver spring, maryland, united states",
+            "locality": "silver spring",
+            "region": "maryland",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "10903 new hampshire avenue",
+            "address_line_2": null,
+            "postal_code": "20993",
+            "geo": "39.02,-77.01"
+          },
+          "linkedin_url": "linkedin.com/company/fda",
+          "linkedin_id": "4652",
+          "facebook_url": "facebook.com/fda",
+          "twitter_url": "twitter.com/fdamedwatch",
+          "website": "fda.gov"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2023-01",
+        "start_date": "2021-03",
+        "title": {
+          "name": "senior science advisor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fda",
+          "size": "10001+",
+          "id": "eikHHVPUP7Ve24dkXzk8RQILgfUH",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "silver spring, maryland, united states",
+            "locality": "silver spring",
+            "region": "maryland",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "10903 new hampshire avenue",
+            "address_line_2": null,
+            "postal_code": "20993",
+            "geo": "39.02,-77.01"
+          },
+          "linkedin_url": "linkedin.com/company/fda",
+          "linkedin_id": "4652",
+          "facebook_url": "facebook.com/fda",
+          "twitter_url": "twitter.com/fdamedwatch",
+          "website": "fda.gov"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2015-03",
+        "title": {
+          "name": "post-doctoral research fellow - risk assessment & computational toxicology",
+          "class": "services",
+          "role": "public_service",
+          "sub_role": "political",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fda",
+          "size": "10001+",
+          "id": "eikHHVPUP7Ve24dkXzk8RQILgfUH",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "silver spring, maryland, united states",
+            "locality": "silver spring",
+            "region": "maryland",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "10903 new hampshire avenue",
+            "address_line_2": null,
+            "postal_code": "20993",
+            "geo": "39.02,-77.01"
+          },
+          "linkedin_url": "linkedin.com/company/fda",
+          "linkedin_id": "4652",
+          "facebook_url": "facebook.com/fda",
+          "twitter_url": "twitter.com/fdamedwatch",
+          "website": "fda.gov"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2015-01",
+        "title": {
+          "name": "regulatory reviewer",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "indianapolis, indiana, united states"
+        ],
+        "end_date": "2013-08",
+        "start_date": "2013-06",
+        "title": {
+          "name": "consultant / intern - risk assessment & computational toxicology",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ut md anderson",
+          "size": "10001+",
+          "id": "E2nSzABUdbk5U6bYbuwcbQMywuk4",
+          "founded": 1944,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": "houston, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1515 holcombe boulevard",
+            "address_line_2": null,
+            "postal_code": "77030",
+            "geo": "29.78,-95.47"
+          },
+          "linkedin_url": "linkedin.com/company/mdandersoncancercenter",
+          "linkedin_id": "164901",
+          "facebook_url": "facebook.com/mdanderson",
+          "twitter_url": null,
+          "website": "mdanderson.org"
+        },
+        "location_names": [
+          "little texas, south carolina, united states"
+        ],
+        "end_date": "2015-02",
+        "start_date": "2008-08",
+        "title": {
+          "name": "graduate research assistant - cancer research",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "supergen",
+          "size": "51-200",
+          "id": "95RtOfmuYevCl3Me9PCHTgvFfW3h",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/supergen",
+          "linkedin_id": "35392",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "salt lake city, utah, united states"
+        ],
+        "end_date": "2007-08",
+        "start_date": "2007-05",
+        "title": {
+          "name": "intern",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of utah - employment",
+          "size": "10001+",
+          "id": "5tdVEXHzIU3JzleLPujT5QEj8n6s",
+          "founded": null,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "salt lake city, utah, united states",
+            "locality": "salt lake city",
+            "region": "utah",
+            "metro": "salt lake city, utah",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "201 presidents circle",
+            "address_line_2": "room 201",
+            "postal_code": "84112",
+            "geo": "40.74,-111.92"
+          },
+          "linkedin_url": "linkedin.com/company/university-of-utah---employment",
+          "linkedin_id": "4888",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "university of tampa, florida, united states"
+        ],
+        "end_date": "2008-07",
+        "start_date": "2006-08",
+        "title": {
+          "name": "research assistant / project liaison to supergen, inc",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the johns hopkins university - carey business school",
+          "type": "post-secondary institution",
+          "id": "BH8xUil55uav2HcDXDN5Bg_0000",
+          "location": {
+            "name": "baltimore, maryland, united states",
+            "locality": "baltimore",
+            "region": "maryland",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/jhucarey",
+          "facebook_url": "facebook.com/johnshopkinsuniversity",
+          "twitter_url": "twitter.com/johnshopkins",
+          "linkedin_id": "368576",
+          "website": "carey.jhu.edu",
+          "domain": "jhu.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2022-01",
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the johns hopkins university - carey business school",
+          "type": "post-secondary institution",
+          "id": "BH8xUil55uav2HcDXDN5Bg_0000",
+          "location": {
+            "name": "baltimore, maryland, united states",
+            "locality": "baltimore",
+            "region": "maryland",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/jhucarey",
+          "facebook_url": "facebook.com/johnshopkinsuniversity",
+          "twitter_url": "twitter.com/johnshopkins",
+          "linkedin_id": "368576",
+          "website": "carey.jhu.edu",
+          "domain": "jhu.edu"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2018",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of texas m.d. anderson cancer center",
+          "type": "post-secondary institution",
+          "id": "r3Yz8m43XBicwj1QAdIXsQ_0000",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/the-university-of-texas-m.d.-anderson-cancer-center",
+          "facebook_url": "facebook.com/mdanderson",
+          "twitter_url": "twitter.com/mdandersonnews",
+          "linkedin_id": "15133595",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2008",
+        "end_date": "2014",
+        "majors": [
+          "pharmacology"
+        ],
+        "minors": [],
+        "gpa": 4.0
+      },
+      {
+        "school": {
+          "name": "university of utah - david eccles school of business",
+          "type": "post-secondary institution",
+          "id": "o-GmThxWK8Znws33YME-mg_0000",
+          "location": {
+            "name": "salt lake city, utah, united states",
+            "locality": "salt lake city",
+            "region": "utah",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-utah-eccles",
+          "facebook_url": "facebook.com/universityofutah",
+          "twitter_url": "twitter.com/uutah",
+          "linkedin_id": "15149253",
+          "website": "eccles.utah.edu",
+          "domain": "utah.edu"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": null,
+        "majors": [
+          "business studies"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of utah - david eccles school of business",
+          "type": "post-secondary institution",
+          "id": "o-GmThxWK8Znws33YME-mg_0000",
+          "location": {
+            "name": "salt lake city, utah, united states",
+            "locality": "salt lake city",
+            "region": "utah",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-utah-eccles",
+          "facebook_url": "facebook.com/universityofutah",
+          "twitter_url": "twitter.com/uutah",
+          "linkedin_id": "15149253",
+          "website": "eccles.utah.edu",
+          "domain": "utah.edu"
+        },
+        "degrees": [],
+        "start_date": "2007",
+        "end_date": "2008",
+        "majors": [
+          "business",
+          "business studies"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of utah",
+          "type": "post-secondary institution",
+          "id": "BBPhrlYAiM-wEcyf4VaLIA_0000",
+          "location": {
+            "name": "salt lake city, utah, united states",
+            "locality": "salt lake city",
+            "region": "utah",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-utah",
+          "facebook_url": "facebook.com/universityofutah",
+          "twitter_url": "twitter.com/uutah",
+          "linkedin_id": "15251168",
+          "website": "utah.edu",
+          "domain": "utah.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2006",
+        "end_date": "2008",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "anna university chennai",
+          "type": "post-secondary institution",
+          "id": "WwFHft15RL9-K5R8D0BoXQ_0000",
+          "location": {
+            "name": "chennai, tamil nadu, india",
+            "locality": "chennai",
+            "region": "tamil nadu",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/annauniversity-chennai",
+          "facebook_url": "facebook.com/annauniversitynews",
+          "twitter_url": null,
+          "linkedin_id": "100176703",
+          "website": "annauniv.edu",
+          "domain": "annauniv.edu"
+        },
+        "degrees": [
+          "bachelor of technology",
+          "bachelors"
+        ],
+        "start_date": "2002",
+        "end_date": "2006-12",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "56487979",
+        "url": "linkedin.com/in/kausar-riaz-ahmed",
+        "username": "kausar-riaz-ahmed"
+      },
+      {
+        "network": "linkedin",
+        "id": "56487979",
+        "url": "linkedin.com/in/kausar-begam-riaz-ahmed-977b0116",
+        "username": "kausar-begam-riaz-ahmed-977b0116"
+      },
+      {
+        "network": "linkedin",
+        "id": "56487979",
+        "url": "linkedin.com/in/kausar-riaz-ahmed-phd-977b0116",
+        "username": "kausar-riaz-ahmed-phd-977b0116"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/kausar-riaz-ahmed-ph-d-rac-977b0116",
+        "username": "kausar-riaz-ahmed-ph-d-rac-977b0116"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

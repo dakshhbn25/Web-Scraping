@@ -1,0 +1,1280 @@
+{
+  "record_id": "speaker-dubrovnik-057",
+  "speaker_name": "Marisa Muninger",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/marisa-muninger-mba-phd-b4933b3/",
+  "scraped_at": "2026-09-18T09:37:06.500836+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "BBWR1-PynSnkILnsTu8lHQ_0000",
+    "full_name": "marie-isabelle muninger",
+    "first_name": "marie-isabelle",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "muninger",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global omnichannel head",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-07-31",
+    "job_start_date": "2024-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-31",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "ac nielsen",
+      "agile methodologies",
+      "attribution",
+      "big data analytics",
+      "brand architecture",
+      "brand development",
+      "brand equity",
+      "brand management",
+      "business performance management",
+      "business strategy",
+      "campaign execution",
+      "categorization",
+      "change management",
+      "change project management",
+      "communication",
+      "competitive analysis",
+      "consumer behaviour",
+      "consumer insight",
+      "consumer products",
+      "creative briefs",
+      "critical thinking",
+      "cross functional team leadership",
+      "cultural sensitivity",
+      "customer insight",
+      "digital marketing",
+      "digital transformation",
+      "director level",
+      "e commerce",
+      "email marketing",
+      "engineered marketing",
+      "fast moving consumer goods",
+      "flamand",
+      "fmcg",
+      "forecasting",
+      "gamification",
+      "gen ai",
+      "generative ai",
+      "global marketing",
+      "health authorities",
+      "healthcare staekholder management",
+      "hospital cost management",
+      "impactful presentations",
+      "influence sociale",
+      "innovation management",
+      "integrated marketing",
+      "intelligence artificielle",
+      "international business",
+      "international marketing",
+      "key account management",
+      "lancement de produit",
+      "leadership",
+      "leadership development",
+      "lean analytics",
+      "management",
+      "marker access",
+      "market access",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing multicanal",
+      "marketing research",
+      "marketing strategy",
+      "modular content",
+      "multi channel marketing",
+      "multimedia",
+      "negotiation",
+      "nielsen",
+      "omni channel marketing",
+      "p&l analysis",
+      "p&l management",
+      "p&l review",
+      "people development",
+      "people management",
+      "persuasion",
+      "pharma pricing",
+      "pharma reimbursement",
+      "pharmaceutical industry",
+      "plans tactiques",
+      "positioning",
+      "precision medicine",
+      "presentation skills",
+      "pricing",
+      "pricing strategy",
+      "product development",
+      "product innovation",
+      "product launch",
+      "product management",
+      "product marketing",
+      "programmatic advertising",
+      "project management",
+      "public speaking",
+      "segmentation",
+      "shopper marketing",
+      "social media",
+      "social media marketing",
+      "software as a service",
+      "stakeholder engagement",
+      "storytelling",
+      "strategic thinking",
+      "strategy",
+      "team leadership",
+      "trade marketing",
+      "usability testing",
+      "ventes et marketing",
+      "viral marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "global omnichannel head",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2024-06",
+        "title": {
+          "name": "global genai transformation lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ichec brussels management school",
+          "size": "201-500",
+          "id": "YCPEfSBgrJhqYfduHCcnuAgplHvP",
+          "founded": 1954,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "woluwe-saint-pierre, brussels, belgium",
+            "locality": "woluwe-saint-pierre",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "2 boulevard brand whitlock",
+            "address_line_2": null,
+            "postal_code": "1150",
+            "geo": "50.85,4.37"
+          },
+          "linkedin_url": "linkedin.com/company/ichec",
+          "linkedin_id": "44390",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ichecbrussels",
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2023-09",
+        "title": {
+          "name": "head of marketing department",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2023-01",
+        "title": {
+          "name": "franchise head cardiometabolic & vte",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium",
+          "diegem, flanders, belgium"
+        ],
+        "end_date": "2023-01",
+        "start_date": "2021-04",
+        "title": {
+          "name": "head of marketing - diabetes, cardiovascular, and vte",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium",
+          "diegem, flanders, belgium"
+        ],
+        "end_date": "2021-03",
+        "start_date": "2019-11",
+        "title": {
+          "name": "head of shopper and trade marketing - consumer healthcare",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ichec formation continue",
+          "size": "201-500",
+          "id": "bbUCebRMaG0wXwhuvemu3QJgroEK",
+          "founded": 1977,
+          "industry": "professional training & coaching",
+          "industry_v2": "professional training and coaching",
+          "location": {
+            "name": "woluwe-saint-pierre, brussels, belgium",
+            "locality": "woluwe-saint-pierre",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "2 boulevard brand whitlock",
+            "address_line_2": null,
+            "postal_code": "1150",
+            "geo": "50.85,4.37"
+          },
+          "linkedin_url": "linkedin.com/company/ichecformationcontinue",
+          "linkedin_id": "10306871",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ichecformationcontinue.be"
+        },
+        "location_names": [
+          "faubourg de bruxelles, wallonia, belgium"
+        ],
+        "end_date": "2020-09",
+        "start_date": "2019-09",
+        "title": {
+          "name": "scientific director digital marketing - executive program",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "express-desk solutions",
+          "size": "1-10",
+          "id": "5R86BSwlgUEGu8VAQigLiQKdPd7o",
+          "founded": 2014,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "brussels, belgium",
+            "locality": null,
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/express-desk",
+          "linkedin_id": "10204728",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "express-desk.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2019-08",
+        "start_date": "2016-02",
+        "title": {
+          "name": "sales & marketing director",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ichec brussels management school",
+          "size": "201-500",
+          "id": "YCPEfSBgrJhqYfduHCcnuAgplHvP",
+          "founded": 1954,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "woluwe-saint-pierre, brussels, belgium",
+            "locality": "woluwe-saint-pierre",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "2 boulevard brand whitlock",
+            "address_line_2": null,
+            "postal_code": "1150",
+            "geo": "50.85,4.37"
+          },
+          "linkedin_url": "linkedin.com/company/ichec",
+          "linkedin_id": "44390",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ichecbrussels",
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2013-09",
+        "title": {
+          "name": "professor of marketing",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "reckitt",
+          "size": "10001+",
+          "id": "DkAXbrPZ2CDsYGqggyelvgERgyhz",
+          "founded": 1823,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "slough, england, united kingdom",
+            "locality": "slough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "103-105 bath road",
+            "address_line_2": null,
+            "postal_code": "sl1 3uh",
+            "geo": "51.50,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/reckitt",
+          "linkedin_id": "3098",
+          "facebook_url": "facebook.com/reckittbenckiser",
+          "twitter_url": "twitter.com/discoverrb",
+          "website": "reckitt.com"
+        },
+        "location_names": [],
+        "end_date": "2013-11",
+        "start_date": "2012-04",
+        "title": {
+          "name": "marketing manager benelux",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "reckitt",
+          "size": "10001+",
+          "id": "DkAXbrPZ2CDsYGqggyelvgERgyhz",
+          "founded": 1823,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "slough, england, united kingdom",
+            "locality": "slough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "103-105 bath road",
+            "address_line_2": null,
+            "postal_code": "sl1 3uh",
+            "geo": "51.50,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/reckitt",
+          "linkedin_id": "3098",
+          "facebook_url": "facebook.com/reckittbenckiser",
+          "twitter_url": "twitter.com/discoverrb",
+          "website": "reckitt.com"
+        },
+        "location_names": [],
+        "end_date": "2011-03",
+        "start_date": "2010-06",
+        "title": {
+          "name": "senior brand manager laundry and surface care",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sara lee",
+          "size": "1001-5000",
+          "id": "iECUSlqZAjDUn7up4PrBvQxkcOO9",
+          "founded": null,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "400 south jefferson street chicago ilinois",
+            "address_line_2": null,
+            "postal_code": "60607",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/sara-lee-hbc",
+          "linkedin_id": "76207367",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "es.wikipedia.org/wiki/sara_lee_corporation"
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2009-02",
+        "title": {
+          "name": "brand manager douwe egberts senseo",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sara lee",
+          "size": "1001-5000",
+          "id": "iECUSlqZAjDUn7up4PrBvQxkcOO9",
+          "founded": null,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "400 south jefferson street chicago ilinois",
+            "address_line_2": null,
+            "postal_code": "60607",
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/sara-lee-hbc",
+          "linkedin_id": "76207367",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "es.wikipedia.org/wiki/sara_lee_corporation"
+        },
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2007-02",
+        "title": {
+          "name": "product manager single serve",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "20th century studios",
+          "size": "10001+",
+          "id": "gkeTGv9mWmaBnhJ34wdVbgmpyKBh",
+          "founded": null,
+          "industry": "media production",
+          "industry_v2": "media production",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1211 avenue of the americas",
+            "address_line_2": null,
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/21st-century-fox",
+          "linkedin_id": "3146632",
+          "facebook_url": "facebook.com/20thcenturyfoxphilippines",
+          "twitter_url": "twitter.com/21cf",
+          "website": "21cf.com"
+        },
+        "location_names": [],
+        "end_date": "2007-02",
+        "start_date": "2006-06",
+        "title": {
+          "name": "market knowledge expert and trade marketeer benelux",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "20th century studios",
+          "size": "10001+",
+          "id": "gkeTGv9mWmaBnhJ34wdVbgmpyKBh",
+          "founded": null,
+          "industry": "media production",
+          "industry_v2": "media production",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1211 avenue of the americas",
+            "address_line_2": null,
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/21st-century-fox",
+          "linkedin_id": "3146632",
+          "facebook_url": "facebook.com/20thcenturyfoxphilippines",
+          "twitter_url": "twitter.com/21cf",
+          "website": "21cf.com"
+        },
+        "location_names": [],
+        "end_date": "2006-05",
+        "start_date": "2005-01",
+        "title": {
+          "name": "business analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "l'oréal",
+          "size": "10001+",
+          "id": "r7B9eKqE9mFg5BTRa5WzsAGNiKBn",
+          "founded": 1909,
+          "industry": "cosmetics",
+          "industry_v2": "personal care product manufacturing",
+          "location": {
+            "name": "clichy, île-de-france, france",
+            "locality": "clichy",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "41 rue martre",
+            "address_line_2": null,
+            "postal_code": "92110",
+            "geo": "48.90,2.42"
+          },
+          "linkedin_url": "linkedin.com/company/loréal",
+          "linkedin_id": "1662",
+          "facebook_url": "facebook.com/lorealphilippines",
+          "twitter_url": null,
+          "website": "loreal.com"
+        },
+        "location_names": [],
+        "end_date": "2002",
+        "start_date": "2002",
+        "title": {
+          "name": "stage product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2024-06",
+        "end_date": "2024-11",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2024-01",
+        "end_date": "2024-12",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "circus street",
+          "type": "post-secondary institution",
+          "id": "NymI0f53vCaYC8A3LyRQXw_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/circus-street",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "113334",
+          "website": "platform.qa.com",
+          "domain": "qa.com"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023-08",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "greatday",
+          "type": "post-secondary institution",
+          "id": "SyKOy9s13z9GcKBgdikuNw_0000",
+          "location": {
+            "name": "zwolle, overijssel, netherlands",
+            "locality": "zwolle",
+            "region": "overijssel",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/greatday-recruitment",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "528029",
+          "website": "greatday.nl",
+          "domain": "greatday.nl"
+        },
+        "degrees": [],
+        "start_date": "2022-09",
+        "end_date": "2023-06",
+        "majors": [
+          "healthcare",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ifb, instituut farmaceutische bedrijfskunde",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2022-09",
+        "end_date": "2023-06",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "greatday",
+          "type": "post-secondary institution",
+          "id": "SyKOy9s13z9GcKBgdikuNw_0000",
+          "location": {
+            "name": "zwolle, overijssel, netherlands",
+            "locality": "zwolle",
+            "region": "overijssel",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/greatday-recruitment",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "528029",
+          "website": "greatday.nl",
+          "domain": "greatday.nl"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2023-12",
+        "majors": [
+          "healthcare",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université catholique de louvain",
+          "type": "post-secondary institution",
+          "id": "HLuwEuCI4tgailF-l1o0Fg_0000",
+          "location": {
+            "name": "louvain-la-neuve, wallonia, belgium",
+            "locality": "louvain-la-neuve",
+            "region": "wallonia",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uclouvain",
+          "facebook_url": "facebook.com/uclouvain",
+          "twitter_url": "twitter.com/uclouvain_be",
+          "linkedin_id": "166698",
+          "website": "uclouvain.be",
+          "domain": "uclouvain.be"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2021-01",
+        "end_date": "2022-06",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université de namur",
+          "type": "post-secondary institution",
+          "id": "nXGKTOAEPCAJzXvN-CF7zw_0000",
+          "location": {
+            "name": "namur, wallonia, belgium",
+            "locality": "namur",
+            "region": "wallonia",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unamur",
+          "facebook_url": "facebook.com/universitedenamur",
+          "twitter_url": "twitter.com/unamur",
+          "linkedin_id": "15096387",
+          "website": "unamur.be",
+          "domain": "unamur.be"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2015",
+        "end_date": "2020",
+        "majors": [
+          "business administration",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "maastricht university",
+          "type": "post-secondary institution",
+          "id": "SgDUtdQydErmAqim8DddeQ_0000",
+          "location": {
+            "name": "maastricht, limburg, netherlands",
+            "locality": "maastricht",
+            "region": "limburg",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/maastricht-university",
+          "facebook_url": "facebook.com/maastricht.university",
+          "twitter_url": "twitter.com/maastrichtu",
+          "linkedin_id": "164802",
+          "website": "maastrichtuniversity.nl",
+          "domain": "maastrichtuniversity.nl"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2015",
+        "end_date": "2019",
+        "majors": [
+          "management",
+          "marketing",
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "maastricht university",
+          "type": "post-secondary institution",
+          "id": "SgDUtdQydErmAqim8DddeQ_0000",
+          "location": {
+            "name": "maastricht, limburg, netherlands",
+            "locality": "maastricht",
+            "region": "limburg",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/maastricht-university",
+          "facebook_url": "facebook.com/maastricht.university",
+          "twitter_url": "twitter.com/maastrichtu",
+          "linkedin_id": "164802",
+          "website": "maastrichtuniversity.nl",
+          "domain": "maastrichtuniversity.nl"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2020",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université catholique de louvain",
+          "type": "post-secondary institution",
+          "id": "HLuwEuCI4tgailF-l1o0Fg_0000",
+          "location": {
+            "name": "louvain-la-neuve, wallonia, belgium",
+            "locality": "louvain-la-neuve",
+            "region": "wallonia",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uclouvain",
+          "facebook_url": "facebook.com/uclouvain",
+          "twitter_url": "twitter.com/uclouvain_be",
+          "linkedin_id": "166698",
+          "website": "uclouvain.be",
+          "domain": "uclouvain.be"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2004",
+        "majors": [
+          "business administration",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad de málaga",
+          "type": "post-secondary institution",
+          "id": "8ZRl8Ztz0ThDgeOV21Vi3g_0000",
+          "location": {
+            "name": "malaga, andalusia, spain",
+            "locality": "malaga",
+            "region": "andalusia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-malaga",
+          "facebook_url": "facebook.com/universidadmalaga",
+          "twitter_url": "twitter.com/infouma",
+          "linkedin_id": "333206",
+          "website": "uma.es",
+          "domain": "uma.es"
+        },
+        "degrees": [],
+        "start_date": "2001-01",
+        "end_date": "2002",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ichec brussels management school",
+          "type": "post-secondary institution",
+          "id": "raumqqDN4gHzDq1megeUOw_0000",
+          "location": {
+            "name": "woluwe-saint-pierre, brussels, belgium",
+            "locality": "woluwe-saint-pierre",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ichec-brussels-management-school",
+          "facebook_url": "facebook.com/ichec.brussels.management.school",
+          "twitter_url": "twitter.com/ichecbrussels",
+          "linkedin_id": "15092365",
+          "website": "ichec.be",
+          "domain": "ichec.be"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2003-12",
+        "majors": [
+          "business administration",
+          "communication",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marie-isabelle-marisa-muninger-mba-phd-b4933b3",
+        "username": "marie-isabelle-marisa-muninger-mba-phd-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marisa-muninger-mba-phd-b4933b3",
+        "username": "marisa-muninger-mba-phd-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marie-isabelle-muninger-b4933b3",
+        "username": "marie-isabelle-muninger-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marisa-muninger-mba-ph-d-b4933b3",
+        "username": "marisa-muninger-mba-ph-d-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marisa-muninger-ph-d-b4933b3",
+        "username": "marisa-muninger-ph-d-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marisa-muninger-b4933b3",
+        "username": "marisa-muninger-b4933b3"
+      },
+      {
+        "network": "linkedin",
+        "id": "9787305",
+        "url": "linkedin.com/in/marisa-muninger-phd-b4933b3",
+        "username": "marisa-muninger-phd-b4933b3"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

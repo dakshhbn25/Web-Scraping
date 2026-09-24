@@ -1,0 +1,181 @@
+{
+  "record_id": "speaker-dubrovnik-103",
+  "speaker_name": "Klas Eriksson",
+  "linkedin_url": "https://www.linkedin.com/in/klaseriksson/",
+  "likelihood": 9,
+  "full_name": "klas eriksson",
+  "job_title": "principal",
+  "industry": "management consulting",
+  "current_company": "axtria - ingenious insights",
+  "current_company_website": "axtria.com",
+  "current_company_industry": "computer software",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "analysis",
+    "analytics",
+    "business analysis",
+    "business development",
+    "business intelligence",
+    "business planning",
+    "business strategy",
+    "change management",
+    "coaching",
+    "consulting",
+    "cross functional team leadership",
+    "customer insight",
+    "customer relationship management",
+    "data analytics",
+    "digital strategy",
+    "financial services",
+    "integration",
+    "leadership",
+    "lifesciences",
+    "management",
+    "management consulting",
+    "multilingual",
+    "project management",
+    "sales",
+    "sales effectiveness",
+    "sales force effectiveness",
+    "sales management",
+    "sales operations",
+    "segmentation",
+    "start ups",
+    "strategy",
+    "telecommunications"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "principal",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2022-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of scaled analytic solutions",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2019-07",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "first data corporation",
+      "company_industry": "information technology and services",
+      "start_date": "2014-07",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "principal / director",
+      "company": "cognizant",
+      "company_industry": "information technology and services",
+      "start_date": "2013-07",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "associate principal / director",
+      "company": "cognizant",
+      "company_industry": "information technology and services",
+      "start_date": "2008-10",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "ascade",
+      "company_industry": "telecommunications",
+      "start_date": "2007-03",
+      "end_date": "2008-10",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "general wireless",
+      "company_industry": "telecommunications",
+      "start_date": "2004-10",
+      "end_date": "2007-03",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "zs",
+      "company_industry": "management consulting",
+      "start_date": "2002-09",
+      "end_date": "2004-07",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "alice systems",
+      "company_industry": null,
+      "start_date": "2000-09",
+      "end_date": "2001-09",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager",
+      "company": "ericsson",
+      "company_industry": "telecommunications",
+      "start_date": "1999-03",
+      "end_date": "2000-06",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "ericsson",
+      "company_industry": "telecommunications",
+      "start_date": "1996-08",
+      "end_date": "1999-03",
+      "is_primary": false
+    },
+    {
+      "title": "integration & verification engineer",
+      "company": "ericsson",
+      "company_industry": "telecommunications",
+      "start_date": "1995-04",
+      "end_date": "1996-08",
+      "is_primary": false
+    },
+    {
+      "title": "project manager / software engineer",
+      "company": "ace interactive",
+      "company_industry": "gambling & casinos",
+      "start_date": "1992-10",
+      "end_date": "1995-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of cambridge",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2002"
+    },
+    {
+      "school": "kth royal institute of technology",
+      "majors": [
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1988-08",
+      "end_date": "1992-07"
+    }
+  ]
+}

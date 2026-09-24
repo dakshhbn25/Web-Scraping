@@ -1,0 +1,593 @@
+{
+  "record_id": "speaker-dubrovnik-089",
+  "speaker_name": "Vishal Khanna",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/vkhanna009/",
+  "scraped_at": "2026-09-18T09:38:15.252385+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "D3yCajxMJVJe-G1fwajhug_0000",
+    "full_name": "vishal khanna",
+    "first_name": "vishal",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "khanna",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/vkhanna009",
+    "linkedin_username": "vkhanna009",
+    "linkedin_id": "3130314",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/vkhanna009",
+    "twitter_username": "vkhanna009",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "regional principal dach & fr",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+    "job_company_name": "axtria - ingenious insights",
+    "job_company_website": "axtria.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2010,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/axtria",
+    "job_company_linkedin_id": "789643",
+    "job_company_facebook_url": "facebook.com/axtriainc",
+    "job_company_twitter_url": "twitter.com/axtriaconnect",
+    "job_company_location_name": "berkeley heights, new jersey, united states",
+    "job_company_location_locality": "berkeley heights",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.67,-74.42",
+    "job_company_location_street_address": "300 connell drive",
+    "job_company_location_address_line_2": "suite 1300 5th floor",
+    "job_company_location_postal_code": "07922",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2023-10-05",
+    "job_last_verified": "2026-05-29",
+    "job_start_date": "2020-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-29",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "analytics",
+      "automotive",
+      "building relationships",
+      "business analysis",
+      "business development",
+      "business management",
+      "business strategy",
+      "business transformation",
+      "commercials",
+      "consulting",
+      "customer relations",
+      "customer relationship management",
+      "customer service",
+      "data management",
+      "global delivery",
+      "hospitality",
+      "it outsourcing",
+      "it service management",
+      "it strategy",
+      "lifesciences",
+      "logistics",
+      "management",
+      "management consulting",
+      "manufacturing",
+      "offshore software development",
+      "offshoring",
+      "operations management",
+      "outsourcing",
+      "people management",
+      "performance management",
+      "planning",
+      "pre sales",
+      "product development",
+      "product management",
+      "profit center management",
+      "program management",
+      "project delivery",
+      "project planning",
+      "service delivery",
+      "social entrepreneurship",
+      "software project management",
+      "sourcing",
+      "strategic leadership",
+      "strategic partnerships",
+      "strategic sourcing",
+      "strategy",
+      "strategy development",
+      "team leadership",
+      "team management",
+      "telecommunications",
+      "travel",
+      "youth mentoring"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "axtria - ingenious insights",
+          "size": "1001-5000",
+          "id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+          "founded": 2010,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "berkeley heights, new jersey, united states",
+            "locality": "berkeley heights",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 connell drive",
+            "address_line_2": "suite 1300 5th floor",
+            "postal_code": "07922",
+            "geo": "40.67,-74.42"
+          },
+          "linkedin_url": "linkedin.com/company/axtria",
+          "linkedin_id": "789643",
+          "facebook_url": "facebook.com/axtriainc",
+          "twitter_url": "twitter.com/axtriaconnect",
+          "website": "axtria.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2020-03",
+        "title": {
+          "name": "regional principal dach & fr",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "iqvia",
+          "size": "10001+",
+          "id": "INCG03yLMf74bucPYkoCPALLNtTC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "durham, north carolina, united states",
+            "locality": "durham",
+            "region": "north carolina",
+            "metro": "durham, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 ellis road",
+            "address_line_2": null,
+            "postal_code": "27703",
+            "geo": "35.99,-78.91"
+          },
+          "linkedin_url": "linkedin.com/company/iqvia",
+          "linkedin_id": "4057",
+          "facebook_url": "facebook.com/iqvia",
+          "twitter_url": "twitter.com/iqvia_global",
+          "website": "iqvia.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2020-02",
+        "start_date": "2018-01",
+        "title": {
+          "name": "vice president analytics solutions and global head commercial analytics outsourcing services",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "iqvia",
+          "size": "10001+",
+          "id": "INCG03yLMf74bucPYkoCPALLNtTC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "durham, north carolina, united states",
+            "locality": "durham",
+            "region": "north carolina",
+            "metro": "durham, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 ellis road",
+            "address_line_2": null,
+            "postal_code": "27703",
+            "geo": "35.99,-78.91"
+          },
+          "linkedin_url": "linkedin.com/company/iqvia",
+          "linkedin_id": "4057",
+          "facebook_url": "facebook.com/iqvia",
+          "twitter_url": "twitter.com/iqvia_global",
+          "website": "iqvia.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2014-01",
+        "title": {
+          "name": "vice president - commercial outsourcing services",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "iqvia",
+          "size": "10001+",
+          "id": "INCG03yLMf74bucPYkoCPALLNtTC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "durham, north carolina, united states",
+            "locality": "durham",
+            "region": "north carolina",
+            "metro": "durham, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 ellis road",
+            "address_line_2": null,
+            "postal_code": "27703",
+            "geo": "35.99,-78.91"
+          },
+          "linkedin_url": "linkedin.com/company/iqvia",
+          "linkedin_id": "4057",
+          "facebook_url": "facebook.com/iqvia",
+          "twitter_url": "twitter.com/iqvia_global",
+          "website": "iqvia.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2013-12",
+        "start_date": "2012-07",
+        "title": {
+          "name": "director - commercial effectiveness services",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cognizant",
+          "size": "10001+",
+          "id": "2JEEUhQ7VYi8SEwitnXqQAREfk8j",
+          "founded": 1994,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "teaneck, new jersey, united states",
+            "locality": "teaneck",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 frank west burr boulevard",
+            "address_line_2": "suite 600",
+            "postal_code": "07666",
+            "geo": "40.88,-74.01"
+          },
+          "linkedin_url": "linkedin.com/company/cognizant",
+          "linkedin_id": "1680",
+          "facebook_url": "facebook.com/cognizant",
+          "twitter_url": "twitter.com/cognizant",
+          "website": "cognizant.com"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2008-08",
+        "title": {
+          "name": "client partner",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "syntel",
+          "size": "10001+",
+          "id": "fhLCyipyVXG1Q7RyAtDNywSy4WGx",
+          "founded": 1980,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "troy, michigan, united states",
+            "locality": "troy",
+            "region": "michigan",
+            "metro": "detroit, michigan",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "525 east big beaver",
+            "address_line_2": "suite 300",
+            "postal_code": "48083",
+            "geo": "42.58,-83.21"
+          },
+          "linkedin_url": "linkedin.com/company/syntel",
+          "linkedin_id": "4280",
+          "facebook_url": "facebook.com/syntel",
+          "twitter_url": "twitter.com/syntelinc",
+          "website": "syntelinc.com"
+        },
+        "location_names": [],
+        "end_date": "2008-08",
+        "start_date": "2003-06",
+        "title": {
+          "name": "head of it services delivery",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ampersand info-tech",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2003-05",
+        "start_date": "1997-09",
+        "title": {
+          "name": "head of india delivery center",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "siemens",
+          "size": "10001+",
+          "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+          "founded": 1847,
+          "industry": "industrial automation",
+          "industry_v2": "automation machinery manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 werner-von-siemens-straße",
+            "address_line_2": null,
+            "postal_code": "80333",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/siemens",
+          "linkedin_id": "1043",
+          "facebook_url": "facebook.com/siemens",
+          "twitter_url": "twitter.com/siemens",
+          "website": "siemens.com"
+        },
+        "location_names": [],
+        "end_date": "1997",
+        "start_date": "1992",
+        "title": {
+          "name": "information technology consultant",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "tias school for business and society",
+          "type": "post-secondary institution",
+          "id": "BwB608DxLaZso7XQwtIwaQ_0000",
+          "location": {
+            "name": "tilburg, north brabant, netherlands",
+            "locality": "tilburg",
+            "region": "north brabant",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/tias-school-for-business-and-society",
+          "facebook_url": "facebook.com/tias",
+          "twitter_url": "twitter.com/tiasnews",
+          "linkedin_id": "29212",
+          "website": "tias.edu",
+          "domain": "tias.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2011-01",
+        "end_date": "2013",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "interamerican academy (official page)",
+          "type": "secondary school",
+          "id": "h9iMAutJ9NCN3lqz63KM4g_0000",
+          "location": {
+            "name": "guayaquil-chongon, guayas, ecuador",
+            "locality": "guayaquil-chongon",
+            "region": "guayas",
+            "country": "ecuador",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/company/interamerican-academy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "9477063",
+          "website": "interamerican.edu.ec",
+          "domain": "interamerican.edu.ec"
+        },
+        "degrees": [],
+        "start_date": "2006-01",
+        "end_date": "2008",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "savitribai phule pune university",
+          "type": "post-secondary institution",
+          "id": "8JDc2UkYOmzGbaLg5DK22A_0000",
+          "location": {
+            "name": "pune, maharashtra, india",
+            "locality": "pune",
+            "region": "maharashtra",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-pune",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15094398",
+          "website": "unipune.ac.in",
+          "domain": "unipune.ac.in"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors"
+        ],
+        "start_date": "1988-01",
+        "end_date": "1992",
+        "majors": [
+          "computer science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "apeejay school",
+          "type": "post-secondary institution",
+          "id": "U28Z4AOQqYmhRifB9BbIBA_0000",
+          "location": {
+            "name": "kolkata, west bengal, india",
+            "locality": "kolkata",
+            "region": "west bengal",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/apeejay-school",
+          "facebook_url": "facebook.com/apeejaystyauniv",
+          "twitter_url": "twitter.com/apeejayuniv",
+          "linkedin_id": "15114560",
+          "website": "apeejay.edu",
+          "domain": "apeejay.edu"
+        },
+        "degrees": [],
+        "start_date": "1984-01",
+        "end_date": "1988",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3130314",
+        "url": "linkedin.com/in/vkhanna009",
+        "username": "vkhanna009"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/vkhanna009",
+        "username": "vkhanna009"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/vishal-khanna-63606b1",
+        "username": "vishal-khanna-63606b1"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

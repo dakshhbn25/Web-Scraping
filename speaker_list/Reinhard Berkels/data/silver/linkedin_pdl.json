@@ -1,0 +1,273 @@
+{
+  "record_id": "speaker-medical-003",
+  "speaker_name": "Reinhard Berkels",
+  "linkedin_url": "https://www.linkedin.com/in/reinhard-berkels-phd/",
+  "likelihood": 9,
+  "full_name": "reinhard berkels",
+  "job_title": "global lead medical affairs evolution and metrics",
+  "industry": "pharmaceuticals",
+  "current_company": "boehringer ingelheim",
+  "current_company_website": "boehringer-ingelheim.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biopharmaceuticals",
+    "biotechnology",
+    "brand team collaboration",
+    "budgeting",
+    "cardiology",
+    "change management",
+    "clinical development",
+    "clinical research",
+    "clinical trials",
+    "communication",
+    "consulting",
+    "cro",
+    "cross functional collaboration",
+    "cross functional field collaboration",
+    "ctms",
+    "digital transformation",
+    "drug development",
+    "drug discovery",
+    "drug launch excellence",
+    "emparthic team leadership",
+    "empathic team leadership",
+    "epilepsy",
+    "field medical affairs",
+    "field medical excellence",
+    "gcp",
+    "genetics",
+    "go to market models",
+    "governance",
+    "group leader",
+    "ich gcp",
+    "immunology",
+    "industry experience",
+    "infectious diseases",
+    "integrated real world evidence planning",
+    "kol engagement",
+    "kol engagement excellence",
+    "lecturer",
+    "life sciences",
+    "matrix management",
+    "medical affairs",
+    "medical affairs excellence",
+    "medical affairs stategy",
+    "medical affairs strategy",
+    "medical education",
+    "medical education excellence",
+    "medical information",
+    "medical training excellence",
+    "medicine",
+    "molecular biology",
+    "movement disorders",
+    "msl excellence",
+    "neurology",
+    "neuroscience",
+    "non interventional studies",
+    "operational excellence",
+    "pharmaceutical industry",
+    "pharmacology",
+    "pharmacovigilance",
+    "preclinical development",
+    "presentation",
+    "product launch",
+    "product launch excellence",
+    "publishing",
+    "real world evidence",
+    "real world evidence generation",
+    "research",
+    "rheumatology",
+    "strategy",
+    "team leadership",
+    "team leadership and change management",
+    "therapeutic area expert",
+    "therapeutic areas"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global lead medical affairs evolution and metrics",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "co-founder & chief medical officer",
+      "company": "synduct",
+      "company_industry": "information technology and services",
+      "start_date": "2024-11",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical affairs strategy",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2022-03",
+      "end_date": "2024-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical immunology - germany",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-03",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "head of global msl and medical governance",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-04",
+      "end_date": "2018-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical neurology europe",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-11",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "head of scientific solutions, impact & excellence",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-04",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "eu medical excellence director immunology",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-07",
+      "end_date": "2015-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical director immunology, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-11",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "associate medical director & head of msl cns, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2013-11",
+      "is_primary": false
+    },
+    {
+      "title": "associate medical director cns, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-08",
+      "end_date": "2013-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of therapeutic area rls / sleep disorders, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-03",
+      "end_date": "2011-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical manager epilepsy, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-08",
+      "end_date": "2009-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison, medical affairs germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-04",
+      "end_date": "2008-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior scientist, schwarz biosciences gmbh",
+      "company": "schwarz pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-05",
+      "end_date": "2008-04",
+      "is_primary": false
+    },
+    {
+      "title": "group leader and senior lecturer, university hospital of düsseldorf",
+      "company": "university of düsseldorf",
+      "company_industry": "higher education",
+      "start_date": "2004-03",
+      "end_date": "2006-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of cologne",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "german society for pharmacoloy and toxicology",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-12"
+    },
+    {
+      "school": "university of cologne",
+      "majors": [
+        "biology",
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1993-01",
+      "end_date": "1996-01"
+    },
+    {
+      "school": "university of cologne",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1987-01",
+      "end_date": "1993-01"
+    },
+    {
+      "school": "university of cologne;privat dozent, pharmacology;1996 – 2001;",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

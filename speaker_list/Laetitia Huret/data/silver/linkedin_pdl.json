@@ -1,0 +1,205 @@
+{
+  "record_id": "speaker-dubrovnik-055",
+  "speaker_name": "Laetitia Huret",
+  "linkedin_url": "https://www.linkedin.com/in/laetitiahuret/",
+  "likelihood": 9,
+  "full_name": "laetitia huret",
+  "job_title": "transformation excellence lead",
+  "industry": "pharmaceuticals",
+  "current_company": "servier",
+  "current_company_website": "servier.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe illustrator",
+    "benchmarking",
+    "business english",
+    "cascading style sheets",
+    "communication interne",
+    "content marketing",
+    "corporate communications",
+    "customer journeys",
+    "drupal",
+    "ehealth",
+    "english",
+    "gestion de projet",
+    "git",
+    "github",
+    "google analytics",
+    "html5",
+    "indesign",
+    "javascript",
+    "lead qualification",
+    "leadership",
+    "management",
+    "marketing btob",
+    "marketing communications",
+    "marketing digital",
+    "marketing sur linkedin",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft word",
+    "optimisation pour les moteurs de recherche",
+    "parler en public",
+    "photoshop",
+    "powerpoint",
+    "project management",
+    "project planning",
+    "react.js",
+    "redmine",
+    "relations clients",
+    "stakeholder management",
+    "suivi de budgets",
+    "web design",
+    "wordpress"
+  ],
+  "interests": [
+    "arts and culture",
+    "children",
+    "civil rights and social action",
+    "disaster and humanitarian relief",
+    "environment",
+    "human rights",
+    "politics",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "transformation excellence lead",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global digital project lead - emailing activation",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "communication specialist - vie",
+      "company": "servier ireland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "commercial communication officer",
+      "company": "liveli crèches",
+      "company_industry": "individual & family services",
+      "start_date": "2020-10",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "internal communication officer",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "chargée de marketing",
+      "company": "babilou",
+      "company_industry": "individual & family services",
+      "start_date": "2018-09",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "chargée de marketing et communication",
+      "company": "dissonances",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-09",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "assistante chef de projet",
+      "company": "box conseil",
+      "company_industry": "public relations and communications",
+      "start_date": "2016-05",
+      "end_date": "2016-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "codecademy",
+      "majors": [
+        "design",
+        "multimedia"
+      ],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2023-09"
+    },
+    {
+      "school": "esp ecole supérieure de publicité, communication et marketing",
+      "majors": [
+        "business",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2018-09",
+      "end_date": "2020-09"
+    },
+    {
+      "school": "esp ecole supérieure de publicité, communication et marketing",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2015",
+      "end_date": "2018"
+    },
+    {
+      "school": "paris - pantheon - assas university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013",
+      "end_date": "2015"
+    },
+    {
+      "school": "lycée molière rio",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2006",
+      "end_date": "2013"
+    },
+    {
+      "school": "university of london",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "school": "lycée molière rio",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "school": "université paris ii - panthéon - assas",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

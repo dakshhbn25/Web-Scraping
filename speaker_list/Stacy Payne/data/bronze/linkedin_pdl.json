@@ -1,0 +1,535 @@
+{
+  "record_id": "speaker-dubrovnik-099",
+  "speaker_name": "Stacy Payne",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/stacy-payne-msc/",
+  "scraped_at": "2026-09-18T09:38:36.547644+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "106NN-5NBC2Bj9EUdl2OuA_0000",
+    "full_name": "stacy payne",
+    "first_name": "stacy",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "p",
+    "last_name": "payne",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "senior director, agentforce life sciences & regulated content management product strategy",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+    "job_company_name": "salesforce",
+    "job_company_website": "salesforce.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1996,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/salesforce",
+    "job_company_linkedin_id": "3185",
+    "job_company_facebook_url": "facebook.com/salesforce",
+    "job_company_twitter_url": "twitter.com/salesforce",
+    "job_company_location_name": "san francisco, california, united states",
+    "job_company_location_locality": "san francisco",
+    "job_company_location_metro": "san francisco, california",
+    "job_company_location_region": "california",
+    "job_company_location_geo": "37.76,-122.42",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "94105",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-02-20",
+    "job_last_verified": "2026-09-03",
+    "job_start_date": "2025-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2024-10-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "advertising",
+      "advertising management",
+      "agentforce",
+      "agile project management",
+      "business advisory services",
+      "business coaching",
+      "change management",
+      "closed loop marketing",
+      "competitive analysis",
+      "content excellence",
+      "content management",
+      "content strategy",
+      "corporate advisory",
+      "crm",
+      "customer engagement",
+      "customer experience",
+      "customer experience transformation",
+      "customer journeys",
+      "customer relationship management",
+      "digital marketing",
+      "digital strategy",
+      "digital strategy and innovation",
+      "digital supply chain",
+      "digital transformation",
+      "disruptive technologies in the digital era",
+      "employee training",
+      "establishing strategic partnerships",
+      "event management",
+      "global business development",
+      "global business management",
+      "go to market strategy",
+      "healthcare compliance",
+      "increasing revenue",
+      "information management and visualisation",
+      "key account management",
+      "leadership",
+      "leading people",
+      "leisure",
+      "life science industry",
+      "management",
+      "management consulting",
+      "marketing automation",
+      "marketing management",
+      "marketing strategy",
+      "media buying",
+      "multi site",
+      "new business development",
+      "omnichannel",
+      "operational excellence",
+      "operations management",
+      "p&l management",
+      "partner development",
+      "partnerships",
+      "performance improvement",
+      "performance management",
+      "program management",
+      "public relations",
+      "regulated content management",
+      "regulated industries",
+      "revenue analysis",
+      "revenue management",
+      "sales",
+      "sales management",
+      "sales operations",
+      "sales support",
+      "sponsorship",
+      "strategic planning",
+      "strategy",
+      "technological innovation",
+      "technology",
+      "technology change management",
+      "technology integration",
+      "training and development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "salesforce",
+          "size": "10001+",
+          "id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+          "founded": 1996,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "san francisco, california, united states",
+            "locality": "san francisco",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "94105",
+            "geo": "37.76,-122.42"
+          },
+          "linkedin_url": "linkedin.com/company/salesforce",
+          "linkedin_id": "3185",
+          "facebook_url": "facebook.com/salesforce",
+          "twitter_url": "twitter.com/salesforce",
+          "website": "salesforce.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-07",
+        "title": {
+          "name": "senior director, agentforce life sciences & regulated content management product strategy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "epista life science",
+          "size": "51-200",
+          "id": "FIBT24r5D7ywlKT6Fw1rUwDWDnQZ",
+          "founded": 2009,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "hørsholm, hovedstaden, denmark",
+            "locality": "hørsholm",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "17 slotsmarken",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "55.88,12.49"
+          },
+          "linkedin_url": "linkedin.com/company/epista-life-science",
+          "linkedin_id": "896247",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/epistals",
+          "website": "epista.com"
+        },
+        "location_names": [],
+        "end_date": "2025-07",
+        "start_date": "2024-12",
+        "title": {
+          "name": "vice president - commercial & medical excellence, global",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "epista life science",
+          "size": "51-200",
+          "id": "FIBT24r5D7ywlKT6Fw1rUwDWDnQZ",
+          "founded": 2009,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "hørsholm, hovedstaden, denmark",
+            "locality": "hørsholm",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "17 slotsmarken",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "55.88,12.49"
+          },
+          "linkedin_url": "linkedin.com/company/epista-life-science",
+          "linkedin_id": "896247",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/epistals",
+          "website": "epista.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2024-04",
+        "title": {
+          "name": "senior director, head of customer excellence & partnerships, commercial & medical excellence",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "health solutions consulting",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2026-06",
+        "start_date": "2024-03",
+        "title": {
+          "name": "founder and managing director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [],
+        "end_date": "2024-03",
+        "start_date": "2015-05",
+        "title": {
+          "name": "global director, part of commercial strategy & content sme",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "various companies",
+          "size": "1-10",
+          "id": "VSrniFfYpEB74snOsePiTgMJM6Ov",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "greenwich, connecticut, united states",
+            "locality": "greenwich",
+            "region": "connecticut",
+            "metro": "bridgeport, connecticut",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "06830",
+            "geo": "41.05,-73.63"
+          },
+          "linkedin_url": "linkedin.com/company/various-boards",
+          "linkedin_id": "18698136",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "tgleaders.com"
+        },
+        "location_names": [],
+        "end_date": "2015-05",
+        "start_date": "2007-09",
+        "title": {
+          "name": "leadership positions",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of hull",
+          "type": "post-secondary institution",
+          "id": "YkQUazgBFl8UOonMb1GC4Q_0000",
+          "location": {
+            "name": "kingston upon hull, england, united kingdom",
+            "locality": "kingston upon hull",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-hull",
+          "facebook_url": "facebook.com/universityofhull",
+          "twitter_url": "twitter.com/uniofhull",
+          "linkedin_id": "166641",
+          "website": "hull.ac.uk",
+          "domain": "hull.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2024-01",
+        "end_date": "2024-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of hull",
+          "type": "post-secondary institution",
+          "id": "YkQUazgBFl8UOonMb1GC4Q_0000",
+          "location": {
+            "name": "kingston upon hull, england, united kingdom",
+            "locality": "kingston upon hull",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-hull",
+          "facebook_url": "facebook.com/universityofhull",
+          "twitter_url": "twitter.com/uniofhull",
+          "linkedin_id": "166641",
+          "website": "hull.ac.uk",
+          "domain": "hull.ac.uk"
+        },
+        "degrees": [
+          "masters",
+          "master of science"
+        ],
+        "start_date": "2021",
+        "end_date": "2023",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of south wales",
+          "type": "post-secondary institution",
+          "id": "dkxH-X7lRdAc4pF2MiRlVQ_0000",
+          "location": {
+            "name": "pontypridd, wales, united kingdom",
+            "locality": "pontypridd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-south-wales",
+          "facebook_url": "facebook.com/universityofsouthwales",
+          "twitter_url": "twitter.com/unisouthwales",
+          "linkedin_id": "18566",
+          "website": "southwales.ac.uk",
+          "domain": "southwales.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2007",
+        "majors": [
+          "sports management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ysgol gyfun gwynllyw",
+          "type": "post-secondary institution",
+          "id": "FfWQHBNl9v-3WsgYIT4IQw_0000",
+          "location": {
+            "name": "pont-y-pŵl, wales, united kingdom",
+            "locality": "pont-y-pŵl",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ysgol-gyfun-gwynllyw",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10429691",
+          "website": "gwynllyw.org",
+          "domain": "gwynllyw.org"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "48037727",
+        "url": "linkedin.com/in/stacy-payne-msc",
+        "username": "stacy-payne-msc"
+      },
+      {
+        "network": "linkedin",
+        "id": "48037727",
+        "url": "linkedin.com/in/stacy-payne-msc-73b10714",
+        "username": "stacy-payne-msc-73b10714"
+      },
+      {
+        "network": "linkedin",
+        "id": "48037727",
+        "url": "linkedin.com/in/stacy-payne-73b10714",
+        "username": "stacy-payne-73b10714"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,308 @@
+{
+  "record_id": "speaker-medical-005",
+  "speaker_name": "Laura Avanzo Leeke",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/lauraavanzoleeke/",
+  "scraped_at": "2026-09-18T10:24:10.517644+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "aPGMXzBBR0QUQrZ0n0U0ug_0000",
+    "full_name": "laura leeke",
+    "first_name": "laura",
+    "middle_initial": "a",
+    "middle_name": "avanzo",
+    "last_initial": "l",
+    "last_name": "leeke",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lauraavanzoleeke",
+    "linkedin_username": "lauraavanzoleeke",
+    "linkedin_id": "208569501",
+    "facebook_url": "facebook.com/laura.a.leeke",
+    "facebook_username": "laura.a.leeke",
+    "facebook_id": "560676017",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical information manager",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "RKkoWjYQ9Sr2RptZZns0uAvGPg8L",
+    "job_company_name": "recordati",
+    "job_company_website": "recordati.it",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1926,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/recordati",
+    "job_company_linkedin_id": "36507",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "milan, lombardy, italy",
+    "job_company_location_locality": "milan",
+    "job_company_location_metro": null,
+    "job_company_location_region": "lombardy",
+    "job_company_location_geo": "45.46,9.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "italy",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-01-01",
+    "job_last_verified": "2025-09-01",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2024-10-17",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "recordati",
+          "size": "1001-5000",
+          "id": "RKkoWjYQ9Sr2RptZZns0uAvGPg8L",
+          "founded": 1926,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/recordati",
+          "linkedin_id": "36507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "recordati.it"
+        },
+        "location_names": [
+          "hemel hempstead, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "global medical information manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ppd",
+          "size": "10001+",
+          "id": "oi8BizF8P4GIv9egDEXnMwkcQBxw",
+          "founded": 1985,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "waltham, massachusetts, united states",
+            "locality": "waltham",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "168 3rd avenue",
+            "address_line_2": null,
+            "postal_code": "02451",
+            "geo": "42.37,-71.21"
+          },
+          "linkedin_url": "linkedin.com/company/ppd",
+          "linkedin_id": "4430",
+          "facebook_url": "facebook.com/ppdcro",
+          "twitter_url": "twitter.com/ppdcro",
+          "website": "ppd.com"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2024-10",
+        "start_date": "2021-01",
+        "title": {
+          "name": "operations manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "napp pharmaceuticals limited",
+          "size": "51-200",
+          "id": "MIAAdz6OO733qNxv2xTj4QfAKKDF",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cb4 0ab",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/napp-pharmaceuticals",
+          "linkedin_id": "27552",
+          "facebook_url": "facebook.com/londonlawagency",
+          "twitter_url": null,
+          "website": "napp.co.uk"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2017-12",
+        "title": {
+          "name": "senior medical scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "propharma",
+          "size": "5001-10000",
+          "id": "9jqhBz8iS1j0oVvU3uBOQgYSaQl2",
+          "founded": 2001,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "raleigh, north carolina, united states",
+            "locality": "raleigh",
+            "region": "north carolina",
+            "metro": "raleigh, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "107 west hargett street",
+            "address_line_2": null,
+            "postal_code": "27601",
+            "geo": "35.82,-78.63"
+          },
+          "linkedin_url": "linkedin.com/company/propharma-group",
+          "linkedin_id": "41263",
+          "facebook_url": "facebook.com/propharmagroup",
+          "twitter_url": "twitter.com/propharmagroup",
+          "website": "propharmagroup.com"
+        },
+        "location_names": [],
+        "end_date": "2017-11",
+        "start_date": "2011-08",
+        "title": {
+          "name": "multilingual medical information team leader",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of westminster",
+          "type": "post-secondary institution",
+          "id": "DMaSjnQddeepI5YxdSIGng_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-westminster",
+          "facebook_url": "facebook.com/uniofwestminster",
+          "twitter_url": "twitter.com/uniwestminster",
+          "linkedin_id": "8890",
+          "website": "westminster.ac.uk",
+          "domain": "westminster.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "208569501",
+        "url": "linkedin.com/in/lauraavanzoleeke",
+        "username": "lauraavanzoleeke"
+      },
+      {
+        "network": "facebook",
+        "id": "560676017",
+        "url": "facebook.com/laura.a.leeke",
+        "username": "laura.a.leeke"
+      },
+      {
+        "network": "linkedin",
+        "id": "208569501",
+        "url": "linkedin.com/in/laura-avanzo-leeke-b39a2359",
+        "username": "laura-avanzo-leeke-b39a2359"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

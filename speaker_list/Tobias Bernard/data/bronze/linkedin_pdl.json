@@ -1,0 +1,456 @@
+{
+  "record_id": "speaker-viennacx-060",
+  "speaker_name": "Tobias Bernard",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/tobiasbernard/",
+  "scraped_at": "2026-09-21T11:38:41.087837+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "bfcVLlEYnKFBksISJtjKiQ_0000",
+    "full_name": "tobias bernard",
+    "first_name": "tobias",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bernard",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/tobiasbernard",
+    "linkedin_username": "tobiasbernard",
+    "linkedin_id": "451430461",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior manager digital marketing (international)",
+    "job_title_role": "marketing",
+    "job_title_sub_role": null,
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "senior",
+      "manager"
+    ],
+    "job_company_id": "7K06Uyo6ubJq9S7b2ifMsQj3K6ee",
+    "job_company_name": "tillotts pharma ag",
+    "job_company_website": "tillotts.com",
+    "job_company_size": "201-500",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/tillotts-pharma-ag",
+    "job_company_linkedin_id": "78085",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": "twitter.com/tillotts_pharma",
+    "job_company_location_name": "rheinfelden, aargau, switzerland",
+    "job_company_location_locality": "rheinfelden",
+    "job_company_location_metro": null,
+    "job_company_location_region": "aargau",
+    "job_company_location_geo": "47.54,7.79",
+    "job_company_location_street_address": "15 baslerstrasse",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4310",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-08-01",
+    "job_last_verified": "2026-06-11",
+    "job_start_date": "2025-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-11",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "customer journey mapping",
+      "digital analytics",
+      "digitale kampagnen",
+      "digitale strategie",
+      "digitales engagement",
+      "digitales marketing",
+      "e commerce",
+      "e mail marketing",
+      "google analytics",
+      "marketing",
+      "marketingstrategie",
+      "online marketing",
+      "onlinewerbung",
+      "r",
+      "sem",
+      "seo",
+      "social media",
+      "social media marketing",
+      "sql",
+      "web analytics",
+      "web content management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "tillotts pharma ag",
+          "size": "201-500",
+          "id": "7K06Uyo6ubJq9S7b2ifMsQj3K6ee",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rheinfelden, aargau, switzerland",
+            "locality": "rheinfelden",
+            "region": "aargau",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "15 baslerstrasse",
+            "address_line_2": null,
+            "postal_code": "4310",
+            "geo": "47.54,7.79"
+          },
+          "linkedin_url": "linkedin.com/company/tillotts-pharma-ag",
+          "linkedin_id": "78085",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/tillotts_pharma",
+          "website": "tillotts.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-02",
+        "title": {
+          "name": "senior manager digital marketing (international)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2025-02",
+        "start_date": "2023-06",
+        "title": {
+          "name": "customer experience manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-05",
+        "start_date": "2020-05",
+        "title": {
+          "name": "digital marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "weleda ag",
+          "size": "1001-5000",
+          "id": "JNhdyhAKUBRMsMAmSUYLdQBJWFNm",
+          "founded": 1921,
+          "industry": "cosmetics",
+          "industry_v2": "personal care product manufacturing",
+          "location": {
+            "name": "arlesheim, basel-landschaft, switzerland",
+            "locality": "arlesheim",
+            "region": "basel-landschaft",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "14 dychweg",
+            "address_line_2": null,
+            "postal_code": "4144",
+            "geo": "47.48,7.61"
+          },
+          "linkedin_url": "linkedin.com/company/weleda",
+          "linkedin_id": "1138899",
+          "facebook_url": "facebook.com/weleda",
+          "twitter_url": null,
+          "website": "weleda.ch"
+        },
+        "location_names": [
+          "arlesheim, basel-landschaft, switzerland",
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2020-04",
+        "start_date": "2016-10",
+        "title": {
+          "name": "online marketing specialist (global marketing)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "insiders technologies gmbh",
+          "size": "201-500",
+          "id": "aT5yygz2308MRuFVUt3ZkQekbGHL",
+          "founded": 1998,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "kaiserslautern, rhineland-palatinate, germany",
+            "locality": "kaiserslautern",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 brüsseler straße",
+            "address_line_2": null,
+            "postal_code": "67657",
+            "geo": "49.43,7.75"
+          },
+          "linkedin_url": "linkedin.com/company/insiderstechnologies",
+          "linkedin_id": "8790250",
+          "facebook_url": "facebook.com/insiderstechnologies",
+          "twitter_url": "twitter.com/insiders_tech",
+          "website": "insiders-technologies.de"
+        },
+        "location_names": [
+          "kaiserslautern, rhineland-palatinate, germany"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2015-10",
+        "title": {
+          "name": "digital marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [
+          "mannheim, baden-württemberg, germany"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2015-02",
+        "title": {
+          "name": "freelance consultant online marketing",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "viseven",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2025-11",
+        "end_date": "2025-11",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "celforpharma",
+          "type": "post-secondary institution",
+          "id": "IpvB8Tuk-saHIhksqs5E9A_0000",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "965286",
+          "website": "celforpharma.com",
+          "domain": "celforpharma.com"
+        },
+        "degrees": [],
+        "start_date": "2025-06",
+        "end_date": "2025-06",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "celforpharma",
+          "type": "post-secondary institution",
+          "id": "IpvB8Tuk-saHIhksqs5E9A_0000",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "965286",
+          "website": "celforpharma.com",
+          "domain": "celforpharma.com"
+        },
+        "degrees": [],
+        "start_date": "2025-01",
+        "end_date": "2025-12",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "baden - wuerttemberg cooperative state university (dhbw)",
+          "type": "post-secondary institution",
+          "id": "Mjc7RSrkGhoGBWnomD7OKQ_0000",
+          "location": {
+            "name": "stuttgart, baden-württemberg, germany",
+            "locality": "stuttgart",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/duale-hochschule-baden-württemberg",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15097978",
+          "website": "dhbw.de",
+          "domain": "dhbw.de"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2012-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "451430461",
+        "url": "linkedin.com/in/tobiasbernard",
+        "username": "tobiasbernard"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

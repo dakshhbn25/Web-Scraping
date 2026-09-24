@@ -1,0 +1,802 @@
+{
+  "record_id": "speaker-viennacx-041",
+  "speaker_name": "Gökhan Salmanoglu",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/gokhansalmanoglu/",
+  "scraped_at": "2026-09-18T10:26:16.123684+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "bH7t2uXyHWzVb8j-vTtBkw_0000",
+    "full_name": "gökhan salmanoglu",
+    "first_name": "gökhan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "salmanoglu",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/gokhansalmanoglu",
+    "linkedin_username": "gokhansalmanoglu",
+    "linkedin_id": "2877478",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/gsalmanoglu",
+    "twitter_username": "gsalmanoglu",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "commercial lead / poland & east cluster (dual assignment)",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+    "job_company_name": "pfizer",
+    "job_company_website": "pfizer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1848,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/pfizer",
+    "job_company_linkedin_id": "1185",
+    "job_company_facebook_url": "facebook.com/pfizer",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "new york, new york, united states",
+    "job_company_location_locality": "new york",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.71,-73.99",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10017",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-05-02",
+    "job_last_verified": "2026-08-17",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-10-16",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "education",
+      "environment",
+      "health",
+      "human rights",
+      "politics",
+      "science and technology"
+    ],
+    "skills": [
+      "agile methodologies",
+      "analysis",
+      "analytics",
+      "artificial intelligence",
+      "automation",
+      "b2b",
+      "brand management",
+      "business analytics",
+      "business development",
+      "business innovation",
+      "business model transformation",
+      "business operations",
+      "business planning",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "coaching",
+      "commercial excellence",
+      "commercial management",
+      "competitive analysis",
+      "creativity and innovation",
+      "crm",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer insight",
+      "customer relationship management",
+      "digital marketing",
+      "digital strategy",
+      "digital transformation",
+      "email marketing",
+      "emerging markets",
+      "enterprise marketing",
+      "entrepreneurship",
+      "fast moving consumer goods",
+      "fmcg",
+      "integrated marketing",
+      "leadership",
+      "machine learning",
+      "management",
+      "market analysis",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "media strategy",
+      "mentoring",
+      "mobile devices",
+      "mobile marketing",
+      "multi channel marketing",
+      "negotiation",
+      "online advertising",
+      "organizational development",
+      "p and l oversight",
+      "p&l management",
+      "people management",
+      "product management",
+      "product marketing",
+      "program management",
+      "project management",
+      "segmentation",
+      "senior stakeholder management",
+      "social media",
+      "stakeholder management",
+      "strategic leadership",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "team leadership",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "italy",
+      "turkey"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "commercial lead / poland & east cluster (dual assignment)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "commercial excellence and ai transformation leader, international markets",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2024-04",
+        "start_date": "2023",
+        "title": {
+          "name": "emerging markets bu lead (sr. director)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2024",
+        "start_date": "2021-06",
+        "title": {
+          "name": "global lead, bold move gtm transformation - senior director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2018-01",
+        "title": {
+          "name": "germany country head, commercial excellence & operations",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2018-01",
+        "start_date": "2011-12",
+        "title": {
+          "name": "progressive leadership roles within commercial excellence and digital transformation",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [],
+        "end_date": "2011-12",
+        "start_date": "2009-01",
+        "title": {
+          "name": "director, ceemea digital marketing lead / global lead, mobile innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "cincinnati, ohio, united states"
+        ],
+        "end_date": "2009-01",
+        "start_date": "2005-01",
+        "title": {
+          "name": "progressive leadership roles in brand marketing and martech",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aygaz",
+          "size": "1001-5000",
+          "id": "XsDBYleBIXuFa6zlvb7M3w1HIU2W",
+          "founded": 1961,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "esentepe, istanbul, turkey",
+            "locality": "esentepe",
+            "region": "istanbul",
+            "metro": null,
+            "country": "turkey",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "34394",
+            "geo": "41.06,29.0"
+          },
+          "linkedin_url": "linkedin.com/company/aygazas",
+          "linkedin_id": "26699",
+          "facebook_url": "facebook.com/aygazas",
+          "twitter_url": "twitter.com/aygazas",
+          "website": "aygaz.com.tr"
+        },
+        "location_names": [],
+        "end_date": "2005-01",
+        "start_date": "2004-06",
+        "title": {
+          "name": "associate brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "koç university",
+          "type": "post-secondary institution",
+          "id": "WM9ZCXYxOCKlZbQXigBCiA_0000",
+          "location": {
+            "name": "sarıyer, istanbul, turkey",
+            "locality": "sarıyer",
+            "region": "istanbul",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/kocuniversity",
+          "facebook_url": "facebook.com/kocuniversity",
+          "twitter_url": "twitter.com/kocuniversity",
+          "linkedin_id": "581655",
+          "website": "ku.edu.tr",
+          "domain": "ku.edu.tr"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2014",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "adana fen lisesi",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "adana science high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "koç university",
+          "type": "post-secondary institution",
+          "id": "WM9ZCXYxOCKlZbQXigBCiA_0000",
+          "location": {
+            "name": "sarıyer, istanbul, turkey",
+            "locality": "sarıyer",
+            "region": "istanbul",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/kocuniversity",
+          "facebook_url": "facebook.com/kocuniversity",
+          "twitter_url": "twitter.com/kocuniversity",
+          "linkedin_id": "581655",
+          "website": "ku.edu.tr",
+          "domain": "ku.edu.tr"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "middle east technical university northern cyprus campus",
+          "type": "post-secondary institution",
+          "id": "QiDVUqYcRVUyFbc7hNgx-w_0000",
+          "location": {
+            "name": "güzelyurt, mersin, turkey",
+            "locality": "güzelyurt",
+            "region": "mersin",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/middle-east-technical-university-northern-cyprus-campus",
+          "facebook_url": "facebook.com/metunorthcyprus",
+          "twitter_url": "twitter.com/metuncc",
+          "linkedin_id": "15095832",
+          "website": "ncc.metu.edu.tr",
+          "domain": "metu.edu.tr"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "industrial engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "orta doğu teknik üniversitesi / middle east technical university",
+          "type": "post-secondary institution",
+          "id": "MpWbttqMHw2Di3QphWnqgA_0000",
+          "location": {
+            "name": "bilkent, ankara, turkey",
+            "locality": "bilkent",
+            "region": "ankara",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/orta-dogu-teknik-universitesi",
+          "facebook_url": "facebook.com/metunorthcyprus",
+          "twitter_url": "twitter.com/metuncc",
+          "linkedin_id": "15106709",
+          "website": "metu.edu.tr",
+          "domain": "metu.edu.tr"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "industrial engineering"
+        ],
+        "minors": [],
+        "gpa": 1.6
+      },
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the wharton school",
+          "type": "post-secondary institution",
+          "id": "bn1dJZvnv1bteQKcTmIfRA_0000",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/the-wharton-school",
+          "facebook_url": "facebook.com/univpennsylvania",
+          "twitter_url": "twitter.com/penn",
+          "linkedin_id": "5290",
+          "website": "wharton.upenn.edu",
+          "domain": "upenn.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "education",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "yale school of management",
+          "type": "post-secondary institution",
+          "id": "NQo3l8rqFmjSJ8jL5Sx5Pg_0000",
+          "location": {
+            "name": "new haven, connecticut, united states",
+            "locality": "new haven",
+            "region": "connecticut",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/yale-school-of-management",
+          "facebook_url": "facebook.com/yaleuniversity",
+          "twitter_url": "twitter.com/yale",
+          "linkedin_id": "4073",
+          "website": "som.yale.edu",
+          "domain": "yale.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "behavioral science",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "2877478",
+        "url": "linkedin.com/in/gokhansalmanoglu",
+        "username": "gokhansalmanoglu"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/gsalmanoglu",
+        "username": "gsalmanoglu"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/gökhan-salmanoğlu-25ab69",
+        "username": "gökhan-salmanoğlu-25ab69"
+      },
+      {
+        "network": "linkedin",
+        "id": "2877478",
+        "url": "linkedin.com/in/gsalmanoglu",
+        "username": "gsalmanoglu"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

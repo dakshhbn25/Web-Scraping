@@ -1,0 +1,148 @@
+{
+  "record_id": "speaker-medical-014",
+  "speaker_name": "Emeline Blin Massonneau",
+  "linkedin_url": "https://www.linkedin.com/in/emelineblin/",
+  "likelihood": 9,
+  "full_name": "emeline massonneau",
+  "job_title": "npp / launch digital excellence lead - global portfolio division dd & t",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda",
+  "current_company_website": "takeda.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business strategy",
+    "communication marketing",
+    "crm",
+    "french",
+    "gestion de projet",
+    "international marketing",
+    "lancement de produit",
+    "management",
+    "management marketing",
+    "market analysis",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "product management",
+    "project management",
+    "responsable produit",
+    "sales management",
+    "sales manager",
+    "vente",
+    "ventes"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "npp / launch digital excellence lead - global portfolio division dd & t",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "omnichannel franchise lead - europe & canada (gastroenterology)",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-10",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing - gastroenterology fr",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing - urology fr",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-02",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "regional brand manager, emerging markets",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-03",
+      "end_date": "2018-02",
+      "is_primary": false
+    },
+    {
+      "title": "project manager established products, emerging markets",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-05",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "ims health relationship management",
+      "company_industry": "information technology and services",
+      "start_date": "2012-08",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "marketing & communication manager apac",
+      "company": "ims health relationship management",
+      "company_industry": "information technology and services",
+      "start_date": "2011-07",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "int marketing leader one ge",
+      "company": "ge healthcare",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-09",
+      "end_date": "2011-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "kedge business school",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "university of hull",
+      "majors": [
+        "international business",
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "universidad rey juan carlos",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2009"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "record_id": "speaker-dubrovnik-083",
+  "speaker_name": "Geoff Covey",
+  "designation": "Director, Product Capability, Medical Education",
+  "company": "wiley",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/gcovey/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": null,
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": null,
+  "linkedin_people_also_viewed": null,
+  "linkedin_industry": "publishing",
+  "linkedin_current_company": "wiley",
+  "linkedin_current_company_website": "wiley.com",
+  "linkedin_skills": [
+    "account management",
+    "advertising",
+    "business development",
+    "content management",
+    "copywriting",
+    "crm",
+    "digital media",
+    "digital publishing",
+    "editorial",
+    "graphic design",
+    "healthcare marketing",
+    "indesign",
+    "medical communications",
+    "medical education",
+    "online advertising",
+    "online marketing",
+    "online publishing",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "product development",
+    "product strategy",
+    "publications",
+    "publishing"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "director, product development, independent medical education",
+      "company": "wiley",
+      "company_industry": "publishing",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate director, sales, independent medical education",
+      "company": "wiley",
+      "company_industry": "publishing",
+      "start_date": "2023-12",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of healthcare markets",
+      "company": "karger publishers",
+      "company_industry": "publishing",
+      "start_date": "2022-11",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "general manager (uk)",
+      "company": "karger publishers",
+      "company_industry": "publishing",
+      "start_date": "2018-04",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior publications developer",
+      "company": "health press limited",
+      "company_industry": "publishing",
+      "start_date": "2010-08",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "production manager",
+      "company": "lcp ltd.",
+      "company_industry": "publishing",
+      "start_date": "2009-11",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "production editor",
+      "company": "nelson thornes",
+      "company_industry": "publishing",
+      "start_date": "2008-05",
+      "end_date": "2009-11",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "oxford brookes university",
+      "majors": [
+        "design",
+        "finance",
+        "marketing",
+        "publishing"
+      ],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2007",
+      "end_date": "2008"
+    },
+    {
+      "school": "university of exeter",
+      "majors": [
+        "graphic design",
+        "publishing"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2004",
+      "end_date": "2007"
+    }
+  ],
+  "data_sources": {
+    "tavily": false,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "record_id": "speaker-medical-021",
+  "speaker_name": "Wassim El Bitar",
+  "linkedin_url": "https://www.linkedin.com/in/wassim-el-bitar-2a749a84/",
+  "likelihood": 9,
+  "full_name": "wassim bitar",
+  "job_title": "pediatrician - pediatric & adolescent gynecology",
+  "industry": "hospital & health care",
+  "current_company": "chirec hospital group",
+  "current_company_website": "chirec.be",
+  "current_company_industry": "hospital & health care",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "acls",
+    "adolescent health",
+    "bls",
+    "clinical research",
+    "critical care",
+    "healthcare",
+    "healthcare consulting",
+    "healthcare management",
+    "hospitals",
+    "icu",
+    "inpatient",
+    "medical education",
+    "medicine",
+    "newborn and child therapy",
+    "patient safety",
+    "pediatrics",
+    "prevention",
+    "vaccinations",
+    "youth development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "pediatrician - pediatric & adolescent gynecology",
+      "company": "chirec hospital group",
+      "company_industry": "hospital & health care",
+      "start_date": "2023-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chairperson- pediatric department / chef de service de pédiatrie",
+      "company": "chirec hospital group",
+      "company_industry": "hospital & health care",
+      "start_date": "2023-10",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "radio show anchor",
+      "company": "fame fm",
+      "company_industry": "media production",
+      "start_date": "2014-11",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "tv show co-anchor",
+      "company": "mbc tv",
+      "company_industry": "broadcast media",
+      "start_date": "2012-10",
+      "end_date": "2013-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical specialist",
+      "company": "hôpital des enfants",
+      "company_industry": "medical practice",
+      "start_date": "2011-07",
+      "end_date": "2013-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor",
+      "company": "hôtel-dieu de france",
+      "company_industry": "hospital & health care",
+      "start_date": "2007-07",
+      "end_date": "2011-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "saint joseph university of beirut",
+      "majors": [],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2000-07",
+      "end_date": "2011-06"
+    },
+    {
+      "school": "saint joseph university of beirut",
+      "majors": [],
+      "degrees": [
+        "doctorates",
+        "doctor of medicine"
+      ],
+      "start_date": "2000-07",
+      "end_date": "2011-06"
+    },
+    {
+      "school": "collège melkart",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "université paul sabatier toulouse iii",
+      "majors": [
+        "gynecology"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "université paul sabatier toulouse iii",
+      "majors": [
+        "gynecology"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

@@ -1,0 +1,1083 @@
+{
+  "record_id": "speaker-viennacx-036",
+  "speaker_name": "Daniele Stragapede",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/danielestragapede/",
+  "scraped_at": "2026-09-18T10:26:07.422458+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "fGLu1f4BhGInWUN760J5AA_0000",
+    "full_name": "daniele stragapede",
+    "first_name": "daniele",
+    "middle_initial": "d",
+    "middle_name": "domenico",
+    "last_initial": "s",
+    "last_name": "stragapede",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/danielestragapede",
+    "linkedin_username": "danielestragapede",
+    "linkedin_id": "10804379",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/strateganet",
+    "twitter_username": "strateganet",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "innovation, data & ai transformation senior director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "NpCCkw7qOemyvvwIq0vF6g9CN4XW",
+    "job_company_name": "chiesi italia",
+    "job_company_website": "chiesi.it",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1935,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/chiesi-italia",
+    "job_company_linkedin_id": "3264536",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "parma, emilia-romagna, italy",
+    "job_company_location_locality": "parma",
+    "job_company_location_metro": null,
+    "job_company_location_region": "emilia-romagna",
+    "job_company_location_geo": "44.79,10.32",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "italy",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-06-08",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "italy",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "business consultancy",
+      "communication",
+      "disaster and humanitarian relief",
+      "education",
+      "environment",
+      "health",
+      "marketing",
+      "poverty alleviation",
+      "sales",
+      "science and technology"
+    ],
+    "skills": [
+      "account management",
+      "advertising",
+      "artificial intelligence",
+      "b2b marketing",
+      "business development",
+      "business ethics",
+      "business intelligence",
+      "business strategy",
+      "creating a positive work environment",
+      "creative problem solving",
+      "crm",
+      "customer engagement",
+      "customer experience",
+      "customer insight",
+      "data governance",
+      "decision making",
+      "digital marketing",
+      "digital strategy",
+      "diversity and inclusion",
+      "e commerce",
+      "email marketing",
+      "growth strategies",
+      "innovation management",
+      "it governance",
+      "lead generation",
+      "leadership",
+      "lingua inglese",
+      "market analysis",
+      "marketing",
+      "marketing management",
+      "marketing online",
+      "meeting deadlines",
+      "mobile devices",
+      "mobile marketing",
+      "motivating people",
+      "negotiation",
+      "new business development",
+      "omni channel marketing",
+      "online advertising",
+      "online marketing",
+      "problem solving",
+      "professional networking",
+      "profitable growth",
+      "project management",
+      "public speaking",
+      "risk management",
+      "sales growth",
+      "sales management",
+      "search engine optimization",
+      "sem",
+      "seo",
+      "social media marketing",
+      "team leadership",
+      "team management",
+      "technology commercialization",
+      "technology marketing",
+      "web marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "italy"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "chiesi italia",
+          "size": "5001-10000",
+          "id": "NpCCkw7qOemyvvwIq0vF6g9CN4XW",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-italia",
+          "linkedin_id": "3264536",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "innovation, data & ai transformation senior director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "chiesi italia",
+          "size": "5001-10000",
+          "id": "NpCCkw7qOemyvvwIq0vF6g9CN4XW",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-italia",
+          "linkedin_id": "3264536",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2026-05",
+        "start_date": "2024-07",
+        "title": {
+          "name": "innovation & customer experience senior director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi italia",
+          "size": "5001-10000",
+          "id": "NpCCkw7qOemyvvwIq0vF6g9CN4XW",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-italia",
+          "linkedin_id": "3264536",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chiesi.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2024-07",
+        "start_date": "2022-05",
+        "title": {
+          "name": "innovation & customer experience director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2022-05",
+        "start_date": "2019-10",
+        "title": {
+          "name": "customer insights and engagement lead - digital & omnichannel | customer experience | data science",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2019-10",
+        "start_date": "2018-06",
+        "title": {
+          "name": "integrated customer engagement (ice) - digital & omnichannel | customer experience",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kpmg italy",
+          "size": "1001-5000",
+          "id": "9S0UIlNbjSbtMHInkIOWJQMRDazu",
+          "founded": 1958,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "31 viaduct vittor pisani",
+            "address_line_2": null,
+            "postal_code": "20124",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/kpmg-italy",
+          "linkedin_id": "2498775",
+          "facebook_url": "facebook.com/kpmgitaly",
+          "twitter_url": "twitter.com/kpmg_italy",
+          "website": "kpmg.com/it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2018-06",
+        "start_date": "2016-02",
+        "title": {
+          "name": "customer excellence & digital strategy - launch of italian customer experience practice",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alkemy group",
+          "size": "1001-5000",
+          "id": "bQjCZAGy0h3oCozaa55D8w526GHz",
+          "founded": 2012,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "34 viaduct san gregorio",
+            "address_line_2": null,
+            "postal_code": "20124",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/alkemygroup",
+          "linkedin_id": "2761395",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "alkemy.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2013-07",
+        "title": {
+          "name": "manager digital strategy & transformation",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chepizza app",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "bari, apulia, italy"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2012-05",
+        "title": {
+          "name": "co-founder & partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "owner",
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "media lives",
+          "size": "11-50",
+          "id": "Y0ypGOuuNzMIU6ww0U0RtgMENuUC",
+          "founded": 2010,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "52 corso buenos aires",
+            "address_line_2": null,
+            "postal_code": "20124",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/media-lives",
+          "linkedin_id": "2226227",
+          "facebook_url": "facebook.com/medialives",
+          "twitter_url": "twitter.com/medialives",
+          "website": "medialives.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2013-07",
+        "start_date": "2012-04",
+        "title": {
+          "name": "chief digital officer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "artefact",
+          "size": "1001-5000",
+          "id": "VQI90A8zn2gTJM65gYFcaQcfet4i",
+          "founded": 2014,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "19 rue richer",
+            "address_line_2": null,
+            "postal_code": "75009",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/artefact-global",
+          "linkedin_id": "27232561",
+          "facebook_url": "facebook.com/artefactglobal",
+          "twitter_url": "twitter.com/artefact_global",
+          "website": "artefact.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2012-04",
+        "start_date": "2011-10",
+        "title": {
+          "name": "business development executive, digital",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "advit internet vertical advertising",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2011-10",
+        "start_date": "2009-11",
+        "title": {
+          "name": "digital sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kube partners",
+          "size": "11-50",
+          "id": "bxD3PAFi3DWBMvYShI7gpAW7B2m4",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "trezzano sul naviglio, lombardy, italy",
+            "locality": "trezzano sul naviglio",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "7 viaduct b. zucchi",
+            "address_line_2": null,
+            "postal_code": "20090",
+            "geo": "45.42,9.06"
+          },
+          "linkedin_url": "linkedin.com/company/kube-partners",
+          "linkedin_id": "206628",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kubepartners",
+          "website": "kubepartners.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2009-11",
+        "start_date": "2008-01",
+        "title": {
+          "name": "management consultant, digital practice",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "studio set industrial advertising",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2005-12",
+        "start_date": "2003-01",
+        "title": {
+          "name": "business analyst | digital consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mip politecnico di milano",
+          "type": "post-secondary institution",
+          "id": "AvXegBaOBwOHyVCVX5dxKw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/mip-politecnico-di-milano",
+          "facebook_url": "facebook.com/polimi",
+          "twitter_url": "twitter.com/polimi",
+          "linkedin_id": "15251088",
+          "website": "gsom.polimi.it",
+          "domain": "polimi.it"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2022",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sda bocconi",
+          "type": "post-secondary institution",
+          "id": "mcrSZaF2jMLdAT8OdAMArg_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sda-bocconi-school-of-management",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "6406",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [],
+        "start_date": "2018",
+        "end_date": "2018",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "consulting",
+          "type": "post-secondary institution",
+          "id": "Id-LpS1RW4JdmCWvjkTBwQ_0000",
+          "location": {
+            "name": "curitiba, paraná, brazil",
+            "locality": "curitiba",
+            "region": "paraná",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/company/consultingschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64935305",
+          "website": "consulting.com.br",
+          "domain": "consulting.com.br"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sda bocconi",
+          "type": "post-secondary institution",
+          "id": "mcrSZaF2jMLdAT8OdAMArg_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sda-bocconi-school-of-management",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "6406",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "faro - faculdade de rondônia",
+          "type": "post-secondary institution",
+          "id": "s8mB0oAwk8fTe6Vdty43Ag_0000",
+          "location": {
+            "name": "porto velho, rondônia, brazil",
+            "locality": "porto velho",
+            "region": "rondônia",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/company/faro---faculdade-de-rondônia",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "16198910",
+          "website": "faro.edu.br",
+          "domain": "faro.edu.br"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2012-12",
+        "majors": [
+          "acting"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sole 24 ore business school",
+          "type": "post-secondary institution",
+          "id": "3UuEcT-T4e9wd2ecM0WVMw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/24-ore-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2250111",
+          "website": "24orebs.com",
+          "domain": "24orebs.com"
+        },
+        "degrees": [],
+        "start_date": "2009",
+        "end_date": "2009",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "dale carnegie training",
+          "type": "post-secondary institution",
+          "id": "IvfoNFUfuw9upVsEiJ6OsQ_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/dale-carnegie-training",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6562",
+          "website": "dalecarnegie.com",
+          "domain": "dalecarnegie.com"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sole 24 ore business school",
+          "type": "post-secondary institution",
+          "id": "3UuEcT-T4e9wd2ecM0WVMw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/24-ore-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2250111",
+          "website": "24orebs.com",
+          "domain": "24orebs.com"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2009",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sole 24 ore business school",
+          "type": "post-secondary institution",
+          "id": "3UuEcT-T4e9wd2ecM0WVMw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/24-ore-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2250111",
+          "website": "24orebs.com",
+          "domain": "24orebs.com"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2009-12",
+        "majors": [
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sole 24 ore business school",
+          "type": "post-secondary institution",
+          "id": "3UuEcT-T4e9wd2ecM0WVMw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/24-ore-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2250111",
+          "website": "24orebs.com",
+          "domain": "24orebs.com"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2009-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "czech technical university in prague",
+          "type": "post-secondary institution",
+          "id": "mfbEXoLMglLVnMAIB0oRjg_0000",
+          "location": {
+            "name": "dejvice, prague, czechia",
+            "locality": "dejvice",
+            "region": "prague",
+            "country": "czechia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cvutpraha",
+          "facebook_url": "facebook.com/cvut.v.praze",
+          "twitter_url": "twitter.com/cvutpraha",
+          "linkedin_id": "15091777",
+          "website": "cvut.cz",
+          "domain": "cvut.cz"
+        },
+        "degrees": [],
+        "start_date": "2007-01",
+        "end_date": "2007",
+        "majors": [
+          "economics",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of illinois chicago",
+          "type": "post-secondary institution",
+          "id": "MPj2uUDRBz2Lal7rxG3W5Q_0000",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/thisisuic",
+          "facebook_url": "facebook.com/uic.edu",
+          "twitter_url": "twitter.com/thisisuic",
+          "linkedin_id": "2649",
+          "website": "uic.edu",
+          "domain": "uic.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2005-01",
+        "end_date": "2007",
+        "majors": [
+          "computer engineering",
+          "engineering",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "politecnico di milano",
+          "type": "post-secondary institution",
+          "id": "bCzaWf9S93VcTsRizyLBTw_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/polimi",
+          "facebook_url": "facebook.com/polimi",
+          "twitter_url": "twitter.com/polimi",
+          "linkedin_id": "165509",
+          "website": "polimi.it",
+          "domain": "polimi.it"
+        },
+        "degrees": [
+          "master of engineering",
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2007",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "10804379",
+        "url": "linkedin.com/in/danielestragapede",
+        "username": "danielestragapede"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/strateganet",
+        "username": "strateganet"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/daniele-stragapede-64b7503",
+        "username": "daniele-stragapede-64b7503"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

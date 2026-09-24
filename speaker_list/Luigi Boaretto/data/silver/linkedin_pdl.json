@@ -1,0 +1,208 @@
+{
+  "record_id": "speaker-dubrovnik-122",
+  "speaker_name": "Luigi Boaretto",
+  "linkedin_url": "https://www.linkedin.com/in/luigiboaretto/",
+  "likelihood": 9,
+  "full_name": "luigi boaretto",
+  "job_title": "managing director and equity partner | business transformation & strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "astheria sb",
+  "current_company_website": "studiodelaini.it",
+  "current_company_industry": "management consulting",
+  "location_country": "italy",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "budgets",
+    "business",
+    "business development",
+    "business strategy",
+    "change management",
+    "entrepreneurship",
+    "innovation",
+    "intelligenza artificiale",
+    "lean manufacturing",
+    "management",
+    "marketing",
+    "negotiation",
+    "new business development",
+    "operations management",
+    "people development",
+    "process improvement",
+    "project management",
+    "strategia",
+    "strategy",
+    "sviluppo internazionale"
+  ],
+  "interests": [
+    "3 ironman",
+    "marathon",
+    "triathlon"
+  ],
+  "experience": [
+    {
+      "title": "managing director and equity partner | business transformation & strategy",
+      "company": "astheria sb",
+      "company_industry": "management consulting",
+      "start_date": "2024-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior advisor - bain advisory network",
+      "company": "bain & company",
+      "company_industry": "management consulting",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global business unit head | primary care",
+      "company": "zambon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-06",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "global head strategic planning & commercial excellence, china alliance manager",
+      "company": "zambon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-01",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "strategy and commercial excellence director",
+      "company": "zambon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "strategy director, pharmaceuticals",
+      "company": "zambon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-10",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "global operations director, fine chemicals",
+      "company": "zambon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-09",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "stamp new business head, mining chemicals",
+      "company": "basf",
+      "company_industry": "chemicals",
+      "start_date": "2012-10",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "business strategy director, african mining chemicals",
+      "company": "basf",
+      "company_industry": "chemicals",
+      "start_date": "2010-07",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "general manager, specialty chemicals site",
+      "company": "basf",
+      "company_industry": "chemicals",
+      "start_date": "2005-07",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "production manager, new grass root light stabilizers facility",
+      "company": "ciba",
+      "company_industry": "chemicals",
+      "start_date": "2003",
+      "end_date": "2005",
+      "is_primary": false
+    },
+    {
+      "title": "production manager, antioxidant and light stabilizers facilities",
+      "company": "ciba",
+      "company_industry": "chemicals",
+      "start_date": "1999",
+      "end_date": "2003",
+      "is_primary": false
+    },
+    {
+      "title": "technical project manager, specialty chemicals plants",
+      "company": "ciba",
+      "company_industry": "chemicals",
+      "start_date": "1997",
+      "end_date": "1999",
+      "is_primary": false
+    },
+    {
+      "title": "project engineer, grass root chemical sites bid proposal",
+      "company": "amec foster wheeler",
+      "company_industry": "oil & energy",
+      "start_date": "1996",
+      "end_date": "1996",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit sloan school of management",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2024-11",
+      "end_date": "2025-03"
+    },
+    {
+      "school": "bologna business school",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2015",
+      "end_date": "2015"
+    },
+    {
+      "school": "alma - la scuola internazionale di cucina italiana",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1997",
+      "end_date": "1998"
+    },
+    {
+      "school": "bologna business school",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1997-01",
+      "end_date": "1998-01"
+    },
+    {
+      "school": "università degli studi di padova",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1989-01",
+      "end_date": "1994"
+    }
+  ]
+}

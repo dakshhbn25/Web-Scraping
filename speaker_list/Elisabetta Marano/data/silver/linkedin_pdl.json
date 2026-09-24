@@ -1,0 +1,135 @@
+{
+  "record_id": "speaker-dubrovnik-087",
+  "speaker_name": "Elisabetta Marano",
+  "linkedin_url": "https://www.linkedin.com/in/elisabetta-marano-00691ba3/",
+  "likelihood": 9,
+  "full_name": "elisabetta marano",
+  "job_title": "patient advocacy and public affairs director",
+  "industry": "public policy",
+  "current_company": "alfasigma italia",
+  "current_company_website": "alfasigma.it",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "italy",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business development",
+    "comunicati stampa",
+    "comunicazione",
+    "comunicazioni aziendali",
+    "comunicazioni interne",
+    "comunicazioni interne e esterne",
+    "comunicazioni strategiche",
+    "corporate communications",
+    "crisis communication",
+    "gestione dei cambiamenti",
+    "gestione dei rapporti commerciali",
+    "gestione delle crisi",
+    "gestione eventi",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing communication",
+    "pensiero strategico",
+    "pianificazione eventi",
+    "pianificazione strategica",
+    "pubbliche relazioni",
+    "rapporti con i clienti",
+    "relazioni con i media",
+    "social media",
+    "social media marketing",
+    "social networking",
+    "strategia",
+    "strategia di marketing",
+    "team leadership"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "patient advocacy and public affairs director",
+      "company": "alfasigma italia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "public affairs director",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2022-01",
+      "end_date": "2024-07",
+      "is_primary": false
+    },
+    {
+      "title": "vice president",
+      "company": "omnicom pr group",
+      "company_industry": null,
+      "start_date": "2018-06",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "associate director - head of healthcare omnicom public relations group",
+      "company": "omnicom public relations group italia",
+      "company_industry": "public relations and communications",
+      "start_date": "2018-04",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "account director - head of healthcare",
+      "company": "omnicom public relations group italia",
+      "company_industry": "public relations and communications",
+      "start_date": "2016-09",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of rome office",
+      "company": "value relations",
+      "company_industry": "management consulting",
+      "start_date": "2014-01",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "practice leader",
+      "company": "havas pr milan",
+      "company_industry": "public relations and communications",
+      "start_date": "2007",
+      "end_date": "2014",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "istituto marcellline",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "liceo classico p. verri lodi",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "unitelma sapienza",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "università di pavia",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

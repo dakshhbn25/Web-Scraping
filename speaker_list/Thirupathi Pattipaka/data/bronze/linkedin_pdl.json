@@ -1,0 +1,1036 @@
+{
+  "record_id": "speaker-dubrovnik-007",
+  "speaker_name": "Thirupathi Pattipaka",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/thirupathi-pattipaka/",
+  "scraped_at": "2026-09-18T09:35:15.387074+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "iSlz7NChE78vzVdNvEEz7A_0000",
+    "full_name": "thirupathi pattipaka",
+    "first_name": "thirupathi",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "p",
+    "last_name": "pattipaka",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/thirupathi-pattipaka",
+    "linkedin_username": "thirupathi-pattipaka",
+    "linkedin_id": "180455925",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "co-founder & chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "esg3GU6qSWvDHrfo7g5jigZ3VNcS",
+    "job_company_name": "krushiai foundation",
+    "job_company_website": "krushi-ai.com",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": "oil & energy",
+    "job_company_industry_v2": "agriculture, construction, mining machinery manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/krushiai-foundation",
+    "job_company_linkedin_id": "103257570",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2025-02-20",
+    "job_last_verified": "2026-08-11",
+    "job_start_date": "2019-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-11",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "analytics",
+      "data visualizations",
+      "hacking",
+      "machine learning",
+      "statistical programming",
+      "statistics"
+    ],
+    "skills": [
+      "agentic workflows",
+      "ai governance",
+      "ai products",
+      "ai workflow automation",
+      "algorithms",
+      "apache pig",
+      "apache spark",
+      "artificial intelligence",
+      "biostatistics",
+      "building effective relationships",
+      "clinical trial analysis",
+      "cloud computing",
+      "coaching",
+      "consulting",
+      "data architecture",
+      "data driven decision making",
+      "data mining",
+      "data products",
+      "deep learning",
+      "deep reinforcement learning",
+      "enterprise ai strategy",
+      "epidemiology",
+      "federated learning",
+      "foundational models",
+      "generative ai",
+      "hadoop",
+      "hive",
+      "impala",
+      "java",
+      "large language model operations",
+      "large language models",
+      "leadership",
+      "linux",
+      "machine learning",
+      "matlab",
+      "medical ai",
+      "medtech",
+      "mentoring",
+      "microsoft excel",
+      "nonprofit organizations",
+      "observational studies",
+      "outcomes research",
+      "pharmaceutical industry",
+      "possess strong analytical",
+      "presentation skills",
+      "problem solving",
+      "product development",
+      "product management",
+      "product strategy",
+      "project management",
+      "public speaking",
+      "python",
+      "r",
+      "real world data",
+      "responsible ai",
+      "sas",
+      "software as a service",
+      "splunk",
+      "sql",
+      "sqoop",
+      "stakeholder management",
+      "statistical modeling",
+      "statistics",
+      "strategy",
+      "synthetic data",
+      "tableau",
+      "team leadership",
+      "team management",
+      "technical leadership",
+      "teradata"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "india",
+      "sweden"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "krushiai foundation",
+          "size": "1-10",
+          "id": "esg3GU6qSWvDHrfo7g5jigZ3VNcS",
+          "founded": null,
+          "industry": "oil & energy",
+          "industry_v2": "agriculture, construction, mining machinery manufacturing",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/krushiai-foundation",
+          "linkedin_id": "103257570",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "krushi-ai.com"
+        },
+        "location_names": [
+          "vemulawada, telangana, india"
+        ],
+        "end_date": null,
+        "start_date": "2019-10",
+        "title": {
+          "name": "co-founder & chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "executive director, ai and innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2026-01",
+        "start_date": "2023-03",
+        "title": {
+          "name": "head, datascience & ai",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2020-04",
+        "title": {
+          "name": "director, oncology rwe & data science",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2020-03",
+        "start_date": "2019-05",
+        "title": {
+          "name": "associate director, clinical insights",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ikea",
+          "size": "10001+",
+          "id": "azFyLeZTJaQpJvGCOcpj5AyoCvkN",
+          "founded": 1943,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "delft, south holland, netherlands",
+            "locality": "delft",
+            "region": "south holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "1 olof palmestraat",
+            "address_line_2": null,
+            "postal_code": "2616",
+            "geo": "52.00,4.35"
+          },
+          "linkedin_url": "linkedin.com/company/ikea",
+          "linkedin_id": "2743",
+          "facebook_url": "facebook.com/ikeausa",
+          "twitter_url": null,
+          "website": "ikea.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2019",
+        "start_date": "2018",
+        "title": {
+          "name": "lead data scientist, data science & ai platforms",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2018-06",
+        "start_date": "2015-07",
+        "title": {
+          "name": "lead data scientist, data & analytics",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "parexel",
+          "size": "10001+",
+          "id": "18ytPLCQQSy7VEKyCg4RawR4ItiA",
+          "founded": 1982,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "raleigh, north carolina, united states",
+            "locality": "raleigh",
+            "region": "north carolina",
+            "metro": "raleigh, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "541 church at north hills street 1000",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "35.82,-78.63"
+          },
+          "linkedin_url": "linkedin.com/company/parexel",
+          "linkedin_id": "4451",
+          "facebook_url": "facebook.com/parexel",
+          "twitter_url": "twitter.com/parexel",
+          "website": "parexel.com"
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2015-06",
+        "start_date": "2012-10",
+        "title": {
+          "name": "consultant / senior statistician, analytics",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "karolinska institutet",
+          "size": "1001-5000",
+          "id": "VIAIe8lROuGGyvdXWBASXg6ERgn8",
+          "founded": 1810,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "solna, kalmar, sweden",
+            "locality": "solna",
+            "region": "kalmar",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "6 nobels väg",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "57.90,16.41"
+          },
+          "linkedin_url": "linkedin.com/school/karolinska-institutet",
+          "linkedin_id": "5366",
+          "facebook_url": "facebook.com/karolinskainstitutet",
+          "twitter_url": "twitter.com/karolinskainst",
+          "website": "ki.se"
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2010-06",
+        "title": {
+          "name": "genomics researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit professional education",
+          "type": "post-secondary institution",
+          "id": "Vyk5dkeg77ysl6l1JHPtUA_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-professional-education",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "481634",
+          "website": "professional.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-01",
+        "end_date": "2026",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2022-03",
+        "end_date": "2023-07",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2022-01",
+        "end_date": "2023-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ie business school executive education",
+          "type": "post-secondary institution",
+          "id": "0Epikzq0QC99qLo8C9arUw_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ieexecutiveedu",
+          "facebook_url": "facebook.com/ieuniversity",
+          "twitter_url": "twitter.com/ieuniversity",
+          "linkedin_id": "2816341",
+          "website": "ie.edu",
+          "domain": "ie.edu"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2022",
+        "majors": [
+          "education",
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "blekinge institute of technology",
+          "type": "post-secondary institution",
+          "id": "3xVWlLUsGHAhlxrV4xI4GQ_0000",
+          "location": {
+            "name": "karlskrona, blekinge, sweden",
+            "locality": "karlskrona",
+            "region": "blekinge",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/blekinge-institute-of-technology",
+          "facebook_url": "facebook.com/bthofficiell",
+          "twitter_url": "twitter.com/bthinformation",
+          "linkedin_id": "11156",
+          "website": "bth.se",
+          "domain": "bth.se"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2020",
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "udacity",
+          "type": "post-secondary institution",
+          "id": "khR3nWdBPGfGAPfo34rB3w_0000",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/udacity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2475568",
+          "website": "udacity.com",
+          "domain": "udacity.com"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2020",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "udacity",
+          "type": "post-secondary institution",
+          "id": "khR3nWdBPGfGAPfo34rB3w_0000",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/udacity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2475568",
+          "website": "udacity.com",
+          "domain": "udacity.com"
+        },
+        "degrees": [],
+        "start_date": "2017",
+        "end_date": "2017",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "nanodegree in machine learning engineer",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2016",
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "udacity",
+          "type": "post-secondary institution",
+          "id": "khR3nWdBPGfGAPfo34rB3w_0000",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/udacity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2475568",
+          "website": "udacity.com",
+          "domain": "udacity.com"
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of york",
+          "type": "post-secondary institution",
+          "id": "6bzRsGMHdXMoWuGkECX13A_0000",
+          "location": {
+            "name": "york, england, united kingdom",
+            "locality": "york",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uniofyork",
+          "facebook_url": "facebook.com/universityofyork",
+          "twitter_url": "twitter.com/uniofyork",
+          "linkedin_id": "10399",
+          "website": "york.ac.uk",
+          "domain": "york.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2014-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "york university",
+          "type": "post-secondary institution",
+          "id": "jw6uNAwoTf2qKdZF118fOg_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/york-university",
+          "facebook_url": "facebook.com/yorkuniversity",
+          "twitter_url": "twitter.com/yorkuniversity",
+          "linkedin_id": "167012",
+          "website": "yorku.ca",
+          "domain": "yorku.ca"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2014-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kth royal institute of technology",
+          "type": "post-secondary institution",
+          "id": "CEr9kTqx5upYuMpz9stBpg_0000",
+          "location": {
+            "name": "stockholm, sweden",
+            "locality": null,
+            "region": "stockholm",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kth",
+          "facebook_url": "facebook.com/kth",
+          "twitter_url": null,
+          "linkedin_id": "4814",
+          "website": "kth.se",
+          "domain": "kth.se"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [
+          "engineering",
+          "medical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kth royal institute of technology",
+          "type": "post-secondary institution",
+          "id": "CEr9kTqx5upYuMpz9stBpg_0000",
+          "location": {
+            "name": "stockholm, sweden",
+            "locality": null,
+            "region": "stockholm",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kth",
+          "facebook_url": "facebook.com/kth",
+          "twitter_url": null,
+          "linkedin_id": "4814",
+          "website": "kth.se",
+          "domain": "kth.se"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011-01",
+        "majors": [
+          "medical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "udacity",
+          "type": "post-secondary institution",
+          "id": "khR3nWdBPGfGAPfo34rB3w_0000",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/udacity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2475568",
+          "website": "udacity.com",
+          "domain": "udacity.com"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2007",
+        "end_date": "2017",
+        "majors": [
+          "engineering",
+          "statistics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "acharya nagarjuna university",
+          "type": "post-secondary institution",
+          "id": "3MaSQReg3TexJnkW4lDBrw_0000",
+          "location": {
+            "name": "nagarjuna nagar, andhra pradesh, india",
+            "locality": "nagarjuna nagar",
+            "region": "andhra pradesh",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/acharya-nagarjuna-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15093679",
+          "website": "nagarjunauniversity.ac.in",
+          "domain": "nagarjunauniversity.ac.in"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2009",
+        "majors": [
+          "statistics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "osmania university",
+          "type": "post-secondary institution",
+          "id": "tJSGJHT19B6HmmKUq3rRsQ_0000",
+          "location": {
+            "name": "hyderabad, telangana, india",
+            "locality": "hyderabad",
+            "region": "telangana",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/osmania-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15094382",
+          "website": "osmania.ac.in",
+          "domain": "osmania.ac.in"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors"
+        ],
+        "start_date": "2001",
+        "end_date": "2005",
+        "majors": [
+          "medical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "statistics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "180455925",
+        "url": "linkedin.com/in/thirupathi-pattipaka",
+        "username": "thirupathi-pattipaka"
+      },
+      {
+        "network": "linkedin",
+        "id": "180455925",
+        "url": "linkedin.com/in/thirupathi-pattipaka-msc-beng-61952650",
+        "username": "thirupathi-pattipaka-msc-beng-61952650"
+      },
+      {
+        "network": "linkedin",
+        "id": "180455925",
+        "url": "linkedin.com/in/thirupathi-pattipaka-61952650",
+        "username": "thirupathi-pattipaka-61952650"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

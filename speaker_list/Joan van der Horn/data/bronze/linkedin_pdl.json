@@ -1,0 +1,645 @@
+{
+  "record_id": "speaker-medical-010",
+  "speaker_name": "Joan van der Horn",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/joan-van-der-horn-9994279/",
+  "scraped_at": "2026-09-18T10:24:21.503845+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PYbAC5jmb5cQ1x-THrLN0A_0000",
+    "full_name": "joan van der horn",
+    "first_name": "joan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "v",
+    "last_name": "van der horn",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/joan-van-der-horn-9994279",
+    "linkedin_username": "joan-van-der-horn-9994279",
+    "linkedin_id": "27924165",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "medical director - portfolio management",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "hzr7M9LHJFsscOgz8Dn1NAWDkkKn",
+    "job_company_name": "viatris",
+    "job_company_website": "viatris.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2020,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/viatris",
+    "job_company_linkedin_id": "52143761",
+    "job_company_facebook_url": "facebook.com/viatrisinc",
+    "job_company_twitter_url": "twitter.com/viatrisinc",
+    "job_company_location_name": "pittsburgh, pennsylvania, united states",
+    "job_company_location_locality": "pittsburgh",
+    "job_company_location_metro": "pittsburgh, pennsylvania",
+    "job_company_location_region": "pennsylvania",
+    "job_company_location_geo": "40.44,-80.04",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2023-06-01",
+    "job_last_verified": "2025-10-01",
+    "job_start_date": "2021-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-10-30",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biopharmaceuticals",
+      "biosimilars",
+      "cardiology",
+      "coaching",
+      "diabetes",
+      "endocrinology",
+      "gcp",
+      "hematology",
+      "infectious diseases",
+      "lifesciences",
+      "medical affairs",
+      "medical writing",
+      "oncology",
+      "osteoporosis",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "sales effectiveness",
+      "therapeutic areas",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "viatris",
+          "size": "10001+",
+          "id": "hzr7M9LHJFsscOgz8Dn1NAWDkkKn",
+          "founded": 2020,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "pittsburgh, pennsylvania, united states",
+            "locality": "pittsburgh",
+            "region": "pennsylvania",
+            "metro": "pittsburgh, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.44,-80.04"
+          },
+          "linkedin_url": "linkedin.com/company/viatris",
+          "linkedin_id": "52143761",
+          "facebook_url": "facebook.com/viatrisinc",
+          "twitter_url": "twitter.com/viatrisinc",
+          "website": "viatris.com"
+        },
+        "location_names": [
+          "palmerston north, manawatu-wanganui, new zealand"
+        ],
+        "end_date": null,
+        "start_date": "2021-02",
+        "title": {
+          "name": "medical director - portfolio management",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "viatris",
+          "size": "10001+",
+          "id": "hzr7M9LHJFsscOgz8Dn1NAWDkkKn",
+          "founded": 2020,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "pittsburgh, pennsylvania, united states",
+            "locality": "pittsburgh",
+            "region": "pennsylvania",
+            "metro": "pittsburgh, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.44,-80.04"
+          },
+          "linkedin_url": "linkedin.com/company/viatris",
+          "linkedin_id": "52143761",
+          "facebook_url": "facebook.com/viatrisinc",
+          "twitter_url": "twitter.com/viatrisinc",
+          "website": "viatris.com"
+        },
+        "location_names": [
+          "alliance, west virginia, united states"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2020-09",
+        "title": {
+          "name": "senior medical advisor - europe west alliance markets",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the janssen pharmaceutical companies of johnson & johnson",
+          "size": "10001+",
+          "id": "5xpAzwXz1SLLY0O25K4VmQ5ZDNjS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "raritan, new jersey, united states",
+            "locality": "raritan",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1000 u.south highway 202",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.53,-74.74"
+          },
+          "linkedin_url": "linkedin.com/company/janssen-pharmaceutical-companies-of-johnson-and-johnson",
+          "linkedin_id": "1204",
+          "facebook_url": "facebook.com/janssen-global-103430591396536",
+          "twitter_url": null,
+          "website": "janssenpharmaceuticalsinc.com"
+        },
+        "location_names": [
+          "breda, north brabant, netherlands"
+        ],
+        "end_date": "2020-05",
+        "start_date": "2018-11",
+        "title": {
+          "name": "medical advisor hematology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the janssen pharmaceutical companies of johnson & johnson",
+          "size": "10001+",
+          "id": "5xpAzwXz1SLLY0O25K4VmQ5ZDNjS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "raritan, new jersey, united states",
+            "locality": "raritan",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1000 u.south highway 202",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.53,-74.74"
+          },
+          "linkedin_url": "linkedin.com/company/janssen-pharmaceutical-companies-of-johnson-and-johnson",
+          "linkedin_id": "1204",
+          "facebook_url": "facebook.com/janssen-global-103430591396536",
+          "twitter_url": null,
+          "website": "janssenpharmaceuticalsinc.com"
+        },
+        "location_names": [
+          "raritan, new jersey, united states",
+          "breda, north brabant, netherlands",
+          "tilburg, north brabant, netherlands"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2015-10",
+        "title": {
+          "name": "medical scientific liaison hematology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the janssen pharmaceutical companies of johnson & johnson",
+          "size": "10001+",
+          "id": "5xpAzwXz1SLLY0O25K4VmQ5ZDNjS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "raritan, new jersey, united states",
+            "locality": "raritan",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1000 u.south highway 202",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.53,-74.74"
+          },
+          "linkedin_url": "linkedin.com/company/janssen-pharmaceutical-companies-of-johnson-and-johnson",
+          "linkedin_id": "1204",
+          "facebook_url": "facebook.com/janssen-global-103430591396536",
+          "twitter_url": null,
+          "website": "janssenpharmaceuticalsinc.com"
+        },
+        "location_names": [
+          "tilburg, north brabant, netherlands"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2014-10",
+        "title": {
+          "name": "medical scientific liaison infectious diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "apex systems",
+          "size": "1001-5000",
+          "id": "UEYJ50S7sRFUZSPsIb6onQ7MEENM",
+          "founded": 1995,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "glen allen, virginia, united states",
+            "locality": "glen allen",
+            "region": "virginia",
+            "metro": "richmond, virginia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4400 cox road",
+            "address_line_2": "suite 200",
+            "postal_code": "23060",
+            "geo": "37.66,-77.51"
+          },
+          "linkedin_url": "linkedin.com/company/apex-systems",
+          "linkedin_id": "4787",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/apexsystems",
+          "website": "apexsystems.com"
+        },
+        "location_names": [
+          "'s-hertogenbosch, north brabant, netherlands"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2013-11",
+        "title": {
+          "name": "medical affairs (interim)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "haarlem, north holland, netherlands"
+        ],
+        "end_date": "2013-10",
+        "start_date": "2010-04",
+        "title": {
+          "name": "medical advisor",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ad interim",
+          "size": "1001-5000",
+          "id": "SO1j5sbpda8LTnTSY6Z2SwXccydo",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "9000",
+            "geo": "51.05,3.71"
+          },
+          "linkedin_url": "linkedin.com/company/adinterim",
+          "linkedin_id": "12613795",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-11",
+        "start_date": "2009-10",
+        "title": {
+          "name": "medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "leiden, south holland, netherlands"
+        ],
+        "end_date": "2009-09",
+        "start_date": "2007-07",
+        "title": {
+          "name": "training officer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "southeast asia",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2007-04",
+        "start_date": "2007-01",
+        "title": {
+          "name": "traveling",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [],
+        "end_date": "2006-12",
+        "start_date": "2004-03",
+        "title": {
+          "name": "sales representative / fieldcoach",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tno",
+          "size": "1001-5000",
+          "id": "59M87w94QoshPZ3wbC34dQL6OHqv",
+          "founded": 1932,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "the hague, south holland, netherlands",
+            "locality": "the hague",
+            "region": "south holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "1 anna van buerenplein",
+            "address_line_2": null,
+            "postal_code": "2595 da",
+            "geo": "52.07,4.28"
+          },
+          "linkedin_url": "linkedin.com/company/tno",
+          "linkedin_id": "3614",
+          "facebook_url": "facebook.com/tnoresearch",
+          "twitter_url": "twitter.com/tno_nieuws",
+          "website": "tno.nl"
+        },
+        "location_names": [
+          "soesterberg, utrecht, netherlands"
+        ],
+        "end_date": "2002-12",
+        "start_date": "2002-08",
+        "title": {
+          "name": "research internship",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "vrije universiteit amsterdam (vu amsterdam)",
+          "type": "post-secondary institution",
+          "id": "6rnF6YFa3ExAplV0le7W0w_0000",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vrije-universiteit-amsterdam",
+          "facebook_url": "facebook.com/vuamsterdam",
+          "twitter_url": "twitter.com/vuamsterdam",
+          "linkedin_id": "5570",
+          "website": "vu.nl",
+          "domain": "vu.nl"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "amersfoort international school",
+          "type": "secondary school",
+          "id": "4RBLq3CQtNqZiSsJIjBjMQ_0000",
+          "location": {
+            "name": "amersfoort, utrecht, netherlands",
+            "locality": "amersfoort",
+            "region": "utrecht",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/amersfoort-international-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "93327868",
+          "website": "amersfoortinternationalschool.nl",
+          "domain": "amersfoortinternationalschool.nl"
+        },
+        "degrees": [],
+        "start_date": "1992-01",
+        "end_date": "1998",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "27924165",
+        "url": "linkedin.com/in/joan-van-der-horn-9994279",
+        "username": "joan-van-der-horn-9994279"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

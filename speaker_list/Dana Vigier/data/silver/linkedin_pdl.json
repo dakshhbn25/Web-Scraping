@@ -1,0 +1,178 @@
+{
+  "record_id": "speaker-dubrovnik-000",
+  "speaker_name": "Dana Vigier",
+  "linkedin_url": "https://www.linkedin.com/in/dana-vigier-md-18ab0b7/",
+  "likelihood": 9,
+  "full_name": "dana vigier",
+  "job_title": "president and general manager, alexion france, belgique et luxembourg",
+  "industry": "pharmaceuticals",
+  "current_company": "alexion pharmaceuticals, inc.",
+  "current_company_website": "alexion.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnologie",
+    "biotechnology",
+    "clinical development",
+    "clinical trials",
+    "diabetes",
+    "epidemiology",
+    "essais cliniques",
+    "general management",
+    "health economics",
+    "health policy",
+    "hta",
+    "lancement de produit",
+    "leadership",
+    "life sciences",
+    "lifesciences",
+    "management",
+    "market access",
+    "medical devices",
+    "observational studies",
+    "oncologie",
+    "oncology",
+    "outcomes research",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacoeconomics",
+    "pharmacovigilance",
+    "pricing",
+    "product launch",
+    "regulatory affairs",
+    "sales effectiveness",
+    "secteur pharmaceutique",
+    "strategy",
+    "vaccines",
+    "ventes pharmaceutiques"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "president and general manager, alexion france, belgique et luxembourg",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2026-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "board member",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "vice president, central and northern europe area head, alexion rare disease",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2023-07",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, global commercial oncology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-09",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "president of leem cancer committee",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, country head oncology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-08",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, head of oncology business unit and head of access france",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-06",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "executive director, head of market access",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-11",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior principal, country leader france access / heor / rwe",
+      "company": "ims health",
+      "company_industry": "hospital & health care",
+      "start_date": "2011-01",
+      "end_date": "2013-11",
+      "is_primary": false
+    },
+    {
+      "title": "governmental affairs director",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-06",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "market access director, europe",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-06",
+      "end_date": "2008-06",
+      "is_primary": false
+    },
+    {
+      "title": "p & r director, france",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-05",
+      "end_date": "2006-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "insead",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2017-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "carol davila university of medicine and pharmacy",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "université paris cité",
+      "majors": [
+        "french"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

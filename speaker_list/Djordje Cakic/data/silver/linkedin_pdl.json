@@ -1,0 +1,168 @@
+{
+  "record_id": "speaker-viennacx-015",
+  "speaker_name": "Djordje Cakic",
+  "linkedin_url": "https://www.linkedin.com/in/djordje-cakic-779a404b/",
+  "likelihood": 9,
+  "full_name": "djordje cakic",
+  "job_title": "customer experience and omnichannel engagement lead, ceetris region",
+  "industry": "biotechnology",
+  "current_company": "roche",
+  "current_company_website": "roche.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "serbia",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile project management",
+    "b2b marketing",
+    "business intelligence",
+    "business strategy",
+    "conditional generation",
+    "content strategy",
+    "customer engagement",
+    "customer experience management",
+    "customer journey mapping",
+    "data analytics",
+    "data driven decision making",
+    "data driven marketing",
+    "dermatology",
+    "digital marketing",
+    "digital strategy",
+    "e marketing",
+    "email marketing",
+    "enterprise marketing",
+    "event marketing",
+    "event marketing strategy",
+    "generative ai",
+    "healthcare",
+    "hematology",
+    "hootsuite",
+    "hospital sales",
+    "information graphics",
+    "leadership",
+    "linkedin marketing solutions",
+    "market access",
+    "marketing strategy",
+    "medical affairs",
+    "negotiation",
+    "omni channel marketing",
+    "oncology",
+    "persuasion",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacists",
+    "product launch",
+    "sales",
+    "sales effectiveness",
+    "sales strategy",
+    "small business marketing",
+    "social listening",
+    "social media analysis",
+    "social media measurement",
+    "strategic thinking",
+    "strategy",
+    "team leadership",
+    "user experience design",
+    "voice of the customer"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "customer experience and omnichannel engagement lead, ceetris region",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital lead @ roche russia",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2021-02",
+      "end_date": "2024-01",
+      "is_primary": false
+    },
+    {
+      "title": "national sales manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2019-02",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "customer value chapter lead",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2019-01",
+      "end_date": "2020-02",
+      "is_primary": false
+    },
+    {
+      "title": "digital champion",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2018-06",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "franchise manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2015-01",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2014-01",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical representative",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2009-11",
+      "end_date": "2013-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "cotrugli business school",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "farmaceutski fakultet u beogradu",
+      "majors": [],
+      "degrees": [
+        "bachelor of pharmacy",
+        "bachelors"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "celforpharma",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

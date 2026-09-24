@@ -1,0 +1,184 @@
+{
+  "record_id": "speaker-dubrovnik-113",
+  "speaker_name": "Michael Orriss",
+  "linkedin_url": "https://www.linkedin.com/in/michaelorriss/",
+  "likelihood": 9,
+  "full_name": "michael orriss",
+  "job_title": "member of the pm society learning and development interest group",
+  "industry": "pharmaceuticals",
+  "current_company": "pm society",
+  "current_company_website": "pmsociety.org.uk",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "change management",
+    "commercial management",
+    "cross functional team leadership",
+    "digital marketing",
+    "digital photography",
+    "fmcg",
+    "hospital sales",
+    "management",
+    "market access",
+    "marketing operations",
+    "multi channel marketing",
+    "pharmaceutical industry",
+    "pharmaceutical marketing",
+    "pharmaceutical sales",
+    "photography",
+    "product launch",
+    "retail management",
+    "sales",
+    "sales management",
+    "seo",
+    "strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "member of the pm society learning and development interest group",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate consultant",
+      "company": "oxfordsm",
+      "company_industry": "management consulting",
+      "start_date": "2021-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "principal consultant",
+      "company": "rubica change & analytics for life sciences",
+      "company_industry": "management consulting",
+      "start_date": "2021-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "independent marketing consultant",
+      "company": "michael g orriss consulting",
+      "company_industry": null,
+      "start_date": "2020-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "taking a short break and open to new opportunities",
+      "company": "open to new opportunities",
+      "company_industry": null,
+      "start_date": "2020-04",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "global commercial director - marketing operations",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-05",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing excellence",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior multichannel marketing manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-09",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-01",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "first line sales manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-05",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "national account manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-01",
+      "end_date": "2006-04",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2000-06",
+      "end_date": "2003-01",
+      "is_primary": false
+    },
+    {
+      "title": "retail store manager",
+      "company": "arcadia group ltd",
+      "company_industry": "real estate",
+      "start_date": "1993-09",
+      "end_date": "2000-06",
+      "is_primary": false
+    },
+    {
+      "title": "grocery department manager",
+      "company": "sainsbury's",
+      "company_industry": "retail",
+      "start_date": "1989-07",
+      "end_date": "1993-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "abbot's hill school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1988",
+      "end_date": "1990"
+    },
+    {
+      "school": "abbots field comprehensive",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1983",
+      "end_date": "1988"
+    },
+    {
+      "school": "abbotsfield college",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "abbotsfield comprehensive",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

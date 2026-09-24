@@ -1,0 +1,985 @@
+{
+  "record_id": "speaker-viennacx-022",
+  "speaker_name": "Mateja Vrtacnik Mandic",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/mateja-vrtacnik/",
+  "scraped_at": "2026-09-18T10:25:41.318385+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "KtasiHHWBBbqk2iTtyQ1Lw_0000",
+    "full_name": "mateja mandic",
+    "first_name": "mateja",
+    "middle_initial": "v",
+    "middle_name": "vrtacnik",
+    "last_initial": "m",
+    "last_name": "mandic",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/mateja-vrtacnik",
+    "linkedin_username": "mateja-vrtacnik",
+    "linkedin_id": "87238063",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of strategy & business operations europe and canada obu",
+    "job_title_role": "analyst",
+    "job_title_sub_role": "revenue_operations",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+    "job_company_name": "takeda oncology",
+    "job_company_website": "takedaoncology.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1993,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/takedaoncology",
+    "job_company_linkedin_id": "4682",
+    "job_company_facebook_url": "facebook.com/takedaoncology",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "40 landsdowne street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02139",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-03-17",
+    "job_last_verified": "2026-07-23",
+    "job_start_date": "2024-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-23",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnology",
+      "business development",
+      "business to business",
+      "clinical research",
+      "clinical trials",
+      "diabetes",
+      "finance",
+      "health insurance",
+      "healthcare",
+      "management",
+      "market access",
+      "medicine",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacists",
+      "pharmacology",
+      "pharmacovigilance",
+      "pharmacy",
+      "pharmacy automation",
+      "product launch",
+      "public health",
+      "regulatory affairs",
+      "regulatory documentation",
+      "regulatory policy",
+      "regulatory requirements",
+      "regulatory submissions"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "croatia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "takeda oncology",
+          "size": "1001-5000",
+          "id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+          "founded": 1993,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 landsdowne street",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/takedaoncology",
+          "linkedin_id": "4682",
+          "facebook_url": "facebook.com/takedaoncology",
+          "twitter_url": null,
+          "website": "takedaoncology.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-06",
+        "title": {
+          "name": "head of strategy & business operations europe and canada obu",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "takeda oncology",
+          "size": "1001-5000",
+          "id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+          "founded": 1993,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 landsdowne street",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/takedaoncology",
+          "linkedin_id": "4682",
+          "facebook_url": "facebook.com/takedaoncology",
+          "twitter_url": null,
+          "website": "takedaoncology.com"
+        },
+        "location_names": [],
+        "end_date": "2026-04",
+        "start_date": "2025-12",
+        "title": {
+          "name": "country head oncology portugal a.i.",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the boardroom",
+          "size": "11-50",
+          "id": "oWLSgLUfhq33xcJyuA7mkg2LIe6p",
+          "founded": 2021,
+          "industry": "think tanks",
+          "industry_v2": "education",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/the-boardroom-ch",
+          "linkedin_id": "69514716",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "the-boardroom.ch"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "member of the boardroom",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2024-05",
+        "start_date": "2023-09",
+        "title": {
+          "name": "head of strategy and business operations",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2023-08",
+        "start_date": "2023-04",
+        "title": {
+          "name": "chief of staff & a.i. head of business operations",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2022-10",
+        "title": {
+          "name": "chief of staff",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "aides",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2022-09",
+        "start_date": "2021-11",
+        "title": {
+          "name": "business operations lead and oce community lead central south eastern europe (csee) region",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda oncology",
+          "size": "1001-5000",
+          "id": "NLtuBXqiEqc1YTCUkzEQ4gzpPlfu",
+          "founded": 1993,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 landsdowne street",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/takedaoncology",
+          "linkedin_id": "4682",
+          "facebook_url": "facebook.com/takedaoncology",
+          "twitter_url": null,
+          "website": "takedaoncology.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2021-08",
+        "title": {
+          "name": "launch excellence lead and business operations manager europe & canada oncology",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2020-07",
+        "title": {
+          "name": "brand and customer manager rare disease",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2018-07",
+        "title": {
+          "name": "brand and customer manager oncology",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "stryker",
+          "size": "10001+",
+          "id": "JSsHgnYhafePlE0C9LauVwYEPtwu",
+          "founded": 1941,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "portage, michigan, united states",
+            "locality": "portage",
+            "region": "michigan",
+            "metro": "kalamazoo, michigan",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2825 airview boulevard",
+            "address_line_2": null,
+            "postal_code": "49002",
+            "geo": "42.18,-85.60"
+          },
+          "linkedin_url": "linkedin.com/company/stryker",
+          "linkedin_id": "3282",
+          "facebook_url": "facebook.com/strykercareers",
+          "twitter_url": "twitter.com/stryker_jobs",
+          "website": "stryker.com"
+        },
+        "location_names": [
+          "solothurn, solothurn, switzerland"
+        ],
+        "end_date": "2018-06",
+        "start_date": "2018-04",
+        "title": {
+          "name": "labeling and technical publication specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2017-06",
+        "title": {
+          "name": "mba intern technical product management and network strategy",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of st.gallen",
+          "size": "1001-5000",
+          "id": "oOBTzGCDIftNvKJBCT7yYQ3Ok0Lg",
+          "founded": 1898,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "50 dufourstrasse",
+            "address_line_2": null,
+            "postal_code": "9444",
+            "geo": "47.38,9.65"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "linkedin_id": "166673",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "website": "unisg.ch"
+        },
+        "location_names": [
+          "sankt gallen, st. gallen, switzerland"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2016-09",
+        "title": {
+          "name": "mba student",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alvogen",
+          "size": "1001-5000",
+          "id": "kRDGwwMJSEC83CcU0MM3FQedt2CF",
+          "founded": 2009,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "morristown, new jersey, united states",
+            "locality": "morristown",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "44 whippany road",
+            "address_line_2": null,
+            "postal_code": "07960",
+            "geo": "40.79,-74.47"
+          },
+          "linkedin_url": "linkedin.com/company/alvogenpr",
+          "linkedin_id": "1116080",
+          "facebook_url": "facebook.com/alvogen-986212954844908",
+          "twitter_url": null,
+          "website": "alvogen.com"
+        },
+        "location_names": [],
+        "end_date": "2016-07",
+        "start_date": "2014-07",
+        "title": {
+          "name": "regulatory affairs and pharmacovigilance manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alvogen",
+          "size": "1001-5000",
+          "id": "kRDGwwMJSEC83CcU0MM3FQedt2CF",
+          "founded": 2009,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "morristown, new jersey, united states",
+            "locality": "morristown",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "44 whippany road",
+            "address_line_2": null,
+            "postal_code": "07960",
+            "geo": "40.79,-74.47"
+          },
+          "linkedin_url": "linkedin.com/company/alvogenpr",
+          "linkedin_id": "1116080",
+          "facebook_url": "facebook.com/alvogen-986212954844908",
+          "twitter_url": null,
+          "website": "alvogen.com"
+        },
+        "location_names": [],
+        "end_date": "2015",
+        "start_date": "2013",
+        "title": {
+          "name": "associate in regulatory affairs and pharmacovigilance",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alkaloid ad skopje",
+          "size": "1001-5000",
+          "id": "x93IW2qhsBeqmpEhbllm7A40qwAT",
+          "founded": 1936,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "skopje, skopje, north macedonia",
+            "locality": "skopje",
+            "region": "skopje",
+            "metro": null,
+            "country": "north macedonia",
+            "continent": "europe",
+            "street_address": "12 boulevard aleksandar makedonski",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.99,21.43"
+          },
+          "linkedin_url": "linkedin.com/company/alkaloid-ad",
+          "linkedin_id": "330594",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "alkaloid.com.mk"
+        },
+        "location_names": [],
+        "end_date": "2012",
+        "start_date": "2012",
+        "title": {
+          "name": "sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gradske ljekarne zagreb",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2011",
+        "start_date": "2011",
+        "title": {
+          "name": "pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "community hospital pharmacy",
+          "size": "51-200",
+          "id": "KObk4zvjtyIa1oaxc0jvCQlkKFuj",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "norton, virginia, united states",
+            "locality": "norton",
+            "region": "virginia",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "96 15th street northwest",
+            "address_line_2": null,
+            "postal_code": "24273",
+            "geo": "36.93,-82.62"
+          },
+          "linkedin_url": "linkedin.com/company/community-hospital-pharmacy",
+          "linkedin_id": "7994012",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2010-05",
+        "title": {
+          "name": "student intern",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "community pharmacy",
+          "size": "10001+",
+          "id": "gL1zD4vsZKCG6BivMwBDNAGDPp4z",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cerveteri, lazio, italy",
+            "locality": "cerveteri",
+            "region": "lazio",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.99,12.09"
+          },
+          "linkedin_url": "linkedin.com/company/communitypharmacy",
+          "linkedin_id": "11424939",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2009-08",
+        "start_date": "2009-07",
+        "title": {
+          "name": "student intern",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of st.gallen",
+          "type": "post-secondary institution",
+          "id": "LDRlevUWy0pxUQAZrJB2UA_0000",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "linkedin_id": "166673",
+          "website": "unisg.ch",
+          "domain": "unisg.ch"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2016",
+        "end_date": "2017",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of st.gallen",
+          "type": "post-secondary institution",
+          "id": "LDRlevUWy0pxUQAZrJB2UA_0000",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "linkedin_id": "166673",
+          "website": "unisg.ch",
+          "domain": "unisg.ch"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2005",
+        "end_date": "2017",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of zagreb / sveučilište u zagrebu",
+          "type": "post-secondary institution",
+          "id": "9tofGuRRKHc2ZRp34JKKOg_0000",
+          "location": {
+            "name": "zagreb-novi zagreb-zapad, city of zagreb, croatia",
+            "locality": "zagreb-novi zagreb-zapad",
+            "region": "city of zagreb",
+            "country": "croatia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-zagreb",
+          "facebook_url": "facebook.com/unizg",
+          "twitter_url": "twitter.com/sveuzgbu",
+          "linkedin_id": "15093576",
+          "website": "unizg.hr",
+          "domain": "unizg.hr"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2005-01",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "87238063",
+        "url": "linkedin.com/in/mateja-vrtacnik",
+        "username": "mateja-vrtacnik"
+      },
+      {
+        "network": "linkedin",
+        "id": "87238063",
+        "url": "linkedin.com/in/mateja-vrtacnik-ba727025",
+        "username": "mateja-vrtacnik-ba727025"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

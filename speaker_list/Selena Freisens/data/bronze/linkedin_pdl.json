@@ -1,0 +1,591 @@
+{
+  "record_id": "speaker-medical-022",
+  "speaker_name": "Selena Freisens",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/selena-freisens-md-92ab593/",
+  "scraped_at": "2026-09-18T10:24:41.114592+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "3dzwV0AVFXbOPNrnaBU5UQ_0000",
+    "full_name": "selena freisens",
+    "first_name": "selena",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "freisens",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/selena-freisens-md-92ab593",
+    "linkedin_username": "selena-freisens-md-92ab593",
+    "linkedin_id": "11815666",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "head of global medical affairs",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Hfdr19Y3URos9PLoRi8IbAQJ7CnF",
+    "job_company_name": "merz therapeutics",
+    "job_company_website": "merztherapeutics.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2020,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/merz-therapeutics",
+    "job_company_linkedin_id": "36411",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "frankfurt, hesse, germany",
+    "job_company_location_locality": "frankfurt",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hesse",
+    "job_company_location_geo": "50.1,8.64",
+    "job_company_location_street_address": "100 eckenheimer landstrasse",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "60318",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-05-01",
+    "job_last_verified": "2026-08-03",
+    "job_start_date": "2025-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-03",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnology",
+      "business acumen",
+      "creativity and innovation",
+      "cross cultural communication skills",
+      "cross functional collaborations",
+      "global strategy",
+      "leadership",
+      "medical affairs",
+      "medical education",
+      "people management",
+      "problem solving",
+      "strategic thinking",
+      "team leadership",
+      "teamwork"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "merz therapeutics",
+          "size": "501-1000",
+          "id": "Hfdr19Y3URos9PLoRi8IbAQJ7CnF",
+          "founded": 2020,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "frankfurt, hesse, germany",
+            "locality": "frankfurt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "100 eckenheimer landstrasse",
+            "address_line_2": null,
+            "postal_code": "60318",
+            "geo": "50.1,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/merz-therapeutics",
+          "linkedin_id": "36411",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "merztherapeutics.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": null,
+        "start_date": "2025-02",
+        "title": {
+          "name": "head of global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "purpose pharma",
+          "size": "1-10",
+          "id": "kOL55hmhotueh69KHGClJwrueVAh",
+          "founded": 2022,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/purpose-pharma-com",
+          "linkedin_id": "98603715",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "purposepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2025-02",
+        "start_date": "2024-02",
+        "title": {
+          "name": "head of medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chiesi group",
+          "size": "5001-10000",
+          "id": "Nfi8Yr32CR8WTrIM2BY1hwdz0q0N",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "131 viaduct paradigna",
+            "address_line_2": null,
+            "postal_code": "43122",
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-group",
+          "linkedin_id": "40291",
+          "facebook_url": "facebook.com/chiesifarmaceutici",
+          "twitter_url": null,
+          "website": "chiesi.com"
+        },
+        "location_names": [],
+        "end_date": "2023-11",
+        "start_date": "2021-10",
+        "title": {
+          "name": "global head, medical affairs, global rare diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2022-07",
+        "start_date": "2020-10",
+        "title": {
+          "name": "head, rare neuronopathic diseases, global medical affairs, sanofi genzyme",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2020-10",
+        "start_date": "2015-10",
+        "title": {
+          "name": "head of rare haematology / global medical director, global medical affairs, sanofi genzyme",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2015-10",
+        "start_date": "2010-11",
+        "title": {
+          "name": "medical director emea region, sanofi genzyme",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2010-11",
+        "start_date": "2005-08",
+        "title": {
+          "name": "senior european registry & medical access programs lead, genzyme",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2005-08",
+        "start_date": "2001-04",
+        "title": {
+          "name": "marketing lead central and eastern europe, genzyme",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bates",
+          "size": "11-50",
+          "id": "2U29Jnz6bbmBfgC4aOxbtAIJO28F",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "malaysia",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "malaysia",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/bates-141",
+          "linkedin_id": "1168696",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2001-04",
+        "start_date": "1999-07",
+        "title": {
+          "name": "client service",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "1999-04",
+        "start_date": "1996",
+        "title": {
+          "name": "brand manager otc",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard business school",
+          "type": "post-secondary institution",
+          "id": "msWm2G6JJBgicb2CCsvODg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4867",
+          "website": "hbs.edu",
+          "domain": "hbs.edu"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sechenov university",
+          "type": "post-secondary institution",
+          "id": "6kVMOTfmMvyv07bY0s8mvw_0000",
+          "location": {
+            "name": "moscow, russia",
+            "locality": null,
+            "region": "moscow",
+            "country": "russia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/первый-московский-государственный-медицинский-университет-им.-и.м.-сеченова-первый-мгму-",
+          "facebook_url": "facebook.com/sechenov.ru",
+          "twitter_url": "twitter.com/sechenovuni",
+          "linkedin_id": "15097712",
+          "website": "sechenov.ru",
+          "domain": "sechenov.ru"
+        },
+        "degrees": [],
+        "start_date": "1993",
+        "end_date": "1996",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of belgrade",
+          "type": "post-secondary institution",
+          "id": "daTXzm-xd6WhuQVw2BwalQ_0000",
+          "location": {
+            "name": "belgrade, beograd, serbia",
+            "locality": "belgrade",
+            "region": "beograd",
+            "country": "serbia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-belgrade",
+          "facebook_url": "facebook.com/univerzitet.u.beogradu",
+          "twitter_url": "twitter.com/univerzitet_bg",
+          "linkedin_id": "595282",
+          "website": "bg.ac.rs",
+          "domain": "bg.ac.rs"
+        },
+        "degrees": [],
+        "start_date": "1985",
+        "end_date": "1990",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "11815666",
+        "url": "linkedin.com/in/selena-freisens-md-92ab593",
+        "username": "selena-freisens-md-92ab593"
+      },
+      {
+        "network": "linkedin",
+        "id": "11815666",
+        "url": "linkedin.com/in/selena-freisens-92ab593",
+        "username": "selena-freisens-92ab593"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

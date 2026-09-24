@@ -1,0 +1,141 @@
+{
+  "record_id": "speaker-medical-024",
+  "speaker_name": "Nina van Roosmalen Furlanič",
+  "linkedin_url": "https://www.linkedin.com/in/nina-van-roosmalen-furlani%C4%8D-86444616/",
+  "likelihood": 9,
+  "full_name": "nina van roosmalen furlanič",
+  "job_title": "omnichannel & content lead dermatology europe",
+  "industry": "pharmaceuticals",
+  "current_company": "ucb",
+  "current_company_website": "ucb.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business transformation",
+    "cardiology",
+    "change management",
+    "clinical trials",
+    "coaching",
+    "communication",
+    "content strategy",
+    "continuing medical education",
+    "cross team collaboration",
+    "customer engagement",
+    "customer experience",
+    "diabetes",
+    "digital strategy",
+    "digital transformation",
+    "go to market strategy",
+    "life sciences",
+    "market access",
+    "medical affairs",
+    "medical communications",
+    "medical devices",
+    "medical education",
+    "medical operations",
+    "medicine",
+    "omni channel marketing",
+    "oncology",
+    "operational excellence",
+    "osteoporosis",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "presentation skills",
+    "product launch",
+    "product management",
+    "project management",
+    "psychiatry",
+    "stakeholder management",
+    "storytelling",
+    "team leadership",
+    "veterinary medicine",
+    "visual storytelling"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "omnichannel & content lead dermatology europe",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global medical education & omnichannel lead",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "global medical affairs operations lead",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "program director",
+      "company": "excerpta medica bv - adelphi group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical director",
+      "company": "excerpta medica bv - adelphi group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-05",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor",
+      "company": "excerpta medica bv - adelphi group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-02",
+      "end_date": "2013-05",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-04",
+      "end_date": "2010-02",
+      "is_primary": false
+    },
+    {
+      "title": "medical sales representative",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-02",
+      "end_date": "2007-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "veterinary university, ljubljana, slovenia",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "2000-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "the cx academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2022-02"
+    }
+  ]
+}

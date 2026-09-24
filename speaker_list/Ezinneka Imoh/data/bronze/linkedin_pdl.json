@@ -1,0 +1,525 @@
+{
+  "record_id": "speaker-dubrovnik-052",
+  "speaker_name": "Ezinneka Imoh",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/ezinneka-imoh-pharmd/",
+  "scraped_at": "2026-09-18T09:36:55.873975+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "dGqmbdexjFi0KHCLgNDlZQ_0000",
+    "full_name": "ezinneka imoh",
+    "first_name": "ezinneka",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "i",
+    "last_name": "imoh",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/ezinneka-imoh-pharmd",
+    "linkedin_username": "ezinneka-imoh-pharmd",
+    "linkedin_id": "327142467",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global lead, scientific communications & medical education, rare diseases",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "brand",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "Nfi8Yr32CR8WTrIM2BY1hwdz0q0N",
+    "job_company_name": "chiesi group",
+    "job_company_website": "chiesi.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1935,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/chiesi-group",
+    "job_company_linkedin_id": "40291",
+    "job_company_facebook_url": "facebook.com/chiesifarmaceutici",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "parma, emilia-romagna, italy",
+    "job_company_location_locality": "parma",
+    "job_company_location_metro": null,
+    "job_company_location_region": "emilia-romagna",
+    "job_company_location_geo": "44.79,10.32",
+    "job_company_location_street_address": "131 viaduct paradigna",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "43122",
+    "job_company_location_country": "italy",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-02-25",
+    "job_last_verified": "2026-07-14",
+    "job_start_date": "2025-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2021-02-12",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "education",
+      "health"
+    ],
+    "skills": [
+      "data analysis",
+      "laboratory",
+      "medical affairs",
+      "microsoft office",
+      "pharmaceutical industry",
+      "quality assurance",
+      "quality control",
+      "research",
+      "scientific communications"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "chiesi group",
+          "size": "5001-10000",
+          "id": "Nfi8Yr32CR8WTrIM2BY1hwdz0q0N",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "131 viaduct paradigna",
+            "address_line_2": null,
+            "postal_code": "43122",
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-group",
+          "linkedin_id": "40291",
+          "facebook_url": "facebook.com/chiesifarmaceutici",
+          "twitter_url": null,
+          "website": "chiesi.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-01",
+        "title": {
+          "name": "global lead, scientific communications & medical education, rare diseases",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "chiesi group",
+          "size": "5001-10000",
+          "id": "Nfi8Yr32CR8WTrIM2BY1hwdz0q0N",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "parma, emilia-romagna, italy",
+            "locality": "parma",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "131 viaduct paradigna",
+            "address_line_2": null,
+            "postal_code": "43122",
+            "geo": "44.79,10.32"
+          },
+          "linkedin_url": "linkedin.com/company/chiesi-group",
+          "linkedin_id": "40291",
+          "facebook_url": "facebook.com/chiesifarmaceutici",
+          "twitter_url": null,
+          "website": "chiesi.com"
+        },
+        "location_names": [],
+        "end_date": "2025-01",
+        "start_date": "2023-02",
+        "title": {
+          "name": "associate director, global scientific communications & medical education, rare diseases",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "karyopharm therapeutics inc.",
+          "size": "201-500",
+          "id": "gkzf0zPKNBrjoomMtGTsKwyjxViu",
+          "founded": 2008,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "newton center, massachusetts, united states",
+            "locality": "newton center",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "85 wells avenue",
+            "address_line_2": null,
+            "postal_code": "02459",
+            "geo": "42.32,-71.18"
+          },
+          "linkedin_url": "linkedin.com/company/karyopharm",
+          "linkedin_id": "2132519",
+          "facebook_url": "facebook.com/karyopharmtherapeutics",
+          "twitter_url": "twitter.com/karyopharm",
+          "website": "karyopharm.com"
+        },
+        "location_names": [
+          "newton, massachusetts, united states"
+        ],
+        "end_date": "2023-02",
+        "start_date": "2021-08",
+        "title": {
+          "name": "senior manager, oncology scientific communications, global medical & scientific affairs",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "karyopharm therapeutics inc.",
+          "size": "201-500",
+          "id": "gkzf0zPKNBrjoomMtGTsKwyjxViu",
+          "founded": 2008,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "newton center, massachusetts, united states",
+            "locality": "newton center",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "85 wells avenue",
+            "address_line_2": null,
+            "postal_code": "02459",
+            "geo": "42.32,-71.18"
+          },
+          "linkedin_url": "linkedin.com/company/karyopharm",
+          "linkedin_id": "2132519",
+          "facebook_url": "facebook.com/karyopharmtherapeutics",
+          "twitter_url": "twitter.com/karyopharm",
+          "website": "karyopharm.com"
+        },
+        "location_names": [
+          "newton, massachusetts, united states"
+        ],
+        "end_date": "2021-08",
+        "start_date": "2021-03",
+        "title": {
+          "name": "manager, oncology scientific communications, global medical & scientific affairs",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kite pharma",
+          "size": "1001-5000",
+          "id": "q5pBvYRX7VpLpsd6oEBS5Q1tP8gK",
+          "founded": 2009,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "santa monica, california, united states",
+            "locality": "santa monica",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 broadway",
+            "address_line_2": null,
+            "postal_code": "90404",
+            "geo": "34.01,-118.47"
+          },
+          "linkedin_url": "linkedin.com/company/kite-pharma-inc-",
+          "linkedin_id": "5807055",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kitepharma",
+          "website": "kitepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2021-03",
+        "start_date": "2020-04",
+        "title": {
+          "name": "manager, scientific communications, global medical affairs, oncology & cell therapy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vertex pharmaceuticals",
+          "size": "1001-5000",
+          "id": "T9mvOcJ7CfAE1NldCHFGvASwTFnq",
+          "founded": 1989,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "50 northern avenue",
+            "address_line_2": null,
+            "postal_code": "02210",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/vertex-pharmaceuticals",
+          "linkedin_id": "6866",
+          "facebook_url": "facebook.com/vertexpharmainc",
+          "twitter_url": "twitter.com/vertexpharma",
+          "website": "vrtx.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2020-04",
+        "start_date": "2018-05",
+        "title": {
+          "name": "global medical affairs, rare diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "asembia",
+          "size": "501-1000",
+          "id": "TxFicMcIrVFReCz8T8oCuQztxEB4",
+          "founded": 2004,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "florham park, new jersey, united states",
+            "locality": "florham park",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 park avenue",
+            "address_line_2": "suite 300",
+            "postal_code": "07932",
+            "geo": "40.77,-74.39"
+          },
+          "linkedin_url": "linkedin.com/company/asembia",
+          "linkedin_id": "10581724",
+          "facebook_url": "facebook.com/asembiarx",
+          "twitter_url": "twitter.com/asembiarx",
+          "website": "asembia.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2016-03",
+        "title": {
+          "name": "program manager, medical information",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "johns hopkins bloomberg school of public health",
+          "type": "post-secondary institution",
+          "id": "uHRweCSJOJ80TE-kzrUmDA_0000",
+          "location": {
+            "name": "baltimore, maryland, united states",
+            "locality": "baltimore",
+            "region": "maryland",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/johns-hopkins-bloomberg-school-of-public-health",
+          "facebook_url": "facebook.com/johnshopkinsuniversity",
+          "twitter_url": "twitter.com/johnshopkins",
+          "linkedin_id": "3527",
+          "website": "publichealth.jhu.edu",
+          "domain": "jhu.edu"
+        },
+        "degrees": [],
+        "start_date": "2018",
+        "end_date": "2018",
+        "majors": [
+          "design"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "fairleigh dickinson university",
+          "type": "post-secondary institution",
+          "id": "yUDlD5C55z9CBFwF1JxuFw_0000",
+          "location": {
+            "name": "teaneck, new jersey, united states",
+            "locality": "teaneck",
+            "region": "new jersey",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/fairleigh-dickinson-university",
+          "facebook_url": "facebook.com/universityofstaugustine",
+          "twitter_url": "twitter.com/uofstaug",
+          "linkedin_id": "10822",
+          "website": "fdu.edu",
+          "domain": "fdu.edu"
+        },
+        "degrees": [
+          "doctor of pharmacy",
+          "doctorates"
+        ],
+        "start_date": "2016",
+        "end_date": null,
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of texas at arlington",
+          "type": "post-secondary institution",
+          "id": "LF7XhWfl3rXCcdBg7I22WQ_0000",
+          "location": {
+            "name": "arlington, texas, united states",
+            "locality": "arlington",
+            "region": "texas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-texas-at-arlington",
+          "facebook_url": "facebook.com/utarlington",
+          "twitter_url": "twitter.com/utarlington",
+          "linkedin_id": "166680",
+          "website": "uta.edu",
+          "domain": "uta.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2012",
+        "end_date": "2015",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "corona - norco unified school district",
+          "type": "secondary school",
+          "id": "Xbv1feE7DW9CLq3y4MpsgA_0000",
+          "location": {
+            "name": "norco, california, united states",
+            "locality": "norco",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/corona-norco-usd",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18176185",
+          "website": "cnusd.k12.ca.us",
+          "domain": "cnusd.k12.ca.us"
+        },
+        "degrees": [],
+        "start_date": "2005",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "327142467",
+        "url": "linkedin.com/in/ezinneka-imoh-pharmd",
+        "username": "ezinneka-imoh-pharmd"
+      },
+      {
+        "network": "linkedin",
+        "id": "327142467",
+        "url": "linkedin.com/in/ezinneka-imoh-68368691",
+        "username": "ezinneka-imoh-68368691"
+      },
+      {
+        "network": "linkedin",
+        "id": "327142467",
+        "url": "linkedin.com/in/ezinneka-imoh-pharmdc",
+        "username": "ezinneka-imoh-pharmdc"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

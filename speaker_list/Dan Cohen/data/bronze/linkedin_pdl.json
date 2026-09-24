@@ -1,0 +1,675 @@
+{
+  "record_id": "speaker-dubrovnik-025",
+  "speaker_name": "Dan Cohen",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dancohen23/",
+  "scraped_at": "2026-09-18T09:35:56.070823+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "juKn3z0Nqib3if1tmftL1w_0000",
+    "full_name": "dan cohen",
+    "first_name": "dan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "cohen",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dancohen23",
+    "linkedin_username": "dancohen23",
+    "linkedin_id": "60029188",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "vice president, global head of commercial operations",
+    "job_title_role": "operations",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director",
+      "vp"
+    ],
+    "job_company_id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+    "job_company_name": "biogen",
+    "job_company_website": "biogen.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1978,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/biogen-",
+    "job_company_linkedin_id": "3961",
+    "job_company_facebook_url": "facebook.com/biogen",
+    "job_company_twitter_url": "twitter.com/biogen",
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "225 binney street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02142",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-12-28",
+    "job_last_verified": "2026-08-28",
+    "job_start_date": "2023-11",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-08-28",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "cross functional team leadership",
+      "diabetes",
+      "healthcare",
+      "increase productivity",
+      "key account management",
+      "leadership",
+      "lean six sigma",
+      "management",
+      "marketing",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "revenue generation",
+      "sales effectiveness",
+      "six sigma",
+      "strategic planning",
+      "strategy",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2023-11",
+        "title": {
+          "name": "vice president, global head of commercial operations",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2023-11",
+        "start_date": "2020-11",
+        "title": {
+          "name": "vice president, head of biosimilars europe, canada and partner markets",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2018-07",
+        "title": {
+          "name": "general manager uk region - biosimilars uk, ire, nl",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "basingstoke, england, united kingdom"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2017-03",
+        "title": {
+          "name": "head of ethics & compliance - uk, ireland and northern europe",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "basingstoke, england, united kingdom"
+        ],
+        "end_date": "2017-03",
+        "start_date": "2014-03",
+        "title": {
+          "name": "biomedicines business unit director, uk & ireland",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2014-03",
+        "start_date": "2013-10",
+        "title": {
+          "name": "regional brand leader autoimmune - australia, canada & europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2013-09",
+        "start_date": "2010-12",
+        "title": {
+          "name": "senior brand manager & transformation leader",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2010-12",
+        "start_date": "2009-01",
+        "title": {
+          "name": "business consultant - lean six sigma black belt",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2006-08",
+        "title": {
+          "name": "regional sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2006-08",
+        "start_date": "2004-04",
+        "title": {
+          "name": "urology training manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2004-04",
+        "start_date": "2001-04",
+        "title": {
+          "name": "senior sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aberdeen",
+          "size": "5001-10000",
+          "id": "YY2PKFUCmNPD794UHkDllQ8DiyMQ",
+          "founded": null,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "edinburgh, scotland, united kingdom",
+            "locality": "edinburgh",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 george street",
+            "address_line_2": null,
+            "postal_code": "eh2 2ll",
+            "geo": "55.93,-3.22"
+          },
+          "linkedin_url": "linkedin.com/company/abrdn",
+          "linkedin_id": "74514529",
+          "facebook_url": "facebook.com/abrdnplc",
+          "twitter_url": "twitter.com/abrdn_plc",
+          "website": "aberdeenplc.com"
+        },
+        "location_names": [],
+        "end_date": "2000-04",
+        "start_date": "1999-07",
+        "title": {
+          "name": "marketing associate",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "edinburgh napier university",
+          "type": "post-secondary institution",
+          "id": "BoM7c8e4XRcvVbbzikCwlA_0000",
+          "location": {
+            "name": "edinburgh, scotland, united kingdom",
+            "locality": "edinburgh",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/edinburgh-napier-university",
+          "facebook_url": "facebook.com/edinburghnapieruniversity",
+          "twitter_url": "twitter.com/edinburghnapier",
+          "linkedin_id": "17489",
+          "website": "napier.ac.uk",
+          "domain": "napier.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1995-01",
+        "end_date": "1999",
+        "majors": [
+          "business",
+          "business finance",
+          "commerce"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "whitgift school",
+          "type": "post-secondary institution",
+          "id": "RRJFJWCxEflL8DETvfeMtQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/whitgift-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2042943",
+          "website": "whitgift.co.uk",
+          "domain": "whitgift.co.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "60029188",
+        "url": "linkedin.com/in/dancohen23",
+        "username": "dancohen23"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/dan-cohen-14412b18",
+        "username": "dan-cohen-14412b18"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,177 @@
+{
+  "record_id": "speaker-medical-009",
+  "speaker_name": "Georgios Tramountanis",
+  "linkedin_url": "https://www.linkedin.com/in/georgiostramountanis/",
+  "likelihood": 9,
+  "full_name": "georgios tramountanis",
+  "job_title": "data, digital & technology, global head medical core capabilities - global portfolio division",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda",
+  "current_company_website": "takeda.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biopharmaceuticals",
+    "biotechnology",
+    "cancer",
+    "cancer research",
+    "cardiology",
+    "clinical development",
+    "clinical research",
+    "clinical trial management",
+    "clinical trials",
+    "competitive intelligence",
+    "cro",
+    "ctms",
+    "diabetes",
+    "gastroenterology",
+    "gcp",
+    "genetics",
+    "hematology",
+    "ich gcp",
+    "immunology",
+    "inflammation",
+    "informatics",
+    "life sciences",
+    "lifesciences",
+    "medical affairs",
+    "medical education",
+    "medical information systems",
+    "medical training",
+    "medical writing",
+    "molecular biology",
+    "nephrology",
+    "neurology",
+    "oncology",
+    "osteoporosis",
+    "people management",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacovigilance",
+    "r&d",
+    "research",
+    "rheumatology",
+    "science",
+    "scientific analysis",
+    "scientific communications",
+    "scientific presentation",
+    "statistics",
+    "strategic communications",
+    "strategy",
+    "therapeutic areas",
+    "urology"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "data, digital & technology, global head medical core capabilities - global portfolio division",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head (sr. dir.) global oncology medical information, medical review and digital strategy",
+      "company": "takeda oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head, global oncology medical information and review",
+      "company": "takeda oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-11",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "director, global medical information & review",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2019-11",
+      "is_primary": false
+    },
+    {
+      "title": "associate director global medical information - emerging markets lead",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-03",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical information senior manager, international",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2010-06",
+      "end_date": "2013-02",
+      "is_primary": false
+    },
+    {
+      "title": "medical information / communication manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2008-09",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "clinical research associate",
+      "company": "ppd",
+      "company_industry": "research",
+      "start_date": "2007-02",
+      "end_date": "2008-09",
+      "is_primary": false
+    },
+    {
+      "title": "clinical research associate",
+      "company": "coronis research s.a.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-06",
+      "end_date": "2007-02",
+      "is_primary": false
+    },
+    {
+      "title": "post doc",
+      "company": "university of birmingham",
+      "company_industry": "higher education",
+      "start_date": "2003-07",
+      "end_date": "2004-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of birmingham",
+      "majors": [
+        "philosophy"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "university of birmingham",
+      "majors": [
+        "biology",
+        "genetics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1996-01",
+      "end_date": "1999"
+    }
+  ]
+}

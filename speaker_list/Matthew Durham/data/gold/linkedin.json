@@ -1,0 +1,143 @@
+{
+  "record_id": "speaker-dubrovnik-112",
+  "speaker_name": "Matthew Durham",
+  "designation": "Vice President, Global",
+  "company": "cmi",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/matthew-durham-227a8536/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": null,
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": null,
+  "linkedin_people_also_viewed": null,
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "cmi media group",
+  "linkedin_current_company_website": "cmimediagroup.com",
+  "linkedin_skills": [
+    "customer service",
+    "management",
+    "market research",
+    "marketing strategy",
+    "microsoft office",
+    "retail",
+    "training",
+    "writing"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "vice president, global",
+      "company": "cmi media group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, global media",
+      "company": "cmi media group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2022-10",
+      "end_date": "2024-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior media strategist",
+      "company": "mccann health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-03",
+      "end_date": "2022-10",
+      "is_primary": false
+    },
+    {
+      "title": "director of business development",
+      "company": "portable medical technology ltd. (oncoassist®)",
+      "company_industry": "medical devices",
+      "start_date": "2020-04",
+      "end_date": "2021-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, business development emea",
+      "company": "qxmd",
+      "company_industry": "computer software",
+      "start_date": "2019-02",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "majestic iran",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-01",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior account manager",
+      "company": "majestic iran",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-12",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "market research executive",
+      "company": "majestic iran",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-01",
+      "end_date": "2014-12",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "birkbeck, university of london",
+      "majors": [
+        "politics"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "university of surrey",
+      "majors": [
+        "business management"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "farnborough college of technology",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": false,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

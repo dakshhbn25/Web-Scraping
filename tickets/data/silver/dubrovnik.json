@@ -1,0 +1,169 @@
+{
+  "record_id": "tickets-dubrovnik",
+  "event_name": "Dubrovnik",
+  "sold_out_claim": "NEXT is always Sold Out!",
+  "stats": [
+    "45+ countries",
+    "400 Attendees",
+    "Top countries: UK, DACH, USA",
+    "65% Pharma Peers"
+  ],
+  "attendee_companies": [
+    {
+      "company_name": "pfizer",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Pfizer.jpg"
+    },
+    {
+      "company_name": "Astra Zeneca logo",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/astrazeneca-logo-png-astrazeneca-logo-astra-zeneca-4902-scaled.png"
+    },
+    {
+      "company_name": "johnson-johnson",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/johnson-johnson-logo.jpg"
+    },
+    {
+      "company_name": "Deloitte",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/1_deloitte.png"
+    },
+    {
+      "company_name": "Novartis",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/novartis-logo.png"
+    },
+    {
+      "company_name": "zs",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/ZS-Logo-SPOT.png"
+    },
+    {
+      "company_name": "google",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Google_2015_logo-1.png"
+    },
+    {
+      "company_name": "Roche",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Roche_Logo.png"
+    },
+    {
+      "company_name": "astrazeneca",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Amazon_logo.png"
+    },
+    {
+      "company_name": "novo-nordisk",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/novo-nordisk.png"
+    },
+    {
+      "company_name": "Adobe",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Adobe-Logo-2022-scaled.png"
+    },
+    {
+      "company_name": "abbvie",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/abbvie.png"
+    },
+    {
+      "company_name": "lilly",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/eli-lily.png"
+    },
+    {
+      "company_name": "sanofi",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/sanofi_novi_logo.jpeg"
+    },
+    {
+      "company_name": "Bayer",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Logo_Bayer.svg_.png"
+    },
+    {
+      "company_name": "takeda",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/takeda.jpg"
+    },
+    {
+      "company_name": "accenture",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Acc_Logo_Black_Purple_RGB-scaled.png"
+    },
+    {
+      "company_name": "sponsor_2",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/03/sponsor_2.png"
+    },
+    {
+      "company_name": "bms",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Bristol.png"
+    },
+    {
+      "company_name": "teva",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/teva.jpg"
+    },
+    {
+      "company_name": "Boehringer ingelheim",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Boehringer-ingelheim-NEW.png"
+    },
+    {
+      "company_name": "abbott",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Abbott_Laboratories_logo.png"
+    },
+    {
+      "company_name": "viatris",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Viatris.svg_.png"
+    },
+    {
+      "company_name": "regeneron",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/regeneron-Logo-450px_w.png"
+    },
+    {
+      "company_name": "ucb",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/ucb_small.png"
+    },
+    {
+      "company_name": "pwc",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/pwc.jpg"
+    },
+    {
+      "company_name": "havas",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Havas_Lynx_Primary_RGB_Red_Black-scaled.png"
+    },
+    {
+      "company_name": "gsk",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/gsk.jpg"
+    },
+    {
+      "company_name": "Grunenthal",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Grunenthal_LightGreen_CMYK_300dpi.jpeg"
+    },
+    {
+      "company_name": "msd",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/genentech-vector-logo.jpg"
+    },
+    {
+      "company_name": "MSD logo",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/MSD.jpg"
+    },
+    {
+      "company_name": "merck",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/merck.png"
+    },
+    {
+      "company_name": "servier",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/servier.png"
+    },
+    {
+      "company_name": "Trueblue",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Trueblue-logo-orizzontale.png"
+    },
+    {
+      "company_name": "sermo",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/03/sponsor_1.png"
+    },
+    {
+      "company_name": "sponsor_3",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/03/sponsor_3.png"
+    },
+    {
+      "company_name": "writer",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/Writer_Logo_black.jpg"
+    },
+    {
+      "company_name": "viseven",
+      "logo_url": "https://nextpharmasummit.com/Dubrovnik/wp-content/uploads/2025/10/viseven.jpg"
+    }
+  ],
+  "source_urls": [
+    "https://nextpharmasummit.com/Dubrovnik/tickets/"
+  ],
+  "scraped_at": "2026-09-15T07:48:05.659229+00:00"
+}

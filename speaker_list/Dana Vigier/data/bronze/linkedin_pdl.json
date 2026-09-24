@@ -1,0 +1,727 @@
+{
+  "record_id": "speaker-dubrovnik-000",
+  "speaker_name": "Dana Vigier",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dana-vigier-md-18ab0b7/",
+  "scraped_at": "2026-09-18T09:06:15.537722+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "z45fKIENIxvpRFnPaLAs4A_0000",
+    "full_name": "dana vigier",
+    "first_name": "dana",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "v",
+    "last_name": "vigier",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dana-vigier-md-18ab0b7",
+    "linkedin_username": "dana-vigier-md-18ab0b7",
+    "linkedin_id": "23658298",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "president and general manager, alexion france, belgique et luxembourg",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [],
+    "job_company_id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+    "job_company_name": "alexion pharmaceuticals, inc.",
+    "job_company_website": "alexion.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1992,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+    "job_company_linkedin_id": "16750",
+    "job_company_facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+    "job_company_twitter_url": "twitter.com/alexionpharma",
+    "job_company_location_name": "boston, massachusetts, united states",
+    "job_company_location_locality": "boston",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.33,-71.04",
+    "job_company_location_street_address": "121 seaport boulevard",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-03-24",
+    "job_last_verified": "2026-07-31",
+    "job_start_date": "2026-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2022-03-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnologie",
+      "biotechnology",
+      "clinical development",
+      "clinical trials",
+      "diabetes",
+      "epidemiology",
+      "essais cliniques",
+      "general management",
+      "health economics",
+      "health policy",
+      "hta",
+      "lancement de produit",
+      "leadership",
+      "life sciences",
+      "lifesciences",
+      "management",
+      "market access",
+      "medical devices",
+      "observational studies",
+      "oncologie",
+      "oncology",
+      "outcomes research",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacoeconomics",
+      "pharmacovigilance",
+      "pricing",
+      "product launch",
+      "regulatory affairs",
+      "sales effectiveness",
+      "secteur pharmaceutique",
+      "strategy",
+      "vaccines",
+      "ventes pharmaceutiques"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-02",
+        "title": {
+          "name": "president and general manager, alexion france, belgique et luxembourg",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "leem",
+          "size": "51-200",
+          "id": "eT8Km7WKMRg6fZwLR0vlOAABQdUR",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "58 boulevard gouvion-saint-cyr",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/leem",
+          "linkedin_id": "103112",
+          "facebook_url": "facebook.com/lemedicamentetmoi",
+          "twitter_url": "twitter.com/leemfrance",
+          "website": "leem.org"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2026-05",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2026-02",
+        "start_date": "2023-07",
+        "title": {
+          "name": "vice president, central and northern europe area head, alexion rare disease",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "cambridge, ontario, canada"
+        ],
+        "end_date": "2023-08",
+        "start_date": "2022-09",
+        "title": {
+          "name": "vice president, global commercial oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "leem",
+          "size": "51-200",
+          "id": "eT8Km7WKMRg6fZwLR0vlOAABQdUR",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "58 boulevard gouvion-saint-cyr",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/leem",
+          "linkedin_id": "103112",
+          "facebook_url": "facebook.com/lemedicamentetmoi",
+          "twitter_url": "twitter.com/leemfrance",
+          "website": "leem.org"
+        },
+        "location_names": [],
+        "end_date": "2022-09",
+        "start_date": "2021-04",
+        "title": {
+          "name": "president of leem cancer committee",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2022-09",
+        "start_date": "2020-08",
+        "title": {
+          "name": "vice president, country head oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2020-09",
+        "start_date": "2017-06",
+        "title": {
+          "name": "vice president, head of oncology business unit and head of access france",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2017-05",
+        "start_date": "2013-11",
+        "title": {
+          "name": "executive director, head of market access",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ims health",
+          "size": "10001+",
+          "id": "7qyy9KpFF8Uyur9Bl9a6HAumG1Ju",
+          "founded": 1954,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "danbury, connecticut, united states",
+            "locality": "danbury",
+            "region": "connecticut",
+            "metro": "bridgeport, connecticut",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "83 wooster heights road",
+            "address_line_2": null,
+            "postal_code": "06810",
+            "geo": "41.40,-73.45"
+          },
+          "linkedin_url": "linkedin.com/company/ims-health",
+          "linkedin_id": "3331",
+          "facebook_url": "facebook.com/imshealth",
+          "twitter_url": "twitter.com/imshealth",
+          "website": "imshealth.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2013-11",
+        "start_date": "2011-01",
+        "title": {
+          "name": "senior principal, country leader france access / heor / rwe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "brentford, england, united kingdom"
+        ],
+        "end_date": "2010-08",
+        "start_date": "2008-06",
+        "title": {
+          "name": "governmental affairs director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "brentford, england, united kingdom"
+        ],
+        "end_date": "2008-06",
+        "start_date": "2006-06",
+        "title": {
+          "name": "market access director, europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "brentford, england, united kingdom"
+        ],
+        "end_date": "2006-05",
+        "start_date": "2004-05",
+        "title": {
+          "name": "p & r director, france",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2017-01",
+        "end_date": "2017",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "carol davila university of medicine and pharmacy",
+          "type": "post-secondary institution",
+          "id": "DmdVKbtU0qjYk80J4woRyA_0000",
+          "location": {
+            "name": "bucurești 22, bucurești, romania",
+            "locality": "bucurești 22",
+            "region": "bucurești",
+            "country": "romania",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/carol-davila-university-of-medicine-and-pharmacy",
+          "facebook_url": "facebook.com/umfcd",
+          "twitter_url": null,
+          "linkedin_id": "6272054",
+          "website": "umfcd.ro",
+          "domain": "umfcd.ro"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université paris cité",
+          "type": "post-secondary institution",
+          "id": "gN76O5ayZJ0jRGBv6SadCw_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/université-paris-cité",
+          "facebook_url": "facebook.com/univparis",
+          "twitter_url": "twitter.com/univ_paris",
+          "linkedin_id": "19143575",
+          "website": "u-paris.fr",
+          "domain": "u-paris.fr"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "french"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "23658298",
+        "url": "linkedin.com/in/dana-vigier-md-18ab0b7",
+        "username": "dana-vigier-md-18ab0b7"
+      },
+      {
+        "network": "linkedin",
+        "id": "23658298",
+        "url": "linkedin.com/in/dana-vigier-18ab0b7",
+        "username": "dana-vigier-18ab0b7"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

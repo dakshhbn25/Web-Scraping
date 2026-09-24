@@ -1,0 +1,690 @@
+{
+  "record_id": "speaker-viennacx-045",
+  "speaker_name": "Naira Marin",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/nairamarin/",
+  "scraped_at": "2026-09-18T10:26:24.610839+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "bt1c3bG1hAcpLSUkzySM-g_0000",
+    "full_name": "naira marin",
+    "first_name": "naira",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "marin",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/nairamarin",
+    "linkedin_username": "nairamarin",
+    "linkedin_id": "36839325",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "medical devices",
+    "job_title": "head of global marketing excellence",
+    "job_title_role": "marketing",
+    "job_title_sub_role": null,
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+    "job_company_name": "b. braun group",
+    "job_company_website": "bbraun.co.uk",
+    "job_company_size": "10001+",
+    "job_company_founded": 1839,
+    "job_company_industry": "medical devices",
+    "job_company_industry_v2": "medical equipment manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bbraun-group",
+    "job_company_linkedin_id": "6773",
+    "job_company_facebook_url": "facebook.com/bbrauninternational",
+    "job_company_twitter_url": "twitter.com/bbraun_com",
+    "job_company_location_name": "melsungen, hesse, germany",
+    "job_company_location_locality": "melsungen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hesse",
+    "job_company_location_geo": "51.13,9.55",
+    "job_company_location_street_address": "1 carl-braun-straße",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "34212",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-01-20",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "asistencia sanitaria",
+      "business development",
+      "business strategy",
+      "cardiothoracic surgery",
+      "cardiovascular",
+      "customer oriented",
+      "desarrollo de mercados",
+      "desarrollo de productos",
+      "eficacia de ventas",
+      "enthusiasm to learn",
+      "enthusiastic self starter",
+      "estrategia de mercadotecnia",
+      "estrategia empresarial",
+      "healthcare",
+      "lanzamiento de productos",
+      "liderazgo de equipos",
+      "liderazgo de equipos multidisciplinarios",
+      "market analysis",
+      "market development",
+      "marketing communications",
+      "marketing de productos",
+      "marketing management",
+      "marketing strategy",
+      "medical devices",
+      "new business development",
+      "product management",
+      "product marketing",
+      "productos sanitarios",
+      "team leadership",
+      "team management",
+      "training",
+      "ventas hospitalarias"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "head of global marketing excellence",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [
+          "rubí, catalonia, spain"
+        ],
+        "end_date": "2025-11",
+        "start_date": "2022-07",
+        "title": {
+          "name": "global group marketing services manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2022-07",
+        "start_date": "2021-04",
+        "title": {
+          "name": "senior channel manager ors",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [
+          "rubí, catalonia, spain"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2019-03",
+        "title": {
+          "name": "global business services manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [
+          "rubí, catalonia, spain"
+        ],
+        "end_date": "2019-03",
+        "start_date": "2017-04",
+        "title": {
+          "name": "western europe business manager, global sales & marketing",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [
+          "melsungen, hesse, germany"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2013-09",
+        "title": {
+          "name": "strategic marketing manager-cardiovascular campaign",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b. braun group",
+          "size": "10001+",
+          "id": "wsYIWrTwQtClw1qlgE986g4jzLbq",
+          "founded": 1839,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "melsungen, hesse, germany",
+            "locality": "melsungen",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-braun-straße",
+            "address_line_2": null,
+            "postal_code": "34212",
+            "geo": "51.13,9.55"
+          },
+          "linkedin_url": "linkedin.com/company/bbraun-group",
+          "linkedin_id": "6773",
+          "facebook_url": "facebook.com/bbrauninternational",
+          "twitter_url": "twitter.com/bbraun_com",
+          "website": "bbraun.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2013-09",
+        "start_date": "2013-06",
+        "title": {
+          "name": "global product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "convatec",
+          "size": "5001-10000",
+          "id": "25GJy30Cj3BaWCHCyf3c9QFCncDo",
+          "founded": 1978,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "20 eastbourne terrace",
+            "address_line_2": null,
+            "postal_code": "w2 6lg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/convatec_2",
+          "linkedin_id": "248354",
+          "facebook_url": "facebook.com/convatecostomycare",
+          "twitter_url": "twitter.com/convatecgroup",
+          "website": "convatecgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2013-06",
+        "start_date": "2012-08",
+        "title": {
+          "name": "iberia, africa & middle east product manager, continence & critical care",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "convatec",
+          "size": "5001-10000",
+          "id": "25GJy30Cj3BaWCHCyf3c9QFCncDo",
+          "founded": 1978,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "20 eastbourne terrace",
+            "address_line_2": null,
+            "postal_code": "w2 6lg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/convatec_2",
+          "linkedin_id": "248354",
+          "facebook_url": "facebook.com/convatecostomycare",
+          "twitter_url": "twitter.com/convatecgroup",
+          "website": "convatecgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2008-05",
+        "title": {
+          "name": "iberia product manager, critical care",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "convatec",
+          "size": "5001-10000",
+          "id": "25GJy30Cj3BaWCHCyf3c9QFCncDo",
+          "founded": 1978,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "20 eastbourne terrace",
+            "address_line_2": null,
+            "postal_code": "w2 6lg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/convatec_2",
+          "linkedin_id": "248354",
+          "facebook_url": "facebook.com/convatecostomycare",
+          "twitter_url": "twitter.com/convatecgroup",
+          "website": "convatecgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2007-05",
+        "start_date": "2004-11",
+        "title": {
+          "name": "key account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "convatec",
+          "size": "5001-10000",
+          "id": "25GJy30Cj3BaWCHCyf3c9QFCncDo",
+          "founded": 1978,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "20 eastbourne terrace",
+            "address_line_2": null,
+            "postal_code": "w2 6lg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/convatec_2",
+          "linkedin_id": "248354",
+          "facebook_url": "facebook.com/convatecostomycare",
+          "twitter_url": "twitter.com/convatecgroup",
+          "website": "convatecgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2004-11",
+        "start_date": "2004-02",
+        "title": {
+          "name": "hospital sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "barcelona technology school",
+          "type": "post-secondary institution",
+          "id": "8VICqV2SSPZNJBqzZuwTyg_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/barcelona-technology-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3751547",
+          "website": "barcelonatechnologyschool.com",
+          "domain": "barcelonatechnologyschool.com"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2021-04",
+        "end_date": "2021-12",
+        "majors": [
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "eae business school",
+          "type": "post-secondary institution",
+          "id": "nJBgcUpxNLVuORBRpeTjuw_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/eae-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "68051",
+          "website": "eae.es",
+          "domain": "eae.es"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2008",
+        "end_date": "2010",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitat ramon llull",
+          "type": "post-secondary institution",
+          "id": "HaABzunoXUcvV9vmaDz2gg_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universitat-ramon-llull",
+          "facebook_url": "facebook.com/uramonllull",
+          "twitter_url": "twitter.com/uramonllull",
+          "linkedin_id": "15251081",
+          "website": "url.edu",
+          "domain": "url.edu"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1999",
+        "end_date": "2003",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitat de vic – universitat central de catalunya",
+          "type": "post-secondary institution",
+          "id": "IsC8-7LLM9Ns91NFkW8Seg_0000",
+          "location": {
+            "name": "vich, catalonia, spain",
+            "locality": "vich",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uvic-ucc",
+          "facebook_url": "facebook.com/universitatdevic",
+          "twitter_url": "twitter.com/uvic_ucc",
+          "linkedin_id": "494403",
+          "website": "uvic.cat",
+          "domain": "uvic.cat"
+        },
+        "degrees": [],
+        "start_date": "1996",
+        "end_date": "1999",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "36839325",
+        "url": "linkedin.com/in/nairamarin",
+        "username": "nairamarin"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,294 @@
+{
+  "record_id": "speaker-viennacx-042",
+  "speaker_name": "Nico Renner",
+  "linkedin_url": "https://www.linkedin.com/in/nicorenner/",
+  "likelihood": 9,
+  "full_name": "nico renner",
+  "job_title": "senior product manager, hematology & oncology",
+  "industry": "pharmaceuticals",
+  "current_company": "beone medicines",
+  "current_company_website": "beonemedicines.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "agility",
+    "analytical skills",
+    "analytics",
+    "biochemie",
+    "biotechnologie",
+    "biotechnology",
+    "biowissenschaften",
+    "buisness studies",
+    "business continuity management",
+    "business strategy",
+    "cognitive flexibility",
+    "collaborative leadership",
+    "customer experience",
+    "customer experience analysis",
+    "data analysis",
+    "datenanalyse",
+    "digital",
+    "digital engagement",
+    "digital health",
+    "digital innovation",
+    "digital marketing",
+    "digital strategy",
+    "dna",
+    "educational leadership",
+    "einkaufsprozesse",
+    "financial analysis",
+    "gmp",
+    "intercultural skills",
+    "interkulturelle kommunikation",
+    "international project management",
+    "labormedizin",
+    "lieferkettenoptimierung",
+    "life sciences",
+    "market research",
+    "marketing",
+    "marketing strategy",
+    "medical",
+    "microsoft office",
+    "molecular biology",
+    "molekularbiologie",
+    "multichannel marketingstrategie",
+    "omni channel marketing",
+    "operations management",
+    "patient advocacy",
+    "patient education",
+    "patient engagement",
+    "pcr",
+    "pharmaindustrie",
+    "portfoliomanagement",
+    "procurement",
+    "project management",
+    "projekt engineering",
+    "projektmanagement",
+    "q pcr",
+    "qpcr",
+    "sales",
+    "sap",
+    "search engine optimization",
+    "stakeholder management",
+    "strategic thinking",
+    "supply chain management",
+    "teamwork",
+    "vertragsverhandlungen",
+    "western blot",
+    "western blotting",
+    "zellbiologie",
+    "zellkulturen"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior product manager, hematology & oncology",
+      "company": "beone medicines",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "product manager | heme & oncology | switzerland",
+      "company": "beone medicines",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-10",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "customer partnering manager oncology (rotation)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2024-05",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "patient partnership lead in ophthalmology",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2023-05",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "global channel owner digital business card",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2022-11",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "short term assignment",
+      "company": "roche farma españa",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2022-05",
+      "is_primary": false
+    },
+    {
+      "title": "omnichannel manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2022-03",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "start up 360 - graduate program",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2021-01",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "global procurement & digitalization trainee",
+      "company": "linde engineering",
+      "company_industry": "oil & energy",
+      "start_date": "2019-12",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "roche evolution - study cooperand - master thesis project",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2019-05",
+      "end_date": "2019-11",
+      "is_primary": false
+    },
+    {
+      "title": "roche evolution - study cooperand - extended business trip",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2019-02",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "roche evolution - study cooperand",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2017-12",
+      "end_date": "2019-11",
+      "is_primary": false
+    },
+    {
+      "title": "intern",
+      "company": "fraunhofer usa cmi",
+      "company_industry": "industrial automation",
+      "start_date": "2016-09",
+      "end_date": "2017-02",
+      "is_primary": false
+    },
+    {
+      "title": "graduate student research assistant",
+      "company": "technical university of munich",
+      "company_industry": "research",
+      "start_date": "2016-08",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "working student",
+      "company": "numares health",
+      "company_industry": "hospital & health care",
+      "start_date": "2016-07",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "graduate student research assistant",
+      "company": "technical university of munich",
+      "company_industry": "research",
+      "start_date": "2015-11",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "intern",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2015-04",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "intern",
+      "company": "vaximm ag",
+      "company_industry": "biotechnology",
+      "start_date": "2014-06",
+      "end_date": "2014-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "universitat autònoma de barcelona",
+      "majors": [
+        "economics",
+        "english",
+        "spanish"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "tum school of management",
+      "majors": [
+        "business law",
+        "english",
+        "management",
+        "supply chain management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2017-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "boston university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "technical university of munich",
+      "majors": [
+        "biochemistry",
+        "biotechnology",
+        "chemistry",
+        "design"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "university of regensburg",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2015"
+    }
+  ]
+}

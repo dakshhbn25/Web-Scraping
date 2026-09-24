@@ -1,0 +1,1021 @@
+{
+  "record_id": "speaker-dubrovnik-026",
+  "speaker_name": "Marc Ryning",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/marc-ryning/",
+  "scraped_at": "2026-09-18T09:35:58.468987+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "nllx30mSyk4OS6qVp-19wQ_0000",
+    "full_name": "marc ryning",
+    "first_name": "marc",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "ryning",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/marc-ryning",
+    "linkedin_username": "marc-ryning",
+    "linkedin_id": "125204496",
+    "facebook_url": "facebook.com/marc.ryning",
+    "facebook_username": "marc.ryning",
+    "facebook_id": "550380401",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior omnichannel customer engagement manager - region europe & canada",
+    "job_title_role": "operations",
+    "job_title_sub_role": "administrative",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "senior",
+      "manager"
+    ],
+    "job_company_id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+    "job_company_name": "novo nordisk",
+    "job_company_website": "novonordisk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1923,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novo-nordisk",
+    "job_company_linkedin_id": "2227",
+    "job_company_facebook_url": "facebook.com/novonordisk",
+    "job_company_twitter_url": "twitter.com/novonordisk",
+    "job_company_location_name": "bagsværd, hovedstaden, denmark",
+    "job_company_location_locality": "bagsværd",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.75,12.45",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2880",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-01-30",
+    "job_last_verified": "2026-07-01",
+    "job_start_date": "2025-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "denmark",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-01",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adobe experience manager",
+      "advertising",
+      "affiliate marketing",
+      "affiliate relations",
+      "agency relationship management",
+      "analytical skills",
+      "apparel",
+      "artificial intelligence",
+      "assortment optimization",
+      "bigcommerce",
+      "brand management",
+      "business analytics",
+      "business development",
+      "business insights",
+      "business strategy",
+      "campaigns",
+      "category management",
+      "commercial planning",
+      "communication",
+      "community management",
+      "consumer behavior",
+      "conversion optimization",
+      "corporate communications",
+      "customer engagement",
+      "customer experience",
+      "customer relationship management",
+      "customer service",
+      "data analysis",
+      "digital marketing",
+      "digital media",
+      "e commerce",
+      "e commerce optimization",
+      "email marketing",
+      "event management",
+      "facebook",
+      "fashion",
+      "fashion buying",
+      "frontline support",
+      "google analytics",
+      "identifying sales opportunities",
+      "key performance indicators",
+      "leadership",
+      "luxury brand marketing",
+      "luxury goods",
+      "management",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing research",
+      "marketing strategy",
+      "media planning",
+      "merchandising",
+      "microsoft office",
+      "omni channel marketing",
+      "online marketing",
+      "online merchandising",
+      "people management",
+      "pharmaceutical marketing",
+      "product assortment planning",
+      "project management",
+      "public relations",
+      "recruiting",
+      "retail",
+      "retail category management",
+      "sales",
+      "sales operations",
+      "search engine optimization",
+      "shogun",
+      "social media",
+      "social media marketing",
+      "strategic planning",
+      "strategy",
+      "tableau",
+      "team leadership",
+      "team management",
+      "trend analysis",
+      "visual merchandising",
+      "web development",
+      "wholesale marketing",
+      "wholesale operations",
+      "ynap"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "denmark",
+      "united kingdom",
+      "united states",
+      "sweden"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": null,
+        "start_date": "2025-01",
+        "title": {
+          "name": "senior omnichannel customer engagement manager - region europe & canada",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2025-01",
+        "start_date": "2023-07",
+        "title": {
+          "name": "senior multichannel customer engagement manager - region north west europe",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "louis poulsen",
+          "size": "501-1000",
+          "id": "ZkpHA5pMQiktLHfcCP4mcgcfFjL4",
+          "founded": 1874,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "19-23 kuglegårdsvej",
+            "address_line_2": null,
+            "postal_code": "1436",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/louis-poulsen-lighting",
+          "linkedin_id": "164770",
+          "facebook_url": "facebook.com/louis.poulsen.lighting",
+          "twitter_url": null,
+          "website": "louispoulsen.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2022-06",
+        "title": {
+          "name": "head of e-commerce",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "louis poulsen",
+          "size": "501-1000",
+          "id": "ZkpHA5pMQiktLHfcCP4mcgcfFjL4",
+          "founded": 1874,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "19-23 kuglegårdsvej",
+            "address_line_2": null,
+            "postal_code": "1436",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/louis-poulsen-lighting",
+          "linkedin_id": "164770",
+          "facebook_url": "facebook.com/louis.poulsen.lighting",
+          "twitter_url": null,
+          "website": "louispoulsen.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2022-06",
+        "start_date": "2022-05",
+        "title": {
+          "name": "global e-tailer sales development manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "sales_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "carpe diem beds",
+          "size": "51-200",
+          "id": "jNFLZYcE5THkKuJNQOi4bAKqruUw",
+          "founded": 1995,
+          "industry": "furniture",
+          "industry_v2": "furniture and home furnishings manufacturing",
+          "location": {
+            "name": "lysekil, västra götaland, sweden",
+            "locality": "lysekil",
+            "region": "västra götaland",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "42b drottninggatan",
+            "address_line_2": null,
+            "postal_code": "453 31",
+            "geo": "58.27,11.43"
+          },
+          "linkedin_url": "linkedin.com/company/carpe-diem-beds-of-sweden-ab",
+          "linkedin_id": "2332678",
+          "facebook_url": "facebook.com/carpediembeds",
+          "twitter_url": null,
+          "website": "carpediembeds.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2021-03",
+        "title": {
+          "name": "webstore director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "montblanc",
+          "size": "1001-5000",
+          "id": "qY1BACEp1jCNAWReW27hIwGzcdm8",
+          "founded": 1906,
+          "industry": "luxury goods & jewelry",
+          "industry_v2": "retail luxury goods and jewelry",
+          "location": {
+            "name": "hamburg, hamburg, germany",
+            "locality": "hamburg",
+            "region": "hamburg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "100 hellgrundweg",
+            "address_line_2": null,
+            "postal_code": "22525",
+            "geo": "53.50,10.04"
+          },
+          "linkedin_url": "linkedin.com/company/montblanc",
+          "linkedin_id": "12007",
+          "facebook_url": "facebook.com/montblanc",
+          "twitter_url": "twitter.com/montblanc_world",
+          "website": "montblanc.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-02",
+        "start_date": "2020-05",
+        "title": {
+          "name": "e-commerce & website manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cos",
+          "size": "5001-10000",
+          "id": "E0FsAHVPbhvC9sDK6GiYkgKEOfsZ",
+          "founded": 2007,
+          "industry": "apparel & fashion",
+          "industry_v2": "retail apparel and fashion",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 new oxford street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/cos",
+          "linkedin_id": "1297144",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cosstores.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2020-04",
+        "start_date": "2018-11",
+        "title": {
+          "name": "global e-commerce visual merchandising manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "h&m",
+          "size": "10001+",
+          "id": "IT54tt0m2qTANBOmDBZsuA7uvggX",
+          "founded": 1947,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "7 vasagatan",
+            "address_line_2": null,
+            "postal_code": "111 20",
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/h&m",
+          "linkedin_id": "5328",
+          "facebook_url": "facebook.com/hm",
+          "twitter_url": "twitter.com/hm",
+          "website": "hm.com"
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2016-09",
+        "title": {
+          "name": "e-commerce visual merchandising manager - usa",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "h&m",
+          "size": "10001+",
+          "id": "IT54tt0m2qTANBOmDBZsuA7uvggX",
+          "founded": 1947,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "7 vasagatan",
+            "address_line_2": null,
+            "postal_code": "111 20",
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/h&m",
+          "linkedin_id": "5328",
+          "facebook_url": "facebook.com/hm",
+          "twitter_url": "twitter.com/hm",
+          "website": "hm.com"
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2016-08",
+        "start_date": "2015-02",
+        "title": {
+          "name": "online merchandiser",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "warehouse",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "h&m",
+          "size": "10001+",
+          "id": "IT54tt0m2qTANBOmDBZsuA7uvggX",
+          "founded": 1947,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "7 vasagatan",
+            "address_line_2": null,
+            "postal_code": "111 20",
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/h&m",
+          "linkedin_id": "5328",
+          "facebook_url": "facebook.com/hm",
+          "twitter_url": "twitter.com/hm",
+          "website": "hm.com"
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2015-01",
+        "start_date": "2014-03",
+        "title": {
+          "name": "online buyer assistant",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "logistics",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omd sweden",
+          "size": "51-200",
+          "id": "GiOKB2cjQsIpmS2xfvxsKw9dLA0e",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "9 7 katarinavägen",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/omd-sweden",
+          "linkedin_id": "975426",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2013-12",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omd sweden",
+          "size": "51-200",
+          "id": "GiOKB2cjQsIpmS2xfvxsKw9dLA0e",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "9 7 katarinavägen",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/omd-sweden",
+          "linkedin_id": "975426",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "stockholm, stockholm, sweden"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2013-02",
+        "title": {
+          "name": "media planner",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "9pr personal relations",
+          "size": "1-10",
+          "id": "WQNdfXGpLv6yasmcu3Lc6wFgvs9Z",
+          "founded": 2009,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "3 viktoriagade",
+            "address_line_2": null,
+            "postal_code": "1620",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/9pr",
+          "linkedin_id": "2256810",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "9pr.dk"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2013-01",
+        "start_date": "2012-11",
+        "title": {
+          "name": "public relations consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cos",
+          "size": "5001-10000",
+          "id": "E0FsAHVPbhvC9sDK6GiYkgKEOfsZ",
+          "founded": 2007,
+          "industry": "apparel & fashion",
+          "industry_v2": "retail apparel and fashion",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 new oxford street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/cos",
+          "linkedin_id": "1297144",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cosstores.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2013-01",
+        "start_date": "2012-01",
+        "title": {
+          "name": "sales advisor",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "acne studios",
+          "size": "1001-5000",
+          "id": "dZ9QSjpIlaW3L2DPGcNtMQsWlcp7",
+          "founded": 1996,
+          "industry": "luxury goods & jewelry",
+          "industry_v2": "retail luxury goods and jewelry",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "13 floragatan",
+            "address_line_2": null,
+            "postal_code": "114 31",
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/acne-studios-ab",
+          "linkedin_id": "643391",
+          "facebook_url": "facebook.com/acnestudios",
+          "twitter_url": "twitter.com/acnestudios",
+          "website": "acnestudios.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2011-08",
+        "start_date": "2011-05",
+        "title": {
+          "name": "sales advisor",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "korea university",
+          "type": "post-secondary institution",
+          "id": "SfnwyRpdPaQFsdZHx-1Lqw_0000",
+          "location": {
+            "name": "seoul, seoul, south korea",
+            "locality": "seoul",
+            "region": "seoul",
+            "country": "south korea",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/koreauniversity",
+          "facebook_url": "facebook.com/ku1905",
+          "twitter_url": null,
+          "linkedin_id": "15094698",
+          "website": "korea.edu",
+          "domain": "korea.edu"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2011",
+        "majors": [
+          "international studies"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "copenhagen business school",
+          "type": "post-secondary institution",
+          "id": "NQ2wgaZhUlI1NU3T4ZuMBQ_0000",
+          "location": {
+            "name": "frederiksberg, hovedstaden, denmark",
+            "locality": "frederiksberg",
+            "region": "hovedstaden",
+            "country": "denmark",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/copenhagen-business-school",
+          "facebook_url": "facebook.com/copenhagenbusinessschool",
+          "twitter_url": "twitter.com/cbssayshello",
+          "linkedin_id": "2151",
+          "website": "cbs.dk",
+          "domain": "cbs.dk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2012",
+        "majors": [
+          "business administration",
+          "communications",
+          "economics",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "boston college carroll school of management",
+          "type": "post-secondary institution",
+          "id": "muFXqUmPbhR9kXMkBv22ew_0000",
+          "location": {
+            "name": "chestnut hill, massachusetts, united states",
+            "locality": "chestnut hill",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/carroll-school-of-management",
+          "facebook_url": "facebook.com/bostoncollege",
+          "twitter_url": "twitter.com/bostoncollege",
+          "linkedin_id": "15100300",
+          "website": "bc.edu",
+          "domain": "bc.edu"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2009-01",
+        "majors": [
+          "communication",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": 3.585
+      },
+      {
+        "school": {
+          "name": "copenhagen business school",
+          "type": "post-secondary institution",
+          "id": "NQ2wgaZhUlI1NU3T4ZuMBQ_0000",
+          "location": {
+            "name": "frederiksberg, hovedstaden, denmark",
+            "locality": "frederiksberg",
+            "region": "hovedstaden",
+            "country": "denmark",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/copenhagen-business-school",
+          "facebook_url": "facebook.com/copenhagenbusinessschool",
+          "twitter_url": "twitter.com/cbssayshello",
+          "linkedin_id": "2151",
+          "website": "cbs.dk",
+          "domain": "cbs.dk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2010",
+        "majors": [
+          "business administration",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "boston college",
+          "type": "post-secondary institution",
+          "id": "7BB6je7zySf-BAFIUBKbtg_0000",
+          "location": {
+            "name": "chestnut hill, massachusetts, united states",
+            "locality": "chestnut hill",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/boston-college",
+          "facebook_url": "facebook.com/bostoncollege",
+          "twitter_url": "twitter.com/bostoncollege",
+          "linkedin_id": "5396",
+          "website": "bc.edu",
+          "domain": "bc.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "korea university business school",
+          "type": "post-secondary institution",
+          "id": "G5wiqvOoEK0wQMZNxjT1-Q_0000",
+          "location": {
+            "name": "성북구, 서울특별시, south korea",
+            "locality": "성북구",
+            "region": "서울특별시",
+            "country": "south korea",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/korea-university-business-school",
+          "facebook_url": "facebook.com/ku1905",
+          "twitter_url": null,
+          "linkedin_id": "68011332",
+          "website": "biz.korea.ac.kr",
+          "domain": "korea.ac.kr"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "malmö university",
+          "type": "post-secondary institution",
+          "id": "4EwqVu5cAlxaDEfYjiH0yA_0000",
+          "location": {
+            "name": "malmö, skåne, sweden",
+            "locality": "malmö",
+            "region": "skåne",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/malmo-universitet",
+          "facebook_url": "facebook.com/malmouniversitet",
+          "twitter_url": "twitter.com/malmouni",
+          "linkedin_id": "15100921",
+          "website": "mau.se",
+          "domain": "mau.se"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "125204496",
+        "url": "linkedin.com/in/marc-ryning",
+        "username": "marc-ryning"
+      },
+      {
+        "network": "facebook",
+        "id": "550380401",
+        "url": "facebook.com/marc.ryning",
+        "username": "marc.ryning"
+      },
+      {
+        "network": "linkedin",
+        "id": "125204496",
+        "url": "linkedin.com/in/marc-ryning-380b2035",
+        "username": "marc-ryning-380b2035"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

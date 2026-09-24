@@ -1,0 +1,607 @@
+{
+  "record_id": "speaker-dubrovnik-050",
+  "speaker_name": "Dr. Petra Nathan",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dr-petra-nathan-ba939929/",
+  "scraped_at": "2026-09-18T09:36:51.618987+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "W2zOGgSTaBXztbb3T8Q8Bw_0000",
+    "full_name": "petra nathan",
+    "first_name": "petra",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "n",
+    "last_name": "nathan",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "research",
+    "job_title": "elevatehealth founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "pYL0MTzZw9GRJmBN9BCB8wfeJE6c",
+    "job_company_name": "elevatehealth",
+    "job_company_website": "elevatehealthopenscience.com",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/elevatehealthofficial",
+    "job_company_linkedin_id": "105838461",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "arts and culture",
+      "civil rights and social action",
+      "environment",
+      "science and technology"
+    ],
+    "skills": [
+      "asthma",
+      "biochemistry",
+      "bioinformatics",
+      "cell culture",
+      "characterization",
+      "co creation",
+      "enzymology",
+      "immunohistochemistry",
+      "implementation science",
+      "lateral leadership",
+      "latex",
+      "lung function testing",
+      "matlab",
+      "microscopy",
+      "molecular biology",
+      "molecular cloning",
+      "patient journey modelling",
+      "pcr",
+      "programming",
+      "science",
+      "scientific presentations",
+      "scientific writing",
+      "sql",
+      "stategic planning",
+      "statistics",
+      "supervision/ teaching",
+      "western blotting"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "chile"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "elevatehealth",
+          "size": "1-10",
+          "id": "pYL0MTzZw9GRJmBN9BCB8wfeJE6c",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/elevatehealthofficial",
+          "linkedin_id": "105838461",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "elevatehealthopenscience.com"
+        },
+        "location_names": [
+          "bonifacio global city, metro manila, philippines"
+        ],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "elevatehealth founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "global head of implementation science",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2023-09",
+        "title": {
+          "name": "innovation evidence - evidence generation - global medical affaires (rotation)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "nuremberg, bavaria, germany"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2020-09",
+        "title": {
+          "name": "medical advisor dermatology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "nuremberg, bavaria, germany"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2019-05",
+        "title": {
+          "name": "medical marketing (rotation)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "nuremberg, bavaria, germany",
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2016-01",
+        "title": {
+          "name": "pharmaberater",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "helmholtz-gemeinschaft / helmholtz association",
+          "size": "10001+",
+          "id": "C255YlMR3gjdINGcllUS6AgFLnAx",
+          "founded": 1995,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 anna-luisa-karsch-street",
+            "address_line_2": null,
+            "postal_code": "10178",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/helmholtz-association",
+          "linkedin_id": "660183",
+          "facebook_url": "facebook.com/helmholtzde",
+          "twitter_url": "twitter.com/helmholtz_en",
+          "website": "helmholtz.de"
+        },
+        "location_names": [],
+        "end_date": "2015-07",
+        "start_date": "2011-09",
+        "title": {
+          "name": "phd student",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of munich",
+          "size": "1001-5000",
+          "id": "lLyx3Y3i5MQ1wL2aTUmoOwgz7QQ6",
+          "founded": 1472,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 geschwister-scholl-platz",
+            "address_line_2": null,
+            "postal_code": "80539",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/university-of-munich",
+          "linkedin_id": "11944",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-12",
+        "start_date": "2009-07",
+        "title": {
+          "name": "wissenschaftlicher mitarbeiter",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "helmholz institute halle-leipzig",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2008-06",
+        "start_date": "2007-12",
+        "title": {
+          "name": "scientific member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "technische universität münchen (technical university of munich)",
+          "type": "post-secondary institution",
+          "id": "puAOBBBM6K9ZY0cnA0UBpQ_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/c446-deccan-m.ed-college-gulbarga",
+          "facebook_url": "facebook.com/tu.muenchen",
+          "twitter_url": "twitter.com/tu_muenchen",
+          "linkedin_id": "15107013",
+          "website": "tum.de",
+          "domain": "tum.de"
+        },
+        "degrees": [],
+        "start_date": "2009",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "technical university of munich",
+          "type": "post-secondary institution",
+          "id": "kcADTmdpy5OXv-Jg2mFjtw_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/technische-universitat-munchen",
+          "facebook_url": "facebook.com/tu.muenchen",
+          "twitter_url": "twitter.com/tu_muenchen",
+          "linkedin_id": "166283",
+          "website": "tum.de",
+          "domain": "tum.de"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2015-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "technical university of munich",
+          "type": "post-secondary institution",
+          "id": "kcADTmdpy5OXv-Jg2mFjtw_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/technische-universitat-munchen",
+          "facebook_url": "facebook.com/tu.muenchen",
+          "twitter_url": "twitter.com/tu_muenchen",
+          "linkedin_id": "166283",
+          "website": "tum.de",
+          "domain": "tum.de"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2015-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the martin luther university of halle - wittenberg",
+          "type": "post-secondary institution",
+          "id": "1MejBRs6Hga9XtcLRBMClw_0000",
+          "location": {
+            "name": "halle, saxony-anhalt, germany",
+            "locality": "halle",
+            "region": "saxony-anhalt",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unihalle",
+          "facebook_url": "facebook.com/unihalle",
+          "twitter_url": "twitter.com/unihalle",
+          "linkedin_id": "376144",
+          "website": "uni-halle.de",
+          "domain": "uni-halle.de"
+        },
+        "degrees": [],
+        "start_date": "2002-01",
+        "end_date": "2007",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the martin luther university of halle - wittenberg",
+          "type": "post-secondary institution",
+          "id": "1MejBRs6Hga9XtcLRBMClw_0000",
+          "location": {
+            "name": "halle, saxony-anhalt, germany",
+            "locality": "halle",
+            "region": "saxony-anhalt",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unihalle",
+          "facebook_url": "facebook.com/unihalle",
+          "twitter_url": "twitter.com/unihalle",
+          "linkedin_id": "376144",
+          "website": "uni-halle.de",
+          "domain": "uni-halle.de"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "99487857",
+        "url": "linkedin.com/in/dr-petra-nathan-ba939929",
+        "username": "dr-petra-nathan-ba939929"
+      },
+      {
+        "network": "linkedin",
+        "id": "99487857",
+        "url": "linkedin.com/in/petra-nathan-ba939929",
+        "username": "petra-nathan-ba939929"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

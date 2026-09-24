@@ -1,0 +1,195 @@
+{
+  "record_id": "speaker-viennacx-034",
+  "speaker_name": "Christophe Eskenazi",
+  "linkedin_url": "https://www.linkedin.com/in/christophe-eskenazi/",
+  "likelihood": 9,
+  "full_name": "christophe eskenazi",
+  "job_title": "head of it europe",
+  "industry": "pharmaceuticals",
+  "current_company": "biogen",
+  "current_company_website": "biogen.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe experience manager",
+    "agile methodologies",
+    "amazon web services",
+    "artificial intelligence",
+    "b2b marketing",
+    "budget management",
+    "business analysis",
+    "business intelligence",
+    "business process improvement",
+    "business strategy",
+    "cardiology",
+    "change management",
+    "computer system validation",
+    "cross functional team leadership",
+    "customer engagement",
+    "customer relationship management",
+    "cybersecurity",
+    "devops",
+    "digital innovation",
+    "digital marketing",
+    "digital strategy",
+    "english",
+    "foreign languages",
+    "general data protection regulation",
+    "healthcare information technology",
+    "hematology",
+    "immunology",
+    "international project management",
+    "it infrastructure management",
+    "it management",
+    "it outsourcing",
+    "it service management",
+    "it strategy",
+    "itil",
+    "itil implementation",
+    "large scale system integration",
+    "management",
+    "master data management",
+    "mergers and acquisitions",
+    "omni channel marketing",
+    "oncology",
+    "operations management",
+    "order to cash",
+    "patient safety",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "predictive analytics",
+    "process improvement",
+    "product launch",
+    "project management",
+    "rare diseases",
+    "remote patient monitoring",
+    "rems",
+    "sales effectiveness",
+    "salesforce crm analytics",
+    "salesforce marketing cloud",
+    "salesforce.com",
+    "scaled agile framework",
+    "software as a service",
+    "strategy",
+    "tableau",
+    "team management",
+    "tender process",
+    "veeva",
+    "veeva crm",
+    "vendor management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of it europe",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2025-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of digital and it europe, japan & canada",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-11",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "head of it bms and celgene france",
+      "company": "celgene",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-06",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of it",
+      "company": "upsa",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-04",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "head of infrastructure and operations emea",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-04",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "international it project manager",
+      "company": "bristol myers squibb uk & ireland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-11",
+      "end_date": "2008-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "liverpool john moores university",
+      "majors": [
+        "management",
+        "multimedia"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2002-01-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "university of wales",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2000-01-01",
+      "end_date": "2002"
+    },
+    {
+      "school": "université nice sophia antipolis",
+      "majors": [
+        "telecommunications",
+        "engineering"
+      ],
+      "degrees": [],
+      "start_date": "1998",
+      "end_date": "2000"
+    },
+    {
+      "school": "université côte d'azur",
+      "majors": [
+        "engineering",
+        "telecommunications"
+      ],
+      "degrees": [],
+      "start_date": "1998-01-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "lycée carnot",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-09",
+      "end_date": "1998-06"
+    },
+    {
+      "school": "lycée carnot",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-01",
+      "end_date": "1998-12"
+    }
+  ]
+}

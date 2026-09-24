@@ -1,0 +1,577 @@
+{
+  "record_id": "speaker-dubrovnik-116",
+  "speaker_name": "Liisa Caliendo",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/liisa-caliendo-mph/",
+  "scraped_at": "2026-09-18T10:23:39.238591+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "H4suLKqQDSeGgQsFFkcn7Q_0000",
+    "full_name": "liisa caliendo",
+    "first_name": "liisa",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "caliendo",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/liisa-caliendo-mph",
+    "linkedin_username": "liisa-caliendo-mph",
+    "linkedin_id": "13372873",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "internet",
+    "job_title": "senior vice president marketing and commercial product",
+    "job_title_role": "product",
+    "job_title_sub_role": "product_management",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "senior",
+      "vp"
+    ],
+    "job_company_id": "VB0VDR4n7UaDB1h1H8Qw9wb0eGva",
+    "job_company_name": "webmd",
+    "job_company_website": "webmd.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1995,
+    "job_company_industry": "internet",
+    "job_company_industry_v2": "technology, information and internet",
+    "job_company_linkedin_url": "linkedin.com/company/webmd",
+    "job_company_linkedin_id": "3859",
+    "job_company_facebook_url": "facebook.com/webmd",
+    "job_company_twitter_url": "twitter.com/webmd",
+    "job_company_location_name": "united states",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-10-08",
+    "job_last_verified": "2026-08-08",
+    "job_start_date": "2024-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-03-09",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "analytics",
+      "benchmarking",
+      "brand development",
+      "branding and identity",
+      "business analytics",
+      "business development",
+      "business planning",
+      "business strategy",
+      "communication",
+      "competitive analysis",
+      "consumer insights",
+      "customer marketing",
+      "data analysis",
+      "digital marketing",
+      "digital strategy",
+      "epidemiology",
+      "excel",
+      "global health",
+      "go to market strategy",
+      "government",
+      "healthcare",
+      "international marketing",
+      "leadership",
+      "management",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing materials",
+      "marketing research",
+      "marketing strategy",
+      "medical devices",
+      "microsoft office",
+      "new business development",
+      "oncology",
+      "outcomes research",
+      "pharmaceutical industry",
+      "pharmacoepidemiology",
+      "positioning",
+      "product design",
+      "product development",
+      "product launch",
+      "product management",
+      "product marketing",
+      "program management",
+      "public health",
+      "research",
+      "sales and marketing",
+      "strategic planning",
+      "strategy",
+      "teamwork"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "webmd",
+          "size": "1001-5000",
+          "id": "VB0VDR4n7UaDB1h1H8Qw9wb0eGva",
+          "founded": 1995,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/webmd",
+          "linkedin_id": "3859",
+          "facebook_url": "facebook.com/webmd",
+          "twitter_url": "twitter.com/webmd",
+          "website": "webmd.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "senior vice president marketing and commercial product",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "webmd",
+          "size": "1001-5000",
+          "id": "VB0VDR4n7UaDB1h1H8Qw9wb0eGva",
+          "founded": 1995,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/webmd",
+          "linkedin_id": "3859",
+          "facebook_url": "facebook.com/webmd",
+          "twitter_url": "twitter.com/webmd",
+          "website": "webmd.com"
+        },
+        "location_names": [],
+        "end_date": "2024-02",
+        "start_date": "2020-03",
+        "title": {
+          "name": "vice president of global product marketing and strategy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "webmd",
+          "size": "1001-5000",
+          "id": "VB0VDR4n7UaDB1h1H8Qw9wb0eGva",
+          "founded": 1995,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/webmd",
+          "linkedin_id": "3859",
+          "facebook_url": "facebook.com/webmd",
+          "twitter_url": "twitter.com/webmd",
+          "website": "webmd.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2020-03",
+        "start_date": "2018-12",
+        "title": {
+          "name": "executive director product and marketing strategy",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "webmd",
+          "size": "1001-5000",
+          "id": "VB0VDR4n7UaDB1h1H8Qw9wb0eGva",
+          "founded": 1995,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/webmd",
+          "linkedin_id": "3859",
+          "facebook_url": "facebook.com/webmd",
+          "twitter_url": "twitter.com/webmd",
+          "website": "webmd.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2020-03",
+        "start_date": "2012-06",
+        "title": {
+          "name": "senior director of product management",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "iqvia",
+          "size": "10001+",
+          "id": "INCG03yLMf74bucPYkoCPALLNtTC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "durham, north carolina, united states",
+            "locality": "durham",
+            "region": "north carolina",
+            "metro": "durham, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 ellis road",
+            "address_line_2": null,
+            "postal_code": "27703",
+            "geo": "35.99,-78.91"
+          },
+          "linkedin_url": "linkedin.com/company/iqvia",
+          "linkedin_id": "4057",
+          "facebook_url": "facebook.com/iqvia",
+          "twitter_url": "twitter.com/iqvia_global",
+          "website": "iqvia.com"
+        },
+        "location_names": [],
+        "end_date": "2012-06",
+        "start_date": "2010-05",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elekta",
+          "size": "1001-5000",
+          "id": "M0C2eTRBRJus0Z1B17gi5geRpuHw",
+          "founded": 1972,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "4 hagaplan",
+            "address_line_2": null,
+            "postal_code": "113 68",
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/elekta",
+          "linkedin_id": "9359",
+          "facebook_url": "facebook.com/elekta",
+          "twitter_url": "twitter.com/elekta",
+          "website": "elekta.com"
+        },
+        "location_names": [],
+        "end_date": "2010-05",
+        "start_date": "2005-01",
+        "title": {
+          "name": "marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "louisiana office of public health",
+          "size": "1-10",
+          "id": "OEDfuHmuKDqI4bC2dREnagtsjXnb",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "new orleans, louisiana, united states",
+            "locality": "new orleans",
+            "region": "louisiana",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "517 north rampart street",
+            "address_line_2": null,
+            "postal_code": "70112",
+            "geo": "29.96,-90.07"
+          },
+          "linkedin_url": "linkedin.com/company/louisiana-office-of-public-health",
+          "linkedin_id": "54388366",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2005-06",
+        "start_date": "2004-06",
+        "title": {
+          "name": "data manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "centers for disease control and prevention",
+          "size": "10001+",
+          "id": "vh2BlCX0x3QNcR7cT7vpLgfDxn3C",
+          "founded": 1946,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "atlanta, georgia, united states",
+            "locality": "atlanta",
+            "region": "georgia",
+            "metro": "atlanta, georgia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1600 clifton road",
+            "address_line_2": null,
+            "postal_code": "30333",
+            "geo": "33.75,-84.38"
+          },
+          "linkedin_url": "linkedin.com/company/centers-for-disease-control-and-prevention",
+          "linkedin_id": "157336",
+          "facebook_url": "facebook.com/cdc",
+          "twitter_url": "twitter.com/cdcgov",
+          "website": "cdc.gov"
+        },
+        "location_names": [
+          "atlanta, georgia, united states"
+        ],
+        "end_date": "2004",
+        "start_date": "2003",
+        "title": {
+          "name": "asph fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "international cat care veterinary society",
+          "type": "post-secondary institution",
+          "id": "-6gvdgWBilB2wjT5Frx2Iw_0000",
+          "location": {
+            "name": "tisbury, england, united kingdom",
+            "locality": "tisbury",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/icatcareveterinarysociety",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "54103397",
+          "website": "icatcare.org",
+          "domain": "icatcare.org"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tulane university",
+          "type": "post-secondary institution",
+          "id": "2ofLwbW4UBrPO0nuwcxSww_0000",
+          "location": {
+            "name": "new orleans, louisiana, united states",
+            "locality": "new orleans",
+            "region": "louisiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/tulane-university",
+          "facebook_url": "facebook.com/tulaneu",
+          "twitter_url": "twitter.com/tulanenews",
+          "linkedin_id": "6806",
+          "website": "tulane.edu",
+          "domain": "tulane.edu"
+        },
+        "degrees": [
+          "master of public health",
+          "masters"
+        ],
+        "start_date": null,
+        "end_date": "2003",
+        "majors": [
+          "epidemiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "new york university",
+          "type": "post-secondary institution",
+          "id": "me8E62Errw6GZxpRCeIhVA_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/new-york-university",
+          "facebook_url": "facebook.com/nyu",
+          "twitter_url": "twitter.com/nyuniversity",
+          "linkedin_id": "3159",
+          "website": "nyu.edu",
+          "domain": "nyu.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": "1999",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "13372873",
+        "url": "linkedin.com/in/liisa-caliendo-mph",
+        "username": "liisa-caliendo-mph"
+      },
+      {
+        "network": "linkedin",
+        "id": "13372873",
+        "url": "linkedin.com/in/liisa-caliendo-mph-b2158a4",
+        "username": "liisa-caliendo-mph-b2158a4"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

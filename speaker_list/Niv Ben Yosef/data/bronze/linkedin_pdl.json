@@ -1,0 +1,668 @@
+{
+  "record_id": "speaker-viennacx-020",
+  "speaker_name": "Niv Ben Yosef",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/nivbenyosef/",
+  "scraped_at": "2026-09-18T10:25:39.241991+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "eaqFxGo06NkecripiqG2Vg_0000",
+    "full_name": "niv ben-yosef",
+    "first_name": "niv",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "ben-yosef",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/nivbenyosef",
+    "linkedin_username": "nivbenyosef",
+    "linkedin_id": "280372787",
+    "facebook_url": "facebook.com/nbenyosef",
+    "facebook_username": "nbenyosef",
+    "facebook_id": "715162615",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global omnichannel manager",
+    "job_title_role": "operations",
+    "job_title_sub_role": "administrative",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+    "job_company_name": "almirall",
+    "job_company_website": "almirall.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1944,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/almirall",
+    "job_company_linkedin_id": "11195",
+    "job_company_facebook_url": "facebook.com/almirall-hermal-gmbh",
+    "job_company_twitter_url": "twitter.com/almirallus",
+    "job_company_location_name": "barcelona, catalonia, spain",
+    "job_company_location_locality": "barcelona",
+    "job_company_location_metro": null,
+    "job_company_location_region": "catalonia",
+    "job_company_location_geo": "41.38,2.17",
+    "job_company_location_street_address": "151 ronda general mitre",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "08022",
+    "job_company_location_country": "spain",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-07-22",
+    "job_last_verified": "2026-06-01",
+    "job_start_date": "2024-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-08",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "arte",
+      "arts and culture",
+      "bajo",
+      "bajo eléctrico",
+      "civil rights and social action",
+      "cultura general",
+      "economic empowerment",
+      "education",
+      "environment",
+      "esquí",
+      "fitness",
+      "formación en administración",
+      "formación en administracón",
+      "guitarra clásica",
+      "human rights",
+      "inversiones",
+      "juegos de video",
+      "lectura",
+      "musica",
+      "música",
+      "poverty alleviation",
+      "running",
+      "skii",
+      "social services",
+      "teatro",
+      "teatro y lectura",
+      "tecnología",
+      "tecnología y juegos de video",
+      "trading"
+    ],
+    "skills": [
+      "analytical skills",
+      "bloomberg",
+      "brand management",
+      "business development",
+      "business strategy",
+      "community engagement",
+      "consultative selling",
+      "creative problem solving",
+      "critical thinking",
+      "customer relationship management",
+      "customer segmentation strategy",
+      "data analysis",
+      "medical devices",
+      "microsoft office",
+      "multitasking",
+      "omni channel marketing",
+      "pharmaceutical consulting",
+      "pharmaceutical marketing",
+      "pharmaceutical sales",
+      "presentation skills",
+      "project management",
+      "public speaking",
+      "salesforce.com",
+      "strategic communications",
+      "strategic planning",
+      "team leadership",
+      "teamwork",
+      "theory of constraints"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain",
+      "chile"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": null,
+        "start_date": "2024-05",
+        "title": {
+          "name": "global omnichannel manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "precision aq",
+          "size": "1-10",
+          "id": "S7JEOThJbAy89R31XuMoFQfZmGB3",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq",
+          "linkedin_id": "102011558",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "precisionaq.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2024-05",
+        "start_date": "2023-01",
+        "title": {
+          "name": "account manager & strategy consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "precision aq",
+          "size": "1-10",
+          "id": "S7JEOThJbAy89R31XuMoFQfZmGB3",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq",
+          "linkedin_id": "102011558",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "precisionaq.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2021-03",
+        "title": {
+          "name": "strategy consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "urgo medical",
+          "size": "501-1000",
+          "id": "74kskhtjy6Tqz00QZmZdYgTrCO9j",
+          "founded": 2000,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/urgomedical",
+          "linkedin_id": "7113121",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "urgomedical.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2021-02",
+        "start_date": "2019-06",
+        "title": {
+          "name": "global brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "urgo medical",
+          "size": "501-1000",
+          "id": "74kskhtjy6Tqz00QZmZdYgTrCO9j",
+          "founded": 2000,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/urgomedical",
+          "linkedin_id": "7113121",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "urgomedical.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2018-06",
+        "title": {
+          "name": "strategic project officer for the regional director (southern europe & latam)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abb",
+          "size": "10001+",
+          "id": "GLcDvmZyAPA1o9AECCOZRAe0K6AK",
+          "founded": null,
+          "industry": "industrial automation",
+          "industry_v2": "automation machinery manufacturing",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "44 affolternstrasse",
+            "address_line_2": null,
+            "postal_code": "8050",
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/abb",
+          "linkedin_id": "277579",
+          "facebook_url": "facebook.com/abb",
+          "twitter_url": "twitter.com/abbgroupnews",
+          "website": "global.abb"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2018-02",
+        "title": {
+          "name": "internal consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nestlé",
+          "size": "10001+",
+          "id": "PaCiblC4ZtUzQ6LHC8aj4AorHkCI",
+          "founded": null,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "vevey, vaud, switzerland",
+            "locality": "vevey",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "55 avenue nestlé",
+            "address_line_2": null,
+            "postal_code": "1800",
+            "geo": "46.45,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/nestle-s-a-",
+          "linkedin_id": "1393",
+          "facebook_url": "facebook.com/nestle",
+          "twitter_url": "twitter.com/nestle",
+          "website": "nestle.com"
+        },
+        "location_names": [
+          "santiago, santiago metropolitan, chile"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2016-06",
+        "title": {
+          "name": "business controller",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "accounting",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "celforpharma",
+          "type": "post-secondary institution",
+          "id": "IpvB8Tuk-saHIhksqs5E9A_0000",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "965286",
+          "website": "celforpharma.com",
+          "domain": "celforpharma.com"
+        },
+        "degrees": [],
+        "start_date": "2025",
+        "end_date": "2025",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cems - the global alliance in management education",
+          "type": "post-secondary institution",
+          "id": "8B2BW59pdxChbmY3tgX6Wg_0000",
+          "location": {
+            "name": "jouy-en-josas, île-de-france, france",
+            "locality": "jouy-en-josas",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cems---the-global-alliance-in-management-education",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15141745",
+          "website": "cems.org",
+          "domain": "cems.org"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2017",
+        "end_date": "2018",
+        "majors": [
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2017",
+        "end_date": "2018",
+        "majors": [
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad adolfo ibáñez",
+          "type": "post-secondary institution",
+          "id": "9Rz8l9zRmJK2AA53-Xa78Q_0000",
+          "location": {
+            "name": "las condes, santiago metropolitan, chile",
+            "locality": "las condes",
+            "region": "santiago metropolitan",
+            "country": "chile",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-adolfo-ibanez",
+          "facebook_url": "facebook.com/uai.universidad",
+          "twitter_url": "twitter.com/uai_cl",
+          "linkedin_id": "27207",
+          "website": "uai.cl",
+          "domain": "uai.cl"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2017",
+        "end_date": "2017",
+        "majors": [
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad adolfo ibáñez",
+          "type": "post-secondary institution",
+          "id": "9Rz8l9zRmJK2AA53-Xa78Q_0000",
+          "location": {
+            "name": "las condes, santiago metropolitan, chile",
+            "locality": "las condes",
+            "region": "santiago metropolitan",
+            "country": "chile",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-adolfo-ibanez",
+          "facebook_url": "facebook.com/uai.universidad",
+          "twitter_url": "twitter.com/uai_cl",
+          "linkedin_id": "27207",
+          "website": "uai.cl",
+          "domain": "uai.cl"
+        },
+        "degrees": [],
+        "start_date": "2012",
+        "end_date": "2018",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad adolfo ibáñez",
+          "type": "post-secondary institution",
+          "id": "9Rz8l9zRmJK2AA53-Xa78Q_0000",
+          "location": {
+            "name": "las condes, santiago metropolitan, chile",
+            "locality": "las condes",
+            "region": "santiago metropolitan",
+            "country": "chile",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-adolfo-ibanez",
+          "facebook_url": "facebook.com/uai.universidad",
+          "twitter_url": "twitter.com/uai_cl",
+          "linkedin_id": "27207",
+          "website": "uai.cl",
+          "domain": "uai.cl"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2012",
+        "end_date": "2016",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the international school nido de aguilas",
+          "type": "secondary school",
+          "id": "NYTfk5yXeGDV9JeNC9SNuQ_0000",
+          "location": {
+            "name": "lo barnechea, santiago metropolitan, chile",
+            "locality": "lo barnechea",
+            "region": "santiago metropolitan",
+            "country": "chile",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/international-school-nido-de-aguilas",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3782308",
+          "website": "nido.cl",
+          "domain": "nido.cl"
+        },
+        "degrees": [],
+        "start_date": "1998",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "280372787",
+        "url": "linkedin.com/in/nivbenyosef",
+        "username": "nivbenyosef"
+      },
+      {
+        "network": "facebook",
+        "id": "715162615",
+        "url": "facebook.com/nbenyosef",
+        "username": "nbenyosef"
+      },
+      {
+        "network": "linkedin",
+        "id": "280372787",
+        "url": "linkedin.com/in/niv-ben-yosef-92ba9079",
+        "username": "niv-ben-yosef-92ba9079"
+      },
+      {
+        "network": "linkedin",
+        "id": "280372787",
+        "url": "linkedin.com/in/niv-benyosef-92ba9079",
+        "username": "niv-benyosef-92ba9079"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,180 @@
+{
+  "record_id": "speaker-dubrovnik-100",
+  "speaker_name": "Ariel Salmang",
+  "linkedin_url": "https://www.linkedin.com/in/arielsalmang/",
+  "likelihood": 9,
+  "full_name": "ariel salmang",
+  "job_title": "chief executive officer",
+  "industry": "management consulting",
+  "current_company": "think tank 4 gmbh",
+  "current_company_website": "thinktank4.com",
+  "current_company_industry": "management consulting",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "business development",
+    "business strategy",
+    "change management",
+    "consulting",
+    "digital marketing",
+    "digital media",
+    "digital strategy",
+    "e commerce",
+    "entrepreneurship",
+    "integrated marketing",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "mobile devices",
+    "mobile marketing",
+    "multi channel marketing",
+    "new business development",
+    "online advertising",
+    "online marketing",
+    "pharmaceutical industry",
+    "project management",
+    "social media",
+    "social media marketing",
+    "start ups",
+    "strategic partnerships",
+    "strategic planning",
+    "strategy"
+  ],
+  "interests": [
+    "food and wine",
+    "golf",
+    "life 3",
+    "literature",
+    "opera"
+  ],
+  "experience": [
+    {
+      "title": "chief executive officer",
+      "company": "think tank 4 gmbh",
+      "company_industry": "management consulting",
+      "start_date": "2016-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior vice president, managing director, global strategic development",
+      "company": "eversana intouch",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "managing director eversana intouch international",
+      "company": "eversana intouch",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-05",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "managing director eversana intouch international (a joint venture with healthware group)",
+      "company": "healthware group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-05",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "vice president international business development",
+      "company": "precision aq - international",
+      "company_industry": "management consulting",
+      "start_date": "2014-05",
+      "end_date": "2016-03",
+      "is_primary": false
+    },
+    {
+      "title": "global head of advisory",
+      "company": "razorfish healthware",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-12",
+      "end_date": "2014-04",
+      "is_primary": false
+    },
+    {
+      "title": "international director digital communication",
+      "company": "publicis healthware international",
+      "company_industry": "marketing and advertising",
+      "start_date": "2009-10",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "managing director",
+      "company": "publicis health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2008-10",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "marketing director",
+      "company": "arvato",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2007-05",
+      "end_date": "2008-04",
+      "is_primary": false
+    },
+    {
+      "title": "business development manager",
+      "company": "simyo",
+      "company_industry": "telecommunications",
+      "start_date": "2005-08",
+      "end_date": "2007-04",
+      "is_primary": false
+    },
+    {
+      "title": "managing partner",
+      "company": "esperto",
+      "company_industry": null,
+      "start_date": "2000-09",
+      "end_date": "2002-12",
+      "is_primary": false
+    },
+    {
+      "title": "managing partner",
+      "company": "t3 business development",
+      "company_industry": null,
+      "start_date": "2000-07",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing director",
+      "company": "stepstone",
+      "company_industry": null,
+      "start_date": "1999-05",
+      "end_date": "2000-07",
+      "is_primary": false
+    },
+    {
+      "title": "various positions",
+      "company": "prosieben media ag",
+      "company_industry": null,
+      "start_date": "1997-02",
+      "end_date": "1999-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ludwig - maximilians - universität münchen",
+      "majors": [
+        "law"
+      ],
+      "degrees": [],
+      "start_date": "1989-01",
+      "end_date": "1995"
+    }
+  ]
+}

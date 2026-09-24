@@ -1,0 +1,119 @@
+{
+  "record_id": "speaker-dubrovnik-042",
+  "speaker_name": "Olivier Burgaud",
+  "linkedin_url": "https://www.linkedin.com/in/olivier-burgaud-a626751b/",
+  "likelihood": 9,
+  "full_name": "olivier burgaud",
+  "job_title": "global medical affairs digital director",
+  "industry": "pharmaceuticals",
+  "current_company": "servier",
+  "current_company_website": "servier.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnologie",
+    "bonnes pratiques cliniques",
+    "change management",
+    "essais cliniques",
+    "gestion de la relation client",
+    "gestion de portefeuille de projets",
+    "gestion de programmes",
+    "gestion de projet",
+    "it service management",
+    "itil",
+    "leadership",
+    "life sciences",
+    "management",
+    "management services it",
+    "pharmaceutique",
+    "pilotage",
+    "planification",
+    "project management",
+    "r&d",
+    "recherche clinique",
+    "sciences de la vie",
+    "secteur pharmaceutique",
+    "technologies de linformation"
+  ],
+  "interests": [
+    "arts and culture",
+    "health",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "global medical affairs digital director",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of information systems / it emea",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-10",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "global information systems chief transformation officer",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "global services management information systems director",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-05",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "clinical development & pharmacovigilance information systems manager",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-07",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "information systems clinical domain manager",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2012-06",
+      "is_primary": false
+    },
+    {
+      "title": "it project manager",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002",
+      "end_date": "2010",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "génie physiologique informatique",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "génie physiologique informatique",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1998-01",
+      "end_date": "2001"
+    }
+  ]
+}

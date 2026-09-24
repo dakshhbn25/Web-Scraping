@@ -1,0 +1,587 @@
+{
+  "record_id": "speaker-dubrovnik-058",
+  "speaker_name": "Patrick Laroche",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/patrick-laroche-a60ab011/",
+  "scraped_at": "2026-09-18T09:37:08.588899+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "FflCZiDn0E3BAJWRERI-2Q_0000",
+    "full_name": "patrick laroche",
+    "first_name": "patrick",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "laroche",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/patrick-laroche-a60ab011",
+    "linkedin_username": "patrick-laroche-a60ab011",
+    "linkedin_id": "41535720",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president, head of medical affairs emea",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director",
+      "vp"
+    ],
+    "job_company_id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+    "job_company_name": "johnson & johnson innovative medicine",
+    "job_company_website": "janssen.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+    "job_company_linkedin_id": "98725034",
+    "job_company_facebook_url": "facebook.com/jnjinnovativemedicine",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "antwerp, flanders, belgium",
+    "job_company_location_locality": "antwerp",
+    "job_company_location_metro": null,
+    "job_company_location_region": "flanders",
+    "job_company_location_geo": "51.21,4.4",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-12-24",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnologie",
+      "immunology",
+      "kol development",
+      "lancement de produit",
+      "management",
+      "market access",
+      "medical affairs",
+      "medical education",
+      "neurosciences",
+      "oncologie",
+      "pharmaceutical industry",
+      "pharmacovigilance",
+      "real world evidence",
+      "scientific communication",
+      "secteur pharmaceutique",
+      "ventes pharmaceutiques",
+      "virology"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "vice president, head of medical affairs emea",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2024-09",
+        "start_date": "2020-10",
+        "title": {
+          "name": "vice president medical affairs, operational excellence strategy emea",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2019-06",
+        "title": {
+          "name": "emea therapeutic area lead hematology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2019-05",
+        "start_date": "2017-05",
+        "title": {
+          "name": "emea medical affairs strategic director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2014-09",
+        "title": {
+          "name": "country medical affairs director france",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2014-08",
+        "start_date": "2012-10",
+        "title": {
+          "name": "country medical affairs director russia & cis",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2010-02",
+        "title": {
+          "name": "medical director oncology & hematology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2010-01",
+        "start_date": "2009-09",
+        "title": {
+          "name": "scientific communication director oncology & hematology",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [
+          "issy-les-moulineaux, île-de-france, france"
+        ],
+        "end_date": "2009-08",
+        "start_date": "2006-09",
+        "title": {
+          "name": "senior product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2006-09",
+        "start_date": "2004-11",
+        "title": {
+          "name": "medical science liaison cns",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grenoble university hospital",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "grenoble, auvergne-rhône-alpes, france"
+        ],
+        "end_date": "2004-11",
+        "start_date": "2001-05",
+        "title": {
+          "name": "emergency medicine practising physician",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of joseph fourier, grenoble",
+          "type": "post-secondary institution",
+          "id": "MQX-e4A4if756nu1-v3wQg_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/university-of-joseph-fourier-grenoble",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1426939",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2003",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "41535720",
+        "url": "linkedin.com/in/patrick-laroche-a60ab011",
+        "username": "patrick-laroche-a60ab011"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "speaker_name": "Philip Cruz",
+    "designation": "Country Medical Director for the United Kingdom",
+    "company": null,
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/moderna.com",
+    "company_source": null,
+    "company_logo_filename": "moderna-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/philip-cruz-md-ffpm-39454118a/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Dr Adela Taranu",
+    "designation": "Head of Global Medical Affairs",
+    "company": "worwag",
+    "company_link": "https://www.woerwagpharma.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "worwag-logo_new.png",
+    "linkedin_url": "https://www.linkedin.com/in/dr-adela-taranu-phd-mba-279537a0/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Dr Kishan Rees",
+    "designation": "Senior Director / Global Video Content & Digital Media Strategy - Patient & Scientific Engagement",
+    "company": null,
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/bayer.com",
+    "company_source": null,
+    "company_logo_filename": "Logo_Bayer.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/drkishanrees/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Reinhard Berkels",
+    "designation": "Global Lead – Medical Affairs Evolution and Metrics",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/reinhard-berkels-phd/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Paméla Graas",
+    "designation": "Head, Global Medical Capability Strategy & Operations",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/pam%C3%A9la-graas-dmv-des-5654794/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Laura Avanzo Leeke",
+    "designation": "Global Medical Information Manager",
+    "company": "recordati.com",
+    "company_link": "https://recordati.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "RECORDATI-novo.png",
+    "linkedin_url": "https://www.linkedin.com/in/lauraavanzoleeke/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Lynn Mertens",
+    "designation": "Global Medical Impact Lead",
+    "company": "ucb",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/ucb.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/lynn-mertens-a091135b/?locale=en",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Louise Ostergaard",
+    "designation": "Global Publications & Scientific Communications Director",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/ostergaardlouiselifescience/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Adam Jones",
+    "designation": "Vice President International Medical",
+    "company": "amicus biomarin",
+    "company_link": "https://amicusrx.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Amicus-BioMarin-logo-scaled-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/adamjonesphd/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Georgios Tramountanis",
+    "designation": "Data, Digital & Technology, Global Head Medical Core Capabilities - Global Portfolio Division",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/georgiostramountanis/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Joan van der Horn",
+    "designation": "Global Lead Medical Affairs Capabilities Development",
+    "company": "Viatris",
+    "company_link": "https://www.viatris.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "Viatris_Logo_Horiz_RGB_VIOLET_resized_header_icon-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/joan-van-der-horn-9994279/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Kate Bradford",
+    "designation": "Global Head of Medical Training and Field Capabilities",
+    "company": "alexion",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/alexion.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/kate-bradford-a9346b4/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Enric Sabata Junyent",
+    "designation": "Medical Insights & Analytics Lead",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/enric-sabata/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Radhika Bhatia",
+    "designation": "Global Head of Scientific Communication Excellence, Systems & Platforms",
+    "company": "ucb",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/ucb.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/radhika-bhatia-pharma-leader/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Emeline Blin Massonneau",
+    "designation": "NPP / Launch Digital Excellence Lead - Global Portfolio Division DD&T",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/emelineblin/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Travis Kupp",
+    "designation": "Director, Head of Futures",
+    "company": "ucb",
+    "company_link": "https://www.ucb.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/tkupp/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Agathe Acchiardo",
+    "designation": "Founder & Director",
+    "company": "think-next",
+    "company_link": "https://thinknext.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "think-next.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/agatheacchiardo/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Mirkka Schaller",
+    "designation": "Independent Advisor, Ex-Alexion",
+    "company": "alexion",
+    "company_link": "https://alexion.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mirkka-schaller/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Patricia Maric",
+    "designation": "Global Medical Transformation Lead, Strategy, Innovation & Medical Transformation",
+    "company": "sanofi",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/sanofi.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/patriciamaric/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Mostapha Haidar",
+    "designation": "Associate Director, Medical Omni-Channel & Engagement Excellence",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/mostapha-haidar/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Stefaan Fiers",
+    "designation": "Chapter Head External Affairs",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Roche_Logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/stefaanfiers/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Wassim El Bitar",
+    "designation": "Pediatrician - pediatric & adolescent gynecology",
+    "company": "chirec.be",
+    "company_link": "https://www.chirec.be/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "CHIREC-Hospital-Group-.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/wassim-el-bitar-2a749a84/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Selena Freisens",
+    "designation": "Head of Global Medical Affairs",
+    "company": "merz-therapeutics",
+    "company_link": "https://merztherapeutics.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-merz-therapeutics-blue.png",
+    "linkedin_url": "https://www.linkedin.com/in/selena-freisens-md-92ab593/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Emma Vitalini",
+    "designation": "Digital Scientific Engagement Lead, Mid-European Region",
+    "company": "msd",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/msd.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/emmavitalini-pharma-pioneer/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Nina van Roosmalen Furlanič",
+    "designation": "Omnichannel & Content Lead Dermatology Europe",
+    "company": "ucb",
+    "company_link": "https://www.ucb.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/nina-van-roosmalen-furlani%C4%8D-86444616/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Michael Zaiac",
+    "designation": "Head of Medical Affairs Oncology Europe and Canada",
+    "company": "Daiichi-sankyo",
+    "company_link": "https://www.daiichi-sankyo.eu/",
+    "company_source": "alt_text",
+    "company_logo_filename": "1200px-Daiichi-sankyo_logomark.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/michael-zaiac-45ab191/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Yukti Khurana",
+    "designation": "Director, Medical Insights & Impact",
+    "company": "Astellas",
+    "company_link": "https://www.astellas.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Astellas-small.png",
+    "linkedin_url": "https://nextpharmasummit.com/Medical/speakers/#https://www.linkedin.com/in/khuranayukti/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Azèle Mathieu",
+    "designation": "Innovation Lead - Associate Director",
+    "company": "msd",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/az%C3%A8le-mathieu-a465804/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Kerrianne Clinton",
+    "designation": "Medical Lead - Vaccines Pipeline",
+    "company": "sanofi",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/kerrianneclinton/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Natasha Hansjee",
+    "designation": "Integrated Medical Engagement Catalyst",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Roche_Logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/natashahansjee/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Ufuk Balci",
+    "designation": "Head of Business Excellence",
+    "company": "gsk",
+    "company_link": "https://www.gsk.com/en-gb/",
+    "company_source": "alt_text",
+    "company_logo_filename": "gsk.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/ufukbalci/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  },
+  {
+    "speaker_name": "Maxime van Greunsven",
+    "designation": "Customer Experience & Innovation Lead",
+    "company": "msd",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/maxime-van-greunsven-18b07083/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00"
+  }
+]

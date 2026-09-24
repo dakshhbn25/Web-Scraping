@@ -1,0 +1,7 @@
+firecrawl-py
+python-dotenv
+beautifulsoup4
+lxml
+tavily-python
+peopledatalabs
+streamlit

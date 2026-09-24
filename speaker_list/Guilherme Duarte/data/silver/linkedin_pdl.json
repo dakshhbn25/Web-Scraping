@@ -1,0 +1,172 @@
+{
+  "record_id": "speaker-viennacx-016",
+  "speaker_name": "Guilherme Duarte",
+  "linkedin_url": "https://www.linkedin.com/in/duarte-guilherme/",
+  "likelihood": 9,
+  "full_name": "guilherme duarte",
+  "job_title": "senior data management & ai lead",
+  "industry": "pharmaceuticals",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "active directory",
+    "analytics",
+    "artificial intelligence",
+    "atendimento ao cliente",
+    "business intelligence",
+    "business ownership",
+    "change management",
+    "commercial management",
+    "customer engagement",
+    "customer insights",
+    "data analysis",
+    "data management",
+    "data modeling",
+    "digital strategy",
+    "estudos de casos",
+    "eventos ao vivo",
+    "google ads",
+    "google analytics",
+    "ios",
+    "itil",
+    "marketing analytics",
+    "melhoria de processos",
+    "microsoft office",
+    "microsoft power bi",
+    "microsoft windows",
+    "people management",
+    "product management",
+    "product owner",
+    "product road mapping",
+    "product strategy",
+    "project management",
+    "qlik sense",
+    "sap hr",
+    "scaled agile framework",
+    "scrum",
+    "social media marketing",
+    "sql",
+    "strategic improvement",
+    "team management",
+    "tecnologias cisco",
+    "trabalho em equipe",
+    "uml",
+    "web analytics"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior data management & ai lead",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "customer data & platforms manager",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-09",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "customer insights manager",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "business and analytics lead",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior digital marketing project analyst",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-08",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior information technology analyst",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "information technology assistant",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-05",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "information technology intern",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-10",
+      "end_date": "2011-05",
+      "is_primary": false
+    },
+    {
+      "title": "information technology intern",
+      "company": "grupo let | recursos humanos",
+      "company_industry": "human resources",
+      "start_date": "2009-05",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "information technology intern",
+      "company": "fiocruz",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-01",
+      "end_date": "2009-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "instituto infnet",
+      "majors": [
+        "business administration",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "fiap",
+      "majors": [],
+      "degrees": [
+        "bachelor of technology",
+        "bachelors"
+      ],
+      "start_date": "2008",
+      "end_date": "2012"
+    },
+    {
+      "school": "uniesp - união das instituições educacionais do estado de são paulo",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2012"
+    }
+  ]
+}

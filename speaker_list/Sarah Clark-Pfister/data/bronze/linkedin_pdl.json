@@ -1,0 +1,622 @@
+{
+  "record_id": "speaker-dubrovnik-061",
+  "speaker_name": "Sarah Clark-Pfister",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/sarah-clark-731a3718/",
+  "scraped_at": "2026-09-18T09:37:14.926471+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "qlIbYOfC5BQZ4IdlWwbg5Q_0000",
+    "full_name": "sarah clark",
+    "first_name": "sarah",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "clark",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/sarah-clark-731a3718",
+    "linkedin_username": "sarah-clark-731a3718",
+    "linkedin_id": "62283349",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of medical excellence and strategic scientific communication, rare disease",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "brand",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+    "job_company_name": "novo nordisk",
+    "job_company_website": "novonordisk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1923,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novo-nordisk",
+    "job_company_linkedin_id": "2227",
+    "job_company_facebook_url": "facebook.com/novonordisk",
+    "job_company_twitter_url": "twitter.com/novonordisk",
+    "job_company_location_name": "bagsværd, hovedstaden, denmark",
+    "job_company_location_locality": "bagsværd",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.75,12.45",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2880",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-13",
+    "job_last_verified": "2026-08-31",
+    "job_start_date": "2024-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2021-02-12",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "live music",
+      "sailing",
+      "squash",
+      "tennis"
+    ],
+    "skills": [
+      "clinical pharmacology",
+      "clinical research",
+      "coaching",
+      "community pharmacy",
+      "compounding",
+      "constructive feedback",
+      "diabetes",
+      "ethics",
+      "hematology",
+      "kol development",
+      "medical affairs",
+      "medication therapy management",
+      "medicine",
+      "oncology",
+      "patient counseling",
+      "pharmaceutical industry",
+      "pharmacists",
+      "pharmacology",
+      "pharmacovigilance",
+      "pharmacy",
+      "pharmacy automation",
+      "pharmacy benefit management",
+      "process improvement",
+      "regulatory affairs"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "australia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "head of medical excellence and strategic scientific communication, rare disease",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [],
+        "end_date": "2024-01",
+        "start_date": "2021-06",
+        "title": {
+          "name": "global head of medical affairs and operations",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2019-01",
+        "title": {
+          "name": "field medical strategy & execution lead, europe & canada",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2019-01",
+        "start_date": "2017-03",
+        "title": {
+          "name": "medical director, europe and canada",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2017-03",
+        "start_date": "2016-11",
+        "title": {
+          "name": "rare disease medical manager anz",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2016-11",
+        "start_date": "2014-09",
+        "title": {
+          "name": "rare disease medical liaison anz",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2014-09",
+        "start_date": "2012-07",
+        "title": {
+          "name": "medical science associate",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "north shore private hospital",
+          "size": "1001-5000",
+          "id": "1fA8Apq3qC1a40nngrB79QQyvWlq",
+          "founded": 1997,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "st leonards, new south wales, australia",
+            "locality": "st leonards",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2065",
+            "geo": "-33.82,151.19"
+          },
+          "linkedin_url": "linkedin.com/company/north-shore-private-hospital",
+          "linkedin_id": "7117513",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "northshoreprivate.com.au"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2009-01",
+        "title": {
+          "name": "pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "adore pharmacy",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2008-01",
+        "title": {
+          "name": "pharmacy assistant",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "my sailing coach",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2008-01",
+        "start_date": "2006-01",
+        "title": {
+          "name": "sailing coach",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of st.gallen",
+          "type": "post-secondary institution",
+          "id": "LDRlevUWy0pxUQAZrJB2UA_0000",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "linkedin_id": "166673",
+          "website": "unisg.ch",
+          "domain": "unisg.ch"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2018-01",
+        "end_date": "2020-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "unsw",
+          "type": "post-secondary institution",
+          "id": "59BKAfOUdVwR-FNgLLJgig_0000",
+          "location": {
+            "name": "unsw sydney, new south wales, australia",
+            "locality": "unsw sydney",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/unsw",
+          "facebook_url": "facebook.com/unsw",
+          "twitter_url": "twitter.com/unsw",
+          "linkedin_id": "6096",
+          "website": "unsw.edu.au",
+          "domain": "unsw.edu.au"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2014-01",
+        "end_date": "2016",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of sydney",
+          "type": "post-secondary institution",
+          "id": "VnGqlJVPLJhXROY2hR8kqQ_0000",
+          "location": {
+            "name": "the university of sydney, new south wales, australia",
+            "locality": "the university of sydney",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-sydney",
+          "facebook_url": "facebook.com/sydneyuni",
+          "twitter_url": "twitter.com/sydney_uni",
+          "linkedin_id": "166676",
+          "website": "sydney.edu.au",
+          "domain": "sydney.edu.au"
+        },
+        "degrees": [
+          "bachelor of pharmacy",
+          "bachelors"
+        ],
+        "start_date": "2005-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ascham school",
+          "type": "post-secondary institution",
+          "id": "6tVetFboHbQ2Use9F3vNrQ_0000",
+          "location": {
+            "name": "mosman, new south wales, australia",
+            "locality": "mosman",
+            "region": "new south wales",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/ascham-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1263221",
+          "website": "ascham.nsw.edu.au",
+          "domain": "ascham.nsw.edu.au"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "62283349",
+        "url": "linkedin.com/in/sarah-clark-731a3718",
+        "username": "sarah-clark-731a3718"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

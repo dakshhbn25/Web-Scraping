@@ -1,0 +1,14 @@
+{
+  "record_id": "speaker-dubrovnik-045",
+  "speaker_name": "Mutlu Gunenc",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/marketingdirector-/",
+  "scraped_at": "2026-09-21T10:21:45.556189+00:00",
+  "status": "failed",
+  "error": [
+    {
+      "url": "https://www.linkedin.com/in/marketingdirector-/",
+      "error": "Failed to fetch url"
+    }
+  ]
+}

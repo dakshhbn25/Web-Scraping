@@ -1,0 +1,795 @@
+{
+  "record_id": "speaker-viennacx-014",
+  "speaker_name": "Huw Jenkins",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/huw-jenkins-30640b4/",
+  "scraped_at": "2026-09-18T10:25:26.435971+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Hz5OXQP1YIVX2MuQ1kd8Pg_0000",
+    "full_name": "huw jenkins",
+    "first_name": "huw",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "j",
+    "last_name": "jenkins",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/huw-jenkins-30640b4",
+    "linkedin_username": "huw-jenkins-30640b4",
+    "linkedin_id": "12958710",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/hjenkins",
+    "twitter_username": "hjenkins",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director, global content strategy",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+    "job_company_name": "astellas pharma",
+    "job_company_website": "astellas.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2005,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astellaspharmainc",
+    "job_company_linkedin_id": "33408697",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "nihombashihoncho, tokio, japan",
+    "job_company_location_locality": "nihombashihoncho",
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokio",
+    "job_company_location_geo": "35.67,139.77",
+    "job_company_location_street_address": "2-5-1 nihonbashi-honcho",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "103-8411",
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2023-06-21",
+    "job_last_verified": "2026-06-12",
+    "job_start_date": "2023-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-12",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "apple",
+      "cinema and sport",
+      "mexican guitar",
+      "microsoft",
+      "spanish language",
+      "technology"
+    ],
+    "skills": [
+      "account management",
+      "active directory",
+      "advertising",
+      "agile methodologies",
+      "agile project management",
+      "apache",
+      "approval process",
+      "artificial intelligence",
+      "business workflows",
+      "change management",
+      "consulting",
+      "content strategy",
+      "cross functional team leadership",
+      "digital asset management",
+      "digital marketing",
+      "digital media",
+      "e commerce",
+      "firewalls",
+      "integrated marketing",
+      "integration",
+      "leadership",
+      "management",
+      "marketing",
+      "marketing communications",
+      "media production",
+      "modular content",
+      "mysql",
+      "network security",
+      "networking",
+      "open source",
+      "operating systems",
+      "program management",
+      "project delivery",
+      "project management",
+      "regulatory approvals",
+      "servers",
+      "strategy",
+      "team management",
+      "translation",
+      "unix",
+      "web development",
+      "windows server",
+      "windows server 2008",
+      "x functional strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [
+          "monmouth, wales, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2023-05",
+        "title": {
+          "name": "director, global content strategy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [
+          "monmouthshire, wales, united kingdom"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2022-04",
+        "title": {
+          "name": "director, modular content",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "buntingford, england, united kingdom"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2019-03",
+        "title": {
+          "name": "director, commercial content strategy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "buntingford, england, united kingdom"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2016-09",
+        "title": {
+          "name": "senior manager, commercial content strategy",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "pleasanton, california, united states",
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2015-09",
+        "title": {
+          "name": "senior solutions consultant",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zinc ahead ltd",
+          "size": "51-200",
+          "id": "tLGAXv4bw4tlZ6u83MIuhAx4na8G",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": null,
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.73,-1.25"
+          },
+          "linkedin_url": "linkedin.com/company/zinc-ahead-ltd",
+          "linkedin_id": "519117",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zinctweetz",
+          "website": "zinc-ahead.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2015-06",
+        "title": {
+          "name": "industry solutions director",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hogarth",
+          "size": "5001-10000",
+          "id": "5MJVdVYKz767fE9wDq8YMQ8eZzpt",
+          "founded": 2008,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 brewhouse yard",
+            "address_line_2": null,
+            "postal_code": "ec1v 4dg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/hogarth",
+          "linkedin_id": "204445",
+          "facebook_url": "facebook.com/hogarthww",
+          "twitter_url": "twitter.com/hogarthww",
+          "website": "hogarth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-06",
+        "start_date": "2013-11",
+        "title": {
+          "name": "account director (emea & apac)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hogarth",
+          "size": "5001-10000",
+          "id": "5MJVdVYKz767fE9wDq8YMQ8eZzpt",
+          "founded": 2008,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 brewhouse yard",
+            "address_line_2": null,
+            "postal_code": "ec1v 4dg",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/hogarth",
+          "linkedin_id": "204445",
+          "facebook_url": "facebook.com/hogarthww",
+          "twitter_url": "twitter.com/hogarthww",
+          "website": "hogarth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2013-11",
+        "start_date": "2011-11",
+        "title": {
+          "name": "product owner",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pearlfisher",
+          "size": "51-200",
+          "id": "6ZDfrfgEvxyykBzAuCQdtgaDymYz",
+          "founded": 1992,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "17 hanbury street",
+            "address_line_2": null,
+            "postal_code": "e1 6qr",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/pearlfisher",
+          "linkedin_id": "39378",
+          "facebook_url": "facebook.com/pearlfisherlive",
+          "twitter_url": "twitter.com/pearlfisherlive",
+          "website": "pearlfisher.com"
+        },
+        "location_names": [],
+        "end_date": "2011-11",
+        "start_date": "2005-01",
+        "title": {
+          "name": "head of technology",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "buildhollywood",
+          "size": "51-200",
+          "id": "nZPUIi5g7DNxI3L7EvrUZgWrTzJO",
+          "founded": 1993,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "15 duncan terrace",
+            "address_line_2": null,
+            "postal_code": "n1 8bz",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/build-hollywood-ltd",
+          "linkedin_id": "4384090",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "buildhollywood.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2004-12",
+        "start_date": "2001-02",
+        "title": {
+          "name": "director of technology",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "templeton-smith",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2001-04",
+        "start_date": "2000-03",
+        "title": {
+          "name": "technology consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gut records",
+          "size": "11-50",
+          "id": "WBBVCDOwLQUVPBAg7sBEmAkufDZh",
+          "founded": null,
+          "industry": "music",
+          "industry_v2": "musicians",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/gut-records",
+          "linkedin_id": "63601",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2000-02",
+        "start_date": "1999-01",
+        "title": {
+          "name": "new media marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rail manche finance",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1998-12",
+        "start_date": "1998-01",
+        "title": {
+          "name": "systems administrator",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "durham university",
+          "type": "post-secondary institution",
+          "id": "mb89FT1L9n1kAFGhrzIlBQ_0000",
+          "location": {
+            "name": "durham, england, united kingdom",
+            "locality": "durham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/durham-university",
+          "facebook_url": "facebook.com/durhamuniversity",
+          "twitter_url": "twitter.com/durham_uni",
+          "linkedin_id": "10477",
+          "website": "durham.ac.uk",
+          "domain": "durham.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1996",
+        "end_date": "1998",
+        "majors": [
+          "business",
+          "finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "new college durham",
+          "type": "post-secondary institution",
+          "id": "CHWHniKrqpqRzitpqEWXxQ_0000",
+          "location": {
+            "name": "durham, england, united kingdom",
+            "locality": "durham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/new-college-durham",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1308012",
+          "website": "newcollegedurham.ac.uk",
+          "domain": "newcollegedurham.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1996",
+        "end_date": "1998",
+        "majors": [
+          "business finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "durham university",
+          "type": "post-secondary institution",
+          "id": "mb89FT1L9n1kAFGhrzIlBQ_0000",
+          "location": {
+            "name": "durham, england, united kingdom",
+            "locality": "durham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/durham-university",
+          "facebook_url": "facebook.com/durhamuniversity",
+          "twitter_url": "twitter.com/durham_uni",
+          "linkedin_id": "10477",
+          "website": "durham.ac.uk",
+          "domain": "durham.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "1998",
+        "majors": [
+          "business finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "pontypool & gwent tertiary college",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1994-01",
+        "end_date": "1996",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "monmouth comprehensive school",
+          "type": "secondary school",
+          "id": "BWaGwEAYT0RPwlahcdZ7OQ_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/monmouth-comprehensive",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "70585997",
+          "website": "monmouthcomprehensive.org.uk",
+          "domain": "monmouthcomprehensive.org.uk"
+        },
+        "degrees": [],
+        "start_date": "1988-01",
+        "end_date": "1994",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "12958710",
+        "url": "linkedin.com/in/huw-jenkins-30640b4",
+        "username": "huw-jenkins-30640b4"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/hjenkins",
+        "username": "hjenkins"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

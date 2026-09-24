@@ -1,0 +1,247 @@
+{
+  "record_id": "speaker-dubrovnik-032",
+  "speaker_name": "Shaima Abid",
+  "designation": "Director, Business Planning & Delivery - US Oncology",
+  "company": "Astra Zeneca logo",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/shaimaabid/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "AstraZeneca",
+  "linkedin_location": "Oakville, Ontario, Canada, CA",
+  "linkedin_connections": "500",
+  "linkedin_followers": "1958",
+  "linkedin_about": "I’m a commercial and customer engagement leader with 15+ years in pharma and medtech…",
+  "linkedin_about_en": null,
+  "linkedin_languages": "**English** (Native or bilingual proficiency), **French** (Limited working proficiency)",
+  "linkedin_languages_en": null,
+  "linkedin_certifications": "Salesforce Marketing Cloud Email Specialist (Salesforce); Certified Agile Project Manager (Project Management Association of Canada); PMP (Project Management Institute)",
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": "**Dean's List, Faculty of Engineering and Architectural Science**\nRyerson University • January",
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Nicola Neilson",
+      "company": "Cronos Group",
+      "profile_url": "https://ca.linkedin.com/in/nicola-neilson-650602149"
+    },
+    {
+      "name": "Devahasan Krishnakumar",
+      "company": "Resmed",
+      "profile_url": "https://ca.linkedin.com/in/devahasankrishnakumar"
+    },
+    {
+      "name": "Mona Smith",
+      "company": "Sanofi",
+      "profile_url": "https://www.linkedin.com/in/mona-a-smith"
+    },
+    {
+      "name": "Margarita Todorova, Ph.D.",
+      "company": "McGill Research + Innovation",
+      "profile_url": "https://ca.linkedin.com/in/margaritatodorova"
+    },
+    {
+      "name": "Rahul Rani, MBA, PMP",
+      "company": "GSK",
+      "profile_url": "https://ca.linkedin.com/in/rahulrani"
+    },
+    {
+      "name": "Georges El-Kadissi, B.Sc., MBA",
+      "company": "Bristol Myers Squibb",
+      "profile_url": "https://ca.linkedin.com/in/georgeskadissi"
+    },
+    {
+      "name": "Paul Lokko, MBA",
+      "company": "Sunnybrook",
+      "profile_url": "https://ca.linkedin.com/in/plokko"
+    },
+    {
+      "name": "Momir Bosiljcic",
+      "company": "Radiant Biotherapeutics",
+      "profile_url": "https://ca.linkedin.com/in/momirbosiljcic"
+    },
+    {
+      "name": "Aram Tachejian",
+      "company": "Parexel",
+      "profile_url": "https://ca.linkedin.com/in/aram-tachejian-9bab08b2"
+    },
+    {
+      "name": "Elyse Vezina",
+      "company": "TACT",
+      "profile_url": "https://ca.linkedin.com/in/elysevezina"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "astrazeneca",
+  "linkedin_current_company_website": "astrazeneca.com",
+  "linkedin_skills": [
+    "biomedical engineering",
+    "biotechnology",
+    "change management",
+    "clinical research",
+    "commercial operations",
+    "customer engagement",
+    "design control",
+    "digital and business transformation",
+    "digital marketing",
+    "digital strategy",
+    "leadership",
+    "marketing operations",
+    "matlab",
+    "medical devices",
+    "omni channel engagement",
+    "omni channel marketing",
+    "operational execution",
+    "pmp",
+    "project management",
+    "project planning",
+    "real world evidence",
+    "return on investment",
+    "rf engineering",
+    "salesforce marketing cloud",
+    "sdlc",
+    "solidworks",
+    "strategic vision",
+    "strategy execution",
+    "surgical navigation",
+    "team leadership",
+    "technology integration",
+    "urodynamics"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "director, business planning & delivery - us oncology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, global commercial operations (europe & canada region)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": "2025-05",
+      "is_primary": false
+    },
+    {
+      "title": "omnichannel program manager (global commercial operations)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "customer-centric engagement lead",
+      "company": "emd serono, inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "customer excellence and business operations",
+      "company": "takeda canada inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "project manager and launch lead (ibd)",
+      "company": "takeda canada inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016",
+      "end_date": "2018",
+      "is_primary": false
+    },
+    {
+      "title": "project manager, medical device launch",
+      "company": "laborie",
+      "company_industry": "medical devices",
+      "start_date": "2014",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "systems engineer",
+      "company": "laborie",
+      "company_industry": "medical devices",
+      "start_date": "2013-06",
+      "end_date": "2014-06",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "avado",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-09",
+      "end_date": "2023-04"
+    },
+    {
+      "school": "squared online",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-09",
+      "end_date": "2023-04"
+    },
+    {
+      "school": "university of toronto",
+      "majors": [
+        "project management"
+      ],
+      "degrees": [],
+      "start_date": "2018-06",
+      "end_date": "2018-07"
+    },
+    {
+      "school": "ryerson university",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": "2013"
+    },
+    {
+      "school": "toronto metropolitan university",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of toronto",
+      "majors": [
+        "biochemistry"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

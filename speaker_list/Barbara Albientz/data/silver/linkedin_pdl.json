@@ -1,0 +1,282 @@
+{
+  "record_id": "speaker-dubrovnik-023",
+  "speaker_name": "Barbara Albientz",
+  "linkedin_url": "https://www.linkedin.com/in/barbara-albientz-business-leader/",
+  "likelihood": 9,
+  "full_name": "barbara albientz",
+  "job_title": "co-founder & co-chief executive officer",
+  "industry": "pharmaceuticals",
+  "current_company": "walue pharma",
+  "current_company_website": "walue-pharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "agency relationship management",
+    "agile methodologies",
+    "analytical skills",
+    "asset life cycle management",
+    "board governance",
+    "brand marketing",
+    "business development and licensing",
+    "business innovation",
+    "business resilience",
+    "business strategy",
+    "business transformation",
+    "capital allocation",
+    "change management",
+    "clinical development",
+    "commercial management",
+    "commex",
+    "communications planning",
+    "corporate strategy governance",
+    "creative content creation",
+    "cross functional team leadership",
+    "decision making",
+    "dermatology",
+    "digital",
+    "digital and ai",
+    "digital and ai",
+    "digital marketing",
+    "digital strategy",
+    "digital transformation",
+    "divestment",
+    "divestment strategy",
+    "due diligence",
+    "entrepreneurship",
+    "gastroenterology",
+    "general management",
+    "global marketing",
+    "go to market strategy",
+    "hospital sales",
+    "infectious diseases",
+    "innovation development",
+    "innovation management",
+    "international business development",
+    "international business strategy",
+    "leadership",
+    "life cycle management",
+    "life sciences",
+    "lifesciences",
+    "market access",
+    "marketing",
+    "marketing communications planning",
+    "marketing strategy",
+    "medical devices",
+    "medical education",
+    "mergers and acquisitions",
+    "molecular and cellular biology",
+    "multi channel marketing",
+    "neurology",
+    "ommnichannel customer engagement",
+    "omnichannel strategy",
+    "oncology",
+    "operating models",
+    "organizational design",
+    "osteoporosis",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "portfolio leadership",
+    "portfolio management",
+    "portfolio strategy",
+    "problem solving",
+    "product innovation",
+    "product launch",
+    "product launch planning",
+    "public relations",
+    "research skills",
+    "sales",
+    "sales and marketing",
+    "sales effectiveness",
+    "senior stakeholder management",
+    "strategic communications",
+    "strategic leadership",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "team leadership",
+    "value creation"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-founder & co-chief executive officer",
+      "company": "walue pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief commercial officer (cco) & board member",
+      "company": "helvion pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": "2026-04",
+      "is_primary": false
+    },
+    {
+      "title": "head strategy and business innovation",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-09",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "global functions transformation, business lead",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-06",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "global head multichannel customer engagement",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-08",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "multi-therapeutic area brand head ns & id franchise digital lead",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-07",
+      "end_date": "2017-07",
+      "is_primary": false
+    },
+    {
+      "title": "global brand director women's health, bone, neuroscience and infectious disease",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-04",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "global brands & marketing leadership",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2000-05",
+      "end_date": "2011-03",
+      "is_primary": false
+    },
+    {
+      "title": "international sales & training",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "1996",
+      "end_date": "2000",
+      "is_primary": false
+    },
+    {
+      "title": "research associate",
+      "company": "sandoz",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1992",
+      "end_date": "1996",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imd",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2024-02",
+      "end_date": "2024"
+    },
+    {
+      "school": "harward finance",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2014",
+      "end_date": null
+    },
+    {
+      "school": "harvard business school",
+      "majors": [
+        "finance"
+      ],
+      "degrees": [],
+      "start_date": "2012",
+      "end_date": "2012"
+    },
+    {
+      "school": "insead",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2010",
+      "end_date": null
+    },
+    {
+      "school": "insead",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2006-09",
+      "end_date": "2010"
+    },
+    {
+      "school": "goethe schule buenos aires",
+      "majors": [
+        "business",
+        "business administration"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1999",
+      "end_date": "2000"
+    },
+    {
+      "school": "graduate school of business administration zurich",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1999",
+      "end_date": "2000"
+    },
+    {
+      "school": "biozentrum, university of basel",
+      "majors": [
+        "molecular biology"
+      ],
+      "degrees": [],
+      "start_date": "1992",
+      "end_date": "1992"
+    },
+    {
+      "school": "stanford university graduate school of business",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2008"
+    },
+    {
+      "school": "harvard business school",
+      "majors": [
+        "finance"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "record_id": "speaker-viennacx-016",
+  "speaker_name": "Guilherme Duarte",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/duarte-guilherme/",
+  "scraped_at": "2026-09-18T10:25:30.741095+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "m56cSqv6dVtBwVQcGORClA_0000",
+    "full_name": "guilherme duarte",
+    "first_name": "guilherme",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "duarte",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/duarte-guilherme",
+    "linkedin_username": "duarte-guilherme",
+    "linkedin_id": "448854866",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior data management & ai lead",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "senior",
+      "manager"
+    ],
+    "job_company_id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+    "job_company_name": "novo nordisk",
+    "job_company_website": "novonordisk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1923,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novo-nordisk",
+    "job_company_linkedin_id": "2227",
+    "job_company_facebook_url": "facebook.com/novonordisk",
+    "job_company_twitter_url": "twitter.com/novonordisk",
+    "job_company_location_name": "bagsværd, hovedstaden, denmark",
+    "job_company_location_locality": "bagsværd",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.75,12.45",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2880",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-17",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2025-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "denmark",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "active directory",
+      "analytics",
+      "artificial intelligence",
+      "atendimento ao cliente",
+      "business intelligence",
+      "business ownership",
+      "change management",
+      "commercial management",
+      "customer engagement",
+      "customer insights",
+      "data analysis",
+      "data management",
+      "data modeling",
+      "digital strategy",
+      "estudos de casos",
+      "eventos ao vivo",
+      "google ads",
+      "google analytics",
+      "ios",
+      "itil",
+      "marketing analytics",
+      "melhoria de processos",
+      "microsoft office",
+      "microsoft power bi",
+      "microsoft windows",
+      "people management",
+      "product management",
+      "product owner",
+      "product road mapping",
+      "product strategy",
+      "project management",
+      "qlik sense",
+      "sap hr",
+      "scaled agile framework",
+      "scrum",
+      "social media marketing",
+      "sql",
+      "strategic improvement",
+      "team management",
+      "tecnologias cisco",
+      "trabalho em equipe",
+      "uml",
+      "web analytics"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "denmark",
+      "brazil"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": null,
+        "start_date": "2025-07",
+        "title": {
+          "name": "senior data management & ai lead",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2025-07",
+        "start_date": "2024-09",
+        "title": {
+          "name": "customer data & platforms manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2024-10",
+        "start_date": "2023-03",
+        "title": {
+          "name": "customer insights manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2019-09",
+        "title": {
+          "name": "business and analytics lead",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [
+          "rio de janeiro, rio de janeiro, brazil"
+        ],
+        "end_date": "2019-09",
+        "start_date": "2016-08",
+        "title": {
+          "name": "senior digital marketing project analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [
+          "rio de janeiro, rio de janeiro, brazil"
+        ],
+        "end_date": "2016",
+        "start_date": "2013",
+        "title": {
+          "name": "senior information technology analyst",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [],
+        "end_date": "2013",
+        "start_date": "2011-05",
+        "title": {
+          "name": "information technology assistant",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [],
+        "end_date": "2011-05",
+        "start_date": "2009-10",
+        "title": {
+          "name": "information technology intern",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grupo let | recursos humanos",
+          "size": "11-50",
+          "id": "B3C9xgkhPUgMGxU9Dqaz7gTKgZxm",
+          "founded": null,
+          "industry": "human resources",
+          "industry_v2": "human resources services",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": "4200 avenue das américas",
+            "address_line_2": null,
+            "postal_code": "22640102",
+            "geo": "-22.91,-43.26"
+          },
+          "linkedin_url": "linkedin.com/company/grupo-let",
+          "linkedin_id": "1096396",
+          "facebook_url": "facebook.com/letrecursoshumanos",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2009-09",
+        "start_date": "2009-05",
+        "title": {
+          "name": "information technology intern",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fiocruz",
+          "size": "5001-10000",
+          "id": "t9BW4pehJJiLG3jFf5K4uwvSN85C",
+          "founded": 1900,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": "4365 avenue brasil",
+            "address_line_2": null,
+            "postal_code": "21040-900",
+            "geo": "-22.91,-43.26"
+          },
+          "linkedin_url": "linkedin.com/company/fiocruz",
+          "linkedin_id": "34722",
+          "facebook_url": "facebook.com/oficialfiocruz",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "rio de janeiro, rio de janeiro, brazil"
+        ],
+        "end_date": "2009-05",
+        "start_date": "2008-01",
+        "title": {
+          "name": "information technology intern",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "instituto infnet",
+          "type": "post-secondary institution",
+          "id": "KSGVPVYoMIrsNKTVbY9cCw_0000",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/instituto-infnet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "208733",
+          "website": "infnet.edu.br",
+          "domain": "infnet.edu.br"
+        },
+        "degrees": [],
+        "start_date": "2015-01",
+        "end_date": "2016",
+        "majors": [
+          "business administration",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "fiap",
+          "type": "post-secondary institution",
+          "id": "7MDOAMTyBmQM-UjcPO10kA_0000",
+          "location": {
+            "name": "são paulo, são paulo, brazil",
+            "locality": "são paulo",
+            "region": "são paulo",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/fiap",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "30398",
+          "website": "fiap.com.br",
+          "domain": "fiap.com.br"
+        },
+        "degrees": [
+          "bachelor of technology",
+          "bachelors"
+        ],
+        "start_date": "2008",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "uniesp - união das instituições educacionais do estado de são paulo",
+          "type": "secondary school",
+          "id": "VqeI10Hn--UB0JJzkd2wBQ_0000",
+          "location": {
+            "name": "ibiporã, paraná, brazil",
+            "locality": "ibiporã",
+            "region": "paraná",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/uniesp1",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11758243",
+          "website": "uniesp.edu.br",
+          "domain": "uniesp.edu.br"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "448854866",
+        "url": "linkedin.com/in/duarte-guilherme",
+        "username": "duarte-guilherme"
+      },
+      {
+        "network": "linkedin",
+        "id": "448854866",
+        "url": "linkedin.com/in/guilherme-duarte-b823a1106",
+        "username": "guilherme-duarte-b823a1106"
+      },
+      {
+        "network": "linkedin",
+        "id": "448854866",
+        "url": "linkedin.com/in/guilhermeduarteanalytics",
+        "username": "guilhermeduarteanalytics"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

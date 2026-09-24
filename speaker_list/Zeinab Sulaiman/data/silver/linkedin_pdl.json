@@ -1,0 +1,158 @@
+{
+  "record_id": "speaker-dubrovnik-097",
+  "speaker_name": "Zeinab Sulaiman",
+  "linkedin_url": "https://www.linkedin.com/in/zeinab-sulaiman-6030a738/",
+  "likelihood": 9,
+  "full_name": "zeinab sulaiman",
+  "job_title": "practice leader, medical affairs centre of excellence",
+  "industry": "biotechnology",
+  "current_company": "sorcero",
+  "current_company_website": "sorcero.com",
+  "current_company_industry": "computer software",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "ascribe system manager",
+    "change management",
+    "clinical pharmacy",
+    "clinical research",
+    "direct line management",
+    "healthcare",
+    "healthcare information technology",
+    "healthcare management",
+    "hospital pharmacy",
+    "hospitals",
+    "identifying new opportunities",
+    "key performance indicators",
+    "leadership",
+    "line management",
+    "management",
+    "medical affairs",
+    "nhs contracting and supplies",
+    "patient safety",
+    "pharmaceutical industry",
+    "pharmacists",
+    "pharmacy",
+    "procurement and logistics",
+    "strategic communications",
+    "strategy",
+    "team leadership",
+    "workshops"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "practice leader, medical affairs centre of excellence",
+      "company": "sorcero",
+      "company_industry": "computer software",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of medical transformation and innovation",
+      "company": "kite pharma",
+      "company_industry": "biotechnology",
+      "start_date": "2022-04",
+      "end_date": "2024-01",
+      "is_primary": false
+    },
+    {
+      "title": "director, global medical affairs operations business engagement and kpi",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2020-06",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, process and operations",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2019-02",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, medical affairs operations emeac",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2018-10",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs manager, medical affairs operations",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2017-07",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "associate manager, medical affairs operations",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2016-03",
+      "end_date": "2017-07",
+      "is_primary": false
+    },
+    {
+      "title": "lead pharmacist, procurement and distribution",
+      "company": "moorfields eye hospital, london",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-07",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "project support pharmacist",
+      "company": "moorfields eye hospital, london",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-08",
+      "end_date": "2014-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "business training",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018",
+      "end_date": "2020"
+    },
+    {
+      "school": "business training",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2014",
+      "end_date": "2016"
+    },
+    {
+      "school": "king's college london",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2007",
+      "end_date": "2011"
+    },
+    {
+      "school": "duffer miller college",
+      "majors": [
+        "biology",
+        "chemistry",
+        "mathematics",
+        "physics"
+      ],
+      "degrees": [],
+      "start_date": "2005",
+      "end_date": "2007"
+    }
+  ]
+}

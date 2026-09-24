@@ -1,0 +1,154 @@
+{
+  "record_id": "speaker-medical-010",
+  "speaker_name": "Joan van der Horn",
+  "linkedin_url": "https://www.linkedin.com/in/joan-van-der-horn-9994279/",
+  "likelihood": 9,
+  "full_name": "joan van der horn",
+  "job_title": "medical director - portfolio management",
+  "industry": "pharmaceuticals",
+  "current_company": "viatris",
+  "current_company_website": "viatris.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biopharmaceuticals",
+    "biosimilars",
+    "cardiology",
+    "coaching",
+    "diabetes",
+    "endocrinology",
+    "gcp",
+    "hematology",
+    "infectious diseases",
+    "lifesciences",
+    "medical affairs",
+    "medical writing",
+    "oncology",
+    "osteoporosis",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "sales effectiveness",
+    "therapeutic areas",
+    "training"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "medical director - portfolio management",
+      "company": "viatris",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior medical advisor - europe west alliance markets",
+      "company": "viatris",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor hematology",
+      "company": "the janssen pharmaceutical companies of johnson & johnson",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-11",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical scientific liaison hematology",
+      "company": "the janssen pharmaceutical companies of johnson & johnson",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "medical scientific liaison infectious diseases",
+      "company": "the janssen pharmaceutical companies of johnson & johnson",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-10",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs (interim)",
+      "company": "apex systems",
+      "company_industry": "information technology and services",
+      "start_date": "2013-11",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-04",
+      "end_date": "2013-10",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs",
+      "company": "ad interim",
+      "company_industry": "management consulting",
+      "start_date": "2009-10",
+      "end_date": "2010-11",
+      "is_primary": false
+    },
+    {
+      "title": "training officer",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-07",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "traveling",
+      "company": "southeast asia",
+      "company_industry": null,
+      "start_date": "2007-01",
+      "end_date": "2007-04",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative / fieldcoach",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-03",
+      "end_date": "2006-12",
+      "is_primary": false
+    },
+    {
+      "title": "research internship",
+      "company": "tno",
+      "company_industry": "research",
+      "start_date": "2002-08",
+      "end_date": "2002-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "vrije universiteit amsterdam (vu amsterdam)",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1998-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "amersfoort international school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1998"
+    }
+  ]
+}

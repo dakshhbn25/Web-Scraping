@@ -1,0 +1,532 @@
+{
+  "record_id": "speaker-viennacx-065",
+  "speaker_name": "Ewa Nuckey",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/ewa-nuckey-a21a64/",
+  "scraped_at": "2026-09-21T11:38:49.875532+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PGWrw3Sm9d8FckBwL2y5Cg_0000",
+    "full_name": "ewa nuckey",
+    "first_name": "ewa",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "n",
+    "last_name": "nuckey",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/ewa-nuckey-a21a64",
+    "linkedin_username": "ewa-nuckey-a21a64",
+    "linkedin_id": "2621113",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/ewaczarlie",
+    "twitter_username": "ewaczarlie",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "marketing and advertising",
+    "job_title": "senior director commecial and cx strategy",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "afF0wFquCs1XfYtVHr4BfwcT3qRr",
+    "job_company_name": "publicis health",
+    "job_company_website": "publicishealth.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2003,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "advertising services",
+    "job_company_linkedin_url": "linkedin.com/company/publicishealth",
+    "job_company_linkedin_id": "798828",
+    "job_company_facebook_url": "facebook.com/publicis-healthcare-communications-group-152161064830002",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "new york, new york, united states",
+    "job_company_location_locality": "new york",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.71,-73.99",
+    "job_company_location_street_address": "375 hudson street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10014",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-09-01",
+    "job_last_verified": "2026-07-27",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-27",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "advertising",
+      "brand development",
+      "commercial planning",
+      "creative strategy",
+      "crm",
+      "customer experience",
+      "customer relationship management",
+      "digital marketing",
+      "digital strategy",
+      "direct marketing",
+      "director level",
+      "experiential",
+      "fast moving consumer goods",
+      "fmcg",
+      "integrated marketing",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "multi channel marketing",
+      "relationship marketing",
+      "retail",
+      "shopper marketing",
+      "sponsorship"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "publicis health",
+          "size": "1001-5000",
+          "id": "afF0wFquCs1XfYtVHr4BfwcT3qRr",
+          "founded": 2003,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "375 hudson street",
+            "address_line_2": null,
+            "postal_code": "10014",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/publicishealth",
+          "linkedin_id": "798828",
+          "facebook_url": "facebook.com/publicis-healthcare-communications-group-152161064830002",
+          "twitter_url": null,
+          "website": "publicishealth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "senior director commecial and cx strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "digitas health",
+          "size": "501-1000",
+          "id": "RYLVsxSnJYuGKLePBTBUiQqSiLme",
+          "founded": 1990,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 penn square east",
+            "address_line_2": null,
+            "postal_code": "19107",
+            "geo": "39.98,-75.19"
+          },
+          "linkedin_url": "linkedin.com/company/digitas-health",
+          "linkedin_id": "8790",
+          "facebook_url": "facebook.com/digitashealth",
+          "twitter_url": "twitter.com/digitas_health",
+          "website": "digitashealth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "senior director commecial and cx strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vml",
+          "size": "10001+",
+          "id": "we4A7eIPKsVH9DC9CKnkYQbYhbwr",
+          "founded": 1992,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "kansas city, missouri, united states",
+            "locality": "kansas city",
+            "region": "missouri",
+            "metro": "kansas city, missouri",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "39.3,-94.70"
+          },
+          "linkedin_url": "linkedin.com/company/vml",
+          "linkedin_id": "12631336",
+          "facebook_url": "facebook.com/vml",
+          "twitter_url": "twitter.com/vml",
+          "website": "vml.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2021-01",
+        "title": {
+          "name": "strategy director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wpp",
+          "size": "10001+",
+          "id": "ChNWmYnFAuVbfoe1mtN1tA4vXeAQ",
+          "founded": 1985,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "18 upper ground",
+            "address_line_2": null,
+            "postal_code": "se1 9gl",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/wpp",
+          "linkedin_id": "8236",
+          "facebook_url": "facebook.com/wpp",
+          "twitter_url": "twitter.com/wpp",
+          "website": "wpp.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2019-06",
+        "title": {
+          "name": "global strategic lead respiratory",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "geometry global",
+          "size": "1001-5000",
+          "id": "tL4yF91C0gRSrBJjIRRtpwAGKPtN",
+          "founded": 2013,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "636 11th avenue",
+            "address_line_2": null,
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/geometry-global",
+          "linkedin_id": "3352874",
+          "facebook_url": "facebook.com/geometry",
+          "twitter_url": "twitter.com/geometryglobal",
+          "website": "geometry.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2017-01",
+        "title": {
+          "name": "planning director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "citizen relations",
+          "size": "51-200",
+          "id": "RpKrbdCsYZSwNn4kANtqQgTBy2nO",
+          "founded": 2011,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "250 hudson street",
+            "address_line_2": "2nd floor",
+            "postal_code": "10013",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/citizen-relations-international",
+          "linkedin_id": "2368269",
+          "facebook_url": "facebook.com/citizenrelations",
+          "twitter_url": "twitter.com/citizencanada",
+          "website": "citizenrelations.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-10",
+        "start_date": "2016-07",
+        "title": {
+          "name": "director strategic planning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2017-01",
+        "start_date": "2016-06",
+        "title": {
+          "name": "freelance strategic planner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "momentum worldwide",
+          "size": "1001-5000",
+          "id": "p1pG2PkRwQhYJaenQioVFA63INKB",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 vesey street",
+            "address_line_2": null,
+            "postal_code": "10282",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/momentumworldwide",
+          "linkedin_id": "2593",
+          "facebook_url": "facebook.com/momentumworldwide",
+          "twitter_url": null,
+          "website": "momentumww.com"
+        },
+        "location_names": [],
+        "end_date": "2016-06",
+        "start_date": "2015-04",
+        "title": {
+          "name": "director strategy & insight",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zak media group",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2015-04",
+        "start_date": "2014-03",
+        "title": {
+          "name": "planning director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nuckey precision",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "hertford, england, united kingdom"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2012-08",
+        "title": {
+          "name": "company director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "monash university",
+          "type": "post-secondary institution",
+          "id": "rHHgB5eZpXzGYWMSy7uvhA_0000",
+          "location": {
+            "name": "monash university, victoria, australia",
+            "locality": "monash university",
+            "region": "victoria",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/monash-university",
+          "facebook_url": "facebook.com/monash.university",
+          "twitter_url": "twitter.com/monashuni",
+          "linkedin_id": "5663",
+          "website": "monash.edu",
+          "domain": "monash.edu"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1994",
+        "end_date": "1997",
+        "majors": [
+          "business",
+          "business marketing",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "2621113",
+        "url": "linkedin.com/in/ewa-nuckey-a21a64",
+        "username": "ewa-nuckey-a21a64"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/ewaczarlie",
+        "username": "ewaczarlie"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

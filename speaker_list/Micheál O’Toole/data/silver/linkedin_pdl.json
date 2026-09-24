@@ -1,0 +1,186 @@
+{
+  "record_id": "speaker-viennacx-010",
+  "speaker_name": "Micheál O’Toole",
+  "linkedin_url": "https://www.linkedin.com/in/miche%C3%A1l-o-toole-a0136413/",
+  "likelihood": 9,
+  "full_name": "micheál o'toole",
+  "job_title": "senior director, global sales force excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "astrazeneca",
+  "current_company_website": "astrazeneca.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "ireland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business planning",
+    "diabetes",
+    "diabetes management",
+    "digital marketing",
+    "email marketing",
+    "management",
+    "market access",
+    "market analysis",
+    "market planning",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "online marketing",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "product marketing",
+    "psychiatry",
+    "sales effectiveness",
+    "strategic planning"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, global sales force excellence",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "business unit director - respiratory & immunology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-08",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "global launch director-ckd & heart failure",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "commercial lead, cardio-renal-metabolic, western & southern europe",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-06",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "national sales manager - diabetes",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "sales and marketing manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-06",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-01",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager for diabetes",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-12",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager and digital lead",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-01",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager for cns / mental health",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-05",
+      "end_date": "2010-01",
+      "is_primary": false
+    },
+    {
+      "title": "hospital specialist",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-08",
+      "end_date": "2009-05",
+      "is_primary": false
+    },
+    {
+      "title": "primary care medical representative",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-08",
+      "end_date": "2006-08",
+      "is_primary": false
+    },
+    {
+      "title": "marketing executive",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-02",
+      "end_date": "2004-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "dublin city university",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "dublin business school",
+      "majors": [
+        "project management"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "digital marketing institute",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012-12"
+    },
+    {
+      "school": "trinity college dublin",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2001"
+    }
+  ]
+}

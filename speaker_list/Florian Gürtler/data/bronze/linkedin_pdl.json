@@ -1,0 +1,399 @@
+{
+  "record_id": "speaker-dubrovnik-104",
+  "speaker_name": "Florian Gürtler",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/florianguertler2023/",
+  "scraped_at": "2026-09-18T10:23:18.188140+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "2ewj02JAB1DB2oJGuWpF9g_0000",
+    "full_name": "florian gürtler",
+    "first_name": "florian",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gürtler",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/florianguertler2023",
+    "linkedin_username": "florianguertler2023",
+    "linkedin_id": "4894499",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "key account director",
+    "job_title_role": "sales",
+    "job_title_sub_role": "account_executive",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+    "job_company_name": "axtria - ingenious insights",
+    "job_company_website": "axtria.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2010,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/axtria",
+    "job_company_linkedin_id": "789643",
+    "job_company_facebook_url": "facebook.com/axtriainc",
+    "job_company_twitter_url": "twitter.com/axtriaconnect",
+    "job_company_location_name": "berkeley heights, new jersey, united states",
+    "job_company_location_locality": "berkeley heights",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.67,-74.42",
+    "job_company_location_street_address": "300 connell drive",
+    "job_company_location_address_line_2": "suite 1300 5th floor",
+    "job_company_location_postal_code": "07922",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2023-11-01",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2023-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2024-06-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "business development",
+      "cold calling",
+      "consultative selling",
+      "contract negotiation",
+      "escalations management",
+      "key account development",
+      "key account relationship building",
+      "matrix management",
+      "networking",
+      "relationship building",
+      "sales",
+      "solution selling"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "axtria - ingenious insights",
+          "size": "1001-5000",
+          "id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+          "founded": 2010,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "berkeley heights, new jersey, united states",
+            "locality": "berkeley heights",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 connell drive",
+            "address_line_2": "suite 1300 5th floor",
+            "postal_code": "07922",
+            "geo": "40.67,-74.42"
+          },
+          "linkedin_url": "linkedin.com/company/axtria",
+          "linkedin_id": "789643",
+          "facebook_url": "facebook.com/axtriainc",
+          "twitter_url": "twitter.com/axtriaconnect",
+          "website": "axtria.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2023-07",
+        "title": {
+          "name": "key account director",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "iqvia",
+          "size": "10001+",
+          "id": "INCG03yLMf74bucPYkoCPALLNtTC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "durham, north carolina, united states",
+            "locality": "durham",
+            "region": "north carolina",
+            "metro": "durham, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2400 ellis road",
+            "address_line_2": null,
+            "postal_code": "27703",
+            "geo": "35.99,-78.91"
+          },
+          "linkedin_url": "linkedin.com/company/iqvia",
+          "linkedin_id": "4057",
+          "facebook_url": "facebook.com/iqvia",
+          "twitter_url": "twitter.com/iqvia_global",
+          "website": "iqvia.com"
+        },
+        "location_names": [],
+        "end_date": "2023-07",
+        "start_date": "2017-11",
+        "title": {
+          "name": "european key account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ibm",
+          "size": "10001+",
+          "id": "lBBbcKkqA6HEYVV3fYdi7gbNGQO9",
+          "founded": 1911,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "armonk, new york, united states",
+            "locality": "armonk",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10504",
+            "geo": "41.13,-73.70"
+          },
+          "linkedin_url": "linkedin.com/company/ibm",
+          "linkedin_id": "1009",
+          "facebook_url": "facebook.com/ibm",
+          "twitter_url": "twitter.com/ibm",
+          "website": "ibm.com"
+        },
+        "location_names": [],
+        "end_date": "2010-11",
+        "start_date": "2007-08",
+        "title": {
+          "name": "integrated technology services manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ibm",
+          "size": "10001+",
+          "id": "lBBbcKkqA6HEYVV3fYdi7gbNGQO9",
+          "founded": 1911,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "armonk, new york, united states",
+            "locality": "armonk",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10504",
+            "geo": "41.13,-73.70"
+          },
+          "linkedin_url": "linkedin.com/company/ibm",
+          "linkedin_id": "1009",
+          "facebook_url": "facebook.com/ibm",
+          "twitter_url": "twitter.com/ibm",
+          "website": "ibm.com"
+        },
+        "location_names": [],
+        "end_date": "2007-08",
+        "start_date": "2004-08",
+        "title": {
+          "name": "contracts & negotiations",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ibm",
+          "size": "10001+",
+          "id": "lBBbcKkqA6HEYVV3fYdi7gbNGQO9",
+          "founded": 1911,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "armonk, new york, united states",
+            "locality": "armonk",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10504",
+            "geo": "41.13,-73.70"
+          },
+          "linkedin_url": "linkedin.com/company/ibm",
+          "linkedin_id": "1009",
+          "facebook_url": "facebook.com/ibm",
+          "twitter_url": "twitter.com/ibm",
+          "website": "ibm.com"
+        },
+        "location_names": [],
+        "end_date": "2004-08",
+        "start_date": "2003-01",
+        "title": {
+          "name": "software buyer; procurement",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "procurement",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "general qualification for university entrance",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of bern",
+          "type": "post-secondary institution",
+          "id": "FqTY-UQuyCxdOQB5ytjxlA_0000",
+          "location": {
+            "name": "bern, gelderland, netherlands",
+            "locality": "bern",
+            "region": "gelderland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bern",
+          "facebook_url": "facebook.com/unibern",
+          "twitter_url": "twitter.com/unibern",
+          "linkedin_id": "10374",
+          "website": "unibe.ch",
+          "domain": "unibe.ch"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "law"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of wales",
+          "type": "post-secondary institution",
+          "id": "xUDwrdv4--2QRL3XzGKu1Q_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-wales",
+          "facebook_url": "facebook.com/universityofwales",
+          "twitter_url": "twitter.com/uniwales",
+          "linkedin_id": "318809",
+          "website": "wales.ac.uk",
+          "domain": "wales.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "law"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "4894499",
+        "url": "linkedin.com/in/florianguertler2023",
+        "username": "florianguertler2023"
+      },
+      {
+        "network": "linkedin",
+        "id": "4894499",
+        "url": "linkedin.com/in/florian-gürtler-56b7801",
+        "username": "florian-gürtler-56b7801"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/florian-gã¼rtler-56b7801",
+        "username": "florian-gã¼rtler-56b7801"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

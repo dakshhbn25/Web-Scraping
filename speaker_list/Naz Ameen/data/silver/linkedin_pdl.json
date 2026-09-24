@@ -1,0 +1,70 @@
+{
+  "record_id": "speaker-dubrovnik-037",
+  "speaker_name": "Naz Ameen",
+  "linkedin_url": "https://www.linkedin.com/in/naz-ameen-221a91145/",
+  "likelihood": 9,
+  "full_name": "naz ameen",
+  "job_title": "clinical service manager pharmacist",
+  "industry": "medical practice",
+  "current_company": "the ridgeway hospital",
+  "current_company_website": null,
+  "current_company_industry": "medical practice",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [],
+  "interests": [],
+  "experience": [
+    {
+      "title": "clinical service manager pharmacist",
+      "company": "the ridgeway hospital",
+      "company_industry": "medical practice",
+      "start_date": "2022-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "aesthetician",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2019-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "pharmacist",
+      "company": "lloyd's pharmacy",
+      "company_industry": "retail",
+      "start_date": "2018-04",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "store manager pharmacist",
+      "company": "boots uk",
+      "company_industry": "retail",
+      "start_date": "2016-08",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "pre-registration pharmacist",
+      "company": "boots uk",
+      "company_industry": "retail",
+      "start_date": "2015-06",
+      "end_date": "2016-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of hertfordshire",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2015"
+    }
+  ]
+}

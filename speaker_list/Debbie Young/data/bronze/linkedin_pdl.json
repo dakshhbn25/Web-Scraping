@@ -1,0 +1,571 @@
+{
+  "record_id": "speaker-viennacx-013",
+  "speaker_name": "Debbie Young",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/debbie-young-uk/",
+  "scraped_at": "2026-09-18T10:25:24.205867+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "9elPbAl0mpyiaixVt4NlRg_0000",
+    "full_name": "debbie young",
+    "first_name": "debbie",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "y",
+    "last_name": "young",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/debbie-young-uk",
+    "linkedin_username": "debbie-young-uk",
+    "linkedin_id": "61336547",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "multichannel strategy and customer insights director",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "wsD1sIVRSx8ETfIChhzPdwyOqxLf",
+    "job_company_name": "otsuka pharmaceutical companies europe",
+    "job_company_website": "otsuka-europe.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 1979,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/otsuka-pharmaceutical-co.-ltd",
+    "job_company_linkedin_id": "1597804",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "windsor, england, united kingdom",
+    "job_company_location_locality": "windsor",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.47,-0.64",
+    "job_company_location_street_address": "2 windsor dials arthur road",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "sl4 1rs",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2021-06-10",
+    "job_last_verified": "2026-07-05",
+    "job_start_date": "2021-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-02-07",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "cross functional team leadership",
+      "customer relationship management",
+      "customer satisfaction",
+      "decision making",
+      "digital innovation",
+      "digital marketing",
+      "healthcare",
+      "leadership",
+      "management",
+      "market access",
+      "marketing",
+      "multi channel commerce",
+      "multi channel marketing",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "project implementation",
+      "sales",
+      "sales operations",
+      "selling",
+      "strategy",
+      "team management",
+      "training",
+      "urology"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "otsuka pharmaceutical companies europe",
+          "size": "501-1000",
+          "id": "wsD1sIVRSx8ETfIChhzPdwyOqxLf",
+          "founded": 1979,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "windsor, england, united kingdom",
+            "locality": "windsor",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "2 windsor dials arthur road",
+            "address_line_2": null,
+            "postal_code": "sl4 1rs",
+            "geo": "51.47,-0.64"
+          },
+          "linkedin_url": "linkedin.com/company/otsuka-pharmaceutical-co.-ltd",
+          "linkedin_id": "1597804",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "otsuka-europe.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-05",
+        "title": {
+          "name": "multichannel strategy and customer insights director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "otsuka pharmaceutical companies europe",
+          "size": "501-1000",
+          "id": "wsD1sIVRSx8ETfIChhzPdwyOqxLf",
+          "founded": 1979,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "windsor, england, united kingdom",
+            "locality": "windsor",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "2 windsor dials arthur road",
+            "address_line_2": null,
+            "postal_code": "sl4 1rs",
+            "geo": "51.47,-0.64"
+          },
+          "linkedin_url": "linkedin.com/company/otsuka-pharmaceutical-co.-ltd",
+          "linkedin_id": "1597804",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "otsuka-europe.com"
+        },
+        "location_names": [],
+        "end_date": "2021-05",
+        "start_date": "2020-03",
+        "title": {
+          "name": "digital strategy director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pm society",
+          "size": "11-50",
+          "id": "npi1mxooz34zQNAMFndGDwmiX4fe",
+          "founded": 1976,
+          "industry": "marketing and advertising",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/pmsociety",
+          "linkedin_id": "406401",
+          "facebook_url": "facebook.com/pmsociety",
+          "twitter_url": null,
+          "website": "pmsociety.org.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-02",
+        "title": {
+          "name": "digital committee member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-10",
+        "start_date": "2016-01",
+        "title": {
+          "name": "head of channels",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-01",
+        "start_date": "2015-01",
+        "title": {
+          "name": "multi-channel delivery lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2015-01",
+        "start_date": "2010-11",
+        "title": {
+          "name": "national service team lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2010-11",
+        "start_date": "2007-10",
+        "title": {
+          "name": "head of it service delivery",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2007-10",
+        "start_date": "2006-05",
+        "title": {
+          "name": "it production service manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2006-05",
+        "start_date": "2005-05",
+        "title": {
+          "name": "urology hospital representative",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2005-05",
+        "start_date": "2001-05",
+        "title": {
+          "name": "data and analytics manager",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2001-04",
+        "start_date": "1995-05",
+        "title": {
+          "name": "various data analytics roles",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "data_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "61336547",
+        "url": "linkedin.com/in/debbie-young-uk",
+        "username": "debbie-young-uk"
+      },
+      {
+        "network": "linkedin",
+        "id": "61336547",
+        "url": "linkedin.com/in/debbie-young-82b65b18",
+        "username": "debbie-young-82b65b18"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

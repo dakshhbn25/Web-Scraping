@@ -1,0 +1,219 @@
+{
+  "record_id": "speaker-dubrovnik-022",
+  "speaker_name": "Alex Condoleon",
+  "linkedin_url": "https://www.linkedin.com/in/alex-condoleon/",
+  "likelihood": 9,
+  "full_name": "alex condoleon",
+  "job_title": "chief medical affairs officer of medical engagements & impact",
+  "industry": "pharmaceuticals",
+  "current_company": "pfizer",
+  "current_company_website": "pfizer.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "artificial intelligence",
+    "biotechnology",
+    "business case development",
+    "business case preparation",
+    "business development",
+    "business process improvement",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "clinical development",
+    "clinical research",
+    "clinical trials",
+    "competitive analysis",
+    "consumer healthcare",
+    "cross cultural communication skills",
+    "cross cultural management",
+    "cross cultural teams",
+    "cross functional team leadership",
+    "data analysis",
+    "deal structuring",
+    "diabetes",
+    "digital engagement",
+    "digital health",
+    "digital healthcare",
+    "digital solutions",
+    "digital strategy",
+    "digital transformation",
+    "drug development",
+    "due diligence",
+    "executive team",
+    "generative ai",
+    "global experience",
+    "healthcare",
+    "healthcare analytics",
+    "hospitals",
+    "innovation",
+    "innovation development",
+    "integrated care",
+    "kol management",
+    "leadership",
+    "life cycle management",
+    "life sciences",
+    "machine learning",
+    "management",
+    "market access",
+    "medical affairs",
+    "medical communications",
+    "medical education",
+    "medicine",
+    "negotiation",
+    "networking",
+    "neurology",
+    "omnichannel",
+    "oncology",
+    "organizational leadership",
+    "patient safety",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "pharmaceutics",
+    "pharmacovigilance",
+    "product innovation",
+    "product launch",
+    "project management",
+    "regulatory affairs",
+    "relationship building",
+    "scientific communications",
+    "social media communications",
+    "strategic leadership",
+    "strategic partnerships",
+    "strategic planning",
+    "strategic thinking",
+    "strategic vision",
+    "strategy",
+    "team building",
+    "team leadership",
+    "team management",
+    "therapeutic areas"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief medical affairs officer of medical engagements & impact",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president, head of digital healthcare - us, general medicines business unit",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020",
+      "end_date": "2023",
+      "is_primary": false
+    },
+    {
+      "title": "vice president global head of strategic planning & applied artificial intelligence, sanofi medical",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019",
+      "end_date": "2020",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, head of global medical affairs, sanofi consumer healthcare",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical director, sanofi - china",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "medical director - australia & new zealand",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs manager - retail busines unit",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007",
+      "end_date": "2009",
+      "is_primary": false
+    },
+    {
+      "title": "clinical research physician",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005",
+      "end_date": "2007",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "graduate school of management st. petersburg state university",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2012",
+      "end_date": "2012"
+    },
+    {
+      "school": "macquarie business school",
+      "majors": [
+        "accounting",
+        "business administration",
+        "business administration and management",
+        "financial management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2006",
+      "end_date": "2008"
+    },
+    {
+      "school": "macquarie university - graduate school of business",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2006",
+      "end_date": "2008"
+    },
+    {
+      "school": "unsw",
+      "majors": [
+        "government",
+        "health care",
+        "leadership",
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "1995",
+      "end_date": "2000"
+    }
+  ]
+}

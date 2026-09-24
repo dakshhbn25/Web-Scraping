@@ -1,0 +1,300 @@
+{
+  "record_id": "speaker-dubrovnik-121",
+  "speaker_name": "Derek Annan",
+  "designation": "Head of Group Healthcare Strategy",
+  "company": "resonant",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/derek-annan-phd/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Head of Group Healthcare Strategy | Communiqué Judge",
+  "linkedin_location": "London, England, United Kingdom, GB",
+  "linkedin_connections": "500",
+  "linkedin_followers": "4390",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": "ChatGPT Essentials (Maven)",
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Gabor Purman, MD, MBA",
+      "company": "Kyowa Kirin International plc.",
+      "profile_url": "https://uk.linkedin.com/in/gaborpurman"
+    },
+    {
+      "name": "Alexander Goonesinghe",
+      "company": "IQVIA",
+      "profile_url": "https://uk.linkedin.com/in/alexander-goonesinghe-3985b850"
+    },
+    {
+      "name": "Shula Sarner",
+      "company": "Precision AQ",
+      "profile_url": "https://uk.linkedin.com/in/shula-sarner-6513166"
+    },
+    {
+      "name": "Su Smith",
+      "company": "Origins - The Patient Focused Specialists",
+      "profile_url": "https://uk.linkedin.com/in/su-smith-71007744"
+    },
+    {
+      "name": "John Wiltshire, PhD",
+      "company": "IPG Health",
+      "profile_url": "https://uk.linkedin.com/in/johnhowardwiltshire"
+    },
+    {
+      "name": "Amber Fensome",
+      "company": "Highfield Communication Consultancy Ltd.",
+      "profile_url": "https://uk.linkedin.com/in/amber-fensome-93005a7"
+    },
+    {
+      "name": "John Dunlop",
+      "company": "Jazz Pharmaceuticals",
+      "profile_url": "https://uk.linkedin.com/in/john-gkt-dunlop"
+    },
+    {
+      "name": "Mark Howard",
+      "company": "AbbVie",
+      "profile_url": "https://uk.linkedin.com/in/markrhoward"
+    },
+    {
+      "name": "Joanne Bowes",
+      "company": "Ashfield MedComms, an Inizio Company",
+      "profile_url": "https://uk.linkedin.com/in/joannebowes"
+    },
+    {
+      "name": "Tracy Willmott",
+      "company": "InRAD – International, practice-based registry for Alzheimer's Disease and other dementias",
+      "profile_url": "https://uk.linkedin.com/in/tracywillmott"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "resonant group",
+  "linkedin_current_company_website": "resonantgrp.com",
+  "linkedin_skills": [
+    "assay development",
+    "biochemistry",
+    "bioinformatics",
+    "biotechnology",
+    "builds relationships",
+    "business continuity planning",
+    "career counseling",
+    "client relations",
+    "customer engagement",
+    "diagnostics",
+    "dna",
+    "dna extraction",
+    "elisa",
+    "immunoassays",
+    "life sciences",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "medical education",
+    "medical writing",
+    "molecular biology",
+    "nmr",
+    "oncology",
+    "organization skills",
+    "pcr",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "protein chemistry",
+    "protein purification",
+    "qpcr",
+    "research",
+    "science",
+    "uv/vis"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "head of group healthcare strategy",
+      "company": "resonant group",
+      "company_industry": "public relations and communications",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director, medical and commercial strategy",
+      "company": "impact medical education",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, medical and commercial strategy",
+      "company": "wave healthcare communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "partnerships lead",
+      "company": "black professionals in life sciences (bpls)",
+      "company_industry": "non-profit organization management",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of medical strategy",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-04",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "head of strategy",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-09",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "scientific solutions director",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-07",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "client partnership director",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-04",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "associate business unit director",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "client services director",
+      "company": "cogora",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-05",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "business development / account director, health education",
+      "company": "virgo health",
+      "company_industry": "public relations and communications",
+      "start_date": "2015-05",
+      "end_date": "2016-05",
+      "is_primary": false
+    },
+    {
+      "title": "account director, health education",
+      "company": "virgo health",
+      "company_industry": "public relations and communications",
+      "start_date": "2015-01",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "account director (medical education)",
+      "company": "apothecom, an inizio company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-10",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior account manager (medical education)",
+      "company": "apothecom, an inizio company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "account manager (medical education / advertising)",
+      "company": "ipg health medical communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "account executive (medical education)",
+      "company": "ipg health medical communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-08",
+      "end_date": "2010-10",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "cranfield university",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "king's college london",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "london south bank university",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "achimota school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "bishop",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

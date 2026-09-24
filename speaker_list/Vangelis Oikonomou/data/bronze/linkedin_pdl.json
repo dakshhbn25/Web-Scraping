@@ -1,0 +1,841 @@
+{
+  "record_id": null,
+  "speaker_name": "Vangelis Oikonomou",
+  "event_name": null,
+  "linkedin_url": "https://www.linkedin.com/in/vangelisoikonomou/",
+  "scraped_at": "2026-09-21T11:39:20.025672+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "KBT7xXV29nNUBhCQTlJcBg_0000",
+    "full_name": "vangelis oikonomou",
+    "first_name": "vangelis",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "o",
+    "last_name": "oikonomou",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/vangelisoikonomou",
+    "linkedin_username": "vangelisoikonomou",
+    "linkedin_id": "5701306",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director, international commercial excellence",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+    "job_company_name": "novartis",
+    "job_company_website": "novartis.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1996,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novartis",
+    "job_company_linkedin_id": "1406",
+    "job_company_facebook_url": "facebook.com/novartis",
+    "job_company_twitter_url": "twitter.com/novartis",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4002",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-05",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2024-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "discovering and trending new technologies",
+      "djing and listening to music",
+      "editing videos and watching movies",
+      "flying planes",
+      "learning new things every day",
+      "playing tennis",
+      "sailing boats",
+      "see 1+see less",
+      "skiing",
+      "socializing",
+      "taking pictures",
+      "traveling"
+    ],
+    "skills": [
+      "agile methodologies",
+      "artificial intelligence",
+      "brand management",
+      "business development",
+      "business planning",
+      "business process re engineering",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "commercial execution",
+      "commercial leadership",
+      "competitive analysis",
+      "competitive intelligence",
+      "creativity coaching",
+      "cross functional team leadership",
+      "customer experience",
+      "customer insight",
+      "customer journeys",
+      "customer relationship management",
+      "digital strategy",
+      "digital transformation",
+      "engineering",
+      "fmcg",
+      "forecasting",
+      "generative ai",
+      "global deployment",
+      "global marketing",
+      "hospital sales",
+      "influencing others",
+      "innovation",
+      "integrated marketing",
+      "key account development",
+      "key account management",
+      "launch excellence",
+      "machine learning",
+      "management",
+      "management consulting",
+      "market access",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing capabilities",
+      "marketing management",
+      "marketing research",
+      "marketing strategy",
+      "marketing technology",
+      "microsoft outlook",
+      "microsoft powerpoint",
+      "negotiation",
+      "operations management",
+      "ophthalmics",
+      "p&l management",
+      "people management",
+      "persuasive presentations",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "pharmaceutics",
+      "pricing",
+      "product development",
+      "product launch",
+      "product marketing",
+      "project management",
+      "respiratory disease",
+      "sales effectiveness",
+      "sales management",
+      "sales operations",
+      "segmentation",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "technology planning",
+      "trade marketing",
+      "voice of the customer"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "chile",
+      "greece"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "director, international commercial excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2023-01",
+        "title": {
+          "name": "director, international customer experience country operations",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2021-07",
+        "title": {
+          "name": "director, global content products success",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2019-09",
+        "title": {
+          "name": "associate director, global digital asset management",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2019-08",
+        "start_date": "2018-11",
+        "title": {
+          "name": "associate director, management consulting & global account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2018-11",
+        "start_date": "2017-09",
+        "title": {
+          "name": "senior manager, management consulting & global account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2017-08",
+        "start_date": "2015-10",
+        "title": {
+          "name": "region europe commercial lead & strategic projects head (dermatology, immunology)",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis hellas",
+          "size": "201-500",
+          "id": "uKo3BTORtReKi5vJt7SWhwoRfI3L",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "greece",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "14451",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/novartis-hellas",
+          "linkedin_id": "28601255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "novartis.gr"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2015-08",
+        "start_date": "2013-10",
+        "title": {
+          "name": "brand lead, ophthalmics",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis hellas",
+          "size": "201-500",
+          "id": "uKo3BTORtReKi5vJt7SWhwoRfI3L",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "greece",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "14451",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/novartis-hellas",
+          "linkedin_id": "28601255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "novartis.gr"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2013-09",
+        "start_date": "2011-10",
+        "title": {
+          "name": "customer development lead, ophthalmics",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis hellas",
+          "size": "201-500",
+          "id": "uKo3BTORtReKi5vJt7SWhwoRfI3L",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "greece",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "14451",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/novartis-hellas",
+          "linkedin_id": "28601255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "novartis.gr"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2011-09",
+        "start_date": "2009-09",
+        "title": {
+          "name": "brand lead, respiratory",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tecmor s.a.",
+          "size": "11-50",
+          "id": "blJJj5prOvqjXrStgPwFbQgXVM9E",
+          "founded": 1993,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "athens, attikí, greece",
+            "locality": "athens",
+            "region": "attikí",
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": "8 3rd septemviou street",
+            "address_line_2": null,
+            "postal_code": "10432",
+            "geo": "37.98,23.72"
+          },
+          "linkedin_url": "linkedin.com/company/tecmor-s.a.",
+          "linkedin_id": "155850",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "tecmor.gr"
+        },
+        "location_names": [],
+        "end_date": "2009",
+        "start_date": "2006",
+        "title": {
+          "name": "senior consultant, management consulting",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "copenhagen business school",
+          "type": "post-secondary institution",
+          "id": "NQ2wgaZhUlI1NU3T4ZuMBQ_0000",
+          "location": {
+            "name": "frederiksberg, hovedstaden, denmark",
+            "locality": "frederiksberg",
+            "region": "hovedstaden",
+            "country": "denmark",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/copenhagen-business-school",
+          "facebook_url": "facebook.com/copenhagenbusinessschool",
+          "twitter_url": "twitter.com/cbssayshello",
+          "linkedin_id": "2151",
+          "website": "cbs.dk",
+          "domain": "cbs.dk"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2022",
+        "majors": [
+          "behavioral science",
+          "education",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the flight school",
+          "type": "post-secondary institution",
+          "id": "fX4agngfGaBneBpE6Kv6pA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/theflightschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "102020776",
+          "website": "theflightschool.org",
+          "domain": "theflightschool.org"
+        },
+        "degrees": [],
+        "start_date": "2014-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "athens university of economics and business",
+          "type": "post-secondary institution",
+          "id": "MGGWbR2qYUlAPyGj84m1DQ_0000",
+          "location": {
+            "name": "athens, attica, greece",
+            "locality": "athens",
+            "region": "attica",
+            "country": "greece",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/athens-university-of-economics-and-business",
+          "facebook_url": "facebook.com/auebgreece",
+          "twitter_url": "twitter.com/aueb",
+          "linkedin_id": "162571",
+          "website": "aueb.gr",
+          "domain": "aueb.gr"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2009-01",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "école nationale des ponts et chaussées",
+          "type": "post-secondary institution",
+          "id": "7DApBhxBMJBp076OgHSzZg_0000",
+          "location": {
+            "name": "champs-sur-marne, île-de-france, france",
+            "locality": "champs-sur-marne",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ecole-nationale-des-ponts-et-chaussees",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1034737",
+          "website": "ecoledesponts.fr",
+          "domain": "ecoledesponts.fr"
+        },
+        "degrees": [
+          "master of engineering",
+          "masters"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2005-12",
+        "majors": [
+          "civil engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "democritus university of thrace - (d.u.th.)",
+          "type": "post-secondary institution",
+          "id": "DZdbPAer8clAbNiyBt5pdw_0000",
+          "location": {
+            "name": "komotiní, anatolikí makedonía kai thráki, greece",
+            "locality": "komotiní",
+            "region": "anatolikí makedonía kai thráki",
+            "country": "greece",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/duth-",
+          "facebook_url": "facebook.com/duth.gr",
+          "twitter_url": null,
+          "linkedin_id": "15092734",
+          "website": "duth.gr",
+          "domain": "duth.gr"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors",
+          "master of engineering",
+          "masters"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2004-12",
+        "majors": [
+          "civil engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée franco - hellénique d'athenes 'eugène delacroix' (lfh)",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1992-01",
+        "end_date": "1997",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée franco - hellénique d'athenes 'eugène delacroix' (lfh)",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1991",
+        "end_date": "1997",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "5701306",
+        "url": "linkedin.com/in/vangelisoikonomou",
+        "username": "vangelisoikonomou"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/vangelis-oikonomou-44aaab1",
+        "username": "vangelis-oikonomou-44aaab1"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,205 @@
+{
+  "record_id": "speaker-dubrovnik-109",
+  "speaker_name": "Mark Pringle",
+  "linkedin_url": "https://www.linkedin.com/in/mark-pringle-114750/",
+  "likelihood": 9,
+  "full_name": "mark pringle",
+  "job_title": "senior principal, bepossible | strategic consultancy for pharma leaders",
+  "industry": "pharmaceuticals",
+  "current_company": "bepossible - strategic healthcare consultants",
+  "current_company_website": "bepossible.co.uk",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "360 feedback",
+    "action learning",
+    "assessment center",
+    "behavioural change",
+    "business coaching",
+    "business planning",
+    "career development",
+    "change management",
+    "coaching",
+    "coaching and mentoring",
+    "consulting",
+    "cross functional team leadership",
+    "culture change",
+    "diabetes",
+    "emotional intelligence",
+    "employee engagement",
+    "executive coaching",
+    "executive development",
+    "facilitators",
+    "healthcare",
+    "hospital sales",
+    "instructional design",
+    "leadership",
+    "leadership development",
+    "management",
+    "management development",
+    "market access",
+    "mbti",
+    "mentoring",
+    "nlp",
+    "organizational culture",
+    "organizational design",
+    "organizational development",
+    "organizational effectiveness",
+    "organizational learning",
+    "performance improvement",
+    "performance management",
+    "performing",
+    "personal development",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "presentation coaching",
+    "programmes",
+    "psychometrics",
+    "sales effectiveness",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "teaching",
+    "team building",
+    "training",
+    "training delivery",
+    "training programme design",
+    "workshop facilitation"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior principal, bepossible | strategic consultancy for pharma leaders",
+      "company": "bepossible - strategic healthcare consultants",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior principal",
+      "company": "bepossible - strategic healthcare consultants",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "coach",
+      "company": "comentra development",
+      "company_industry": "professional training & coaching",
+      "start_date": "2024-10",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "chief solutions officer",
+      "company": "neohealthhub",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-07",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president capabilities",
+      "company": "neohealthhub",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-08",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "founding director",
+      "company": "morexcellent ltd",
+      "company_industry": "human resources",
+      "start_date": "2018-09",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "divisional performance director",
+      "company": "ashfield, part of udg healthcare (now inizio)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2018-07",
+      "is_primary": false
+    },
+    {
+      "title": "managing director",
+      "company": "business edge solutions & training",
+      "company_industry": null,
+      "start_date": "2012-10",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "ashfield till 1st oct",
+      "company": "ashfield, part of udg healthcare (now inizio)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "director and principal consultant",
+      "company": "business edge solutions and training",
+      "company_industry": null,
+      "start_date": "2001-02",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "head of training and development",
+      "company": "elan pharmaceuticals",
+      "company_industry": "biotechnology",
+      "start_date": "1999",
+      "end_date": "2001",
+      "is_primary": false
+    },
+    {
+      "title": "head of training and development",
+      "company": "astra pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1997",
+      "end_date": "1999",
+      "is_primary": false
+    },
+    {
+      "title": "head of training and development",
+      "company": "napp pharmaceuticals limited",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1992",
+      "end_date": "1996",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "lancaster university",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [],
+      "start_date": "1985-01",
+      "end_date": "1988"
+    },
+    {
+      "school": "preston university",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [],
+      "start_date": "1985-01",
+      "end_date": "1988"
+    },
+    {
+      "school": "cramlington high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1981-01",
+      "end_date": "1985"
+    }
+  ]
+}

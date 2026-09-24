@@ -1,0 +1,161 @@
+{
+  "record_id": "speaker-dubrovnik-031",
+  "speaker_name": "Mostafa Taha",
+  "linkedin_url": "https://www.linkedin.com/in/mostafa-taha-b7ab651a/",
+  "likelihood": 9,
+  "full_name": "mostafa taha",
+  "job_title": "vice president, head of global business transformation",
+  "industry": "pharmaceuticals",
+  "current_company": "merck healthcare",
+  "current_company_website": null,
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united arab emirates",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "ai solutions",
+    "gtm transformation",
+    "marktech"
+  ],
+  "interests": [
+    "cars",
+    "new technology",
+    "reading",
+    "traveling"
+  ],
+  "experience": [
+    {
+      "title": "vice president, head of global business transformation",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief transformation lead - global",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-11",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "global head of business analytics & solutions",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-04",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "director, emea head of insights & analytics",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-04",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior insights lead - oncology - region europe",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-06",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "regional marketing manager (oncology)",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-06",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "regional therapeutic area manager, oncology",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-02",
+      "end_date": "2014-05",
+      "is_primary": false
+    },
+    {
+      "title": "product manager (oncology)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2010-03",
+      "end_date": "2014-02",
+      "is_primary": false
+    },
+    {
+      "title": "project manager (oncology and molecular diagnostics)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2010-03",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "disease area specialist (oncology)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2007-11",
+      "end_date": "2010-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical representative",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-12",
+      "end_date": "2007-10",
+      "is_primary": false
+    },
+    {
+      "title": "hematology product specialist",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2005-04",
+      "end_date": "2005-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the university of manchester",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2020",
+      "end_date": "2021"
+    },
+    {
+      "school": "helwan university cairo",
+      "majors": [
+        "pharmaceutical science"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1997",
+      "end_date": "2002"
+    },
+    {
+      "school": "birmingham - southern college",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2022"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

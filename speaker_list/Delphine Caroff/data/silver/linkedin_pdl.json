@@ -1,0 +1,208 @@
+{
+  "record_id": "speaker-dubrovnik-008",
+  "speaker_name": "Delphine Caroff",
+  "linkedin_url": "https://www.linkedin.com/in/delphine-caroff-8761164/",
+  "likelihood": 9,
+  "full_name": "delphine caroff",
+  "job_title": "associate vice president, sustainable access solutions, global market access",
+  "industry": "pharmaceuticals",
+  "current_company": "msd",
+  "current_company_website": "msd.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "board member",
+    "business strategy",
+    "change management",
+    "chief of staff",
+    "corporate affairs",
+    "corporate communications",
+    "corporate social responsibility",
+    "crisis communications",
+    "english",
+    "european law",
+    "european politics",
+    "european union",
+    "event management",
+    "french",
+    "health communication",
+    "healthcare",
+    "internal communications",
+    "international public affairs",
+    "international relations",
+    "management",
+    "management consulting",
+    "market access",
+    "media relations",
+    "organisations internationales",
+    "pharma",
+    "pharmaceutical industry",
+    "policy",
+    "project management",
+    "public affairs",
+    "public policy",
+    "public relations",
+    "stakeholder engagement",
+    "strategic communications",
+    "strategic partnerships",
+    "strategy"
+  ],
+  "interests": [
+    "children",
+    "disaster and humanitarian relief",
+    "economic empowerment",
+    "education",
+    "environment",
+    "health",
+    "politics"
+  ],
+  "experience": [
+    {
+      "title": "associate vice president, sustainable access solutions, global market access",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of strategy & operations, global product strategy & commercialization, executive vice president chief of staff",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2021-04",
+      "end_date": "2023-10",
+      "is_primary": false
+    },
+    {
+      "title": "head of corporate affairs & chief of staff of the general manager",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2018-03",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "director, european public policy & government affairs",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2016-04",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "director european affairs, external relations and csr / esg",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "head of csr / esg, patient advocacy & foundation executive director",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-07",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "corporate social responsability / esg & patient advocacy project manager",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-01",
+      "end_date": "2010-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2007-01",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "eu delegation attache",
+      "company": "united nations",
+      "company_industry": "international affairs",
+      "start_date": "2006-05",
+      "end_date": "2006-07",
+      "is_primary": false
+    },
+    {
+      "title": "global health project manager",
+      "company": "holcim",
+      "company_industry": "construction",
+      "start_date": "2005-09",
+      "end_date": "2006-12",
+      "is_primary": false
+    },
+    {
+      "title": "country risk prospective analyst",
+      "company": "french ministry for armed forces",
+      "company_industry": "defense & space",
+      "start_date": "2005-06",
+      "end_date": "2005-08",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "positive planet",
+      "company_industry": "civic & social organization",
+      "start_date": "2005-03",
+      "end_date": "2005-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "babson college",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018-12"
+    },
+    {
+      "school": "university of paris i: panthéon - sorbonne",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2004",
+      "end_date": "2005"
+    },
+    {
+      "school": "université paris - sorbonne",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "trinity college dublin",
+      "majors": [
+        "european studies"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "sciences po grenoble - uga",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2004"
+    }
+  ]
+}

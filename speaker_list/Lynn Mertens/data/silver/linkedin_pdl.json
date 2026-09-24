@@ -1,0 +1,208 @@
+{
+  "record_id": "speaker-medical-006",
+  "speaker_name": "Lynn Mertens",
+  "linkedin_url": "https://www.linkedin.com/in/lynn-mertens-a091135b/?locale=en",
+  "likelihood": 9,
+  "full_name": "lynn mertens",
+  "job_title": "global medical impact lead",
+  "industry": "pharmaceuticals",
+  "current_company": "ucb",
+  "current_company_website": "ucb.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "argus",
+    "argus safety",
+    "auditing",
+    "business development",
+    "business excellence",
+    "business requirements",
+    "cancer genetics",
+    "capability building",
+    "change management",
+    "clinical research",
+    "commercial strategy",
+    "communicatie",
+    "communicatietraining",
+    "competitor analysis",
+    "compliancemanagement",
+    "crm",
+    "cross country collaboration",
+    "crossfunctional collaboration",
+    "customer insights",
+    "data analysis",
+    "data analytics",
+    "digital marketing",
+    "drug safety",
+    "emotionele intelligentie",
+    "engagement planning",
+    "genetics",
+    "medical excellence",
+    "neurogenetics",
+    "neuropsychology",
+    "neuroscience",
+    "omnichannel",
+    "oncology",
+    "onderhandeling",
+    "performance management",
+    "persoonlijke ontwikkeling",
+    "pharmacovigilance",
+    "productmanagement",
+    "projectmanagement",
+    "pubmed",
+    "qppv",
+    "salesforce.com",
+    "scientific writing",
+    "stakeholder engagement",
+    "storytelling",
+    "strategic thinking",
+    "strategy",
+    "strategy to execution",
+    "teaching skills",
+    "veeva",
+    "veeva vault"
+  ],
+  "interests": [
+    "genetics and neurosciences",
+    "reading",
+    "sports",
+    "travelling"
+  ],
+  "experience": [
+    {
+      "title": "global medical impact lead",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global medical crm business manager",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-07",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "global business excellence manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-08",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "head medical excellence & capabilities | western european cluster lead",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-05",
+      "end_date": "2023-07",
+      "is_primary": false
+    },
+    {
+      "title": "european launch excellence manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-01",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "brand & disease area manager hematology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "safety leader benelux",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "drug safety manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-09",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "cancer researcher",
+      "company": "ghent university",
+      "company_industry": "higher education",
+      "start_date": "2013-09",
+      "end_date": "2015-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "education first oxford",
+      "majors": [
+        "business",
+        "english"
+      ],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2016-12"
+    },
+    {
+      "school": "universiteit gent",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2013",
+      "end_date": "2015"
+    },
+    {
+      "school": "ghent university",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "universiteit gent",
+      "majors": [],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2010",
+      "end_date": "2013"
+    },
+    {
+      "school": "ghent university",
+      "majors": [],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2013-12"
+    },
+    {
+      "school": "sint - aloysiuscollege ninove",
+      "majors": [
+        "mathematics"
+      ],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2010"
+    }
+  ]
+}

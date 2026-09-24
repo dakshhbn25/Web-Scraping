@@ -1,0 +1,530 @@
+{
+  "record_id": "speaker-dubrovnik-112",
+  "speaker_name": "Matthew Durham",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/matthew-durham-227a8536/",
+  "scraped_at": "2026-09-18T10:22:50.890628+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "DabD6WAspDOApd5nk1aJyw_0000",
+    "full_name": "matthew durham",
+    "first_name": "matthew",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "durham",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/matthew-durham-227a8536",
+    "linkedin_username": "matthew-durham-227a8536",
+    "linkedin_id": "128074495",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president, global",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "vp"
+    ],
+    "job_company_id": "H84P2SzMZaWs2eCthto1Ngachc5A",
+    "job_company_name": "cmi media group",
+    "job_company_website": "cmimediagroup.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1989,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "advertising services",
+    "job_company_linkedin_url": "linkedin.com/company/cmi-compas",
+    "job_company_linkedin_id": "2832833",
+    "job_company_facebook_url": "facebook.com/cmicompas",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "philadelphia, pennsylvania, united states",
+    "job_company_location_locality": "philadelphia",
+    "job_company_location_metro": "philadelphia, pennsylvania",
+    "job_company_location_region": "pennsylvania",
+    "job_company_location_geo": "39.98,-75.19",
+    "job_company_location_street_address": "2000 market street",
+    "job_company_location_address_line_2": "29th floor",
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-08-23",
+    "job_last_verified": "2026-06-29",
+    "job_start_date": "2024-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-29",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "customer service",
+      "management",
+      "market research",
+      "marketing strategy",
+      "microsoft office",
+      "retail",
+      "training",
+      "writing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "cmi media group",
+          "size": "1001-5000",
+          "id": "H84P2SzMZaWs2eCthto1Ngachc5A",
+          "founded": 1989,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2000 market street",
+            "address_line_2": "29th floor",
+            "postal_code": null,
+            "geo": "39.98,-75.19"
+          },
+          "linkedin_url": "linkedin.com/company/cmi-compas",
+          "linkedin_id": "2832833",
+          "facebook_url": "facebook.com/cmicompas",
+          "twitter_url": null,
+          "website": "cmimediagroup.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-08",
+        "title": {
+          "name": "vice president, global",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "cmi media group",
+          "size": "1001-5000",
+          "id": "H84P2SzMZaWs2eCthto1Ngachc5A",
+          "founded": 1989,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2000 market street",
+            "address_line_2": "29th floor",
+            "postal_code": null,
+            "geo": "39.98,-75.19"
+          },
+          "linkedin_url": "linkedin.com/company/cmi-compas",
+          "linkedin_id": "2832833",
+          "facebook_url": "facebook.com/cmicompas",
+          "twitter_url": null,
+          "website": "cmimediagroup.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-08",
+        "start_date": "2022-10",
+        "title": {
+          "name": "director, global media",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mccann health",
+          "size": "1001-5000",
+          "id": "lFrYezPunFFLy9vkMBrhyAttcx7Y",
+          "founded": 1996,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "622 3rd avenue",
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/mccannhealth",
+          "linkedin_id": "10203336",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mccannhealth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom",
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2022-10",
+        "start_date": "2021-03",
+        "title": {
+          "name": "senior media strategist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "portable medical technology ltd. (oncoassist®)",
+          "size": "11-50",
+          "id": "FRHk6qbsFoGp9c3LhDQjggUHexAW",
+          "founded": 2011,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "killarney, kerry, ireland",
+            "locality": "killarney",
+            "region": "kerry",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "high street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.05,-9.50"
+          },
+          "linkedin_url": "linkedin.com/company/portable-medical-technology",
+          "linkedin_id": "2755435",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/portmedtech",
+          "website": "portablemedicaltechnology.com"
+        },
+        "location_names": [
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2021-03",
+        "start_date": "2020-04",
+        "title": {
+          "name": "director of business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "qxmd",
+          "size": "11-50",
+          "id": "B1YOS59bDNyz6rk8CWRSuwSxkacy",
+          "founded": 2012,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "vancouver, british columbia, canada",
+            "locality": "vancouver",
+            "region": "british columbia",
+            "metro": null,
+            "country": "canada",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "49.23,-123.1"
+          },
+          "linkedin_url": "linkedin.com/company/qxmd-medical",
+          "linkedin_id": "713798",
+          "facebook_url": "facebook.com/qxmd.medical.apps",
+          "twitter_url": "twitter.com/qxmd",
+          "website": "qxmd.com"
+        },
+        "location_names": [],
+        "end_date": "2020-04",
+        "start_date": "2019-02",
+        "title": {
+          "name": "senior director, business development emea",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "majestic iran",
+          "size": "201-500",
+          "id": "tK2djXZH7ftklVLAWJBJjA4YM0Ga",
+          "founded": 1988,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "slough, england, united kingdom",
+            "locality": "slough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sl1 9la",
+            "geo": "51.50,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/majestic-iran",
+          "linkedin_id": "2275255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-02",
+        "start_date": "2017-01",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "majestic iran",
+          "size": "201-500",
+          "id": "tK2djXZH7ftklVLAWJBJjA4YM0Ga",
+          "founded": 1988,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "slough, england, united kingdom",
+            "locality": "slough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sl1 9la",
+            "geo": "51.50,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/majestic-iran",
+          "linkedin_id": "2275255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2017-12",
+        "start_date": "2014-12",
+        "title": {
+          "name": "senior account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "majestic iran",
+          "size": "201-500",
+          "id": "tK2djXZH7ftklVLAWJBJjA4YM0Ga",
+          "founded": 1988,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "slough, england, united kingdom",
+            "locality": "slough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sl1 9la",
+            "geo": "51.50,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/majestic-iran",
+          "linkedin_id": "2275255",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "farnborough, england, united kingdom"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2012-01",
+        "title": {
+          "name": "market research executive",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "birkbeck, university of london",
+          "type": "post-secondary institution",
+          "id": "tl50f9ZrBCOhEwi49S2tlA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/birkbeck-university-of-london",
+          "facebook_url": "facebook.com/birkbeckuniversityoflondon",
+          "twitter_url": "twitter.com/birkbeckuol",
+          "linkedin_id": "29719",
+          "website": "bbk.ac.uk",
+          "domain": "bbk.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2017",
+        "majors": [
+          "politics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of surrey",
+          "type": "post-secondary institution",
+          "id": "PZ-O4dspmqcSoCmg46LW9A_0000",
+          "location": {
+            "name": "guildford, england, united kingdom",
+            "locality": "guildford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-surrey",
+          "facebook_url": "facebook.com/universityofsurrey",
+          "twitter_url": "twitter.com/uniofsurrey",
+          "linkedin_id": "8369",
+          "website": "surrey.ac.uk",
+          "domain": "surrey.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2011",
+        "majors": [
+          "business management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "farnborough college of technology",
+          "type": "post-secondary institution",
+          "id": "0I9kWH9pxT2UjQVuehjp7A_0000",
+          "location": {
+            "name": "farnborough, england, united kingdom",
+            "locality": "farnborough",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/farnboroughcollege",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "811425",
+          "website": "farn-ct.ac.uk",
+          "domain": "farn-ct.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "128074495",
+        "url": "linkedin.com/in/matthew-durham-227a8536",
+        "username": "matthew-durham-227a8536"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

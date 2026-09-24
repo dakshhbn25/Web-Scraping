@@ -1,0 +1,212 @@
+{
+  "record_id": "speaker-dubrovnik-068",
+  "speaker_name": "Florent Edouard",
+  "linkedin_url": "https://www.linkedin.com/in/florentedouard/",
+  "likelihood": 9,
+  "full_name": "florent edouard",
+  "job_title": "global head of the digital accelerator",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile leadership",
+    "analytical skills",
+    "analytics",
+    "artificial intelligence",
+    "budgets",
+    "business analysis",
+    "business development",
+    "business innovation",
+    "business intelligence",
+    "business planning",
+    "business process",
+    "business strategy",
+    "change management",
+    "cloud computing",
+    "commercial",
+    "consulting",
+    "crm",
+    "crm integration",
+    "cross functional team leadership",
+    "customer experience",
+    "customer relations",
+    "customer relationship management",
+    "customer service",
+    "data science",
+    "data warehousing",
+    "digital marketing",
+    "digital transformation",
+    "enterprise software",
+    "executive management",
+    "information technology",
+    "integrated multi channel marketing",
+    "leadership",
+    "management",
+    "market access",
+    "market analysis",
+    "market research",
+    "marketing",
+    "marketing management",
+    "marketing strategy",
+    "multi channel marketing",
+    "negotiation",
+    "online marketing",
+    "people development",
+    "pharma",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product innovation",
+    "product launch",
+    "product management",
+    "project management",
+    "restructuring",
+    "sales",
+    "sales and marketing",
+    "sales effectiveness",
+    "sales force development",
+    "sales force effectiveness",
+    "sales operations",
+    "sales process",
+    "sales support",
+    "search engine optimization",
+    "segmentation",
+    "siebel",
+    "strategic marketing",
+    "strategic partnerships",
+    "strategic planning",
+    "strategy",
+    "team leadership",
+    "team management",
+    "training"
+  ],
+  "interests": [
+    "arts and culture",
+    "children",
+    "disaster and humanitarian relief",
+    "education",
+    "environment",
+    "health",
+    "human rights",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "global head of the digital accelerator",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior vice president, global head of commercial excellence",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, global head of analytics and intelligence, respiratory",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "vice president marketing gastro and respiratory",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-08",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "global head of crm",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-02",
+      "end_date": "2013-08",
+      "is_primary": false
+    },
+    {
+      "title": "sfe director",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-09",
+      "end_date": "2008-02",
+      "is_primary": false
+    },
+    {
+      "title": "partner and cio",
+      "company": "ims health",
+      "company_industry": "hospital & health care",
+      "start_date": "2000-06",
+      "end_date": "2005-08",
+      "is_primary": false
+    },
+    {
+      "title": "business director",
+      "company": "groupe caisse des dépôts",
+      "company_industry": "government administration",
+      "start_date": "1991-12",
+      "end_date": "2000-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit sloan school of management",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "mit sloan school of management",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "iae bordeaux",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1991-01",
+      "end_date": "1992"
+    },
+    {
+      "school": "université de bordeaux",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1989-01",
+      "end_date": "1991"
+    },
+    {
+      "school": "université de bordeaux",
+      "majors": [
+        "mathematics"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1985-01",
+      "end_date": "1989"
+    }
+  ]
+}

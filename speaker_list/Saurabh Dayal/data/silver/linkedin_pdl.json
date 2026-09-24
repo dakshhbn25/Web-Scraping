@@ -1,0 +1,258 @@
+{
+  "record_id": "speaker-dubrovnik-056",
+  "speaker_name": "Saurabh Dayal",
+  "linkedin_url": "https://www.linkedin.com/in/saurabh-dayal/",
+  "likelihood": 9,
+  "full_name": "saurabh dayal",
+  "job_title": "director & global lead field medical excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "bayer",
+  "current_company_website": "bayer.com",
+  "current_company_industry": "chemicals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "apoptosis",
+    "biotechnology",
+    "business networking",
+    "cancer",
+    "cancer research",
+    "cell",
+    "cell based assays",
+    "cell biology",
+    "cell culture",
+    "clinical research",
+    "coaching and mentoring",
+    "colony survival assay",
+    "communication",
+    "crispr",
+    "cross team collaboration",
+    "customer engagement",
+    "dermatology",
+    "diabetes",
+    "digital transformation",
+    "dna",
+    "eczema",
+    "event organisation",
+    "flow cytometry",
+    "fluorescence microscopy",
+    "gel electrophoresis",
+    "healthcare consulting",
+    "immunofluorescence",
+    "immunohistochemistry",
+    "immunoprecipitation",
+    "leadership",
+    "life sciences",
+    "medical administration",
+    "medical affairs",
+    "medical excellence",
+    "medical excellence and operations",
+    "medical research",
+    "mentoring",
+    "microscopy",
+    "microsoft office",
+    "molecular biology",
+    "molecular cloning",
+    "oncology",
+    "operational excellence",
+    "ophthalmology",
+    "pcr",
+    "people management",
+    "pharmaceutical industry",
+    "polymerase chain reaction",
+    "project management",
+    "project planning",
+    "public engagement",
+    "qpcr",
+    "radiation biology",
+    "regulatory compliance",
+    "research",
+    "risk analysis",
+    "rt pcr",
+    "science",
+    "scientific communications",
+    "scientific presentation",
+    "scientific strategy",
+    "scientific writing",
+    "sds page",
+    "skin research",
+    "strategic planning",
+    "student recruiting",
+    "teaching",
+    "tissue culture",
+    "training",
+    "training and onboarding",
+    "transfection",
+    "western blotting"
+  ],
+  "interests": [
+    "animal welfare",
+    "children",
+    "economic empowerment",
+    "education",
+    "environment",
+    "health",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "director & global lead field medical excellence",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "medical customer excellence expert",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2023-06",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "global business partner comms & portfolio lead, mapv academy of capability development and learning",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2022-05",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical operations, uk",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2022-01",
+      "end_date": "2022-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical excellence lead",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-03",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2017-01",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "postdoctoral researcher",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2015-11",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "postdoctoral research scientist",
+      "company": "university of glasgow",
+      "company_industry": "higher education",
+      "start_date": "2012-05",
+      "end_date": "2015-11",
+      "is_primary": false
+    },
+    {
+      "title": "postdoctoral researcher",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2011-06",
+      "end_date": "2012-05",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2007-10",
+      "end_date": "2011-06",
+      "is_primary": false
+    },
+    {
+      "title": "research technician",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2006-11",
+      "end_date": "2007-09",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2006-01",
+      "end_date": "2006-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of dundee",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2007-01-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "abertay university",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2004-01-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "institute of biotechnology of the czech academy of sciences",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2001-01-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "patna university",
+      "majors": [
+        "mathematics",
+        "physics"
+      ],
+      "degrees": [],
+      "start_date": "1998-01-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "rose bud school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1998-01"
+    },
+    {
+      "school": "rose bud school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01-01",
+      "end_date": "1998-12-31"
+    }
+  ]
+}

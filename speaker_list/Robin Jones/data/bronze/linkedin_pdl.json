@@ -1,0 +1,639 @@
+{
+  "record_id": "speaker-viennacx-018",
+  "speaker_name": "Robin Jones",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/robin-jones-3b584816/",
+  "scraped_at": "2026-09-18T10:25:34.962554+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "OQ1KSnItmYp0LQrZAwOz1Q_0000",
+    "full_name": "robin jones",
+    "first_name": "robin",
+    "middle_initial": "d",
+    "middle_name": "dylan",
+    "last_initial": "j",
+    "last_name": "jones",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/robin-jones-3b584816",
+    "linkedin_username": "robin-jones-3b584816",
+    "linkedin_id": "55835705",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/robbo7771",
+    "twitter_username": "robbo7771",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "product owner: ai & genai",
+    "job_title_role": "product",
+    "job_title_sub_role": "product_management",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [],
+    "job_company_id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+    "job_company_name": "astrazeneca",
+    "job_company_website": "astrazeneca.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1999,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astrazeneca",
+    "job_company_linkedin_id": "1603",
+    "job_company_facebook_url": "facebook.com/astrazenecacareers",
+    "job_company_twitter_url": "twitter.com/astrazeneca",
+    "job_company_location_name": "cambridge, england, united kingdom",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "52.19,0.11",
+    "job_company_location_street_address": "1 francis crick avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "cb2 0aa",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-07",
+    "job_last_verified": "2026-08-19",
+    "job_start_date": "2025-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-19",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adobe creative suite",
+      "adobe elearning suite",
+      "articulate suite",
+      "budgets",
+      "business development",
+      "community development",
+      "corporate social responsibility",
+      "digital media",
+      "editing",
+      "flash",
+      "global health",
+      "grant writing",
+      "grants",
+      "health communication",
+      "health research",
+      "healthcare",
+      "html",
+      "infectious diseases",
+      "international development",
+      "journalism",
+      "leadership",
+      "management",
+      "marketing communications",
+      "microsoft office",
+      "ms office suite",
+      "ngos",
+      "non profits",
+      "nonprofits",
+      "pharmaceutical industry",
+      "project management",
+      "project planning",
+      "proposal writing",
+      "public health",
+      "public relations",
+      "publications",
+      "qualitative research",
+      "report writing",
+      "research",
+      "social media strategist",
+      "spss",
+      "strategic communications",
+      "strategic planning",
+      "website development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-08",
+        "title": {
+          "name": "product owner: ai & genai",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2025-08",
+        "start_date": "2021-06",
+        "title": {
+          "name": "digital brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-11",
+        "start_date": "2018-09",
+        "title": {
+          "name": "digital account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "syneos health commercial solutions",
+          "size": "10001+",
+          "id": "S0zAs2q4WfYcKN8waGhOOgEr3FKS",
+          "founded": 2017,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "morrisville, north carolina, united states",
+            "locality": "morrisville",
+            "region": "north carolina",
+            "metro": "raleigh, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1030 sync street",
+            "address_line_2": "suite 600",
+            "postal_code": "27560",
+            "geo": "35.83,-78.83"
+          },
+          "linkedin_url": "linkedin.com/company/syneoshealthcommercialsolutions",
+          "linkedin_id": "11418511",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-09",
+        "start_date": "2017-03",
+        "title": {
+          "name": "account director - digital",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "syneos health commercial solutions",
+          "size": "10001+",
+          "id": "S0zAs2q4WfYcKN8waGhOOgEr3FKS",
+          "founded": 2017,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "morrisville, north carolina, united states",
+            "locality": "morrisville",
+            "region": "north carolina",
+            "metro": "raleigh, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1030 sync street",
+            "address_line_2": "suite 600",
+            "postal_code": "27560",
+            "geo": "35.83,-78.83"
+          },
+          "linkedin_url": "linkedin.com/company/syneoshealthcommercialsolutions",
+          "linkedin_id": "11418511",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-03",
+        "start_date": "2015-10",
+        "title": {
+          "name": "senior account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2014-08",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-08",
+        "start_date": "2014-01",
+        "title": {
+          "name": "senior account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amiculum",
+          "size": "201-500",
+          "id": "rC92pZ8KGBPPP1cnYBjBNQZEuKfb",
+          "founded": 2001,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "bollington, england, united kingdom",
+            "locality": "bollington",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.28,-2.09"
+          },
+          "linkedin_url": "linkedin.com/company/amiculum",
+          "linkedin_id": "237637",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/amiculum_global",
+          "website": "amiculum.biz"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2013-12",
+        "start_date": "2012-09",
+        "title": {
+          "name": "junior product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "entry"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "malaria consortium",
+          "size": "501-1000",
+          "id": "fk01zAgYBxQBi8ckcAq4RQ6ZwmW7",
+          "founded": 2003,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "244-254 cambridge heath road",
+            "address_line_2": null,
+            "postal_code": "e2 9da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/malaria-consortium",
+          "linkedin_id": "478668",
+          "facebook_url": "facebook.com/malariaconsortium",
+          "twitter_url": null,
+          "website": "malariaconsortium.org"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2012-04",
+        "start_date": "2011-09",
+        "title": {
+          "name": "external communications officer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "que rico cambodia",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-09",
+        "start_date": "2007-10",
+        "title": {
+          "name": "country director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ael berkman forwarding",
+          "size": "51-200",
+          "id": "M9MROQy2H2oGooBHGCVPzQ1CZ22M",
+          "founded": 1998,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "shanghai, shanghai, china",
+            "locality": "shanghai",
+            "region": "shanghai",
+            "metro": null,
+            "country": "china",
+            "continent": "asia",
+            "street_address": "3701b wusong road",
+            "address_line_2": "no. 218",
+            "postal_code": "200082",
+            "geo": "31.17,121.41"
+          },
+          "linkedin_url": "linkedin.com/company/ael-berkman-forwarding-shanghai-ltd-",
+          "linkedin_id": "2346101",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aelbkm.com"
+        },
+        "location_names": [],
+        "end_date": "2007-10",
+        "start_date": "2006-06",
+        "title": {
+          "name": "communications officer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ucl",
+          "type": "post-secondary institution",
+          "id": "G9NsmugT8wQ2Ouasf0gGjg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-college-london",
+          "facebook_url": "facebook.com/uclofficial",
+          "twitter_url": "twitter.com/ucl",
+          "linkedin_id": "4171",
+          "website": "ucl.ac.uk",
+          "domain": "ucl.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2011",
+        "majors": [
+          "epidemiology",
+          "global health"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "oxford brookes university",
+          "type": "post-secondary institution",
+          "id": "4cLlXMV1osyzDnu6BAEbAw_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordbrookes",
+          "facebook_url": "facebook.com/oxfordbrookes",
+          "twitter_url": "twitter.com/oxford_brookes",
+          "linkedin_id": "13996",
+          "website": "brookes.ac.uk",
+          "domain": "brookes.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2006",
+        "majors": [
+          "communications"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "55835705",
+        "url": "linkedin.com/in/robin-jones-3b584816",
+        "username": "robin-jones-3b584816"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/robbo7771",
+        "username": "robbo7771"
+      },
+      {
+        "network": "linkedin",
+        "id": "55835705",
+        "url": "linkedin.com/in/robin-dylan-jones-3b584816",
+        "username": "robin-dylan-jones-3b584816"
+      },
+      {
+        "network": "linkedin",
+        "id": "55835705",
+        "url": "linkedin.com/in/robin-dylan-jones-msc-3b584816",
+        "username": "robin-dylan-jones-msc-3b584816"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,217 @@
+{
+  "record_id": "speaker-dubrovnik-072",
+  "speaker_name": "Yvette Venable",
+  "linkedin_url": "https://www.linkedin.com/in/yvette-venable-017a17/",
+  "likelihood": 9,
+  "full_name": "yvette venable",
+  "job_title": "interim head of europe & canada market access",
+  "industry": "pharmaceuticals",
+  "current_company": "astrazeneca",
+  "current_company_website": "astrazeneca.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "b2b",
+    "biotechnology",
+    "building organizational capability",
+    "coalitions",
+    "commercial strategy",
+    "communication",
+    "community engagement",
+    "corporate affairs",
+    "corporate communications",
+    "corporate social responsibility",
+    "crisis communications",
+    "crisis management",
+    "cross functional team leadership",
+    "digital strategy",
+    "emerging trends",
+    "event management",
+    "event planning",
+    "executive communications",
+    "executive management",
+    "executive visibility",
+    "external affairs",
+    "external communications",
+    "external relations",
+    "finance",
+    "global policy",
+    "government officials",
+    "healthcare",
+    "integrated marketing",
+    "internal communications",
+    "international issues",
+    "international policy",
+    "international relations",
+    "latin",
+    "latin america",
+    "leadership",
+    "legislative relations",
+    "life sciences",
+    "management",
+    "market access",
+    "market/patient access",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "media relations",
+    "message development",
+    "oncology",
+    "organizational leadership",
+    "patient advocacy",
+    "patient education",
+    "pharmaceutical industry",
+    "policy advocacy",
+    "press releases",
+    "product launch",
+    "project management",
+    "public affairs",
+    "public health",
+    "public policy",
+    "public relations",
+    "public speaking",
+    "regional policy",
+    "reputation management",
+    "self confidence",
+    "social media",
+    "speech writing",
+    "spokesperson",
+    "stakeholder engagement",
+    "strategic communications",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "tactical planning",
+    "team leadership",
+    "team management",
+    "trade associations",
+    "written communication"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "interim head of europe & canada market access",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global payer partnerships and policy: global market access",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "vice president of patient engagement",
+      "company": "institute of clinical and economic review",
+      "company_industry": null,
+      "start_date": "2020-04",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "global head of public affairs and patient advocacy",
+      "company": "kyowa kirin international plc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "global patient engagement, advocacy and access director, hematology & rare blood diseases",
+      "company": "baxalta",
+      "company_industry": "biotechnology",
+      "start_date": "2015",
+      "end_date": "2017",
+      "is_primary": false
+    },
+    {
+      "title": "global head (vice director) of public policy and patient access",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2012",
+      "end_date": "2014",
+      "is_primary": false
+    },
+    {
+      "title": "director (svp) , health",
+      "company": "edelman",
+      "company_industry": "public relations and communications",
+      "start_date": "2009",
+      "end_date": "2012",
+      "is_primary": false
+    },
+    {
+      "title": "director of public affairs, emea, oncology & cv / metabolics",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006",
+      "end_date": "2009",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president",
+      "company": "fleishmanhillard",
+      "company_industry": "public relations and communications",
+      "start_date": "2004",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "ogilvy",
+      "company_industry": "marketing and advertising",
+      "start_date": "2000",
+      "end_date": "2004",
+      "is_primary": false
+    },
+    {
+      "title": "communications manager",
+      "company": "walgreens",
+      "company_industry": "retail",
+      "start_date": "1997",
+      "end_date": "2000",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imperial college london",
+      "majors": [],
+      "degrees": [
+        "master of public health",
+        "masters"
+      ],
+      "start_date": "2023-09",
+      "end_date": "2025-09"
+    },
+    {
+      "school": "drake university",
+      "majors": [
+        "business marketing",
+        "journalism",
+        "latin american studies"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1990-01",
+      "end_date": "1994"
+    },
+    {
+      "school": "lake central high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "1990"
+    }
+  ]
+}

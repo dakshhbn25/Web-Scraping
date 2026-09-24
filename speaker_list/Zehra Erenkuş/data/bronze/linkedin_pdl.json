@@ -1,0 +1,640 @@
+{
+  "record_id": "speaker-dubrovnik-054",
+  "speaker_name": "Zehra Erenkuş",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/zehra-erenku%C5%9F/",
+  "scraped_at": "2026-09-18T09:37:00.065968+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "c2wp1QmY5J0JgOIgYtZB6A_0000",
+    "full_name": "zehra erenkuş",
+    "first_name": "zehra",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "erenkuş",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/zehra-erenkuş",
+    "linkedin_username": "zehra-erenkuş",
+    "linkedin_id": "19590926",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global marketing and innovation lead",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-10-24",
+    "job_last_verified": "2026-08-20",
+    "job_start_date": "2025-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-20",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytics",
+      "biostatistics",
+      "business analysis",
+      "business analytics",
+      "business intelligence",
+      "business strategy",
+      "clinical research",
+      "clinical study design",
+      "clinical trials",
+      "competitive analysis",
+      "competitive intelligence",
+      "consulting",
+      "crm",
+      "customer insight",
+      "customer loyalty management",
+      "customer relationship management",
+      "data analysis",
+      "data mining",
+      "data scientist",
+      "digital marketing",
+      "excel",
+      "forecasting",
+      "gcp",
+      "market analysis",
+      "market research",
+      "marketing analytics",
+      "marketing strategy",
+      "microsoft excel",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "predictive analytics",
+      "predictive modeling",
+      "r",
+      "research",
+      "sales effectiveness",
+      "sas",
+      "scientific data management",
+      "segmentation",
+      "spss",
+      "statistical data analysis",
+      "statistical modeling",
+      "statistics",
+      "strategic partnerships",
+      "tableau",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-09",
+        "title": {
+          "name": "global marketing and innovation lead",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2025-09",
+        "start_date": "2025-01",
+        "title": {
+          "name": "global insight innovation lead",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2025-01",
+        "start_date": "2021-12",
+        "title": {
+          "name": "lead, global commercial data science",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2021-12",
+        "start_date": "2019-08",
+        "title": {
+          "name": "manager, data science & advanced analytics emea",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2019-05",
+        "start_date": "2018-01",
+        "title": {
+          "name": "manager, scaled analytics emea",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2017-12",
+        "start_date": "2015-04",
+        "title": {
+          "name": "business analytics and insights",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "turk telekom",
+          "size": "10001+",
+          "id": "uM0Fx0YcYMBiHAOUG4OCAABC4wZw",
+          "founded": 1840,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "aydinlikevler, ankara, turkey",
+            "locality": "aydinlikevler",
+            "region": "ankara",
+            "metro": null,
+            "country": "turkey",
+            "continent": "asia",
+            "street_address": "06103 turgut özal bulvarı",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "39.96,32.87"
+          },
+          "linkedin_url": "linkedin.com/company/turktelekom",
+          "linkedin_id": "166540",
+          "facebook_url": "facebook.com/turktelekom",
+          "twitter_url": null,
+          "website": "turktelekom.com.tr"
+        },
+        "location_names": [],
+        "end_date": "2015-03",
+        "start_date": "2012-06",
+        "title": {
+          "name": "customer analytics & loyalty management team leader",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "consultant",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2019-01",
+        "start_date": "2011-12",
+        "title": {
+          "name": "statistics & biostatistics consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2011-11",
+        "start_date": "2010-09",
+        "title": {
+          "name": "sales force effectiveness and market research executive",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abdi ibrahim pharmaceuticals",
+          "size": "1001-5000",
+          "id": "GlySjZ3SUySQ1yZ0iE2p0gRILXjt",
+          "founded": 1912,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "sarıyer, istanbul, turkey",
+            "locality": "sarıyer",
+            "region": "istanbul",
+            "metro": null,
+            "country": "turkey",
+            "continent": "asia",
+            "street_address": "no 4 eski büyükdere caddesi",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.16,29.05"
+          },
+          "linkedin_url": "linkedin.com/company/abdi-ibrahim-pharmaceuticals",
+          "linkedin_id": "26693",
+          "facebook_url": "facebook.com/abdiibrahimilac",
+          "twitter_url": "twitter.com/abdiibrahimilac",
+          "website": "abdiibrahim.com.tr"
+        },
+        "location_names": [],
+        "end_date": "2010-10",
+        "start_date": "2007-01",
+        "title": {
+          "name": "sales force effectiveness specialist",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "bahcesehir university",
+          "type": "post-secondary institution",
+          "id": "D0oh1XGtvmYzdNvmdph9vA_0000",
+          "location": {
+            "name": "abbasağa, istanbul, turkey",
+            "locality": "abbasağa",
+            "region": "istanbul",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/bahcesehir-university",
+          "facebook_url": "facebook.com/bahcesehiruniversity",
+          "twitter_url": "twitter.com/bahcesehir",
+          "linkedin_id": "31394",
+          "website": "bau.edu.tr",
+          "domain": "bau.edu.tr"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2012-01",
+        "end_date": "2014",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "vienna school of clinical research",
+          "type": "post-secondary institution",
+          "id": "4KTZHQkVrKwni7lEq8ndIw_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/vienna-school-of-clinical-research",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1973085",
+          "website": "vscr.at",
+          "domain": "vscr.at"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hacettepe university",
+          "type": "post-secondary institution",
+          "id": "tXJGavyTbipZiUgnI0NAQw_0000",
+          "location": {
+            "name": "altındağ, ankara, turkey",
+            "locality": "altındağ",
+            "region": "ankara",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/hacettepe-university",
+          "facebook_url": "facebook.com/hacettepeuniversitesikurumsal",
+          "twitter_url": "twitter.com/hacettepe1967",
+          "linkedin_id": "21486",
+          "website": "hacettepe.edu.tr",
+          "domain": "hacettepe.edu.tr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2007-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hacettepe university",
+          "type": "post-secondary institution",
+          "id": "tXJGavyTbipZiUgnI0NAQw_0000",
+          "location": {
+            "name": "altındağ, ankara, turkey",
+            "locality": "altındağ",
+            "region": "ankara",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/hacettepe-university",
+          "facebook_url": "facebook.com/hacettepeuniversitesikurumsal",
+          "twitter_url": "twitter.com/hacettepe1967",
+          "linkedin_id": "21486",
+          "website": "hacettepe.edu.tr",
+          "domain": "hacettepe.edu.tr"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2000-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "19590926",
+        "url": "linkedin.com/in/zehra-erenkuş",
+        "username": "zehra-erenkuş"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

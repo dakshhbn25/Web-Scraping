@@ -1,0 +1,4132 @@
+[
+  {
+    "record_id": "speaker-dubrovnik-000",
+    "speaker_name": "Dana Vigier",
+    "designation": "VP, General Manager Alexion France and BeLux",
+    "company": "alexion",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/alexion.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/dana-vigier-md-18ab0b7/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:0",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-001",
+    "speaker_name": "Edyta Banach",
+    "designation": "Global Commercial Strategy Lead",
+    "company": "johnson-johnson",
+    "company_link": "https://www.jnj.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "johnson-johnson-logo.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/edytabanach/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:1",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-002",
+    "speaker_name": "Stefani Klaskow",
+    "designation": "Managing Director, Health",
+    "company": "google",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Google_2015_logo-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/stefani-klaskow-9260904/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:2",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-003",
+    "speaker_name": "Yariv Hefez",
+    "designation": "Senior Vice President Head Global Business Franchise Oncology",
+    "company": "merck",
+    "company_link": "https://www.merckgroup.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "MERCK_pink.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/yarivhefez/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:3",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-004",
+    "speaker_name": "Ricardo Castrillo",
+    "designation": "Head of Commercial Operations Europe, Canada, and International",
+    "company": "alexion",
+    "company_link": "https://alexion.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/ricardocastrillo/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:4",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-005",
+    "speaker_name": "Gemma Malla Salomó",
+    "designation": "CHC Omnichannel & E-Commerce",
+    "company": "angelinipharma.com",
+    "company_link": "https://www.angelinipharma.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "ML_Angelini_Pharma_Colore_RGB-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/gemma-malla-salom%C3%B3/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:5",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-006",
+    "speaker_name": "Jennifer Cleall",
+    "designation": "Global Head of Digital Transformation",
+    "company": "ferring",
+    "company_link": "https://www.ferring.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "2000px-Ferring_Logo.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/jennifercleall/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:6",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-007",
+    "speaker_name": "Thirupathi Pattipaka",
+    "designation": "Executive Director, AI and Innovation",
+    "company": "Novartis",
+    "company_link": "https://www.novartis.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novartis-logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/thirupathi-pattipaka/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:7",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-008",
+    "speaker_name": "Delphine Caroff",
+    "designation": "Associate Vice President, Sustainable Access Solutions, Global Market Access",
+    "company": "MSD logo",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "MSD.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/delphine-caroff-8761164/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:8",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-009",
+    "speaker_name": "Serena Planera",
+    "designation": "International Digital Engagement Strategy Leader",
+    "company": "lilly",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/lilly.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Eli_Lilly_and_Company.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/serenaplanera/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:9",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-010",
+    "speaker_name": "Dave Yates",
+    "designation": "Global Director: Field Experience & AI Solutions",
+    "company": "gsk",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/gsk.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "gsk.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/dave-yates-50872964/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:10",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-011",
+    "speaker_name": "Iria Gala",
+    "designation": "VP Digital & Customer Engagement",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/iriagala/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:11",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-012",
+    "speaker_name": "Elena Lunina",
+    "designation": "Global Medical Scientific Communication & Engagement Head",
+    "company": "sanofi",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/elenalunina/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:12",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-013",
+    "speaker_name": "Rita Sarmento",
+    "designation": "Head of Data, Digital and Technology, CSEE",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/rita-sarmento/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:13",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-014",
+    "speaker_name": "Lauren Leahy",
+    "designation": "International Medical Affairs Omnichannel Leader",
+    "company": "lilly",
+    "company_link": "https://www.lilly.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Eli_Lilly_and_Company.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/leahycreative/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:14",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-015",
+    "speaker_name": "Elijah Robinson",
+    "designation": "Director Content Excellence, Content and Omnichannel Services, GBS",
+    "company": "Astra Zeneca logo",
+    "company_link": "https://www.astrazeneca.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "astrazeneca-logo-png-astrazeneca-logo-astra-zeneca-4902-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/elijah-e-robinson/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:15",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-016",
+    "speaker_name": "Liana Lubel",
+    "designation": "Senior Director Marketing Excellence and Insights - Global Abbott Medicines",
+    "company": "abbott",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/abbott.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Abbott_Laboratories_logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/lianalubel/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:16",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-017",
+    "speaker_name": "Stefan Miljkovic",
+    "designation": "AVP, Global Head Digital Customer Experience",
+    "company": "ipsen",
+    "company_link": "https://www.ipsen.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ipsen.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/stefan-miljkovic-digital-leader/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:17",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-018",
+    "speaker_name": "Stefan König",
+    "designation": "CEO",
+    "company": "merz",
+    "company_link": "https://merztherapeutics.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-merz-therapeutics-blue.png",
+    "linkedin_url": "https://www.linkedin.com/in/stefan-k%C3%B6nig-9920b61b/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:18",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-019",
+    "speaker_name": "Alyssa Fenoglio",
+    "designation": "Founder & Strategic Advisor",
+    "company": "The Human Algorithm",
+    "company_link": "https://www.linkedin.com/company/the-human-algorithm-advisory/about/",
+    "company_source": "alt_text",
+    "company_logo_filename": "The-Human-Algorithm-by-Alyssa-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/afenoglio/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:19",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-020",
+    "speaker_name": "Imma Arco",
+    "designation": "Associate Director, Business Operations, Europe & International",
+    "company": "jazz pharma",
+    "company_link": "https://www.jazzpharma.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "2logo-JazzPharma@2x.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/imma-arco-60846759/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:20",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-021",
+    "speaker_name": "Carlos Sosa",
+    "designation": "Executive Director Global Commercial Excellence",
+    "company": "Almirall",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/almirall.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Almirall_Logo_2020.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/carlos-sosa-baixas/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:21",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-022",
+    "speaker_name": "Alex Condoleon",
+    "designation": "Chief Medical Affairs Officer of Medical Engagements & Impact",
+    "company": "pfizer",
+    "company_link": "https://www.pfizer.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Pfizer.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/alex-condoleon/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:22",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-023",
+    "speaker_name": "Barbara Albientz",
+    "designation": "Former Head of Business Innovation",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/barbara-albientz-business-leader/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:23",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-024",
+    "speaker_name": "Bettina Maurer",
+    "designation": "International Customer Experience / Digital Enablement (ex US)",
+    "company": "MSD logo",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "MSD.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/bettina-maurer-72971251/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:24",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-025",
+    "speaker_name": "Dan Cohen",
+    "designation": "Vice President, Global Head of Commercial Operations",
+    "company": "Biogen logo",
+    "company_link": "https://www.biogen.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "BIOGEN1.png",
+    "linkedin_url": "https://www.linkedin.com/in/dancohen23/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:25",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-026",
+    "speaker_name": "Marc Ryning",
+    "designation": "Senior Omnichannel Customer Engagement Manager - Region Europe & Canada",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/marc-ryning/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:26",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-027",
+    "speaker_name": "Travis Kupp",
+    "designation": "Associate Director, Futures Lead",
+    "company": "ucb",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/ucb.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb.png",
+    "linkedin_url": "https://www.linkedin.com/in/tkupp/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:27",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-028",
+    "speaker_name": "Audrey Krassnitzer",
+    "designation": "Director, HCP Journeys",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/audreykrassnitzer/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:28",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-029",
+    "speaker_name": "Tiana Homsani",
+    "designation": "Head of Content Excellence",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/tiana-vpcommercialexecutive/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:29",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-030",
+    "speaker_name": "Richard Cassidy",
+    "designation": "SVP, Rx+ Business Accelerator",
+    "company": "Astellas",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/astellas.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Astellas-big.png",
+    "linkedin_url": "https://www.linkedin.com/in/cassidyrichard/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:30",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-031",
+    "speaker_name": "Mostafa Taha",
+    "designation": "VP, Head of Global Business Transformation",
+    "company": "merck",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/merck.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "MERCK_pink.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mostafa-taha-b7ab651a/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:31",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-032",
+    "speaker_name": "Shaima Abid",
+    "designation": "Director, Business Planning & Delivery - US Oncology",
+    "company": "Astra Zeneca logo",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/astrazeneca.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "astrazeneca-logo-png-astrazeneca-logo-astra-zeneca-4902-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/shaimaabid/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:32",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-033",
+    "speaker_name": "Cristina Halunga",
+    "designation": "Global Omnichannel Operations Lead",
+    "company": "Grunenthal",
+    "company_link": "https://www.grunenthal.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Grunenthal_LightGreen_CMYK_300dpi.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/cristina-halunga-15b6a0108/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:33",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-034",
+    "speaker_name": "Kausar Riaz Ahmed",
+    "designation": "Senior Director, AI, Digital, and Precision Medicine",
+    "company": "Astra Zeneca logo",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/pfizer.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "astrazeneca-logo-png-astrazeneca-logo-astra-zeneca-4902-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/kausar-riaz-ahmed/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:34",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-035",
+    "speaker_name": "Dr. Immanuel Gartner",
+    "designation": "HCP/FIBA Europe Cup Scientific Director",
+    "company": "fiba",
+    "company_link": "https://www.fiba.basketball/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "fiba.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/dr-immanuel-gartner-555433180/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:35",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-036",
+    "speaker_name": "Eric Alsac",
+    "designation": "Vice President, Head of Commercial Operations",
+    "company": "norgine",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/norgine.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "norgine_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/eric-alsac-58a08418/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:36",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-037",
+    "speaker_name": "Naz Ameen",
+    "designation": "Clinical Service Manager Pharmacist",
+    "company": "circle",
+    "company_link": "https://www.circlehealthgroup.co.uk/hospitals/the-ridgeway-hospital",
+    "company_source": "alt_text",
+    "company_logo_filename": "circle_the_ridgeway_hospital_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/naz-ameen-221a91145/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:37",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-038",
+    "speaker_name": "Jennifer Villagarcia",
+    "designation": "Global Medical Scientific Communications Strategy Head",
+    "company": "sanofi",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/sanofi.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/jennifervillagarcia/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:38",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-039",
+    "speaker_name": "Roberta Pandolfi",
+    "designation": "Analytics Innovation Strategist",
+    "company": "Boehringer ingelheim",
+    "company_link": "http://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/roberta-pandolfi-87638414b/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:39",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-040",
+    "speaker_name": "Gayle Kenney",
+    "designation": "Head of Medical Excellence",
+    "company": "BioNTech",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/biontech.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "BioNTech_logo.svg1_.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/gayle-kenney-medical-affairs-leader/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:40",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-041",
+    "speaker_name": "Charles Hopkins",
+    "designation": "Senior Director, Global Commercial Innovation, Performance & Transformation",
+    "company": "gsk",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/gsk.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "gsk.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/charles-hopkins-b3004b1b/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:41",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-042",
+    "speaker_name": "Olivier Burgaud",
+    "designation": "Global Medical Affairs Digital Director",
+    "company": "servier",
+    "company_link": "https://servier.com/en/servier/",
+    "company_source": "alt_text",
+    "company_logo_filename": "servier.png",
+    "linkedin_url": "https://www.linkedin.com/in/olivier-burgaud-a626751b/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:42",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-043",
+    "speaker_name": "Greg Symber",
+    "designation": "Omnichannel Director",
+    "company": "Novartis",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/novartis.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "novartis-logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/greg-symber/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:43",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-044",
+    "speaker_name": "Dr Dev Gakhar",
+    "designation": "Senior House Officer",
+    "company": "nhs",
+    "company_link": "https://www.nhs.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "nhs-logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/devgakhar/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:44",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-045",
+    "speaker_name": "Mutlu Gunenc",
+    "designation": "Global Director Digital Strategy and Innovation",
+    "company": "beonemedicines",
+    "company_link": "https://beonemedicines.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "beonemedicines_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/marketingdirector-/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:45",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-046",
+    "speaker_name": "Dr. Mercede Pannozzo",
+    "designation": "Senior Medical Advisor/Manager at Viatris / Senior Advisor for Al 4 Purpose",
+    "company": "mercede-logo",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/",
+    "company_source": "alt_text",
+    "company_logo_filename": "mercede-logo.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mercedepannozzo-297bb079/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:46",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-047",
+    "speaker_name": "Lois-An Gregory",
+    "designation": "Strategy & Insights, Health & Wellness",
+    "company": "google",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Google_2015_logo-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/lois-an-gregory-000a03366/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:47",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-048",
+    "speaker_name": "Kornelia Williams",
+    "designation": "Director, Content Strategy and Operations - Global Customer Excellence",
+    "company": "abbvie",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/abbvie.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "abbvie.png",
+    "linkedin_url": "https://www.linkedin.com/in/kornelia-williams-57019912/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:48",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-049",
+    "speaker_name": "Iroda Jurabekova",
+    "designation": "Executive Director, Global Market Access, Oncology",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/iroda-jurabekova/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:49",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-050",
+    "speaker_name": "Dr. Petra Nathan",
+    "designation": "Global Head of Implementation Science",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/dr-petra-nathan-ba939929/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:50",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-051",
+    "speaker_name": "Sonia Kapoor",
+    "designation": "Head of Omnichannel",
+    "company": "gsk",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/gsk.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "gsk.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/sonia-kapoor-9216179/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:51",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-052",
+    "speaker_name": "Ezinneka Imoh",
+    "designation": "Global Lead, Scientific Communications & Medical Education, Rare Diseases",
+    "company": "Chiesi",
+    "company_link": "https://www.chiesi.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Chiesi-Logo-1.Primary-Beatriz-Branco-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/ezinneka-imoh-pharmd/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:52",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-053",
+    "speaker_name": "Neha Shah",
+    "designation": "Senior Director, Medical Affairs and Chief patient office technology",
+    "company": "vertex",
+    "company_link": "https://www.vrtx.com/en-global/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Vertex_logo.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/shahnb/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:53",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-054",
+    "speaker_name": "Zehra Erenkuş",
+    "designation": "Global Marketing and Innovation Lead",
+    "company": "Bayer",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/bayer.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Logo_Bayer.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/zehra-erenku%C5%9F/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:54",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-055",
+    "speaker_name": "Laetitia Huret",
+    "designation": "Transformation Excellence Lead",
+    "company": "servier",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/servier.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "sevier.png",
+    "linkedin_url": "https://www.linkedin.com/in/laetitiahuret/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:55",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-056",
+    "speaker_name": "Saurabh Dayal",
+    "designation": "Director & Global Lead, Field Medical Excellence",
+    "company": "Bayer",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/bayer.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Logo_Bayer.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/saurabh-dayal/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:56",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-057",
+    "speaker_name": "Marisa Muninger",
+    "designation": "Global Omnichannel Head Neurology",
+    "company": "sanofi",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/marisa-muninger-mba-phd-b4933b3/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:57",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-058",
+    "speaker_name": "Patrick Laroche",
+    "designation": "Vice President, Head of Medical Affairs EMEA",
+    "company": "johnson-johnson",
+    "company_link": "https://www.jnj.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "johnson-johnson-logo.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/patrick-laroche-a60ab011/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:58",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-059",
+    "speaker_name": "Dr. Steven Januar Kusmanto",
+    "designation": "Global Director, Marketing and Digital Excellence",
+    "company": "Menarini",
+    "company_link": "https://www.menarini.com/en-us.html",
+    "company_source": "alt_text",
+    "company_logo_filename": "Menarini_Group.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/doctorstevenjanuarkusmanto/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:59",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-060",
+    "speaker_name": "Giorgio Mazzoleni",
+    "designation": "Head of Global Medical Digital",
+    "company": "viiv",
+    "company_link": "https://viivhealthcare.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "viiv-healthcare-logo-vector.png",
+    "linkedin_url": "https://www.linkedin.com/in/giorgiomazzoleniphd/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:60",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-061",
+    "speaker_name": "Sarah Clark-Pfister",
+    "designation": "Head of Medical Excellence and Strategic Scientific Communications, Rare Disease",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/sarah-clark-731a3718/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:61",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-062",
+    "speaker_name": "Cristina Finazzi",
+    "designation": "Director, Congress & Customer Experience",
+    "company": "Novartis",
+    "company_link": "https://www.novartis.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novartis-logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/cristina-finazzi/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:62",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-063",
+    "speaker_name": "David Vanni",
+    "designation": "Associate Director Customer Strategy Oncology",
+    "company": "Novartis",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/novartis.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "novartis-logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/david-vanni-lifesciences/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:63",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-064",
+    "speaker_name": "Azeeza Sunmonu",
+    "designation": "Global Head of Commercial Excellence",
+    "company": "mundipharma",
+    "company_link": "https://www.mundipharma.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "mundipharma-logo-july2025.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/azeezat/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:64",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-065",
+    "speaker_name": "Guy Doron",
+    "designation": "Scientific Innovation Analysis Expert, R&D, Data Sciences & AI",
+    "company": "Bayer",
+    "company_link": "https://www.bayer.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Logo_Bayer.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/guy-doron-neuro-insights/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:65",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-066",
+    "speaker_name": "Dr. Eve Huber",
+    "designation": "Director Strategy & Marketing Neuroscience, Global Portfolio Division",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/dr-eve-huber-38275783/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:66",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-067",
+    "speaker_name": "Daniel Leutenegger",
+    "designation": "Director Patient Health Excellence, Strategy & Portfolio Development",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/leutenegger/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:67",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-068",
+    "speaker_name": "Florent Edouard",
+    "designation": "Global Head of the Digital Accelerator",
+    "company": "sanofi",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/florentedouard/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:68",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-069",
+    "speaker_name": "Dr. James O’Donovan",
+    "designation": "Memory Assessment Service",
+    "company": "nhs",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/",
+    "company_source": "alt_text",
+    "company_logo_filename": "nhs-logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/doctorodonovan/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:69",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-070",
+    "speaker_name": "Jochen Baumeister",
+    "designation": "AI Transformation & Behavioral Science in Regulated Enterprises",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/jbaumeister/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:70",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-071",
+    "speaker_name": "Matthias Krenz",
+    "designation": "Global Head of Customer Experience",
+    "company": "medice",
+    "company_link": "https://medice-health-family.com/de-de?utm_medium=redirect&utm_source=medice",
+    "company_source": "alt_text",
+    "company_logo_filename": "medice.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/matthias-krenz-b46064a8/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:71",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-072",
+    "speaker_name": "Yvette Venable",
+    "designation": "Global Market Acccess Payer Partnerships and Policy",
+    "company": "Astra Zeneca logo",
+    "company_link": "https://www.astrazeneca.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "astrazeneca-logo-png-astrazeneca-logo-astra-zeneca-4902-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/yvette-venable-017a17/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:72",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-073",
+    "speaker_name": "Arantxa Mugica Goicoechea",
+    "designation": "Senior Director, International Web Product Strategy",
+    "company": "lilly",
+    "company_link": "https://www.lilly.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "eli-lily.png",
+    "linkedin_url": "https://www.linkedin.com/in/arantxamg/?locale=en",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:73",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-074",
+    "speaker_name": "Dr. Mussa Arvani",
+    "designation": "Medical Affairs Expert",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/dr-mussa-arvani-md/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:74",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-075",
+    "speaker_name": "Mirkka Schaller",
+    "designation": "Chief Futures Officer Independent",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/mirkka-schaller/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:75",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-076",
+    "speaker_name": "Lorna Fergusson",
+    "designation": "Global Field Medical Excellence Lead",
+    "company": "amgen",
+    "company_link": "https://www.amgen.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Amgen-small.png",
+    "linkedin_url": "https://www.linkedin.com/in/lorna-fergusson-5964937/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:76",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-077",
+    "speaker_name": "Leann Pezdirtz",
+    "designation": "Vice President, Medicine Excellence",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/leann-pezdirtz-0487a588/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:77",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-078",
+    "speaker_name": "Sebastian Walpen",
+    "designation": "Global Head Medical Communication & Field Medical Excellence",
+    "company": "CSL Vifor",
+    "company_link": "https://www.csl.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "csl-vifor.png",
+    "linkedin_url": "https://www.linkedin.com/in/sebastian-walpen/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:78",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-079",
+    "speaker_name": "Andrew Binns",
+    "designation": "Director",
+    "company": "poke",
+    "company_link": "https://pokemarketing.co.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Screenshot-2026-05-08-at-10.41.02.png",
+    "linkedin_url": "https://www.linkedin.com/in/andrewjohnbinns/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:79",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-080",
+    "speaker_name": "Robert Raušel",
+    "designation": "Head of Engineering",
+    "company": "ingemark",
+    "company_link": "https://www.ingemark.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ingemark.png",
+    "linkedin_url": "https://www.linkedin.com/in/robert-rau%C5%A1el-239902128/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:80",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-081",
+    "speaker_name": "Mark Meyling",
+    "designation": "Director, Sales, Medical Education",
+    "company": "wiley",
+    "company_link": "https://www.wiley.com/en-es/",
+    "company_source": "alt_text",
+    "company_logo_filename": "wiley2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mark-gmelig-meyling-88682a/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:81",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-082",
+    "speaker_name": "Eva Nagtegaal",
+    "designation": "Independent Medical Education Business Lead",
+    "company": "wiley",
+    "company_link": "https://www.wiley.com/en-es/",
+    "company_source": "alt_text",
+    "company_logo_filename": "wiley2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/evanagtegaal/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:82",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-083",
+    "speaker_name": "Geoff Covey",
+    "designation": "Director, Product Capability, Medical Education",
+    "company": "wiley",
+    "company_link": "https://www.wiley.com/en-es/",
+    "company_source": "alt_text",
+    "company_logo_filename": "wiley2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/gcovey/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:83",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-084",
+    "speaker_name": "Tom Keith-Welsh",
+    "designation": "Client Partner - Healthcare and Life Sciences",
+    "company": "endava",
+    "company_link": "https://www.endava.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "endava_logo_web.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/tomkw/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:84",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-085",
+    "speaker_name": "Janik Jaskolski",
+    "designation": "CEO",
+    "company": "semaltyx",
+    "company_link": "https://semalytix.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "semaltyx.png",
+    "linkedin_url": "https://www.linkedin.com/in/janik-jaskolski-5b51a930/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:85",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-086",
+    "speaker_name": "Massimiliano Ciaramelli",
+    "designation": "Head of Customer Success",
+    "company": "mamahealth.com",
+    "company_link": "https://www.mamahealth.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "mamahealth_logo_2_2.png",
+    "linkedin_url": "https://www.linkedin.com/in/massimilianociaramelli/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:86",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-087",
+    "speaker_name": "Elisabetta Marano",
+    "designation": "Patient Advocacy and Public Affairs Director at Alfasigma",
+    "company": "alfasigma.com",
+    "company_link": "https://www.alfasigma.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "alfasigma.png",
+    "linkedin_url": "https://www.linkedin.com/in/elisabetta-marano-00691ba3/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:87",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-088",
+    "speaker_name": "Lutgarde Allard",
+    "designation": "President / Treasurer",
+    "company": "eumga",
+    "company_link": "https://eumga.eu/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-eumga.png",
+    "linkedin_url": "https://www.linkedin.com/in/lutgarde-allard-66051b273/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:88",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-089",
+    "speaker_name": "Vishal Khanna",
+    "designation": "Regional Principal DACH & FR",
+    "company": "axtria",
+    "company_link": "https://www.axtria.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "axtria.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/vkhanna009/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:89",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-090",
+    "speaker_name": "Nicholas Rosen",
+    "designation": "Founder & CEO",
+    "company": "exaris",
+    "company_link": "https://exaris-solutions.de/home-new-ger/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Exaris_Logo_Solutions-2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/nicholas-rosen/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:90",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-091",
+    "speaker_name": "Chris Kubby",
+    "designation": "Founder & CEO",
+    "company": "kubbco",
+    "company_link": "https://www.kubbco.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "kubbco_1.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/kubby/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:91",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-092",
+    "speaker_name": "Dr William McCully",
+    "designation": "Co-founder & Director",
+    "company": "aithena",
+    "company_link": "https://www.aithena.co.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "aithena2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/williammccully/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:92",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-093",
+    "speaker_name": "Tinkara Pavlovcic Kapitanovic",
+    "designation": "HBA Chapter President",
+    "company": "hbanet.org",
+    "company_link": "https://hbanet.org/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "HBA-logo-e1660901246375.png",
+    "linkedin_url": "https://www.linkedin.com/in/tinkarapk/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:93",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-094",
+    "speaker_name": "Dominik Mergler",
+    "designation": "Director Customer Engagement & Business Line Lead HLS",
+    "company": "valantic",
+    "company_link": "https://www.valantic.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "valantic_Logo_schwarz.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/dominikmergler/?locale=en",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:94",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-095",
+    "speaker_name": "Marc Schöni",
+    "designation": "Global Pricipal Solution Engineer HLS",
+    "company": "salesforce",
+    "company_link": "https://www.salesforce.com/healthcare/",
+    "company_source": "alt_text",
+    "company_logo_filename": "web-sponzori_bec-24.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/aiguy/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:95",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-096",
+    "speaker_name": "Dipanwita Das",
+    "designation": "CEO & Co-founder",
+    "company": "sorcero",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/sorcero.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "sorcero.png",
+    "linkedin_url": "https://www.linkedin.com/in/dipanwitadas/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:96",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-097",
+    "speaker_name": "Zeinab Sulaiman",
+    "designation": "Practice Leader, Medical Affairs Centre of Excellence",
+    "company": "sorcero",
+    "company_link": "https://www.sorcero.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "sorcero.png",
+    "linkedin_url": "https://www.linkedin.com/in/zeinab-sulaiman-6030a738/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:97",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-098",
+    "speaker_name": "Sam Rolfe",
+    "designation": "Sales Director, EMEA",
+    "company": "exeevo",
+    "company_link": "https://exeevo.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "exeevo_s.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/sam-rolfe-cloud/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:98",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-099",
+    "speaker_name": "Stacy Payne",
+    "designation": "Senior Director, Agentforce Life Sciences Strategy & Solutions",
+    "company": "salesforce",
+    "company_link": "https://www.salesforce.com/healthcare/",
+    "company_source": "alt_text",
+    "company_logo_filename": "web-sponzori_bec-24.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/stacy-payne-msc/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:99",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-100",
+    "speaker_name": "Ariel Salmang",
+    "designation": "SVP, Managing Director, Global Strategic Development",
+    "company": "eversana",
+    "company_link": "https://www.eversana.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "2LOGO_EVERSANA-INTOUCH-stacked-1.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/arielsalmang/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:100",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-101",
+    "speaker_name": "Derek Choy",
+    "designation": "Head of Product",
+    "company": "PFIQ",
+    "company_link": "https://pharmaforceiq.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "PFIQ__Logo-Full-Color.png",
+    "linkedin_url": "https://www.linkedin.com/in/derek-choy-5277573/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:101",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-102",
+    "speaker_name": "Andreas Gensch",
+    "designation": "Co-Founder",
+    "company": "ceel-ai",
+    "company_link": "https://www.ceel.ai/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ceel-ai-scaled.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/andreas-gensch2020/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:102",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-103",
+    "speaker_name": "Klas Eriksson",
+    "designation": "Principal",
+    "company": "axtria",
+    "company_link": "https://www.axtria.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "axtria.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/klaseriksson/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:103",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-104",
+    "speaker_name": "Florian Gürtler",
+    "designation": "Key Account Director",
+    "company": "axtria",
+    "company_link": "https://www.axtria.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "axtria.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/florianguertler2023/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:104",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-105",
+    "speaker_name": "Ashvin Dharmavaram Bhogendra",
+    "designation": "Principal",
+    "company": "axtria",
+    "company_link": "https://www.axtria.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "axtria.jpg",
+    "linkedin_url": null,
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:105",
+    "missing_fields": [
+      "linkedin_url"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-106",
+    "speaker_name": "Aditya Kudumala",
+    "designation": "Principal (Partner)",
+    "company": "Deloitte",
+    "company_link": "https://www.deloitte.com/global/en/industries/life-sciences/about.html",
+    "company_source": "alt_text",
+    "company_logo_filename": "1_deloitte.png",
+    "linkedin_url": "https://www.linkedin.com/in/akudumala/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:106",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-107",
+    "speaker_name": "Paul Tunnah",
+    "designation": "Pharma Expert",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/paultunnah/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:107",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-dubrovnik-108",
+    "speaker_name": "Nataliya Andreychuk",
+    "designation": "Co-Founder & CEO",
+    "company": "viseven",
+    "company_link": "https://viseven.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "viseven.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/andreychuk/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:108",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-109",
+    "speaker_name": "Mark Pringle",
+    "designation": "Senior Principal",
+    "company": "BePossible",
+    "company_link": "https://bepossible.co.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "BePossible_logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/mark-pringle-114750/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:109",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-110",
+    "speaker_name": "Patrick Markt-Niederreiter",
+    "designation": "Co-Founder",
+    "company": "ceel-ai",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ceel-ai-scaled.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/patrick-markt-niederreiter-41539959/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:110",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-111",
+    "speaker_name": "Mehrnaz Campbell",
+    "designation": "Founder & CEO",
+    "company": "cheemia",
+    "company_link": "https://www.cheemia.co.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "cheemia.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/mehrnazcampbell/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:111",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-112",
+    "speaker_name": "Matthew Durham",
+    "designation": "Vice President, Global",
+    "company": "cmi",
+    "company_link": "https://cmimediagroup.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "cmi-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/matthew-durham-227a8536/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:112",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-113",
+    "speaker_name": "Michael Orriss",
+    "designation": "Marketing & Customer Engagement Consultant",
+    "company": "oxford",
+    "company_link": "https://oxfordsm.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "oxford2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/michaelorriss/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:113",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-114",
+    "speaker_name": "Delphine O’Keeffe",
+    "designation": "Launch & Portfolio Strategy Lead",
+    "company": "oxford",
+    "company_link": "https://oxfordsm.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "oxford2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/okeeffedelphine/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:114",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-115",
+    "speaker_name": "Jo Ryman",
+    "designation": "Transformation & Capability Director",
+    "company": "oxford",
+    "company_link": "https://oxfordsm.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "oxford2.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/jo-ryman-7a300b2/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:115",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-116",
+    "speaker_name": "Liisa Caliendo",
+    "designation": "Senior Vice President Marketing and Product Experience",
+    "company": "medscape",
+    "company_link": "https://www.medscape.com/public/about",
+    "company_source": "alt_text",
+    "company_logo_filename": "Medscape_NoTagline_Logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/liisa-caliendo-mph/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:116",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-117",
+    "speaker_name": "Kevin Fernando",
+    "designation": "Portfolio GP",
+    "company": "nhs",
+    "company_link": "https://www.medscape.com/public/about",
+    "company_source": "alt_text",
+    "company_logo_filename": "nhs-logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/drkfernando/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:117",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-118",
+    "speaker_name": "Laure Nas de Tourris",
+    "designation": "Partner, Commercial Consulting Services",
+    "company": "clarivate.com",
+    "company_link": "https://clarivate.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Clarivate-Logo-RGB_Horizontal-composition_Color.png",
+    "linkedin_url": "https://www.linkedin.com/in/laurenasdetourris/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:118",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-119",
+    "speaker_name": "Steve Royle",
+    "designation": "Founder",
+    "company": "MYMA-Logo",
+    "company_link": "https://mymedicalaffairs.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "MYMA-Logo-landscape.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/stevenroyle/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:119",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-120",
+    "speaker_name": "Niamh O’Donnell",
+    "designation": "Life Sciences Director",
+    "company": "gate one",
+    "company_link": "https://nextpharmasummit.com/Dubrovnik/speakers/Gate%20One",
+    "company_source": "alt_text",
+    "company_logo_filename": "gate-one.png",
+    "linkedin_url": "https://www.linkedin.com/in/niamhodonnell1/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:120",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-121",
+    "speaker_name": "Derek Annan",
+    "designation": "Head of Group Healthcare Strategy",
+    "company": "resonant",
+    "company_link": "https://resonantgrp.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Group-logo-lock-v2.png",
+    "linkedin_url": "https://www.linkedin.com/in/derek-annan-phd/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:121",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-122",
+    "speaker_name": "Luigi Boaretto",
+    "designation": "Managing Director and Equity Partner | Business Transformation & Strategy",
+    "company": "logo-astheria",
+    "company_link": "https://astheria.it/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-astheria.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/luigiboaretto/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:122",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-123",
+    "speaker_name": "Agathe Acchiardo",
+    "designation": "Founder & Director",
+    "company": "think-next",
+    "company_link": "https://thinknext.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "think-next.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/agatheacchiardo/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:123",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-124",
+    "speaker_name": "Yacin Marzouki",
+    "designation": "CEO",
+    "company": "bionthealth",
+    "company_link": "https://biond.health/",
+    "company_source": "alt_text",
+    "company_logo_filename": "biond.png",
+    "linkedin_url": "https://www.linkedin.com/in/yacin-m-customerengagement/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:124",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-125",
+    "speaker_name": "Maaike Addicks",
+    "designation": "Medical Affairs Expert",
+    "company": "school of ma",
+    "company_link": "https://schoolofmedicalaffairs.nl/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-wit-e1614346806419.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/maaike-addicks/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:125",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-dubrovnik-126",
+    "speaker_name": "Jiten Jain",
+    "designation": "Vice President & General Manager - UK & Europe",
+    "company": "doceree",
+    "company_link": "https://doceree.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "2DocereeMasterLogo-RGB-01.png",
+    "linkedin_url": "https://www.linkedin.com/in/jitenj/",
+    "event_name": "Dubrovnik",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:28.816609+00:00",
+    "silver_record_ref": "dubrovnik:126",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-000",
+    "speaker_name": "Philip Cruz",
+    "designation": "Country Medical Director for the United Kingdom",
+    "company": null,
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/moderna.com",
+    "company_source": null,
+    "company_logo_filename": "moderna-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/philip-cruz-md-ffpm-39454118a/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:0",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-medical-001",
+    "speaker_name": "Dr Adela Taranu",
+    "designation": "Head of Global Medical Affairs",
+    "company": "worwag",
+    "company_link": "https://www.woerwagpharma.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "worwag-logo_new.png",
+    "linkedin_url": "https://www.linkedin.com/in/dr-adela-taranu-phd-mba-279537a0/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:1",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-002",
+    "speaker_name": "Dr Kishan Rees",
+    "designation": "Senior Director / Global Video Content & Digital Media Strategy - Patient & Scientific Engagement",
+    "company": "Bayer",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/bayer.com",
+    "company_source": "filename_matched",
+    "company_logo_filename": "Logo_Bayer.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/drkishanrees/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:2",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-003",
+    "speaker_name": "Reinhard Berkels",
+    "designation": "Global Lead – Medical Affairs Evolution and Metrics",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/reinhard-berkels-phd/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:3",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-004",
+    "speaker_name": "Paméla Graas",
+    "designation": "Head, Global Medical Capability Strategy & Operations",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/pam%C3%A9la-graas-dmv-des-5654794/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:4",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-005",
+    "speaker_name": "Laura Avanzo Leeke",
+    "designation": "Global Medical Information Manager",
+    "company": "recordati.com",
+    "company_link": "https://recordati.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "RECORDATI-novo.png",
+    "linkedin_url": "https://www.linkedin.com/in/lauraavanzoleeke/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:5",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-006",
+    "speaker_name": "Lynn Mertens",
+    "designation": "Global Medical Impact Lead",
+    "company": "ucb",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/ucb.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/lynn-mertens-a091135b/?locale=en",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:6",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-007",
+    "speaker_name": "Louise Ostergaard",
+    "designation": "Global Publications & Scientific Communications Director",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/ostergaardlouiselifescience/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:7",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-008",
+    "speaker_name": "Adam Jones",
+    "designation": "Vice President International Medical",
+    "company": "amicus biomarin",
+    "company_link": "https://amicusrx.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Amicus-BioMarin-logo-scaled-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/adamjonesphd/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:8",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-009",
+    "speaker_name": "Georgios Tramountanis",
+    "designation": "Data, Digital & Technology, Global Head Medical Core Capabilities - Global Portfolio Division",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/georgiostramountanis/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:9",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-010",
+    "speaker_name": "Joan van der Horn",
+    "designation": "Global Lead Medical Affairs Capabilities Development",
+    "company": "Viatris",
+    "company_link": "https://www.viatris.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "Viatris_Logo_Horiz_RGB_VIOLET_resized_header_icon-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/joan-van-der-horn-9994279/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:10",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-011",
+    "speaker_name": "Kate Bradford",
+    "designation": "Global Head of Medical Training and Field Capabilities",
+    "company": "alexion",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/alexion.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/kate-bradford-a9346b4/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:11",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-012",
+    "speaker_name": "Enric Sabata Junyent",
+    "designation": "Medical Insights & Analytics Lead",
+    "company": "Boehringer ingelheim",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/enric-sabata/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:12",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-013",
+    "speaker_name": "Radhika Bhatia",
+    "designation": "Global Head of Scientific Communication Excellence, Systems & Platforms",
+    "company": "ucb",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/ucb.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/radhika-bhatia-pharma-leader/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:13",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-014",
+    "speaker_name": "Emeline Blin Massonneau",
+    "designation": "NPP / Launch Digital Excellence Lead - Global Portfolio Division DD&T",
+    "company": "takeda",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/emelineblin/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:14",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-015",
+    "speaker_name": "Travis Kupp",
+    "designation": "Director, Head of Futures",
+    "company": "ucb",
+    "company_link": "https://www.ucb.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/tkupp/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:15",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-016",
+    "speaker_name": "Agathe Acchiardo",
+    "designation": "Founder & Director",
+    "company": "think-next",
+    "company_link": "https://thinknext.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "think-next.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/agatheacchiardo/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:16",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-017",
+    "speaker_name": "Mirkka Schaller",
+    "designation": "Independent Advisor, Ex-Alexion",
+    "company": "alexion",
+    "company_link": "https://alexion.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "alexion.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mirkka-schaller/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:17",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-018",
+    "speaker_name": "Patricia Maric",
+    "designation": "Global Medical Transformation Lead, Strategy, Innovation & Medical Transformation",
+    "company": "sanofi",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/sanofi.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/patriciamaric/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:18",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-019",
+    "speaker_name": "Mostapha Haidar",
+    "designation": "Associate Director, Medical Omni-Channel & Engagement Excellence",
+    "company": "novo-nordisk",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/mostapha-haidar/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:19",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-020",
+    "speaker_name": "Stefaan Fiers",
+    "designation": "Chapter Head External Affairs",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Roche_Logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/stefaanfiers/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:20",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-021",
+    "speaker_name": "Wassim El Bitar",
+    "designation": "Pediatrician - pediatric & adolescent gynecology",
+    "company": "chirec.be",
+    "company_link": "https://www.chirec.be/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "CHIREC-Hospital-Group-.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/wassim-el-bitar-2a749a84/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:21",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-022",
+    "speaker_name": "Selena Freisens",
+    "designation": "Head of Global Medical Affairs",
+    "company": "merz-therapeutics",
+    "company_link": "https://merztherapeutics.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "logo-merz-therapeutics-blue.png",
+    "linkedin_url": "https://www.linkedin.com/in/selena-freisens-md-92ab593/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:22",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-023",
+    "speaker_name": "Emma Vitalini",
+    "designation": "Digital Scientific Engagement Lead, Mid-European Region",
+    "company": "msd",
+    "company_link": "https://nextpharmasummit.com/Medical/speakers/msd.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/emmavitalini-pharma-pioneer/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:23",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-024",
+    "speaker_name": "Nina van Roosmalen Furlanič",
+    "designation": "Omnichannel & Content Lead Dermatology Europe",
+    "company": "ucb",
+    "company_link": "https://www.ucb.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ucb_small.png",
+    "linkedin_url": "https://www.linkedin.com/in/nina-van-roosmalen-furlani%C4%8D-86444616/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:24",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-025",
+    "speaker_name": "Michael Zaiac",
+    "designation": "Head of Medical Affairs Oncology Europe and Canada",
+    "company": "Daiichi-sankyo",
+    "company_link": "https://www.daiichi-sankyo.eu/",
+    "company_source": "alt_text",
+    "company_logo_filename": "1200px-Daiichi-sankyo_logomark.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/michael-zaiac-45ab191/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:25",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-026",
+    "speaker_name": "Yukti Khurana",
+    "designation": "Director, Medical Insights & Impact",
+    "company": "Astellas",
+    "company_link": "https://www.astellas.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Astellas-small.png",
+    "linkedin_url": "https://nextpharmasummit.com/Medical/speakers/#https://www.linkedin.com/in/khuranayukti/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:26",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-027",
+    "speaker_name": "Azèle Mathieu",
+    "designation": "Innovation Lead - Associate Director",
+    "company": "msd",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/az%C3%A8le-mathieu-a465804/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:27",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-028",
+    "speaker_name": "Kerrianne Clinton",
+    "designation": "Medical Lead - Vaccines Pipeline",
+    "company": "sanofi",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/kerrianneclinton/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:28",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-029",
+    "speaker_name": "Natasha Hansjee",
+    "designation": "Integrated Medical Engagement Catalyst",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Roche_Logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/natashahansjee/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:29",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-030",
+    "speaker_name": "Ufuk Balci",
+    "designation": "Head of Business Excellence",
+    "company": "gsk",
+    "company_link": "https://www.gsk.com/en-gb/",
+    "company_source": "alt_text",
+    "company_logo_filename": "gsk.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/ufukbalci/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:30",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-medical-031",
+    "speaker_name": "Maxime van Greunsven",
+    "designation": "Customer Experience & Innovation Lead",
+    "company": "msd",
+    "company_link": "https://www.msd.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Merck_Sharp__Dohme_MSD.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/maxime-van-greunsven-18b07083/",
+    "event_name": "Medical",
+    "event_year": 2027,
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:31.471549+00:00",
+    "silver_record_ref": "medical:31",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-000",
+    "speaker_name": "Wayne Simmons",
+    "designation": "Founder & Author",
+    "company": "amazon.com",
+    "company_link": "https://www.amazon.com/dp/1394253680?dplnkId=d74dc18d-573d-485b-b757-59cac4888503&nodl=1#SalesRank",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "The-Customer-Excellence-AGENCY-logo.png",
+    "linkedin_url": null,
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:0",
+    "missing_fields": [
+      "linkedin_url"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-001",
+    "speaker_name": "Sylvia Park-Ekecs",
+    "designation": "Global Head of Consumer eXperience",
+    "company": "sanofi.com",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/sylviaparkekecs/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:1",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-002",
+    "speaker_name": "Itziar Canamasas",
+    "designation": "Global Head of Oncology, SVP",
+    "company": "boehringer-ingelheim.com",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/itziarcanamasas/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:2",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-003",
+    "speaker_name": "Luca Frangoni",
+    "designation": "Global Head of Customer Channel Solutions",
+    "company": "boehringer-ingelheim.com",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/luca-frangoni-5692412/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:3",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-004",
+    "speaker_name": "Berk Kiran",
+    "designation": "Vice President, Head of Commercial Operations Specialty Medicine Europe",
+    "company": "daiichisankyo.com",
+    "company_link": "https://www.daiichisankyo.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "daiichi-sankyo-small.png",
+    "linkedin_url": "https://www.linkedin.com/in/berk-kiran-8aa523b/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:4",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-005",
+    "speaker_name": "Claude Broudic",
+    "designation": "GPS operations Director",
+    "company": "servier.com",
+    "company_link": "https://servier.com/en/servier/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "servier-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/claude-broudic-606263/?skipRedirect=true",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:5",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-006",
+    "speaker_name": "Neyran Erlevent",
+    "designation": "Global Head of Integrated Experience and Operations",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "roche.png",
+    "linkedin_url": "https://www.linkedin.com/in/neyranerlevent/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:6",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-007",
+    "speaker_name": "Dr. Marion C. Legler",
+    "designation": "Head of Bayer Pharma Decision Science & AI",
+    "company": "bayer.com",
+    "company_link": "https://www.bayer.com/en/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "bayer_small.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/dr-marion-c-legler-b389a7150/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:7",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-008",
+    "speaker_name": "Diana Placido",
+    "designation": "Chief Digital & Technology Officer",
+    "company": "viivhealthcare.com",
+    "company_link": "https://viivhealthcare.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "viiv-logo_rectangle.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/diana-medeiros-pl%C3%A1cido-400a59/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:8",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-009",
+    "speaker_name": "Justus Le Roy",
+    "designation": "Director Digital Marketing & Engagement Strategy, Incyte International",
+    "company": "incyte",
+    "company_link": "https://incyte.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "incyte_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/justusleroy/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:9",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-010",
+    "speaker_name": "Micheál O’Toole",
+    "designation": "Senior Director, Global Sales Force Excellence",
+    "company": "astrazeneca.com",
+    "company_link": "https://www.astrazeneca.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "astrazeneca.png",
+    "linkedin_url": "https://www.linkedin.com/in/miche%C3%A1l-o-toole-a0136413/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:10",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-011",
+    "speaker_name": "Vangelis Oikonomou",
+    "designation": "Director, International Commercial Excellence",
+    "company": "Novartis",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/",
+    "company_source": "filename_matched",
+    "company_logo_filename": "Novartis.jpg",
+    "linkedin_url": null,
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:11",
+    "missing_fields": [
+      "linkedin_url"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-012",
+    "speaker_name": "Eva Martins",
+    "designation": "Global Head Launch and Commercialization Excellence",
+    "company": "sanofi.com",
+    "company_link": "https://www.sanofi.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/evamartinsme/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:12",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-013",
+    "speaker_name": "Debbie Young",
+    "designation": "Multichannel Strategy and Customer Insights Director",
+    "company": "otsuka-europe.com",
+    "company_link": "https://www.otsuka-europe.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Otsuka_Pharmaceutical-Logo.wine_-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/debbie-young-uk/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:13",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-014",
+    "speaker_name": "Huw Jenkins",
+    "designation": "Director, Global Content Strategy",
+    "company": "astellas",
+    "company_link": "https://www.astellas.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ASTELLAS-LOGO-1.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/huw-jenkins-30640b4/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:14",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-015",
+    "speaker_name": "Djordje Cakic",
+    "designation": "Customer Experience and Omnichannel Engagement Lead, CEETRIS region",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "roche.png",
+    "linkedin_url": "https://www.linkedin.com/in/djordje-cakic-779a404b/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:15",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-016",
+    "speaker_name": "Guilherme Duarte",
+    "designation": "Senior Data Management & AI Lead",
+    "company": "novonordisk.com",
+    "company_link": "https://www.novonordisk.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "novo-nordisk.png",
+    "linkedin_url": "https://www.linkedin.com/in/duarte-guilherme/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:16",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-017",
+    "speaker_name": "Emilien Le Flahat",
+    "designation": "Commercial Advanced Analytics & AI Product Line Owner",
+    "company": "sanofi.com",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/emilienleflahat/?locale=en",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:17",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-018",
+    "speaker_name": "Robin Jones",
+    "designation": "Product Owner: AI & GenAI",
+    "company": "astrazeneca.com",
+    "company_link": "https://www.astrazeneca.com/country-sites/croatia.html",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "astrazeneca.png",
+    "linkedin_url": "https://www.linkedin.com/in/robin-jones-3b584816/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:18",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-019",
+    "speaker_name": "David Wilson",
+    "designation": "Global Digital Transformation & Innovation Director",
+    "company": "Kyowa Kirin",
+    "company_link": "https://www.kyowakirin.com/index.html",
+    "company_source": "alt_text",
+    "company_logo_filename": "kyowa.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/david-wilson-ab0171b/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:19",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-020",
+    "speaker_name": "Niv Ben Yosef",
+    "designation": "Global Omnichannel Manager",
+    "company": "almirall.com",
+    "company_link": "https://www.almirall.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "almirall.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/nivbenyosef/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:20",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-021",
+    "speaker_name": "Yariv Hefez",
+    "designation": "Former Senior Vice President Head Global Business Franchise Oncology",
+    "company": "merck.com",
+    "company_link": "https://www.merck.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "MERCK_pink.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/yarivhefez/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:21",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-022",
+    "speaker_name": "Mateja Vrtacnik Mandic",
+    "designation": "Country Head Oncology Portugal a.i.",
+    "company": "takeda.com",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/mateja-vrtacnik/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:22",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-023",
+    "speaker_name": "Yavor Angelov",
+    "designation": "Senior Product Owner CRM",
+    "company": "daiichisankyo.com",
+    "company_link": "https://www.daiichisankyo.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "daiichi-sankyo-small.png",
+    "linkedin_url": "https://www.linkedin.com/in/yavor-angelov/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:23",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-024",
+    "speaker_name": "Ashish Saxena",
+    "designation": "Senior Global Solution Manager",
+    "company": "boehringer-ingelheim.com",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/ashish-chandra-saxena-2b3b8122/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:24",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-025",
+    "speaker_name": "Jan Zimmermann",
+    "designation": "Associate Director Customer Excellence & Operations",
+    "company": "Shionogi",
+    "company_link": "https://www.shionogi.com/global/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "shionogi.png",
+    "linkedin_url": "https://www.linkedin.com/in/jzimmermann/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:25",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-026",
+    "speaker_name": "Gonzalo Llerena",
+    "designation": "Global Commercial Excellence Lead",
+    "company": "woerwagpharma.com",
+    "company_link": "https://www.woerwagpharma.com/en/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "worwag-logo_new.png",
+    "linkedin_url": "https://www.linkedin.com/in/gonzalo-llerena/?locale=en",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:26",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-027",
+    "speaker_name": "Jürgen Benz",
+    "designation": "Senior Director, Global Head of Medical Information",
+    "company": "ucb.com",
+    "company_link": "https://www.ucb.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "ucb.png",
+    "linkedin_url": "https://www.linkedin.com/in/jwgbentz/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:27",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-028",
+    "speaker_name": "Khwaja Muhammad Saquib",
+    "designation": "Content Strategy Manager",
+    "company": "gsk.com",
+    "company_link": "https://www.gsk.com/en-gb/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "gsk.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/saquib-khwaja-754479137/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:28",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-029",
+    "speaker_name": "David Brown",
+    "designation": "Snr Director, Global Head of Data, Analytics & AI",
+    "company": "viivhealthcare.com",
+    "company_link": "https://viivhealthcare.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "viiv-logo_rectangle.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/david-brown-51806812/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:29",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-030",
+    "speaker_name": "Graham Addison",
+    "designation": "Senior Director, Global Launch & Marketing Excellence",
+    "company": "astrazeneca.com",
+    "company_link": "https://www.astrazeneca.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "astrazeneca.png",
+    "linkedin_url": "https://www.linkedin.com/in/graham-addison/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:30",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-031",
+    "speaker_name": "Andreas Mitsakis",
+    "designation": "Omnichannel Execution Lead Central & South Europe Cluster",
+    "company": "sanofi.com",
+    "company_link": "https://www.sanofi.com/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "sanofi_novi_logo.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/andreas-mitsakis/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:31",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-032",
+    "speaker_name": "Yukti Khurana",
+    "designation": "Director, Medical Insights & Impact",
+    "company": "Astellas",
+    "company_link": "https://www.astellas.com/en/",
+    "company_source": "alt_text",
+    "company_logo_filename": "ASTELLAS-LOGO.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/khuranayukti/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:32",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-033",
+    "speaker_name": "Lorena Cabré",
+    "designation": "Global Digital & Content Strategy Lead / AI powered GTM Content Models",
+    "company": "roche.com",
+    "company_link": "https://www.roche.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "roche.png",
+    "linkedin_url": "https://www.linkedin.com/in/lorenacabre/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:33",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-034",
+    "speaker_name": "Christophe Eskenazi",
+    "designation": "Head of IT Europe",
+    "company": "biogen.com",
+    "company_link": "https://www.biogen.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "biogen.png",
+    "linkedin_url": "https://www.linkedin.com/in/christophe-eskenazi/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:34",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-035",
+    "speaker_name": "Vladimir Nimec",
+    "designation": "Head of Applied AI Solutions",
+    "company": "daiichisankyo.com",
+    "company_link": "https://www.daiichisankyo.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "daiichi-sankyo-small.png",
+    "linkedin_url": "https://www.linkedin.com/in/vnimec/?skipRedirect=true",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:35",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-036",
+    "speaker_name": "Daniele Stragapede",
+    "designation": "Innovation, Data & AI Transformation Senior Director",
+    "company": "chiesi.com",
+    "company_link": "https://www.chiesi.com/en/home",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Chiesi-01.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/danielestragapede/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:36",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-037",
+    "speaker_name": "Florian Gäng",
+    "designation": "Director, Global Customer Experience Strategy",
+    "company": "bayer.com",
+    "company_link": "https://www.bayer.com/en/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "bayer_small.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/floriangaeng/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:37",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-038",
+    "speaker_name": "Alyssa Fenoglio",
+    "designation": "Founder & Strategic Advisor",
+    "company": "human algorithm",
+    "company_link": "https://thehumanalgorithm.co/",
+    "company_source": "alt_text",
+    "company_logo_filename": "The-Human-Algorithm-by-Alyssa-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/afenoglio/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:38",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-039",
+    "speaker_name": "Morgwn Shaw",
+    "designation": "Associate Director - Omnichannel Experience, Strategy, Planning & Production",
+    "company": "Bristol Mayers Squib",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/bms.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "bristol.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/morgwnshaw/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:39",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-040",
+    "speaker_name": "Simon Cox",
+    "designation": "Commercial Excellence Director",
+    "company": "sobi",
+    "company_link": "https://www.sobi.com/uk/en",
+    "company_source": "alt_text",
+    "company_logo_filename": "sobi.png",
+    "linkedin_url": "https://www.linkedin.com/in/simon-cox-638b9170/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:40",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-041",
+    "speaker_name": "Gökhan Salmanoglu",
+    "designation": "Commercial Excellence and AI Transformation Leader, International Markets",
+    "company": "Pfizer",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/pfizer.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "Pfizer_2021.svg_.png",
+    "linkedin_url": "https://www.linkedin.com/in/gokhansalmanoglu/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:41",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-042",
+    "speaker_name": "Nico Renner",
+    "designation": "Senior Product Manager, Hematology & Oncology",
+    "company": "be one",
+    "company_link": "https://beonemedicines.com/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Beone.png",
+    "linkedin_url": "https://www.linkedin.com/in/nicorenner/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:42",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-043",
+    "speaker_name": "Romika Bhowmick",
+    "designation": "Former Head of External Digital Channels",
+    "company": "Teva",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/teva.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "teva.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/romika-bhowmick/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:43",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-044",
+    "speaker_name": "Peter Egsgaard",
+    "designation": "Founder",
+    "company": null,
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/",
+    "company_source": null,
+    "company_logo_filename": "else.png",
+    "linkedin_url": "https://www.linkedin.com/in/peteregsgaard/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:44",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-045",
+    "speaker_name": "Naira Marin",
+    "designation": "Head of Global Marketing Excellence",
+    "company": "bbraun.hr",
+    "company_link": "https://www.bbraun.hr/hr.html",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "bbraun-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/nairamarin/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:45",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-046",
+    "speaker_name": "Sebastian Lipp",
+    "designation": "Head of Content Platforms",
+    "company": "takeda.com",
+    "company_link": "https://www.takeda.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/sebastian-lipp/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:46",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-047",
+    "speaker_name": "Lisa Schenk",
+    "designation": "Sales Force Effectiveness Manager DACH",
+    "company": "aspenpharma.com",
+    "company_link": "https://www.aspenpharma.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "aspen-pharma.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/lisa-schenk/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:47",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-048",
+    "speaker_name": "Andrew Binns",
+    "designation": "Director",
+    "company": "poke",
+    "company_link": "https://pokemarketing.co.uk/",
+    "company_source": "alt_text",
+    "company_logo_filename": "Screenshot-2026-07-16-at-09.11.24.png",
+    "linkedin_url": "https://www.linkedin.com/in/andrewjohnbinns/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:48",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-049",
+    "speaker_name": "Shivani Parikh",
+    "designation": "Head, Content & Channel Enablement",
+    "company": "astellas.com",
+    "company_link": "https://www.astellas.com/en/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "astellaspharmainc_logo.jpeg",
+    "linkedin_url": null,
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:49",
+    "missing_fields": [
+      "linkedin_url"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-050",
+    "speaker_name": "Neel Edeling",
+    "designation": "Sr. AI Manager, AI & Compliance",
+    "company": "leo-pharma.com",
+    "company_link": "https://www.leo-pharma.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "opella-web-1.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/neel-edeling-951266/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:50",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-051",
+    "speaker_name": "Phoebos Stergiou",
+    "designation": "Head of Product Management, Omnichannel Customer Engagement, Digital Innovation, Senior Director",
+    "company": "gilead.com",
+    "company_link": "https://www.gilead.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "gilead-logo.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/phoebos-stergiou/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:51",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-052",
+    "speaker_name": "Rita Sarmento",
+    "designation": "Head of Data, Digital and Technology, CSEE",
+    "company": "takeda",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/",
+    "company_source": "filename_matched",
+    "company_logo_filename": "takeda.jpg",
+    "linkedin_url": null,
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:52",
+    "missing_fields": [
+      "linkedin_url"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-053",
+    "speaker_name": "Oana Butu",
+    "designation": "Global eHealth Lead",
+    "company": "abbvie.com",
+    "company_link": "https://www.abbvie.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Abbott_Laboratories_logo.png",
+    "linkedin_url": "https://www.linkedin.com/in/oanabutu/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:53",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-054",
+    "speaker_name": "Madicken Baltzer Skovholm",
+    "designation": "Associate Director & Head of Global Content Excellence",
+    "company": "alk.net",
+    "company_link": "https://www.alk.net/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "ALK-Abello-Logo.wine_-scaled.png",
+    "linkedin_url": "https://www.linkedin.com/in/madicken-baltzer-skovholm-9496609a/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:54",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-055",
+    "speaker_name": "Almudena Fraga",
+    "designation": "Global Omnichannel Customer Engagement lead Cardiometabolic - Commercialization & Launch Excellence",
+    "company": "sobi",
+    "company_link": "https://www.lundbeck.com/global",
+    "company_source": "alt_text",
+    "company_logo_filename": "sobi.png",
+    "linkedin_url": "https://www.linkedin.com/in/almudena-fraga-gonzalez/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:55",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-056",
+    "speaker_name": "Sihame Bahri",
+    "designation": "Global Omnichannel Engagement Lead",
+    "company": "csl.com",
+    "company_link": "https://www.csl.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "CSL-Logo-1600x800-1.png",
+    "linkedin_url": "https://www.linkedin.com/in/sihame-bahri/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:56",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-057",
+    "speaker_name": "Enrique Galicia",
+    "designation": "VP Global Commercial Excellence",
+    "company": "bial.com",
+    "company_link": "https://www.bial.com/en",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "BIAL-logo.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/enriquegalicia/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:57",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-058",
+    "speaker_name": "Suzan Chao",
+    "designation": "Senior Director, Content Design & Delivery",
+    "company": "gsk.com",
+    "company_link": "https://www.gsk.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "gsk.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/suzan-chao/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:58",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-059",
+    "speaker_name": "Dr Azmain Chowdhury",
+    "designation": "Medical Doctor",
+    "company": "nhs.uk",
+    "company_link": "https://www.nhs.uk/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "nhs.png",
+    "linkedin_url": "https://www.linkedin.com/in/doctorazmain/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:59",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-060",
+    "speaker_name": "Tobias Bernard",
+    "designation": "Global Digital Marketing",
+    "company": "tillotts.com",
+    "company_link": "https://www.tillotts.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "logo_tillotts-pharma-scaled-1.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/tobiasbernard/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:60",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-061",
+    "speaker_name": "Yacin Marzouki",
+    "designation": "Founder | independent pharma advisor at Biond health",
+    "company": "biond.health",
+    "company_link": "https://biond.health/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Biond-Health-transparant.png",
+    "linkedin_url": "https://www.linkedin.com/in/yacin-m-customerengagement/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:61",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-062",
+    "speaker_name": "Nadia Hergli",
+    "designation": "Former VP Medical Affairs International",
+    "company": null,
+    "company_link": null,
+    "company_source": null,
+    "company_logo_filename": null,
+    "linkedin_url": "https://www.linkedin.com/in/nadia-hergli/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:62",
+    "missing_fields": [
+      "company"
+    ]
+  },
+  {
+    "record_id": "speaker-viennacx-063",
+    "speaker_name": "Niki A. Georgiou",
+    "designation": "Stakeholder Engagement Head, Global Medical Affairs",
+    "company": "boehringer-ingelheim.com",
+    "company_link": "https://www.boehringer-ingelheim.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Boehringer-ingelheim-NEW.png",
+    "linkedin_url": "https://www.linkedin.com/in/niki-a-georgiou-phd-991b6714/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:63",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-064",
+    "speaker_name": "Darren Feenan",
+    "designation": "Senior customer experience, commercial and transformation leader",
+    "company": "kangahealth.com",
+    "company_link": "https://www.kangahealth.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "Kanga-logo-stacked-strapline_2026.png",
+    "linkedin_url": "https://www.linkedin.com/in/darren-feenan-ccxp-31a8241/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:64",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-065",
+    "speaker_name": "Ewa Nuckey",
+    "designation": "Senior Director, Commercial and Customer Experience Strategy, Digitas Health LDN",
+    "company": "publicishealth.com",
+    "company_link": "https://publicishealth.com/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "digitas-web.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/ewa-nuckey-a21a64/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:65",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-066",
+    "speaker_name": "Nataliya Andreychuk",
+    "designation": "Founder & CEO",
+    "company": "viseven",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/viseven.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "viseven-spiker.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/andreychuk/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:66",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-067",
+    "speaker_name": "Sam Rolfe",
+    "designation": "Sales Director, EMEA",
+    "company": "exeevo",
+    "company_link": "https://nextpharmasummit.com/ViennaCX/speakers/exeevo.com",
+    "company_source": "alt_text",
+    "company_logo_filename": "100.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/sam-rolfe-cloud/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:67",
+    "missing_fields": []
+  },
+  {
+    "record_id": "speaker-viennacx-068",
+    "speaker_name": "Pierre Metrailler",
+    "designation": "CEO",
+    "company": "onomi.io",
+    "company_link": "https://onomi.io/solutions/congress-excellence/",
+    "company_source": "domain_inferred",
+    "company_logo_filename": "onomi.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/pierremetrailler/",
+    "event_name": "ViennaCX",
+    "event_year": 2026,
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/speakers/"
+    ],
+    "scraped_at": "2026-09-11T15:25:34.293901+00:00",
+    "silver_record_ref": "viennacx:68",
+    "missing_fields": []
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "record_id": "speaker-dubrovnik-114",
+  "speaker_name": "Delphine O’Keeffe",
+  "linkedin_url": "https://www.linkedin.com/in/okeeffedelphine/",
+  "likelihood": 9,
+  "full_name": "delphine o'keeffe",
+  "job_title": "project director & consultant in pharma",
+  "industry": "biotechnology",
+  "current_company": "oxfordsm",
+  "current_company_website": "oxfordsm.com",
+  "current_company_industry": "management consulting",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "brand development",
+    "brand management",
+    "brand marketing",
+    "budget management",
+    "business development",
+    "business planning",
+    "clm",
+    "competitive analysis",
+    "cross functional collaborations",
+    "cross functional team leadership",
+    "digital marketing",
+    "healthcare",
+    "hospital sales",
+    "key opinion leaders",
+    "kol development",
+    "kol identification",
+    "kol management",
+    "launch experience",
+    "leadership",
+    "management",
+    "market access",
+    "market analysis",
+    "marketing",
+    "marketing strategy",
+    "nhs",
+    "omni channel marketing",
+    "oncology",
+    "operational excellence",
+    "operational planning",
+    "people development",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "planning budgeting and forecasting",
+    "product launch",
+    "product management",
+    "sales",
+    "sales and marketing",
+    "sales effectiveness",
+    "sales growth",
+    "sales management",
+    "sales operations",
+    "salesforce.com",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "team management",
+    "teamwork",
+    "vaccines",
+    "veeva"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "project director & consultant in pharma",
+      "company": "oxfordsm",
+      "company_industry": "management consulting",
+      "start_date": "2022-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "franchise head - neurology & immunology",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing - mutiple sclerosis & neurology",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-11",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "brand lead - rheumatology",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": "2019-11",
+      "is_primary": false
+    },
+    {
+      "title": "vaccine development manager (field access)",
+      "company": "sanofi pasteur msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-10",
+      "end_date": "2017-03",
+      "is_primary": false
+    },
+    {
+      "title": "vaccine territory manager",
+      "company": "sanofi pasteur msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-04",
+      "end_date": "2013-10",
+      "is_primary": false
+    },
+    {
+      "title": "product manager - travel vaccines",
+      "company": "sanofi pasteur msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-04",
+      "end_date": "2010-04",
+      "is_primary": false
+    },
+    {
+      "title": "promotional campaign manager",
+      "company": "sanofi pasteur msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-07",
+      "end_date": "2009-04",
+      "is_primary": false
+    },
+    {
+      "title": "assistant product manager - hpv vaccine",
+      "company": "sanofi pasteur msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-09",
+      "end_date": "2008-07",
+      "is_primary": false
+    },
+    {
+      "title": "global marketing roles",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "marketing assistant - emea",
+      "company": "bd",
+      "company_industry": "medical devices",
+      "start_date": "2003-09",
+      "end_date": "2004-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "oxford brookes university",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "excelia",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2004"
+    }
+  ]
+}

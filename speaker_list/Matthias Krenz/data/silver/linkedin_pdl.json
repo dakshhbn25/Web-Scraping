@@ -1,0 +1,158 @@
+{
+  "record_id": "speaker-dubrovnik-071",
+  "speaker_name": "Matthias Krenz",
+  "linkedin_url": "https://www.linkedin.com/in/matthias-krenz-b46064a8/",
+  "likelihood": 9,
+  "full_name": "matthias krenz",
+  "job_title": "global head of customer experience",
+  "industry": "pharmaceuticals",
+  "current_company": "medice - the health family",
+  "current_company_website": "medice-health-family.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "business analyse",
+    "crm",
+    "direct sales",
+    "e commerce",
+    "e commerce optimization",
+    "international sales",
+    "key account development",
+    "key account management",
+    "multi channel marketing",
+    "multi channel retail",
+    "online marketing",
+    "product management",
+    "product marketing",
+    "project coordination",
+    "project management",
+    "projektmanagement",
+    "retail sales",
+    "sales management",
+    "sales operations",
+    "software as a service"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of customer experience",
+      "company": "medice - the health family",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of digital marketing",
+      "company": "medice - the health family",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2025-03",
+      "is_primary": false
+    },
+    {
+      "title": "e-commerce-manager",
+      "company": "medice - the health family",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-07",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of e-commerce",
+      "company": "burg-wächter gmbh & co. kg",
+      "company_industry": "security and investigations",
+      "start_date": "2019-07",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "international ecommerce development manager",
+      "company": "schäfer shop deutschland",
+      "company_industry": "business supplies and equipment",
+      "start_date": "2016-10",
+      "end_date": "2019-07",
+      "is_primary": false
+    },
+    {
+      "title": "inhaber / geschäftsführer",
+      "company": "hokrema herrenaccessoires inh matthias krenz",
+      "company_industry": null,
+      "start_date": "2014-10",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "sales area manager",
+      "company": "grenke österreich",
+      "company_industry": "financial services",
+      "start_date": "2012-05",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "strategic purchase manager",
+      "company": "severin",
+      "company_industry": "electrical/electronic manufacturing",
+      "start_date": "2012-02",
+      "end_date": "2012-05",
+      "is_primary": false
+    },
+    {
+      "title": "e-commerce purchase manager / project manager",
+      "company": "christ juweliere und uhrmacher seit 1863 gmbh",
+      "company_industry": "luxury goods & jewelry",
+      "start_date": "2010-09",
+      "end_date": "2012-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "fom university of applied sciences for economics and management",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "berufsakademie stuttgart",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2006",
+      "end_date": "2009"
+    },
+    {
+      "school": "escola gmbh",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2006-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "fom university of applied sciences for economics and management",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2006-01",
+      "end_date": "2009"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "record_id": "speaker-viennacx-020",
+  "speaker_name": "Niv Ben Yosef",
+  "linkedin_url": "https://www.linkedin.com/in/nivbenyosef/",
+  "likelihood": 9,
+  "full_name": "niv ben-yosef",
+  "job_title": "global omnichannel manager",
+  "industry": "pharmaceuticals",
+  "current_company": "almirall",
+  "current_company_website": "almirall.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "spain",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "bloomberg",
+    "brand management",
+    "business development",
+    "business strategy",
+    "community engagement",
+    "consultative selling",
+    "creative problem solving",
+    "critical thinking",
+    "customer relationship management",
+    "customer segmentation strategy",
+    "data analysis",
+    "medical devices",
+    "microsoft office",
+    "multitasking",
+    "omni channel marketing",
+    "pharmaceutical consulting",
+    "pharmaceutical marketing",
+    "pharmaceutical sales",
+    "presentation skills",
+    "project management",
+    "public speaking",
+    "salesforce.com",
+    "strategic communications",
+    "strategic planning",
+    "team leadership",
+    "teamwork",
+    "theory of constraints"
+  ],
+  "interests": [
+    "animal welfare",
+    "arte",
+    "arts and culture",
+    "bajo",
+    "bajo eléctrico",
+    "civil rights and social action",
+    "cultura general",
+    "economic empowerment",
+    "education",
+    "environment",
+    "esquí",
+    "fitness",
+    "formación en administración",
+    "formación en administracón",
+    "guitarra clásica",
+    "human rights",
+    "inversiones",
+    "juegos de video",
+    "lectura",
+    "musica",
+    "música",
+    "poverty alleviation",
+    "running",
+    "skii",
+    "social services",
+    "teatro",
+    "teatro y lectura",
+    "tecnología",
+    "tecnología y juegos de video",
+    "trading"
+  ],
+  "experience": [
+    {
+      "title": "global omnichannel manager",
+      "company": "almirall",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "account manager & strategy consultant",
+      "company": "precision aq",
+      "company_industry": "management consulting",
+      "start_date": "2023-01",
+      "end_date": "2024-05",
+      "is_primary": false
+    },
+    {
+      "title": "strategy consultant",
+      "company": "precision aq",
+      "company_industry": "management consulting",
+      "start_date": "2021-03",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "global brand manager",
+      "company": "urgo medical",
+      "company_industry": "medical devices",
+      "start_date": "2019-06",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "strategic project officer for the regional director (southern europe & latam)",
+      "company": "urgo medical",
+      "company_industry": "medical devices",
+      "start_date": "2018-06",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "internal consultant",
+      "company": "abb",
+      "company_industry": "industrial automation",
+      "start_date": "2018-02",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "business controller",
+      "company": "nestlé",
+      "company_industry": "food & beverages",
+      "start_date": "2016-06",
+      "end_date": "2016-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "celforpharma",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2025",
+      "end_date": "2025"
+    },
+    {
+      "school": "cems - the global alliance in management education",
+      "majors": [
+        "international business"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2017",
+      "end_date": "2018"
+    },
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [
+        "international business"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2017",
+      "end_date": "2018"
+    },
+    {
+      "school": "universidad adolfo ibáñez",
+      "majors": [
+        "international business"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2017",
+      "end_date": "2017"
+    },
+    {
+      "school": "universidad adolfo ibáñez",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012",
+      "end_date": "2018"
+    },
+    {
+      "school": "universidad adolfo ibáñez",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2012",
+      "end_date": "2016"
+    },
+    {
+      "school": "the international school nido de aguilas",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1998",
+      "end_date": "2012"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "record_id": "speaker-dubrovnik-001",
+    "speaker_name": "Edyta Banach",
+    "event_name": "Dubrovnik",
+    "linkedin_url": "https://www.linkedin.com/in/edytabanach/",
+    "scraped_at": "2026-09-17T10:47:57.174948+00:00",
+    "status": "failed",
+    "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided."
+  },
+  {
+    "record_id": "speaker-dubrovnik-002",
+    "speaker_name": "Stefani Klaskow",
+    "event_name": "Dubrovnik",
+    "linkedin_url": "https://www.linkedin.com/in/stefani-klaskow-9260904/",
+    "scraped_at": "2026-09-17T10:48:03.665762+00:00",
+    "status": "failed",
+    "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided."
+  },
+  {
+    "record_id": "speaker-dubrovnik-003",
+    "speaker_name": "Yariv Hefez",
+    "event_name": "Dubrovnik",
+    "linkedin_url": "https://www.linkedin.com/in/yarivhefez/",
+    "scraped_at": "2026-09-17T10:48:10.103358+00:00",
+    "status": "failed",
+    "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided."
+  },
+  {
+    "record_id": "speaker-dubrovnik-004",
+    "speaker_name": "Ricardo Castrillo",
+    "event_name": "Dubrovnik",
+    "linkedin_url": "https://www.linkedin.com/in/ricardocastrillo/",
+    "scraped_at": "2026-09-17T10:48:16.012580+00:00",
+    "status": "failed",
+    "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided."
+  },
+  {
+    "record_id": "speaker-dubrovnik-005",
+    "speaker_name": "Gemma Malla Salomó",
+    "event_name": "Dubrovnik",
+    "linkedin_url": "https://www.linkedin.com/in/gemma-malla-salom%C3%B3/",
+    "scraped_at": "2026-09-17T10:48:21.923214+00:00",
+    "status": "failed",
+    "error": "Website Not Supported: Failed to scrape. We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please fill out our intake form here: https://fk4bvu0n5qp.typeform.com/to/Ej6oydlg - No additional error details provided."
+  }
+]

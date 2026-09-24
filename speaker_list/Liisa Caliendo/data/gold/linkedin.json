@@ -1,0 +1,189 @@
+{
+  "record_id": "speaker-dubrovnik-116",
+  "speaker_name": "Liisa Caliendo",
+  "designation": "Senior Vice President Marketing and Product Experience",
+  "company": "medscape",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/liisa-caliendo-mph/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": "New to LinkedIn? [Join now](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=liisa-caliendo-mph&trk=public_profile_top-card_title-modal_contextual-sign-in-modal_join-link)",
+  "linkedin_connections": null,
+  "linkedin_followers": null,
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "internet",
+  "linkedin_current_company": "webmd",
+  "linkedin_current_company_website": "webmd.com",
+  "linkedin_skills": [
+    "analytical skills",
+    "analytics",
+    "benchmarking",
+    "brand development",
+    "branding and identity",
+    "business analytics",
+    "business development",
+    "business planning",
+    "business strategy",
+    "communication",
+    "competitive analysis",
+    "consumer insights",
+    "customer marketing",
+    "data analysis",
+    "digital marketing",
+    "digital strategy",
+    "epidemiology",
+    "excel",
+    "global health",
+    "go to market strategy",
+    "government",
+    "healthcare",
+    "international marketing",
+    "leadership",
+    "management",
+    "market analysis",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing materials",
+    "marketing research",
+    "marketing strategy",
+    "medical devices",
+    "microsoft office",
+    "new business development",
+    "oncology",
+    "outcomes research",
+    "pharmaceutical industry",
+    "pharmacoepidemiology",
+    "positioning",
+    "product design",
+    "product development",
+    "product launch",
+    "product management",
+    "product marketing",
+    "program management",
+    "public health",
+    "research",
+    "sales and marketing",
+    "strategic planning",
+    "strategy",
+    "teamwork"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "senior vice president marketing and commercial product",
+      "company": "webmd",
+      "company_industry": "internet",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president of global product marketing and strategy",
+      "company": "webmd",
+      "company_industry": "internet",
+      "start_date": "2020-03",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "executive director product and marketing strategy",
+      "company": "webmd",
+      "company_industry": "internet",
+      "start_date": "2018-12",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior director of product management",
+      "company": "webmd",
+      "company_industry": "internet",
+      "start_date": "2012-06",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-05",
+      "end_date": "2012-06",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager",
+      "company": "elekta",
+      "company_industry": "medical devices",
+      "start_date": "2005-01",
+      "end_date": "2010-05",
+      "is_primary": false
+    },
+    {
+      "title": "data manager",
+      "company": "louisiana office of public health",
+      "company_industry": "government administration",
+      "start_date": "2004-06",
+      "end_date": "2005-06",
+      "is_primary": false
+    },
+    {
+      "title": "asph fellow",
+      "company": "centers for disease control and prevention",
+      "company_industry": "government administration",
+      "start_date": "2003",
+      "end_date": "2004",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "international cat care veterinary society",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2003"
+    },
+    {
+      "school": "tulane university",
+      "majors": [
+        "epidemiology"
+      ],
+      "degrees": [
+        "master of public health",
+        "masters"
+      ],
+      "start_date": null,
+      "end_date": "2003"
+    },
+    {
+      "school": "new york university",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": "1999"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

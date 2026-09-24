@@ -1,0 +1,159 @@
+{
+  "record_id": "speaker-dubrovnik-024",
+  "speaker_name": "Bettina Maurer",
+  "linkedin_url": "https://www.linkedin.com/in/bettina-maurer-72971251/",
+  "likelihood": 9,
+  "full_name": "bettina maurer",
+  "job_title": "europe digital marketing lead oncology",
+  "industry": "pharmaceuticals",
+  "current_company": "msd",
+  "current_company_website": "msd.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "arzneimittelverkauf",
+    "business development",
+    "leadership",
+    "market analysis",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "marketingkommunikation",
+    "marketingmanagement",
+    "marketingstrategie",
+    "marktanalyse",
+    "marktzugang",
+    "pharmaindustrie",
+    "rheumatologie",
+    "sales effectiveness",
+    "strategic planning",
+    "strategisches management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "europe digital marketing lead oncology",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "international customer experience / digital enablement (ex us)",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "lead customer trade channel | switzerland",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "customer solution manager, lead rheumatology | gastroenterology",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "brand & customer manager immunology | rheumatology",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-05",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing communication manager women`s health | mid europe region",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-11",
+      "end_date": "2014-04",
+      "is_primary": false
+    },
+    {
+      "title": "brand & customer manager women`s health",
+      "company": "msd deutschland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2011-10",
+      "is_primary": false
+    },
+    {
+      "title": "produktmanager women's health",
+      "company": "essex pharma gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-12",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "sales representive women`s health",
+      "company": "organon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-04",
+      "end_date": "2008-11",
+      "is_primary": false
+    },
+    {
+      "title": "project manager meetings & conventions",
+      "company": "organon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1999-10",
+      "end_date": "2005-03",
+      "is_primary": false
+    },
+    {
+      "title": "different positions",
+      "company": "hotel management",
+      "company_industry": "hospitality",
+      "start_date": "1990-09",
+      "end_date": "1997-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imd",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-02",
+      "end_date": "2022-04"
+    },
+    {
+      "school": "scrumalliance",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2021",
+      "end_date": "2021"
+    },
+    {
+      "school": "hotel management school geneva | ehg",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1997-01",
+      "end_date": "1999"
+    }
+  ]
+}

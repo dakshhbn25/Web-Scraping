@@ -1,0 +1,984 @@
+{
+  "record_id": "speaker-medical-020",
+  "speaker_name": "Stefaan Fiers",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/stefaanfiers/",
+  "scraped_at": "2026-09-18T10:24:36.727051+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "01qDRL1vl9oRzbU5k5bbuw_0000",
+    "full_name": "stefaan fiers",
+    "first_name": "stefaan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "fiers",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/stefaanfiers",
+    "linkedin_username": "stefaanfiers",
+    "linkedin_id": "17638327",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/ste_fiers",
+    "twitter_username": "ste_fiers",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "chapter head external affairs",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "CfmBE5GsSCLY7QxI3HlPkAfufe9b",
+    "job_company_name": "roche belgium & luxembourg",
+    "job_company_website": null,
+    "job_company_size": "201-500",
+    "job_company_founded": null,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/roche-belux",
+    "job_company_linkedin_id": "28438218",
+    "job_company_facebook_url": "facebook.com/rochebelux",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "anderlecht, brussels, belgium",
+    "job_company_location_locality": "anderlecht",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.83,4.32",
+    "job_company_location_street_address": "75 rue dante",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "1070",
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-07-12",
+    "job_start_date": "2025-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-12",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "bestuursniveau",
+      "biotechnology",
+      "board administration",
+      "board governance",
+      "board level",
+      "corporate communications",
+      "crisis communications",
+      "european politics",
+      "european union politics",
+      "french",
+      "governmental affairs",
+      "health policy",
+      "healthcare industry",
+      "internal communications",
+      "lesgeven",
+      "life sciences",
+      "lifesciences",
+      "management",
+      "market access",
+      "pharmaceutical industry",
+      "policy",
+      "policy analysis",
+      "political science",
+      "politics",
+      "public affairs",
+      "public policy",
+      "public speaking",
+      "stakeholder analysis",
+      "strategische communicatie",
+      "strategy",
+      "trade associations",
+      "university teaching"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "roche belgium & luxembourg",
+          "size": "201-500",
+          "id": "CfmBE5GsSCLY7QxI3HlPkAfufe9b",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "anderlecht, brussels, belgium",
+            "locality": "anderlecht",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "75 rue dante",
+            "address_line_2": null,
+            "postal_code": "1070",
+            "geo": "50.83,4.32"
+          },
+          "linkedin_url": "linkedin.com/company/roche-belux",
+          "linkedin_id": "28438218",
+          "facebook_url": "facebook.com/rochebelux",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2025-09",
+        "title": {
+          "name": "chapter head external affairs",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "europabio - the european association for bioindustries",
+          "size": "11-50",
+          "id": "iM5DJ3uzG2EZhxD3XVCurg1EHmBA",
+          "founded": 1996,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "53 avenue des arts",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/europabio",
+          "linkedin_id": "54932",
+          "facebook_url": "facebook.com/europabio",
+          "twitter_url": "twitter.com/europabio",
+          "website": "europabio.org"
+        },
+        "location_names": [],
+        "end_date": "2025-06",
+        "start_date": "2024-06",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda in belgium",
+          "size": "1001-5000",
+          "id": "K6YVHhEygfpwCodkuxIr0gzc2ymr",
+          "founded": 1835,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "7 da vincilaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/takeda-in-belgium",
+          "linkedin_id": "28510250",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "takeda.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2025-09",
+        "start_date": "2020-06",
+        "title": {
+          "name": "head corporate comms, public affairs & patient advocacy - csee region public affairs community lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bepact - belgian public affairs community",
+          "size": "1-10",
+          "id": "8ZxJJGdfbSkezORL9seXlQgq34Ra",
+          "founded": 2016,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "5a lambroekstraat",
+            "address_line_2": null,
+            "postal_code": "1831",
+            "geo": "50.89,4.43"
+          },
+          "linkedin_url": "linkedin.com/company/bepact---belgian-public-affairs-community",
+          "linkedin_id": "7968104",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bepact.be"
+        },
+        "location_names": [],
+        "end_date": "2025-05",
+        "start_date": "2016-02",
+        "title": {
+          "name": "board member and past president",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pharma.be",
+          "size": "11-50",
+          "id": "2j6ZCLF1vgKIAmlvj7C5Ow6Y6Ogv",
+          "founded": 1966,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "47 canterstee",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/pharma-be",
+          "linkedin_id": "10045409",
+          "facebook_url": "facebook.com/pharmabe-338848839854909",
+          "twitter_url": "twitter.com/pharmabe",
+          "website": "pharma.be"
+        },
+        "location_names": [],
+        "end_date": "2020-06",
+        "start_date": "2014-12",
+        "title": {
+          "name": "communications & public policy director",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "braine-l'alleud, wallonia, belgium"
+        ],
+        "end_date": "2014-11",
+        "start_date": "2014-02",
+        "title": {
+          "name": "head of governmental affairs",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amcham belgium",
+          "size": "1-10",
+          "id": "65t9wyUz1F0w6zhtZ0CXFwYg3zKF",
+          "founded": 1948,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "etterbeek, brussels, belgium",
+            "locality": "etterbeek",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "47 boulevard saint-michel",
+            "address_line_2": null,
+            "postal_code": "1040",
+            "geo": "50.83,4.38"
+          },
+          "linkedin_url": "linkedin.com/company/amcham-belgium",
+          "linkedin_id": "1141661",
+          "facebook_url": "facebook.com/amchambelgium",
+          "twitter_url": "twitter.com/amchambe",
+          "website": "amcham.be"
+        },
+        "location_names": [],
+        "end_date": "2014-11",
+        "start_date": "2013-10",
+        "title": {
+          "name": "chair of the government relations forum",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd belgium",
+          "size": "501-1000",
+          "id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "watermael-boitsfort, brussels, belgium",
+            "locality": "watermael-boitsfort",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "25 vorstlaan",
+            "address_line_2": null,
+            "postal_code": "1170",
+            "geo": "50.8,4.41"
+          },
+          "linkedin_url": "linkedin.com/company/msd-belgium",
+          "linkedin_id": "2498507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msd-belgium.be"
+        },
+        "location_names": [],
+        "end_date": "2014-01",
+        "start_date": "2012-08",
+        "title": {
+          "name": "assoc director policy / governmental relations",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd belgium",
+          "size": "501-1000",
+          "id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "watermael-boitsfort, brussels, belgium",
+            "locality": "watermael-boitsfort",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "25 vorstlaan",
+            "address_line_2": null,
+            "postal_code": "1170",
+            "geo": "50.8,4.41"
+          },
+          "linkedin_url": "linkedin.com/company/msd-belgium",
+          "linkedin_id": "2498507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msd-belgium.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2012-08",
+        "start_date": "2008-10",
+        "title": {
+          "name": "governmental affairs manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "université catholique de lille",
+          "size": "5001-10000",
+          "id": "Iu3OgGlA4BKGTwVA4M6quQNkIOXC",
+          "founded": 1875,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "lille, hauts-de-france, france",
+            "locality": "lille",
+            "region": "hauts-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "60 boulevard vauban cs 40109 •",
+            "address_line_2": null,
+            "postal_code": "59016",
+            "geo": "50.62,3.05"
+          },
+          "linkedin_url": "linkedin.com/school/université-catholique-de-lille",
+          "linkedin_id": "15094907",
+          "facebook_url": "facebook.com/universitecatholiquedelille",
+          "twitter_url": null,
+          "website": "univ-catholille.fr"
+        },
+        "location_names": [
+          "lille, hauts-de-france, france"
+        ],
+        "end_date": "2009-09",
+        "start_date": "2008-06",
+        "title": {
+          "name": "professor of public policy",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "school of education",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "leuven, flanders, belgium"
+        ],
+        "end_date": "2008-10",
+        "start_date": "2006-11",
+        "title": {
+          "name": "regional head and member of the board",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ku leuven",
+          "size": "10001+",
+          "id": "oCts1JN7x22cbyOSp09SqQ14jo6z",
+          "founded": 1425,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "13 oude markt",
+            "address_line_2": null,
+            "postal_code": "3000",
+            "geo": "50.89,4.7"
+          },
+          "linkedin_url": "linkedin.com/school/ku_leuven",
+          "linkedin_id": "3629",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "website": "kuleuven.be"
+        },
+        "location_names": [
+          "leuven, flanders, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2002-10",
+        "title": {
+          "name": "associate professor of public affairs & comparative politics",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "4fm",
+          "size": "11-50",
+          "id": "j4WrffjCjJ34mQIW22X8dAaOiJ2X",
+          "founded": null,
+          "industry": "broadcast media",
+          "industry_v2": "broadcast media production and distribution",
+          "location": {
+            "name": "belgium",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/4fm",
+          "linkedin_id": "38459",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2002",
+        "start_date": "2001",
+        "title": {
+          "name": "journalist -head of the political desk",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "research foundation flanders - fwo",
+          "size": "51-200",
+          "id": "tNZVEbTUQcQXprBKiyiWRwFAPqgk",
+          "founded": 1928,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "38 hoek",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/research-foundation-flanders---fwo",
+          "linkedin_id": "285447",
+          "facebook_url": "facebook.com/fwovlaanderen",
+          "twitter_url": "twitter.com/fwovlaanderen",
+          "website": "fwo.be"
+        },
+        "location_names": [
+          "leuven, flanders, belgium"
+        ],
+        "end_date": "2002",
+        "start_date": "1999",
+        "title": {
+          "name": "postdoctoral researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "rotterdam school of management, erasmus university",
+          "type": "post-secondary institution",
+          "id": "bxSJb81PbCUugKihkkMhTg_0000",
+          "location": {
+            "name": "rotterdam, south holland, netherlands",
+            "locality": "rotterdam",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/rotterdam-school-of-management-erasmus-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "165790",
+          "website": "rsm.nl",
+          "domain": "rsm.nl"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rotterdam school of management, erasmus university",
+          "type": "post-secondary institution",
+          "id": "bxSJb81PbCUugKihkkMhTg_0000",
+          "location": {
+            "name": "rotterdam, south holland, netherlands",
+            "locality": "rotterdam",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/rotterdam-school-of-management-erasmus-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "165790",
+          "website": "rsm.nl",
+          "domain": "rsm.nl"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018-01",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bespoke school of finance",
+          "type": "post-secondary institution",
+          "id": "1V1AsCmhYQNheuyeDcBTsw_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bespoke-school-of-finance",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "13030818",
+          "website": "bespoke-sf.com",
+          "domain": "bespoke-sf.com"
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": "2016",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "instituut voor farmaceutisch bedrijfsleven",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "vlerick business school",
+          "type": "post-secondary institution",
+          "id": "3pFnaEjejnuakleMkBpg2g_0000",
+          "location": {
+            "name": "sint-joost-ten-node, brussels, belgium",
+            "locality": "sint-joost-ten-node",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vlerick-business-school",
+          "facebook_url": "facebook.com/vlerickbusinessschool",
+          "twitter_url": "twitter.com/vlerick",
+          "linkedin_id": "11098",
+          "website": "vlerick.com",
+          "domain": "vlerick.com"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2012",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "six sigma academy amsterdam",
+          "type": "post-secondary institution",
+          "id": "Qavt9w4g2oNvgBSvFjgvTQ_0000",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/six-sigma-academy-amsterdam",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "69444511",
+          "website": "ssaa.nl",
+          "domain": "ssaa.nl"
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "instituut voor farmaceutisch bedrijfsleven",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of oxford",
+          "type": "post-secondary institution",
+          "id": "0DqFeiO1KFc2xNVeC7BnyA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxforduni",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4477",
+          "website": "ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1993-01",
+        "end_date": "1993",
+        "majors": [
+          "economics",
+          "politics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ku leuven",
+          "type": "post-secondary institution",
+          "id": "EwX2xwU0kxY2DDzP58BoRw_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ku_leuven",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "linkedin_id": "3629",
+          "website": "kuleuven.be",
+          "domain": "kuleuven.be"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates",
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "1989-01",
+        "end_date": "1998",
+        "majors": [
+          "government",
+          "political science",
+          "political science and government"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "st hugh's college, oxford",
+          "type": "post-secondary institution",
+          "id": "03dEE6o0djsqGpy8IEHEkA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/sthughs",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "77013948",
+          "website": "st-hughs.ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "st leocollege",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "17638327",
+        "url": "linkedin.com/in/stefaanfiers",
+        "username": "stefaanfiers"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/ste_fiers",
+        "username": "ste_fiers"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

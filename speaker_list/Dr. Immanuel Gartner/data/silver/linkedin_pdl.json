@@ -1,0 +1,202 @@
+{
+  "record_id": "speaker-dubrovnik-035",
+  "speaker_name": "Dr. Immanuel Gartner",
+  "linkedin_url": "https://www.linkedin.com/in/dr-immanuel-gartner-555433180/",
+  "likelihood": 9,
+  "full_name": "immanuel gartner",
+  "job_title": "chief executive officer",
+  "industry": "hospital & health care",
+  "current_company": "gartner.fit",
+  "current_company_website": "gartner.fit",
+  "current_company_industry": null,
+  "location_country": "austria",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "aufsichtskompetenzen",
+    "basketball",
+    "emergency medicine",
+    "fitness",
+    "general medicine",
+    "gesunder lebensstil",
+    "health promotion",
+    "healthy aging",
+    "injury prevention",
+    "injury rehabilitation",
+    "keynote speaking",
+    "kommunikation",
+    "leadership",
+    "leitungsposition",
+    "longevity",
+    "management",
+    "medizin",
+    "medizin and gesundheitswesen",
+    "rehabilitation",
+    "sport",
+    "sports injuries",
+    "sports medicine",
+    "sports nutrition"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief executive officer",
+      "company": "gartner.fit",
+      "company_industry": null,
+      "start_date": "2021",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "fiba 3x3 nationsleague tournamentdoctor",
+      "company": "fiba",
+      "company_industry": "sports",
+      "start_date": "2025-08",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "fiba3x3 europe cup scientific director",
+      "company": "fiba",
+      "company_industry": "sports",
+      "start_date": "2024",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "fiba3x3 worldtour tournamentdoctor",
+      "company": "fiba",
+      "company_industry": "sports",
+      "start_date": "2024",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "doctor of medicine",
+      "company": "rudolfinerhaus privatklinik gmbh",
+      "company_industry": "hospital & health care",
+      "start_date": "2023",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "medical director - resilienzpark sitzenberg - prevention clinic",
+      "company": "bvaeb - versicherungsanstalt öffentlich bediensteter, eisenbahnen und bergbau",
+      "company_industry": "government administration",
+      "start_date": "2022",
+      "end_date": "2025",
+      "is_primary": false
+    },
+    {
+      "title": "deputy medical director - brienz, switzerland",
+      "company": "praxis gruppe schweiz ag",
+      "company_industry": "medical practice",
+      "start_date": "2021-05",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor - rehaklinik wien baumgarten",
+      "company": "vamed",
+      "company_industry": "hospital & health care",
+      "start_date": "2020-02",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "1st division - chief medical officer",
+      "company": "basketball klosterneuburg 🏀",
+      "company_industry": "sports",
+      "start_date": "2019",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor",
+      "company": "nö universitätsklinikum st. pölten",
+      "company_industry": "hospital & health care",
+      "start_date": "2018",
+      "end_date": "2020",
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor",
+      "company": "nö landesklinikum lilienfeld",
+      "company_industry": "hospital & health care",
+      "start_date": "2016",
+      "end_date": "2018",
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor - surgery assistant",
+      "company": "rudolfinerhaus privatklinik gmbh",
+      "company_industry": "hospital & health care",
+      "start_date": "2013",
+      "end_date": "2021",
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor in training - surgery assistant",
+      "company": "rudolfinerhaus privatklinik gmbh",
+      "company_industry": "hospital & health care",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "universität für weiterbildung krems",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2020",
+      "end_date": "2025"
+    },
+    {
+      "school": "universität für weiterbildung krems",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2018",
+      "end_date": "2025-01"
+    },
+    {
+      "school": "medical university of vienna",
+      "majors": [],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "university of arkansas",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2006-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "pulaski academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "lakeside high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2003-01",
+      "end_date": "2004"
+    }
+  ]
+}

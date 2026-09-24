@@ -1,0 +1,956 @@
+{
+  "record_id": "speaker-viennacx-057",
+  "speaker_name": "Enrique Galicia",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/enriquegalicia/",
+  "scraped_at": "2026-09-18T10:26:44.109528+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "yDrUgmUY2u33Vg7L4F0nKA_0000",
+    "full_name": "enrique galicia",
+    "first_name": "enrique",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "galicia",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/enriquegalicia",
+    "linkedin_username": "enriquegalicia",
+    "linkedin_id": "15357099",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president global commercial excellence",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "vp"
+    ],
+    "job_company_id": "WcBGsvAN51bCmbybmC9YXQD5Rifl",
+    "job_company_name": "bial",
+    "job_company_website": "bial.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 1924,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bial",
+    "job_company_linkedin_id": "31387",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "trofa, porto, portugal",
+    "job_company_location_locality": "trofa",
+    "job_company_location_metro": null,
+    "job_company_location_region": "porto",
+    "job_company_location_geo": "41.36,-8.38",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4745-457",
+    "job_company_location_country": "portugal",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-05-16",
+    "job_last_verified": "2026-08-20",
+    "job_start_date": "2024-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "portugal",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-20",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "children",
+      "environment",
+      "health"
+    ],
+    "skills": [
+      "biotechnology industry",
+      "brand development",
+      "brand management",
+      "business coaching",
+      "business development",
+      "business insights",
+      "business strategy",
+      "cardiovascular disease",
+      "competitive analysis",
+      "corporate governance",
+      "cross functional team leadership",
+      "customer relationship management",
+      "digital marketing",
+      "digital strategy",
+      "enterprise marketing",
+      "entrepreneurship",
+      "executive coaching",
+      "executive leadership",
+      "field force effectiveness",
+      "global health",
+      "global marketing",
+      "go to market strategy",
+      "healthcare",
+      "international marketing",
+      "kol development",
+      "latin american business",
+      "latin american markets",
+      "market access",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "mental health",
+      "negotiation",
+      "neuroscience",
+      "new business development",
+      "online marketing",
+      "oral communication",
+      "p&l management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "pricing",
+      "product development",
+      "product launch",
+      "product launches",
+      "product life cycle management",
+      "product lifecycle management",
+      "product management",
+      "product marketing",
+      "sales effectiveness",
+      "segmentation",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "strategy development",
+      "team leadership"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "portugal",
+      "france",
+      "belgium",
+      "brazil"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bial",
+          "size": "501-1000",
+          "id": "WcBGsvAN51bCmbybmC9YXQD5Rifl",
+          "founded": 1924,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "trofa, porto, portugal",
+            "locality": "trofa",
+            "region": "porto",
+            "metro": null,
+            "country": "portugal",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4745-457",
+            "geo": "41.36,-8.38"
+          },
+          "linkedin_url": "linkedin.com/company/bial",
+          "linkedin_id": "31387",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bial.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-05",
+        "title": {
+          "name": "vice president global commercial excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2024-05",
+        "start_date": "2022-06",
+        "title": {
+          "name": "global marketing & launch excellence director (rare diseases & oncology)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [],
+        "end_date": "2022-06",
+        "start_date": "2022-01",
+        "title": {
+          "name": "strategic marketing consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [],
+        "end_date": "2021-12",
+        "start_date": "2021-05",
+        "title": {
+          "name": "dysport relaunch mission lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-11",
+        "start_date": "2020-01",
+        "title": {
+          "name": "rare disease (rozimab) commercial & marketing global lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2017-01",
+        "title": {
+          "name": "global strategic brand & portfolio planning head (global marketing excellence team)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "são paulo, são paulo, brazil"
+        ],
+        "end_date": "2016-12",
+        "start_date": "2014-01",
+        "title": {
+          "name": "latin america business unit head - neurology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": "2013-12",
+        "start_date": "2012-09",
+        "title": {
+          "name": "latina commercial director & international markets lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "m8 pharmaceuticals, inc",
+          "size": "201-500",
+          "id": "qTB8paBCdjONxk1yIV9T7gzVeQY7",
+          "founded": 2007,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "berwyn, pennsylvania, united states",
+            "locality": "berwyn",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1055 westlakes drive",
+            "address_line_2": "suite 300",
+            "postal_code": "19312",
+            "geo": "40.03,-75.44"
+          },
+          "linkedin_url": "linkedin.com/company/moksha8",
+          "linkedin_id": "145413",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/moksha8",
+          "website": "moksha8.com"
+        },
+        "location_names": [],
+        "end_date": "2012-09",
+        "start_date": "2009-12",
+        "title": {
+          "name": "marketing head mexico & business development latam lead",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "laboratorios liomont",
+          "size": "1001-5000",
+          "id": "B1bWIN2NLB2CPVFZTjoXogdRDTHR",
+          "founded": 1938,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "mexico city, mexico city, mexico",
+            "locality": "mexico city",
+            "region": "mexico city",
+            "metro": null,
+            "country": "mexico",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "05320",
+            "geo": "19.27,-99.25"
+          },
+          "linkedin_url": "linkedin.com/company/laboratorios-liomont",
+          "linkedin_id": "221295",
+          "facebook_url": "facebook.com/liomont.com.mx",
+          "twitter_url": "twitter.com/liomontmx",
+          "website": "liomont.com.mx"
+        },
+        "location_names": [
+          "mexico city, mexico city, mexico"
+        ],
+        "end_date": "2009-12",
+        "start_date": "2009-01",
+        "title": {
+          "name": "business unit manager / cardiometabolism group",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "mexico city, mexico city, mexico"
+        ],
+        "end_date": "2008-12",
+        "start_date": "2007-07",
+        "title": {
+          "name": "senior marketing manager / cardiovascular franchise",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "mexico city, mexico city, mexico"
+        ],
+        "end_date": "2007-07",
+        "start_date": "2007-01",
+        "title": {
+          "name": "senior brand manager / gastrointestinal team",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "mexico city, mexico city, mexico"
+        ],
+        "end_date": "2007-01",
+        "start_date": "2006-01",
+        "title": {
+          "name": "senior brand manager / neuroscience franchise",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "rough and ready, california, united states"
+        ],
+        "end_date": "2005-12",
+        "start_date": "2002-01",
+        "title": {
+          "name": "senior brand manager / neuroscience team",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2001-12",
+        "start_date": "1999-05",
+        "title": {
+          "name": "brand manager / antibiotics & antivirals team + neuroscience team",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "baxter international inc.",
+          "size": "10001+",
+          "id": "LMjcCjzJYt5PuTE4FV5JNgMJFkFj",
+          "founded": 1931,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "deerfield, illinois, united states",
+            "locality": "deerfield",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 baxter parkway",
+            "address_line_2": null,
+            "postal_code": "60015",
+            "geo": "42.16,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/baxter-healthcare",
+          "linkedin_id": "2371",
+          "facebook_url": "facebook.com/baxterinternationalinc",
+          "twitter_url": "twitter.com/baxter_intl",
+          "website": "baxter.com"
+        },
+        "location_names": [],
+        "end_date": "1999-04",
+        "start_date": "1997-01",
+        "title": {
+          "name": "sales representative and marketing assistant / rare & immunology diseases",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "thepower",
+          "type": "post-secondary institution",
+          "id": "vElsY4CnPeqkvVnWENPBpQ_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/the-power",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11219506",
+          "website": "thepower.com",
+          "domain": "thepower.com"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2020",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad panamericana",
+          "type": "post-secondary institution",
+          "id": "6gpczD6fsHkGkOlKMv3yjg_0000",
+          "location": {
+            "name": "mexico city, mexico city, mexico",
+            "locality": "mexico city",
+            "region": "mexico city",
+            "country": "mexico",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-panamericana",
+          "facebook_url": "facebook.com/upbonaterra",
+          "twitter_url": "twitter.com/upgdl",
+          "linkedin_id": "234524",
+          "website": "up.edu.mx",
+          "domain": "up.edu.mx"
+        },
+        "degrees": [
+          "bachelor of business administration",
+          "bachelors"
+        ],
+        "start_date": "1995-01",
+        "end_date": "2000",
+        "majors": [
+          "business administration",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad panamericana",
+          "type": "post-secondary institution",
+          "id": "6gpczD6fsHkGkOlKMv3yjg_0000",
+          "location": {
+            "name": "mexico city, mexico city, mexico",
+            "locality": "mexico city",
+            "region": "mexico city",
+            "country": "mexico",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-panamericana",
+          "facebook_url": "facebook.com/upbonaterra",
+          "twitter_url": "twitter.com/upgdl",
+          "linkedin_id": "234524",
+          "website": "up.edu.mx",
+          "domain": "up.edu.mx"
+        },
+        "degrees": [],
+        "start_date": "1994",
+        "end_date": "2000",
+        "majors": [
+          "business",
+          "international business",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "thepower",
+          "type": "post-secondary institution",
+          "id": "vElsY4CnPeqkvVnWENPBpQ_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/the-power",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11219506",
+          "website": "thepower.com",
+          "domain": "thepower.com"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "business",
+          "business administration",
+          "entrepreneurship",
+          "international business",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "15357099",
+        "url": "linkedin.com/in/enriquegalicia",
+        "username": "enriquegalicia"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

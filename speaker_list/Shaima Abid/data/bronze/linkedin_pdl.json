@@ -1,0 +1,636 @@
+{
+  "record_id": "speaker-dubrovnik-032",
+  "speaker_name": "Shaima Abid",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/shaimaabid/",
+  "scraped_at": "2026-09-18T09:36:11.504215+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "KtUHWCeoBnqYTUE1ri1yNQ_0000",
+    "full_name": "shaima abid",
+    "first_name": "shaima",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "abid",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/shaimaabid",
+    "linkedin_username": "shaimaabid",
+    "linkedin_id": "62103966",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "director, business planning & delivery - us oncology",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+    "job_company_name": "astrazeneca",
+    "job_company_website": "astrazeneca.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1999,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astrazeneca",
+    "job_company_linkedin_id": "1603",
+    "job_company_facebook_url": "facebook.com/astrazenecacareers",
+    "job_company_twitter_url": "twitter.com/astrazeneca",
+    "job_company_location_name": "cambridge, england, united kingdom",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "52.19,0.11",
+    "job_company_location_street_address": "1 francis crick avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "cb2 0aa",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-08-27",
+    "job_last_verified": "2026-08-04",
+    "job_start_date": "2025-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "canada",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biomedical engineering",
+      "biotechnology",
+      "change management",
+      "clinical research",
+      "commercial operations",
+      "customer engagement",
+      "design control",
+      "digital and business transformation",
+      "digital marketing",
+      "digital strategy",
+      "leadership",
+      "marketing operations",
+      "matlab",
+      "medical devices",
+      "omni channel engagement",
+      "omni channel marketing",
+      "operational execution",
+      "pmp",
+      "project management",
+      "project planning",
+      "real world evidence",
+      "return on investment",
+      "rf engineering",
+      "salesforce marketing cloud",
+      "sdlc",
+      "solidworks",
+      "strategic vision",
+      "strategy execution",
+      "surgical navigation",
+      "team leadership",
+      "technology integration",
+      "urodynamics"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "canada"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "director, business planning & delivery - us oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "mississauga, ontario, canada"
+        ],
+        "end_date": "2025-05",
+        "start_date": "2023-03",
+        "title": {
+          "name": "director, global commercial operations (europe & canada region)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "mississauga, ontario, canada"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2022-04",
+        "title": {
+          "name": "omnichannel program manager (global commercial operations)",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "emd serono, inc.",
+          "size": "1001-5000",
+          "id": "B2NFLt00BqQW36bMCv5udwWoG8H6",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rockland, massachusetts, united states",
+            "locality": "rockland",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "02370",
+            "geo": "42.12,-70.91"
+          },
+          "linkedin_url": "linkedin.com/company/emd-serono-inc",
+          "linkedin_id": "4237",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "emdserono.com"
+        },
+        "location_names": [
+          "mississauga, ontario, canada"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2021-04",
+        "title": {
+          "name": "customer-centric engagement lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda canada inc.",
+          "size": "201-500",
+          "id": "rQpV8i6QMTQASPzVsICJ3Aq1v8I0",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "metro": null,
+            "country": "canada",
+            "continent": "north america",
+            "street_address": "22 adelaide street west suite",
+            "address_line_2": null,
+            "postal_code": "m5h 4e3",
+            "geo": "43.65,-79.38"
+          },
+          "linkedin_url": "linkedin.com/company/takeda-canada-inc-",
+          "linkedin_id": "1267362",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "takeda.ca"
+        },
+        "location_names": [],
+        "end_date": "2021-07",
+        "start_date": "2018-07",
+        "title": {
+          "name": "customer excellence and business operations",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda canada inc.",
+          "size": "201-500",
+          "id": "rQpV8i6QMTQASPzVsICJ3Aq1v8I0",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "metro": null,
+            "country": "canada",
+            "continent": "north america",
+            "street_address": "22 adelaide street west suite",
+            "address_line_2": null,
+            "postal_code": "m5h 4e3",
+            "geo": "43.65,-79.38"
+          },
+          "linkedin_url": "linkedin.com/company/takeda-canada-inc-",
+          "linkedin_id": "1267362",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "takeda.ca"
+        },
+        "location_names": [],
+        "end_date": "2018",
+        "start_date": "2016",
+        "title": {
+          "name": "project manager and launch lead (ibd)",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "laborie",
+          "size": "501-1000",
+          "id": "xHaKCryA62a3nCeqtTEQrQkKn6WS",
+          "founded": 1967,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "portsmouth, new hampshire, united states",
+            "locality": "portsmouth",
+            "region": "new hampshire",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "180 pease international tradeport",
+            "address_line_2": null,
+            "postal_code": "03801",
+            "geo": "43.10,-70.79"
+          },
+          "linkedin_url": "linkedin.com/company/laborie",
+          "linkedin_id": "63800",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/laboriemedical",
+          "website": "laborie.com"
+        },
+        "location_names": [
+          "mississauga, ontario, canada"
+        ],
+        "end_date": "2016",
+        "start_date": "2014",
+        "title": {
+          "name": "project manager, medical device launch",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "laborie",
+          "size": "501-1000",
+          "id": "xHaKCryA62a3nCeqtTEQrQkKn6WS",
+          "founded": 1967,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "portsmouth, new hampshire, united states",
+            "locality": "portsmouth",
+            "region": "new hampshire",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "180 pease international tradeport",
+            "address_line_2": null,
+            "postal_code": "03801",
+            "geo": "43.10,-70.79"
+          },
+          "linkedin_url": "linkedin.com/company/laborie",
+          "linkedin_id": "63800",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/laboriemedical",
+          "website": "laborie.com"
+        },
+        "location_names": [],
+        "end_date": "2014-06",
+        "start_date": "2013-06",
+        "title": {
+          "name": "systems engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "software",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "avado",
+          "type": "post-secondary institution",
+          "id": "ZBHatPzwbMrI5xXgDfNMhQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/avado-learning",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4983875",
+          "website": "join.avadolearning.com",
+          "domain": "avadolearning.com"
+        },
+        "degrees": [],
+        "start_date": "2022-09",
+        "end_date": "2023-04",
+        "majors": [
+          "leadership",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "squared online",
+          "type": "post-secondary institution",
+          "id": "LlafeemYQ9bzLRlAlkSE9w_0000",
+          "location": {
+            "name": "hamburg, hamburg, germany",
+            "locality": "hamburg",
+            "region": "hamburg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/squared-online",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3215165",
+          "website": "wearesquared.de",
+          "domain": "wearesquared.de"
+        },
+        "degrees": [],
+        "start_date": "2022-09",
+        "end_date": "2023-04",
+        "majors": [
+          "leadership",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of toronto",
+          "type": "post-secondary institution",
+          "id": "lifEXfVDyBaj3fLY6mhqmQ_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-toronto",
+          "facebook_url": "facebook.com/universitytoronto",
+          "twitter_url": "twitter.com/uoft",
+          "linkedin_id": "3660",
+          "website": "defygravitycampaign.utoronto.ca",
+          "domain": "utoronto.ca"
+        },
+        "degrees": [],
+        "start_date": "2018-06",
+        "end_date": "2018-07",
+        "majors": [
+          "project management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ryerson university",
+          "type": "post-secondary institution",
+          "id": "KmbxS3YM7bI9QWV2-lFhFg_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/ryersonu",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "165799",
+          "website": "torontomu.ca",
+          "domain": "torontomu.ca"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors"
+        ],
+        "start_date": "2009",
+        "end_date": "2013",
+        "majors": [
+          "biomedical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "toronto metropolitan university",
+          "type": "post-secondary institution",
+          "id": "ghBaY5LvBn01KKYCeykThw_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/torontometropolitanuniversity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "85465247",
+          "website": "torontomu.ca",
+          "domain": "torontomu.ca"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "biomedical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of toronto",
+          "type": "post-secondary institution",
+          "id": "lifEXfVDyBaj3fLY6mhqmQ_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-toronto",
+          "facebook_url": "facebook.com/universitytoronto",
+          "twitter_url": "twitter.com/uoft",
+          "linkedin_id": "3660",
+          "website": "defygravitycampaign.utoronto.ca",
+          "domain": "utoronto.ca"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "biochemistry"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "62103966",
+        "url": "linkedin.com/in/shaimaabid",
+        "username": "shaimaabid"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/shaima-abid-96696b18",
+        "username": "shaima-abid-96696b18"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

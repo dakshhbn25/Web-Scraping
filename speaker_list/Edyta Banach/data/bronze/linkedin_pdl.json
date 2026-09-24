@@ -1,0 +1,1127 @@
+{
+  "record_id": "speaker-dubrovnik-001",
+  "speaker_name": "Edyta Banach",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/edytabanach/",
+  "scraped_at": "2026-09-18T09:06:18.409210+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "UOjmCctEG77bsBBftP2yow_0000",
+    "full_name": "edyta banach",
+    "first_name": "edyta",
+    "middle_initial": "a",
+    "middle_name": "anastazja",
+    "last_initial": "b",
+    "last_name": "banach",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/edytabanach",
+    "linkedin_username": "edytabanach",
+    "linkedin_id": "5808103",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "hospital & health care",
+    "job_title": "global commercial strategy lead",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+    "job_company_name": "johnson & johnson",
+    "job_company_website": "jnj.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1887,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/johnson-&-johnson",
+    "job_company_linkedin_id": "1207",
+    "job_company_facebook_url": "facebook.com/jnj",
+    "job_company_twitter_url": "twitter.com/jnjcares",
+    "job_company_location_name": "new brunswick, new jersey, united states",
+    "job_company_location_locality": "new brunswick",
+    "job_company_location_metro": null,
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": null,
+    "job_last_changed": "2025-10-28",
+    "job_last_verified": "2026-08-19",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-19",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "accounting",
+      "auditing",
+      "banking",
+      "business analytics",
+      "business planning",
+      "business strategy",
+      "communication",
+      "compliance",
+      "compliance management",
+      "consolidation",
+      "corporate finance",
+      "corporate governance",
+      "corporate tax",
+      "due diligence",
+      "enterprise risk management",
+      "fcpa",
+      "finance",
+      "financial accounting",
+      "financial analysis",
+      "financial audits",
+      "financial modeling",
+      "financial reporting",
+      "ifrs",
+      "internal audit",
+      "internal controls",
+      "international tax",
+      "leadership",
+      "management",
+      "management consulting",
+      "managerial finance",
+      "market access",
+      "marketingstrategie",
+      "mentoring",
+      "mergers",
+      "mergers and acquisitions",
+      "pharmaceuticals",
+      "presentation skills",
+      "private equity",
+      "project management",
+      "restructuring",
+      "risk management",
+      "sarbanes oxley act",
+      "strategic thinking",
+      "strategie",
+      "strategische planung",
+      "strategy",
+      "tax",
+      "transfer pricing",
+      "us gaap"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "poland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "johnson & johnson",
+          "size": "10001+",
+          "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson",
+          "linkedin_id": "1207",
+          "facebook_url": "facebook.com/jnj",
+          "twitter_url": "twitter.com/jnjcares",
+          "website": "jnj.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "global commercial strategy lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [],
+        "end_date": "2025-09",
+        "start_date": "2024-01",
+        "title": {
+          "name": "intercontinental commercial ta head - oncology (solid tumors & hematology)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "chicago, illinois, united states"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2022-05",
+        "title": {
+          "name": "global brand team lead - hcv, specialty care",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "chicago, illinois, united states"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2020-10",
+        "title": {
+          "name": "global marketing director - hcv, specialty care",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [],
+        "end_date": "2020-09",
+        "start_date": "2019-03",
+        "title": {
+          "name": "business unit director - specialty care",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "warsaw school of economics",
+          "size": "1001-5000",
+          "id": "BhLLfaOSGxyjJYN3hoLOgAAUlBLK",
+          "founded": 1906,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "warsaw, masovian, poland",
+            "locality": "warsaw",
+            "region": "masovian",
+            "metro": null,
+            "country": "poland",
+            "continent": "europe",
+            "street_address": "162 warsaw mazowiecki",
+            "address_line_2": null,
+            "postal_code": "02-554",
+            "geo": "52.22,21.01"
+          },
+          "linkedin_url": "linkedin.com/company/warsaw-school-of-economics",
+          "linkedin_id": "166869",
+          "facebook_url": "facebook.com/sghwarsaw",
+          "twitter_url": "twitter.com/rzeczniksgh",
+          "website": null
+        },
+        "location_names": [
+          "warsaw, masovian, poland"
+        ],
+        "end_date": "2022-02",
+        "start_date": "2018-10",
+        "title": {
+          "name": "author of corporate governance, risk and compliance management studies & lecturer",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fundacja liderek biznesu",
+          "size": "1-10",
+          "id": "dBAUkAuPwyvT4w1gKkpyFQ9zEd10",
+          "founded": 2014,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "warsaw, masovian, poland",
+            "locality": "warsaw",
+            "region": "masovian",
+            "metro": null,
+            "country": "poland",
+            "continent": "europe",
+            "street_address": "58 ogrodowa",
+            "address_line_2": null,
+            "postal_code": "00-876",
+            "geo": "52.22,21.01"
+          },
+          "linkedin_url": "linkedin.com/company/fundacja-liderek-biznesu",
+          "linkedin_id": "5044514",
+          "facebook_url": "facebook.com/liderkibiznesu",
+          "twitter_url": null,
+          "website": "liderkibiznesu.pl"
+        },
+        "location_names": [],
+        "end_date": "2021-04",
+        "start_date": "2018-05",
+        "title": {
+          "name": "mentor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [],
+        "end_date": "2019-03",
+        "start_date": "2017-11",
+        "title": {
+          "name": "business unit director - virology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-11",
+        "start_date": "2014-02",
+        "title": {
+          "name": "regional head of ethics & compliance",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2014-01",
+        "start_date": "2011-08",
+        "title": {
+          "name": "head of compliance",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2011-07",
+        "start_date": "2010-07",
+        "title": {
+          "name": "tax manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [],
+        "end_date": "2010-07",
+        "start_date": "2007-04",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "accenture",
+          "size": "10001+",
+          "id": "NYYbtRj1s6utKbHMHSioGQntpYZ9",
+          "founded": 1989,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 2",
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/accenture",
+          "linkedin_id": "1033",
+          "facebook_url": "facebook.com/accenture",
+          "twitter_url": "twitter.com/accenture",
+          "website": "accenture.com"
+        },
+        "location_names": [],
+        "end_date": "2007-03",
+        "start_date": "2006-07",
+        "title": {
+          "name": "cee coordinator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pwc",
+          "size": "10001+",
+          "id": "CExFvABvH8bJRAgCOMEVuwy9l2Gc",
+          "founded": 1998,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "pitch place, england, united kingdom",
+            "locality": "pitch place",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 embankment",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.14,-0.72"
+          },
+          "linkedin_url": "linkedin.com/company/pwc",
+          "linkedin_id": "1044",
+          "facebook_url": "facebook.com/execpress",
+          "twitter_url": "twitter.com/pwc_llp",
+          "website": "pwc.com"
+        },
+        "location_names": [],
+        "end_date": "2006-07",
+        "start_date": "2005-10",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "credit suisse",
+          "size": "10001+",
+          "id": "1CnShMGdC6RBZZiQnXPaRw4m07Ri",
+          "founded": 1856,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "8 paradeplatz",
+            "address_line_2": null,
+            "postal_code": "8070",
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/credit-suisse",
+          "linkedin_id": "1284",
+          "facebook_url": "facebook.com/creditsuisse",
+          "twitter_url": "twitter.com/creditsuisse",
+          "website": "credit-suisse.com"
+        },
+        "location_names": [
+          "warsaw, masovian, poland"
+        ],
+        "end_date": "2005-09",
+        "start_date": "2005-07",
+        "title": {
+          "name": "fixed income portfolio assistant",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bank millennium",
+          "size": "5001-10000",
+          "id": "4VrE0xwChOB8e8ozxbJJeA2G4jSx",
+          "founded": 1989,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "warsaw, masovian, poland",
+            "locality": "warsaw",
+            "region": "masovian",
+            "metro": null,
+            "country": "poland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.22,21.01"
+          },
+          "linkedin_url": "linkedin.com/company/bank-millennium",
+          "linkedin_id": "162634",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bankmillennium",
+          "website": "bankmillennium.pl"
+        },
+        "location_names": [
+          "warsaw, masovian, poland"
+        ],
+        "end_date": "2005-01",
+        "start_date": "2004-09",
+        "title": {
+          "name": "finance assistant",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bank millennium",
+          "size": "5001-10000",
+          "id": "4VrE0xwChOB8e8ozxbJJeA2G4jSx",
+          "founded": 1989,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "warsaw, masovian, poland",
+            "locality": "warsaw",
+            "region": "masovian",
+            "metro": null,
+            "country": "poland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.22,21.01"
+          },
+          "linkedin_url": "linkedin.com/company/bank-millennium",
+          "linkedin_id": "162634",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bankmillennium",
+          "website": "bankmillennium.pl"
+        },
+        "location_names": [
+          "warsaw, masovian, poland"
+        ],
+        "end_date": "2004-08",
+        "start_date": "2004-03",
+        "title": {
+          "name": "assistant (millennium prestige)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "polskie radio s.a.",
+          "size": "1001-5000",
+          "id": "hcYtxtoUdAoJx5IU6oCxdAwnZ8v4",
+          "founded": null,
+          "industry": "broadcast media",
+          "industry_v2": "broadcast media production and distribution",
+          "location": {
+            "name": "warsaw, masovian, poland",
+            "locality": "warsaw",
+            "region": "masovian",
+            "metro": null,
+            "country": "poland",
+            "continent": "europe",
+            "street_address": "77 85 alameda niepodległości",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.22,21.01"
+          },
+          "linkedin_url": "linkedin.com/company/polskie-radio-s.a.",
+          "linkedin_id": "951947",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/polskieradiopl",
+          "website": "polskieradio.pl"
+        },
+        "location_names": [],
+        "end_date": "2002-06",
+        "start_date": "1998-09",
+        "title": {
+          "name": "radio presenter",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "entertainment",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard business school",
+          "type": "post-secondary institution",
+          "id": "msWm2G6JJBgicb2CCsvODg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4867",
+          "website": "hbs.edu",
+          "domain": "hbs.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-01",
+        "end_date": "2025-04",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cornell university",
+          "type": "post-secondary institution",
+          "id": "k5MUEFzocB5nSJZC701J6A_0000",
+          "location": {
+            "name": "ithaca, new york, united states",
+            "locality": "ithaca",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/cornell-university",
+          "facebook_url": "facebook.com/cornell",
+          "twitter_url": "twitter.com/cornell",
+          "linkedin_id": "3523",
+          "website": "cornell.edu",
+          "domain": "cornell.edu"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2022-03",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2020-01",
+        "end_date": "2022-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "center for leadership (cl)",
+          "type": "post-secondary institution",
+          "id": "bhPwx9mr89RHuuaMXb3Tyw_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/center-for-leadership-org",
+          "facebook_url": "facebook.com/queensuniversity",
+          "twitter_url": "twitter.com/queensu",
+          "linkedin_id": "3574885",
+          "website": "queensu.ca",
+          "domain": "queensu.ca"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019-12",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sgh warsaw school of economics",
+          "type": "post-secondary institution",
+          "id": "aNhGnwfmffJNLsBPo2zkLA_0000",
+          "location": {
+            "name": "warszawa, masovian, poland",
+            "locality": "warszawa",
+            "region": "masovian",
+            "country": "poland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sgh-warsaw-school-of-economics",
+          "facebook_url": "facebook.com/sghwarsaw",
+          "twitter_url": "twitter.com/sghwarsaw",
+          "linkedin_id": "15096521",
+          "website": "sgh.waw.pl",
+          "domain": "sgh.waw.pl"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2016",
+        "end_date": "2016",
+        "majors": [
+          "finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "institute of law studies, polish academy of sciences",
+          "type": "post-secondary institution",
+          "id": "GC0HRfrMBEckmrjHimfm-w_0000",
+          "location": {
+            "name": "warszawa, masovian, poland",
+            "locality": "warszawa",
+            "region": "masovian",
+            "country": "poland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/institute-of-law-studies-pas",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "12594996",
+          "website": "inp.pan.pl",
+          "domain": "pan.pl"
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": "2017",
+        "majors": [
+          "law"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sgh warsaw school of economics",
+          "type": "post-secondary institution",
+          "id": "aNhGnwfmffJNLsBPo2zkLA_0000",
+          "location": {
+            "name": "warszawa, masovian, poland",
+            "locality": "warszawa",
+            "region": "masovian",
+            "country": "poland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sgh-warsaw-school-of-economics",
+          "facebook_url": "facebook.com/sghwarsaw",
+          "twitter_url": "twitter.com/sghwarsaw",
+          "linkedin_id": "15096521",
+          "website": "sgh.waw.pl",
+          "domain": "sgh.waw.pl"
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2014",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sgh warsaw school of economics",
+          "type": "post-secondary institution",
+          "id": "aNhGnwfmffJNLsBPo2zkLA_0000",
+          "location": {
+            "name": "warszawa, masovian, poland",
+            "locality": "warszawa",
+            "region": "masovian",
+            "country": "poland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sgh-warsaw-school-of-economics",
+          "facebook_url": "facebook.com/sghwarsaw",
+          "twitter_url": "twitter.com/sghwarsaw",
+          "linkedin_id": "15096521",
+          "website": "sgh.waw.pl",
+          "domain": "sgh.waw.pl"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2007",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sgh warsaw school of economics",
+          "type": "post-secondary institution",
+          "id": "aNhGnwfmffJNLsBPo2zkLA_0000",
+          "location": {
+            "name": "warszawa, masovian, poland",
+            "locality": "warszawa",
+            "region": "masovian",
+            "country": "poland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sgh-warsaw-school-of-economics",
+          "facebook_url": "facebook.com/sghwarsaw",
+          "twitter_url": "twitter.com/sghwarsaw",
+          "linkedin_id": "15096521",
+          "website": "sgh.waw.pl",
+          "domain": "sgh.waw.pl"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2014-06",
+        "majors": [
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "5808103",
+        "url": "linkedin.com/in/edytabanach",
+        "username": "edytabanach"
+      },
+      {
+        "network": "linkedin",
+        "id": "5808103",
+        "url": "linkedin.com/in/edyta-banach-207b411",
+        "username": "edyta-banach-207b411"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

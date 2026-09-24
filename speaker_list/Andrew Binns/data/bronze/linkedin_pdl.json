@@ -1,0 +1,534 @@
+{
+  "record_id": "speaker-dubrovnik-079",
+  "speaker_name": "Andrew Binns",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/andrewjohnbinns/",
+  "scraped_at": "2026-09-18T09:37:53.515713+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "2K1eH4CxE5TEXJvEbYc9VA_0000",
+    "full_name": "andrew binns",
+    "first_name": "andrew",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "binns",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/andrewjohnbinns",
+    "linkedin_username": "andrewjohnbinns",
+    "linkedin_id": "10706982",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "marketing and advertising",
+    "job_title": "director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "WVyw4OiMUQKeYhnA1XtNEQzgAR1T",
+    "job_company_name": "poke",
+    "job_company_website": "pokemarketing.co.uk",
+    "job_company_size": "11-50",
+    "job_company_founded": 2020,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "advertising services",
+    "job_company_linkedin_url": "linkedin.com/company/pokemarketing",
+    "job_company_linkedin_id": "70925182",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "liverpool, england, united kingdom",
+    "job_company_location_locality": "liverpool",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "53.42,-2.83",
+    "job_company_location_street_address": "19 old hall street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "l3 9jq",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-03-26",
+    "job_last_verified": "2026-08-21",
+    "job_start_date": "2020-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-21",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "affiliate marketing",
+      "conversion optimization",
+      "digital marketing",
+      "digital strategy",
+      "e commerce",
+      "email marketing",
+      "google adwords",
+      "google analytics",
+      "management",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "medical communications",
+      "online advertising",
+      "online marketing",
+      "organic search",
+      "ppc",
+      "search engine optimization",
+      "sem",
+      "seo",
+      "web analytics"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "poke",
+          "size": "11-50",
+          "id": "WVyw4OiMUQKeYhnA1XtNEQzgAR1T",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "liverpool, england, united kingdom",
+            "locality": "liverpool",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "19 old hall street",
+            "address_line_2": null,
+            "postal_code": "l3 9jq",
+            "geo": "53.42,-2.83"
+          },
+          "linkedin_url": "linkedin.com/company/pokemarketing",
+          "linkedin_id": "70925182",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "pokemarketing.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-10",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "croda",
+          "size": "5001-10000",
+          "id": "6yOE4TXtBhtEnYpAiOvoBgOQDGhi",
+          "founded": 1925,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "east cowton, england, united kingdom",
+            "locality": "east cowton",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dn14 9aa",
+            "geo": "54.41,-1.5"
+          },
+          "linkedin_url": "linkedin.com/company/croda",
+          "linkedin_id": "7191",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/crodapceurope",
+          "website": "croda.com"
+        },
+        "location_names": [],
+        "end_date": "2026-03",
+        "start_date": "2025-04",
+        "title": {
+          "name": "global marketing director",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2025-04",
+        "start_date": "2021-08",
+        "title": {
+          "name": "head of digital & innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "poke",
+          "size": "11-50",
+          "id": "WVyw4OiMUQKeYhnA1XtNEQzgAR1T",
+          "founded": 2020,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "liverpool, england, united kingdom",
+            "locality": "liverpool",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "19 old hall street",
+            "address_line_2": null,
+            "postal_code": "l3 9jq",
+            "geo": "53.42,-2.83"
+          },
+          "linkedin_url": "linkedin.com/company/pokemarketing",
+          "linkedin_id": "70925182",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "pokemarketing.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2026-01",
+        "start_date": "2020-10",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "andrew binns",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2023-08",
+        "start_date": "2020-02",
+        "title": {
+          "name": "marketing strategy consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cim | the chartered institute of marketing",
+          "size": "51-200",
+          "id": "YEQ7SyBdzFO7JJtJCLvSvgxg24ji",
+          "founded": 1911,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "maidenhead, england, united kingdom",
+            "locality": "maidenhead",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.73"
+          },
+          "linkedin_url": "linkedin.com/school/chartered-institute-of-marketing",
+          "linkedin_id": "479618",
+          "facebook_url": "facebook.com/thecim",
+          "twitter_url": null,
+          "website": "cim.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2023-08",
+        "start_date": "2019-12",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "manchester, england, united kingdom"
+        ],
+        "end_date": "2020-02",
+        "start_date": "2018-10",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ashfield, part of udg healthcare (now inizio)",
+          "size": "5001-10000",
+          "id": "o5JPIs8XoJPzVDRhLxtHYwQOGcPm",
+          "founded": 1997,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ashby-de-la-zouch, england, united kingdom",
+            "locality": "ashby-de-la-zouch",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le65 1hw",
+            "geo": "52.73,-1.46"
+          },
+          "linkedin_url": "linkedin.com/company/ashfield-part-of-udg-healthcare",
+          "linkedin_id": "3479097",
+          "facebook_url": "facebook.com/ashfield.careers.uk",
+          "twitter_url": "twitter.com/ashfieldcm",
+          "website": "oneashfield.com"
+        },
+        "location_names": [
+          "macclesfield, england, united kingdom"
+        ],
+        "end_date": "2018-09",
+        "start_date": "2015-02",
+        "title": {
+          "name": "senior vice president strategy & planning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rippleffect",
+          "size": "51-200",
+          "id": "G1nZqS9StwilRAeobNxEIQ5TfMCa",
+          "founded": 1999,
+          "industry": "online media",
+          "industry_v2": "online audio and video media",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "47-51 great suffolk street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/rippleffect",
+          "linkedin_id": "295855",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "rippleffect.com"
+        },
+        "location_names": [],
+        "end_date": "2015-01",
+        "start_date": "2005-10",
+        "title": {
+          "name": "head of strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of derby",
+          "type": "post-secondary institution",
+          "id": "tcBWHBy-6YwhMVTSZACurg_0000",
+          "location": {
+            "name": "derby, england, united kingdom",
+            "locality": "derby",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-derby",
+          "facebook_url": "facebook.com/derbyuni",
+          "twitter_url": "twitter.com/derbyuni",
+          "linkedin_id": "20145",
+          "website": "derby.ac.uk",
+          "domain": "derby.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1994-01",
+        "end_date": "1997-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of derby",
+          "type": "post-secondary institution",
+          "id": "tcBWHBy-6YwhMVTSZACurg_0000",
+          "location": {
+            "name": "derby, england, united kingdom",
+            "locality": "derby",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-derby",
+          "facebook_url": "facebook.com/derbyuni",
+          "twitter_url": "twitter.com/derbyuni",
+          "linkedin_id": "20145",
+          "website": "derby.ac.uk",
+          "domain": "derby.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1994-01",
+        "end_date": "1997-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "10706982",
+        "url": "linkedin.com/in/andrewjohnbinns",
+        "username": "andrewjohnbinns"
+      },
+      {
+        "network": "linkedin",
+        "id": "10706982",
+        "url": "linkedin.com/in/andrew-binns-2067043",
+        "username": "andrew-binns-2067043"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

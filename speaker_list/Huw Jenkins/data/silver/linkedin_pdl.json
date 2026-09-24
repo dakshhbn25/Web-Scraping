@@ -1,0 +1,219 @@
+{
+  "record_id": "speaker-viennacx-014",
+  "speaker_name": "Huw Jenkins",
+  "linkedin_url": "https://www.linkedin.com/in/huw-jenkins-30640b4/",
+  "likelihood": 9,
+  "full_name": "huw jenkins",
+  "job_title": "director, global content strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "astellas pharma",
+  "current_company_website": "astellas.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "active directory",
+    "advertising",
+    "agile methodologies",
+    "agile project management",
+    "apache",
+    "approval process",
+    "artificial intelligence",
+    "business workflows",
+    "change management",
+    "consulting",
+    "content strategy",
+    "cross functional team leadership",
+    "digital asset management",
+    "digital marketing",
+    "digital media",
+    "e commerce",
+    "firewalls",
+    "integrated marketing",
+    "integration",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing communications",
+    "media production",
+    "modular content",
+    "mysql",
+    "network security",
+    "networking",
+    "open source",
+    "operating systems",
+    "program management",
+    "project delivery",
+    "project management",
+    "regulatory approvals",
+    "servers",
+    "strategy",
+    "team management",
+    "translation",
+    "unix",
+    "web development",
+    "windows server",
+    "windows server 2008",
+    "x functional strategy"
+  ],
+  "interests": [
+    "apple",
+    "cinema and sport",
+    "mexican guitar",
+    "microsoft",
+    "spanish language",
+    "technology"
+  ],
+  "experience": [
+    {
+      "title": "director, global content strategy",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, modular content",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "director, commercial content strategy",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2019-03",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, commercial content strategy",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2016-09",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior solutions consultant",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2015-09",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "industry solutions director",
+      "company": "zinc ahead ltd",
+      "company_industry": "computer software",
+      "start_date": "2015-06",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "account director (emea & apac)",
+      "company": "hogarth",
+      "company_industry": "marketing and advertising",
+      "start_date": "2013-11",
+      "end_date": "2015-06",
+      "is_primary": false
+    },
+    {
+      "title": "product owner",
+      "company": "hogarth",
+      "company_industry": "marketing and advertising",
+      "start_date": "2011-11",
+      "end_date": "2013-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of technology",
+      "company": "pearlfisher",
+      "company_industry": "design",
+      "start_date": "2005-01",
+      "end_date": "2011-11",
+      "is_primary": false
+    },
+    {
+      "title": "director of technology",
+      "company": "buildhollywood",
+      "company_industry": "marketing and advertising",
+      "start_date": "2001-02",
+      "end_date": "2004-12",
+      "is_primary": false
+    },
+    {
+      "title": "technology consultant",
+      "company": "templeton-smith",
+      "company_industry": null,
+      "start_date": "2000-03",
+      "end_date": "2001-04",
+      "is_primary": false
+    },
+    {
+      "title": "new media marketing",
+      "company": "gut records",
+      "company_industry": "music",
+      "start_date": "1999-01",
+      "end_date": "2000-02",
+      "is_primary": false
+    },
+    {
+      "title": "systems administrator",
+      "company": "rail manche finance",
+      "company_industry": null,
+      "start_date": "1998-01",
+      "end_date": "1998-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "durham university",
+      "majors": [
+        "business",
+        "finance"
+      ],
+      "degrees": [],
+      "start_date": "1996",
+      "end_date": "1998"
+    },
+    {
+      "school": "new college durham",
+      "majors": [
+        "business finance"
+      ],
+      "degrees": [],
+      "start_date": "1996",
+      "end_date": "1998"
+    },
+    {
+      "school": "durham university",
+      "majors": [
+        "business finance"
+      ],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "1998"
+    },
+    {
+      "school": "pontypool & gwent tertiary college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1994-01",
+      "end_date": "1996"
+    },
+    {
+      "school": "monmouth comprehensive school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1988-01",
+      "end_date": "1994"
+    }
+  ]
+}

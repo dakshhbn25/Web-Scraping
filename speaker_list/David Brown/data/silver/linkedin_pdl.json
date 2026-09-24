@@ -1,0 +1,124 @@
+{
+  "record_id": "speaker-viennacx-029",
+  "speaker_name": "David Brown",
+  "linkedin_url": "https://www.linkedin.com/in/david-brown-51806812/",
+  "likelihood": 9,
+  "full_name": "david brown",
+  "job_title": "senior director, global head of data, analytics & ai",
+  "industry": "computer hardware",
+  "current_company": "viiv healthcare",
+  "current_company_website": "viivhealthcare.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytics",
+    "business analysis",
+    "business intelligence",
+    "change management",
+    "cloud applications",
+    "cloud computing",
+    "coaching",
+    "crm",
+    "cross functional team leadership",
+    "csv",
+    "customer data",
+    "customer relationship management",
+    "data analytics",
+    "data privacy",
+    "data warehousing",
+    "digital",
+    "innovation management",
+    "it enabled business transformation",
+    "it leadership",
+    "it outsourcing",
+    "it strategy",
+    "leadership",
+    "life science industry",
+    "management",
+    "master data management",
+    "outsourcing",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "program management",
+    "project delivery",
+    "project management",
+    "salesforce.com",
+    "siebel",
+    "veeva"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, global head of data, analytics & ai",
+      "company": "viiv healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate principal (jr partner) / senior director",
+      "company": "zs",
+      "company_industry": "management consulting",
+      "start_date": "2018-04",
+      "end_date": "2024-01",
+      "is_primary": false
+    },
+    {
+      "title": "director international commercial systems",
+      "company": "vertex pharmaceuticals",
+      "company_industry": "biotechnology",
+      "start_date": "2016-10",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior director - commercial delivery lead and regional it delivery lead europe",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2015-03",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "business systems director",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2008-10",
+      "end_date": "2015-02",
+      "is_primary": false
+    },
+    {
+      "title": "project manager - health & life sciences",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2000-09",
+      "end_date": "2008-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the university of manchester",
+      "majors": [
+        "biochemistry",
+        "molecular biology"
+      ],
+      "degrees": [],
+      "start_date": "1996-09",
+      "end_date": "2000-06"
+    },
+    {
+      "school": "the university of manchester",
+      "majors": [
+        "biochemistry",
+        "molecular biology"
+      ],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-12"
+    }
+  ]
+}

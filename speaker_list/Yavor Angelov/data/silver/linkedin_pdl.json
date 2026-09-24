@@ -1,0 +1,159 @@
+{
+  "record_id": "speaker-viennacx-023",
+  "speaker_name": "Yavor Angelov",
+  "linkedin_url": "https://www.linkedin.com/in/yavor-angelov/",
+  "likelihood": 9,
+  "full_name": "yavor angelov",
+  "job_title": "founder",
+  "industry": "pharmaceuticals",
+  "current_company": "angelov consulting",
+  "current_company_website": "angelovconsulting.com",
+  "current_company_industry": "information technology and services",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "agile product ownership",
+    "agile project management",
+    "agile web development",
+    "ai ethics",
+    "android",
+    "artificial general intelligence",
+    "artificial intelligence",
+    "atlassian suite",
+    "automated artificial intelligence",
+    "bulgarian",
+    "business analysis",
+    "career development",
+    "cascading style sheets",
+    "coaching and mentoring",
+    "confluence",
+    "content management",
+    "content management systems",
+    "crm strategy and roadmap development",
+    "cross functional team leadership",
+    "customer relationship management",
+    "data driven decision making",
+    "digital strategy",
+    "e commerce",
+    "english",
+    "german",
+    "html",
+    "invision",
+    "ios",
+    "javascript",
+    "jira",
+    "kanban",
+    "mobile application development",
+    "personal development",
+    "product development",
+    "product innovation",
+    "product launch",
+    "product management",
+    "product marketing",
+    "product operations",
+    "product road mapping",
+    "product strategy",
+    "project management",
+    "release management",
+    "requirements analysis",
+    "requirements engineering",
+    "retail",
+    "russian",
+    "scrum",
+    "search engine optimization",
+    "software development",
+    "stakeholder management",
+    "team leadership",
+    "teamwork",
+    "user experience",
+    "user stories",
+    "user story development",
+    "vendor management",
+    "web development",
+    "wireframing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "founder",
+      "company": "angelov consulting",
+      "company_industry": "information technology and services",
+      "start_date": "2022-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "mentor",
+      "company": "adplist.org",
+      "company_industry": "computer software",
+      "start_date": "2025-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior product owner crm",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior product consultant",
+      "company": "the shoring company",
+      "company_industry": "information technology and services",
+      "start_date": "2020-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior product manager",
+      "company": "kaufland e-commerce",
+      "company_industry": "internet",
+      "start_date": "2019-03",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "digital product owner",
+      "company": "qvc",
+      "company_industry": "retail",
+      "start_date": "2017-07",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "cm4all gmbh - a we22 company",
+      "company_industry": "computer software",
+      "start_date": "2016-01",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "working student",
+      "company": "cm4all gmbh - a we22 company",
+      "company_industry": "computer software",
+      "start_date": "2015-02",
+      "end_date": "2015-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of cologne",
+      "majors": [
+        "business",
+        "informatics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2012-10",
+      "end_date": "2017-02"
+    }
+  ]
+}

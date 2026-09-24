@@ -1,0 +1,214 @@
+{
+  "record_id": "speaker-dubrovnik-096",
+  "speaker_name": "Dipanwita Das",
+  "linkedin_url": "https://www.linkedin.com/in/dipanwitadas/",
+  "likelihood": 9,
+  "full_name": "dipanwita das",
+  "job_title": "chief executive officer & co-founder",
+  "industry": "computer software",
+  "current_company": "sorcero",
+  "current_company_website": "sorcero.com",
+  "current_company_industry": "computer software",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advocacy",
+    "board relations",
+    "business relationship management",
+    "capacity building",
+    "communication",
+    "community development",
+    "community organizing",
+    "community outreach",
+    "corporate communications",
+    "creative strategy",
+    "curriculum development",
+    "design thinking",
+    "e democracy",
+    "e learning",
+    "e learning implementation",
+    "editing",
+    "employee engagement",
+    "executive team",
+    "facilitation",
+    "fundraising",
+    "human centered design",
+    "human resources",
+    "international development",
+    "international relations",
+    "leadership",
+    "leadership development",
+    "management",
+    "marketing",
+    "mentoring",
+    "ngos",
+    "non governmental organizations",
+    "non profits",
+    "nonprofit organizations",
+    "nonprofits",
+    "operational planning",
+    "policy analysis",
+    "program evaluation",
+    "programme design",
+    "public policy",
+    "public speaking",
+    "research",
+    "social entrepreneurship",
+    "social media",
+    "social media marketing",
+    "strategic planning",
+    "strategy",
+    "training",
+    "volunteer management",
+    "webinar development",
+    "writing"
+  ],
+  "interests": [
+    "arts and culture",
+    "children",
+    "civil rights and social action",
+    "crowdmapping",
+    "e learning",
+    "economic empowerment",
+    "education",
+    "human rights",
+    "politics",
+    "science and technology",
+    "social entrepreneurship",
+    "social media marketing",
+    "social services"
+  ],
+  "experience": [
+    {
+      "title": "chief executive officer & co-founder",
+      "company": "sorcero",
+      "company_industry": "computer software",
+      "start_date": "2018-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "member",
+      "company": "chief",
+      "company_industry": "professional training & coaching",
+      "start_date": "2026-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "member board of directors",
+      "company": "ecoamerica",
+      "company_industry": "environmental services",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "founding member",
+      "company": "chief",
+      "company_industry": "professional training & coaching",
+      "start_date": "2021-04",
+      "end_date": "2022-05",
+      "is_primary": false
+    },
+    {
+      "title": "edmund hillary global impact fellow",
+      "company": "edmund hillary fellowship (ehf)",
+      "company_industry": "non-profit organization management",
+      "start_date": "2020-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "member i class of 2019",
+      "company": "mindshare, inc.",
+      "company_industry": "civic & social organization",
+      "start_date": "2019-03",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "atlas corps",
+      "company_industry": "non-profit organization management",
+      "start_date": "2018-02",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "digital transformation consultant",
+      "company": "s m sehgal foundation",
+      "company_industry": "non-profit organization management",
+      "start_date": "2014-05",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "fellow and training manager",
+      "company": "atlas corps",
+      "company_industry": "non-profit organization management",
+      "start_date": "2012-08",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "20:20 msl",
+      "company_industry": "public relations and communications",
+      "start_date": "2012-04",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "managing director- strategy",
+      "company": "what's up bharat?",
+      "company_industry": "non-profit organization management",
+      "start_date": "2011-08",
+      "end_date": "2012-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "stanford university graduate school of business",
+      "majors": [
+        "entrepreneurship"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "institute of development studies",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2010-01"
+    },
+    {
+      "school": "st. stephen's college, delhi",
+      "majors": [
+        "history"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2006-01"
+    },
+    {
+      "school": "la martiniere for boys, kolkata",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1989-01",
+      "end_date": "2003"
+    }
+  ]
+}

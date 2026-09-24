@@ -1,0 +1,1002 @@
+{
+  "record_id": "speaker-dubrovnik-016",
+  "speaker_name": "Liana Lubel",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/lianalubel/",
+  "scraped_at": "2026-09-18T09:35:36.580611+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "h8c8Pi4qk-A6OuMsgUQ6cw_0000",
+    "full_name": "liana lubel",
+    "first_name": "liana",
+    "middle_initial": "m",
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "lubel",
+    "sex": "female",
+    "birth_year": true,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lianalubel",
+    "linkedin_username": "lianalubel",
+    "linkedin_id": "6597967",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "marketing and advertising",
+    "job_title": "co-owner @ non-profit",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "marketing_services",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": null,
+    "job_company_name": "chleider und chance",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2025-11-25",
+    "job_last_verified": "2026-08-15",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-15",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "advertising",
+      "advertising research",
+      "analytics",
+      "artificial intelligence",
+      "big data",
+      "board development",
+      "board of directors",
+      "brand equity",
+      "brand management",
+      "business advisory services",
+      "business development",
+      "business insights",
+      "business intelligence",
+      "competitive analysis",
+      "competitive intelligence",
+      "consumer behavior",
+      "consumer behaviour",
+      "consumer insight",
+      "consumer products",
+      "corporate governance",
+      "customer insight",
+      "digital transformation",
+      "emerging markets",
+      "enterprise risk management",
+      "fast moving consumer goods",
+      "fmcg",
+      "forecasting",
+      "global marketing",
+      "growth strategies",
+      "healthcare analytics",
+      "healthcare effectiveness data and information set",
+      "heor",
+      "innovation",
+      "international business",
+      "leadership",
+      "management",
+      "management consulting",
+      "market access",
+      "market analysis",
+      "market research",
+      "marketing",
+      "marketing research",
+      "marketing strategy",
+      "networking",
+      "pricing strategy",
+      "primary research",
+      "product development",
+      "product innovation",
+      "quantitative research",
+      "questionnaire design",
+      "risk assessment",
+      "risk management",
+      "segmentation",
+      "shopper marketing",
+      "stakeholder engagement",
+      "stakeholder management",
+      "strategic insights",
+      "strategic partnerships",
+      "strategy",
+      "sustainability",
+      "team leadership",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united states"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "chleider und chance",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "co-owner @ non-profit",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-11",
+        "title": {
+          "name": "senior director marketing excellence and insights - global abbott medicines",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "member of the creative council",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "member of the esg extended committee",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "virtual advisory board (vab)",
+          "size": "1-10",
+          "id": "EgBk6EdIbxOiQR0mRe6B2wRDGGpw",
+          "founded": 2020,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "7-12 tavistock square",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/virtual-advisory-board-vab",
+          "linkedin_id": "69990224",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "virtualadvisoryboard.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-12",
+        "title": {
+          "name": "vab member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "board owl",
+          "size": "1-10",
+          "id": "H37uxwhC6hXgjRx2Bn8fCQ46xs5h",
+          "founded": 2018,
+          "industry": "management consulting",
+          "industry_v2": "executive search services",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "8001",
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/board-owl",
+          "linkedin_id": "51599596",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "boardowl.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "board community member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": "2022-09",
+        "start_date": "2022-02",
+        "title": {
+          "name": "interim global market access head",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2024-11",
+        "start_date": "2017-07",
+        "title": {
+          "name": "global head of strategic insights & analytics",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2017-06",
+        "start_date": "2015-10",
+        "title": {
+          "name": "senior vice president innovation practice - global client lead",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [
+          "chicago, illinois, united states"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2014-11",
+        "title": {
+          "name": "senior vice president innovation practice - brand strategy",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2014-09",
+        "start_date": "2011-10",
+        "title": {
+          "name": "senior vice president strategic account development (affinnova)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2011-09",
+        "start_date": "2010-10",
+        "title": {
+          "name": "growth strategy partner (the cambridge group)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "growth",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2010-10",
+        "start_date": "2008-12",
+        "title": {
+          "name": "vice president client consulting (bases)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2008-11",
+        "start_date": "2008-02",
+        "title": {
+          "name": "vice president managing director for bases in france and south africa",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nielsen",
+          "size": "10001+",
+          "id": "S8rCktPoePDCQt6tBjL9Gg1UMZG7",
+          "founded": 1923,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "675 6th avenue",
+            "address_line_2": null,
+            "postal_code": "10011",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/nielsen",
+          "linkedin_id": "1714",
+          "facebook_url": "facebook.com/nielsen",
+          "twitter_url": "twitter.com/nielsen",
+          "website": "nielsen.com"
+        },
+        "location_names": [],
+        "end_date": "2008-01",
+        "start_date": "2002-08",
+        "title": {
+          "name": "director, client service (bases)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2001-12",
+        "start_date": "1996-01",
+        "title": {
+          "name": "regional consumer understanding manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "1995-12",
+        "start_date": "1994-12",
+        "title": {
+          "name": "brand manager assistant",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2023-04",
+        "end_date": "2024-10",
+        "majors": [
+          "organizational leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2023-03",
+        "end_date": "2024-09",
+        "majors": [
+          "organizational leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2024-12",
+        "majors": [
+          "organizational leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kellogg executive education",
+          "type": "post-secondary institution",
+          "id": "oH-6slhZqdBDAfekD5V1sg_0000",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/kellogg-executive-education",
+          "facebook_url": "facebook.com/northwesternqatar",
+          "twitter_url": "twitter.com/nuqatar",
+          "linkedin_id": "2781064",
+          "website": "kellogg.northwestern.edu",
+          "domain": "northwestern.edu"
+        },
+        "degrees": [],
+        "start_date": "2019",
+        "end_date": "2019",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tecnológico de monterrey",
+          "type": "post-secondary institution",
+          "id": "inEpuPPt2Vt9lp38LI6dnQ_0000",
+          "location": {
+            "name": "monterrey, nuevo león, mexico",
+            "locality": "monterrey",
+            "region": "nuevo león",
+            "country": "mexico",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/tecdemonterrey",
+          "facebook_url": "facebook.com/tecdemonterrey",
+          "twitter_url": "twitter.com/tecdemonterrey",
+          "linkedin_id": "5669",
+          "website": "tec.mx",
+          "domain": "tec.mx"
+        },
+        "degrees": [],
+        "start_date": "1990-01",
+        "end_date": "1994",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "northwestern university - kellogg school of management",
+          "type": "post-secondary institution",
+          "id": "fwHJOXYVlBm4MmlNTDgVEg_0000",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/kellogg-school-of-management",
+          "facebook_url": "facebook.com/northwesternqatar",
+          "twitter_url": "twitter.com/nuqatar",
+          "linkedin_id": "3195",
+          "website": "kellogg.northwestern.edu",
+          "domain": "northwestern.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "6597967",
+        "url": "linkedin.com/in/lianalubel",
+        "username": "lianalubel"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/liana-lubel-3272622",
+        "username": "liana-lubel-3272622"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,327 @@
+{
+  "record_id": "speaker-viennacx-035",
+  "speaker_name": "Vladimir Nimec",
+  "designation": "Head of Applied AI Solutions",
+  "company": "daiichisankyo.com",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/vnimec/?skipRedirect=true",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Daiichi Sankyo Europe GmbH",
+  "linkedin_location": "Germany, DE",
+  "linkedin_connections": "500",
+  "linkedin_followers": "1305",
+  "linkedin_about": "Everything is in continuous flux<br><br> In change I find opportunity<br><br>",
+  "linkedin_about_en": null,
+  "linkedin_languages": "**English** (Full professional proficiency), **Lithuanian** (Native or bilingual proficiency), **Russian** (Native or bilingual proficiency), **German** (Professional working proficiency)",
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [
+    {
+      "text": "Long live XGBoost! Many have the impression it's all foundation models now. Although they have started getting into the forecasting and tabular…",
+      "text_en": null,
+      "interaction": "Liked by Vladimir Nimec",
+      "post_url": "https://www.linkedin.com/posts/davidsauerwein_long-live-xgboost-many-have-the-impression-activity-7483382346377822208-F9m0",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D10AQF1SqEWyc6t5g/image-shrink_800/B4DZ9lwWXbJ8Ak-/0/1784118601620?e=2147483647&v=beta&t=bzLM1q3ke7XCtjU11NDm32JStLyHv4t8h9hifOCNyaU"
+    },
+    {
+      "text": "Huawei just made smartphone photography a little smarter. 📸🤖 Its AI-powered camera can suggest the best pose before you even take the photo…",
+      "text_en": null,
+      "interaction": "Liked by Vladimir Nimec",
+      "post_url": "https://www.linkedin.com/posts/kaiz-in_huawei-just-made-smartphone-photography-a-activity-7481693789695320064-V61y",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4E05AQH2RR85kp8UvA/videocover-high/B4EZ9MNc54JYBQ-/0/1783690024547?e=2147483647&v=beta&t=cqdBP-0mpRK8BStnteBJbD8U68Xn3OhEvSUf4RHYktw"
+    },
+    {
+      "text": "“AI will replace developers” sounds great until the LLM invoice arrives 😂 AI promised us fewer humans, more automation, and lower costs. Then the…",
+      "text_en": null,
+      "interaction": "Liked by Vladimir Nimec",
+      "post_url": "https://www.linkedin.com/posts/linasbeliunas_ai-will-replace-developers-sounds-great-activity-7463894678787149825-W9oQ",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQGDU-w7Agzorw/feedshare-shrink_800/B4DZ5UUqJ2JQAc-/0/1779531162476?e=2147483647&v=beta&t=W5S2NrWlg58wk9mhQ0feUjKVEDnf4uBuj7bmXxjDGBo"
+    }
+  ],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Hedieh Zakeri",
+      "company": "Accenture",
+      "profile_url": "https://de.linkedin.com/in/hediehzakeri"
+    },
+    {
+      "name": "Yuting Peng",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/yuting-peng-0329"
+    },
+    {
+      "name": "Walid Mourou",
+      "company": "Endress+Hauser Group",
+      "profile_url": "https://de.linkedin.com/in/walid-mourou"
+    },
+    {
+      "name": "Anoshpa Bansari",
+      "company": "admi",
+      "profile_url": "https://de.linkedin.com/in/anoshpa-bansari-257bbb162"
+    },
+    {
+      "name": "Farouk Sellami",
+      "company": "Azelpi",
+      "profile_url": "https://de.linkedin.com/in/farouk-sellami-285458a6"
+    },
+    {
+      "name": "Vadivel Datchinamoorthy",
+      "company": "1&1 Mail & Media Applications SE - GMX | WEB.DE | mail.com",
+      "profile_url": "https://de.linkedin.com/in/vadivel-d-83024a16"
+    },
+    {
+      "name": "Amr Khalil",
+      "company": "Lexware",
+      "profile_url": "https://de.linkedin.com/in/amrk"
+    },
+    {
+      "name": "Ayoub Bousrih",
+      "company": "Siemens Energy",
+      "profile_url": "https://de.linkedin.com/in/ayoub-bousrih"
+    },
+    {
+      "name": "Alec Kamra",
+      "company": "Retool",
+      "profile_url": "https://www.linkedin.com/in/alec-kamra-55201635"
+    },
+    {
+      "name": "🎿 Oscar Huarte Belzunce",
+      "company": "Essity",
+      "profile_url": "https://de.linkedin.com/in/huartebelzunce"
+    },
+    {
+      "name": "Jonas Straub",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/jonasstraub/en"
+    },
+    {
+      "name": "Elmar Mammadov",
+      "company": "Allianz Global Corporate & Specialty (AGCS)",
+      "profile_url": "https://de.linkedin.com/in/elmar-m-mammadov"
+    },
+    {
+      "name": "Vineeth Antony",
+      "company": "NDT Global",
+      "profile_url": "https://de.linkedin.com/in/vineeth-antony"
+    },
+    {
+      "name": "Christoph Stehling",
+      "company": "Celonis",
+      "profile_url": "https://uk.linkedin.com/in/christoph-stehling"
+    },
+    {
+      "name": "Maíra Ladeira Tanke",
+      "company": "Amazon Web Services (AWS)",
+      "profile_url": "https://www.linkedin.com/in/mairaladeira"
+    },
+    {
+      "name": "Vladislav Kozhevnikov",
+      "company": "Wolt",
+      "profile_url": "https://de.linkedin.com/in/vladislav-kozhevnikov"
+    },
+    {
+      "name": "Suhas Guruprasad",
+      "company": "Invert",
+      "profile_url": "https://in.linkedin.com/in/suhasguruprasad"
+    },
+    {
+      "name": "Emre Ozdemir",
+      "company": "Zalando",
+      "profile_url": "https://nl.linkedin.com/in/emrozd"
+    }
+  ],
+  "linkedin_industry": "hospital & health care",
+  "linkedin_current_company": "daiichi sankyo europe gmbh",
+  "linkedin_current_company_website": "daiichi-sankyo.eu",
+  "linkedin_skills": [
+    "agile development",
+    "agile methodologies",
+    "ai strategy",
+    "amazon redshift",
+    "amazon web services",
+    "analytical skills",
+    "analytics",
+    "apache spark",
+    "artificial intelligence",
+    "azure databricks",
+    "bid preparation",
+    "big data",
+    "c",
+    "ci/cd",
+    "cloud computing",
+    "communication",
+    "consulting",
+    "critical thinking",
+    "data analysis",
+    "data architecture",
+    "data engineering",
+    "data management",
+    "data modeling",
+    "data quality",
+    "data strategies",
+    "databircks",
+    "delta lake",
+    "devops",
+    "digital transformation",
+    "extract",
+    "general data protection regulation",
+    "generative ai",
+    "git",
+    "image processing",
+    "keras",
+    "key performance indicators",
+    "latex",
+    "leadership",
+    "load",
+    "machine learning",
+    "microsoft azure",
+    "mlops",
+    "postgresql",
+    "problem solving",
+    "product leadership",
+    "product strategy",
+    "project management",
+    "python",
+    "python",
+    "pytorch",
+    "regulatory compliance",
+    "snowflake",
+    "solution architecture",
+    "sql",
+    "strategic planning",
+    "tableau",
+    "team leadership",
+    "team management",
+    "technical leadership",
+    "transform"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "head of applied ai solutions",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director data & ai",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-08",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "data science and data engineering senior manager",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-12",
+      "end_date": "2024-08",
+      "is_primary": false
+    },
+    {
+      "title": "data engineer - architect",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-06",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior analyst - data & ai",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2020-03",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "independent consulting",
+      "company": "udacity",
+      "company_industry": "e-learning",
+      "start_date": "2019-02",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "machine learning engineer",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2018-01",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist",
+      "company": "orno",
+      "company_industry": "restaurants",
+      "start_date": "2016-02",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "lidl lietuva",
+      "company_industry": "retail",
+      "start_date": "2013-02",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior specialist",
+      "company": "kauno savivaldybė",
+      "company_industry": "government administration",
+      "start_date": "2012",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "chief consultant",
+      "company": "ecocentras npo",
+      "company_industry": null,
+      "start_date": "2012",
+      "end_date": "2012",
+      "is_primary": false
+    },
+    {
+      "title": "founder & chief executive officer",
+      "company": "eirene",
+      "company_industry": "information technology and services",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "architect",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2009",
+      "end_date": "2012",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "vilnius tech - vilnius gediminas technical university",
+      "majors": [
+        "architecture",
+        "engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

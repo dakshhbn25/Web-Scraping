@@ -1,0 +1,356 @@
+{
+  "record_id": "speaker-viennacx-025",
+  "speaker_name": "Jan Zimmermann",
+  "designation": "Associate Director Customer Excellence & Operations",
+  "company": "Shionogi",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/jzimmermann/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Shionogi Europe",
+  "linkedin_location": "Berlin, Berlin, Germany, DE",
+  "linkedin_connections": "500",
+  "linkedin_followers": "1216",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": "Hands-On Essentials: Data Science Workshop (Snowflake); Hands-On Essentials: Data Warehousing Workshop (Snowflake); SnowPro Associate: Platform Certification (Snowflake)",
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Samir Selman",
+      "company": null,
+      "profile_url": "https://ch.linkedin.com/in/samir-selman-07b8b158"
+    },
+    {
+      "name": "Lena Danis-Krieger",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/lena-danis-krieger-14ba1053"
+    },
+    {
+      "name": "Christoph A. Schoen",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/christoph-a-schoen/en"
+    },
+    {
+      "name": "Sebastian Herzfeldt",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/sebastian-herzfeldt/en"
+    },
+    {
+      "name": "Philipp Schwarz",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/philipp-schwarz-3315927a"
+    },
+    {
+      "name": "Daniel Gonschorrek",
+      "company": null,
+      "profile_url": "https://sg.linkedin.com/in/daniel-gonschorrek-ab4a7422"
+    },
+    {
+      "name": "Sarah Engels",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/sarah-engels-1428a847"
+    },
+    {
+      "name": "Karina Beckers-Weirich",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/karinaweirich"
+    },
+    {
+      "name": "Rasmus Brodersen",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/jrbrodersen"
+    },
+    {
+      "name": "Albert Koblbauer",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/albert-koblbauer-18451841"
+    },
+    {
+      "name": "Daniel Arcularius",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/daniel-arcularius-07532b63"
+    },
+    {
+      "name": "Kim Hardege",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/kim-hardege-97a58294"
+    },
+    {
+      "name": "Ibrahim Salama",
+      "company": null,
+      "profile_url": "https://ae.linkedin.com/in/ibrsalama/en"
+    },
+    {
+      "name": "Daniela Hurst",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/daniela-hurst-607844102"
+    },
+    {
+      "name": "Tim Hotz",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/tim-hotz"
+    },
+    {
+      "name": "Sebastian Dannenberg",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/sebastian-dannenberg-22056919"
+    },
+    {
+      "name": "Kemal Yaşar",
+      "company": null,
+      "profile_url": "https://tr.linkedin.com/in/kemal-ya%C5%9Far-a44b5052"
+    },
+    {
+      "name": "Jens Hermann Paulsen",
+      "company": null,
+      "profile_url": "https://de.linkedin.com/in/jens-hermann-paulsen-5907aa9"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "shionogi europe",
+  "linkedin_current_company_website": "shionogi.eu",
+  "linkedin_skills": [
+    "a/b testing",
+    "account management",
+    "agile methodologies",
+    "beratung",
+    "business development",
+    "business intelligence",
+    "communication",
+    "compute resource management",
+    "consulting",
+    "conversion optimization",
+    "crm",
+    "customer relationship management",
+    "data access management",
+    "data loading techniques",
+    "data science",
+    "database creation",
+    "datenanalyse",
+    "digital strategy",
+    "digitales marketing",
+    "digitalisierung",
+    "getting the job done",
+    "getting things done",
+    "go to market",
+    "google analytics",
+    "healthcare marketing",
+    "html",
+    "information technology",
+    "intercultural",
+    "intercultural communication",
+    "intercultural skills",
+    "internet strategy",
+    "it management",
+    "it outsourcing",
+    "itil",
+    "landing page optimization",
+    "machine learning",
+    "management",
+    "marketingstrategie",
+    "ml classification",
+    "ml forecasting",
+    "multi channel marketing",
+    "multichannel marketingstrategie",
+    "online advertising",
+    "online marketing",
+    "online marketing",
+    "pharmaindustrie",
+    "process management",
+    "project management",
+    "projektmanagement",
+    "self management",
+    "snowflake concepts",
+    "snowflake databases",
+    "snowflake external stages",
+    "snowflake sql worksheets",
+    "snowflake user interface",
+    "snowflake warehouses",
+    "sql",
+    "start ups",
+    "tableau",
+    "team leadership",
+    "transition management",
+    "veeva vault",
+    "web analytics"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "associate director customer excellence & operations",
+      "company": "shionogi europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior manager customer excellence & operations",
+      "company": "shionogi europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-09",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "judge: pm society digital awards 2023",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-06",
+      "end_date": "2023-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager customer excellence and business intelligence",
+      "company": "shionogi europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-12",
+      "end_date": "2025-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior digital brand manager",
+      "company": "shionogi europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-11",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "jury: pharma rx & medizinprodukte",
+      "company": "comprix kreative healthcare kommunikation",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-10",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior multi-channel manager",
+      "company": "sobi - swedish orphan biovitrum ab (publ)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "jury: digital",
+      "company": "comprix kreative healthcare kommunikation",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-03",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "multi-channel manager",
+      "company": "sobi - swedish orphan biovitrum ab (publ)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-04",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "precision aq - international",
+      "company_industry": "management consulting",
+      "start_date": "2014-02",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "t-systems international",
+      "company_industry": "information technology and services",
+      "start_date": "2010-10",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "project manager online marketing",
+      "company": "imedo gmbh",
+      "company_industry": "internet",
+      "start_date": "2009-09",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "network engineer",
+      "company": "t-systems canada",
+      "company_industry": null,
+      "start_date": "2008-02",
+      "end_date": "2008-09",
+      "is_primary": false
+    },
+    {
+      "title": "volunteer: it & telekommunikation",
+      "company": "fifa",
+      "company_industry": "sports",
+      "start_date": "2006-05",
+      "end_date": "2006-07",
+      "is_primary": false
+    },
+    {
+      "title": "volunteer: transport & verkehr",
+      "company": "fifa",
+      "company_industry": "sports",
+      "start_date": "2005-05",
+      "end_date": "2005-06",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "the graduate school of business seoul national university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2026-03",
+      "end_date": "2026-03"
+    },
+    {
+      "school": "esmt berlin",
+      "majors": [
+        "business",
+        "leadership",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2024-09",
+      "end_date": "2026"
+    },
+    {
+      "school": "deutsche telekom university of applied sciences",
+      "majors": [
+        "engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "deutsche telekom university of applied sciences",
+      "majors": [],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2008"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "record_id": "speaker-dubrovnik-063",
+  "speaker_name": "David Vanni",
+  "linkedin_url": "https://www.linkedin.com/in/david-vanni-lifesciences/",
+  "likelihood": 9,
+  "full_name": "david vanni",
+  "job_title": "head of growth",
+  "industry": "computer software",
+  "current_company": "choir - computers & humans orchestrating in resonance",
+  "current_company_website": "choirai.com",
+  "current_company_industry": "computer software",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "african markets",
+    "agricultural economics",
+    "asian markets",
+    "asset managment",
+    "b2b marketing strategy",
+    "care delivery",
+    "commodity",
+    "competitive differentiation",
+    "equities",
+    "financial markets",
+    "gestion de projet agile",
+    "healthcare information technology",
+    "healthcare innovation",
+    "healthcare marketing",
+    "healthcare system",
+    "international trade",
+    "marketing strategy",
+    "medical sales",
+    "mexican market",
+    "patient engagement",
+    "portfolio management",
+    "private banking",
+    "revenue and profit growth",
+    "secteur pharmaceutique",
+    "stakeholder management",
+    "strategic sourcing",
+    "ventes pharmaceutiques"
+  ],
+  "interests": [
+    "climbed the kilimanjaro 5895m",
+    "climbed the weissmies 4023m",
+    "middle east",
+    "south america and africa",
+    "switzerland in 2008",
+    "tanzania in 2005",
+    "trips to asia"
+  ],
+  "experience": [
+    {
+      "title": "head of growth",
+      "company": "choir - computers & humans orchestrating in resonance",
+      "company_industry": "computer software",
+      "start_date": "2026-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate director, global customer strategy | oncology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-05",
+      "end_date": "2026-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager, patient activation | china cardiovascular & metabolic",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager, marketing new launch | china cardiovascular & metabolic",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-02",
+      "end_date": "2023-02",
+      "is_primary": false
+    },
+    {
+      "title": "digital innovation manager | china marketing omni-channel",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-03",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "digital transformation coordinator | asia-pacific region",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-04",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "analyst automotive bmw | customer experience & innovation",
+      "company": "dimab groupe",
+      "company_industry": "consumer services",
+      "start_date": "2015-02",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "operations private banking",
+      "company": "ubp - union bancaire privée",
+      "company_industry": "banking",
+      "start_date": "2012-10",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "investment advisory services private banking",
+      "company": "millennium bank - millennium bcp group",
+      "company_industry": "banking",
+      "start_date": "2011-09",
+      "end_date": "2012-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "epfl",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2026-03",
+      "end_date": "2026-05"
+    },
+    {
+      "school": "katholieke universiteit leuven (ku leuven)",
+      "majors": [
+        "healthcare",
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "2025-03",
+      "end_date": "2025-06"
+    },
+    {
+      "school": "udemy alumni",
+      "majors": [
+        "data science"
+      ],
+      "degrees": [],
+      "start_date": "2019",
+      "end_date": "2019"
+    },
+    {
+      "school": "columbia business school",
+      "majors": [
+        "business",
+        "economics"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "renmin university of china",
+      "majors": [
+        "commerce",
+        "international business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "business school lausanne (bsl)",
+      "majors": [
+        "international economics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2017-09",
+      "end_date": "2019-06"
+    },
+    {
+      "school": "business school lausanne (bsl)",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2017-01",
+      "end_date": "2019-01"
+    },
+    {
+      "school": "international institute in geneva",
+      "majors": [
+        "business",
+        "finance",
+        "international business",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2014-12"
+    },
+    {
+      "school": "university of geneva",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01-01",
+      "end_date": "2012-12-31"
+    },
+    {
+      "school": "college alpin beau soleil",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01-01",
+      "end_date": "2008"
+    }
+  ]
+}

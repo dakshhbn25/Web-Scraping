@@ -1,0 +1,679 @@
+{
+  "record_id": "speaker-viennacx-031",
+  "speaker_name": "Andreas Mitsakis",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/andreas-mitsakis/",
+  "scraped_at": "2026-09-18T10:25:58.738721+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "eZG2gIoMwZfigydvGub7jg_0000",
+    "full_name": "andreas mitsakis",
+    "first_name": "andreas",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "mitsakis",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/andreas-mitsakis",
+    "linkedin_username": "andreas-mitsakis",
+    "linkedin_id": "266223014",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "omnichannel execution lead central & south europe cluster",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-12-16",
+    "job_last_verified": "2026-09-03",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "greece",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-06-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "arts and culture",
+      "children",
+      "civil rights and social action",
+      "environment",
+      "poverty alleviation",
+      "science and technology"
+    ],
+    "skills": [
+      "agile project management",
+      "ai ethics",
+      "application development",
+      "attention to detail",
+      "brand management",
+      "brand strategy",
+      "cardiology",
+      "change management",
+      "coaching",
+      "cross functional team leadership",
+      "design thinking",
+      "diabetes",
+      "digital innovation",
+      "digital marketing",
+      "digital transformation",
+      "endocrinology",
+      "feedback control systems",
+      "financial forecasting",
+      "gastroenterology",
+      "generative ai",
+      "go to market strategy",
+      "healthcare",
+      "hospital sales",
+      "hypertension",
+      "innovation",
+      "innovation development",
+      "internal medicine",
+      "large language models",
+      "large language models",
+      "launch excellence",
+      "leadership",
+      "management",
+      "market access",
+      "market analysis",
+      "market planning",
+      "medical education",
+      "medicine",
+      "microsoft power apps",
+      "microsoft power automate",
+      "neurology",
+      "omni channel marketing",
+      "oncology",
+      "osteoporosis",
+      "p&l management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacy",
+      "planning budgeting and forecasting",
+      "power automate",
+      "product launch",
+      "product ownership",
+      "project management",
+      "prompt engineering",
+      "pulmonology",
+      "recruiting",
+      "regional marketing",
+      "sales effectiveness",
+      "sales management",
+      "sales operations",
+      "strategic planning",
+      "strategic vision",
+      "team leadership",
+      "therapeutic areas",
+      "transformation",
+      "urology",
+      "vaccines",
+      "vibe coding"
+    ],
+    "location_names": false,
+    "regions": false,
+    "countries": [
+      "greece"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "omnichannel execution lead central & south europe cluster",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-10",
+        "start_date": "2023-09",
+        "title": {
+          "name": "transformation and commercial excellence lead specialty care gr",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2022-02",
+        "start_date": "2021-11",
+        "title": {
+          "name": "country sales & marketing manager greece & cyprus (ad interim)",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2022-09",
+        "start_date": "2020-01",
+        "title": {
+          "name": "franchise lead oncology precision medicine emea 2",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2020-01",
+        "start_date": "2016-03",
+        "title": {
+          "name": "senior brand manager oncology greece & cyprus",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2014-02",
+        "title": {
+          "name": "key account manager oncology",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sandoz",
+          "size": "10001+",
+          "id": "uub8samWX0d8T13kglUHgQ2VCOz4",
+          "founded": 1886,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4056",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/sandoz",
+          "linkedin_id": "4891",
+          "facebook_url": "facebook.com/sandozglobal",
+          "twitter_url": "twitter.com/sandoz_global",
+          "website": "sandoz.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2014-01",
+        "start_date": "2013-04",
+        "title": {
+          "name": "sales representative biosimilars",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2012-07",
+        "start_date": "2010-10",
+        "title": {
+          "name": "brand manager cardiometabolic care & general medicine",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2010-10",
+        "start_date": "2007-10",
+        "title": {
+          "name": "key account manager oncology",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2007-10",
+        "start_date": "2006-09",
+        "title": {
+          "name": "key account manager vaccines",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "athens, attikí, greece"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2005-04",
+        "title": {
+          "name": "key account manager cns & respiratory",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "panteion panepestimion ikonomikon kai politicon epistimon",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1997-01",
+        "end_date": "2009",
+        "majors": [
+          "politics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "panteion panepestimion ikonomikon kai politicon epistimon",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1993-01",
+        "end_date": "1997",
+        "majors": [
+          "international relations"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "266223014",
+        "url": "linkedin.com/in/andreas-mitsakis",
+        "username": "andreas-mitsakis"
+      },
+      {
+        "network": "linkedin",
+        "id": "266223014",
+        "url": "linkedin.com/in/andreas-mitsakis-2b21a875",
+        "username": "andreas-mitsakis-2b21a875"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

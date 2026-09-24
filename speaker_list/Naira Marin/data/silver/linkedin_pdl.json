@@ -1,0 +1,183 @@
+{
+  "record_id": "speaker-viennacx-045",
+  "speaker_name": "Naira Marin",
+  "linkedin_url": "https://www.linkedin.com/in/nairamarin/",
+  "likelihood": 9,
+  "full_name": "naira marin",
+  "job_title": "head of global marketing excellence",
+  "industry": "medical devices",
+  "current_company": "b. braun group",
+  "current_company_website": "bbraun.co.uk",
+  "current_company_industry": "medical devices",
+  "location_country": "spain",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "asistencia sanitaria",
+    "business development",
+    "business strategy",
+    "cardiothoracic surgery",
+    "cardiovascular",
+    "customer oriented",
+    "desarrollo de mercados",
+    "desarrollo de productos",
+    "eficacia de ventas",
+    "enthusiasm to learn",
+    "enthusiastic self starter",
+    "estrategia de mercadotecnia",
+    "estrategia empresarial",
+    "healthcare",
+    "lanzamiento de productos",
+    "liderazgo de equipos",
+    "liderazgo de equipos multidisciplinarios",
+    "market analysis",
+    "market development",
+    "marketing communications",
+    "marketing de productos",
+    "marketing management",
+    "marketing strategy",
+    "medical devices",
+    "new business development",
+    "product management",
+    "product marketing",
+    "productos sanitarios",
+    "team leadership",
+    "team management",
+    "training",
+    "ventas hospitalarias"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of global marketing excellence",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global group marketing services manager",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2022-07",
+      "end_date": "2025-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior channel manager ors",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2021-04",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "global business services manager",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2019-03",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "western europe business manager, global sales & marketing",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2017-04",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "strategic marketing manager-cardiovascular campaign",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2013-09",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "global product manager",
+      "company": "b. braun group",
+      "company_industry": "medical devices",
+      "start_date": "2013-06",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "iberia, africa & middle east product manager, continence & critical care",
+      "company": "convatec",
+      "company_industry": "medical devices",
+      "start_date": "2012-08",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "iberia product manager, critical care",
+      "company": "convatec",
+      "company_industry": "medical devices",
+      "start_date": "2008-05",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager",
+      "company": "convatec",
+      "company_industry": "medical devices",
+      "start_date": "2004-11",
+      "end_date": "2007-05",
+      "is_primary": false
+    },
+    {
+      "title": "hospital sales representative",
+      "company": "convatec",
+      "company_industry": "medical devices",
+      "start_date": "2004-02",
+      "end_date": "2004-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "barcelona technology school",
+      "majors": [
+        "healthcare"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2021-04",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "eae business school",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2008",
+      "end_date": "2010"
+    },
+    {
+      "school": "universitat ramon llull",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1999",
+      "end_date": "2003"
+    },
+    {
+      "school": "universitat de vic – universitat central de catalunya",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996",
+      "end_date": "1999"
+    }
+  ]
+}

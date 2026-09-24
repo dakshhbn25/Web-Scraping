@@ -1,0 +1,206 @@
+{
+  "record_id": "speaker-dubrovnik-085",
+  "speaker_name": "Janik Jaskolski",
+  "linkedin_url": "https://www.linkedin.com/in/janik-jaskolski-5b51a930/",
+  "likelihood": 9,
+  "full_name": "janik jaskolski",
+  "job_title": "chief executive officer",
+  "industry": "computer software",
+  "current_company": "semalytix",
+  "current_company_website": "semalytix.com",
+  "current_company_industry": "computer software",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "algorithms",
+    "android development",
+    "apache",
+    "artificial intelligence",
+    "business growth strategies",
+    "business strategy",
+    "c",
+    "c++",
+    "computer science",
+    "data analysis",
+    "data mining",
+    "entrepreneurship",
+    "github",
+    "html",
+    "java",
+    "java enterprise edition",
+    "javascript",
+    "latex",
+    "linux",
+    "machine learning",
+    "parallel programming",
+    "product design",
+    "product strategy",
+    "programming",
+    "python",
+    "scrum",
+    "software development",
+    "software engineering",
+    "start ups",
+    "subversion",
+    "team management",
+    "weka"
+  ],
+  "interests": [
+    "animal welfare",
+    "archery",
+    "artificial intelligence",
+    "bouldering",
+    "chess",
+    "children",
+    "cooking ( <3 green smoothies)",
+    "data mining",
+    "education",
+    "environment",
+    "game development",
+    "game server hosting",
+    "health",
+    "human rights",
+    "pc gaming",
+    "playing the violin and ukulele",
+    "politics",
+    "science and technology",
+    "surfing"
+  ],
+  "experience": [
+    {
+      "title": "chief executive officer",
+      "company": "semalytix",
+      "company_industry": "computer software",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief product officer, managing director, co-founder",
+      "company": "semalytix",
+      "company_industry": "computer software",
+      "start_date": "2022-06",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "chief executive officer",
+      "company": "mercury.ai",
+      "company_industry": "computer software",
+      "start_date": "2016-07",
+      "end_date": "2018",
+      "is_primary": false
+    },
+    {
+      "title": "chief executive officer, co-founder",
+      "company": "semalytix",
+      "company_industry": "computer software",
+      "start_date": "2015-05",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "teaching assistant - basics of artificial intelligence",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2013-03",
+      "end_date": "2013-07",
+      "is_primary": false
+    },
+    {
+      "title": "master student",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2013-01",
+      "end_date": "2015-11",
+      "is_primary": false
+    },
+    {
+      "title": "scientific assistant",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "student associate to the dean's office",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "teaching assistant - advanced java programming",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2010",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "scientific assistant",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2009",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "teaching assistant - advanced java programming",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2009",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "teaching assistant - algorithms and datastructures",
+      "company": "bielefeld university",
+      "company_industry": "research",
+      "start_date": "2008",
+      "end_date": "2009",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "bielefeld university",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "bielefeld university",
+      "majors": [
+        "computer science"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "minden high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2003-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "albert - einstein - gymnasium reutlingen",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2008"
+    }
+  ]
+}

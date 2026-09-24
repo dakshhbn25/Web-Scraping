@@ -1,0 +1,476 @@
+{
+  "record_id": "speaker-dubrovnik-108",
+  "speaker_name": "Nataliya Andreychuk",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/andreychuk/",
+  "scraped_at": "2026-09-18T10:23:24.591874+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "1kOy8fbWbAvfrk9lrZabiw_0000",
+    "full_name": "nataliya andreychuk",
+    "first_name": "nataliya",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "andreychuk",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/andreychuk",
+    "linkedin_username": "andreychuk",
+    "linkedin_id": "11258781",
+    "facebook_url": "facebook.com/nataliya.andreychuk.5",
+    "facebook_username": "nataliya.andreychuk.5",
+    "facebook_id": "826842382",
+    "twitter_url": "twitter.com/nataliaand",
+    "twitter_username": "nataliaand",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "computer software",
+    "job_title": "co-founder and chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "45DoMwCCtQIdzFZ84mQLywxX0jLx",
+    "job_company_name": "viseven",
+    "job_company_website": "viseven.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2009,
+    "job_company_industry": "information technology and services",
+    "job_company_industry_v2": "it services and it consulting",
+    "job_company_linkedin_url": "linkedin.com/company/viseven",
+    "job_company_linkedin_id": "2907491",
+    "job_company_facebook_url": "facebook.com/visevenmartech",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "bridgewater, new jersey, united states",
+    "job_company_location_locality": "bridgewater",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.59,-74.61",
+    "job_company_location_street_address": "1170 route 22 east",
+    "job_company_location_address_line_2": "suite 306",
+    "job_company_location_postal_code": "08807",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-07-22",
+    "job_last_verified": "2026-08-19",
+    "job_start_date": "2014-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-19",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "children",
+      "education",
+      "health",
+      "human rights"
+    ],
+    "skills": [
+      "agile methodologies",
+      "agile project management",
+      "business analysis",
+      "business development",
+      "business process",
+      "ceos",
+      "clm",
+      "competitive analysis",
+      "content experience platform",
+      "crm",
+      "e detailing",
+      "ewizard",
+      "executive management",
+      "html",
+      "html 5",
+      "integration",
+      "javascript",
+      "lead generation",
+      "mobile applications",
+      "mobile devices",
+      "new business development",
+      "portal management",
+      "pre sales",
+      "product management",
+      "project management",
+      "requirements analysis",
+      "scrum",
+      "sfdc",
+      "software development",
+      "software project management",
+      "strategy",
+      "user experience",
+      "web development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "ukraine",
+      "estonia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "viseven",
+          "size": "501-1000",
+          "id": "45DoMwCCtQIdzFZ84mQLywxX0jLx",
+          "founded": 2009,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "bridgewater, new jersey, united states",
+            "locality": "bridgewater",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1170 route 22 east",
+            "address_line_2": "suite 306",
+            "postal_code": "08807",
+            "geo": "40.59,-74.61"
+          },
+          "linkedin_url": "linkedin.com/company/viseven",
+          "linkedin_id": "2907491",
+          "facebook_url": "facebook.com/visevenmartech",
+          "twitter_url": null,
+          "website": "viseven.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2014-03",
+        "title": {
+          "name": "co-founder and chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "healthcare businesswomen's association - entrepreneurship",
+          "size": "1-10",
+          "id": "A3x1NJkRMkOZUZxoFxbFSgWORzBL",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/healthcare-businesswomen-s-association-entrepreneurship",
+          "linkedin_id": "19001806",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-06",
+        "title": {
+          "name": "member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "forbes agency council",
+          "size": "11-50",
+          "id": "Z21TavBlp7tGgBXWTBgUOgByYmkR",
+          "founded": 2015,
+          "industry": "civic & social organization",
+          "industry_v2": "civic and social organizations",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "745 atlantic avenue",
+            "address_line_2": null,
+            "postal_code": "02110",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/forbesagencycouncil",
+          "linkedin_id": "11076326",
+          "facebook_url": "facebook.com/forbesagencycouncil",
+          "twitter_url": "twitter.com/forbes_agency",
+          "website": "forbesagencycouncil.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022",
+        "title": {
+          "name": "member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "softline",
+          "size": "501-1000",
+          "id": "Cd2C254g7GwiDT8ryvv3LgllxDRF",
+          "founded": 1995,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "kyiv, kyiv, ukraine",
+            "locality": "kyiv",
+            "region": "kyiv",
+            "metro": null,
+            "country": "ukraine",
+            "continent": "europe",
+            "street_address": "35 37 vasylia stusa street",
+            "address_line_2": null,
+            "postal_code": "03142",
+            "geo": "50.45,30.52"
+          },
+          "linkedin_url": "linkedin.com/company/softline",
+          "linkedin_id": "4464",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "softline.kiev.ua"
+        },
+        "location_names": [],
+        "end_date": "2009-09",
+        "start_date": "2007-03",
+        "title": {
+          "name": "business analyst at softline jsc",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "data_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "softline",
+          "size": "501-1000",
+          "id": "Cd2C254g7GwiDT8ryvv3LgllxDRF",
+          "founded": 1995,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "kyiv, kyiv, ukraine",
+            "locality": "kyiv",
+            "region": "kyiv",
+            "metro": null,
+            "country": "ukraine",
+            "continent": "europe",
+            "street_address": "35 37 vasylia stusa street",
+            "address_line_2": null,
+            "postal_code": "03142",
+            "geo": "50.45,30.52"
+          },
+          "linkedin_url": "linkedin.com/company/softline",
+          "linkedin_id": "4464",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "softline.kiev.ua"
+        },
+        "location_names": [],
+        "end_date": "2009-09",
+        "start_date": "2007-03",
+        "title": {
+          "name": "marketing manager / project coordinator",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "timone",
+          "size": "1-10",
+          "id": "mLWx9rlYJMKqPY3GkfITNgaSyNtb",
+          "founded": 2025,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "55 rue de la boétie",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/stratboard",
+          "linkedin_id": "107171161",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "timone.io"
+        },
+        "location_names": [],
+        "end_date": "2006-03",
+        "start_date": "2005-05",
+        "title": {
+          "name": "project coordinator",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the school of business and law, university of agder",
+          "type": "post-secondary institution",
+          "id": "tK9QoFA8PsVzoM2a1tTgMA_0000",
+          "location": {
+            "name": "kristiansand s, agder, norway",
+            "locality": "kristiansand s",
+            "region": "agder",
+            "country": "norway",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/handelshoyskolen-universitetet-i-agder",
+          "facebook_url": "facebook.com/uiagder",
+          "twitter_url": "twitter.com/uiagder",
+          "linkedin_id": "15142613",
+          "website": "uia.no",
+          "domain": "uia.no"
+        },
+        "degrees": [],
+        "start_date": "1998",
+        "end_date": "2000",
+        "majors": [
+          "computer science",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ivan franko national university of lviv",
+          "type": "post-secondary institution",
+          "id": "PPn9gq6ipJXX0l9alUG35A_0000",
+          "location": {
+            "name": "lviv, lviv, ukraine",
+            "locality": "lviv",
+            "region": "lviv",
+            "country": "ukraine",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/national-university-'ivan-franko'​-lviv",
+          "facebook_url": "facebook.com/franko.lviv.ua",
+          "twitter_url": "twitter.com/lviv_university",
+          "linkedin_id": "15251128",
+          "website": "lnu.edu.ua",
+          "domain": "lnu.edu.ua"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2003-12",
+        "majors": [
+          "english literature",
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college of business and law",
+          "type": "post-secondary institution",
+          "id": "1zgLWU70gy2-i3g6o8Jrhw_0000",
+          "location": {
+            "name": "minsk, minsk, belarus",
+            "locality": "minsk",
+            "region": "minsk",
+            "country": "belarus",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kbp-by",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "89648489",
+          "website": "kbp.by",
+          "domain": "kbp.by"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2000",
+        "majors": [
+          "computer science",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "11258781",
+        "url": "linkedin.com/in/andreychuk",
+        "username": "andreychuk"
+      },
+      {
+        "network": "facebook",
+        "id": "826842382",
+        "url": "facebook.com/nataliya.andreychuk.5",
+        "username": "nataliya.andreychuk.5"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/nataliaand",
+        "username": "nataliaand"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/nataliya-andreychuk-5b992b3",
+        "username": "nataliya-andreychuk-5b992b3"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

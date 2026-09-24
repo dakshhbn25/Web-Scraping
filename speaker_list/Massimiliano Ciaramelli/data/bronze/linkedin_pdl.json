@@ -1,0 +1,852 @@
+{
+  "record_id": "speaker-dubrovnik-086",
+  "speaker_name": "Massimiliano Ciaramelli",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/massimilianociaramelli/",
+  "scraped_at": "2026-09-18T09:38:08.687534+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "X2e3TschCXPGfZVMHBhmlQ_0000",
+    "full_name": "massimiliano ciaramelli",
+    "first_name": "massimiliano",
+    "middle_initial": "m",
+    "middle_name": "maki",
+    "last_initial": "c",
+    "last_name": "ciaramelli",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/massimilianociaramelli",
+    "linkedin_username": "massimilianociaramelli",
+    "linkedin_id": "244160848",
+    "facebook_url": "facebook.com/m.ciaramelli",
+    "facebook_username": "m.ciaramelli",
+    "facebook_id": "1555612432",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "hospital & health care",
+    "job_title": "vice president, commercial",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "vp"
+    ],
+    "job_company_id": "mSwIyHBZ2BNcEkUm6XFlkgVN9GEf",
+    "job_company_name": "mama health",
+    "job_company_website": "mamahealth.com",
+    "job_company_size": "11-50",
+    "job_company_founded": null,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/mamahealth",
+    "job_company_linkedin_id": "77586549",
+    "job_company_facebook_url": "facebook.com/mamahealth.io",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "berlin, berlin, germany",
+    "job_company_location_locality": "berlin",
+    "job_company_location_metro": null,
+    "job_company_location_region": "berlin",
+    "job_company_location_geo": "52.48,13.44",
+    "job_company_location_street_address": "34 karl-liebknecht-street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10178",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-06-28",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2026-03",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-09-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business plan",
+      "business strategy",
+      "lavoro di squadra",
+      "leadership",
+      "management",
+      "marketing",
+      "microsoft excel",
+      "powerpoint",
+      "project management",
+      "pubbliche relazioni",
+      "public relations",
+      "public speaking",
+      "strategia d'impresa",
+      "teamwork"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "united kingdom",
+      "italy",
+      "germany",
+      "australia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "mama health",
+          "size": "11-50",
+          "id": "mSwIyHBZ2BNcEkUm6XFlkgVN9GEf",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "34 karl-liebknecht-street",
+            "address_line_2": null,
+            "postal_code": "10178",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/mamahealth",
+          "linkedin_id": "77586549",
+          "facebook_url": "facebook.com/mamahealth.io",
+          "twitter_url": null,
+          "website": "mamahealth.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-03",
+        "title": {
+          "name": "vice president, commercial",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "mama health",
+          "size": "11-50",
+          "id": "mSwIyHBZ2BNcEkUm6XFlkgVN9GEf",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "34 karl-liebknecht-street",
+            "address_line_2": null,
+            "postal_code": "10178",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/mamahealth",
+          "linkedin_id": "77586549",
+          "facebook_url": "facebook.com/mamahealth.io",
+          "twitter_url": null,
+          "website": "mamahealth.com"
+        },
+        "location_names": [],
+        "end_date": "2026-02",
+        "start_date": "2025-01",
+        "title": {
+          "name": "head of customer success",
+          "class": "services",
+          "role": "support",
+          "sub_role": "customer_success",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "weroad",
+          "size": "51-200",
+          "id": "JX9gOqog8BKBFVI5vilztQkdH4LG",
+          "founded": 2017,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "32 viale cassala",
+            "address_line_2": null,
+            "postal_code": "20143",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/weroad",
+          "linkedin_id": "27059656",
+          "facebook_url": "facebook.com/weroad",
+          "twitter_url": null,
+          "website": "weroad.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2024-01",
+        "title": {
+          "name": "ambassador",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "weroad",
+          "size": "51-200",
+          "id": "JX9gOqog8BKBFVI5vilztQkdH4LG",
+          "founded": 2017,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "32 viale cassala",
+            "address_line_2": null,
+            "postal_code": "20143",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/weroad",
+          "linkedin_id": "27059656",
+          "facebook_url": "facebook.com/weroad",
+          "twitter_url": null,
+          "website": "weroad.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "travel coordinator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celonis",
+          "size": "1001-5000",
+          "id": "CkOndHd9Yh4xnw28fBHF1wtNeLaf",
+          "founded": 2011,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 world trade center",
+            "address_line_2": "87th floor",
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/celonis",
+          "linkedin_id": "3118913",
+          "facebook_url": "facebook.com/celonis",
+          "twitter_url": "twitter.com/celonis",
+          "website": "celonis.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2023-05",
+        "start_date": "2022-03",
+        "title": {
+          "name": "global director, customer value solutions",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celonis",
+          "size": "1001-5000",
+          "id": "CkOndHd9Yh4xnw28fBHF1wtNeLaf",
+          "founded": 2011,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 world trade center",
+            "address_line_2": "87th floor",
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/celonis",
+          "linkedin_id": "3118913",
+          "facebook_url": "facebook.com/celonis",
+          "twitter_url": "twitter.com/celonis",
+          "website": "celonis.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2022-02",
+        "start_date": "2021-10",
+        "title": {
+          "name": "team leader, adoption programs",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celonis",
+          "size": "1001-5000",
+          "id": "CkOndHd9Yh4xnw28fBHF1wtNeLaf",
+          "founded": 2011,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 world trade center",
+            "address_line_2": "87th floor",
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/celonis",
+          "linkedin_id": "3118913",
+          "facebook_url": "facebook.com/celonis",
+          "twitter_url": "twitter.com/celonis",
+          "website": "celonis.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-09",
+        "start_date": "2020-07",
+        "title": {
+          "name": "senior customer success manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "customer_success",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celonis",
+          "size": "1001-5000",
+          "id": "CkOndHd9Yh4xnw28fBHF1wtNeLaf",
+          "founded": 2011,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 world trade center",
+            "address_line_2": "87th floor",
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/celonis",
+          "linkedin_id": "3118913",
+          "facebook_url": "facebook.com/celonis",
+          "twitter_url": "twitter.com/celonis",
+          "website": "celonis.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2019-01",
+        "title": {
+          "name": "customer success manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "customer_success",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "allianz partners",
+          "size": "10001+",
+          "id": "VMDDd4GBB2n7Z4KFuicH9wcb7urs",
+          "founded": null,
+          "industry": "insurance",
+          "industry_v2": "insurance",
+          "location": {
+            "name": "saint-ouen, île-de-france, france",
+            "locality": "saint-ouen",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "7 rue dora maar",
+            "address_line_2": null,
+            "postal_code": "93400",
+            "geo": "48.90,2.33"
+          },
+          "linkedin_url": "linkedin.com/company/allianz-partners",
+          "linkedin_id": "2255755",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/allianzassistus",
+          "website": "allianz-partners.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2018-12",
+        "start_date": "2018-01",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "beyers koffie",
+          "size": "51-200",
+          "id": "fNJSd7jPxBCnrokrZCvBwgCyASCA",
+          "founded": 1880,
+          "industry": "food production",
+          "industry_v2": "food and beverage manufacturing",
+          "location": {
+            "name": "puurs, flanders, belgium",
+            "locality": "puurs",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "3 koning leopoldlaan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.07,4.28"
+          },
+          "linkedin_url": "linkedin.com/company/beyerskoffienv",
+          "linkedin_id": "2459794",
+          "facebook_url": "facebook.com/beyerskoffienv",
+          "twitter_url": "twitter.com/beyerskoffie",
+          "website": "beyers.eu"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2017-10",
+        "title": {
+          "name": "chief of staff to the chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "aides",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "accenture",
+          "size": "10001+",
+          "id": "NYYbtRj1s6utKbHMHSioGQntpYZ9",
+          "founded": 1989,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 2",
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/accenture",
+          "linkedin_id": "1033",
+          "facebook_url": "facebook.com/accenture",
+          "twitter_url": "twitter.com/accenture",
+          "website": "accenture.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2017-01",
+        "title": {
+          "name": "strategy consulting",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b.wine",
+          "size": "11-50",
+          "id": "2YL7hx0iAEOCrps4x2ipCgmDZNaZ",
+          "founded": 2014,
+          "industry": "wine and spirits",
+          "industry_v2": "wineries",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "20135",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/b-wine",
+          "linkedin_id": "9272786",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bwineblog.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2015-01",
+        "title": {
+          "name": "vicepresident & head of public relations",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard business school online",
+          "type": "post-secondary institution",
+          "id": "FGHcx3g-aye-fwU6OQLJNg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/onlinehbs",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "9220773",
+          "website": "online.hbs.edu",
+          "domain": "hbs.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2021-01",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of queensland",
+          "type": "post-secondary institution",
+          "id": "f85MiitgqvL5MD9bBJv7sA_0000",
+          "location": {
+            "name": "university of queensland, queensland, australia",
+            "locality": "university of queensland",
+            "region": "queensland",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-queensland",
+          "facebook_url": "facebook.com/uniofqld",
+          "twitter_url": "twitter.com/uq_news",
+          "linkedin_id": "166664",
+          "website": "alumni.uq.edu.au",
+          "domain": "uq.edu.au"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2016",
+        "end_date": "2017",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università bocconi",
+          "type": "post-secondary institution",
+          "id": "rjTFLTKoPaQ2usQLBI18-g_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universita-bocconi",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "166692",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2015",
+        "end_date": "2017",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of auckland",
+          "type": "post-secondary institution",
+          "id": "irBorJ7CFNaFQfy4iMC0ww_0000",
+          "location": {
+            "name": "newton, auckland, new zealand",
+            "locality": "newton",
+            "region": "auckland",
+            "country": "new zealand",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-auckland",
+          "facebook_url": "facebook.com/uniofakl",
+          "twitter_url": "twitter.com/aucklanduni",
+          "linkedin_id": "3691",
+          "website": "auckland.ac.nz",
+          "domain": "auckland.ac.nz"
+        },
+        "degrees": [
+          "bachelor of commerce",
+          "bachelors"
+        ],
+        "start_date": "2014",
+        "end_date": "2014",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università bocconi",
+          "type": "post-secondary institution",
+          "id": "rjTFLTKoPaQ2usQLBI18-g_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universita-bocconi",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "166692",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2012",
+        "end_date": "2015",
+        "majors": [
+          "finance",
+          "international economics",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "liceo scientifico \"tito lucrezio caro\", naples, italy",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2007",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "univeristy of colorado school of medicine",
+          "type": "post-secondary institution",
+          "id": "8nudAHwQtMnwjploCb6ICQ_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/univeristy-of-colorado-school-of-medicine",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "61239414",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2014",
+        "majors": [
+          "commerce"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "liceo scientifico caro di",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "liceo scientifico tito lucrezio caro",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "244160848",
+        "url": "linkedin.com/in/massimilianociaramelli",
+        "username": "massimilianociaramelli"
+      },
+      {
+        "network": "facebook",
+        "id": "1555612432",
+        "url": "facebook.com/m.ciaramelli",
+        "username": "m.ciaramelli"
+      },
+      {
+        "network": "linkedin",
+        "id": "244160848",
+        "url": "linkedin.com/in/massimiliano-ciaramelli-95492869",
+        "username": "massimiliano-ciaramelli-95492869"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

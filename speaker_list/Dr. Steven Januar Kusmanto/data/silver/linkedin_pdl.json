@@ -1,0 +1,184 @@
+{
+  "record_id": "speaker-dubrovnik-059",
+  "speaker_name": "Dr. Steven Januar Kusmanto",
+  "linkedin_url": "https://www.linkedin.com/in/doctorstevenjanuarkusmanto/",
+  "likelihood": 9,
+  "full_name": "steven kusmanto",
+  "job_title": "global director, marketing and digital excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "menarini group",
+  "current_company_website": "menarini.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "italy",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "management",
+    "market research",
+    "marketing strategy",
+    "pharmaceutical industry",
+    "product launch"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global director, marketing and digital excellence",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global director, digital & customer engagement",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "global director, digital & marketing excellence",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-10",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "global director, medical marketing",
+      "company": "relife aesthetics",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2022-10",
+      "is_primary": false
+    },
+    {
+      "title": "regional marketing director - asia pacific (apac)",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-11",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "regional therapeutic area manager",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-11",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "regional product manager",
+      "company": "menarini group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of marketing consumer health and regional center of excellence (coe) media",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager - nutrition (supplement, vitamin, multivitamin) and gastroenterology",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-08",
+      "end_date": "2012-12",
+      "is_primary": false
+    },
+    {
+      "title": "group brand manager (consumer health) - nutritional, supplement, vitamin, multivitamin",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2010-11",
+      "end_date": "2011-08",
+      "is_primary": false
+    },
+    {
+      "title": "product manager dermatology - otc and ethical",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2009-08",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "junior product manager (consumer health) - dermatology",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2008-04",
+      "end_date": "2009-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "libera università vita - salute san raffaele",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2023-07",
+      "end_date": "2025-06"
+    },
+    {
+      "school": "horizons university",
+      "majors": [
+        "entrepreneurship"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2019",
+      "end_date": "2024"
+    },
+    {
+      "school": "universitas udayana (unud)",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2006-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "universitas udayana (unud)",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "universitas udayana (unud)",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2005-01"
+    }
+  ]
+}

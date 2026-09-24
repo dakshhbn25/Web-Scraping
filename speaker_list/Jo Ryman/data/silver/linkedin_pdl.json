@@ -1,0 +1,154 @@
+{
+  "record_id": "speaker-dubrovnik-115",
+  "speaker_name": "Jo Ryman",
+  "linkedin_url": "https://www.linkedin.com/in/jo-ryman-7a300b2/",
+  "likelihood": 9,
+  "full_name": "jo ryman",
+  "job_title": "marketing consultant;brand & organisational transformation specialist, strategy, capability building",
+  "industry": "marketing and advertising",
+  "current_company": "oxfordsm",
+  "current_company_website": "oxfordsm.com",
+  "current_company_industry": "management consulting",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "brand architecture",
+    "brand development",
+    "brand equity",
+    "brand management",
+    "business development",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "communication",
+    "culture change",
+    "customer engagement",
+    "customer experience",
+    "customer insight",
+    "easily adaptable",
+    "fast moving consumer goods",
+    "fmcg",
+    "global marketing",
+    "innovation development",
+    "innovation management",
+    "integrated marketing",
+    "international marketing",
+    "line management",
+    "management",
+    "market data",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing operations",
+    "marketing research",
+    "marketing strategy",
+    "matrix management",
+    "organizational development",
+    "positioning",
+    "product innovation",
+    "project management",
+    "segmentation",
+    "shopper marketing",
+    "stakeholder management",
+    "strategy",
+    "trade marketing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "marketing consultant;brand & organisational transformation specialist, strategy, capability building",
+      "company": "oxfordsm",
+      "company_industry": "management consulting",
+      "start_date": "2018-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "partner",
+      "company": "kantar consulting",
+      "company_industry": "management consulting",
+      "start_date": "2014-06",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "partner",
+      "company": "effectivebrands holding b.v.",
+      "company_industry": "management consulting",
+      "start_date": "2010-10",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "effectivebrands holding b.v.",
+      "company_industry": "management consulting",
+      "start_date": "2009-01",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "global marketing programme director / consultant",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2008-04",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "european marketing excellence director",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2007-06",
+      "end_date": "2007-12",
+      "is_primary": false
+    },
+    {
+      "title": "general marketing manager",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "2006",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "general marketing manager",
+      "company": "birds eye",
+      "company_industry": "food production",
+      "start_date": "2006-11",
+      "end_date": "2007-05",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager, brand development",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "1996-03",
+      "end_date": "2006-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of oxford",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1988-01",
+      "end_date": "1991"
+    },
+    {
+      "school": "st nicholas' school fleet",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1981-01",
+      "end_date": "1988"
+    }
+  ]
+}

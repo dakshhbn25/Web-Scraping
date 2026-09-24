@@ -1,0 +1,842 @@
+{
+  "record_id": "speaker-dubrovnik-122",
+  "speaker_name": "Luigi Boaretto",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/luigiboaretto/",
+  "scraped_at": "2026-09-18T10:23:52.983771+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "tJB6fuoMAIA4UngbTKOBQQ_0000",
+    "full_name": "luigi boaretto",
+    "first_name": "luigi",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "boaretto",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/luigiboaretto",
+    "linkedin_username": "luigiboaretto",
+    "linkedin_id": "21544479",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "managing director and equity partner | business transformation & strategy",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "BTzCkJmFG2hRsaFndIzj9A4YfMtF",
+    "job_company_name": "astheria sb",
+    "job_company_website": "studiodelaini.it",
+    "job_company_size": "1-10",
+    "job_company_founded": 2024,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/astheria",
+    "job_company_linkedin_id": "102423344",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "cologno monzese, lombardy, italy",
+    "job_company_location_locality": "cologno monzese",
+    "job_company_location_metro": null,
+    "job_company_location_region": "lombardy",
+    "job_company_location_geo": "45.52,9.27",
+    "job_company_location_street_address": "13 viaduct ginestrino",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "20093",
+    "job_company_location_country": "italy",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-05-23",
+    "job_last_verified": "2026-07-16",
+    "job_start_date": "2024-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "italy",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-08-21",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "3 ironman",
+      "marathon",
+      "triathlon"
+    ],
+    "skills": [
+      "budgets",
+      "business",
+      "business development",
+      "business strategy",
+      "change management",
+      "entrepreneurship",
+      "innovation",
+      "intelligenza artificiale",
+      "lean manufacturing",
+      "management",
+      "marketing",
+      "negotiation",
+      "new business development",
+      "operations management",
+      "people development",
+      "process improvement",
+      "project management",
+      "strategia",
+      "strategy",
+      "sviluppo internazionale"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "italy"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astheria sb",
+          "size": "1-10",
+          "id": "BTzCkJmFG2hRsaFndIzj9A4YfMtF",
+          "founded": 2024,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "cologno monzese, lombardy, italy",
+            "locality": "cologno monzese",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "13 viaduct ginestrino",
+            "address_line_2": null,
+            "postal_code": "20093",
+            "geo": "45.52,9.27"
+          },
+          "linkedin_url": "linkedin.com/company/astheria",
+          "linkedin_id": "102423344",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "studiodelaini.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "managing director and equity partner | business transformation & strategy",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bain & company",
+          "size": "10001+",
+          "id": "BWiTKOBgRTsSttn62R7EBQvww4gF",
+          "founded": 1973,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "350 boylston street",
+            "address_line_2": null,
+            "postal_code": "02116",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/bain-and-company",
+          "linkedin_id": "2114",
+          "facebook_url": "facebook.com/bainandcompany",
+          "twitter_url": "twitter.com/bainalerts",
+          "website": "bain.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "senior advisor - bain advisory network",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zambon",
+          "size": "1001-5000",
+          "id": "s1SDmwkgq3GJr5P3LL1y5wlusdwG",
+          "founded": 1906,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bresso, lombardy, italy",
+            "locality": "bresso",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "10 viaduct lillo del duca",
+            "address_line_2": null,
+            "postal_code": "20091",
+            "geo": "45.53,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/zambon",
+          "linkedin_id": "16043",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zambonpharma",
+          "website": "zambon.com"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2024-04",
+        "start_date": "2022-06",
+        "title": {
+          "name": "global business unit head | primary care",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zambon",
+          "size": "1001-5000",
+          "id": "s1SDmwkgq3GJr5P3LL1y5wlusdwG",
+          "founded": 1906,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bresso, lombardy, italy",
+            "locality": "bresso",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "10 viaduct lillo del duca",
+            "address_line_2": null,
+            "postal_code": "20091",
+            "geo": "45.53,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/zambon",
+          "linkedin_id": "16043",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zambonpharma",
+          "website": "zambon.com"
+        },
+        "location_names": [],
+        "end_date": "2022-06",
+        "start_date": "2017-01",
+        "title": {
+          "name": "global head strategic planning & commercial excellence, china alliance manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zambon",
+          "size": "1001-5000",
+          "id": "s1SDmwkgq3GJr5P3LL1y5wlusdwG",
+          "founded": 1906,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bresso, lombardy, italy",
+            "locality": "bresso",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "10 viaduct lillo del duca",
+            "address_line_2": null,
+            "postal_code": "20091",
+            "geo": "45.53,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/zambon",
+          "linkedin_id": "16043",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zambonpharma",
+          "website": "zambon.com"
+        },
+        "location_names": [
+          "bresso, lombardy, italy"
+        ],
+        "end_date": "2017-01",
+        "start_date": "2015-10",
+        "title": {
+          "name": "strategy and commercial excellence director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zambon",
+          "size": "1001-5000",
+          "id": "s1SDmwkgq3GJr5P3LL1y5wlusdwG",
+          "founded": 1906,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bresso, lombardy, italy",
+            "locality": "bresso",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "10 viaduct lillo del duca",
+            "address_line_2": null,
+            "postal_code": "20091",
+            "geo": "45.53,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/zambon",
+          "linkedin_id": "16043",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zambonpharma",
+          "website": "zambon.com"
+        },
+        "location_names": [
+          "bresso, lombardy, italy"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2014-10",
+        "title": {
+          "name": "strategy director, pharmaceuticals",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zambon",
+          "size": "1001-5000",
+          "id": "s1SDmwkgq3GJr5P3LL1y5wlusdwG",
+          "founded": 1906,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bresso, lombardy, italy",
+            "locality": "bresso",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "10 viaduct lillo del duca",
+            "address_line_2": null,
+            "postal_code": "20091",
+            "geo": "45.53,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/zambon",
+          "linkedin_id": "16043",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zambonpharma",
+          "website": "zambon.com"
+        },
+        "location_names": [],
+        "end_date": "2014-09",
+        "start_date": "2013-09",
+        "title": {
+          "name": "global operations director, fine chemicals",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "basf",
+          "size": "10001+",
+          "id": "55wwyjbDqIFeYJLqqCifCgDqeoAX",
+          "founded": 1865,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "ludwigshafen, rhineland-palatinate, germany",
+            "locality": "ludwigshafen",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "38 carl-bosch-street",
+            "address_line_2": null,
+            "postal_code": "67056",
+            "geo": "49.48,8.41"
+          },
+          "linkedin_url": "linkedin.com/company/basf",
+          "linkedin_id": "2633",
+          "facebook_url": "facebook.com/basf",
+          "twitter_url": "twitter.com/basf",
+          "website": "basf.com"
+        },
+        "location_names": [],
+        "end_date": "2013-09",
+        "start_date": "2012-10",
+        "title": {
+          "name": "stamp new business head, mining chemicals",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "basf",
+          "size": "10001+",
+          "id": "55wwyjbDqIFeYJLqqCifCgDqeoAX",
+          "founded": 1865,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "ludwigshafen, rhineland-palatinate, germany",
+            "locality": "ludwigshafen",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "38 carl-bosch-street",
+            "address_line_2": null,
+            "postal_code": "67056",
+            "geo": "49.48,8.41"
+          },
+          "linkedin_url": "linkedin.com/company/basf",
+          "linkedin_id": "2633",
+          "facebook_url": "facebook.com/basf",
+          "twitter_url": "twitter.com/basf",
+          "website": "basf.com"
+        },
+        "location_names": [],
+        "end_date": "2012-10",
+        "start_date": "2010-07",
+        "title": {
+          "name": "business strategy director, african mining chemicals",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "basf",
+          "size": "10001+",
+          "id": "55wwyjbDqIFeYJLqqCifCgDqeoAX",
+          "founded": 1865,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "ludwigshafen, rhineland-palatinate, germany",
+            "locality": "ludwigshafen",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "38 carl-bosch-street",
+            "address_line_2": null,
+            "postal_code": "67056",
+            "geo": "49.48,8.41"
+          },
+          "linkedin_url": "linkedin.com/company/basf",
+          "linkedin_id": "2633",
+          "facebook_url": "facebook.com/basf",
+          "twitter_url": "twitter.com/basf",
+          "website": "basf.com"
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2005-07",
+        "title": {
+          "name": "general manager, specialty chemicals site",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ciba",
+          "size": "10001+",
+          "id": "SSBMwu2iH3AuiyvjdhgVowT863wZ",
+          "founded": 1757,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "switzerland",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ciba-",
+          "linkedin_id": "163038",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ciba.com"
+        },
+        "location_names": [],
+        "end_date": "2005",
+        "start_date": "2003",
+        "title": {
+          "name": "production manager, new grass root light stabilizers facility",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "building_and_grounds",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ciba",
+          "size": "10001+",
+          "id": "SSBMwu2iH3AuiyvjdhgVowT863wZ",
+          "founded": 1757,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "switzerland",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ciba-",
+          "linkedin_id": "163038",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ciba.com"
+        },
+        "location_names": [],
+        "end_date": "2003",
+        "start_date": "1999",
+        "title": {
+          "name": "production manager, antioxidant and light stabilizers facilities",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "building_and_grounds",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ciba",
+          "size": "10001+",
+          "id": "SSBMwu2iH3AuiyvjdhgVowT863wZ",
+          "founded": 1757,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "switzerland",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ciba-",
+          "linkedin_id": "163038",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ciba.com"
+        },
+        "location_names": [],
+        "end_date": "1999",
+        "start_date": "1997",
+        "title": {
+          "name": "technical project manager, specialty chemicals plants",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amec foster wheeler",
+          "size": "10001+",
+          "id": "PRFBT2qQ7pAohgZ2FytqfwnrOj7C",
+          "founded": null,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "aberdeen, scotland, united kingdom",
+            "locality": "aberdeen",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "15 justice mill lane",
+            "address_line_2": null,
+            "postal_code": "ab11 6eq",
+            "geo": "57.12,-2.11"
+          },
+          "linkedin_url": "linkedin.com/company/amecfw",
+          "linkedin_id": "8643689",
+          "facebook_url": "facebook.com/amecfw",
+          "twitter_url": "twitter.com/amec_fw",
+          "website": "amecfw.com"
+        },
+        "location_names": [],
+        "end_date": "1996",
+        "start_date": "1996",
+        "title": {
+          "name": "project engineer, grass root chemical sites bid proposal",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2024-11",
+        "end_date": "2025-03",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bologna business school",
+          "type": "post-secondary institution",
+          "id": "YabjOvJUYiOrxpLJWmo3rg_0000",
+          "location": {
+            "name": "bologna, emilia-romagna, italy",
+            "locality": "bologna",
+            "region": "emilia-romagna",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bologna-business-school",
+          "facebook_url": "facebook.com/unibo.it",
+          "twitter_url": "twitter.com/unibomagazine",
+          "linkedin_id": "1250659",
+          "website": "bbs.unibo.it",
+          "domain": "unibo.it"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2015",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "alma - la scuola internazionale di cucina italiana",
+          "type": "post-secondary institution",
+          "id": "egXLQehxd-DSVsExDcdLjQ_0000",
+          "location": {
+            "name": "colorno, emilia-romagna, italy",
+            "locality": "colorno",
+            "region": "emilia-romagna",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/alma-scuola-cucina",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3169244",
+          "website": "alma.scuolacucina.it",
+          "domain": "scuolacucina.it"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1997",
+        "end_date": "1998",
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bologna business school",
+          "type": "post-secondary institution",
+          "id": "YabjOvJUYiOrxpLJWmo3rg_0000",
+          "location": {
+            "name": "bologna, emilia-romagna, italy",
+            "locality": "bologna",
+            "region": "emilia-romagna",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bologna-business-school",
+          "facebook_url": "facebook.com/unibo.it",
+          "twitter_url": "twitter.com/unibomagazine",
+          "linkedin_id": "1250659",
+          "website": "bbs.unibo.it",
+          "domain": "unibo.it"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1997-01",
+        "end_date": "1998-01",
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università degli studi di padova",
+          "type": "post-secondary institution",
+          "id": "OYQQ7OnXNDCRCToqf47jgQ_0000",
+          "location": {
+            "name": "padova, veneto, italy",
+            "locality": "padova",
+            "region": "veneto",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unipd",
+          "facebook_url": "facebook.com/universitapadova",
+          "twitter_url": "twitter.com/unipadova",
+          "linkedin_id": "9180",
+          "website": "unipd.it",
+          "domain": "unipd.it"
+        },
+        "degrees": [],
+        "start_date": "1989-01",
+        "end_date": "1994",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "21544479",
+        "url": "linkedin.com/in/luigiboaretto",
+        "username": "luigiboaretto"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/luigi-boaretto-a5326b7",
+        "username": "luigi-boaretto-a5326b7"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

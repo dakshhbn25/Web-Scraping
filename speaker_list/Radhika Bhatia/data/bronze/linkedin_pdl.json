@@ -1,0 +1,604 @@
+{
+  "record_id": "speaker-medical-013",
+  "speaker_name": "Radhika Bhatia",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/radhika-bhatia-pharma-leader/",
+  "scraped_at": "2026-09-18T10:24:28.014062+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "8w2bmJxFVecYMp6-gyBp8Q_0000",
+    "full_name": "radhika bhatia",
+    "first_name": "radhika",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bhatia",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/radhika-bhatia-pharma-leader",
+    "linkedin_username": "radhika-bhatia-pharma-leader",
+    "linkedin_id": "82155643",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of scientific communication excellence, systems & platforms",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "brand",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+    "job_company_name": "ucb",
+    "job_company_website": "ucb.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1928,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ucb-pharma",
+    "job_company_linkedin_id": "26195",
+    "job_company_facebook_url": "facebook.com/ucbbiopharma",
+    "job_company_twitter_url": "twitter.com/ucb_news",
+    "job_company_location_name": "brussels, brussels, belgium",
+    "job_company_location_locality": "brussels",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.84,4.34",
+    "job_company_location_street_address": "60 allée de la recherche",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-01-01",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2024-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "abstracts",
+      "advisory boards",
+      "budget oversight",
+      "business process improvement",
+      "change management",
+      "clinical trials",
+      "coaching",
+      "critical thinking",
+      "cross functional collaborations",
+      "cross functional team leadership",
+      "diabetes",
+      "digital strategy",
+      "digital transformation",
+      "health and wellness",
+      "infectious diseases",
+      "leadership",
+      "life sciences",
+      "manuscript",
+      "medical affairs",
+      "medical communications",
+      "medical education",
+      "medical writing",
+      "medicine",
+      "mental health",
+      "mental health first aid",
+      "mentoring",
+      "oncology",
+      "operational excellence",
+      "pharmaceutical industry",
+      "project management",
+      "publication development",
+      "publication management",
+      "publication planning",
+      "publication strategy",
+      "publication writing",
+      "publications",
+      "scientific communications",
+      "scientific writing",
+      "senior stakeholder management",
+      "stakeholder engagement",
+      "strategic communications",
+      "strategic planning",
+      "strategic thinking",
+      "systems implementation",
+      "team leadership",
+      "therapeutic areas",
+      "workflow automation",
+      "writing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-09",
+        "title": {
+          "name": "global head of scientific communication excellence, systems & platforms",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "slough, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2022-01",
+        "title": {
+          "name": "global lead, publication strategy and scientific communication excellence",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": "2022-01",
+        "start_date": "2021-04",
+        "title": {
+          "name": "publication strategy lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "envision pharma group",
+          "size": "1001-5000",
+          "id": "OSjRj2M4nu1tCJeNBFITtQOgsfWg",
+          "founded": 2001,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/envision-pharma-group",
+          "linkedin_id": "2923134",
+          "facebook_url": "facebook.com/envisionpharmagroup",
+          "twitter_url": "twitter.com/envisionpharma",
+          "website": "envisionpharmagroup.com"
+        },
+        "location_names": [],
+        "end_date": "2021-04",
+        "start_date": "2019-11",
+        "title": {
+          "name": "senior consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "envision pharma group",
+          "size": "1001-5000",
+          "id": "OSjRj2M4nu1tCJeNBFITtQOgsfWg",
+          "founded": 2001,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/envision-pharma-group",
+          "linkedin_id": "2923134",
+          "facebook_url": "facebook.com/envisionpharmagroup",
+          "twitter_url": "twitter.com/envisionpharma",
+          "website": "envisionpharmagroup.com"
+        },
+        "location_names": [
+          "horsham, england, united kingdom"
+        ],
+        "end_date": "2019-11",
+        "start_date": "2019-03",
+        "title": {
+          "name": "scientific portfolio director and team lead (vp)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "envision pharma group",
+          "size": "1001-5000",
+          "id": "OSjRj2M4nu1tCJeNBFITtQOgsfWg",
+          "founded": 2001,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/envision-pharma-group",
+          "linkedin_id": "2923134",
+          "facebook_url": "facebook.com/envisionpharmagroup",
+          "twitter_url": "twitter.com/envisionpharma",
+          "website": "envisionpharmagroup.com"
+        },
+        "location_names": [
+          "horsham, england, united kingdom"
+        ],
+        "end_date": "2019-03",
+        "start_date": "2012",
+        "title": {
+          "name": "scientific portfolio lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ubc-envision group",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "horsham, england, united kingdom"
+        ],
+        "end_date": "2012",
+        "start_date": "2007-08",
+        "title": {
+          "name": "senior medical writer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2006",
+        "title": {
+          "name": "medical writer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "durham university",
+          "size": "1001-5000",
+          "id": "1VSOEFaisL79CWBHnGo2wgExDO0m",
+          "founded": 1832,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "durham, england, united kingdom",
+            "locality": "durham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dh1 3le",
+            "geo": "54.78,-1.57"
+          },
+          "linkedin_url": "linkedin.com/school/durham-university",
+          "linkedin_id": "10477",
+          "facebook_url": "facebook.com/durhamuniversity",
+          "twitter_url": "twitter.com/durhamalumni",
+          "website": "dur.ac.uk"
+        },
+        "location_names": [
+          "durham, england, united kingdom"
+        ],
+        "end_date": "2006",
+        "start_date": "2005",
+        "title": {
+          "name": "post-doc",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of bedfordshire",
+          "type": "post-secondary institution",
+          "id": "PS0wlg6ul3CiMmQdKRWNsA_0000",
+          "location": {
+            "name": "luton, england, united kingdom",
+            "locality": "luton",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bedfordshire",
+          "facebook_url": "facebook.com/unibeds",
+          "twitter_url": "twitter.com/uniofbeds",
+          "linkedin_id": "22750",
+          "website": "beds.ac.uk",
+          "domain": "beds.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2000-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sheffield hallam university",
+          "type": "post-secondary institution",
+          "id": "B4HIK1DRWHkbBgM-Yxrx8A_0000",
+          "location": {
+            "name": "sheffield, england, united kingdom",
+            "locality": "sheffield",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sheffield-hallam-university",
+          "facebook_url": "facebook.com/sheffieldhallamuniversity",
+          "twitter_url": "twitter.com/sheffhallamuni",
+          "linkedin_id": "14013",
+          "website": "shu.ac.uk",
+          "domain": "shu.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2000-01",
+        "majors": [
+          "biotechnology",
+          "pharmacology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "delhi university",
+          "type": "post-secondary institution",
+          "id": "fz8vpOoosZxSQAjKVb9nig_0000",
+          "location": {
+            "name": "rana pratap bagh, delhi, india",
+            "locality": "rana pratap bagh",
+            "region": "delhi",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/delhi-university",
+          "facebook_url": "facebook.com/universityofdelhi",
+          "twitter_url": null,
+          "linkedin_id": "426734",
+          "website": "du.ac.in",
+          "domain": "du.ac.in"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1996-01",
+        "end_date": "1999",
+        "majors": [
+          "microbiology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "82155643",
+        "url": "linkedin.com/in/radhika-bhatia-pharma-leader",
+        "username": "radhika-bhatia-pharma-leader"
+      },
+      {
+        "network": "linkedin",
+        "id": "82155643",
+        "url": "linkedin.com/in/radhika-bhatia-93761b23",
+        "username": "radhika-bhatia-93761b23"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

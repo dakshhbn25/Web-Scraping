@@ -1,0 +1,711 @@
+{
+  "record_id": "speaker-dubrovnik-119",
+  "speaker_name": "Steve Royle",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/stevenroyle/",
+  "scraped_at": "2026-09-18T10:23:45.515746+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "4uRp3dp-6UolFUXIzILMmw_0000",
+    "full_name": "steve royle",
+    "first_name": "steve",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "royle",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/stevenroyle",
+    "linkedin_username": "stevenroyle",
+    "linkedin_id": "29440149",
+    "facebook_url": "facebook.com/royaldo",
+    "facebook_username": "royaldo",
+    "facebook_id": "892580322",
+    "twitter_url": "twitter.com/swipehealth",
+    "twitter_username": "swipehealth",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "computer software",
+    "job_title": "founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "ER2if5kykkENBnCRAFzlBwKESMl6",
+    "job_company_name": "my medical affairs",
+    "job_company_website": "mymedicalaffairs.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2022,
+    "job_company_industry": "internet",
+    "job_company_industry_v2": "internet publishing",
+    "job_company_linkedin_url": "linkedin.com/company/mymedicalaffairs",
+    "job_company_linkedin_id": "78464563",
+    "job_company_facebook_url": "facebook.com/mymedicalaffairs",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "sydney, new south wales, australia",
+    "job_company_location_locality": "sydney",
+    "job_company_location_metro": null,
+    "job_company_location_region": "new south wales",
+    "job_company_location_geo": "-33.86,151.2",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "australia",
+    "job_company_location_continent": "oceania",
+    "job_last_changed": "2023-07-01",
+    "job_last_verified": "2026-08-17",
+    "job_start_date": "2022-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "australia",
+    "location_continent": "oceania",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-17",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "poverty alleviation"
+    ],
+    "skills": [
+      "digital marketing",
+      "digital strategy",
+      "integrated marketing",
+      "management",
+      "market research",
+      "marketing strategy",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "social media marketing",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "australia",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "my medical affairs",
+          "size": "1-10",
+          "id": "ER2if5kykkENBnCRAFzlBwKESMl6",
+          "founded": 2022,
+          "industry": "internet",
+          "industry_v2": "internet publishing",
+          "location": {
+            "name": "sydney, new south wales, australia",
+            "locality": "sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "-33.86,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/mymedicalaffairs",
+          "linkedin_id": "78464563",
+          "facebook_url": "facebook.com/mymedicalaffairs",
+          "twitter_url": null,
+          "website": "mymedicalaffairs.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-05",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "rumi",
+          "size": "1-10",
+          "id": "Bs2dA20Wyxaut6o7GsGAkwNxf0kk",
+          "founded": 2020,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "australia",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/rumi",
+          "linkedin_id": "65577575",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "rumi.live"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-08",
+        "title": {
+          "name": "founder | managing director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "swipe health",
+          "size": "1-10",
+          "id": "bCQLm6COZLSFUFbSQFEjOQmbtvbY",
+          "founded": 2016,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "siparia regional corporation, trinidad and tobago",
+            "locality": null,
+            "region": "siparia regional corporation",
+            "metro": null,
+            "country": "trinidad and tobago",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/swipe-health",
+          "linkedin_id": "4870031",
+          "facebook_url": "facebook.com/swipehealth",
+          "twitter_url": null,
+          "website": "swipehealth.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2016-01",
+        "title": {
+          "name": "founder i engagement solutions director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nucleus global, an inizio company",
+          "size": "501-1000",
+          "id": "TawyUl7MtCngOoVs7iWwLQDE8P9V",
+          "founded": 1986,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "wc2a 1an",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/the-nucleus-group",
+          "linkedin_id": "2636617",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/nucleusglobal",
+          "website": "nucleusglobal.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2015-11",
+        "start_date": "2014-12",
+        "title": {
+          "name": "client services director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "princeton health",
+          "size": "11-50",
+          "id": "r3qHHbogUw2gnDUN9CRXjAkZhPGq",
+          "founded": 1983,
+          "industry": "media production",
+          "industry_v2": "media production",
+          "location": {
+            "name": "st leonards, tasmania, australia",
+            "locality": "st leonards",
+            "region": "tasmania",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "66 chandos street",
+            "address_line_2": "suite 1",
+            "postal_code": "2065",
+            "geo": "-41.45,147.19"
+          },
+          "linkedin_url": "linkedin.com/company/princeton-health",
+          "linkedin_id": "2240130",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "princeton.com.au"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-09",
+        "start_date": "2011-06",
+        "title": {
+          "name": "general manager - uk",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ashfield medcomms, an inizio company",
+          "size": "501-1000",
+          "id": "408c8ApUbTLosgChtBIPugcfbfbw",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "macclesfield, england, united kingdom",
+            "locality": "macclesfield",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sk11 7hq",
+            "geo": "53.25,-2.13"
+          },
+          "linkedin_url": "linkedin.com/company/ashfieldmedcomms",
+          "linkedin_id": "75425598",
+          "facebook_url": "facebook.com/ashfieldmedcomms",
+          "twitter_url": null,
+          "website": "ashfieldmedcomms.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2011-06",
+        "start_date": "2008-01",
+        "title": {
+          "name": "group account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "princeton health",
+          "size": "11-50",
+          "id": "r3qHHbogUw2gnDUN9CRXjAkZhPGq",
+          "founded": 1983,
+          "industry": "media production",
+          "industry_v2": "media production",
+          "location": {
+            "name": "st leonards, tasmania, australia",
+            "locality": "st leonards",
+            "region": "tasmania",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "66 chandos street",
+            "address_line_2": "suite 1",
+            "postal_code": "2065",
+            "geo": "-41.45,147.19"
+          },
+          "linkedin_url": "linkedin.com/company/princeton-health",
+          "linkedin_id": "2240130",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "princeton.com.au"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2007-04",
+        "start_date": "2004-04",
+        "title": {
+          "name": "business manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2004-03",
+        "start_date": "2003-01",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "brisbane, queensland, australia"
+        ],
+        "end_date": "2002-12",
+        "start_date": "2002-04",
+        "title": {
+          "name": "hospital account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "brisbane, queensland, australia"
+        ],
+        "end_date": "2002-03",
+        "start_date": "2001-01",
+        "title": {
+          "name": "territory manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2023-09",
+        "end_date": "2025",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "quantic school of business and technology",
+          "type": "post-secondary institution",
+          "id": "IjZFrziaPvVJ5cqDTzziTg_0000",
+          "location": {
+            "name": "district of columbia, united states",
+            "locality": null,
+            "region": "district of columbia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/quanticschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64593879",
+          "website": "quantic.edu",
+          "domain": "quantic.edu"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2023-01",
+        "end_date": "2025-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "griffith university",
+          "type": "post-secondary institution",
+          "id": "lDv00EzuIGsfj9SZWMG5nA_0000",
+          "location": {
+            "name": "nathan, queensland, australia",
+            "locality": "nathan",
+            "region": "queensland",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/griffith-university",
+          "facebook_url": "facebook.com/griffithuniversity",
+          "twitter_url": "twitter.com/griffith_uni",
+          "linkedin_id": "164056",
+          "website": "griffith.edu.au",
+          "domain": "griffith.edu.au"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1997-01",
+        "end_date": "2000-01",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "griffith university",
+          "type": "post-secondary institution",
+          "id": "lDv00EzuIGsfj9SZWMG5nA_0000",
+          "location": {
+            "name": "nathan, queensland, australia",
+            "locality": "nathan",
+            "region": "queensland",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/griffith-university",
+          "facebook_url": "facebook.com/griffithuniversity",
+          "twitter_url": "twitter.com/griffith_uni",
+          "linkedin_id": "164056",
+          "website": "griffith.edu.au",
+          "domain": "griffith.edu.au"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1996",
+        "end_date": "2000",
+        "majors": [
+          "health science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "griffith university",
+          "type": "post-secondary institution",
+          "id": "lDv00EzuIGsfj9SZWMG5nA_0000",
+          "location": {
+            "name": "nathan, queensland, australia",
+            "locality": "nathan",
+            "region": "queensland",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/griffith-university",
+          "facebook_url": "facebook.com/griffithuniversity",
+          "twitter_url": "twitter.com/griffith_uni",
+          "linkedin_id": "164056",
+          "website": "griffith.edu.au",
+          "domain": "griffith.edu.au"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2001",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "merrimac state high school",
+          "type": "secondary school",
+          "id": "BoeF4Sv6NbHv8Os9Dk9NDA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/merrimac-state-high-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6958378",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "1995",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "29440149",
+        "url": "linkedin.com/in/stevenroyle",
+        "username": "stevenroyle"
+      },
+      {
+        "network": "facebook",
+        "id": "892580322",
+        "url": "facebook.com/royaldo",
+        "username": "royaldo"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/swipehealth",
+        "username": "swipehealth"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/steve-royle-159a399",
+        "username": "steve-royle-159a399"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

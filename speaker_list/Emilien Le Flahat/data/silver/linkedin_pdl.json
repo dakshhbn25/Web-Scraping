@@ -1,0 +1,202 @@
+{
+  "record_id": "speaker-viennacx-017",
+  "speaker_name": "Emilien Le Flahat",
+  "linkedin_url": "https://www.linkedin.com/in/emilienleflahat/?locale=en",
+  "likelihood": 9,
+  "full_name": "emilien le flahat",
+  "job_title": "commercial advanced analytics & ai product line owner",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agentic ai",
+    "apprentissage automatique",
+    "artificial intelligence",
+    "artificial neural networks",
+    "bioinformatics",
+    "biophotonics",
+    "biosensors",
+    "business development",
+    "c",
+    "c++",
+    "certified scrum product owner",
+    "commerce",
+    "communication",
+    "competitive strategy",
+    "conception de logiciels",
+    "customer experience management",
+    "data consulting",
+    "data science",
+    "deep learning",
+    "electronics",
+    "erp infor",
+    "financing new ventures",
+    "gestion de projet",
+    "gestion de projet agile",
+    "image processing",
+    "java",
+    "knowledge management",
+    "leadership mondial",
+    "linux",
+    "management",
+    "marketing of innovation",
+    "matlab",
+    "medical imaging",
+    "microsoft excel",
+    "microsoft office",
+    "mysql",
+    "nanotechnologie",
+    "neurosciences",
+    "powerpoint",
+    "project management",
+    "python",
+    "rgpd",
+    "sap fiori",
+    "signal processing",
+    "strategic management of innovation",
+    "techniques danimation"
+  ],
+  "interests": [
+    "cinéma",
+    "cuisine",
+    "culture numérique",
+    "health",
+    "littérature et voyage",
+    "musique",
+    "nouvelles technologies",
+    "pratique régulière du tennis"
+  ],
+  "experience": [
+    {
+      "title": "commercial advanced analytics & ai product line owner",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "advanced analytics for business insights regional squad lead (part of global product strategy)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2023-12",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "global data science strategy lead & product owner",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2022-03",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "customer engagement analyst",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2020-12",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "business analyst consultant for global business intelligence team (opusline)",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder and data scientist @ pairsoria",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-11",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "strategy & management senior consultant in ai & data",
+      "company": "opusline",
+      "company_industry": "management consulting",
+      "start_date": "2018-03",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist trainee - deep learning & signal processing",
+      "company": "bitmakers labs",
+      "company_industry": "medical devices",
+      "start_date": "2017-06",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "internship in mammography service optimization",
+      "company": "ge healthcare",
+      "company_industry": "hospital & health care",
+      "start_date": "2016-04",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "part time business freelance",
+      "company": "invivox",
+      "company_industry": "e-learning",
+      "start_date": "2015-10",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "research on a dvs camera, bio-informatics",
+      "company": "czech technical university in prague",
+      "company_industry": "higher education",
+      "start_date": "2015-07",
+      "end_date": "2015-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "université de sherbrooke",
+      "majors": [
+        "biology",
+        "computer engineering",
+        "engineering",
+        "management",
+        "project management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2015",
+      "end_date": "2017"
+    },
+    {
+      "school": "rennes school of business",
+      "majors": [
+        "business",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "institut supérieur d'électronique et du numérique",
+      "majors": [
+        "electronics"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2015"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "record_id": "speaker-dubrovnik-095",
+  "speaker_name": "Marc Schöni",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/aiguy/",
+  "scraped_at": "2026-09-18T09:38:28.135435+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "JCEOROEvquWzjIsJGA3wyw_0000",
+    "full_name": "marc schöni",
+    "first_name": "marc",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "schöni",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/aiguy",
+    "linkedin_username": "aiguy",
+    "linkedin_id": "510783884",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "global principal solution engineer hls",
+    "job_title_role": "engineering",
+    "job_title_sub_role": null,
+    "job_title_class": "research_and_development",
+    "job_title_levels": [],
+    "job_company_id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+    "job_company_name": "salesforce",
+    "job_company_website": "salesforce.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1996,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/salesforce",
+    "job_company_linkedin_id": "3185",
+    "job_company_facebook_url": "facebook.com/salesforce",
+    "job_company_twitter_url": "twitter.com/salesforce",
+    "job_company_location_name": "san francisco, california, united states",
+    "job_company_location_locality": "san francisco",
+    "job_company_location_metro": "san francisco, california",
+    "job_company_location_region": "california",
+    "job_company_location_geo": "37.76,-122.42",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "94105",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2022-01-05",
+    "job_last_verified": "2026-02-16",
+    "job_start_date": "2025-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-02-27",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "analysen",
+      "analytik",
+      "apache hadoop",
+      "big data",
+      "business intelligence",
+      "business intelligence",
+      "cloud computing",
+      "data analysis",
+      "data science",
+      "datenanalyse",
+      "it strategie",
+      "machine learning",
+      "maschinelles lernen",
+      "pre sales",
+      "presales",
+      "project management",
+      "projektmanagement",
+      "r",
+      "saas",
+      "software as a service",
+      "sql",
+      "unternehmensanalyse",
+      "unternehmensinformatik",
+      "unternehmenssoftware"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "salesforce",
+          "size": "10001+",
+          "id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+          "founded": 1996,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "san francisco, california, united states",
+            "locality": "san francisco",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "94105",
+            "geo": "37.76,-122.42"
+          },
+          "linkedin_url": "linkedin.com/company/salesforce",
+          "linkedin_id": "3185",
+          "facebook_url": "facebook.com/salesforce",
+          "twitter_url": "twitter.com/salesforce",
+          "website": "salesforce.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-02",
+        "title": {
+          "name": "global principal solution engineer hls",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "salesforce",
+          "size": "10001+",
+          "id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+          "founded": 1996,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "san francisco, california, united states",
+            "locality": "san francisco",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "94105",
+            "geo": "37.76,-122.42"
+          },
+          "linkedin_url": "linkedin.com/company/salesforce",
+          "linkedin_id": "3185",
+          "facebook_url": "facebook.com/salesforce",
+          "twitter_url": "twitter.com/salesforce",
+          "website": "salesforce.com"
+        },
+        "location_names": [],
+        "end_date": "2025-02",
+        "start_date": "2021-05",
+        "title": {
+          "name": "global lead solution engineer hls",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "microsoft",
+          "size": "10001+",
+          "id": "RZOFiRjw26VpLObnwmYXGgRyn3aW",
+          "founded": 1975,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "redmond, washington, united states",
+            "locality": "redmond",
+            "region": "washington",
+            "metro": "seattle, washington",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 microsoft way",
+            "address_line_2": null,
+            "postal_code": "98052",
+            "geo": "47.66,-122.06"
+          },
+          "linkedin_url": "linkedin.com/company/microsoft",
+          "linkedin_id": "1035",
+          "facebook_url": "facebook.com/microsoft",
+          "twitter_url": "twitter.com/microsoft",
+          "website": "microsoft.com"
+        },
+        "location_names": [],
+        "end_date": "2021-05",
+        "start_date": "2019-07",
+        "title": {
+          "name": "cloud solution architect | data + ai",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of st.gallen",
+          "size": "1001-5000",
+          "id": "oOBTzGCDIftNvKJBCT7yYQ3Ok0Lg",
+          "founded": 1898,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "50 dufourstrasse",
+            "address_line_2": null,
+            "postal_code": "9444",
+            "geo": "47.38,9.65"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "linkedin_id": "166673",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "website": "unisg.ch"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2017-05",
+        "title": {
+          "name": "guest lecturer | data science & machine learning",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "microsoft",
+          "size": "10001+",
+          "id": "RZOFiRjw26VpLObnwmYXGgRyn3aW",
+          "founded": 1975,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "redmond, washington, united states",
+            "locality": "redmond",
+            "region": "washington",
+            "metro": "seattle, washington",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 microsoft way",
+            "address_line_2": null,
+            "postal_code": "98052",
+            "geo": "47.66,-122.06"
+          },
+          "linkedin_url": "linkedin.com/company/microsoft",
+          "linkedin_id": "1035",
+          "facebook_url": "facebook.com/microsoft",
+          "twitter_url": "twitter.com/microsoft",
+          "website": "microsoft.com"
+        },
+        "location_names": [],
+        "end_date": "2019-06",
+        "start_date": "2012-12",
+        "title": {
+          "name": "technolgy solution professional | adv analytics & ai",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "data_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [],
+        "start_date": "2017",
+        "end_date": "2017",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [],
+        "start_date": "2016",
+        "end_date": "2016",
+        "majors": [
+          "data science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2015",
+        "end_date": "2019",
+        "majors": [
+          "data science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [],
+        "start_date": "2015",
+        "end_date": "2016",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2014",
+        "end_date": "2016",
+        "majors": [
+          "data science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "zhaw school of engineering",
+          "type": "post-secondary institution",
+          "id": "iFokbrvhKUllc9edjosV3w_0000",
+          "location": {
+            "name": "winterthur, zurich, switzerland",
+            "locality": "winterthur",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/zhaw-school-of-engineering",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "3537376",
+          "website": "zhaw.ch",
+          "domain": "zhaw.ch"
+        },
+        "degrees": [],
+        "start_date": "2014",
+        "end_date": "2015",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "höhere fachschule für aussenwirtschaft",
+          "type": "post-secondary institution",
+          "id": "gJFsY8w1IJVVNtUOFHo7iw_0000",
+          "location": {
+            "name": "aarau, aargau, switzerland",
+            "locality": "aarau",
+            "region": "aargau",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hfaweiterbildung",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11028805",
+          "website": "aussenwirtschaft.biz",
+          "domain": "aussenwirtschaft.biz"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "510783884",
+        "url": "linkedin.com/in/aiguy",
+        "username": "aiguy"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/marc-schöni-638088123",
+        "username": "marc-schöni-638088123"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/i-dig-data",
+        "username": "i-dig-data"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,308 @@
+{
+  "record_id": "speaker-dubrovnik-055",
+  "speaker_name": "Laetitia Huret",
+  "designation": "Transformation Excellence Lead",
+  "company": "servier",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/laetitiahuret/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": "Greater Paris Metropolitan Region, FR",
+  "linkedin_connections": "500",
+  "linkedin_followers": "3302",
+  "linkedin_about": "None",
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Charlotte Guittonneau",
+      "company": "FIDEL FILLAUD",
+      "profile_url": "https://fr.linkedin.com/in/charlotte-guittonneau-communication-marketing/en"
+    },
+    {
+      "name": "Sidonie Bullet",
+      "company": "Onepoint",
+      "profile_url": "https://fr.linkedin.com/in/sidoniebullet"
+    },
+    {
+      "name": "Marie Jacquet",
+      "company": "Thélem assurances",
+      "profile_url": "https://fr.linkedin.com/in/marie-jacquet1"
+    },
+    {
+      "name": "Nancy R.",
+      "company": "Les Entremetteurs",
+      "profile_url": "https://fr.linkedin.com/in/nancy-romero"
+    },
+    {
+      "name": "Chloë LARIVIERE",
+      "company": "IKEA",
+      "profile_url": "https://fr.linkedin.com/in/chlo%C3%AB-bonnafous-67a050171/en"
+    },
+    {
+      "name": "Manon Dutant",
+      "company": "PartyLite",
+      "profile_url": "https://fr.linkedin.com/in/manon-dutant-0529b3109/en"
+    },
+    {
+      "name": "Manon Mercier",
+      "company": "Shefferd",
+      "profile_url": "https://fr.linkedin.com/in/manon-mercier-1602"
+    },
+    {
+      "name": "Marine Borrely",
+      "company": "SOGIMA",
+      "profile_url": "https://fr.linkedin.com/in/marine-borrely-32870712a"
+    },
+    {
+      "name": "Adeline Pousset",
+      "company": "Golden Réseau",
+      "profile_url": "https://fr.linkedin.com/in/adeline-pousset-7783ba161"
+    },
+    {
+      "name": "Marion Bureau",
+      "company": "Choose",
+      "profile_url": "https://fr.linkedin.com/in/marion-bureau-a8958097"
+    },
+    {
+      "name": "Justine Duval",
+      "company": "Freelance",
+      "profile_url": "https://fr.linkedin.com/in/justineduval75"
+    },
+    {
+      "name": "Camille BOUTEILA",
+      "company": "CAP INGELEC",
+      "profile_url": "https://fr.linkedin.com/in/camille-bouteila/en"
+    },
+    {
+      "name": "Mathilde Levieux",
+      "company": "ISGP - ESA3 - Talis Business School Campus Paris",
+      "profile_url": "https://fr.linkedin.com/in/mathildelevieux"
+    },
+    {
+      "name": "Claire Sablé",
+      "company": "Carton Vert",
+      "profile_url": "https://fr.linkedin.com/in/claire-sabl%C3%A9-4b7b6211b"
+    },
+    {
+      "name": "Alycia Cabrera",
+      "company": "ALAVIDA BLOG",
+      "profile_url": "https://fr.linkedin.com/in/alycia-cabrera"
+    },
+    {
+      "name": "Victoria Pierre-Louis",
+      "company": "Ordre des Experts-Comptables Auvergne-Rhône-Alpes",
+      "profile_url": "https://fr.linkedin.com/in/victoria-pierre-louis/en"
+    },
+    {
+      "name": "Cassandra Charrier",
+      "company": "CC Communication",
+      "profile_url": "https://fr.linkedin.com/in/cassandra-charrier/en"
+    },
+    {
+      "name": "Cécilia Sadaoui",
+      "company": "CCI International Provence-Alpes-Côte d’Azur",
+      "profile_url": "https://fr.linkedin.com/in/c%C3%A9cilia-sadaoui-b2970ab5"
+    },
+    {
+      "name": "Kathleen HEMART",
+      "company": "Groupe PLF",
+      "profile_url": "https://fr.linkedin.com/in/kathleenhemart"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "servier",
+  "linkedin_current_company_website": "servier.com",
+  "linkedin_skills": [
+    "adobe illustrator",
+    "benchmarking",
+    "business english",
+    "cascading style sheets",
+    "communication interne",
+    "content marketing",
+    "corporate communications",
+    "customer journeys",
+    "drupal",
+    "ehealth",
+    "english",
+    "gestion de projet",
+    "git",
+    "github",
+    "google analytics",
+    "html5",
+    "indesign",
+    "javascript",
+    "lead qualification",
+    "leadership",
+    "management",
+    "marketing btob",
+    "marketing communications",
+    "marketing digital",
+    "marketing sur linkedin",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft word",
+    "optimisation pour les moteurs de recherche",
+    "parler en public",
+    "photoshop",
+    "powerpoint",
+    "project management",
+    "project planning",
+    "react.js",
+    "redmine",
+    "relations clients",
+    "stakeholder management",
+    "suivi de budgets",
+    "web design",
+    "wordpress"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "transformation excellence lead",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global digital project lead - emailing activation",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "communication specialist - vie",
+      "company": "servier ireland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "commercial communication officer",
+      "company": "liveli crèches",
+      "company_industry": "individual & family services",
+      "start_date": "2020-10",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "internal communication officer",
+      "company": "servier",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "chargée de marketing",
+      "company": "babilou",
+      "company_industry": "individual & family services",
+      "start_date": "2018-09",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "chargée de marketing et communication",
+      "company": "dissonances",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-09",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "assistante chef de projet",
+      "company": "box conseil",
+      "company_industry": "public relations and communications",
+      "start_date": "2016-05",
+      "end_date": "2016-10",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "codecademy",
+      "majors": [
+        "design",
+        "multimedia"
+      ],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2023-09"
+    },
+    {
+      "school": "esp ecole supérieure de publicité, communication et marketing",
+      "majors": [
+        "business",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2018-09",
+      "end_date": "2020-09"
+    },
+    {
+      "school": "esp ecole supérieure de publicité, communication et marketing",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2015",
+      "end_date": "2018"
+    },
+    {
+      "school": "paris - pantheon - assas university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013",
+      "end_date": "2015"
+    },
+    {
+      "school": "lycée molière rio",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2006",
+      "end_date": "2013"
+    },
+    {
+      "school": "university of london",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "school": "lycée molière rio",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "school": "université paris ii - panthéon - assas",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

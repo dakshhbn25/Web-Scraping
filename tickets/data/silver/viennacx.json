@@ -1,0 +1,16 @@
+{
+  "record_id": "tickets-viennacx",
+  "event_name": "ViennaCX",
+  "sold_out_claim": "NEXT is always Sold Out!",
+  "stats": [
+    "45+ countries",
+    "300 Attendees",
+    "Top countries: UK, DACH, USA",
+    "65% Pharma Peers"
+  ],
+  "attendee_companies": [],
+  "source_urls": [
+    "https://nextpharmasummit.com/ViennaCX/tickets/"
+  ],
+  "scraped_at": "2026-09-15T07:48:33.681507+00:00"
+}

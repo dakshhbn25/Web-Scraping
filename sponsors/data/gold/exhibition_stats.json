@@ -1,0 +1,50 @@
+[
+  {
+    "record_id": "exhibition-stats-dubrovnik",
+    "event_name": "Dubrovnik",
+    "sold_out_claim": "Exhibition is always Sold Out!",
+    "stats": [
+      "10 Main-Stage Sessions",
+      "28 Booths",
+      "Max 35% of attendees are sponsors",
+      "16+ hours of networking"
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Dubrovnik/sponsors/"
+    ],
+    "scraped_at": "2026-09-15T10:28:43.247532+00:00",
+    "missing_fields": []
+  },
+  {
+    "record_id": "exhibition-stats-medical",
+    "event_name": "Medical",
+    "sold_out_claim": "Exhibition is always Sold Out!",
+    "stats": [
+      "Unique Agenda",
+      "10 Booths",
+      "Max 35% of attendees are sponsors",
+      "16+ hours of networking"
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/sponsors/"
+    ],
+    "scraped_at": "2026-09-15T10:14:54.237258+00:00",
+    "missing_fields": []
+  },
+  {
+    "record_id": "exhibition-stats-viennacx",
+    "event_name": "ViennaCX",
+    "sold_out_claim": "Exhibition is always Sold Out!",
+    "stats": [
+      "10 Main-Stage Sessions",
+      "28 Booths",
+      "Max 35% of attendees are sponsors",
+      "16+ hours of networking"
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/ViennaCX/sponsors/"
+    ],
+    "scraped_at": "2026-09-15T10:15:31.599262+00:00",
+    "missing_fields": []
+  }
+]

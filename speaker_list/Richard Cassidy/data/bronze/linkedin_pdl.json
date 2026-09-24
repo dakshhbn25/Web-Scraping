@@ -1,0 +1,746 @@
+{
+  "record_id": "speaker-dubrovnik-030",
+  "speaker_name": "Richard Cassidy",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/cassidyrichard/",
+  "scraped_at": "2026-09-18T09:36:07.004750+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "DexVZ9g6QpiQ-6cQl717bQ_0000",
+    "full_name": "richard c",
+    "first_name": "richard",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": null,
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/cassidyrichard",
+    "linkedin_username": "cassidyrichard",
+    "linkedin_id": "3373618",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior vice president, rx+ business accelerator",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "senior",
+      "vp"
+    ],
+    "job_company_id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+    "job_company_name": "astellas pharma",
+    "job_company_website": "astellas.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2005,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astellaspharmainc",
+    "job_company_linkedin_id": "33408697",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "nihombashihoncho, tokio, japan",
+    "job_company_location_locality": "nihombashihoncho",
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokio",
+    "job_company_location_geo": "35.67,139.77",
+    "job_company_location_street_address": "2-5-1 nihonbashi-honcho",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "103-8411",
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2024-02-16",
+    "job_last_verified": "2026-08-27",
+    "job_start_date": "2021-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-27",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "analysis",
+      "business acumen",
+      "business analysis",
+      "business development",
+      "business planning",
+      "business process",
+      "business relationship management",
+      "business strategy",
+      "change management",
+      "commercialization",
+      "communication",
+      "cross cultural communication skills",
+      "cross cultural teams",
+      "cross functional team leadership",
+      "customer relations",
+      "customer satisfaction",
+      "customer service",
+      "decision making",
+      "digital health",
+      "emerging technologies",
+      "entrepreneurship",
+      "financial analysis",
+      "global marketing",
+      "healthcare",
+      "innovation management",
+      "leadership",
+      "lifesciences",
+      "management",
+      "market analysis",
+      "marketing strategy",
+      "medical devices",
+      "mergers and acquisitions",
+      "negotiation",
+      "ophthalmology",
+      "pharmaceutical industry",
+      "product launch",
+      "product management",
+      "project management",
+      "project planning",
+      "project portfolio management",
+      "start ups",
+      "stem cells",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "strategy development",
+      "team leadership",
+      "teamwork",
+      "venture capital"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-10",
+        "title": {
+          "name": "senior vice president, rx+ business accelerator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "hlth inc.",
+          "size": "51-200",
+          "id": "HIrwQ8vQ6nYPKDnFQT7FMgSnVGv4",
+          "founded": 2017,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "155 east 44th street",
+            "address_line_2": "suite 701",
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/hlthinc",
+          "linkedin_id": "2767777",
+          "facebook_url": "facebook.com/hxlhxl",
+          "twitter_url": "twitter.com/health_xl",
+          "website": "hlth.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "hlth community thought leader",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "digitx partners",
+          "size": "1-10",
+          "id": "H500gEvwCkqlKOUYFet1lQ6UT8OE",
+          "founded": 2016,
+          "industry": "venture capital & private equity",
+          "industry_v2": "venture capital and private equity principals",
+          "location": {
+            "name": "brisbane, california, united states",
+            "locality": "brisbane",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "94005",
+            "geo": "37.68,-122.4"
+          },
+          "linkedin_url": "linkedin.com/company/digitxpartners",
+          "linkedin_id": "13991071",
+          "facebook_url": "facebook.com/digitxpartners",
+          "twitter_url": "twitter.com/digitx_partners",
+          "website": "digitxpartners.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-10",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas institute for regenerative medicine",
+          "size": "1-10",
+          "id": "sJerLl9O5dG8H1pBqGV3VgBixhq7",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "marlborough, massachusetts, united states",
+            "locality": "marlborough",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "01752",
+            "geo": "42.34,-71.54"
+          },
+          "linkedin_url": "linkedin.com/company/astellas-institute-for-regenerative-medicine",
+          "linkedin_id": "94755133",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "westborough, massachusetts, united states"
+        ],
+        "end_date": "2021-09",
+        "start_date": "2018-10",
+        "title": {
+          "name": "head of operations & commercialization",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": "2018-10",
+        "start_date": "2016-04",
+        "title": {
+          "name": "executive director corporate planning",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": "2016-03",
+        "start_date": "2014-05",
+        "title": {
+          "name": "director corporate planning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma europe",
+          "size": "1001-5000",
+          "id": "riW8qCffs5U1hLWn4b3CNQr5ULUM",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "addlestone, england, united kingdom",
+            "locality": "addlestone",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "300 dashwood lang road bourne business park",
+            "address_line_2": null,
+            "postal_code": "kt15 2nx",
+            "geo": "51.36,-0.48"
+          },
+          "linkedin_url": "linkedin.com/company/astellas-europe",
+          "linkedin_id": "1629022",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2014-05",
+        "start_date": "2009-01",
+        "title": {
+          "name": "senior director, corporate strategy & planning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "smithbayes",
+          "size": "1-10",
+          "id": "3MwrJONBbg1tQzhWAgFpKQ6ETOn3",
+          "founded": null,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/smithbayes",
+          "linkedin_id": "108477",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2008-09",
+        "start_date": "2007-09",
+        "title": {
+          "name": "strategic relations director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [],
+        "end_date": "2007-08",
+        "start_date": "2005-11",
+        "title": {
+          "name": "strategic relations director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [],
+        "end_date": "2005-10",
+        "start_date": "2001-02",
+        "title": {
+          "name": "portfolio manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amersham",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2001-02",
+        "start_date": "1999-01",
+        "title": {
+          "name": "international brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "london business school",
+          "type": "post-secondary institution",
+          "id": "LwkowlBz-ITo0vo4g1vTKA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-business-school",
+          "facebook_url": "facebook.com/londonbusinessschool",
+          "twitter_url": "twitter.com/lbs",
+          "linkedin_id": "5954",
+          "website": "london.edu",
+          "domain": "london.edu"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "saïd business school, university of oxford",
+          "type": "post-secondary institution",
+          "id": "q2Q5-i2vAkb5LupDO8paxA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordsbs",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4476",
+          "website": "sbs.ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of cambridge",
+          "type": "post-secondary institution",
+          "id": "8RCjJr5pmaBeuOcALAzkTQ_0000",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cambridge",
+          "facebook_url": "facebook.com/cambridge.university",
+          "twitter_url": "twitter.com/cambridge_uni",
+          "linkedin_id": "4522",
+          "website": "cam.ac.uk",
+          "domain": "cam.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1995-08",
+        "end_date": "1996-07",
+        "majors": [
+          "design",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of cambridge",
+          "type": "post-secondary institution",
+          "id": "8RCjJr5pmaBeuOcALAzkTQ_0000",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cambridge",
+          "facebook_url": "facebook.com/cambridge.university",
+          "twitter_url": "twitter.com/cambridge_uni",
+          "linkedin_id": "4522",
+          "website": "cam.ac.uk",
+          "domain": "cam.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1995-01",
+        "end_date": "1996-12",
+        "majors": [
+          "design",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of edinburgh",
+          "type": "post-secondary institution",
+          "id": "0PTa6Aw9AneSL4Nx1YJykg_0000",
+          "location": {
+            "name": "edinburgh, scotland, united kingdom",
+            "locality": "edinburgh",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-edinburgh",
+          "facebook_url": "facebook.com/universityofedinburgh",
+          "twitter_url": "twitter.com/edinburghuni",
+          "linkedin_id": "5738",
+          "website": "ed.ac.uk",
+          "domain": "ed.ac.uk"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors"
+        ],
+        "start_date": "1990-10",
+        "end_date": "1994-07",
+        "majors": [
+          "chemical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "yis",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3373618",
+        "url": "linkedin.com/in/cassidyrichard",
+        "username": "cassidyrichard"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,192 @@
+{
+  "record_id": "speaker-dubrovnik-075",
+  "speaker_name": "Mirkka Schaller",
+  "linkedin_url": "https://www.linkedin.com/in/mirkka-schaller/",
+  "likelihood": 9,
+  "full_name": "mirkka schaller",
+  "job_title": "health futurist",
+  "industry": "biotechnology",
+  "current_company": "health futurist network",
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "change management",
+    "clinical nutrition",
+    "digital innovation",
+    "digital transformation",
+    "klinische studien",
+    "life sciences",
+    "pharmaceutical industry",
+    "public speaking",
+    "strategic foresight",
+    "strategic planning",
+    "strategie"
+  ],
+  "interests": [
+    "arts",
+    "classical music",
+    "nature (= finnish lakes/woods and sauna)",
+    "nature (=finnish lakes/woods)",
+    "nutrition",
+    "power yoga",
+    "running"
+  ],
+  "experience": [
+    {
+      "title": "health futurist",
+      "company": "health futurist network",
+      "company_industry": null,
+      "start_date": "2025-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "member of the global foresight network",
+      "company": "world economic forum",
+      "company_industry": "non-profit organization management",
+      "start_date": "2024-04",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of innovation accelerator & think tank, it",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2023-04",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "digital innovation & data generation, digital enablement",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2022-02",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "digital innovation medical communications",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2019-04",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "scientific communication associate director",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2018-01",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "scientific communication senior manager",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2015-09",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "consultant & speaker",
+      "company": "aava medical communication & consulting",
+      "company_industry": null,
+      "start_date": "2011-05",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical communications",
+      "company": "csl vifor",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-09",
+      "end_date": "2011-05",
+      "is_primary": false
+    },
+    {
+      "title": "science manager, consumer care",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2004-09",
+      "end_date": "2007-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of helsinki",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2000",
+      "end_date": "2004"
+    },
+    {
+      "school": "kuopio university hospital (kuh) - kuopion yliopistollinen sairaala (kys)",
+      "majors": [
+        "nutrition"
+      ],
+      "degrees": [
+        "masters",
+        "master of science"
+      ],
+      "start_date": "1994",
+      "end_date": "2000"
+    },
+    {
+      "school": "medical faculty skopje, university ss cyril and methodius",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of science"
+      ],
+      "start_date": "1994",
+      "end_date": "2000"
+    },
+    {
+      "school": "medical school",
+      "majors": [
+        "nutrition"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1994",
+      "end_date": "2000"
+    },
+    {
+      "school": "singularity university",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2020"
+    },
+    {
+      "school": "institute for integrative nutrition",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of eastern finland",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

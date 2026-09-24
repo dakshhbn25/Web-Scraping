@@ -1,0 +1,213 @@
+{
+  "record_id": "speaker-viennacx-004",
+  "speaker_name": "Berk Kiran",
+  "linkedin_url": "https://www.linkedin.com/in/berk-kiran-8aa523b/",
+  "likelihood": 9,
+  "full_name": "berk kiran",
+  "job_title": "vice president, head of commercial operations specialty medicine europe",
+  "industry": "pharmaceuticals",
+  "current_company": "daiichi sankyo europe gmbh",
+  "current_company_website": "daiichi-sankyo.eu",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "accountability",
+    "adobe experience manager",
+    "artificial intelligence",
+    "b2b marketing",
+    "content marketing",
+    "content planning",
+    "corporate training",
+    "employee engagement",
+    "employee learning and development",
+    "enterprise marketing",
+    "linkedin marketing solutions",
+    "machine learning",
+    "marketing strategy",
+    "messaging architecture",
+    "organizational culture",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "product management",
+    "sales effectiveness",
+    "written communication"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "vice president, head of commercial operations specialty medicine europe",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of europe marketing & strategy",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-06",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "commercial director",
+      "company": "daiichi sankyo turkey",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-07",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "neuroscience business unit head",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2019-07",
+      "is_primary": false
+    },
+    {
+      "title": "hematology & oncology business unit head",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-10",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "neonatology & pediatric cardiology business unit head",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-12",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "regional sales manager",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-03",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-07",
+      "end_date": "2013-03",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "abdi ibrahim pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-12",
+      "end_date": "2011-07",
+      "is_primary": false
+    },
+    {
+      "title": "management trainee",
+      "company": "abdi ibrahim pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-11",
+      "end_date": "2008-12",
+      "is_primary": false
+    },
+    {
+      "title": "business development supervisor",
+      "company": "volkswagen doğuş finansman a.ş. (vdf)",
+      "company_industry": "financial services",
+      "start_date": "2006-08",
+      "end_date": "2007-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "insead",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "leadership",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2025-02",
+      "end_date": "2025-02"
+    },
+    {
+      "school": "insead",
+      "majors": [
+        "business administration",
+        "management",
+        "leadership",
+        "business administration and management"
+      ],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "georgetown university",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2017-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "koç university",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2016-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "orta doğu teknik üniversitesi / middle east technical university",
+      "majors": [
+        "human resources",
+        "industrial engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "sakarya university",
+      "majors": [
+        "industrial engineering"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "lal",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992",
+      "end_date": "1999"
+    }
+  ]
+}

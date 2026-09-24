@@ -1,0 +1,167 @@
+{
+  "record_id": "speaker-viennacx-037",
+  "speaker_name": "Florian Gäng",
+  "linkedin_url": "https://www.linkedin.com/in/floriangaeng/",
+  "likelihood": 9,
+  "full_name": "florian gäng",
+  "job_title": "director, global customer experience strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "bayer",
+  "current_company_website": "bayer.com",
+  "current_company_industry": "chemicals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business design",
+    "business innovation",
+    "content strategy",
+    "conversational interfaces",
+    "creative strategy",
+    "digital marketing",
+    "digital strategy",
+    "digitale strategie",
+    "digitale transformation",
+    "digitales marketing",
+    "kreativstrategie",
+    "multichannel marketing",
+    "nutzererfahrung",
+    "nutzerforschung",
+    "organisational development",
+    "persuasive design",
+    "product and service design",
+    "service design",
+    "social media",
+    "social media marketing",
+    "soziale medien",
+    "usability",
+    "user experience design",
+    "user research",
+    "voice user interface design"
+  ],
+  "interests": [
+    "civil rights and social action",
+    "environment",
+    "politics"
+  ],
+  "experience": [
+    {
+      "title": "director, global customer experience strategy",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "user experience strategy & product design / user research",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2016",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "head of cx & innovation consulting dach, senior director",
+      "company": "publicis sapient",
+      "company_industry": "management consulting",
+      "start_date": "2016-09",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "managing director strategy",
+      "company": "aperto - an ibm company",
+      "company_industry": "marketing and advertising",
+      "start_date": "2015",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "head of business / board member",
+      "company": "aperto - an ibm company",
+      "company_industry": "marketing and advertising",
+      "start_date": "2010",
+      "end_date": "2014",
+      "is_primary": false
+    },
+    {
+      "title": "creative director user experience",
+      "company": "aperto - an ibm company",
+      "company_industry": "marketing and advertising",
+      "start_date": "2010",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "senior user experience architect",
+      "company": "aperto - an ibm company",
+      "company_industry": "marketing and advertising",
+      "start_date": "2008",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "consultant conversational interfaces",
+      "company": "syntactics inc.",
+      "company_industry": "information technology and services",
+      "start_date": "2006",
+      "end_date": "2008",
+      "is_primary": false
+    },
+    {
+      "title": "voice user interface designer",
+      "company": "voiceobjects ag",
+      "company_industry": null,
+      "start_date": "2004",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "graduate research assistant",
+      "company": "fraunhofer institut iao stuttgart",
+      "company_industry": null,
+      "start_date": "2003",
+      "end_date": "2004",
+      "is_primary": false
+    },
+    {
+      "title": "customer experience designer",
+      "company": "cambridge technology partners",
+      "company_industry": null,
+      "start_date": "1998",
+      "end_date": "1999",
+      "is_primary": false
+    },
+    {
+      "title": "design / konzeption",
+      "company": "zeitwerk gmbh",
+      "company_industry": "internet",
+      "start_date": "1996",
+      "end_date": "1996",
+      "is_primary": false
+    },
+    {
+      "title": "paramedic / emergency medical technician",
+      "company": "deutsches rotes kreuz rettungsdienst",
+      "company_industry": null,
+      "start_date": "1994-09",
+      "end_date": "1997-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of konstanz",
+      "majors": [
+        "educational psychology",
+        "engineering",
+        "management",
+        "psychology"
+      ],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2003"
+    }
+  ]
+}

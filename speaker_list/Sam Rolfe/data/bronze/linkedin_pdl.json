@@ -1,0 +1,680 @@
+{
+  "record_id": "speaker-dubrovnik-098",
+  "speaker_name": "Sam Rolfe",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/sam-rolfe-cloud/",
+  "scraped_at": "2026-09-18T09:38:34.515435+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Yxc8BBPRFiPBm2xWsGDXTQ_0000",
+    "full_name": "sam rolfe",
+    "first_name": "sam",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "rolfe",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/sam-rolfe-cloud",
+    "linkedin_username": "sam-rolfe-cloud",
+    "linkedin_id": "184889919",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "sales director, emea",
+    "job_title_role": "sales",
+    "job_title_sub_role": null,
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "6em73K4s1rnoZ57CUUmIIwPc7s4W",
+    "job_company_name": "exeevo",
+    "job_company_website": "exeevo.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2017,
+    "job_company_industry": "information technology and services",
+    "job_company_industry_v2": "it services and it consulting",
+    "job_company_linkedin_url": "linkedin.com/company/omnipresence-technologies",
+    "job_company_linkedin_id": "53128808",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": "twitter.com/exeevo_com",
+    "job_company_location_name": "saint-laurent, quebec, canada",
+    "job_company_location_locality": "saint-laurent",
+    "job_company_location_metro": null,
+    "job_company_location_region": "quebec",
+    "job_company_location_geo": "45.50,-73.69",
+    "job_company_location_street_address": "7400 route transcanadienne",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "h4t 1t3",
+    "job_company_location_country": "canada",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-07-09",
+    "job_last_verified": "2026-08-24",
+    "job_start_date": "2025-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-24",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "adobe acrobat",
+      "business development",
+      "c suite selling",
+      "cloud saas",
+      "coaching",
+      "customer relationship management",
+      "customer service",
+      "food and beverage",
+      "foreign languages",
+      "hospitality",
+      "hospitality industry",
+      "hospitality management",
+      "life sciences",
+      "management",
+      "market research",
+      "new business development",
+      "people management",
+      "pharmaceutical industry",
+      "problem solving",
+      "project management",
+      "restaurants",
+      "sales",
+      "sales development",
+      "sales process development",
+      "sales strategy",
+      "software implementation",
+      "software project management",
+      "strategic partnerships",
+      "team leadership",
+      "teamwork",
+      "time management",
+      "training",
+      "training delivery"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "exeevo",
+          "size": "51-200",
+          "id": "6em73K4s1rnoZ57CUUmIIwPc7s4W",
+          "founded": 2017,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "saint-laurent, quebec, canada",
+            "locality": "saint-laurent",
+            "region": "quebec",
+            "metro": null,
+            "country": "canada",
+            "continent": "north america",
+            "street_address": "7400 route transcanadienne",
+            "address_line_2": null,
+            "postal_code": "h4t 1t3",
+            "geo": "45.50,-73.69"
+          },
+          "linkedin_url": "linkedin.com/company/omnipresence-technologies",
+          "linkedin_id": "53128808",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/exeevo_com",
+          "website": "exeevo.com"
+        },
+        "location_names": [
+          "high wycombe, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-06",
+        "title": {
+          "name": "sales director, emea",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "arkivum",
+          "size": "11-50",
+          "id": "zh5v5YFd3cbCO3Uul6u2wwxdqWCf",
+          "founded": 2011,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.45,-1.01"
+          },
+          "linkedin_url": "linkedin.com/company/arkivum",
+          "linkedin_id": "2046766",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/arkivum",
+          "website": "arkivum.com"
+        },
+        "location_names": [
+          "reading, england, united kingdom"
+        ],
+        "end_date": "2025-05",
+        "start_date": "2023-10",
+        "title": {
+          "name": "director of business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "london, england, united kingdom",
+          "green, ohio, united states"
+        ],
+        "end_date": "2023-07",
+        "start_date": "2022-01",
+        "title": {
+          "name": "account partner, emea cro",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "high wycombe, england, united kingdom"
+        ],
+        "end_date": "2022-01",
+        "start_date": "2021-02",
+        "title": {
+          "name": "account executive, vault cdms",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2021-02",
+        "start_date": "2018-12",
+        "title": {
+          "name": "sales development manager emea",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "sales_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2018-12",
+        "start_date": "2016-05",
+        "title": {
+          "name": "sales development representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "veeva systems",
+          "size": "5001-10000",
+          "id": "fOKLU4Rq7BIovtOgDPv2twBAYHh7",
+          "founded": 2007,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "pleasanton, california, united states",
+            "locality": "pleasanton",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4280 hacienda drive",
+            "address_line_2": null,
+            "postal_code": "94588",
+            "geo": "37.66,-121.89"
+          },
+          "linkedin_url": "linkedin.com/company/veeva-systems",
+          "linkedin_id": "402048",
+          "facebook_url": "facebook.com/veevasystems",
+          "twitter_url": "twitter.com/veevasystems",
+          "website": "veeva.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2016-05",
+        "start_date": "2015-09",
+        "title": {
+          "name": "associate consultant, commercial content",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zinc ahead ltd",
+          "size": "51-200",
+          "id": "tLGAXv4bw4tlZ6u83MIuhAx4na8G",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": null,
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.73,-1.25"
+          },
+          "linkedin_url": "linkedin.com/company/zinc-ahead-ltd",
+          "linkedin_id": "519117",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zinctweetz",
+          "website": "zinc-ahead.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2015-01",
+        "title": {
+          "name": "implementation executive",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zinc ahead ltd",
+          "size": "51-200",
+          "id": "tLGAXv4bw4tlZ6u83MIuhAx4na8G",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": null,
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.73,-1.25"
+          },
+          "linkedin_url": "linkedin.com/company/zinc-ahead-ltd",
+          "linkedin_id": "519117",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zinctweetz",
+          "website": "zinc-ahead.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2015-01",
+        "start_date": "2014-04",
+        "title": {
+          "name": "account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zinc ahead ltd",
+          "size": "51-200",
+          "id": "tLGAXv4bw4tlZ6u83MIuhAx4na8G",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": null,
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.73,-1.25"
+          },
+          "linkedin_url": "linkedin.com/company/zinc-ahead-ltd",
+          "linkedin_id": "519117",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/zinctweetz",
+          "website": "zinc-ahead.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2012-09",
+        "title": {
+          "name": "customer support administrator",
+          "class": "services",
+          "role": "support",
+          "sub_role": "customer_support",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mitchells & butlers plc",
+          "size": "10001+",
+          "id": "lo76fnE9YN2Bbhq9UbxrjARGtVG4",
+          "founded": 1898,
+          "industry": "hospitality",
+          "industry_v2": "hospitality",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "27 fleet street",
+            "address_line_2": null,
+            "postal_code": "b3 1jp",
+            "geo": "52.47,-1.91"
+          },
+          "linkedin_url": "linkedin.com/company/mitchells-&-butlers",
+          "linkedin_id": "33899",
+          "facebook_url": "facebook.com/mitchellsbutlersjobs",
+          "twitter_url": "twitter.com/vpdd",
+          "website": "mbplc.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2012-10",
+        "start_date": "2011-02",
+        "title": {
+          "name": "supervisor",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [
+          "oxfordshire, england, united kingdom"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2010-06",
+        "title": {
+          "name": "fa level 1 football coach",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "oxford brookes university",
+          "type": "post-secondary institution",
+          "id": "4cLlXMV1osyzDnu6BAEbAw_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordbrookes",
+          "facebook_url": "facebook.com/oxfordbrookes",
+          "twitter_url": "twitter.com/oxford_brookes",
+          "linkedin_id": "13996",
+          "website": "brookes.ac.uk",
+          "domain": "brookes.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2012",
+        "majors": [
+          "coaching",
+          "philosophy",
+          "physical education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the royal grammar school, high wycombe",
+          "type": "secondary school",
+          "id": "FLI4UVcfTI4KT2wUXawstw_0000",
+          "location": {
+            "name": "high wycombe, england, united kingdom",
+            "locality": "high wycombe",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/royal-grammar-school-high-wycombe",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4017280",
+          "website": "rgshw.com",
+          "domain": "rgshw.com"
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2006",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "184889919",
+        "url": "linkedin.com/in/sam-rolfe-cloud",
+        "username": "sam-rolfe-cloud"
+      },
+      {
+        "network": "linkedin",
+        "id": "184889919",
+        "url": "linkedin.com/in/samuel-rolfe-593b0451",
+        "username": "samuel-rolfe-593b0451"
+      },
+      {
+        "network": "linkedin",
+        "id": "184889919",
+        "url": "linkedin.com/in/sam-rolfe-veeva",
+        "username": "sam-rolfe-veeva"
+      },
+      {
+        "network": "linkedin",
+        "id": "184889919",
+        "url": "linkedin.com/in/samuel-rolfe-veeva",
+        "username": "samuel-rolfe-veeva"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

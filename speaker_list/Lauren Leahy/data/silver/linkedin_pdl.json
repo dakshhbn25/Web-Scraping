@@ -1,0 +1,170 @@
+{
+  "record_id": "speaker-dubrovnik-014",
+  "speaker_name": "Lauren Leahy",
+  "linkedin_url": "https://www.linkedin.com/in/leahycreative/",
+  "likelihood": 9,
+  "full_name": "lauren leahy",
+  "job_title": "international medical affairs omnichannel leader",
+  "industry": "pharmaceuticals",
+  "current_company": "eli lilly and company",
+  "current_company_website": "lilly.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "australia",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "biotechnology",
+    "change management",
+    "clinical development",
+    "code of conduct",
+    "communication",
+    "content development",
+    "creative problem solving",
+    "creativity skills",
+    "cross functional collaborations",
+    "customer engagement",
+    "customer experience management",
+    "editing",
+    "editorial",
+    "educational workshops",
+    "emotional intelligence",
+    "event management",
+    "health",
+    "health care professionals",
+    "influencing others",
+    "innovation management",
+    "interpersonal skills",
+    "leadership",
+    "leading transformational change",
+    "marketing communications",
+    "medical communications",
+    "medical education",
+    "medical writing",
+    "multi channel marketing",
+    "organization skills",
+    "personal development",
+    "pharmaceutical industry",
+    "productivity improvement",
+    "project management",
+    "relationship building",
+    "social influence",
+    "stakeholder management",
+    "strategic communications",
+    "strategic planning",
+    "strategy",
+    "symposia",
+    "technical writing",
+    "therapeutic areas",
+    "third party relationships",
+    "third party vendor management",
+    "time management",
+    "training",
+    "workshop development",
+    "writing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "international medical affairs omnichannel leader",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior digital content manager - third-party websites (napac)",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-05",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing communications manager",
+      "company": "cerebral palsy alliance",
+      "company_industry": "non-profit organization management",
+      "start_date": "2020-01",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "freelance medical communications consultant",
+      "company": "leahy creative",
+      "company_industry": null,
+      "start_date": "2015-01",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical communications manager, bone and general medicine",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2012-05",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "editorial program manager",
+      "company": "elixir healthcare education pty ltd",
+      "company_industry": "marketing and advertising",
+      "start_date": "2009-07",
+      "end_date": "2012-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical writer",
+      "company": "elixir healthcare education pty ltd",
+      "company_industry": "marketing and advertising",
+      "start_date": "2006-01",
+      "end_date": "2009-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "charles sturt university",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2009",
+      "end_date": "2020"
+    },
+    {
+      "school": "charles sturt university",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009",
+      "end_date": "2011"
+    },
+    {
+      "school": "university of sydney",
+      "majors": [
+        "biology",
+        "communications"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2002",
+      "end_date": "2005"
+    },
+    {
+      "school": "loreto normanhurst",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

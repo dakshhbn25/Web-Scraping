@@ -1,0 +1,429 @@
+{
+  "record_id": "speaker-dubrovnik-090",
+  "speaker_name": "Nicholas Rosen",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/nicholas-rosen/",
+  "scraped_at": "2026-09-18T09:38:17.452010+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PmIrRGr78EgRwJVOyCNh-A_0000",
+    "full_name": "nicholas rosen",
+    "first_name": "nicholas",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "rosen",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/nicholas-rosen",
+    "linkedin_username": "nicholas-rosen",
+    "linkedin_id": "237244619",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "founder & chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "VqMAkD7YmZX6ZrgLowBOJgFtwYVq",
+    "job_company_name": "exaris solutions",
+    "job_company_website": "exaris-solutions.de",
+    "job_company_size": "1-10",
+    "job_company_founded": 2021,
+    "job_company_industry": "research",
+    "job_company_industry_v2": "research services",
+    "job_company_linkedin_url": "linkedin.com/company/exaris-solutions",
+    "job_company_linkedin_id": "80358542",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "essen, north rhine-westphalia, germany",
+    "job_company_location_locality": "essen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.42,7.06",
+    "job_company_location_street_address": "60-62 im teelbruch",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "45219",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-11-01",
+    "job_last_verified": "2026-07-28",
+    "job_start_date": "2021-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-28",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "civil rights and social action",
+      "health",
+      "human rights",
+      "politics"
+    ],
+    "skills": [
+      "clinical pathways",
+      "clinical research",
+      "din iso zertifizierung",
+      "gesundheitsmanagement",
+      "gesundheitspflege",
+      "gesundheitswesen",
+      "health care management",
+      "hipaa",
+      "klinische forschung",
+      "medicine",
+      "medizin",
+      "medizinische informationstechnologie",
+      "projektmanagement"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "exaris solutions",
+          "size": "1-10",
+          "id": "VqMAkD7YmZX6ZrgLowBOJgFtwYVq",
+          "founded": 2021,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "essen, north rhine-westphalia, germany",
+            "locality": "essen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "60-62 im teelbruch",
+            "address_line_2": null,
+            "postal_code": "45219",
+            "geo": "51.42,7.06"
+          },
+          "linkedin_url": "linkedin.com/company/exaris-solutions",
+          "linkedin_id": "80358542",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "exaris-solutions.de"
+        },
+        "location_names": [
+          "krefeld, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2021-10",
+        "title": {
+          "name": "founder & chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "deutsche apotheker- und ärztebank - apobank",
+          "size": "1001-5000",
+          "id": "PJsUQcMUQYOJ6ATTL0zAdwmyhA4a",
+          "founded": 1902,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "düsseldorf, north rhine-westphalia, germany",
+            "locality": "düsseldorf",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 richard-oskar-mattern-straße",
+            "address_line_2": null,
+            "postal_code": "40547",
+            "geo": "51.21,6.76"
+          },
+          "linkedin_url": "linkedin.com/company/apobank",
+          "linkedin_id": "11376822",
+          "facebook_url": "facebook.com/apobank.de",
+          "twitter_url": "twitter.com/apobank",
+          "website": "apobank.de"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2019-02",
+        "title": {
+          "name": "pm data driven hcp consulting",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deutsche apotheker- und ärztebank - apobank",
+          "size": "1001-5000",
+          "id": "PJsUQcMUQYOJ6ATTL0zAdwmyhA4a",
+          "founded": 1902,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "düsseldorf, north rhine-westphalia, germany",
+            "locality": "düsseldorf",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 richard-oskar-mattern-straße",
+            "address_line_2": null,
+            "postal_code": "40547",
+            "geo": "51.21,6.76"
+          },
+          "linkedin_url": "linkedin.com/company/apobank",
+          "linkedin_id": "11376822",
+          "facebook_url": "facebook.com/apobank.de",
+          "twitter_url": "twitter.com/apobank",
+          "website": "apobank.de"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2019-02",
+        "start_date": "2018-01",
+        "title": {
+          "name": "business development - healthcare analyst",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deutsche apotheker- und ärztebank - apobank",
+          "size": "1001-5000",
+          "id": "PJsUQcMUQYOJ6ATTL0zAdwmyhA4a",
+          "founded": 1902,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "düsseldorf, north rhine-westphalia, germany",
+            "locality": "düsseldorf",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 richard-oskar-mattern-straße",
+            "address_line_2": null,
+            "postal_code": "40547",
+            "geo": "51.21,6.76"
+          },
+          "linkedin_url": "linkedin.com/company/apobank",
+          "linkedin_id": "11376822",
+          "facebook_url": "facebook.com/apobank.de",
+          "twitter_url": "twitter.com/apobank",
+          "website": "apobank.de"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-06",
+        "title": {
+          "name": "trainee business analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [
+          "solingen, north rhine-westphalia, germany"
+        ],
+        "end_date": "2016-06",
+        "start_date": "2015-10",
+        "title": {
+          "name": "salesforce analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "klinikum duisburg ggmbh",
+          "size": "11-50",
+          "id": "XBYTdyjOioZMpdGNVqXsng8Z6zVQ",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "duisburg, north rhine-westphalia, germany",
+            "locality": "duisburg",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "9 zu den rehwiesen",
+            "address_line_2": null,
+            "postal_code": "47055",
+            "geo": "51.43,6.72"
+          },
+          "linkedin_url": "linkedin.com/company/klinikum-duisburg-ggmbh",
+          "linkedin_id": "8479354",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2014-07",
+        "start_date": "2011-05",
+        "title": {
+          "name": "werkstudent",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "apollon hochschule der gesundheitswirtschaft",
+          "type": "post-secondary institution",
+          "id": "QAFO7WRpR5CLqTfhVM-rpg_0000",
+          "location": {
+            "name": "bremen, bremen, germany",
+            "locality": "bremen",
+            "region": "bremen",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/apollon-hochschule-der-gesundheitswirtschaft",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1091463",
+          "website": "apollon-hochschule.de",
+          "domain": "apollon-hochschule.de"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2017",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hochschule niederrhein",
+          "type": "post-secondary institution",
+          "id": "3fSto7BflNvtNJXzzGOWjQ_0000",
+          "location": {
+            "name": "krefeld, north rhine-westphalia, germany",
+            "locality": "krefeld",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hochschule-niederrhein",
+          "facebook_url": "facebook.com/hochschuleniederrhein",
+          "twitter_url": "twitter.com/hsniederrhein",
+          "linkedin_id": "15092598",
+          "website": "hs-niederrhein.de",
+          "domain": "hs-niederrhein.de"
+        },
+        "degrees": [
+          "bachelor of applied science",
+          "bachelors"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2013",
+        "majors": [
+          "health care",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "237244619",
+        "url": "linkedin.com/in/nicholas-rosen",
+        "username": "nicholas-rosen"
+      },
+      {
+        "network": "linkedin",
+        "id": "237244619",
+        "url": "linkedin.com/in/nicholas-rosen-40b55267",
+        "username": "nicholas-rosen-40b55267"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

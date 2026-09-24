@@ -1,0 +1,858 @@
+{
+  "record_id": "speaker-medical-008",
+  "speaker_name": "Adam Jones",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/adamjonesphd/",
+  "scraped_at": "2026-09-18T10:24:17.196488+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "7dI74dMrolgBd-pUBlfVxA_0000",
+    "full_name": "adam jones",
+    "first_name": "adam",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "j",
+    "last_name": "jones",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/adamjonesphd",
+    "linkedin_username": "adamjonesphd",
+    "linkedin_id": "5375221",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president international medical",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "vp"
+    ],
+    "job_company_id": "9pLPpxPSbw2WDuOHkNr5PQlE6qrn",
+    "job_company_name": "amicus therapeutics",
+    "job_company_website": "amicusrx.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2002,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/amicus-therapeutics",
+    "job_company_linkedin_id": "29114",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": "twitter.com/amicusrx1",
+    "job_company_location_name": "princeton, new jersey, united states",
+    "job_company_location_locality": "princeton",
+    "job_company_location_metro": "trenton, new jersey",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.34,-74.65",
+    "job_company_location_street_address": "47 hulfish street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "08542",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2021-08-27",
+    "job_last_verified": "2026-08-03",
+    "job_start_date": "2021-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-03",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "abpi",
+      "advisory boards",
+      "africa",
+      "agency management",
+      "analytical skills",
+      "antiviral",
+      "asia pacific",
+      "asian markets",
+      "australia",
+      "biologics",
+      "biopharmaceuticals",
+      "biostatistics",
+      "biotechnology",
+      "business development",
+      "business strategy",
+      "cancer immunotherapy",
+      "cancer research",
+      "cardiology",
+      "central asia",
+      "central eastern europe",
+      "chemotherapy",
+      "clinical development",
+      "clinical operations",
+      "clinical research",
+      "clinical trial management system",
+      "clinical trials",
+      "commercial planning",
+      "cross functional team leadership",
+      "diabetes",
+      "disease management",
+      "drug development",
+      "emerging infectious diseases",
+      "emerging markets",
+      "employee engagement",
+      "endocrinology",
+      "europe",
+      "evidence based medicine",
+      "gene therapy",
+      "genomics",
+      "good clinical practice",
+      "hbv",
+      "health outcomes",
+      "hematology",
+      "hiv",
+      "immunology",
+      "infectious diseases",
+      "japan",
+      "kol development",
+      "korean",
+      "korean culture",
+      "latam",
+      "latin america",
+      "launch experience",
+      "leadership",
+      "leukemia",
+      "life sciences",
+      "lysosomal disorders",
+      "management",
+      "market access",
+      "medical affairs",
+      "medical background",
+      "medical diagnostics",
+      "medical research",
+      "medical review",
+      "medical science",
+      "medicine",
+      "molecular biology",
+      "molecular cloning",
+      "nephrology",
+      "neurology",
+      "neuromuscular disorders",
+      "neuroscience",
+      "new business development",
+      "new drug application",
+      "oncology",
+      "organizational leadership",
+      "orphan drugs",
+      "patient advocacy",
+      "patient safety",
+      "pediatric hematology/oncology",
+      "personalized medicine",
+      "pharmaceutical industry",
+      "pharmacology",
+      "pharmacovigilance",
+      "product launch",
+      "protocol development",
+      "rare diseases",
+      "regulatory affairs",
+      "regulatory compliance",
+      "regulatory guidelines",
+      "regulatory requirements",
+      "regulatory submissions",
+      "research implementation",
+      "rheumatology",
+      "south asia",
+      "specialty pharmacy",
+      "standard operating procedure",
+      "strategic communications",
+      "strategy",
+      "targeted therapies",
+      "team leadership",
+      "the middle east",
+      "trial management",
+      "vice presidents",
+      "virology"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "south korea",
+      "croatia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "amicus therapeutics",
+          "size": "501-1000",
+          "id": "9pLPpxPSbw2WDuOHkNr5PQlE6qrn",
+          "founded": 2002,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "princeton, new jersey, united states",
+            "locality": "princeton",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "47 hulfish street",
+            "address_line_2": null,
+            "postal_code": "08542",
+            "geo": "40.34,-74.65"
+          },
+          "linkedin_url": "linkedin.com/company/amicus-therapeutics",
+          "linkedin_id": "29114",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/amicusrx1",
+          "website": "amicusrx.com"
+        },
+        "location_names": [
+          "marlow, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2021-07",
+        "title": {
+          "name": "vice president international medical",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "amicus therapeutics",
+          "size": "501-1000",
+          "id": "9pLPpxPSbw2WDuOHkNr5PQlE6qrn",
+          "founded": 2002,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "princeton, new jersey, united states",
+            "locality": "princeton",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "47 hulfish street",
+            "address_line_2": null,
+            "postal_code": "08542",
+            "geo": "40.34,-74.65"
+          },
+          "linkedin_url": "linkedin.com/company/amicus-therapeutics",
+          "linkedin_id": "29114",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/amicusrx1",
+          "website": "amicusrx.com"
+        },
+        "location_names": [
+          "marlow, england, united kingdom"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2019-10",
+        "title": {
+          "name": "head of medical affairs, international",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "jazz pharmaceuticals",
+          "size": "1001-5000",
+          "id": "ElvCphuk87c9waqb7ACPNQ4ywrz3",
+          "founded": 2003,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "dublin 4, leinster, ireland",
+            "locality": "dublin 4",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "waterloo road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.33,-6.23"
+          },
+          "linkedin_url": "linkedin.com/company/jazz-pharmaceuticals",
+          "linkedin_id": "164525",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "jazzpharma.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2019-07",
+        "start_date": "2019-01",
+        "title": {
+          "name": "vice president, head of medical affairs eu & row",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "viiv healthcare",
+          "size": "501-1000",
+          "id": "7ssbBRTXqnBKpZJG7HJpOgZ9vrri",
+          "founded": 2009,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "tw8 9gs",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/viiv-healthcare",
+          "linkedin_id": "612511",
+          "facebook_url": "facebook.com/viivhealthcare",
+          "twitter_url": "twitter.com/viivus",
+          "website": "viivhealthcare.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-12",
+        "start_date": "2015-08",
+        "title": {
+          "name": "head of medical affairs, international - living nr london",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2015-06",
+        "start_date": "2012-10",
+        "title": {
+          "name": "regional country medical director - south korea and pacific rim - living in seoul",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2012-10",
+        "start_date": "2010-06",
+        "title": {
+          "name": "group medical director, virology - living in new jersey usa",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2008-11",
+        "title": {
+          "name": "director of field medical, neuroscience and immunology, europe - living in paris",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2008-11",
+        "start_date": "2008-05",
+        "title": {
+          "name": "director of field medical, virology, europe - living in paris",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2008-04",
+        "start_date": "2006-11",
+        "title": {
+          "name": "european manager of msls for viral hepatitis - living in paris",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2006-11",
+        "start_date": "2004-12",
+        "title": {
+          "name": "european medical lead, hiv - living in paris",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2004-12",
+        "start_date": "2003-04",
+        "title": {
+          "name": "scientific advisor virology and immunology - living nr london",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2003-04",
+        "start_date": "2001-07",
+        "title": {
+          "name": "product manager, virology marketing - living nr london",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2001-07",
+        "start_date": "1997-04",
+        "title": {
+          "name": "principal clinical research scientist - living nr london",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "columbia business school",
+          "type": "post-secondary institution",
+          "id": "ZBL--HOSroyYew7MedoZAg_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/columbia-business-school",
+          "facebook_url": "facebook.com/columbia",
+          "twitter_url": "twitter.com/columbia",
+          "linkedin_id": "2625",
+          "website": "business.columbia.edu",
+          "domain": "columbia.edu"
+        },
+        "degrees": [],
+        "start_date": "2012",
+        "end_date": "2012",
+        "majors": [
+          "finance"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of reading",
+          "type": "post-secondary institution",
+          "id": "FdSWx0dXDH5Qvc1CK-5Vdg_0000",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-reading",
+          "facebook_url": "facebook.com/theuniversityofreading",
+          "twitter_url": "twitter.com/uniofreading",
+          "linkedin_id": "9376",
+          "website": "reading.ac.uk",
+          "domain": "reading.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1993",
+        "end_date": "1996",
+        "majors": [
+          "virology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "prifysgol aberystwyth university",
+          "type": "post-secondary institution",
+          "id": "4ePkt9AnvngLz6KV4iP6Nw_0000",
+          "location": {
+            "name": "aberystwyth, wales, united kingdom",
+            "locality": "aberystwyth",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/aberystwyth-university",
+          "facebook_url": "facebook.com/aberystwyth.university",
+          "twitter_url": "twitter.com/aberuni",
+          "linkedin_id": "24238",
+          "website": "aber.ac.uk",
+          "domain": "aber.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1990",
+        "end_date": "1993",
+        "majors": [
+          "biochemistry"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "organizational leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "5375221",
+        "url": "linkedin.com/in/adamjonesphd",
+        "username": "adamjonesphd"
+      },
+      {
+        "network": "linkedin",
+        "id": "5375221",
+        "url": "linkedin.com/in/adam-jones-phd-7b19721",
+        "username": "adam-jones-phd-7b19721"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

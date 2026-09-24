@@ -1,0 +1,163 @@
+{
+  "record_id": "speaker-dubrovnik-078",
+  "speaker_name": "Sebastian Walpen",
+  "linkedin_url": "https://www.linkedin.com/in/sebastian-walpen/",
+  "likelihood": 9,
+  "full_name": "sebastian walpen",
+  "job_title": "director, global congress strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "gsk",
+  "current_company_website": "gsk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "biopharmaceuticals",
+    "biotechnology",
+    "building organizational capability",
+    "business planning",
+    "change management",
+    "clinical development",
+    "clinical research",
+    "clinical trials",
+    "collaboration in healthcare",
+    "cross functional coordination",
+    "cross functional team leadership",
+    "data analysis",
+    "data driven decision making",
+    "global initiatives",
+    "kol management",
+    "kpi reporting",
+    "leadership",
+    "life sciences",
+    "medical affairs",
+    "medical communications",
+    "medical compliance",
+    "medical education",
+    "medical information",
+    "medical information systems",
+    "medical training",
+    "operational excellence",
+    "operational transformation",
+    "organizational strategy",
+    "people management",
+    "pharmaceutical industry",
+    "phase iv",
+    "product launch",
+    "program management",
+    "project management",
+    "publication planning",
+    "reporting metrics",
+    "research and development",
+    "strategic consulting",
+    "strategic planning",
+    "strategic thinking",
+    "strategic transformation",
+    "strategy",
+    "team leadership"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director, global congress strategy",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head medical communication & field medical excellence",
+      "company": "csl vifor",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-10",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "global head medical information",
+      "company": "csl vifor",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": "2023-10",
+      "is_primary": false
+    },
+    {
+      "title": "global medical affairs director",
+      "company": "csl vifor",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-02",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "regional medical communications lead",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2009-05",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "regional medical communications manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2006-11",
+      "end_date": "2009-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical services manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-05",
+      "end_date": "2006-10",
+      "is_primary": false
+    },
+    {
+      "title": "clinical research associate",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-08",
+      "end_date": "2004-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "goethe university frankfurt",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1998-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "johann wolfgang goethe - universität frankfurt am main",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1998-01-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "university of basel",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "1992-01-01",
+      "end_date": "1997-12"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "event_name": "Medical",
+  "sold_out_claim": "Exhibition is always Sold Out!",
+  "stats": [
+    "Unique Agenda",
+    "10 Booths",
+    "Max 35% of attendees are sponsors",
+    "16+ hours of networking"
+  ],
+  "sponsors": [
+    {
+      "organization_name": "Exeevo",
+      "sponsorship_tier": "Gold",
+      "description": "Exeevo is a global cloud solutions provider for life sciences companies to improve how they interact with customers across their organization to provide exceptional experiences that drive commercial objectives and improve patients’ lives.",
+      "website_url": "https://exeevo.com/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2025/03/exeevo.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Resonant Group",
+      "sponsorship_tier": "Gold",
+      "description": "Resonant Group is an award-winning group of agencies driven by the same core values and a common belief that lives can be transformed through better health communication. Resonant Group companies, Anthem, Bedrock, and Origins, provide strategic and operational support for medical communication, healthcare communications and patient engagement.",
+      "website_url": "https://resonantgrp.com/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/resonant-1.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Fusion ScientifIQ",
+      "sponsorship_tier": "Silver",
+      "description": "The AI-native medical communications company transforming how pharmaceutical and life sciences teams generate and act on intelligence. We combine decades of Med Affairs expertise with proprietary AI platforms built entirely in-house, not generic models retrofitted for Pharma. Our IQ ecosystem (congressIQ, signalIQ, kolIQ) powers everything from real-time congress intelligence to stakeholder engagement and sentiment tracking, ensuring every piece of content and every activity is grounded in evidence. From strategic support to content development and delivery, we help Med Affairs teams achieve impact they can defend - not just vanity metrics. Rooted in Science. Amplified by AI. Engineered for Impact.",
+      "website_url": "https://www.fusionscientific.io/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/web-sponzori_medical.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "One MSL",
+      "sponsorship_tier": "Silver",
+      "description": "One MSL is a specialist training provider and consultancy with a core focus on driving standards of Field Medical excellence across the modern world of pharma through: -Development of competency frameworks -Online capability needs assessments -Provision of digital training resources -Delivery of virtual and live trainings -Webinars and podcasts Everything we do is driven by a desire to maximise the impact and value of Field Medical and the wider Medical Affairs function to support the achievement of strategic medical objectives. One MSL has been built on a heritage of Medical Affairs experience. We are recognised for our thought leadership and deep connections within the global Field Medical community.",
+      "website_url": "https://onemsl.com/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/one-msl.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Sorcero",
+      "sponsorship_tier": "Silver",
+      "description": "Sorcero's medical AI platform transforms life sciences decision-making, accelerating patient access to life-saving treatments. By harnessing insights from global medical data, we empower industry leaders to deliver breakthrough therapies. Founded in 2018 by pioneers in AI, public health, and personalized content, Sorcero is a Certified B Corp headquartered in Washington, DC. Our innovation has been recognized by over a dozen awards, including Fast Company's Most Innovative companies of 2024, and six foundational medical AI patents.",
+      "website_url": "http://www.sorcero.com.",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/sorcero.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Xpeer",
+      "sponsorship_tier": "Silver",
+      "description": "Xpeer is an innovative platform that helps pharmaceutical companies and healthcare organizations engage effectively with healthcare professionals. It offers UEMS-accredited courses tailored to HCPs, supporting their professional development. Beyond online medical education, Xpeer provides advanced solutions, including personalized marketing strategies, data-driven insights, event management, and optimized content delivery to enhance communication and engagement. With tools to improve digital campaigns and track performance, Xpeer enables pharma companies to achieve measurable results. Trusted by leading brands, Xpeer integrates education, technology, and strategic expertise to foster meaningful connections and drive success in the healthcare industry.",
+      "website_url": "https://xpeer.app/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/xpeer.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Rumi",
+      "sponsorship_tier": "EXHIBITOR",
+      "description": "When it comes to harnessing the power of GenAI – it’s the quality of your inputs that matter the most. Meet Rumi, the expert digital facilitator with a human-centred core designed to amplify meaningful stakeholder contributions across the spectrum of online activities (from advisory boards to document co-creation). Rumi welcomes your experts into intuitive and interactive 'rooms' where they're encouraged to ruminate and engage more thoroughly, revealing higher quality insights, with less effort. Avoid GenAI “GIGO”, book a demo with Rumi - and unlock the best minds globally.",
+      "website_url": "https://rumi.live/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/rumi.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Semalytix",
+      "sponsorship_tier": "EXHIBITOR",
+      "description": "Semalytix is the world's largest & only GDPR-compliant Patient Experience dataset covering 30+ indications and is tailored for Medical Affairs & Commercial use cases. Combined with our proprietary AI, PatientGPT delivers Qual. & Quant. insights within 30 seconds for your target patient population based on real patient experiences.",
+      "website_url": "http://www.semalytix.com",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/semltyx.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "SciencePOD",
+      "sponsorship_tier": "Media partners",
+      "description": "SciencePOD is specialises in creating digital content specifically designed to engage HCPs. We deliver clear, concise and compelling summarised highlights of medical and scientific content in text, infographic, podcast, video and AI-summary formats. Our content creation platform hosts a global community of over 600 medical and science writing professionals.",
+      "website_url": "https://sciencepod.net/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/science.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "MYMA",
+      "sponsorship_tier": "Media partners",
+      "description": "My Medical Affairs (MyMA)provides you with one central place to keep up to date with all the upcoming events relevant to your medical affairs interests, from a plethora of organizations around the globe. Additionally, you can access on-demand content. MyMA curates the content relevant to your individual preferences, or you can search for events/content by keyword, topic, organization or author. Monthly email notifications will keep you on top of everything happening that month, and there is also a solution provider directory.",
+      "website_url": "https://mymedicalaffairs.com/welcome/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/myma.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    },
+    {
+      "organization_name": "Cairo",
+      "sponsorship_tier": "Media partners",
+      "description": "CAIRO is a AI governance platform that helps pharma teams monitor, govern and control how drugs are represented by AI systems and put proper oversight around those interactions. Visit eval.cairoplatform.com for a free evaluation of how your brand is currently represented by the largest AI providers (ChatGPT, Gemini, Grok and Claude).",
+      "website_url": "https://eval.cairoplatform.com/",
+      "logo_url": "https://nextpharmasummit.com/Medical/wp-content/uploads/2026/06/cairo.jpg",
+      "event_name": "Medical",
+      "source_urls": [
+        "https://nextpharmasummit.com/Medical/sponsors/"
+      ],
+      "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+    }
+  ],
+  "source_urls": [
+    "https://nextpharmasummit.com/Medical/sponsors/"
+  ],
+  "scraped_at": "2026-09-15T10:14:54.237258+00:00"
+}

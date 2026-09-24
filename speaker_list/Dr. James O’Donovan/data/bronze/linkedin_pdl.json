@@ -1,0 +1,842 @@
+{
+  "record_id": "speaker-dubrovnik-069",
+  "speaker_name": "Dr. James O’Donovan",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/doctorodonovan/",
+  "scraped_at": "2026-09-18T09:37:31.662664+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "FzYbS-BtU6NqB5wcV0v7FQ_0000",
+    "full_name": "james o'donovan",
+    "first_name": "james",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "o",
+    "last_name": "o'donovan",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/doctorodonovan",
+    "linkedin_username": "doctorodonovan",
+    "linkedin_id": "682090679",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "government administration",
+    "job_title": "director of research, digital innovation and ai",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "sduGkuPc2EAq1U5XSoAPGwStYeus",
+    "job_company_name": "community health impact coalition",
+    "job_company_website": "chwimpact.org",
+    "job_company_size": "1-10",
+    "job_company_founded": 2019,
+    "job_company_industry": "non-profit organization management",
+    "job_company_industry_v2": "non-profit organizations",
+    "job_company_linkedin_url": "linkedin.com/company/community-health-impact-coalition",
+    "job_company_linkedin_id": "18548284",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "berlin, germany",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": "berlin",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-19",
+    "job_last_verified": "2026-08-12",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-02-27",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "academic publishing",
+      "academic writing",
+      "artificial intelligence",
+      "brand awareness",
+      "brand management",
+      "business analysis",
+      "business case development",
+      "business development",
+      "business strategy",
+      "change communications",
+      "clinical research",
+      "clinical skills",
+      "coalition development",
+      "collaborative problem solving",
+      "communication",
+      "complex project management",
+      "content strategy",
+      "cross functional team leadership",
+      "cross team collaboration",
+      "curriculum development",
+      "curriculum mapping",
+      "decision making",
+      "digital health",
+      "digital product development",
+      "direct patient care",
+      "early stage ventures",
+      "education",
+      "educational leadership",
+      "executive management",
+      "global health",
+      "graduate medical education",
+      "grant writing",
+      "graphic design",
+      "health economics",
+      "health promotion",
+      "healthcare",
+      "influencing others",
+      "innovation management",
+      "integrated business planning",
+      "interdisciplinary care",
+      "interdisciplinary collaboration",
+      "international relations",
+      "interpersonal communication",
+      "large language models",
+      "leadership",
+      "management",
+      "marketing strategy",
+      "medical device r&d",
+      "medical devices",
+      "medical education",
+      "medical terminology",
+      "medicine",
+      "negotiation",
+      "networking",
+      "non profit management",
+      "organizational behavior",
+      "organizational culture",
+      "patient assessment",
+      "patient safety",
+      "policy analysis",
+      "presentation skills",
+      "presentations",
+      "product design",
+      "product development",
+      "program design",
+      "project management",
+      "psychiatric care",
+      "public health",
+      "public health education",
+      "publication planning",
+      "publishing",
+      "qualitative research",
+      "quality improvement",
+      "quality patient care",
+      "quantitative research",
+      "research",
+      "research skills",
+      "scientific writing",
+      "scripting",
+      "social sciences",
+      "stakeholder management",
+      "start up ventures",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic policy development",
+      "strategy",
+      "strategy implementation",
+      "team alignment",
+      "team building",
+      "team leadership",
+      "teamwork",
+      "technical advisory",
+      "time management",
+      "video editing",
+      "video post production",
+      "video production"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "community health impact coalition",
+          "size": "1-10",
+          "id": "sduGkuPc2EAq1U5XSoAPGwStYeus",
+          "founded": 2019,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "berlin, germany",
+            "locality": null,
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/community-health-impact-coalition",
+          "linkedin_id": "18548284",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chwimpact.org"
+        },
+        "location_names": [
+          "seattle, washington, united states"
+        ],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "director of research, digital innovation and ai",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "icahn school of medicine at mount sinai",
+          "size": "1001-5000",
+          "id": "Qyc0usDBwCFU9E7dGrkPLAuptnS9",
+          "founded": 1963,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10029",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/school/icahnmountsinai",
+          "linkedin_id": "6154",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mssm.edu"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "clinical assistant professor",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "world health organization",
+          "size": "5001-10000",
+          "id": "4veSQQRYlr5tG5WxtnHmegOfBTpM",
+          "founded": 1948,
+          "industry": "international affairs",
+          "industry_v2": "international affairs",
+          "location": {
+            "name": "genève 2, geneva, switzerland",
+            "locality": "genève 2",
+            "region": "geneva",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "20 avenue appia geneva",
+            "address_line_2": null,
+            "postal_code": "1211",
+            "geo": "46.20,6.14"
+          },
+          "linkedin_url": "linkedin.com/company/world-health-organization",
+          "linkedin_id": "5350",
+          "facebook_url": "facebook.com/who",
+          "twitter_url": "twitter.com/who",
+          "website": "who.int"
+        },
+        "location_names": [
+          "geneva, geneva, switzerland"
+        ],
+        "end_date": "2025-08",
+        "start_date": "2023-06",
+        "title": {
+          "name": "technical advisory group member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cumbria, northumberland, tyne and wear nhs foundation trust",
+          "size": "5001-10000",
+          "id": "DsTLpnCd0AGQufA5L8xRnQibt3Sk",
+          "founded": 2009,
+          "industry": "mental health care",
+          "industry_v2": "mental health care",
+          "location": {
+            "name": "newcastle upon tyne, england, united kingdom",
+            "locality": "newcastle upon tyne",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ne3 3xt",
+            "geo": "54.97,-1.60"
+          },
+          "linkedin_url": "linkedin.com/company/cntw",
+          "linkedin_id": "36117839",
+          "facebook_url": "facebook.com/cntwnhs",
+          "twitter_url": "twitter.com/cntwnhs",
+          "website": "cntw.nhs.uk"
+        },
+        "location_names": [
+          "newcastle, england, united kingdom"
+        ],
+        "end_date": "2026-03",
+        "start_date": "2023-02",
+        "title": {
+          "name": "memory assessment service doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "community health impact coalition",
+          "size": "1-10",
+          "id": "sduGkuPc2EAq1U5XSoAPGwStYeus",
+          "founded": 2019,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "berlin, germany",
+            "locality": null,
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/community-health-impact-coalition",
+          "linkedin_id": "18548284",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "chwimpact.org"
+        },
+        "location_names": [
+          "seattle, washington, united states"
+        ],
+        "end_date": "2026-01",
+        "start_date": "2023-02",
+        "title": {
+          "name": "director of research",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "northumbria healthcare nhs foundation trust",
+          "size": "5001-10000",
+          "id": "OVoBBDrfDiAysOj9eq2YtQb7hhsQ",
+          "founded": 2006,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "tynemouth, england, united kingdom",
+            "locality": "tynemouth",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ne29 8nh",
+            "geo": "55.00,-1.45"
+          },
+          "linkedin_url": "linkedin.com/company/northumbria-healthcare-trust",
+          "linkedin_id": "306510",
+          "facebook_url": "facebook.com/thenorthumbria",
+          "twitter_url": "twitter.com/northumbrianhs",
+          "website": "northumbria.nhs.uk"
+        },
+        "location_names": [
+          "newcastle, england, united kingdom"
+        ],
+        "end_date": "2023-01",
+        "start_date": "2021-01",
+        "title": {
+          "name": "general practice speciality registrar",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "imperial college london",
+          "size": "5001-10000",
+          "id": "OmpBTo5Gfr687bgvnwM2nQa3ySHS",
+          "founded": 1907,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sw7 2az",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "linkedin_id": "5106",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "website": "imperial.ac.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-12",
+        "start_date": "2019-12",
+        "title": {
+          "name": "tutor",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "leeds teaching hospitals nhs trust",
+          "size": "10001+",
+          "id": "3CwGgbI41XjPK65kOOHnQwi3WI65",
+          "founded": 1948,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "leeds, england, united kingdom",
+            "locality": "leeds",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ls9 7tf",
+            "geo": "53.72,-1.69"
+          },
+          "linkedin_url": "linkedin.com/company/leeds-teaching-hospitals-nhs-trust",
+          "linkedin_id": "338697",
+          "facebook_url": "facebook.com/leedsthtrust",
+          "twitter_url": "twitter.com/lthtrust",
+          "website": "leedsth.nhs.uk"
+        },
+        "location_names": [
+          "leeds, england, united kingdom"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2019-04",
+        "title": {
+          "name": "senior house officer - emergency medicine",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omni med uganda",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2020-08",
+        "start_date": "2017-08",
+        "title": {
+          "name": "director of research and evaluation",
+          "class": "services",
+          "role": "public_service",
+          "sub_role": "political",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of cambridge",
+          "size": "10001+",
+          "id": "BiMOYaD2wA9nyZdTaH4nQAL4zB2S",
+          "founded": 1209,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cb2 1tn",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cambridge",
+          "linkedin_id": "4522",
+          "facebook_url": "facebook.com/cambridge.university",
+          "twitter_url": "twitter.com/cambridge_uni",
+          "website": "cam.ac.uk"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2016-09",
+        "title": {
+          "name": "clinical tutor",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doctor o'donovan medical education limited",
+          "size": "1-10",
+          "id": "KIcTYgulcDpq8oeHIFpBtA7KFS38",
+          "founded": 2022,
+          "industry": "government administration",
+          "industry_v2": "public health",
+          "location": {
+            "name": "newcastle, england, united kingdom",
+            "locality": "newcastle",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.7,-2.35"
+          },
+          "linkedin_url": "linkedin.com/company/doctor-o-donovan-medical-education-limited",
+          "linkedin_id": "101859627",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "doctorodonovan.com"
+        },
+        "location_names": [],
+        "end_date": "2026-05",
+        "start_date": "2014-06",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ucl",
+          "type": "post-secondary institution",
+          "id": "G9NsmugT8wQ2Ouasf0gGjg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-college-london",
+          "facebook_url": "facebook.com/uclofficial",
+          "twitter_url": "twitter.com/ucl",
+          "linkedin_id": "4171",
+          "website": "ucl.ac.uk",
+          "domain": "ucl.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2023-10",
+        "end_date": "2025-08",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "stanford university",
+          "type": "post-secondary institution",
+          "id": "BSM1IysRhkmGuy-iD6OHSA_0000",
+          "location": {
+            "name": "stanford, california, united states",
+            "locality": "stanford",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/stanford-university",
+          "facebook_url": "facebook.com/stanford",
+          "twitter_url": "twitter.com/stanford",
+          "linkedin_id": "1792",
+          "website": "stanford.edu",
+          "domain": "stanford.edu"
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of oxford",
+          "type": "post-secondary institution",
+          "id": "0DqFeiO1KFc2xNVeC7BnyA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxforduni",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4477",
+          "website": "ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2017-08",
+        "end_date": "2021",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard university",
+          "type": "post-secondary institution",
+          "id": "5Ic6qaBcxe2DlWHRIVFnZg_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-university",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1646",
+          "website": "harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2013-09",
+        "end_date": "2014",
+        "majors": [
+          "global health"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard university",
+          "type": "post-secondary institution",
+          "id": "5Ic6qaBcxe2DlWHRIVFnZg_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-university",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1646",
+          "website": "harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2014-12",
+        "majors": [
+          "global health"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "newcastle university",
+          "type": "post-secondary institution",
+          "id": "R4HWWV3eBlV1a0WByLadLg_0000",
+          "location": {
+            "name": "newcastle upon tyne, england, united kingdom",
+            "locality": "newcastle upon tyne",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/newcastle-university",
+          "facebook_url": "facebook.com/newcastleuniversity",
+          "twitter_url": "twitter.com/studentsncl",
+          "linkedin_id": "165179",
+          "website": "ncl.ac.uk",
+          "domain": "ncl.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "newcastle university",
+          "type": "post-secondary institution",
+          "id": "R4HWWV3eBlV1a0WByLadLg_0000",
+          "location": {
+            "name": "newcastle upon tyne, england, united kingdom",
+            "locality": "newcastle upon tyne",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/newcastle-university",
+          "facebook_url": "facebook.com/newcastleuniversity",
+          "twitter_url": "twitter.com/studentsncl",
+          "linkedin_id": "165179",
+          "website": "ncl.ac.uk",
+          "domain": "ncl.ac.uk"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelors"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2015",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "682090679",
+        "url": "linkedin.com/in/doctorodonovan",
+        "username": "doctorodonovan"
+      },
+      {
+        "network": "linkedin",
+        "id": "682090679",
+        "url": "linkedin.com/in/james-o-donovan-49b520170",
+        "username": "james-o-donovan-49b520170"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

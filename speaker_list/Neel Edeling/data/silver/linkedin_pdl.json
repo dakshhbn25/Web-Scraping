@@ -1,0 +1,201 @@
+{
+  "record_id": "speaker-viennacx-050",
+  "speaker_name": "Neel Edeling",
+  "linkedin_url": "https://www.linkedin.com/in/neel-edeling-951266/",
+  "likelihood": 9,
+  "full_name": "neel edeling",
+  "job_title": "senior ai manager, ai & compliance",
+  "industry": "pharmaceuticals",
+  "current_company": "leo pharma",
+  "current_company_website": "leo-pharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analysis",
+    "b2b",
+    "b2b marketing",
+    "business development",
+    "business process",
+    "business strategy",
+    "digital marketing",
+    "digital strategy",
+    "e commerce",
+    "entrepreneurship",
+    "intranet strategy",
+    "key account management",
+    "leadership",
+    "management",
+    "management consulting",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "online marketing",
+    "problem solving",
+    "product development",
+    "product management",
+    "project management",
+    "recruiting",
+    "sales",
+    "sales process",
+    "salesforce.com",
+    "selling",
+    "start ups",
+    "strategic planning",
+    "strategy",
+    "team building",
+    "veeva crm",
+    "veeva vault"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior ai manager, ai & compliance",
+      "company": "leo pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior eu commercial it product manager / launch lead",
+      "company": "ascendis pharma",
+      "company_industry": "biotechnology",
+      "start_date": "2022-11",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "global veeva engagement, external",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, technology advisory",
+      "company": "ey",
+      "company_industry": "information technology and services",
+      "start_date": "2019-04",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "director of business development",
+      "company": "wipro",
+      "company_industry": "information technology and services",
+      "start_date": "2018-02",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "director, business development hbu",
+      "company": "wipro",
+      "company_industry": "information technology and services",
+      "start_date": "2018-01",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "client director, healthcare",
+      "company": "vertic",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-04",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "country manager",
+      "company": "avensia",
+      "company_industry": "information technology and services",
+      "start_date": "2015-02",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior director",
+      "company": "precision aq - international",
+      "company_industry": "management consulting",
+      "start_date": "2014-12",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "global pharma director",
+      "company": "valtech",
+      "company_industry": "information technology and services",
+      "start_date": "2013-06",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "engagement manager",
+      "company": "valtech",
+      "company_industry": "information technology and services",
+      "start_date": "2012-12",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of sales",
+      "company": "daman",
+      "company_industry": "information technology and services",
+      "start_date": "2012-03",
+      "end_date": "2012-12",
+      "is_primary": false
+    },
+    {
+      "title": "director of sales",
+      "company": "visitdenmark",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "2006",
+      "end_date": "2008",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "intramed a/s",
+      "company_industry": "computer software",
+      "start_date": "2006-10",
+      "end_date": "2011-08",
+      "is_primary": false
+    },
+    {
+      "title": "vice president business development",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2003-10",
+      "end_date": "2006-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "copenhagen business school",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011-12"
+    },
+    {
+      "school": "the new school",
+      "majors": [
+        "design"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2003"
+    }
+  ]
+}

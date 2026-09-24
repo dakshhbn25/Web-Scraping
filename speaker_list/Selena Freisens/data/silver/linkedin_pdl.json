@@ -1,0 +1,137 @@
+{
+  "record_id": "speaker-medical-022",
+  "speaker_name": "Selena Freisens",
+  "linkedin_url": "https://www.linkedin.com/in/selena-freisens-md-92ab593/",
+  "likelihood": 9,
+  "full_name": "selena freisens",
+  "job_title": "head of global medical affairs",
+  "industry": "biotechnology",
+  "current_company": "merz therapeutics",
+  "current_company_website": "merztherapeutics.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "business acumen",
+    "creativity and innovation",
+    "cross cultural communication skills",
+    "cross functional collaborations",
+    "global strategy",
+    "leadership",
+    "medical affairs",
+    "medical education",
+    "people management",
+    "problem solving",
+    "strategic thinking",
+    "team leadership",
+    "teamwork"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of global medical affairs",
+      "company": "merz therapeutics",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of medical affairs",
+      "company": "purpose pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": "2025-02",
+      "is_primary": false
+    },
+    {
+      "title": "global head, medical affairs, global rare diseases",
+      "company": "chiesi group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-10",
+      "end_date": "2023-11",
+      "is_primary": false
+    },
+    {
+      "title": "head, rare neuronopathic diseases, global medical affairs, sanofi genzyme",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "head of rare haematology / global medical director, global medical affairs, sanofi genzyme",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "medical director emea region, sanofi genzyme",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-11",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior european registry & medical access programs lead, genzyme",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-08",
+      "end_date": "2010-11",
+      "is_primary": false
+    },
+    {
+      "title": "marketing lead central and eastern europe, genzyme",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-04",
+      "end_date": "2005-08",
+      "is_primary": false
+    },
+    {
+      "title": "client service",
+      "company": "bates",
+      "company_industry": "marketing and advertising",
+      "start_date": "1999-07",
+      "end_date": "2001-04",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager otc",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1996",
+      "end_date": "1999-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "harvard business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "sechenov university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1993",
+      "end_date": "1996"
+    },
+    {
+      "school": "university of belgrade",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1985",
+      "end_date": "1990"
+    }
+  ]
+}

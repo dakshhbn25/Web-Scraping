@@ -1,0 +1,590 @@
+{
+  "record_id": "speaker-dubrovnik-060",
+  "speaker_name": "Giorgio Mazzoleni",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/giorgiomazzoleniphd/",
+  "scraped_at": "2026-09-18T09:37:12.886743+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Q-kQNWTMqlxPX1ErPAMSxQ_0000",
+    "full_name": "giorgio mazzoleni",
+    "first_name": "giorgio",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "mazzoleni",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/giorgiomazzoleniphd",
+    "linkedin_username": "giorgiomazzoleniphd",
+    "linkedin_id": "77055381",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of global medical digital",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "7ssbBRTXqnBKpZJG7HJpOgZ9vrri",
+    "job_company_name": "viiv healthcare",
+    "job_company_website": "viivhealthcare.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2009,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/viiv-healthcare",
+    "job_company_linkedin_id": "612511",
+    "job_company_facebook_url": "facebook.com/viivhealthcare",
+    "job_company_twitter_url": "twitter.com/viivus",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "tw8 9gs",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2022-08-23",
+    "job_last_verified": "2026-08-14",
+    "job_start_date": "2022-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-14",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytics",
+      "artificial intelligence",
+      "assay development",
+      "biochemistry",
+      "bioinformatics",
+      "biotechnology",
+      "business development",
+      "business process management",
+      "business strategy",
+      "cell culture",
+      "change management",
+      "chromatography",
+      "commercialization",
+      "continuous process improvement",
+      "corporate governance",
+      "corporate relocation",
+      "customer engagement",
+      "customer insights",
+      "data analytics",
+      "digital healthcare",
+      "digital strategy",
+      "digital transformation",
+      "early stage startups",
+      "flow cytometry",
+      "fundraising",
+      "generative ai for leadership",
+      "generative ai for management",
+      "immunoassays",
+      "immunology",
+      "in vitro",
+      "large scale business transformation",
+      "leadership",
+      "life sciences",
+      "management",
+      "marketing",
+      "marketing communications",
+      "medical affairs",
+      "medical compliance",
+      "medical devices",
+      "medical governance",
+      "microarray",
+      "molecular biology",
+      "operational risk management",
+      "operations management",
+      "pcr",
+      "personalised medicine",
+      "pharmaceutical industry",
+      "product development",
+      "product management",
+      "project governance",
+      "project management",
+      "protein expression",
+      "protein purification",
+      "proteomics",
+      "purchasing negotiation",
+      "purification",
+      "r&d",
+      "research",
+      "resource management",
+      "strategy",
+      "supplier management",
+      "team leadership",
+      "technology transfer",
+      "virtual teams",
+      "western blotting"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "viiv healthcare",
+          "size": "501-1000",
+          "id": "7ssbBRTXqnBKpZJG7HJpOgZ9vrri",
+          "founded": 2009,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "tw8 9gs",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/viiv-healthcare",
+          "linkedin_id": "612511",
+          "facebook_url": "facebook.com/viivhealthcare",
+          "twitter_url": "twitter.com/viivus",
+          "website": "viivhealthcare.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2022-08",
+        "title": {
+          "name": "head of global medical digital",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-08",
+        "start_date": "2018-03",
+        "title": {
+          "name": "global medical insights lead, director | development, global medical",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2017-02",
+        "title": {
+          "name": "medical affairs operations and governance manager - global medical affairs, rare diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-02",
+        "start_date": "2016-03",
+        "title": {
+          "name": "medical project coordinator - global medical affairs, rare diseases",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "microtest diagnostics limited",
+          "size": "1-10",
+          "id": "kwmUir7v307TlrI8LP2KBAob6yNY",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "bromsberrow, england, united kingdom",
+            "locality": "bromsberrow",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "hr8 1rz",
+            "geo": "51.99,-2.37"
+          },
+          "linkedin_url": "linkedin.com/company/microtest-diagnostics-limited",
+          "linkedin_id": "20192086",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-03",
+        "start_date": "2011-08",
+        "title": {
+          "name": "operations & product manager microtest diagnostics (imperial college spin-out)",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "px'therapeutics",
+          "size": "11-50",
+          "id": "LUl9QKF6U9rosrmM4nBGBQGyKTsH",
+          "founded": 2000,
+          "industry": "biotechnology",
+          "industry_v2": null,
+          "location": {
+            "name": "grenoble, auvergne-rhône-alpes, france",
+            "locality": "grenoble",
+            "region": "auvergne-rhône-alpes",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.17,5.71"
+          },
+          "linkedin_url": "linkedin.com/company/px'therapeutics-sa-grenoble-lyon-france",
+          "linkedin_id": "886200",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/px_therapeutics",
+          "website": "px-therapeutics.com"
+        },
+        "location_names": [
+          "grenoble, auvergne-rhône-alpes, france"
+        ],
+        "end_date": "2009-09",
+        "start_date": "2009-04",
+        "title": {
+          "name": "researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "università degli studi di perugia",
+          "size": "1001-5000",
+          "id": "ud96Hk1AhYBKuP1aN5ieQgCd8uu6",
+          "founded": 1308,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "perugia, umbria, italy",
+            "locality": "perugia",
+            "region": "umbria",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "1 p.zza università",
+            "address_line_2": null,
+            "postal_code": "06123",
+            "geo": "43.11,12.38"
+          },
+          "linkedin_url": "linkedin.com/school/universit-degli-studi-di-perugia",
+          "linkedin_id": "2052604",
+          "facebook_url": "facebook.com/universitaperugia",
+          "twitter_url": null,
+          "website": "unipg.it"
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2007-07",
+        "title": {
+          "name": "researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "imperial college london",
+          "size": "5001-10000",
+          "id": "OmpBTo5Gfr687bgvnwM2nQa3ySHS",
+          "founded": 1907,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sw7 2az",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "linkedin_id": "5106",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "website": "imperial.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2006-09",
+        "start_date": "2004-11",
+        "title": {
+          "name": "research assistant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "imperial college london",
+          "type": "post-secondary institution",
+          "id": "Fz8Pa7Dul89QmPc-6UAp1A_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "5106",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2011",
+        "majors": [
+          "immunology",
+          "molecular biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imperial college london",
+          "type": "post-secondary institution",
+          "id": "Fz8Pa7Dul89QmPc-6UAp1A_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "5106",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2007",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università degli studi di perugia",
+          "type": "post-secondary institution",
+          "id": "H1SNjoN3qQMOdpZGrgonXQ_0000",
+          "location": {
+            "name": "perugia, umbria, italy",
+            "locality": "perugia",
+            "region": "umbria",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universit-degli-studi-di-perugia",
+          "facebook_url": "facebook.com/universitaperugia",
+          "twitter_url": "twitter.com/uniperugianews",
+          "linkedin_id": "2052604",
+          "website": "unipg.it",
+          "domain": "unipg.it"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2004",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "77055381",
+        "url": "linkedin.com/in/giorgiomazzoleniphd",
+        "username": "giorgiomazzoleniphd"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/giorgio-mazzoleni-29998021",
+        "username": "giorgio-mazzoleni-29998021"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

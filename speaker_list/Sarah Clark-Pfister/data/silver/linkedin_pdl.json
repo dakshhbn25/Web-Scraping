@@ -1,0 +1,169 @@
+{
+  "record_id": "speaker-dubrovnik-061",
+  "speaker_name": "Sarah Clark-Pfister",
+  "linkedin_url": "https://www.linkedin.com/in/sarah-clark-731a3718/",
+  "likelihood": 9,
+  "full_name": "sarah clark",
+  "job_title": "head of medical excellence and strategic scientific communication, rare disease",
+  "industry": "pharmaceuticals",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "clinical pharmacology",
+    "clinical research",
+    "coaching",
+    "community pharmacy",
+    "compounding",
+    "constructive feedback",
+    "diabetes",
+    "ethics",
+    "hematology",
+    "kol development",
+    "medical affairs",
+    "medication therapy management",
+    "medicine",
+    "oncology",
+    "patient counseling",
+    "pharmaceutical industry",
+    "pharmacists",
+    "pharmacology",
+    "pharmacovigilance",
+    "pharmacy",
+    "pharmacy automation",
+    "pharmacy benefit management",
+    "process improvement",
+    "regulatory affairs"
+  ],
+  "interests": [
+    "live music",
+    "sailing",
+    "squash",
+    "tennis"
+  ],
+  "experience": [
+    {
+      "title": "head of medical excellence and strategic scientific communication, rare disease",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of medical affairs and operations",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2021-06",
+      "end_date": "2024-01",
+      "is_primary": false
+    },
+    {
+      "title": "field medical strategy & execution lead, europe & canada",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2019-01",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "medical director, europe and canada",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2017-03",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "rare disease medical manager anz",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2016-11",
+      "end_date": "2017-03",
+      "is_primary": false
+    },
+    {
+      "title": "rare disease medical liaison anz",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2014-09",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "medical science associate",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-07",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacist",
+      "company": "north shore private hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2009-01",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacy assistant",
+      "company": "adore pharmacy",
+      "company_industry": null,
+      "start_date": "2008-01",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "sailing coach",
+      "company": "my sailing coach",
+      "company_industry": null,
+      "start_date": "2006-01",
+      "end_date": "2008-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of st.gallen",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2018-01",
+      "end_date": "2020-01"
+    },
+    {
+      "school": "unsw",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "university of sydney",
+      "majors": [],
+      "degrees": [
+        "bachelor of pharmacy",
+        "bachelors"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "ascham school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

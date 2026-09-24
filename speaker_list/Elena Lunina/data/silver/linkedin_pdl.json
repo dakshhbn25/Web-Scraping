@@ -1,0 +1,168 @@
+{
+  "record_id": "speaker-dubrovnik-012",
+  "speaker_name": "Elena Lunina",
+  "linkedin_url": "https://www.linkedin.com/in/elenalunina/",
+  "likelihood": 9,
+  "full_name": "elena lunina",
+  "job_title": "global medical scientific communication & engagement head",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united states",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "ai integration in medical operations",
+    "cardiology",
+    "change management",
+    "cross functional collaborations",
+    "data driven decision making",
+    "digital health innovation",
+    "epidemiology",
+    "evidence generation and real world evidence",
+    "internal medicine",
+    "leading transformational change",
+    "medical affairs leadership",
+    "medical communications strategy",
+    "medical insights and analytics",
+    "omnichannel medical engagement",
+    "portfolio management",
+    "presentation skills",
+    "public health",
+    "research",
+    "scientific writing",
+    "spss",
+    "stakeholder management",
+    "strategic resource allocation"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global medical scientific communication & engagement head",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global medical omnichannel head, vaccines",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical head general medicines, eurasia mco, eurasia medical lead",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "medical head eurasia mco general medicines bu",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-05",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical affairs, diabetes and cardiovacsular",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-01",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical manager",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-12",
+      "end_date": "2016-12",
+      "is_primary": false
+    },
+    {
+      "title": "scientific advisor",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-06",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "lecturer",
+      "company": "tver state medical academy",
+      "company_industry": "medical practice",
+      "start_date": "1999-10",
+      "end_date": "2012-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "vienna school of clinical research and european forum alpbach, austria",
+      "majors": [
+        "health care"
+      ],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "ethio hopkins alumni association(ehaa)",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2009",
+      "end_date": "2009"
+    },
+    {
+      "school": "tver state medical university",
+      "majors": [
+        "philosophy"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "braun hebrew university - hadassah school of public health and community medicine, jerusalem, israel",
+      "majors": [],
+      "degrees": [
+        "master of public health",
+        "masters"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "tver state medical university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-01",
+      "end_date": "1999"
+    },
+    {
+      "school": "tver state medical university",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1991-01",
+      "end_date": "1997-12"
+    }
+  ]
+}

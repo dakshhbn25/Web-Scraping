@@ -1,0 +1,851 @@
+{
+  "record_id": "speaker-viennacx-044",
+  "speaker_name": "Peter Egsgaard",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/peteregsgaard/",
+  "scraped_at": "2026-09-18T10:26:22.445362+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "46P7RdYxkmuSbL0ZJa2Rtw_0000",
+    "full_name": "peter egsgaard",
+    "first_name": "peter",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "egsgaard",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/peteregsgaard",
+    "linkedin_username": "peteregsgaard",
+    "linkedin_id": "2784435",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "global head of customer excellence & operations | rare disease",
+    "job_title_role": "operations",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+    "job_company_name": "biogen",
+    "job_company_website": "biogen.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1978,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/biogen-",
+    "job_company_linkedin_id": "3961",
+    "job_company_facebook_url": "facebook.com/biogen",
+    "job_company_twitter_url": "twitter.com/biogen",
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "225 binney street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02142",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-12-04",
+    "job_last_verified": "2026-08-04",
+    "job_start_date": "2023-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-04",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "accounting",
+      "balanced scorecard",
+      "biotechnology",
+      "budget management",
+      "budget process",
+      "business analysis",
+      "business development",
+      "business growth strategies",
+      "business intelligence",
+      "business planning",
+      "business process design",
+      "business process improvement",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "cross functional team leadership",
+      "customer relationship management",
+      "customer segmentation strategy",
+      "fast moving consumer goods",
+      "field force effectiveness",
+      "field force management",
+      "finance",
+      "financial accounting",
+      "financial analysis",
+      "financial reporting",
+      "forecasting",
+      "growth management",
+      "growth strategies",
+      "launch experience",
+      "launch products",
+      "launch strategies",
+      "management",
+      "market access",
+      "market analysis",
+      "marketing budget management",
+      "marketing strategy",
+      "offshoring",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "planning budgeting and forecasting",
+      "pricing strategy",
+      "product launch",
+      "project management",
+      "risk management",
+      "sales effectiveness",
+      "sales force alignment",
+      "shared service center",
+      "sourcing",
+      "strategic planning",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-12",
+        "title": {
+          "name": "global head of customer excellence & operations | rare disease",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2020-06",
+        "title": {
+          "name": "head of customer excellence & operations | europe, canada & partner markets",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2019-11",
+        "title": {
+          "name": "senior director | head of customer & market insights | europe, canada & partner markets | biogen",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2019-11",
+        "start_date": "2017-07",
+        "title": {
+          "name": "head of decision support for eu, canada and emerging markets",
+          "class": "services",
+          "role": "support",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2016-10",
+        "title": {
+          "name": "vice president - finance, business information & commercial excellence",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2016-10",
+        "start_date": "2008-11",
+        "title": {
+          "name": "director - finance & business information - region europe",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": "2008-11",
+        "start_date": "2008-03",
+        "title": {
+          "name": "manager business planning and execution",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": "2008-03",
+        "start_date": "2007-01",
+        "title": {
+          "name": "finance manager product supply",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2007-01",
+        "start_date": "2005-12",
+        "title": {
+          "name": "finance business partner to group chief financial officer / corporate business controller",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "accounting",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "colgate-palmolive",
+          "size": "10001+",
+          "id": "75321864NXfkrbFy1U3Zwg4axprO",
+          "founded": 1806,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 park avenue",
+            "address_line_2": null,
+            "postal_code": "10022",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/colgate-palmolive",
+          "linkedin_id": "2748",
+          "facebook_url": "facebook.com/colgate",
+          "twitter_url": "twitter.com/colgate",
+          "website": "colgatepalmolive.com"
+        },
+        "location_names": [],
+        "end_date": "2005-11",
+        "start_date": "2005-08",
+        "title": {
+          "name": "production site controller / project lead",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "accounting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "colgate-palmolive",
+          "size": "10001+",
+          "id": "75321864NXfkrbFy1U3Zwg4axprO",
+          "founded": 1806,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 park avenue",
+            "address_line_2": null,
+            "postal_code": "10022",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/colgate-palmolive",
+          "linkedin_id": "2748",
+          "facebook_url": "facebook.com/colgate",
+          "twitter_url": "twitter.com/colgate",
+          "website": "colgatepalmolive.com"
+        },
+        "location_names": [
+          "manchester, england, united kingdom"
+        ],
+        "end_date": "2005-08",
+        "start_date": "2005-01",
+        "title": {
+          "name": "finance manager - uk production site",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "colgate-palmolive",
+          "size": "10001+",
+          "id": "75321864NXfkrbFy1U3Zwg4axprO",
+          "founded": 1806,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 park avenue",
+            "address_line_2": null,
+            "postal_code": "10022",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/colgate-palmolive",
+          "linkedin_id": "2748",
+          "facebook_url": "facebook.com/colgate",
+          "twitter_url": "twitter.com/colgate",
+          "website": "colgatepalmolive.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2005-01",
+        "start_date": "2003-01",
+        "title": {
+          "name": "business analyst nordics",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit professional education",
+          "type": "post-secondary institution",
+          "id": "Vyk5dkeg77ysl6l1JHPtUA_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-professional-education",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "481634",
+          "website": "professional.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2023-10",
+        "end_date": "2023",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mit professional education",
+          "type": "post-secondary institution",
+          "id": "Vyk5dkeg77ysl6l1JHPtUA_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-professional-education",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "481634",
+          "website": "professional.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "babson college",
+          "type": "post-secondary institution",
+          "id": "n8ZDVEVHEclwWNthELOjaQ_0000",
+          "location": {
+            "name": "babson park, massachusetts, united states",
+            "locality": "babson park",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/babson-college",
+          "facebook_url": "facebook.com/babsoncollege",
+          "twitter_url": "twitter.com/babson",
+          "linkedin_id": "6716",
+          "website": "babson.edu",
+          "domain": "babson.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019",
+        "majors": [
+          "business management",
+          "leadership",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2013",
+        "majors": [
+          "education",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the be. leadership programme",
+          "type": "post-secondary institution",
+          "id": "f2aFz1b8NPMUP7xpBHTPyQ_0000",
+          "location": {
+            "name": "auckland, new zealand",
+            "locality": null,
+            "region": "auckland",
+            "country": "new zealand",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/the-be-leadership-programme",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "71650323",
+          "website": "belab.co.nz",
+          "domain": "belab.co.nz"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2013",
+        "majors": [
+          "business",
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2008",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "aarhus university",
+          "type": "post-secondary institution",
+          "id": "j0V2rYVBBEKnTuOnaDdXsw_0000",
+          "location": {
+            "name": "aarhus c, central jutland, denmark",
+            "locality": "aarhus c",
+            "region": "central jutland",
+            "country": "denmark",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/aarhus-university-denmark-",
+          "facebook_url": "facebook.com/uniaarhus",
+          "twitter_url": "twitter.com/aarhusuni",
+          "linkedin_id": "4648",
+          "website": "au.dk",
+          "domain": "au.dk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1996-09",
+        "end_date": "2002-11",
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "2784435",
+        "url": "linkedin.com/in/peteregsgaard",
+        "username": "peteregsgaard"
+      },
+      {
+        "network": "linkedin",
+        "id": "2784435",
+        "url": "linkedin.com/in/peter-egsgaard-443b23",
+        "username": "peter-egsgaard-443b23"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

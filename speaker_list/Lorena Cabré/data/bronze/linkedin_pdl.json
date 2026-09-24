@@ -1,0 +1,1044 @@
+{
+  "record_id": "speaker-viennacx-033",
+  "speaker_name": "Lorena Cabré",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/lorenacabre/",
+  "scraped_at": "2026-09-18T10:26:00.819341+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "7gxPQHoW3YVKQpIUSL4Ndg_0000",
+    "full_name": "lorena cabré",
+    "first_name": "lorena",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "cabré",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lorenacabre",
+    "linkedin_username": "lorenacabre",
+    "linkedin_id": "14872465",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/lorecabre",
+    "twitter_username": "lorecabre",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior global digital and content strategy and operations lead / gtm content models expert",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "senior",
+      "manager"
+    ],
+    "job_company_id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+    "job_company_name": "roche",
+    "job_company_website": "roche.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1896,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/roche",
+    "job_company_linkedin_id": "1602",
+    "job_company_facebook_url": "facebook.com/rochecareers",
+    "job_company_twitter_url": "twitter.com/roche",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4070",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-06-26",
+    "job_last_verified": "2026-07-27",
+    "job_start_date": "2026-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-27",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account planning",
+      "advertising",
+      "affiliate management",
+      "agile methodologies",
+      "brand architecture",
+      "brand development",
+      "brand equity",
+      "brand management",
+      "budget management",
+      "budget process",
+      "business case preparation",
+      "business development",
+      "business strategy",
+      "coaching and mentoring",
+      "commercial planning",
+      "competitive analysis",
+      "competitive landscape",
+      "content delivery",
+      "content strategy",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer focused service",
+      "customer insight",
+      "customer presentations",
+      "data driven decision making",
+      "digital engagement",
+      "digital marketing",
+      "digital strategy",
+      "display campaigns",
+      "e commerce",
+      "e marketing",
+      "email marketing",
+      "fast moving consumer goods",
+      "financial literacy",
+      "financial understanding",
+      "flawless execution",
+      "fmcg",
+      "global marketing",
+      "healthcare",
+      "healthcare industry knowledge",
+      "integrated marketing",
+      "interpersonal communication",
+      "key metrics",
+      "key performance indicators",
+      "launch events",
+      "launch strategies",
+      "leadership",
+      "management",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing budget management",
+      "marketing communications",
+      "marketing management",
+      "marketing materials",
+      "marketing strategy",
+      "negotiation",
+      "new business development",
+      "online marketing",
+      "p&l management",
+      "performance monitoring",
+      "pharmaceutical sales",
+      "positive work environment",
+      "product development",
+      "product launch",
+      "product marketing",
+      "product strategies",
+      "program implementation",
+      "public relations",
+      "public speaking",
+      "resource allocation",
+      "retail category management",
+      "sales",
+      "sales and marketing",
+      "sales effectiveness",
+      "salesforce.com",
+      "segmentation",
+      "sem",
+      "service orientation",
+      "social media marketing",
+      "stakeholder management",
+      "strategic planning",
+      "strategic thinking",
+      "strategic vision",
+      "strategy",
+      "stressful situations",
+      "team leadership",
+      "team motivation",
+      "trade marketing",
+      "voice of the customer",
+      "web marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-06",
+        "title": {
+          "name": "senior global digital and content strategy and operations lead / gtm content models expert",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2026-06",
+        "start_date": "2021-10",
+        "title": {
+          "name": "global digital & content strategy lead / ai powered gtm content models",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2021-09",
+        "start_date": "2020-04",
+        "title": {
+          "name": "digital strategy planning lead for established products",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2016-04",
+        "title": {
+          "name": "global digital governance lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2016-03",
+        "start_date": "2015-09",
+        "title": {
+          "name": "global web strategy and external digital communications manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "web",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "caris life sciences",
+          "size": "1001-5000",
+          "id": "XHAFxDorCbtBcBUNumdwBgCHtl6a",
+          "founded": 1996,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "irving, texas, united states",
+            "locality": "irving",
+            "region": "texas",
+            "metro": "dallas, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "750 west john carpenter freeway",
+            "address_line_2": null,
+            "postal_code": "75039",
+            "geo": "32.84,-96.95"
+          },
+          "linkedin_url": "linkedin.com/company/caris-life-sciences",
+          "linkedin_id": "869141",
+          "facebook_url": "facebook.com/carislifesciences",
+          "twitter_url": "twitter.com/carisls",
+          "website": "carislifesciences.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2013-07",
+        "start_date": "2012-06",
+        "title": {
+          "name": "associate marketing director and digital marketing lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2011-09",
+        "start_date": "2010-07",
+        "title": {
+          "name": "senior marketing director consumer health care mexico and central america",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hotels.com",
+          "size": "1001-5000",
+          "id": "ySBChjLne2r8x7qRhSxDlgwMAMkf",
+          "founded": 1991,
+          "industry": "information technology and services",
+          "industry_v2": null,
+          "location": {
+            "name": "dallas, texas, united states",
+            "locality": "dallas",
+            "region": "texas",
+            "metro": "dallas, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "5400 lbj freeway",
+            "address_line_2": "suite 500",
+            "postal_code": "75240",
+            "geo": "32.85,-96.83"
+          },
+          "linkedin_url": "linkedin.com/company/hotels-com",
+          "linkedin_id": "2752",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/hotelsdotcom",
+          "website": "cheaphotelsall.com"
+        },
+        "location_names": [],
+        "end_date": "2010-06",
+        "start_date": "2009-01",
+        "title": {
+          "name": "digital marketing regional head for spanish latam",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer pharmaceuticals",
+          "size": "10001+",
+          "id": "6aAkuTXaVfvqJYUbe3FQ7wOSD5sj",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "178 müllerstraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/bayer-pharmaceuticals",
+          "linkedin_id": "1894",
+          "facebook_url": "facebook.com/pharma.bayer",
+          "twitter_url": "twitter.com/bayerpharma",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2008",
+        "start_date": "2008",
+        "title": {
+          "name": "global brand manager bepanthol & priorin",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2007",
+        "start_date": "2006",
+        "title": {
+          "name": "business development head otc brands",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2006",
+        "start_date": "2002",
+        "title": {
+          "name": "group brand manager cough & cold and gastrointestinals otc brands",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson",
+          "size": "10001+",
+          "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson",
+          "linkedin_id": "1207",
+          "facebook_url": "facebook.com/jnj",
+          "twitter_url": "twitter.com/jnjcares",
+          "website": "jnj.com"
+        },
+        "location_names": [],
+        "end_date": "2002",
+        "start_date": "2001",
+        "title": {
+          "name": "new business opportunities manager (retail sales / key accounts / trade marketing)",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson",
+          "size": "10001+",
+          "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson",
+          "linkedin_id": "1207",
+          "facebook_url": "facebook.com/jnj",
+          "twitter_url": "twitter.com/jnjcares",
+          "website": "jnj.com"
+        },
+        "location_names": [],
+        "end_date": "2001",
+        "start_date": "1999",
+        "title": {
+          "name": "skin care & women's health business unit manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the estée lauder companies inc.",
+          "size": "10001+",
+          "id": "U9plk5eEMvJSWQNNHKUoOQhDCNq7",
+          "founded": 1946,
+          "industry": "cosmetics",
+          "industry_v2": "personal care product manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "767 5th avenue",
+            "address_line_2": null,
+            "postal_code": "10153",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/the-estee-lauder-companies-inc",
+          "linkedin_id": "4059",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/esteelauder",
+          "website": "elcompanies.com"
+        },
+        "location_names": [],
+        "end_date": "1999",
+        "start_date": "1997",
+        "title": {
+          "name": "latin american region marketing and special events manager",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "hair_stylist",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "beiersdorf",
+          "size": "10001+",
+          "id": "Va2w5dzBTC4pgArYJnaBfAkgDVqR",
+          "founded": 1882,
+          "industry": "cosmetics",
+          "industry_v2": "personal care product manufacturing",
+          "location": {
+            "name": "hamburg, hamburg, germany",
+            "locality": "hamburg",
+            "region": "hamburg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 unnastraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.50,10.04"
+          },
+          "linkedin_url": "linkedin.com/company/beiersdorf",
+          "linkedin_id": "162679",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "beiersdorf.com"
+        },
+        "location_names": [],
+        "end_date": "1997",
+        "start_date": "1995",
+        "title": {
+          "name": "senior brand manager nivea visage",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "hair_stylist",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "l'oréal",
+          "size": "10001+",
+          "id": "r7B9eKqE9mFg5BTRa5WzsAGNiKBn",
+          "founded": 1909,
+          "industry": "cosmetics",
+          "industry_v2": "personal care product manufacturing",
+          "location": {
+            "name": "clichy, île-de-france, france",
+            "locality": "clichy",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "41 rue martre",
+            "address_line_2": null,
+            "postal_code": "92110",
+            "geo": "48.90,2.42"
+          },
+          "linkedin_url": "linkedin.com/company/loréal",
+          "linkedin_id": "1662",
+          "facebook_url": "facebook.com/lorealphilippines",
+          "twitter_url": null,
+          "website": "loreal.com"
+        },
+        "location_names": [],
+        "end_date": "1995",
+        "start_date": "1993",
+        "title": {
+          "name": "junior brand manager armani & paloma picasso",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "hair_stylist",
+          "levels": [
+            "entry",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard medical school",
+          "type": "post-secondary institution",
+          "id": "wf6icMSOgHnY3ffQbSarUg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-medical-school",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1645",
+          "website": "hms.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2024-01",
+        "end_date": "2024-04",
+        "majors": [
+          "medicine",
+          "nutrition"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "northwestern university - kellogg school of management",
+          "type": "post-secondary institution",
+          "id": "fwHJOXYVlBm4MmlNTDgVEg_0000",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/kellogg-school-of-management",
+          "facebook_url": "facebook.com/northwesternqatar",
+          "twitter_url": "twitter.com/nuqatar",
+          "linkedin_id": "3195",
+          "website": "kellogg.northwestern.edu",
+          "domain": "northwestern.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-09",
+        "end_date": "2021-10",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "northwestern university - kellogg school of management",
+          "type": "post-secondary institution",
+          "id": "fwHJOXYVlBm4MmlNTDgVEg_0000",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/kellogg-school-of-management",
+          "facebook_url": "facebook.com/northwesternqatar",
+          "twitter_url": "twitter.com/nuqatar",
+          "linkedin_id": "3195",
+          "website": "kellogg.northwestern.edu",
+          "domain": "northwestern.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-01-01",
+        "end_date": "2021-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ubt - university for business and technology",
+          "type": "post-secondary institution",
+          "id": "cRfoUHCsUeGlDbIBi6BExw_0000",
+          "location": {
+            "name": "pristina, prishtinë, kosovo",
+            "locality": "pristina",
+            "region": "prishtinë",
+            "country": "kosovo",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ubt---university-for-business-and-technology",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10790668",
+          "website": "ubt-uni.net",
+          "domain": "ubt-uni.net"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2012-01-01",
+        "end_date": "2012",
+        "majors": [
+          "communication",
+          "marketing",
+          "multimedia"
+        ],
+        "minors": [],
+        "gpa": 2.0
+      },
+      {
+        "school": {
+          "name": "instituto tecnológico autónomo de méxico",
+          "type": "post-secondary institution",
+          "id": "BXUOh8HBh2w372PMOTzelg_0000",
+          "location": {
+            "name": "mexico city, mexico city, mexico",
+            "locality": "mexico city",
+            "region": "mexico city",
+            "country": "mexico",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/instituto-tecnológico-autónomo-de-méxico",
+          "facebook_url": "facebook.com/itam.mx",
+          "twitter_url": "twitter.com/itam_mx",
+          "linkedin_id": "15249288",
+          "website": "itam.mx",
+          "domain": "itam.mx"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1999-01-01",
+        "end_date": "2002",
+        "majors": [
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "instituto tecnológico autónomo de méxico",
+          "type": "post-secondary institution",
+          "id": "BXUOh8HBh2w372PMOTzelg_0000",
+          "location": {
+            "name": "mexico city, mexico city, mexico",
+            "locality": "mexico city",
+            "region": "mexico city",
+            "country": "mexico",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/instituto-tecnológico-autónomo-de-méxico",
+          "facebook_url": "facebook.com/itam.mx",
+          "twitter_url": "twitter.com/itam_mx",
+          "linkedin_id": "15249288",
+          "website": "itam.mx",
+          "domain": "itam.mx"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors",
+          "masters"
+        ],
+        "start_date": "1988-01-01",
+        "end_date": "1992",
+        "majors": [
+          "business",
+          "business marketing",
+          "communication",
+          "marketing",
+          "multimedia"
+        ],
+        "minors": [],
+        "gpa": 2.0
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "14872465",
+        "url": "linkedin.com/in/lorenacabre",
+        "username": "lorenacabre"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/lorecabre",
+        "username": "lorecabre"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/lorena-cabré-901b924",
+        "username": "lorena-cabré-901b924"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

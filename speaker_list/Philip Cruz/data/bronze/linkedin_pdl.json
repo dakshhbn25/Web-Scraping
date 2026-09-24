@@ -1,0 +1,826 @@
+{
+  "record_id": "speaker-medical-000",
+  "speaker_name": "Philip Cruz",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/philip-cruz-md-ffpm-39454118a/",
+  "scraped_at": "2026-09-18T10:24:01.662743+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "HkJBBCSqoVpRAEcaYtJ3hw_0000",
+    "full_name": "philip cruz",
+    "first_name": "philip",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "cruz",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "higher education",
+    "job_title": "country medical director for the united kingdom",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "62sgbrRtUb92l5a2QWP6ywhoCKWB",
+    "job_company_name": "moderna",
+    "job_company_website": "modernatx.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2010,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/modernatx",
+    "job_company_linkedin_id": "2281734",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "200 technology square",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02139",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2022-04-26",
+    "job_last_verified": "2026-07-08",
+    "job_start_date": "2022-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2021-09-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "clinical operations",
+      "good clinical practice",
+      "medical governance",
+      "public speaking",
+      "scientific communications"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "moderna",
+          "size": "1001-5000",
+          "id": "62sgbrRtUb92l5a2QWP6ywhoCKWB",
+          "founded": 2010,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 technology square",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/modernatx",
+          "linkedin_id": "2281734",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "modernatx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2022-04",
+        "title": {
+          "name": "country medical director for the united kingdom",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2022-03",
+        "start_date": "2021-09",
+        "title": {
+          "name": "senior global medical affairs leader, vaccines",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "king's college london",
+          "size": "5001-10000",
+          "id": "BgrFPBDiV5eEU2yaF7xj9A3Mr9OP",
+          "founded": 1829,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "wc2r 2ls",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/school/king's-college-london",
+          "linkedin_id": "7198",
+          "facebook_url": "facebook.com/kingscollegelondon",
+          "twitter_url": null,
+          "website": "kcl.ac.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-09",
+        "title": {
+          "name": "visiting lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-08",
+        "start_date": "2015-10",
+        "title": {
+          "name": "vaccines medical director for united kingdom and ireland",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "makati city, mak, philippines"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2014-01",
+        "title": {
+          "name": "medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2015-09",
+        "start_date": "2013-05",
+        "title": {
+          "name": "area medical affairs leader",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "wavre, wallonia, belgium"
+        ],
+        "end_date": "2013-04",
+        "start_date": "2010-05",
+        "title": {
+          "name": "senior medical affairs manager for pediatric vaccines",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ambica international corporation.",
+          "size": "51-200",
+          "id": "ZNRDAg3CRzKuu5GoQM24fwVUSJZ0",
+          "founded": 2000,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "city of parañaque, par, philippines",
+            "locality": "city of parañaque",
+            "region": "par",
+            "metro": null,
+            "country": "philippines",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "14.50,120.99"
+          },
+          "linkedin_url": "linkedin.com/company/ambica-international",
+          "linkedin_id": "328326",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ambicaint.com"
+        },
+        "location_names": [],
+        "end_date": "2010-04",
+        "start_date": "2009-04",
+        "title": {
+          "name": "managing director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2009-03",
+        "start_date": "2008-09",
+        "title": {
+          "name": "public policy manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2008-08",
+        "start_date": "2006-10",
+        "title": {
+          "name": "medical affairs manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilab, inc.",
+          "size": "1001-5000",
+          "id": "wlDQVspdHrul0XFCWDIRTAMrhh29",
+          "founded": 1945,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "philippines",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "philippines",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/unilabcareers",
+          "linkedin_id": "36818",
+          "facebook_url": "facebook.com/unilab",
+          "twitter_url": null,
+          "website": "unilab.com.ph"
+        },
+        "location_names": [
+          "mandaluyong city, mdy, philippines"
+        ],
+        "end_date": "2004-01",
+        "start_date": "2003-05",
+        "title": {
+          "name": "clinical research consultant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the national institutes of health university of the philippines national institutes of health",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2005-12",
+        "start_date": "2003-01",
+        "title": {
+          "name": "database manager for clinical research",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "philippine general hospital",
+          "size": "1001-5000",
+          "id": "EYOCfPiMgyYPiXJntO4C2g7wJLB6",
+          "founded": 1907,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "manila cpo-ermita, metro manila, philippines",
+            "locality": "manila cpo-ermita",
+            "region": "metro manila",
+            "metro": null,
+            "country": "philippines",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "14.59,120.98"
+          },
+          "linkedin_url": "linkedin.com/company/philippine-general-hospital",
+          "linkedin_id": "9030365",
+          "facebook_url": "facebook.com/philippinegeneralhospitalofficial",
+          "twitter_url": null,
+          "website": "pgh.gov.ph"
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2003-12",
+        "start_date": "2003-01",
+        "title": {
+          "name": "assistant director for special projects",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wyeth vaccines research",
+          "size": "1-10",
+          "id": "eXNQjQ70JaagPmwX4bxrBgBxur11",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "pearl river, new york, united states",
+            "locality": "pearl river",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "401 north middletown road",
+            "address_line_2": null,
+            "postal_code": "10965",
+            "geo": "41.06,-74.00"
+          },
+          "linkedin_url": "linkedin.com/company/wyeth-vaccines-research",
+          "linkedin_id": "11362452",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2003-05",
+        "start_date": "2002-09",
+        "title": {
+          "name": "co-investigator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "philippine general hospital",
+          "size": "1001-5000",
+          "id": "EYOCfPiMgyYPiXJntO4C2g7wJLB6",
+          "founded": 1907,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "manila cpo-ermita, metro manila, philippines",
+            "locality": "manila cpo-ermita",
+            "region": "metro manila",
+            "metro": null,
+            "country": "philippines",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "14.59,120.98"
+          },
+          "linkedin_url": "linkedin.com/company/philippine-general-hospital",
+          "linkedin_id": "9030365",
+          "facebook_url": "facebook.com/philippinegeneralhospitalofficial",
+          "twitter_url": null,
+          "website": "pgh.gov.ph"
+        },
+        "location_names": [
+          "manila, man, philippines"
+        ],
+        "end_date": "2002-12",
+        "start_date": "2002-01",
+        "title": {
+          "name": "chief resident",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "king's college london",
+          "type": "post-secondary institution",
+          "id": "2q2YIlBvBucJNrXjuIZYyQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/king's-college-london",
+          "facebook_url": "facebook.com/kingscollegelondon",
+          "twitter_url": "twitter.com/kingscollegelon",
+          "linkedin_id": "7198",
+          "website": "kcl.ac.uk",
+          "domain": "kcl.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2021",
+        "majors": [
+          "drug development"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of the philippines - philippine general hospital",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2001",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of the philippines",
+          "type": "post-secondary institution",
+          "id": "0rEtKVxhlpqefvs3hli2NA_0000",
+          "location": {
+            "name": "diliman, metro manila, philippines",
+            "locality": "diliman",
+            "region": "metro manila",
+            "country": "philippines",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-the-philippines",
+          "facebook_url": "facebook.com/upsystem",
+          "twitter_url": "twitter.com/upsystem",
+          "linkedin_id": "166683",
+          "website": "up.edu.ph",
+          "domain": "up.edu.ph"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1998",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of the philippines",
+          "type": "post-secondary institution",
+          "id": "0rEtKVxhlpqefvs3hli2NA_0000",
+          "location": {
+            "name": "diliman, metro manila, philippines",
+            "locality": "diliman",
+            "region": "metro manila",
+            "country": "philippines",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-the-philippines",
+          "facebook_url": "facebook.com/upsystem",
+          "twitter_url": "twitter.com/upsystem",
+          "linkedin_id": "166683",
+          "website": "up.edu.ph",
+          "domain": "up.edu.ph"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1988-01",
+        "end_date": "1993",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "747825376",
+        "url": "linkedin.com/in/philip-cruz-md-ffpm-39454118a",
+        "username": "philip-cruz-md-ffpm-39454118a"
+      },
+      {
+        "network": "linkedin",
+        "id": "747825376",
+        "url": "linkedin.com/in/philip-cruz-39454118a",
+        "username": "philip-cruz-39454118a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

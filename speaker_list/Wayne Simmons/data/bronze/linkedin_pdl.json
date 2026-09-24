@@ -1,0 +1,623 @@
+{
+  "record_id": null,
+  "speaker_name": "Wayne Simmons",
+  "event_name": null,
+  "linkedin_url": "https://www.linkedin.com/in/wayne-simmons-cxedna/",
+  "scraped_at": "2026-09-21T11:39:22.160306+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "GFe9be8oPG5lBERoR08nkg_0000",
+    "full_name": "wayne simmons",
+    "first_name": "wayne",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "simmons",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/wayneasimmons",
+    "twitter_username": "wayneasimmons",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "management consulting",
+    "job_title": "founder | commercial systems architect",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "lFrFi7rBjuecSjLGgT844Q7eXBmN",
+    "job_company_name": "the customer excellence agency",
+    "job_company_website": "cxedna.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2024,
+    "job_company_industry": null,
+    "job_company_industry_v2": "professional services",
+    "job_company_linkedin_url": "linkedin.com/company/the-customer-excellence-enterprise",
+    "job_company_linkedin_id": "105194028",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "new york, new york, united states",
+    "job_company_location_locality": "new york",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.71,-73.99",
+    "job_company_location_street_address": "70 pine street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10005",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-03-20",
+    "job_last_verified": "2026-04-27",
+    "job_start_date": "2026-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business development",
+      "customer engagement",
+      "customer experience",
+      "customer insight",
+      "customer retention",
+      "customer satisfaction",
+      "enterprise software",
+      "entrepreneurship",
+      "financial modeling",
+      "go to market strategy",
+      "management consulting",
+      "marketing strategy",
+      "mergers",
+      "mergers and acquisitions",
+      "product development",
+      "saas",
+      "start up ventures",
+      "start ups",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy",
+      "venture capital"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "the customer excellence agency",
+          "size": "1-10",
+          "id": "lFrFi7rBjuecSjLGgT844Q7eXBmN",
+          "founded": 2024,
+          "industry": null,
+          "industry_v2": "professional services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "70 pine street",
+            "address_line_2": null,
+            "postal_code": "10005",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/the-customer-excellence-enterprise",
+          "linkedin_id": "105194028",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cxedna.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": null,
+        "start_date": "2026-03",
+        "title": {
+          "name": "founder | commercial systems architect",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2026-03",
+        "start_date": "2023-04",
+        "title": {
+          "name": "global customer excellence lead | chief marketing organization",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "michigan state university - eli broad college of business",
+          "size": "51-200",
+          "id": "g2Q4ytRVpwUwvMTczbPdIQeIKTFz",
+          "founded": 1927,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "east lansing, michigan, united states",
+            "locality": "east lansing",
+            "region": "michigan",
+            "metro": "lansing, michigan",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "632 bogue street",
+            "address_line_2": null,
+            "postal_code": "48824",
+            "geo": "42.72,-84.47"
+          },
+          "linkedin_url": "linkedin.com/school/msubroadcollege",
+          "linkedin_id": "15101208",
+          "facebook_url": "facebook.com/msubroadcollege",
+          "twitter_url": "twitter.com/msubroadcollege",
+          "website": "accounting.broad.msu.edu"
+        },
+        "location_names": [
+          "east lansing, michigan, united states"
+        ],
+        "end_date": "2026-03",
+        "start_date": "2023-03",
+        "title": {
+          "name": "professor of practice-department of marketing",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2023-04",
+        "start_date": "2021-04",
+        "title": {
+          "name": "global customer experience lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the ritz-carlton leadership center",
+          "size": "10001+",
+          "id": "EwtvTrI6BzvJtFYOM4nYkAmZvnrG",
+          "founded": 2000,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "bethesda, maryland, united states",
+            "locality": "bethesda",
+            "region": "maryland",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "7750 wisconsin avenue",
+            "address_line_2": null,
+            "postal_code": "20814",
+            "geo": "38.97,-77.11"
+          },
+          "linkedin_url": "linkedin.com/company/the-ritz-carlton-leadership-center",
+          "linkedin_id": "3077679",
+          "facebook_url": "facebook.com/ritzcarltonleadershipcenter",
+          "twitter_url": null,
+          "website": "ritzcarltonleadershipcenter.com"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2018-01",
+        "title": {
+          "name": "global head of delivery",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mercer",
+          "size": "10001+",
+          "id": "6jRuQg7jzHrOf8zwHc3GHAw0PGgR",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/mercer",
+          "linkedin_id": "2423",
+          "facebook_url": "facebook.com/mercerinsights",
+          "twitter_url": "twitter.com/mercer",
+          "website": "mercer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2018-12",
+        "start_date": "2017-07",
+        "title": {
+          "name": "global commercial leader",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "opptiv llc - customer experience @enterprise scale",
+          "size": "11-50",
+          "id": "9ca3wwyW5IFLFeThYK1AnwEbTdK9",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "150 broadway",
+            "address_line_2": null,
+            "postal_code": "10038",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/opptiv™---strategic-portfolio-management.",
+          "linkedin_id": "2729016",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2021-07",
+        "start_date": "2011-01",
+        "title": {
+          "name": "executive advisor, customer-centric transformation & turnaround",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "icor partners management consultants",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2010-07",
+        "start_date": "2002-01",
+        "title": {
+          "name": "founder & chief executive officer",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [],
+        "end_date": "1999-12",
+        "start_date": "1996-01",
+        "title": {
+          "name": "manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "us army",
+          "size": "10001+",
+          "id": "CKHJ5P60N4XW4oZXB8BdmgKL8vvO",
+          "founded": 1775,
+          "industry": "military",
+          "industry_v2": "armed forces",
+          "location": {
+            "name": "arlington, virginia, united states",
+            "locality": "arlington",
+            "region": "virginia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1500 army navy drive",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "38.89,-77.12"
+          },
+          "linkedin_url": "linkedin.com/company/us-army",
+          "linkedin_id": "1223",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/goarmy",
+          "website": "army.mil"
+        },
+        "location_names": [],
+        "end_date": "1995-12",
+        "start_date": "1987-01",
+        "title": {
+          "name": "aerial reconnaissance",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the state university of new york",
+          "type": "post-secondary institution",
+          "id": "V068FRwyUsLrk9ZQTv3Fqw_0000",
+          "location": {
+            "name": "albany, new york, united states",
+            "locality": "albany",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/state-university-of-new-york",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "13663",
+          "website": "suny.edu",
+          "domain": "suny.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "political science",
+          "sociology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the wharton school",
+          "type": "post-secondary institution",
+          "id": "bn1dJZvnv1bteQKcTmIfRA_0000",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/the-wharton-school",
+          "facebook_url": "facebook.com/univpennsylvania",
+          "twitter_url": "twitter.com/penn",
+          "linkedin_id": "5290",
+          "website": "wharton.upenn.edu",
+          "domain": "upenn.edu"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/wayneasimmons",
+        "username": "wayneasimmons"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-ccxp-aa63bb2",
+        "username": "wayne-simmons-ccxp-aa63bb2"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-aa63bb2",
+        "username": "wayne-simmons-aa63bb2"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-cxedna",
+        "username": "wayne-simmons-cxedna"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-ccxp-fcxp-aa63bb2",
+        "username": "wayne-simmons-ccxp-fcxp-aa63bb2"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-cxpa-aa63bb2",
+        "username": "wayne-simmons-cxpa-aa63bb2"
+      },
+      {
+        "network": "linkedin",
+        "id": "6967134",
+        "url": "linkedin.com/in/wayne-simmons-fcxp-cx-i-aa63bb2",
+        "username": "wayne-simmons-fcxp-cx-i-aa63bb2"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

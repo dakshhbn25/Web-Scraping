@@ -1,0 +1,192 @@
+{
+  "record_id": "speaker-medical-019",
+  "speaker_name": "Mostapha Haidar",
+  "linkedin_url": "https://www.linkedin.com/in/mostapha-haidar/",
+  "likelihood": 9,
+  "full_name": "mostapha haidar",
+  "job_title": "associate director, medical omni-channel & engagement excellence",
+  "industry": "hospital & health care",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "canada",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "artificial intelligence",
+    "autocad",
+    "big data",
+    "business analytics",
+    "business development",
+    "business insights",
+    "business intelligence",
+    "cad",
+    "civil engineering",
+    "construction",
+    "construction management",
+    "contract management",
+    "convolutional neural networks",
+    "data governance",
+    "digital transformation",
+    "engineering",
+    "feasibility studies",
+    "financial analysis",
+    "finite element analysis",
+    "hydraulics",
+    "inherited rare diseases",
+    "internal/external consulting",
+    "it transformation",
+    "management consulting",
+    "market research",
+    "marketing strategy",
+    "mixed use",
+    "primavera p6",
+    "product management",
+    "project management",
+    "reinforced concrete",
+    "residential homes",
+    "retinal gene therapy",
+    "salesforce.com",
+    "sap2000",
+    "software development",
+    "steel structures",
+    "strategy consulting",
+    "structural analysis",
+    "submittals",
+    "surveying",
+    "team leadership",
+    "teamwork"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "associate director, medical omni-channel & engagement excellence",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "medical omni-channel engagement manager",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-08",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "associate manager, digital & omnichannel capabilities",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-08",
+      "end_date": "2024-08",
+      "is_primary": false
+    },
+    {
+      "title": "associate marketing manager, marketing & sales, diabetes, cvd & ckd",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "manager, customer research & analytics - new products & business development in gene therapy",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-08",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "associate, platforms operations, data & analytics centre",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-05",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, finance and operations",
+      "company": "rotman business analytics club (rbac)",
+      "company_industry": "higher education",
+      "start_date": "2020-05",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "business intelligence & commercial analytics - marketing associate intern",
+      "company": "johnson & johnson",
+      "company_industry": "hospital & health care",
+      "start_date": "2020-05",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "full time mba candidate - rotman school of management",
+      "company": "university of toronto - rotman school of management",
+      "company_industry": "higher education",
+      "start_date": "2019-09",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "technical and commercial consultant",
+      "company": "lead – real estate developer",
+      "company_industry": "real estate",
+      "start_date": "2018-06",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "project engineer",
+      "company": "consolidated contractors company",
+      "company_industry": "construction",
+      "start_date": "2016-06",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "civil engineer - rotation development program",
+      "company": "consolidated contractors company",
+      "company_industry": "construction",
+      "start_date": "2015-01",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "civil engineering intern",
+      "company": "lead – real estate developer",
+      "company_industry": "real estate",
+      "start_date": "2013-06",
+      "end_date": "2013-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of toronto - rotman school of management",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2019-01",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "lebanese american university",
+      "majors": [
+        "civil engineering",
+        "engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": "2014"
+    }
+  ]
+}

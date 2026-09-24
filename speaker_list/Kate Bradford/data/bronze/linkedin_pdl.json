@@ -1,0 +1,867 @@
+{
+  "record_id": "speaker-medical-011",
+  "speaker_name": "Kate Bradford",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/kate-bradford-a9346b4/",
+  "scraped_at": "2026-09-18T10:24:23.669362+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "LeBHGz8ksdehwRYAnU0KKg_0000",
+    "full_name": "kate bradford",
+    "first_name": "kate",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bradford",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/kate-bradford-a9346b4",
+    "linkedin_username": "kate-bradford-a9346b4",
+    "linkedin_id": "13084239",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "global head of medical training and field capabilities",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+    "job_company_name": "alexion pharmaceuticals, inc.",
+    "job_company_website": "alexion.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1992,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+    "job_company_linkedin_id": "16750",
+    "job_company_facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+    "job_company_twitter_url": "twitter.com/alexionpharma",
+    "job_company_location_name": "boston, massachusetts, united states",
+    "job_company_location_locality": "boston",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.33,-71.04",
+    "job_company_location_street_address": "121 seaport boulevard",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-05-30",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2024-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile methodologies",
+      "artificial intelligence",
+      "biotechnology",
+      "building organizational capability",
+      "business development",
+      "business process improvement",
+      "cardiology",
+      "clinical development",
+      "clinical research",
+      "clinical trials",
+      "competitive strategies",
+      "compliance",
+      "crm",
+      "diabetes",
+      "drug development",
+      "employee learning and development",
+      "field medical",
+      "gastroenterology",
+      "global navigation satellite system",
+      "irpcs",
+      "leadership",
+      "life sciences",
+      "management",
+      "market access",
+      "medical affairs",
+      "medical writing",
+      "neurology",
+      "new market expansion",
+      "oncology",
+      "operations management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "sailing",
+      "sales effectiveness",
+      "seamanship",
+      "skiing",
+      "strategic planning",
+      "strategy",
+      "therapeutic areas",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "global head of medical training and field capabilities",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": "2024-05",
+        "start_date": "2022-03",
+        "title": {
+          "name": "head of launch & field excellence, medical international & japan",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": "2022-03",
+        "start_date": "2021-08",
+        "title": {
+          "name": "head of medical launch excellence and medical advisors for clinical trials",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "arena pharmaceuticals, inc.",
+          "size": "201-500",
+          "id": "XSxfG2yQa9jSvyEVQetZBQqsAUBG",
+          "founded": 1997,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "san diego, california, united states",
+            "locality": "san diego",
+            "region": "california",
+            "metro": "san diego, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "6154 nancy ridge drive",
+            "address_line_2": null,
+            "postal_code": "92121",
+            "geo": "32.80,-117.13"
+          },
+          "linkedin_url": "linkedin.com/company/arena-pharmaceuticals",
+          "linkedin_id": "19625",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/arenapharm",
+          "website": "arenapharm.com"
+        },
+        "location_names": [],
+        "end_date": "2021-08",
+        "start_date": "2019-09",
+        "title": {
+          "name": "head of international field based medicine",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2019-08",
+        "start_date": "2018-06",
+        "title": {
+          "name": "head of field effectiveness, international",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2018-05",
+        "start_date": "2017-09",
+        "title": {
+          "name": "lead field medical effectiveness, europe",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "cambridge, massachusetts, united states",
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2017-08",
+        "start_date": "2016-06",
+        "title": {
+          "name": "medical learning and development, global (ex us)",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2016-06",
+        "start_date": "2015-12",
+        "title": {
+          "name": "head of medical development, insights and analytics",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [],
+        "end_date": "2015-12",
+        "start_date": "2013-09",
+        "title": {
+          "name": "head, msl excellence, eu",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [],
+        "end_date": "2013-08",
+        "start_date": "2012-01",
+        "title": {
+          "name": "medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "southampton, england, united kingdom"
+        ],
+        "end_date": "2012-01",
+        "start_date": "2010-06",
+        "title": {
+          "name": "uk medical science liaison manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2010-05",
+        "start_date": "2009-06",
+        "title": {
+          "name": "medical science liaison",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "southampton college",
+          "size": "501-1000",
+          "id": "9V6Yzde5LI29SAldJ129lQOpHlDW",
+          "founded": null,
+          "industry": "education management",
+          "industry_v2": "education administration programs",
+          "location": {
+            "name": "southampton, england, united kingdom",
+            "locality": "southampton",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "so14 1ar",
+            "geo": "50.91,-1.40"
+          },
+          "linkedin_url": "linkedin.com/company/southampton-city-college",
+          "linkedin_id": "284058",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/city_college",
+          "website": "southampton-city.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2009-05",
+        "start_date": "2007-09",
+        "title": {
+          "name": "associate lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2003",
+        "title": {
+          "name": "secondary care specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "martin ward anderson",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2002",
+        "start_date": "1998",
+        "title": {
+          "name": "operations director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of southampton",
+          "type": "post-secondary institution",
+          "id": "8bi3s862XBiNzcCFFjTK3w_0000",
+          "location": {
+            "name": "southampton, england, united kingdom",
+            "locality": "southampton",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-southampton",
+          "facebook_url": "facebook.com/unisouthampton",
+          "twitter_url": "twitter.com/unisouthampton",
+          "linkedin_id": "6865",
+          "website": "southampton.ac.uk",
+          "domain": "southampton.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1996",
+        "majors": [
+          "pharmacology",
+          "physiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of southampton",
+          "type": "post-secondary institution",
+          "id": "8bi3s862XBiNzcCFFjTK3w_0000",
+          "location": {
+            "name": "southampton, england, united kingdom",
+            "locality": "southampton",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-southampton",
+          "facebook_url": "facebook.com/unisouthampton",
+          "twitter_url": "twitter.com/unisouthampton",
+          "linkedin_id": "6865",
+          "website": "southampton.ac.uk",
+          "domain": "southampton.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors",
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1989-01",
+        "end_date": "1992",
+        "majors": [
+          "biochemistry",
+          "pharmacology",
+          "physiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the king’s school, worcester",
+          "type": "secondary school",
+          "id": "rATA-MiUsQ49O8JzRpjB2g_0000",
+          "location": {
+            "name": "worcester, england, united kingdom",
+            "locality": "worcester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kingsworcester",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10079138",
+          "website": "ksw.org.uk",
+          "domain": "ksw.org.uk"
+        },
+        "degrees": [],
+        "start_date": "1987-01",
+        "end_date": "1989",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the king’s school, worcester",
+          "type": "secondary school",
+          "id": "rATA-MiUsQ49O8JzRpjB2g_0000",
+          "location": {
+            "name": "worcester, england, united kingdom",
+            "locality": "worcester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kingsworcester",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10079138",
+          "website": "ksw.org.uk",
+          "domain": "ksw.org.uk"
+        },
+        "degrees": [],
+        "start_date": "1985",
+        "end_date": "1990",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ysgol ardudwy harlech",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "13084239",
+        "url": "linkedin.com/in/kate-bradford-a9346b4",
+        "username": "kate-bradford-a9346b4"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

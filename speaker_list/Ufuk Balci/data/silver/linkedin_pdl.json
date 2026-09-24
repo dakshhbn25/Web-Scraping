@@ -1,0 +1,201 @@
+{
+  "record_id": "speaker-medical-030",
+  "speaker_name": "Ufuk Balci",
+  "linkedin_url": "https://www.linkedin.com/in/ufukbalci/",
+  "likelihood": 9,
+  "full_name": "ufuk balci",
+  "job_title": "head of business excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "gsk",
+  "current_company_website": "gsk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe analytics",
+    "brand management",
+    "brand strategy",
+    "business strategy",
+    "change management",
+    "coaching",
+    "communication",
+    "content marketing",
+    "cross country running",
+    "customer experience",
+    "digital marketing",
+    "digital media",
+    "event management",
+    "healthcare",
+    "high stress environment",
+    "leadership",
+    "management",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "microsoft office",
+    "multi channel marketing",
+    "omni channel marketing",
+    "online advertising",
+    "operational excellence",
+    "personal development",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "product marketing",
+    "project management",
+    "sales",
+    "segmentation",
+    "social media",
+    "social media marketing",
+    "strategic planning",
+    "strategy",
+    "stress management",
+    "team building",
+    "team leadership",
+    "web analytics"
+  ],
+  "interests": [
+    "education"
+  ],
+  "experience": [
+    {
+      "title": "head of business excellence",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "omnichannel excellence team leader | region midi europe",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "digital transformation lead",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "digital engagement manager",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "multi-channel marketing manager | region emerging markets central",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing lead",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-08",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "multi-channel marketing content lead",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "global future leaders program | sales representative",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014",
+      "end_date": "2015",
+      "is_primary": false
+    },
+    {
+      "title": "product marketing part-timer",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-02",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "brand ambassador",
+      "company": "google",
+      "company_industry": "computer software",
+      "start_date": "2013-08",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "brand management intern",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "2013-07",
+      "end_date": "2013-10",
+      "is_primary": false
+    },
+    {
+      "title": "marketing communications intern",
+      "company": "microsoft",
+      "company_industry": "computer software",
+      "start_date": "2012-08",
+      "end_date": "2012-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "istanbul technical university",
+      "majors": [
+        "engineering",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2018",
+      "end_date": "2020"
+    },
+    {
+      "school": "istanbul technical university",
+      "majors": [
+        "engineering",
+        "management"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": "2014"
+    },
+    {
+      "school": "burak bora anatolian high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005",
+      "end_date": "2009"
+    }
+  ]
+}

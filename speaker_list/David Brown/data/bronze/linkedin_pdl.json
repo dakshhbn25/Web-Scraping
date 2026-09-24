@@ -1,0 +1,446 @@
+{
+  "record_id": "speaker-viennacx-029",
+  "speaker_name": "David Brown",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/david-brown-51806812/",
+  "scraped_at": "2026-09-18T10:25:54.227981+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "K1wlBNunRyWZtwv0XmnnKg_0000",
+    "full_name": "david brown",
+    "first_name": "david",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "brown",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/david-brown-51806812",
+    "linkedin_username": "david-brown-51806812",
+    "linkedin_id": "41942756",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/thebigdcb",
+    "twitter_username": "thebigdcb",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer hardware",
+    "job_title": "senior director, global head of data, analytics & ai",
+    "job_title_role": "analyst",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "7ssbBRTXqnBKpZJG7HJpOgZ9vrri",
+    "job_company_name": "viiv healthcare",
+    "job_company_website": "viivhealthcare.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2009,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/viiv-healthcare",
+    "job_company_linkedin_id": "612511",
+    "job_company_facebook_url": "facebook.com/viivhealthcare",
+    "job_company_twitter_url": "twitter.com/viivus",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "tw8 9gs",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-01-01",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2024-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": true,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "analytics",
+      "business analysis",
+      "business intelligence",
+      "change management",
+      "cloud applications",
+      "cloud computing",
+      "coaching",
+      "crm",
+      "cross functional team leadership",
+      "csv",
+      "customer data",
+      "customer relationship management",
+      "data analytics",
+      "data privacy",
+      "data warehousing",
+      "digital",
+      "innovation management",
+      "it enabled business transformation",
+      "it leadership",
+      "it outsourcing",
+      "it strategy",
+      "leadership",
+      "life science industry",
+      "management",
+      "master data management",
+      "outsourcing",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "program management",
+      "project delivery",
+      "project management",
+      "salesforce.com",
+      "siebel",
+      "veeva"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "viiv healthcare",
+          "size": "501-1000",
+          "id": "7ssbBRTXqnBKpZJG7HJpOgZ9vrri",
+          "founded": 2009,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "tw8 9gs",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/viiv-healthcare",
+          "linkedin_id": "612511",
+          "facebook_url": "facebook.com/viivhealthcare",
+          "twitter_url": "twitter.com/viivus",
+          "website": "viivhealthcare.com"
+        },
+        "location_names": [
+          "brentford, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-11",
+        "title": {
+          "name": "senior director, global head of data, analytics & ai",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "zs",
+          "size": "10001+",
+          "id": "9PBvvCp43Iy4sWR8ABlwtwf0VXJh",
+          "founded": 1983,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1560 sherman avenue",
+            "address_line_2": null,
+            "postal_code": "60201",
+            "geo": "42.04,-87.68"
+          },
+          "linkedin_url": "linkedin.com/company/zs-associates",
+          "linkedin_id": "5240",
+          "facebook_url": "facebook.com/zsassociates",
+          "twitter_url": "twitter.com/zsassociates",
+          "website": "zs.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-01",
+        "start_date": "2018-04",
+        "title": {
+          "name": "associate principal (jr partner) / senior director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vertex pharmaceuticals",
+          "size": "1001-5000",
+          "id": "T9mvOcJ7CfAE1NldCHFGvASwTFnq",
+          "founded": 1989,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "50 northern avenue",
+            "address_line_2": null,
+            "postal_code": "02210",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/vertex-pharmaceuticals",
+          "linkedin_id": "6866",
+          "facebook_url": "facebook.com/vertexpharmainc",
+          "twitter_url": "twitter.com/vertexpharma",
+          "website": "vrtx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2016-10",
+        "title": {
+          "name": "director international commercial systems",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "basingstoke, england, united kingdom"
+        ],
+        "end_date": "2016-10",
+        "start_date": "2015-03",
+        "title": {
+          "name": "senior director - commercial delivery lead and regional it delivery lead europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2015-02",
+        "start_date": "2008-10",
+        "title": {
+          "name": "business systems director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "accenture",
+          "size": "10001+",
+          "id": "NYYbtRj1s6utKbHMHSioGQntpYZ9",
+          "founded": 1989,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 2",
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/accenture",
+          "linkedin_id": "1033",
+          "facebook_url": "facebook.com/accenture",
+          "twitter_url": "twitter.com/accenture",
+          "website": "accenture.com"
+        },
+        "location_names": [],
+        "end_date": "2008-10",
+        "start_date": "2000-09",
+        "title": {
+          "name": "project manager - health & life sciences",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1996-09",
+        "end_date": "2000-06",
+        "majors": [
+          "biochemistry",
+          "molecular biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2000-12",
+        "majors": [
+          "biochemistry",
+          "molecular biology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "41942756",
+        "url": "linkedin.com/in/david-brown-51806812",
+        "username": "david-brown-51806812"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/thebigdcb",
+        "username": "thebigdcb"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

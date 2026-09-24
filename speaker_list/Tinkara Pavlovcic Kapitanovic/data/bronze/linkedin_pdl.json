@@ -1,0 +1,833 @@
+{
+  "record_id": "speaker-dubrovnik-093",
+  "speaker_name": "Tinkara Pavlovcic Kapitanovic",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/tinkarapk/",
+  "scraped_at": "2026-09-18T09:38:23.874484+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Cm9zHGZGZBAt-e1tyWKROg_0000",
+    "full_name": "tinkara kapitanovic",
+    "first_name": "tinkara",
+    "middle_initial": "p",
+    "middle_name": "pavlovcic",
+    "last_initial": "k",
+    "last_name": "kapitanovic",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/tinkarapk",
+    "linkedin_username": "tinkarapk",
+    "linkedin_id": "770385",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/tinkarapk",
+    "twitter_username": "tinkarapk",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global marketing operations responsible - global commercial development",
+    "job_title_role": "analyst",
+    "job_title_sub_role": "revenue_operations",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [],
+    "job_company_id": "hzr7M9LHJFsscOgz8Dn1NAWDkkKn",
+    "job_company_name": "viatris",
+    "job_company_website": "viatris.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2020,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/viatris",
+    "job_company_linkedin_id": "52143761",
+    "job_company_facebook_url": "facebook.com/viatrisinc",
+    "job_company_twitter_url": "twitter.com/viatrisinc",
+    "job_company_location_name": "pittsburgh, pennsylvania, united states",
+    "job_company_location_locality": "pittsburgh",
+    "job_company_location_metro": "pittsburgh, pennsylvania",
+    "job_company_location_region": "pennsylvania",
+    "job_company_location_geo": "40.44,-80.04",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-02-01",
+    "job_last_verified": "2026-06-05",
+    "job_start_date": "2025-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "slovenia",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile project management",
+      "analytics",
+      "asset management",
+      "b2b marketing",
+      "brand management",
+      "business acumen",
+      "business analysis",
+      "business development",
+      "business planning",
+      "business process improvement",
+      "business process mapping",
+      "business process re engineering",
+      "business strategy",
+      "capability development",
+      "change management",
+      "commercial execution",
+      "consulting",
+      "content management",
+      "content strategy",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer experience",
+      "customer experience consulting",
+      "customer experience management",
+      "customer experience transformation",
+      "customer marketing",
+      "customer relationship management",
+      "destination marketing",
+      "digital asset management",
+      "digital assets",
+      "digital marketing",
+      "digital media",
+      "digital project management",
+      "digital solutions",
+      "digital strategy",
+      "digital transformation",
+      "e business",
+      "e commerce",
+      "email marketing",
+      "event management",
+      "genai",
+      "global cross functional team leadership",
+      "go to market strategy",
+      "google analytics",
+      "human resources",
+      "integrated multi channel marketing",
+      "it integration",
+      "journey mapping",
+      "leadership",
+      "management",
+      "management consulting",
+      "market research",
+      "marketing",
+      "marketing communication",
+      "marketing communications",
+      "marketing leadership",
+      "marketing management",
+      "marketing operations",
+      "marketing research",
+      "marketing strategy",
+      "mergers and acquisitions",
+      "microsoft dynamics crm",
+      "mobile marketing",
+      "multi channel marketing",
+      "oncology",
+      "online advertising",
+      "online marketing",
+      "operational excellence",
+      "operations management",
+      "organization skills",
+      "p&l",
+      "p&l forecasting",
+      "p&l management",
+      "patient support programms",
+      "pharmaceutical industry",
+      "ppc",
+      "product development",
+      "product launch",
+      "product management",
+      "product marketing",
+      "project management",
+      "public relations",
+      "saas marketing",
+      "sales excellence",
+      "sales operations",
+      "salesforce.com",
+      "sem",
+      "seo",
+      "social media",
+      "social media marketing",
+      "social networking",
+      "stakeholder management",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy",
+      "system deployment",
+      "team leadership",
+      "team management",
+      "tourism",
+      "tourism management",
+      "user centered design",
+      "veeva",
+      "web analytics",
+      "web marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "slovenia",
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "viatris",
+          "size": "10001+",
+          "id": "hzr7M9LHJFsscOgz8Dn1NAWDkkKn",
+          "founded": 2020,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "pittsburgh, pennsylvania, united states",
+            "locality": "pittsburgh",
+            "region": "pennsylvania",
+            "metro": "pittsburgh, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.44,-80.04"
+          },
+          "linkedin_url": "linkedin.com/company/viatris",
+          "linkedin_id": "52143761",
+          "facebook_url": "facebook.com/viatrisinc",
+          "twitter_url": "twitter.com/viatrisinc",
+          "website": "viatris.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-01",
+        "title": {
+          "name": "global marketing operations responsible - global commercial development",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "cosylab",
+          "size": "201-500",
+          "id": "z1VnA6nm8B0qhD4LIvyuCg5taVFg",
+          "founded": 2001,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "metro": null,
+            "country": "slovenia",
+            "continent": "europe",
+            "street_address": "64 gerbičeva ulica",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "46.05,14.50"
+          },
+          "linkedin_url": "linkedin.com/company/cosylab",
+          "linkedin_id": "13017",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cosylab.com"
+        },
+        "location_names": [],
+        "end_date": "2025-01",
+        "start_date": "2024-09",
+        "title": {
+          "name": "vice president, global head of strategic marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2024-07",
+        "start_date": "2023-01",
+        "title": {
+          "name": "global customer experience & engagament - engagement & activation director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2022-10",
+        "start_date": "2021-11",
+        "title": {
+          "name": "global marketing excellence - global embedding modern marketing capability lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2023-05",
+        "start_date": "2020-04",
+        "title": {
+          "name": "commercial excellence & digital head, member of novartis pharma slovenia executive board",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb uk & ireland",
+          "size": "1001-5000",
+          "id": "Q21Nv0J0op4wMhOC55CVZwk6udqA",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "hillingdon, england, united kingdom",
+            "locality": "hillingdon",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub8 1dh",
+            "geo": "51.51,-0.48"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb-uk-ireland",
+          "linkedin_id": "93848929",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2017-02",
+        "title": {
+          "name": "associate director customer engagement - uk / italy / ie / brazil global commercial operations, ww mc hub",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "walton upon thames, england, united kingdom",
+          "new york, new york, united states"
+        ],
+        "end_date": "2017-02",
+        "start_date": "2015-01",
+        "title": {
+          "name": "enterprise multi-channel marketing country lead uk, global commercial operations",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "atlantis healthcare uk limited",
+          "size": "1-10",
+          "id": "S7WgWRt0kBzf5DBQT9544w8QZfAh",
+          "founded": null,
+          "industry": "health, wellness and fitness",
+          "industry_v2": "wellness and fitness services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "566 chiswick high road",
+            "address_line_2": "2nd floor",
+            "postal_code": "w4 5ya",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/atlantis-healthcare-uk-limited",
+          "linkedin_id": "19372990",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-01",
+        "start_date": "2014-02",
+        "title": {
+          "name": "senior program manager / scrum master / team (delivery) lead",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "slovenian tourist board",
+          "size": "11-50",
+          "id": "iuNx4148SUe8r8BciQM4JAQhBbNt",
+          "founded": 2015,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "metro": null,
+            "country": "slovenia",
+            "continent": "europe",
+            "street_address": "13 dimičeva ulica",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "46.05,14.50"
+          },
+          "linkedin_url": "linkedin.com/company/slovenian-tourist-board",
+          "linkedin_id": "2320871",
+          "facebook_url": "facebook.com/slovenia.info",
+          "twitter_url": "twitter.com/sloveniainfo",
+          "website": "slovenia.info"
+        },
+        "location_names": [],
+        "end_date": "2012-08",
+        "start_date": "2008-03",
+        "title": {
+          "name": "global head of digital marketing & strategic projects, executive board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "director",
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "slovenian tourist board",
+          "size": "11-50",
+          "id": "iuNx4148SUe8r8BciQM4JAQhBbNt",
+          "founded": 2015,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "metro": null,
+            "country": "slovenia",
+            "continent": "europe",
+            "street_address": "13 dimičeva ulica",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "46.05,14.50"
+          },
+          "linkedin_url": "linkedin.com/company/slovenian-tourist-board",
+          "linkedin_id": "2320871",
+          "facebook_url": "facebook.com/slovenia.info",
+          "twitter_url": "twitter.com/sloveniainfo",
+          "website": "slovenia.info"
+        },
+        "location_names": [],
+        "end_date": "2008-02",
+        "start_date": "2005-01",
+        "title": {
+          "name": "global senior director of research, development & digital, executive board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "slovenian tourist board",
+          "size": "11-50",
+          "id": "iuNx4148SUe8r8BciQM4JAQhBbNt",
+          "founded": 2015,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "metro": null,
+            "country": "slovenia",
+            "continent": "europe",
+            "street_address": "13 dimičeva ulica",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "46.05,14.50"
+          },
+          "linkedin_url": "linkedin.com/company/slovenian-tourist-board",
+          "linkedin_id": "2320871",
+          "facebook_url": "facebook.com/slovenia.info",
+          "twitter_url": "twitter.com/sloveniainfo",
+          "website": "slovenia.info"
+        },
+        "location_names": [],
+        "end_date": "2004-12",
+        "start_date": "2002-02",
+        "title": {
+          "name": "head of information systems & new media",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "slovenian tourist board",
+          "size": "11-50",
+          "id": "iuNx4148SUe8r8BciQM4JAQhBbNt",
+          "founded": 2015,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "metro": null,
+            "country": "slovenia",
+            "continent": "europe",
+            "street_address": "13 dimičeva ulica",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "46.05,14.50"
+          },
+          "linkedin_url": "linkedin.com/company/slovenian-tourist-board",
+          "linkedin_id": "2320871",
+          "facebook_url": "facebook.com/slovenia.info",
+          "twitter_url": "twitter.com/sloveniainfo",
+          "website": "slovenia.info"
+        },
+        "location_names": [],
+        "end_date": "2002-01",
+        "start_date": "2001-01",
+        "title": {
+          "name": "regional product marketing head",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": "2000-12",
+        "start_date": "1999-01",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "bournemouth university",
+          "type": "post-secondary institution",
+          "id": "KbLNShF0X-BswUkS0vld2A_0000",
+          "location": {
+            "name": "poole, england, united kingdom",
+            "locality": "poole",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bournemouth-university",
+          "facebook_url": "facebook.com/joinbournemouthuni",
+          "twitter_url": "twitter.com/bournemouthuni",
+          "linkedin_id": "14238",
+          "website": "bournemouth.ac.uk",
+          "domain": "bournemouth.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2004",
+        "majors": [
+          "management",
+          "marketing",
+          "tourism",
+          "tourism management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of st.gallen",
+          "type": "post-secondary institution",
+          "id": "LDRlevUWy0pxUQAZrJB2UA_0000",
+          "location": {
+            "name": "diepoldsau, st. gallen, switzerland",
+            "locality": "diepoldsau",
+            "region": "st. gallen",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-st-gallen",
+          "facebook_url": "facebook.com/hsgunistgallen",
+          "twitter_url": "twitter.com/hsgstgallen",
+          "linkedin_id": "166673",
+          "website": "unisg.ch",
+          "domain": "unisg.ch"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "1997",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of ljubljana, school of economics and business",
+          "type": "post-secondary institution",
+          "id": "-gZUqqML6up9S76SIgMuWg_0000",
+          "location": {
+            "name": "ljubljana-dostava, slovenia",
+            "locality": "ljubljana-dostava",
+            "region": null,
+            "country": "slovenia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-ljubljana-school-of-economics-and-business",
+          "facebook_url": "facebook.com/unilj",
+          "twitter_url": null,
+          "linkedin_id": "15097130",
+          "website": "ef.uni-lj.si",
+          "domain": "uni-lj.si"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1998",
+        "majors": [
+          "international economics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "770385",
+        "url": "linkedin.com/in/tinkarapk",
+        "username": "tinkarapk"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/tinkarapk",
+        "username": "tinkarapk"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

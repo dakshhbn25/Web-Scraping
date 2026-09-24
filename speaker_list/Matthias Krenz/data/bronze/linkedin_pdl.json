@@ -1,0 +1,603 @@
+{
+  "record_id": "speaker-dubrovnik-071",
+  "speaker_name": "Matthias Krenz",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/matthias-krenz-b46064a8/",
+  "scraped_at": "2026-09-18T09:37:35.992712+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "pCYUS-geMcFuYEisA7iEOQ_0000",
+    "full_name": "matthias krenz",
+    "first_name": "matthias",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "krenz",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/matthias-krenz-b46064a8",
+    "linkedin_username": "matthias-krenz-b46064a8",
+    "linkedin_id": "382338918",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of customer experience",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "CbcGKCH3ULkCEmh2XTqaQAv3C4Nj",
+    "job_company_name": "medice - the health family",
+    "job_company_website": "medice-health-family.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 1949,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/medice-arzneimittel",
+    "job_company_linkedin_id": "10637945",
+    "job_company_facebook_url": "facebook.com/medicearzneimittel",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "iserlohn, north rhine-westphalia, germany",
+    "job_company_location_locality": "iserlohn",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.36,7.68",
+    "job_company_location_street_address": "37 kuhloweg",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "58638",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-08-03",
+    "job_last_verified": "2026-06-03",
+    "job_start_date": "2025-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "business analyse",
+      "crm",
+      "direct sales",
+      "e commerce",
+      "e commerce optimization",
+      "international sales",
+      "key account development",
+      "key account management",
+      "multi channel marketing",
+      "multi channel retail",
+      "online marketing",
+      "product management",
+      "product marketing",
+      "project coordination",
+      "project management",
+      "projektmanagement",
+      "retail sales",
+      "sales management",
+      "sales operations",
+      "software as a service"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "medice - the health family",
+          "size": "501-1000",
+          "id": "CbcGKCH3ULkCEmh2XTqaQAv3C4Nj",
+          "founded": 1949,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "iserlohn, north rhine-westphalia, germany",
+            "locality": "iserlohn",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "37 kuhloweg",
+            "address_line_2": null,
+            "postal_code": "58638",
+            "geo": "51.36,7.68"
+          },
+          "linkedin_url": "linkedin.com/company/medice-arzneimittel",
+          "linkedin_id": "10637945",
+          "facebook_url": "facebook.com/medicearzneimittel",
+          "twitter_url": null,
+          "website": "medice-health-family.com"
+        },
+        "location_names": [
+          "iserlohn, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "global head of customer experience",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "medice - the health family",
+          "size": "501-1000",
+          "id": "CbcGKCH3ULkCEmh2XTqaQAv3C4Nj",
+          "founded": 1949,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "iserlohn, north rhine-westphalia, germany",
+            "locality": "iserlohn",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "37 kuhloweg",
+            "address_line_2": null,
+            "postal_code": "58638",
+            "geo": "51.36,7.68"
+          },
+          "linkedin_url": "linkedin.com/company/medice-arzneimittel",
+          "linkedin_id": "10637945",
+          "facebook_url": "facebook.com/medicearzneimittel",
+          "twitter_url": null,
+          "website": "medice-health-family.com"
+        },
+        "location_names": [
+          "iserlohn, north rhine-westphalia, germany"
+        ],
+        "end_date": "2025-03",
+        "start_date": "2021-01",
+        "title": {
+          "name": "global head of digital marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medice - the health family",
+          "size": "501-1000",
+          "id": "CbcGKCH3ULkCEmh2XTqaQAv3C4Nj",
+          "founded": 1949,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "iserlohn, north rhine-westphalia, germany",
+            "locality": "iserlohn",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "37 kuhloweg",
+            "address_line_2": null,
+            "postal_code": "58638",
+            "geo": "51.36,7.68"
+          },
+          "linkedin_url": "linkedin.com/company/medice-arzneimittel",
+          "linkedin_id": "10637945",
+          "facebook_url": "facebook.com/medicearzneimittel",
+          "twitter_url": null,
+          "website": "medice-health-family.com"
+        },
+        "location_names": [
+          "iserlohn, north rhine-westphalia, germany"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2020-07",
+        "title": {
+          "name": "e-commerce-manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "burg-wächter gmbh & co. kg",
+          "size": "501-1000",
+          "id": "GU7eEJS1Oa6blDRmfziiIA1zBcJ3",
+          "founded": 1920,
+          "industry": "security and investigations",
+          "industry_v2": "security systems services",
+          "location": {
+            "name": "wetter (ruhr), north rhine-westphalia, germany",
+            "locality": "wetter (ruhr)",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "15 altenhofer weg",
+            "address_line_2": null,
+            "postal_code": "58300",
+            "geo": "51.38,7.39"
+          },
+          "linkedin_url": "linkedin.com/company/burgwaechter",
+          "linkedin_id": "9750951",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "burg-waechter.de"
+        },
+        "location_names": [
+          "wetter (ruhr), north rhine-westphalia, germany"
+        ],
+        "end_date": "2020-07",
+        "start_date": "2019-07",
+        "title": {
+          "name": "head of e-commerce",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "schäfer shop deutschland",
+          "size": "201-500",
+          "id": "akRNAPlQSzmrFDTjWJrppQOgXEBc",
+          "founded": 1975,
+          "industry": "business supplies and equipment",
+          "industry_v2": "retail office equipment",
+          "location": {
+            "name": "betzdorf, rhineland-palatinate, germany",
+            "locality": "betzdorf",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "65 industriestraße",
+            "address_line_2": null,
+            "postal_code": "57518",
+            "geo": "50.78,7.87"
+          },
+          "linkedin_url": "linkedin.com/company/sch-fer-shop-gmbh",
+          "linkedin_id": "2969944",
+          "facebook_url": "facebook.com/schaefershop.de",
+          "twitter_url": null,
+          "website": "schaefer-shop.de"
+        },
+        "location_names": [
+          "betzdorf, rhineland-palatinate, germany"
+        ],
+        "end_date": "2019-07",
+        "start_date": "2016-10",
+        "title": {
+          "name": "international ecommerce development manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hokrema herrenaccessoires inh matthias krenz",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2017-04",
+        "start_date": "2014-10",
+        "title": {
+          "name": "inhaber / geschäftsführer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grenke österreich",
+          "size": "11-50",
+          "id": "dBLwXtbto3TaVmoJ9jT0SAzZOUyT",
+          "founded": 1997,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "vienna, wien, austria",
+            "locality": "vienna",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "19 gumpendorfer straße",
+            "address_line_2": null,
+            "postal_code": "1060",
+            "geo": "48.20,16.37"
+          },
+          "linkedin_url": "linkedin.com/company/grenkeleasing-gmbh",
+          "linkedin_id": "4849359",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "grenkeleasing.at"
+        },
+        "location_names": [],
+        "end_date": "2016-09",
+        "start_date": "2012-05",
+        "title": {
+          "name": "sales area manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "severin",
+          "size": "501-1000",
+          "id": "C9OYKhA3RrXZKe3FpLc1aQhbBZZi",
+          "founded": 1892,
+          "industry": "electrical/electronic manufacturing",
+          "industry_v2": "appliances, electrical, and electronics manufacturing",
+          "location": {
+            "name": "sundern, north rhine-westphalia, germany",
+            "locality": "sundern",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "27 röhre",
+            "address_line_2": null,
+            "postal_code": "59846",
+            "geo": "51.60,8.2"
+          },
+          "linkedin_url": "linkedin.com/company/severin-elektrogeräte-gmbh",
+          "linkedin_id": "6081391",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "severin.com"
+        },
+        "location_names": [
+          "sundern, north rhine-westphalia, germany"
+        ],
+        "end_date": "2012-05",
+        "start_date": "2012-02",
+        "title": {
+          "name": "strategic purchase manager",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "procurement",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "christ juweliere und uhrmacher seit 1863 gmbh",
+          "size": "1001-5000",
+          "id": "O4qoTWV0qDtXJpWDivYI6ALy1MDJ",
+          "founded": 1863,
+          "industry": "luxury goods & jewelry",
+          "industry_v2": "retail luxury goods and jewelry",
+          "location": {
+            "name": "hagen, north rhine-westphalia, germany",
+            "locality": "hagen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "4 kabeler straße",
+            "address_line_2": null,
+            "postal_code": "58099",
+            "geo": "51.36,7.44"
+          },
+          "linkedin_url": "linkedin.com/company/christ-juweliere-und-uhrmacher-seit-1863-gmbh",
+          "linkedin_id": "25148536",
+          "facebook_url": "facebook.com/juwelierchrist",
+          "twitter_url": null,
+          "website": "christ.de"
+        },
+        "location_names": [
+          "hagen, north rhine-westphalia, germany"
+        ],
+        "end_date": "2012-02",
+        "start_date": "2010-09",
+        "title": {
+          "name": "e-commerce purchase manager / project manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "fom university of applied sciences for economics and management",
+          "type": "post-secondary institution",
+          "id": "pGCPGsgFBlNZn3DIX9Df3g_0000",
+          "location": {
+            "name": "essen, north rhine-westphalia, germany",
+            "locality": "essen",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/fom-hochschule-für-oekonomie-&-management",
+          "facebook_url": "facebook.com/fom",
+          "twitter_url": "twitter.com/fomhochschule",
+          "linkedin_id": "15093997",
+          "website": "fom.de",
+          "domain": "fom.de"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2011-01",
+        "end_date": "2013",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "berufsakademie stuttgart",
+          "type": "post-secondary institution",
+          "id": "8bgBRFbxvGgwgSq5oSVaPw_0000",
+          "location": {
+            "name": "stuttgart, baden-württemberg, germany",
+            "locality": "stuttgart",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/berufsakademie-stuttgart",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15108188",
+          "website": "allthelist.com",
+          "domain": "allthelist.com"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2006",
+        "end_date": "2009",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "escola gmbh",
+          "type": "post-secondary institution",
+          "id": "uxSUmGPhgQ9wwtiOzkL-Hw_0000",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/escolagmbh",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "12661583",
+          "website": "escola.ch",
+          "domain": "escola.ch"
+        },
+        "degrees": [],
+        "start_date": "2006-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "fom university of applied sciences for economics and management",
+          "type": "post-secondary institution",
+          "id": "pGCPGsgFBlNZn3DIX9Df3g_0000",
+          "location": {
+            "name": "essen, north rhine-westphalia, germany",
+            "locality": "essen",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/fom-hochschule-für-oekonomie-&-management",
+          "facebook_url": "facebook.com/fom",
+          "twitter_url": "twitter.com/fomhochschule",
+          "linkedin_id": "15093997",
+          "website": "fom.de",
+          "domain": "fom.de"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2009",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "382338918",
+        "url": "linkedin.com/in/matthias-krenz-b46064a8",
+        "username": "matthias-krenz-b46064a8"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

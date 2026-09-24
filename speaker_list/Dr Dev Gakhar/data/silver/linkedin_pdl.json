@@ -1,0 +1,194 @@
+{
+  "record_id": "speaker-dubrovnik-044",
+  "speaker_name": "Dr Dev Gakhar",
+  "linkedin_url": "https://www.linkedin.com/in/devgakhar/",
+  "likelihood": 9,
+  "full_name": "dev gakhar",
+  "job_title": "co-founder",
+  "industry": "hospital & health care",
+  "current_company": "the healthcare creators collective",
+  "current_company_website": "healthcarecreators.co.uk",
+  "current_company_industry": null,
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "change management",
+    "communication",
+    "content strategy for healthcare",
+    "digital communication",
+    "digital communication strategy",
+    "digital health advocacy",
+    "digital transformation",
+    "health policy engagement",
+    "healthcare innovation",
+    "high pressure situations",
+    "interpersonal communication",
+    "leadership",
+    "management",
+    "medical education",
+    "medical misinformation management",
+    "negotiation",
+    "public health communication",
+    "research skills",
+    "stakeholder engagement",
+    "strategic communications",
+    "strategic partnerships",
+    "teaching",
+    "team management",
+    "teamwork",
+    "time management",
+    "video editing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-founder",
+      "company": "the healthcare creators collective",
+      "company_industry": null,
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "nhs clinical entrepreneur",
+      "company": "nhs clinical entrepreneur programme",
+      "company_industry": "hospital & health care",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "member board of directors",
+      "company": "themednex",
+      "company_industry": "education management",
+      "start_date": "2025-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior house officer fy3 doctor",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "healthcare communications consultant",
+      "company": "doctor devify",
+      "company_industry": "online media",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "founding member - tiktok clinician creator network",
+      "company": "tiktok",
+      "company_industry": "entertainment",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "foundation doctors advisory board representative for 300+ doctors across lnr",
+      "company": "ukfpo",
+      "company_industry": null,
+      "start_date": "2023-10",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "founder and content creator",
+      "company": "doctor devify",
+      "company_industry": "online media",
+      "start_date": "2023-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "specialised (academic) foundation doctor",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2023-07",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical elective in dermatology",
+      "company": "westmead hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2023-05",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "bar manager",
+      "company": "imperial college school of medicine students'​ union",
+      "company_industry": "higher education",
+      "start_date": "2022-08",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "mental health health care assistant",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2020-06",
+      "end_date": "2022-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of leicester",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2024-09",
+      "end_date": "2025-07"
+    },
+    {
+      "school": "university of leicester",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2024-01",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "imperial business school",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2020-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "imperial college london",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2017-01",
+      "end_date": "2023-12"
+    },
+    {
+      "school": "reading school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2017"
+    }
+  ]
+}

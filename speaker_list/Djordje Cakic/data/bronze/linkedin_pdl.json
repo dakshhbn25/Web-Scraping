@@ -1,0 +1,557 @@
+{
+  "record_id": "speaker-viennacx-015",
+  "speaker_name": "Djordje Cakic",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/djordje-cakic-779a404b/",
+  "scraped_at": "2026-09-18T10:25:28.647620+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "VSkDYzOMSFXaQmG9hPGIww_0000",
+    "full_name": "djordje cakic",
+    "first_name": "djordje",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "cakic",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/djordje-cakic-779a404b",
+    "linkedin_username": "djordje-cakic-779a404b",
+    "linkedin_id": "178745421",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/djordjecakic",
+    "twitter_username": "djordjecakic",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "customer experience and omnichannel engagement lead, ceetris region",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+    "job_company_name": "roche",
+    "job_company_website": "roche.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1896,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/roche",
+    "job_company_linkedin_id": "1602",
+    "job_company_facebook_url": "facebook.com/rochecareers",
+    "job_company_twitter_url": "twitter.com/roche",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4070",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-03-15",
+    "job_last_verified": "2026-07-30",
+    "job_start_date": "2024-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "serbia",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-30",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile project management",
+      "b2b marketing",
+      "business intelligence",
+      "business strategy",
+      "conditional generation",
+      "content strategy",
+      "customer engagement",
+      "customer experience management",
+      "customer journey mapping",
+      "data analytics",
+      "data driven decision making",
+      "data driven marketing",
+      "dermatology",
+      "digital marketing",
+      "digital strategy",
+      "e marketing",
+      "email marketing",
+      "enterprise marketing",
+      "event marketing",
+      "event marketing strategy",
+      "generative ai",
+      "healthcare",
+      "hematology",
+      "hootsuite",
+      "hospital sales",
+      "information graphics",
+      "leadership",
+      "linkedin marketing solutions",
+      "market access",
+      "marketing strategy",
+      "medical affairs",
+      "negotiation",
+      "omni channel marketing",
+      "oncology",
+      "persuasion",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacists",
+      "product launch",
+      "sales",
+      "sales effectiveness",
+      "sales strategy",
+      "small business marketing",
+      "social listening",
+      "social media analysis",
+      "social media measurement",
+      "strategic thinking",
+      "strategy",
+      "team leadership",
+      "user experience design",
+      "voice of the customer"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "serbia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "customer experience and omnichannel engagement lead, ceetris region",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "moscow, moscow, russia"
+        ],
+        "end_date": "2024-01",
+        "start_date": "2021-02",
+        "title": {
+          "name": "digital lead @ roche russia",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2020-01",
+        "start_date": "2019-02",
+        "title": {
+          "name": "national sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2020-02",
+        "start_date": "2019-01",
+        "title": {
+          "name": "customer value chapter lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2020-01",
+        "start_date": "2018-06",
+        "title": {
+          "name": "digital champion",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2019-02",
+        "start_date": "2015-01",
+        "title": {
+          "name": "franchise manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2014-12",
+        "start_date": "2014-01",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2013-12",
+        "start_date": "2009-11",
+        "title": {
+          "name": "medical representative",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "cotrugli business school",
+          "type": "post-secondary institution",
+          "id": "UBObvHmzz5FMX5OjKMblZw_0000",
+          "location": {
+            "name": "buzin, city of zagreb, croatia",
+            "locality": "buzin",
+            "region": "city of zagreb",
+            "country": "croatia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cotrugli-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1181565",
+          "website": "cotrugli.org",
+          "domain": "cotrugli.org"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "farmaceutski fakultet u beogradu",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "bachelor of pharmacy",
+          "bachelors"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2008",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "celforpharma",
+          "type": "post-secondary institution",
+          "id": "IpvB8Tuk-saHIhksqs5E9A_0000",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "965286",
+          "website": "celforpharma.com",
+          "domain": "celforpharma.com"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "178745421",
+        "url": "linkedin.com/in/djordje-cakic-779a404b",
+        "username": "djordje-cakic-779a404b"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/djordjecakic",
+        "username": "djordjecakic"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,122 @@
+{
+  "record_id": "speaker-viennacx-068",
+  "speaker_name": "Pierre Metrailler",
+  "linkedin_url": "https://www.linkedin.com/in/pierremetrailler/",
+  "likelihood": 9,
+  "full_name": "pierre metrailler",
+  "job_title": "chief executive officer",
+  "industry": "information services",
+  "current_company": "onomi",
+  "current_company_website": "onomi.io",
+  "current_company_industry": "information services",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [],
+  "interests": [
+    "clean technology",
+    "consumer internet",
+    "enterprise software",
+    "health care",
+    "mobile"
+  ],
+  "experience": [
+    {
+      "title": "chief executive officer",
+      "company": "onomi",
+      "company_industry": "information services",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief executive officer",
+      "company": "spotme",
+      "company_industry": "computer software",
+      "start_date": "2016-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "chief executive officer europe & group chief financial officer",
+      "company": "spotme",
+      "company_industry": "computer software",
+      "start_date": "2014-01",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "chief operations officer",
+      "company": "spotme",
+      "company_industry": "computer software",
+      "start_date": "2008-01",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "system architect",
+      "company": "spotme",
+      "company_industry": "computer software",
+      "start_date": "2004-10",
+      "end_date": "2008-12",
+      "is_primary": false
+    },
+    {
+      "title": "research scientist",
+      "company": "ntt",
+      "company_industry": "information technology and services",
+      "start_date": "2004-03",
+      "end_date": "2004-10",
+      "is_primary": false
+    },
+    {
+      "title": "software engineer",
+      "company": "spotme",
+      "company_industry": "computer software",
+      "start_date": "2001-01",
+      "end_date": "2004-02",
+      "is_primary": false
+    },
+    {
+      "title": "ski instructor",
+      "company": "swiss ski school",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "1996-01",
+      "end_date": "2001-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "insead",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "linköping university",
+      "majors": [
+        "computer science",
+        "electrical engineering"
+      ],
+      "degrees": [],
+      "start_date": "2000-01",
+      "end_date": "2001-12"
+    },
+    {
+      "school": "epfl",
+      "majors": [
+        "communication"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1998-01",
+      "end_date": "2004"
+    }
+  ]
+}

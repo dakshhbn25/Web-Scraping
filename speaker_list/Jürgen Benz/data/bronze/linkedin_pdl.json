@@ -1,0 +1,849 @@
+{
+  "record_id": "speaker-viennacx-027",
+  "speaker_name": "Jürgen Benz",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/jwgbentz/",
+  "scraped_at": "2026-09-18T10:23:03.439845+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "GaWmB6JmiqGtbzTELlxWog_0000",
+    "full_name": "jürgen bentz",
+    "first_name": "jürgen",
+    "middle_initial": "w",
+    "middle_name": "w.g",
+    "last_initial": "b",
+    "last_name": "bentz",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/jwgbentz",
+    "linkedin_username": "jwgbentz",
+    "linkedin_id": "140675622",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/b3ntz",
+    "twitter_username": "b3ntz",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior director, global head of medical information",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+    "job_company_name": "ucb",
+    "job_company_website": "ucb.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1928,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ucb-pharma",
+    "job_company_linkedin_id": "26195",
+    "job_company_facebook_url": "facebook.com/ucbbiopharma",
+    "job_company_twitter_url": "twitter.com/ucb_news",
+    "job_company_location_name": "brussels, brussels, belgium",
+    "job_company_location_locality": "brussels",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.84,4.34",
+    "job_company_location_street_address": "60 allée de la recherche",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2021-12-11",
+    "job_last_verified": "2026-08-06",
+    "job_start_date": "2019-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-06",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical chemistry",
+      "biotechnology",
+      "business strategy",
+      "change management",
+      "chemistry",
+      "clinical development",
+      "clinical trials",
+      "cross functional team leadership",
+      "english",
+      "global strategy",
+      "leadership",
+      "life sciences",
+      "management",
+      "medical affairs",
+      "medical information",
+      "medical writing",
+      "medicine",
+      "neurologie",
+      "neurology",
+      "oncology",
+      "onkologie",
+      "overseeing projects",
+      "peer beziehungen",
+      "pharmaceutical industry",
+      "pharmaceutical medicine",
+      "pharmacology",
+      "pharmacovigilance",
+      "product marketing",
+      "regulatory affairs",
+      "sustainability",
+      "sustainable product development",
+      "team leadership"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2019-02",
+        "title": {
+          "name": "senior director, global head of medical information",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "mile - medical information leaders in europe",
+          "size": "201-500",
+          "id": "gbLnO6webddS0CgUzsohxApvmGoy",
+          "founded": 2014,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/mile-medical-information-leaders-in-europe",
+          "linkedin_id": "79649572",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mile-association.org"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2023-01",
+        "title": {
+          "name": "executive committee member for external affairs",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dia",
+          "size": "51-200",
+          "id": "jI6MzlPfM1oBHVApBCC8WAfltcOO",
+          "founded": 1964,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "21 dupont circle northwest",
+            "address_line_2": "suite 300",
+            "postal_code": null,
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/dia",
+          "linkedin_id": "384676",
+          "facebook_url": "facebook.com/druginformationassociation",
+          "twitter_url": "twitter.com/druginfoassn",
+          "website": "diaglobal.org"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2019-11",
+        "title": {
+          "name": "program committee member of dia emeais medical information & communications conference",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gravitate-health",
+          "size": "51-200",
+          "id": "Ca6bNM6t51ySqgGQQU27GAWGbQ66",
+          "founded": 2020,
+          "industry": "medical practice",
+          "industry_v2": "medical practices",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/gravitate-health",
+          "linkedin_id": "69268115",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "gravitatehealth.eu"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2019-10",
+        "title": {
+          "name": "work package co-lead",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "transport",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2019-01",
+        "start_date": "2013-05",
+        "title": {
+          "name": "senior director, global head of sustainability and medical established brands",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "bulle, fribourg, switzerland"
+        ],
+        "end_date": "2013-04",
+        "start_date": "2009-10",
+        "title": {
+          "name": "director, global project leader and head of established brands, global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2009-09",
+        "start_date": "2007-05",
+        "title": {
+          "name": "associate director epilepsy, global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "monheim am rhein, north rhine-westphalia, germany",
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2007-04",
+        "start_date": "2001-08",
+        "title": {
+          "name": "associate director medical affairs cns, germany",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "neustadt, rhineland-palatinate, germany",
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2001-07",
+        "start_date": "2000-09",
+        "title": {
+          "name": "cns sales specialist",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "yamanouchi pharmaceutical co",
+          "size": "11-50",
+          "id": "iQd2592IMinEpRLAVrDC2wkR8vWE",
+          "founded": null,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "paramus, new jersey, united states",
+            "locality": "paramus",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "61 south paramus road",
+            "address_line_2": null,
+            "postal_code": "07652",
+            "geo": "40.94,-74.07"
+          },
+          "linkedin_url": "linkedin.com/company/yamanouchi-pharmaceutical-co",
+          "linkedin_id": "7992989",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "heidelberg, baden-württemberg, germany"
+        ],
+        "end_date": "2000-08",
+        "start_date": "1998-06",
+        "title": {
+          "name": "clinical project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "yamanouchi pharmaceutical co",
+          "size": "11-50",
+          "id": "iQd2592IMinEpRLAVrDC2wkR8vWE",
+          "founded": null,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "paramus, new jersey, united states",
+            "locality": "paramus",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "61 south paramus road",
+            "address_line_2": null,
+            "postal_code": "07652",
+            "geo": "40.94,-74.07"
+          },
+          "linkedin_url": "linkedin.com/company/yamanouchi-pharmaceutical-co",
+          "linkedin_id": "7992989",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "neustadt, rhineland-palatinate, germany"
+        ],
+        "end_date": "1998-06",
+        "start_date": "1997-04",
+        "title": {
+          "name": "sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [],
+        "end_date": "1997-03",
+        "start_date": "1995-04",
+        "title": {
+          "name": "deputy editor-in-chief",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of cambridge",
+          "type": "post-secondary institution",
+          "id": "8RCjJr5pmaBeuOcALAzkTQ_0000",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cambridge",
+          "facebook_url": "facebook.com/cambridge.university",
+          "twitter_url": "twitter.com/cambridge_uni",
+          "linkedin_id": "4522",
+          "website": "cam.ac.uk",
+          "domain": "cam.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": "2018",
+        "majors": [
+          "leadership",
+          "sustainability"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université libre de bruxelles",
+          "type": "post-secondary institution",
+          "id": "DZtpw3yi7d14uUeJiEvYnA_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-libre-de-bruxelles",
+          "facebook_url": "facebook.com/ulbruxelles",
+          "twitter_url": "twitter.com/ulbruxelles",
+          "linkedin_id": "166704",
+          "website": "ulb.be",
+          "domain": "ulb.be"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1994-01",
+        "end_date": "1994-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1994-01",
+        "end_date": "1994-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "karlsruhe institute of technology (kit)",
+          "type": "post-secondary institution",
+          "id": "6jJpcdI9mA4Cp1yyMPTmew_0000",
+          "location": {
+            "name": "karlsruhe, baden-württemberg, germany",
+            "locality": "karlsruhe",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kit",
+          "facebook_url": "facebook.com/kit.karlsruhe.official",
+          "twitter_url": "twitter.com/kitkarlsruhe",
+          "linkedin_id": "15093461",
+          "website": "kit.edu",
+          "domain": "kit.edu"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1995",
+        "majors": [
+          "pharmacology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "johannes gutenberg university mainz",
+          "type": "post-secondary institution",
+          "id": "FPiEwuBDs40x953rre733w_0000",
+          "location": {
+            "name": "mainz, rhineland-palatinate, germany",
+            "locality": "mainz",
+            "region": "rhineland-palatinate",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unimainz",
+          "facebook_url": "facebook.com/uni.mainz",
+          "twitter_url": "twitter.com/uni_mainz",
+          "linkedin_id": "15091818",
+          "website": "uni-mainz.de",
+          "domain": "uni-mainz.de"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "1985-01",
+        "end_date": "1993",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rptu kaiserslautern - landau",
+          "type": "post-secondary institution",
+          "id": "mxVWTLPBz80n3dAuOtsxXQ_0000",
+          "location": {
+            "name": "kaiserslautern, rhineland-palatinate, germany",
+            "locality": "kaiserslautern",
+            "region": "rhineland-palatinate",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "700268",
+          "website": "rptu.de",
+          "domain": "rptu.de"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1985-01",
+        "end_date": "1990-12",
+        "majors": [
+          "chemistry"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "140675622",
+        "url": "linkedin.com/in/jwgbentz",
+        "username": "jwgbentz"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/b3ntz",
+        "username": "b3ntz"
+      },
+      {
+        "network": "linkedin",
+        "id": "140675622",
+        "url": "linkedin.com/in/jürgen-bentz-6061413b",
+        "username": "jürgen-bentz-6061413b"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/jã¼rgen-bentz-6061413b",
+        "username": "jã¼rgen-bentz-6061413b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

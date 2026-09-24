@@ -1,0 +1,449 @@
+{
+  "record_id": "speaker-dubrovnik-080",
+  "speaker_name": "Robert Raušel",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/robert-rau%C5%A1el-239902128/",
+  "scraped_at": "2026-09-18T09:37:55.651792+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Y2tmA6LSsHAHhDSrdmLXwA_0000",
+    "full_name": "robert raušel",
+    "first_name": "robert",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "raušel",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/robert-raušel-239902128",
+    "linkedin_username": "robert-raušel-239902128",
+    "linkedin_id": "527776461",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "information technology and services",
+    "job_title": "head of engineering",
+    "job_title_role": "engineering",
+    "job_title_sub_role": null,
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+    "job_company_name": "ingemark",
+    "job_company_website": "ingemark.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 1990,
+    "job_company_industry": "information technology and services",
+    "job_company_industry_v2": "it services and it consulting",
+    "job_company_linkedin_url": "linkedin.com/company/ingemark",
+    "job_company_linkedin_id": "1302858",
+    "job_company_facebook_url": "facebook.com/ingemark",
+    "job_company_twitter_url": "twitter.com/ingemark_com",
+    "job_company_location_name": "zagreb-črnomerec, city of zagreb, croatia",
+    "job_company_location_locality": "zagreb-črnomerec",
+    "job_company_location_metro": null,
+    "job_company_location_region": "city of zagreb",
+    "job_company_location_geo": "45.81,15.95",
+    "job_company_location_street_address": "269d ulica grada vukovara",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10000",
+    "job_company_location_country": "croatia",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-02-16",
+    "job_last_verified": "2026-08-29",
+    "job_start_date": "2024-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "croatia",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-29",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "android",
+      "angular",
+      "behavior driven development",
+      "clean coding",
+      "dart",
+      "domain driven design",
+      "flutter",
+      "git",
+      "ios",
+      "java",
+      "kotlin",
+      "kotlin coroutines",
+      "leadership",
+      "model view viewmodel",
+      "mongodb",
+      "project delivery",
+      "software development",
+      "spring framework",
+      "sql",
+      "team management",
+      "test automation",
+      "test driven development",
+      "xml"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "croatia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ingemark",
+          "size": "51-200",
+          "id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+          "founded": 1990,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "metro": null,
+            "country": "croatia",
+            "continent": "europe",
+            "street_address": "269d ulica grada vukovara",
+            "address_line_2": null,
+            "postal_code": "10000",
+            "geo": "45.81,15.95"
+          },
+          "linkedin_url": "linkedin.com/company/ingemark",
+          "linkedin_id": "1302858",
+          "facebook_url": "facebook.com/ingemark",
+          "twitter_url": "twitter.com/ingemark_com",
+          "website": "ingemark.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-02",
+        "title": {
+          "name": "head of engineering",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ingemark",
+          "size": "51-200",
+          "id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+          "founded": 1990,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "metro": null,
+            "country": "croatia",
+            "continent": "europe",
+            "street_address": "269d ulica grada vukovara",
+            "address_line_2": null,
+            "postal_code": "10000",
+            "geo": "45.81,15.95"
+          },
+          "linkedin_url": "linkedin.com/company/ingemark",
+          "linkedin_id": "1302858",
+          "facebook_url": "facebook.com/ingemark",
+          "twitter_url": "twitter.com/ingemark_com",
+          "website": "ingemark.com"
+        },
+        "location_names": [
+          "zagreb, city of zagreb, croatia"
+        ],
+        "end_date": null,
+        "start_date": "2022-01",
+        "title": {
+          "name": "lead flutter developer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ingemark",
+          "size": "51-200",
+          "id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+          "founded": 1990,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "metro": null,
+            "country": "croatia",
+            "continent": "europe",
+            "street_address": "269d ulica grada vukovara",
+            "address_line_2": null,
+            "postal_code": "10000",
+            "geo": "45.81,15.95"
+          },
+          "linkedin_url": "linkedin.com/company/ingemark",
+          "linkedin_id": "1302858",
+          "facebook_url": "facebook.com/ingemark",
+          "twitter_url": "twitter.com/ingemark_com",
+          "website": "ingemark.com"
+        },
+        "location_names": [],
+        "end_date": "2024-02",
+        "start_date": "2017-10",
+        "title": {
+          "name": "head of mobile development",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ingemark",
+          "size": "51-200",
+          "id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+          "founded": 1990,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "metro": null,
+            "country": "croatia",
+            "continent": "europe",
+            "street_address": "269d ulica grada vukovara",
+            "address_line_2": null,
+            "postal_code": "10000",
+            "geo": "45.81,15.95"
+          },
+          "linkedin_url": "linkedin.com/company/ingemark",
+          "linkedin_id": "1302858",
+          "facebook_url": "facebook.com/ingemark",
+          "twitter_url": "twitter.com/ingemark_com",
+          "website": "ingemark.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2016-10",
+        "title": {
+          "name": "lead android developer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ingemark",
+          "size": "51-200",
+          "id": "xmXCM6iR2Q5Svy8vTUk3vAUYWHAX",
+          "founded": 1990,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "metro": null,
+            "country": "croatia",
+            "continent": "europe",
+            "street_address": "269d ulica grada vukovara",
+            "address_line_2": null,
+            "postal_code": "10000",
+            "geo": "45.81,15.95"
+          },
+          "linkedin_url": "linkedin.com/company/ingemark",
+          "linkedin_id": "1302858",
+          "facebook_url": "facebook.com/ingemark",
+          "twitter_url": "twitter.com/ingemark_com",
+          "website": "ingemark.com"
+        },
+        "location_names": [
+          "zagreb, city of zagreb, croatia"
+        ],
+        "end_date": "2016-10",
+        "start_date": "2015-10",
+        "title": {
+          "name": "android developer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "siemens",
+          "size": "10001+",
+          "id": "F6xzkkcbv1tPhfZ1D2BaiQP37H1Q",
+          "founded": 1847,
+          "industry": "industrial automation",
+          "industry_v2": "automation machinery manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 werner-von-siemens-straße",
+            "address_line_2": null,
+            "postal_code": "80333",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/siemens",
+          "linkedin_id": "1043",
+          "facebook_url": "facebook.com/siemens",
+          "twitter_url": "twitter.com/siemens",
+          "website": "siemens.com"
+        },
+        "location_names": [
+          "zagreb, city of zagreb, croatia"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2014-09",
+        "title": {
+          "name": "system integration engineer",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "fer",
+          "type": "post-secondary institution",
+          "id": "Nq5323kVg1q8EF9jHwOR-A_0000",
+          "location": {
+            "name": "zagreb-črnomerec, city of zagreb, croatia",
+            "locality": "zagreb-črnomerec",
+            "region": "city of zagreb",
+            "country": "croatia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/fer",
+          "facebook_url": "facebook.com/unizg",
+          "twitter_url": "twitter.com/sveuzgbu",
+          "linkedin_id": "9905",
+          "website": "fer.unizg.hr",
+          "domain": "unizg.hr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2015",
+        "majors": [
+          "communication"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college of natural sciences and mathematics at the university of toledo",
+          "type": "post-secondary institution",
+          "id": "nE--CzAG8saPM1RRBfXqHw_0000",
+          "location": {
+            "name": "toledo, ohio, united states",
+            "locality": "toledo",
+            "region": "ohio",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/utoledonsm",
+          "facebook_url": "facebook.com/utoledo",
+          "twitter_url": "twitter.com/utoledo",
+          "linkedin_id": "65514844",
+          "website": "utoledo.edu",
+          "domain": "utoledo.edu"
+        },
+        "degrees": [],
+        "start_date": "2005-01",
+        "end_date": "2009-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college of natural sciences and mathematics at the university of toledo",
+          "type": "post-secondary institution",
+          "id": "nE--CzAG8saPM1RRBfXqHw_0000",
+          "location": {
+            "name": "toledo, ohio, united states",
+            "locality": "toledo",
+            "region": "ohio",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/utoledonsm",
+          "facebook_url": "facebook.com/utoledo",
+          "twitter_url": "twitter.com/utoledo",
+          "linkedin_id": "65514844",
+          "website": "utoledo.edu",
+          "domain": "utoledo.edu"
+        },
+        "degrees": [],
+        "start_date": "2005-01",
+        "end_date": "2009-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "527776461",
+        "url": "linkedin.com/in/robert-raušel-239902128",
+        "username": "robert-raušel-239902128"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

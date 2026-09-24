@@ -1,0 +1,817 @@
+{
+  "record_id": "speaker-dubrovnik-063",
+  "speaker_name": "David Vanni",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/david-vanni-lifesciences/",
+  "scraped_at": "2026-09-18T09:37:19.110775+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "uFjeykyfXDMKGGpkYofDWg_0000",
+    "full_name": "david vanni",
+    "first_name": "david",
+    "middle_initial": "a",
+    "middle_name": null,
+    "last_initial": "v",
+    "last_name": "vanni",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/david-vanni-lifescience",
+    "linkedin_username": "david-vanni-lifescience",
+    "linkedin_id": "214237294",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "head of growth",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "growth",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "zFw9pcX2BTyvr8bkNrivAwexLYab",
+    "job_company_name": "choir - computers & humans orchestrating in resonance",
+    "job_company_website": "choirai.com",
+    "job_company_size": "11-50",
+    "job_company_founded": 2023,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "it system custom software development",
+    "job_company_linkedin_url": "linkedin.com/company/choir-computers-humans-orchestrating-in-resonance",
+    "job_company_linkedin_id": "92725858",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "white house station, new jersey, united states",
+    "job_company_location_locality": "white house station",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.61,-74.76",
+    "job_company_location_street_address": "12 van cleef drive",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "08889",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-09-03",
+    "job_last_verified": "2026-09-03",
+    "job_start_date": "2026-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-03",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "climbed the kilimanjaro 5895m",
+      "climbed the weissmies 4023m",
+      "middle east",
+      "south america and africa",
+      "switzerland in 2008",
+      "tanzania in 2005",
+      "trips to asia"
+    ],
+    "skills": [
+      "african markets",
+      "agricultural economics",
+      "asian markets",
+      "asset managment",
+      "b2b marketing strategy",
+      "care delivery",
+      "commodity",
+      "competitive differentiation",
+      "equities",
+      "financial markets",
+      "gestion de projet agile",
+      "healthcare information technology",
+      "healthcare innovation",
+      "healthcare marketing",
+      "healthcare system",
+      "international trade",
+      "marketing strategy",
+      "medical sales",
+      "mexican market",
+      "patient engagement",
+      "portfolio management",
+      "private banking",
+      "revenue and profit growth",
+      "secteur pharmaceutique",
+      "stakeholder management",
+      "strategic sourcing",
+      "ventes pharmaceutiques"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "china",
+      "singapore",
+      "hong kong"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "choir - computers & humans orchestrating in resonance",
+          "size": "11-50",
+          "id": "zFw9pcX2BTyvr8bkNrivAwexLYab",
+          "founded": 2023,
+          "industry": "computer software",
+          "industry_v2": "it system custom software development",
+          "location": {
+            "name": "white house station, new jersey, united states",
+            "locality": "white house station",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "12 van cleef drive",
+            "address_line_2": null,
+            "postal_code": "08889",
+            "geo": "40.61,-74.76"
+          },
+          "linkedin_url": "linkedin.com/company/choir-computers-humans-orchestrating-in-resonance",
+          "linkedin_id": "92725858",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "choirai.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-07",
+        "title": {
+          "name": "head of growth",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "growth",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2026-06",
+        "start_date": "2024-05",
+        "title": {
+          "name": "associate director, global customer strategy | oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2024-04",
+        "start_date": "2023-03",
+        "title": {
+          "name": "senior brand manager, patient activation | china cardiovascular & metabolic",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2023-02",
+        "start_date": "2022-02",
+        "title": {
+          "name": "brand manager, marketing new launch | china cardiovascular & metabolic",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2022-01",
+        "start_date": "2021-03",
+        "title": {
+          "name": "digital innovation manager | china marketing omni-channel",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2021-02",
+        "start_date": "2019-04",
+        "title": {
+          "name": "digital transformation coordinator | asia-pacific region",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dimab groupe",
+          "size": "51-200",
+          "id": "uGRphjoCXh6iZ8oYGkXsUgmOu84g",
+          "founded": 1951,
+          "industry": "consumer services",
+          "industry_v2": "consumer services",
+          "location": {
+            "name": "payerne, vaud, switzerland",
+            "locality": "payerne",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "c36 zi la palaz",
+            "address_line_2": null,
+            "postal_code": "1530",
+            "geo": "46.81,6.92"
+          },
+          "linkedin_url": "linkedin.com/company/dimabgroupe",
+          "linkedin_id": "844762",
+          "facebook_url": "facebook.com/dimabgroupe",
+          "twitter_url": null,
+          "website": "dimab.ch"
+        },
+        "location_names": [
+          "lausanne, vaud, switzerland"
+        ],
+        "end_date": "2016-08",
+        "start_date": "2015-02",
+        "title": {
+          "name": "analyst automotive bmw | customer experience & innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ubp - union bancaire privée",
+          "size": "1001-5000",
+          "id": "6RaipeZUJCW8nEegMXFWuQuGCt6s",
+          "founded": 1969,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "genève 2, geneva, switzerland",
+            "locality": "genève 2",
+            "region": "geneva",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "96-98 rue du rhone",
+            "address_line_2": null,
+            "postal_code": "1211",
+            "geo": "46.20,6.14"
+          },
+          "linkedin_url": "linkedin.com/company/ubp",
+          "linkedin_id": "166557",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ubp_group",
+          "website": "ubp.com"
+        },
+        "location_names": [
+          "geneva, geneva, switzerland"
+        ],
+        "end_date": "2013-06",
+        "start_date": "2012-10",
+        "title": {
+          "name": "operations private banking",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "millennium bank - millennium bcp group",
+          "size": "501-1000",
+          "id": "PQkzFtqCZwhXiu0V2GCpWgFWiOiw",
+          "founded": 2000,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "athens, attica, greece",
+            "locality": "athens",
+            "region": "attica",
+            "metro": null,
+            "country": "greece",
+            "continent": "europe",
+            "street_address": "182 sygrou avenue",
+            "address_line_2": null,
+            "postal_code": "17671",
+            "geo": "37.98,23.72"
+          },
+          "linkedin_url": "linkedin.com/company/millennium-bank-a.e.",
+          "linkedin_id": "705526",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "millenniumbank.gr"
+        },
+        "location_names": [
+          "geneva, geneva, switzerland"
+        ],
+        "end_date": "2012-05",
+        "start_date": "2011-09",
+        "title": {
+          "name": "investment advisory services private banking",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "epfl",
+          "type": "post-secondary institution",
+          "id": "UfPrlABXOhkRlTTAY5Z7Bw_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/epfl",
+          "facebook_url": "facebook.com/epflcampus",
+          "twitter_url": "twitter.com/epfl",
+          "linkedin_id": "3883",
+          "website": "epfl.ch",
+          "domain": "epfl.ch"
+        },
+        "degrees": [],
+        "start_date": "2026-03",
+        "end_date": "2026-05",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "katholieke universiteit leuven (ku leuven)",
+          "type": "post-secondary institution",
+          "id": "wR-3QJcMv9G2CjN6s6Hxrw_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sri-sai-b.ed.-college-khurai-road-jarara",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "linkedin_id": "15125243",
+          "website": "kuleuven.be",
+          "domain": "kuleuven.be"
+        },
+        "degrees": [],
+        "start_date": "2025-03",
+        "end_date": "2025-06",
+        "majors": [
+          "healthcare",
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "udemy alumni",
+          "type": "post-secondary institution",
+          "id": "MCbl2qfLSShP6K0sbqgDhA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/udemy-alumni",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11367781",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2019",
+        "end_date": "2019",
+        "majors": [
+          "data science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "columbia business school",
+          "type": "post-secondary institution",
+          "id": "ZBL--HOSroyYew7MedoZAg_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/columbia-business-school",
+          "facebook_url": "facebook.com/columbia",
+          "twitter_url": "twitter.com/columbia",
+          "linkedin_id": "2625",
+          "website": "business.columbia.edu",
+          "domain": "columbia.edu"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [
+          "business",
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "renmin university of china",
+          "type": "post-secondary institution",
+          "id": "K5j5BuicKFHqbCapSK2WDA_0000",
+          "location": {
+            "name": "haidian, beijing, china",
+            "locality": "haidian",
+            "region": "beijing",
+            "country": "china",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/renmin-university-of-china",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "679569",
+          "website": "ruc.edu.cn",
+          "domain": "ruc.edu.cn"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [
+          "commerce",
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "business school lausanne (bsl)",
+          "type": "post-secondary institution",
+          "id": "cq0Pat2XFwisVppfv0YFSQ_0000",
+          "location": {
+            "name": "chavannes-près-renens, vaud, switzerland",
+            "locality": "chavannes-près-renens",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/business-school-lausanne",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "481660",
+          "website": "bsl-lausanne.ch",
+          "domain": "bsl-lausanne.ch"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2017-09",
+        "end_date": "2019-06",
+        "majors": [
+          "international economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "business school lausanne (bsl)",
+          "type": "post-secondary institution",
+          "id": "cq0Pat2XFwisVppfv0YFSQ_0000",
+          "location": {
+            "name": "chavannes-près-renens, vaud, switzerland",
+            "locality": "chavannes-près-renens",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/business-school-lausanne",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "481660",
+          "website": "bsl-lausanne.ch",
+          "domain": "bsl-lausanne.ch"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2017-01",
+        "end_date": "2019-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "international institute in geneva",
+          "type": "post-secondary institution",
+          "id": "X3kRyzmcAxHWlT3uIPtBEQ_0000",
+          "location": {
+            "name": "geneva, geneva, switzerland",
+            "locality": "geneva",
+            "region": "geneva",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/international-institute-in-geneva",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "9995816",
+          "website": "iig.ch",
+          "domain": "iig.ch"
+        },
+        "degrees": [
+          "bachelor of business administration",
+          "bachelors"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2014-12",
+        "majors": [
+          "business",
+          "finance",
+          "international business",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of geneva",
+          "type": "post-secondary institution",
+          "id": "rCeSvXmgqgH9sRXEe1FIsQ_0000",
+          "location": {
+            "name": "geneva, geneva, switzerland",
+            "locality": "geneva",
+            "region": "geneva",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-de-geneve",
+          "facebook_url": "facebook.com/unigeneve",
+          "twitter_url": "twitter.com/unigenews",
+          "linkedin_id": "166637",
+          "website": "unige.ch",
+          "domain": "unige.ch"
+        },
+        "degrees": [],
+        "start_date": "2009-01-01",
+        "end_date": "2012-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college alpin beau soleil",
+          "type": "secondary school",
+          "id": "fdXWMtrkZCIZBaeWK25bYg_0000",
+          "location": {
+            "name": "villars-sur-ollon, vaud, switzerland",
+            "locality": "villars-sur-ollon",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/college-beau-soleil",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "717553",
+          "website": "beausoleil.ch",
+          "domain": "beausoleil.ch"
+        },
+        "degrees": [],
+        "start_date": "2005-01-01",
+        "end_date": "2008",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-vanni-lifescience",
+        "username": "david-vanni-lifescience"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/david-vanni-aba8b75b",
+        "username": "david-vanni-aba8b75b"
+      },
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-vanni-lifesciences",
+        "username": "david-vanni-lifesciences"
+      },
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-a-vanni-aba8b75b",
+        "username": "david-a-vanni-aba8b75b"
+      },
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-vanni-万-得胜-aba8b75b",
+        "username": "david-vanni-万-得胜-aba8b75b"
+      },
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-a-vanni-万-得胜-aba8b75b",
+        "username": "david-a-vanni-万-得胜-aba8b75b"
+      },
+      {
+        "network": "linkedin",
+        "id": "214237294",
+        "url": "linkedin.com/in/david-vanni-大卫-瓦尼-aba8b75b",
+        "username": "david-vanni-大卫-瓦尼-aba8b75b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

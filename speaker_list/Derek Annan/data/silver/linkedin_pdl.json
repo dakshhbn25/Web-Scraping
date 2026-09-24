@@ -1,0 +1,233 @@
+{
+  "record_id": "speaker-dubrovnik-121",
+  "speaker_name": "Derek Annan",
+  "linkedin_url": "https://www.linkedin.com/in/derek-annan-phd/",
+  "likelihood": 9,
+  "full_name": "derek annan",
+  "job_title": "head of group healthcare strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "resonant group",
+  "current_company_website": "resonantgrp.com",
+  "current_company_industry": "public relations and communications",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "assay development",
+    "biochemistry",
+    "bioinformatics",
+    "biotechnology",
+    "builds relationships",
+    "business continuity planning",
+    "career counseling",
+    "client relations",
+    "customer engagement",
+    "diagnostics",
+    "dna",
+    "dna extraction",
+    "elisa",
+    "immunoassays",
+    "life sciences",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "medical education",
+    "medical writing",
+    "molecular biology",
+    "nmr",
+    "oncology",
+    "organization skills",
+    "pcr",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "protein chemistry",
+    "protein purification",
+    "qpcr",
+    "research",
+    "science",
+    "uv/vis"
+  ],
+  "interests": [
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "head of group healthcare strategy",
+      "company": "resonant group",
+      "company_industry": "public relations and communications",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director, medical and commercial strategy",
+      "company": "impact medical education",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, medical and commercial strategy",
+      "company": "wave healthcare communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "partnerships lead",
+      "company": "black professionals in life sciences (bpls)",
+      "company_industry": "non-profit organization management",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of medical strategy",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-04",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "head of strategy",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-09",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "scientific solutions director",
+      "company": "bedrock healthcare communications",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-07",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "client partnership director",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-04",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "associate business unit director",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "client services director",
+      "company": "cogora",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-05",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "business development / account director, health education",
+      "company": "virgo health",
+      "company_industry": "public relations and communications",
+      "start_date": "2015-05",
+      "end_date": "2016-05",
+      "is_primary": false
+    },
+    {
+      "title": "account director, health education",
+      "company": "virgo health",
+      "company_industry": "public relations and communications",
+      "start_date": "2015-01",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "account director (medical education)",
+      "company": "apothecom, an inizio company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-10",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior account manager (medical education)",
+      "company": "apothecom, an inizio company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "account manager (medical education / advertising)",
+      "company": "ipg health medical communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "account executive (medical education)",
+      "company": "ipg health medical communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-08",
+      "end_date": "2010-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "cranfield university",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "king's college london",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "london south bank university",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "achimota school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "bishop",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "record_id": "speaker-dubrovnik-007",
+  "speaker_name": "Thirupathi Pattipaka",
+  "linkedin_url": "https://www.linkedin.com/in/thirupathi-pattipaka/",
+  "likelihood": 9,
+  "full_name": "thirupathi pattipaka",
+  "job_title": "co-founder & chief executive officer",
+  "industry": "pharmaceuticals",
+  "current_company": "krushiai foundation",
+  "current_company_website": "krushi-ai.com",
+  "current_company_industry": "oil & energy",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agentic workflows",
+    "ai governance",
+    "ai products",
+    "ai workflow automation",
+    "algorithms",
+    "apache pig",
+    "apache spark",
+    "artificial intelligence",
+    "biostatistics",
+    "building effective relationships",
+    "clinical trial analysis",
+    "cloud computing",
+    "coaching",
+    "consulting",
+    "data architecture",
+    "data driven decision making",
+    "data mining",
+    "data products",
+    "deep learning",
+    "deep reinforcement learning",
+    "enterprise ai strategy",
+    "epidemiology",
+    "federated learning",
+    "foundational models",
+    "generative ai",
+    "hadoop",
+    "hive",
+    "impala",
+    "java",
+    "large language model operations",
+    "large language models",
+    "leadership",
+    "linux",
+    "machine learning",
+    "matlab",
+    "medical ai",
+    "medtech",
+    "mentoring",
+    "microsoft excel",
+    "nonprofit organizations",
+    "observational studies",
+    "outcomes research",
+    "pharmaceutical industry",
+    "possess strong analytical",
+    "presentation skills",
+    "problem solving",
+    "product development",
+    "product management",
+    "product strategy",
+    "project management",
+    "public speaking",
+    "python",
+    "r",
+    "real world data",
+    "responsible ai",
+    "sas",
+    "software as a service",
+    "splunk",
+    "sql",
+    "sqoop",
+    "stakeholder management",
+    "statistical modeling",
+    "statistics",
+    "strategy",
+    "synthetic data",
+    "tableau",
+    "team leadership",
+    "team management",
+    "technical leadership",
+    "teradata"
+  ],
+  "interests": [
+    "analytics",
+    "data visualizations",
+    "hacking",
+    "machine learning",
+    "statistical programming",
+    "statistics"
+  ],
+  "experience": [
+    {
+      "title": "co-founder & chief executive officer",
+      "company": "krushiai foundation",
+      "company_industry": "oil & energy",
+      "start_date": "2019-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "executive director, ai and innovation",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head, datascience & ai",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "director, oncology rwe & data science",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-04",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, clinical insights",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-05",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "lead data scientist, data science & ai platforms",
+      "company": "ikea",
+      "company_industry": "retail",
+      "start_date": "2018",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "lead data scientist, data & analytics",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2015-07",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "consultant / senior statistician, analytics",
+      "company": "parexel",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2015-06",
+      "is_primary": false
+    },
+    {
+      "title": "genomics researcher",
+      "company": "karolinska institutet",
+      "company_industry": "higher education",
+      "start_date": "2010-06",
+      "end_date": "2012-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit professional education",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2026"
+    },
+    {
+      "school": "quantic school of business and technology",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2022-03",
+      "end_date": "2023-07"
+    },
+    {
+      "school": "quantic school of business and technology",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2022-01",
+      "end_date": "2023-12"
+    },
+    {
+      "school": "ie business school executive education",
+      "majors": [
+        "education",
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "blekinge institute of technology",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2020",
+      "end_date": "2022"
+    },
+    {
+      "school": "udacity",
+      "majors": [
+        "engineering"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "udacity",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2017",
+      "end_date": "2017"
+    },
+    {
+      "school": "nanodegree in machine learning engineer",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2016",
+      "end_date": null
+    },
+    {
+      "school": "udacity",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": null
+    },
+    {
+      "school": "university of york",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2014-12"
+    },
+    {
+      "school": "york university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2014-01"
+    },
+    {
+      "school": "kth royal institute of technology",
+      "majors": [
+        "engineering",
+        "medical engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "kth royal institute of technology",
+      "majors": [
+        "medical engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011-01"
+    },
+    {
+      "school": "udacity",
+      "majors": [
+        "engineering",
+        "statistics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2007",
+      "end_date": "2017"
+    },
+    {
+      "school": "acharya nagarjuna university",
+      "majors": [
+        "statistics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "osmania university",
+      "majors": [
+        "medical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "2001",
+      "end_date": "2005"
+    },
+    {
+      "school": "quantic school of business and technology",
+      "majors": [
+        "statistics"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

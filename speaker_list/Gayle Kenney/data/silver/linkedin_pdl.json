@@ -1,0 +1,193 @@
+{
+  "record_id": "speaker-dubrovnik-040",
+  "speaker_name": "Gayle Kenney",
+  "linkedin_url": "https://www.linkedin.com/in/gayle-kenney-medical-affairs-leader/",
+  "likelihood": 9,
+  "full_name": "gayle kenney",
+  "job_title": "head of medical excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "biontech se",
+  "current_company_website": "biontech.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "budget management",
+    "business strategy",
+    "cell culture",
+    "change management",
+    "clinical research",
+    "clinical trials",
+    "coaching",
+    "congress",
+    "content planning",
+    "content strategy",
+    "cross functional team leadership",
+    "cross team collaboration",
+    "customer engagement",
+    "customer experience",
+    "customer service",
+    "data analysis",
+    "hcp liaison",
+    "healthcare",
+    "innovation management",
+    "leadership",
+    "life sciences",
+    "lifesciences",
+    "marketing strategy",
+    "medical affairs",
+    "medical communications",
+    "medical education",
+    "medical information",
+    "medical research",
+    "medical writing",
+    "molecular biology",
+    "negotiation",
+    "neuroscience",
+    "pcr",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "presentation skills",
+    "process excellence",
+    "process improvement",
+    "product launch excellence",
+    "project leadership",
+    "project management",
+    "proposal writing",
+    "publications",
+    "research",
+    "resourcing strategies",
+    "science",
+    "scientific communication",
+    "scientific communications",
+    "scientific writing",
+    "stakeholder management",
+    "strategic communications",
+    "succession planning",
+    "team leadership",
+    "training"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of medical excellence",
+      "company": "biontech se",
+      "company_industry": "biotechnology",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global scientific communication engagement & medical information excellence head",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "scientific communications & medical information excellence head, global medical affairs",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior function head & global events lead, medical communications",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-05",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical information, communication & events services liaison",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-06",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical communications manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-04",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "research manager",
+      "company": "children's fund for health ltd",
+      "company_industry": "non-profit organization management",
+      "start_date": "2011-06",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "research and innovation coordinator",
+      "company": "royal college of surgeons in ireland (rcsi)",
+      "company_industry": "higher education",
+      "start_date": "2008-04",
+      "end_date": "2011-06",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "meditech media",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-10",
+      "end_date": "2008-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "cim | the chartered institute of marketing",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2003-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "university of alberta",
+      "majors": [
+        "physiology"
+      ],
+      "degrees": [
+        "doctorates",
+        "doctor of philosophy"
+      ],
+      "start_date": "1997",
+      "end_date": "2002"
+    },
+    {
+      "school": "university of alberta",
+      "majors": [
+        "physiology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2002"
+    },
+    {
+      "school": "trinity college dublin",
+      "majors": [
+        "physiology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1993-01",
+      "end_date": "1997"
+    }
+  ]
+}

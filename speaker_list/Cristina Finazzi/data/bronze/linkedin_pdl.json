@@ -1,0 +1,790 @@
+{
+  "record_id": "speaker-dubrovnik-062",
+  "speaker_name": "Cristina Finazzi",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/cristina-finazzi/",
+  "scraped_at": "2026-09-18T09:37:17.029979+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PMPqb8cwxGRqO3hUBbnBUw_0000",
+    "full_name": "cristina finazzi",
+    "first_name": "cristina",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "finazzi",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/cristina-finazzi",
+    "linkedin_username": "cristina-finazzi",
+    "linkedin_id": "29642468",
+    "facebook_url": "facebook.com/cristina.finazzi.5",
+    "facebook_username": "cristina.finazzi.5",
+    "facebook_id": "1355500666",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "director, customer experience",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+    "job_company_name": "novartis",
+    "job_company_website": "novartis.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1996,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novartis",
+    "job_company_linkedin_id": "1406",
+    "job_company_facebook_url": "facebook.com/novartis",
+    "job_company_twitter_url": "twitter.com/novartis",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4002",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-13",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-18",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "budgets",
+      "business planning",
+      "change management",
+      "content marketing",
+      "creative strategy",
+      "crisis communications",
+      "crisis management",
+      "customer experience design",
+      "customer service",
+      "decision making",
+      "digital marketing",
+      "email marketing",
+      "emotional intelligence",
+      "human resources",
+      "internal communications",
+      "interpersonal communication",
+      "leadership",
+      "learning agility",
+      "live meeting",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "omni channel marketing",
+      "online advertising",
+      "online marketing",
+      "organizational agility",
+      "project management",
+      "public relations",
+      "resiliency",
+      "sales",
+      "sem",
+      "social media marketing",
+      "storytelling",
+      "strategic human resource planning",
+      "strategic repositioning",
+      "strategy",
+      "talent management",
+      "teamwork",
+      "viral marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "italy",
+      "chile"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "director, customer experience",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2025-12",
+        "start_date": "2023-01",
+        "title": {
+          "name": "director, creative strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "healthcare businesswomen’s association",
+          "size": "11-50",
+          "id": "9CxmaDhI28Oo7NovPdAWrgBHvBcd",
+          "founded": 1977,
+          "industry": "non-profit organization management",
+          "industry_v2": "industry associations",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "167 madison avenue",
+            "address_line_2": "suite 205 #557",
+            "postal_code": "10016",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/healthcare-businesswomen-s-association",
+          "linkedin_id": "148589",
+          "facebook_url": "facebook.com/hbanet",
+          "twitter_url": null,
+          "website": "hbanet.org"
+        },
+        "location_names": [
+          "fairfield, california, united states"
+        ],
+        "end_date": null,
+        "start_date": "2021-11",
+        "title": {
+          "name": "marketing and communication director at large (volunteer leader)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-01",
+        "start_date": "2021-07",
+        "title": {
+          "name": "global marketing associate director - internal comms lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2019-09",
+        "title": {
+          "name": "global marketing project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2015-05",
+        "start_date": "2014-01",
+        "title": {
+          "name": "administrative specialist",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "groupalia",
+          "size": "51-200",
+          "id": "sqSoAbm4wT2xWNEN6oF7mgBKiVxO",
+          "founded": 2010,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "95-97 c llull",
+            "address_line_2": "2º planta",
+            "postal_code": "08005",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/groupalia",
+          "linkedin_id": "945400",
+          "facebook_url": "facebook.com/groupaliaespana",
+          "twitter_url": "twitter.com/groupaliaes",
+          "website": "groupalia.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland",
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2012-11",
+        "start_date": "2010-06",
+        "title": {
+          "name": "senior key account",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pavoni italia spa",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-07",
+        "start_date": "2009-09",
+        "title": {
+          "name": "marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mondadori group",
+          "size": "1001-5000",
+          "id": "YuW355ZeCEDCLwkDgbFWlgqnPe8f",
+          "founded": 1907,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "trezzano sul naviglio, lombardy, italy",
+            "locality": "trezzano sul naviglio",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "1 viaduct mondadori",
+            "address_line_2": null,
+            "postal_code": "20090",
+            "geo": "45.42,9.06"
+          },
+          "linkedin_url": "linkedin.com/company/gruppomondadori",
+          "linkedin_id": "7419",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/mondadori",
+          "website": "mondadori.it"
+        },
+        "location_names": [
+          "segrate, lombardy, italy"
+        ],
+        "end_date": "2006-07",
+        "start_date": "2005-01",
+        "title": {
+          "name": "junior product manager oscar mondadori",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "entry"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "hec paris",
+          "type": "post-secondary institution",
+          "id": "4ISPg4mlYBQ6tUSZCt6VGA_0000",
+          "location": {
+            "name": "jouy-en-josas, île-de-france, france",
+            "locality": "jouy-en-josas",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hec-paris",
+          "facebook_url": "facebook.com/hecparis",
+          "twitter_url": "twitter.com/hecparis",
+          "linkedin_id": "235785",
+          "website": "hec.edu",
+          "domain": "hec.edu"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023-01",
+        "majors": [
+          "leadership",
+          "organizational leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "wharton online",
+          "type": "post-secondary institution",
+          "id": "lntgU1-3aWTOpEe289DMnQ_0000",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/wharton-online",
+          "facebook_url": "facebook.com/univpennsylvania",
+          "twitter_url": "twitter.com/penn",
+          "linkedin_id": "10132140",
+          "website": "executiveeducation.wharton.upenn.edu",
+          "domain": "upenn.edu"
+        },
+        "degrees": [],
+        "start_date": "2022-07",
+        "end_date": "2022-07",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "wharton online",
+          "type": "post-secondary institution",
+          "id": "lntgU1-3aWTOpEe289DMnQ_0000",
+          "location": {
+            "name": "philadelphia, pennsylvania, united states",
+            "locality": "philadelphia",
+            "region": "pennsylvania",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/wharton-online",
+          "facebook_url": "facebook.com/univpennsylvania",
+          "twitter_url": "twitter.com/penn",
+          "linkedin_id": "10132140",
+          "website": "executiveeducation.wharton.upenn.edu",
+          "domain": "upenn.edu"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2022-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ie business school",
+          "type": "post-secondary institution",
+          "id": "heqH0jC95Hke0E0-0FWBqQ_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ie-business-school",
+          "facebook_url": "facebook.com/ieuniversity",
+          "twitter_url": "twitter.com/ieuniversity",
+          "linkedin_id": "740718",
+          "website": "ie.edu",
+          "domain": "ie.edu"
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of virginia darden school of business",
+          "type": "post-secondary institution",
+          "id": "ugGhQPGKqPBzbuecUuSj-Q_0000",
+          "location": {
+            "name": "charlottesville, virginia, united states",
+            "locality": "charlottesville",
+            "region": "virginia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-virginia-darden-school-of-business",
+          "facebook_url": "facebook.com/universityofvirginia",
+          "twitter_url": "twitter.com/uva",
+          "linkedin_id": "15100776",
+          "website": "darden.virginia.edu",
+          "domain": "virginia.edu"
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [
+          "business",
+          "design"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of london",
+          "type": "post-secondary institution",
+          "id": "PdVcslpI3UQnOOell4Do8Q_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-london",
+          "facebook_url": "facebook.com/londonu",
+          "twitter_url": "twitter.com/londonu",
+          "linkedin_id": "166649",
+          "website": "london.ac.uk",
+          "domain": "london.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019",
+        "majors": [
+          "business",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università cattolica del sacro cuore",
+          "type": "post-secondary institution",
+          "id": "yEqFwxnt0tyeSKRKEJVvPA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/unicatt",
+          "facebook_url": "facebook.com/unicatt",
+          "twitter_url": "twitter.com/unicatt",
+          "linkedin_id": "166693",
+          "website": "unicatt.it",
+          "domain": "unicatt.it"
+        },
+        "degrees": [],
+        "start_date": "2007-01",
+        "end_date": "2007-12",
+        "majors": [
+          "history"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hec paris",
+          "type": "post-secondary institution",
+          "id": "4ISPg4mlYBQ6tUSZCt6VGA_0000",
+          "location": {
+            "name": "jouy-en-josas, île-de-france, france",
+            "locality": "jouy-en-josas",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hec-paris",
+          "facebook_url": "facebook.com/hecparis",
+          "twitter_url": "twitter.com/hecparis",
+          "linkedin_id": "235785",
+          "website": "hec.edu",
+          "domain": "hec.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2023-12",
+        "majors": [
+          "organizational leadership",
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università cattolica del sacro cuore",
+          "type": "post-secondary institution",
+          "id": "yEqFwxnt0tyeSKRKEJVvPA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/unicatt",
+          "facebook_url": "facebook.com/unicatt",
+          "twitter_url": "twitter.com/unicatt",
+          "linkedin_id": "166693",
+          "website": "unicatt.it",
+          "domain": "unicatt.it"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2007-01",
+        "majors": [
+          "history"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hr",
+          "type": "post-secondary institution",
+          "id": "xHU27mjpYDNZIrnqO42GLA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/h.r.-college-of-commerce-and-economics.",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1563917",
+          "website": "hrcollege.edu",
+          "domain": "hrcollege.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "istituto maria immacolata, gorgonzola (mi)",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "29642468",
+        "url": "linkedin.com/in/cristina-finazzi",
+        "username": "cristina-finazzi"
+      },
+      {
+        "network": "facebook",
+        "id": "1355500666",
+        "url": "facebook.com/cristina.finazzi.5",
+        "username": "cristina.finazzi.5"
+      },
+      {
+        "network": "linkedin",
+        "id": "29642468",
+        "url": "linkedin.com/in/cristina-finazzi-258b169",
+        "username": "cristina-finazzi-258b169"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

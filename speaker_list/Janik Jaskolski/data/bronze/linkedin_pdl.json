@@ -1,0 +1,749 @@
+{
+  "record_id": "speaker-dubrovnik-085",
+  "speaker_name": "Janik Jaskolski",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/janik-jaskolski-5b51a930/",
+  "scraped_at": "2026-09-18T09:38:06.551175+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "bPirpxigif-ogg5mEDmnYQ_0000",
+    "full_name": "janik jaskolski",
+    "first_name": "janik",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "j",
+    "last_name": "jaskolski",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/janik-jaskolski-5b51a930",
+    "linkedin_username": "janik-jaskolski-5b51a930",
+    "linkedin_id": "107968025",
+    "facebook_url": "facebook.com/janik.jaskolski",
+    "facebook_username": "janik.jaskolski",
+    "facebook_id": "100003656007896",
+    "twitter_url": "twitter.com/janikjaskolski",
+    "twitter_username": "janikjaskolski",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer software",
+    "job_title": "chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "OAB0gl6TBcTCTt7GWyUkRAlQhy07",
+    "job_company_name": "semalytix",
+    "job_company_website": "semalytix.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2015,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/semalytix",
+    "job_company_linkedin_id": "17885941",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "bielefeld, north rhine-westphalia, germany",
+    "job_company_location_locality": "bielefeld",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "52.01,8.53",
+    "job_company_location_street_address": "2 meller straße",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "33613",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2016-12-25",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "archery",
+      "artificial intelligence",
+      "bouldering",
+      "chess",
+      "children",
+      "cooking ( <3 green smoothies)",
+      "data mining",
+      "education",
+      "environment",
+      "game development",
+      "game server hosting",
+      "health",
+      "human rights",
+      "pc gaming",
+      "playing the violin and ukulele",
+      "politics",
+      "science and technology",
+      "surfing"
+    ],
+    "skills": [
+      "algorithms",
+      "android development",
+      "apache",
+      "artificial intelligence",
+      "business growth strategies",
+      "business strategy",
+      "c",
+      "c++",
+      "computer science",
+      "data analysis",
+      "data mining",
+      "entrepreneurship",
+      "github",
+      "html",
+      "java",
+      "java enterprise edition",
+      "javascript",
+      "latex",
+      "linux",
+      "machine learning",
+      "parallel programming",
+      "product design",
+      "product strategy",
+      "programming",
+      "python",
+      "scrum",
+      "software development",
+      "software engineering",
+      "start ups",
+      "subversion",
+      "team management",
+      "weka"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "semalytix",
+          "size": "51-200",
+          "id": "OAB0gl6TBcTCTt7GWyUkRAlQhy07",
+          "founded": 2015,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 meller straße",
+            "address_line_2": null,
+            "postal_code": "33613",
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/company/semalytix",
+          "linkedin_id": "17885941",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "semalytix.com"
+        },
+        "location_names": [
+          "bielefeld, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "semalytix",
+          "size": "51-200",
+          "id": "OAB0gl6TBcTCTt7GWyUkRAlQhy07",
+          "founded": 2015,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 meller straße",
+            "address_line_2": null,
+            "postal_code": "33613",
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/company/semalytix",
+          "linkedin_id": "17885941",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "semalytix.com"
+        },
+        "location_names": [
+          "bielefeld, north rhine-westphalia, germany"
+        ],
+        "end_date": "2025-10",
+        "start_date": "2022-06",
+        "title": {
+          "name": "chief product officer, managing director, co-founder",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mercury.ai",
+          "size": "1-10",
+          "id": "hnWplsWKpAwPQeZCG3UHXwNMddWt",
+          "founded": 2016,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "33602",
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/company/mercury.ai",
+          "linkedin_id": "17906134",
+          "facebook_url": "facebook.com/mercurybots",
+          "twitter_url": "twitter.com/mercurybots",
+          "website": "mercury.ai"
+        },
+        "location_names": [
+          "bielefeld, north rhine-westphalia, germany"
+        ],
+        "end_date": "2018",
+        "start_date": "2016-07",
+        "title": {
+          "name": "chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "semalytix",
+          "size": "51-200",
+          "id": "OAB0gl6TBcTCTt7GWyUkRAlQhy07",
+          "founded": 2015,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 meller straße",
+            "address_line_2": null,
+            "postal_code": "33613",
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/company/semalytix",
+          "linkedin_id": "17885941",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "semalytix.com"
+        },
+        "location_names": [
+          "bielefeld, north rhine-westphalia, germany"
+        ],
+        "end_date": "2022-08",
+        "start_date": "2015-05",
+        "title": {
+          "name": "chief executive officer, co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2013-07",
+        "start_date": "2013-03",
+        "title": {
+          "name": "teaching assistant - basics of artificial intelligence",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2015-11",
+        "start_date": "2013-01",
+        "title": {
+          "name": "master student",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2013",
+        "start_date": "2011",
+        "title": {
+          "name": "scientific assistant",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2013",
+        "start_date": "2011",
+        "title": {
+          "name": "student associate to the dean's office",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2011",
+        "start_date": "2010",
+        "title": {
+          "name": "teaching assistant - advanced java programming",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2009",
+        "title": {
+          "name": "scientific assistant",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2009",
+        "title": {
+          "name": "teaching assistant - advanced java programming",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bielefeld university",
+          "size": "10001+",
+          "id": "feLKbrBPumgDvIGcshNayAGJNCy7",
+          "founded": 1969,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.01,8.53"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "linkedin_id": "36808",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": null,
+          "website": "uni-bielefeld.de"
+        },
+        "location_names": [],
+        "end_date": "2009",
+        "start_date": "2008",
+        "title": {
+          "name": "teaching assistant - algorithms and datastructures",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "bielefeld university",
+          "type": "post-secondary institution",
+          "id": "6R2dihi8Iw2I6SQYZZWEMQ_0000",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": "twitter.com/unibielefeld",
+          "linkedin_id": "36808",
+          "website": "uni-bielefeld.de",
+          "domain": "uni-bielefeld.de"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": 1.0
+      },
+      {
+        "school": {
+          "name": "bielefeld university",
+          "type": "post-secondary institution",
+          "id": "6R2dihi8Iw2I6SQYZZWEMQ_0000",
+          "location": {
+            "name": "bielefeld, north rhine-westphalia, germany",
+            "locality": "bielefeld",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/bielefeld-university",
+          "facebook_url": "facebook.com/bielefelduniversity",
+          "twitter_url": "twitter.com/unibielefeld",
+          "linkedin_id": "36808",
+          "website": "uni-bielefeld.de",
+          "domain": "uni-bielefeld.de"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2013",
+        "majors": [
+          "computer science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "minden high school",
+          "type": "secondary school",
+          "id": "0uTzhuFZ2eNN-mfKrVCxaA_0000",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/minden-high-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6816175",
+          "website": "mindenwhippets.org",
+          "domain": "mindenwhippets.org"
+        },
+        "degrees": [],
+        "start_date": "2003-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "albert - einstein - gymnasium reutlingen",
+          "type": "secondary school",
+          "id": "djgBhRNiVY75nBRePXXSuQ_0000",
+          "location": {
+            "name": "reutlingen, baden-württemberg, germany",
+            "locality": "reutlingen",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/aegreutlingen",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "69767459",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2008",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "107968025",
+        "url": "linkedin.com/in/janik-jaskolski-5b51a930",
+        "username": "janik-jaskolski-5b51a930"
+      },
+      {
+        "network": "facebook",
+        "id": "100003656007896",
+        "url": "facebook.com/janik.jaskolski",
+        "username": "janik.jaskolski"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/janikjaskolski",
+        "username": "janikjaskolski"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,766 @@
+{
+  "record_id": "speaker-dubrovnik-045",
+  "speaker_name": "Mutlu Gunenc",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/marketingdirector-/",
+  "scraped_at": "2026-09-18T09:36:40.578885+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "gtjW5ivwu9WclbwjjgMjCg_0000",
+    "full_name": "mutlu gunenc",
+    "first_name": "mutlu",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gunenc",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/marketingdirector-",
+    "linkedin_username": "marketingdirector-",
+    "linkedin_id": "23946129",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global director digital strategy and innovation",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Ue1Sive3LCLBv2uykKm2IwDt7d0y",
+    "job_company_name": "beone medicines",
+    "job_company_website": "beonemedicines.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2010,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/beonemedicines",
+    "job_company_linkedin_id": "106535894",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "55 cambridge parkway",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02142",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-07-22",
+    "job_last_verified": "2026-07-14",
+    "job_start_date": "2022-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-14",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "biotechnology",
+      "brand management",
+      "brand strategy",
+      "budgeting",
+      "business intelligence",
+      "business relationship management",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "clinical trials",
+      "consumer marketing",
+      "crm",
+      "cross functional team leadership",
+      "customer insight",
+      "customer relationship management",
+      "customer segmentation strategy",
+      "digital strategy",
+      "digital transformation",
+      "forecasting",
+      "global marketing",
+      "growth strategies",
+      "hematology",
+      "hospital sales",
+      "international business",
+      "life sciences",
+      "management",
+      "market access",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing strategy",
+      "medical affairs",
+      "negotiation",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "photography",
+      "positioning",
+      "product launch",
+      "product management",
+      "product marketing",
+      "sales and marketing",
+      "sales effectiveness",
+      "sales force development",
+      "segmentation",
+      "storytelling",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "team leadership",
+      "university lecturing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "france",
+      "netherlands",
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "beone medicines",
+          "size": "1-10",
+          "id": "Ue1Sive3LCLBv2uykKm2IwDt7d0y",
+          "founded": 2010,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "55 cambridge parkway",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/beonemedicines",
+          "linkedin_id": "106535894",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "beonemedicines.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2022-11",
+        "title": {
+          "name": "global director digital strategy and innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "grenoble ecole de management",
+          "size": "201-500",
+          "id": "Pk322plPpAU71O1yJBzTiApBCCoW",
+          "founded": 1984,
+          "industry": "education management",
+          "industry_v2": "education administration programs",
+          "location": {
+            "name": "grenoble, auvergne-rhône-alpes, france",
+            "locality": "grenoble",
+            "region": "auvergne-rhône-alpes",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "12 rue pierre sémard",
+            "address_line_2": null,
+            "postal_code": "38000",
+            "geo": "45.17,5.71"
+          },
+          "linkedin_url": "linkedin.com/school/grenoble-ecole-de-management",
+          "linkedin_id": "18927",
+          "facebook_url": "facebook.com/grenobleem",
+          "twitter_url": "twitter.com/grenoble_em",
+          "website": "grenoble-em.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2025-03",
+        "title": {
+          "name": "adjunct professor",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "beone medicines",
+          "size": "1-10",
+          "id": "Ue1Sive3LCLBv2uykKm2IwDt7d0y",
+          "founded": 2010,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "55 cambridge parkway",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/beonemedicines",
+          "linkedin_id": "106535894",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "beonemedicines.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2022-11",
+        "start_date": "2021-02",
+        "title": {
+          "name": "regional director digital medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "treefrog therapeutics",
+          "size": "51-200",
+          "id": "JYcIJUe9CrDpCeEZjDJz3QzB0qfQ",
+          "founded": 2018,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "pessac, nouvelle-aquitaine, france",
+            "locality": "pessac",
+            "region": "nouvelle-aquitaine",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "30 avenue gustave eiffel bat a",
+            "address_line_2": null,
+            "postal_code": "33600",
+            "geo": "44.8,-0.63"
+          },
+          "linkedin_url": "linkedin.com/company/treefrog-therapeutics",
+          "linkedin_id": "13021169",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/treefrogtx",
+          "website": "treefrog.fr"
+        },
+        "location_names": [
+          "bordeaux, nouvelle-aquitaine, france"
+        ],
+        "end_date": "2021-03",
+        "start_date": "2020-09",
+        "title": {
+          "name": "business consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kiadis pharma",
+          "size": "51-200",
+          "id": "sBpvZwbAOYX7f7DhgfsTTAK9YRsN",
+          "founded": 1997,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "25a paasheuvelweg",
+            "address_line_2": null,
+            "postal_code": "1105 bp",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/kiadis-pharma",
+          "linkedin_id": "238108",
+          "facebook_url": "facebook.com/kiadispharma",
+          "twitter_url": "twitter.com/kiadispharma",
+          "website": "kiadis.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2020-07",
+        "start_date": "2019-08",
+        "title": {
+          "name": "head of marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2019-08",
+        "start_date": "2018-04",
+        "title": {
+          "name": "strategic franchise lead oncology & hematology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "academic institute for pharmaceutical sciences & market access society",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2017-12",
+        "title": {
+          "name": "work sabbatical for european market access university diploma (emaud)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "dublin 24, leinster, ireland",
+          "glasnevin, dublin, ireland",
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2015-05",
+        "title": {
+          "name": "director marketing oncology emea",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celgene",
+          "size": "5001-10000",
+          "id": "fg8PAfQVDTINnwFGlFFb0As6wYPo",
+          "founded": 1986,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "summit, new jersey, united states",
+            "locality": "summit",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "86 morris avenue",
+            "address_line_2": null,
+            "postal_code": "07901",
+            "geo": "40.71,-74.36"
+          },
+          "linkedin_url": "linkedin.com/company/celgene",
+          "linkedin_id": "8348",
+          "facebook_url": "facebook.com/celgene",
+          "twitter_url": "twitter.com/celgene",
+          "website": "celgene.com"
+        },
+        "location_names": [
+          "boudry, neuchâtel, switzerland"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2012-04",
+        "title": {
+          "name": "associate director oncology emea",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2012-03",
+        "start_date": "2008-09",
+        "title": {
+          "name": "international product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2008-08",
+        "start_date": "2005-10",
+        "title": {
+          "name": "senior product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "academic institute for pharmaceutical sciences (aips) & market access society (mas)",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2017-01",
+        "end_date": "2018",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "london business school",
+          "type": "post-secondary institution",
+          "id": "LwkowlBz-ITo0vo4g1vTKA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-business-school",
+          "facebook_url": "facebook.com/londonbusinessschool",
+          "twitter_url": "twitter.com/lbs",
+          "linkedin_id": "5954",
+          "website": "london.edu",
+          "domain": "london.edu"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "london business school",
+          "type": "post-secondary institution",
+          "id": "LwkowlBz-ITo0vo4g1vTKA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-business-school",
+          "facebook_url": "facebook.com/londonbusinessschool",
+          "twitter_url": "twitter.com/lbs",
+          "linkedin_id": "5954",
+          "website": "london.edu",
+          "domain": "london.edu"
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2010",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "d'amore - mckim school of business at northeastern university",
+          "type": "post-secondary institution",
+          "id": "ctJGc8Lu5WIhHJsTBOCX2w_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/d'amore-mckim-school-of-business-at-northeastern-university",
+          "facebook_url": "facebook.com/northeastern",
+          "twitter_url": "twitter.com/northeastern",
+          "linkedin_id": "15101194",
+          "website": "damore-mckim.northeastern.edu",
+          "domain": "northeastern.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1994-01",
+        "end_date": "1996",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college of pharmacy, faculty of health, dalhousie university",
+          "type": "post-secondary institution",
+          "id": "WrbgyrDT1ZPv-GvkjBV8zg_0000",
+          "location": {
+            "name": "halifax, nova scotia, canada",
+            "locality": "halifax",
+            "region": "nova scotia",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/college-of-pharmacy-faculty-of-health-dalhousie-university",
+          "facebook_url": "facebook.com/dalhousieu",
+          "twitter_url": "twitter.com/dalnews",
+          "linkedin_id": "104908123",
+          "website": "dal.ca",
+          "domain": "dal.ca"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1989-01",
+        "end_date": "1993",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "23946129",
+        "url": "linkedin.com/in/marketingdirector-",
+        "username": "marketingdirector-"
+      },
+      {
+        "network": "linkedin",
+        "id": "23946129",
+        "url": "linkedin.com/in/mutlugunenc",
+        "username": "mutlugunenc"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

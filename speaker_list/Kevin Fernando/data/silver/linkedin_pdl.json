@@ -1,0 +1,255 @@
+{
+  "record_id": "speaker-dubrovnik-117",
+  "speaker_name": "Kevin Fernando",
+  "linkedin_url": "https://www.linkedin.com/in/drkfernando/",
+  "likelihood": 9,
+  "full_name": "kevin fernando",
+  "job_title": "co-founder",
+  "industry": "hospital & health care",
+  "current_company": "the ckm collaborative",
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "academic advising",
+    "academic writing",
+    "ckm",
+    "clinical research",
+    "clinical trials",
+    "cvrm",
+    "diabetes",
+    "family medicine",
+    "healthcare",
+    "internal medicine",
+    "medical education",
+    "medicine",
+    "podcasting",
+    "primary care",
+    "public health",
+    "public speaking",
+    "social media communications",
+    "surgery",
+    "systems change",
+    "treatment",
+    "type 2 diabetes"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-founder",
+      "company": "the ckm collaborative",
+      "company_industry": null,
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "think tank",
+      "company": "global metabolic health alliance (gmha)",
+      "company_industry": "non-profit organization management",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "co director",
+      "company": "iyasu healthcare",
+      "company_industry": null,
+      "start_date": "2025-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "portfolio gp",
+      "company": "nhs lothian",
+      "company_industry": "hospital & health care",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "honorary clinical reader",
+      "company": "university of dundee",
+      "company_industry": "research",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "co-founder",
+      "company": "cvrmuk",
+      "company_industry": "medical practice",
+      "start_date": "2023-09",
+      "end_date": "2025-11",
+      "is_primary": false
+    },
+    {
+      "title": "content advisor",
+      "company": "medscape",
+      "company_industry": "health, wellness and fitness",
+      "start_date": "2022-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "co director",
+      "company": "iyasu medical bags",
+      "company_industry": "apparel & fashion",
+      "start_date": "2019-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "diabetes editorial advisory consultant",
+      "company": "guidelines in practice",
+      "company_industry": null,
+      "start_date": "2016-10",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "general practitioner - partner",
+      "company": "north berwick health centre",
+      "company_industry": null,
+      "start_date": "2009-10",
+      "end_date": "2025-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "academy of medical educators",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2018-01-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "royal college of general practitioners",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "2018-01-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "academy of medical educators",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2016-01-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "royal college of physicians of edinburgh",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "2014-01-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "the university of glamorgan",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2011",
+      "end_date": "2014"
+    },
+    {
+      "school": "the university of glamorgan",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2011-01-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "university of dundee",
+      "majors": [
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2011-01-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "royal college of general practitioners",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "faculty of sexual & reproductive health",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "royal college of physicians of edinburgh",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "2006-01",
+      "end_date": "2006"
+    },
+    {
+      "school": "royal college of obstetricians and gynaecologists | rcog",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2005"
+    },
+    {
+      "school": "the university of edinburgh",
+      "majors": [
+        "immunology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors",
+        "master of education",
+        "masters"
+      ],
+      "start_date": "1996-01-01",
+      "end_date": "1997"
+    },
+    {
+      "school": "the university of edinburgh",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "1994-01-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "st modan's high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of southampton",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

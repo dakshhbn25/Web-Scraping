@@ -1,0 +1,126 @@
+{
+  "record_id": "speaker-viennacx-060",
+  "speaker_name": "Tobias Bernard",
+  "linkedin_url": "https://www.linkedin.com/in/tobiasbernard/",
+  "likelihood": 9,
+  "full_name": "tobias bernard",
+  "job_title": "senior manager digital marketing (international)",
+  "industry": "pharmaceuticals",
+  "current_company": "tillotts pharma ag",
+  "current_company_website": "tillotts.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "customer journey mapping",
+    "digital analytics",
+    "digitale kampagnen",
+    "digitale strategie",
+    "digitales engagement",
+    "digitales marketing",
+    "e commerce",
+    "e mail marketing",
+    "google analytics",
+    "marketing",
+    "marketingstrategie",
+    "online marketing",
+    "onlinewerbung",
+    "r",
+    "sem",
+    "seo",
+    "social media",
+    "social media marketing",
+    "sql",
+    "web analytics",
+    "web content management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior manager digital marketing (international)",
+      "company": "tillotts pharma ag",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "customer experience manager",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": "2025-02",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing manager",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-05",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "online marketing specialist (global marketing)",
+      "company": "weleda ag",
+      "company_industry": "cosmetics",
+      "start_date": "2016-10",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing manager",
+      "company": "insiders technologies gmbh",
+      "company_industry": "information technology and services",
+      "start_date": "2015-10",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "freelance consultant online marketing",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2015-02",
+      "end_date": "2016-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "viseven",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2025-11",
+      "end_date": "2025-11"
+    },
+    {
+      "school": "celforpharma",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2025-06",
+      "end_date": "2025-06"
+    },
+    {
+      "school": "celforpharma",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "baden - wuerttemberg cooperative state university (dhbw)",
+      "majors": [],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2015"
+    }
+  ]
+}

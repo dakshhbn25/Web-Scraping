@@ -1,0 +1,277 @@
+{
+  "record_id": "speaker-dubrovnik-034",
+  "speaker_name": "Kausar Riaz Ahmed",
+  "linkedin_url": "https://www.linkedin.com/in/kausar-riaz-ahmed/",
+  "likelihood": 9,
+  "full_name": "kausar ahmed",
+  "job_title": "co-founder",
+  "industry": "pharmaceuticals",
+  "current_company": "riaz ahmed foundation (raf)",
+  "current_company_website": "riazahmedfoundation.org",
+  "current_company_industry": "non-profit organization management",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "autophagy",
+    "biotechnology",
+    "business development",
+    "cancer biology",
+    "cancer drug discovery",
+    "cancer research",
+    "carcinogenicity",
+    "cell",
+    "cell biology",
+    "cell culture",
+    "cell signaling",
+    "change management",
+    "clinical development",
+    "clinical research",
+    "commercialization",
+    "computational modeling",
+    "confocal microscopy",
+    "cross functional leadership",
+    "cross functional team leadership",
+    "cytotoxicity",
+    "data analysis",
+    "data analytics",
+    "digital health",
+    "elisa",
+    "entrepreneurship",
+    "flow cytometry",
+    "fluorescence microscopy",
+    "gene expression profiling",
+    "genomics",
+    "genotoxicity",
+    "global regulatory compliance",
+    "good laboratory practices",
+    "graphpad prism",
+    "healthcare",
+    "immunoprecipitation",
+    "in vitro",
+    "in vivo",
+    "ingenuity pathway analysis",
+    "innovation",
+    "jmp",
+    "leadership",
+    "leadsscope model applier",
+    "luminex",
+    "market research",
+    "metabolism",
+    "microsoft office",
+    "microsoft project",
+    "molecular biology",
+    "mutagenicity",
+    "oncology",
+    "operations management",
+    "partnerships",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "pharmacology",
+    "portfolio management",
+    "presentation skills",
+    "presentations",
+    "product development",
+    "program management",
+    "project management",
+    "protein chemistry",
+    "public speaking",
+    "python",
+    "python",
+    "qpcr",
+    "qsar",
+    "radioactivity",
+    "real time pcr",
+    "real time polymerase chain reaction",
+    "regulatory compliance",
+    "regulatory policy",
+    "regulatory submissions",
+    "research and development",
+    "risk assessment",
+    "si/shrna studies",
+    "small molecule inhibitors",
+    "spotfire",
+    "strategic communications",
+    "strategy",
+    "tissue culture",
+    "toxicological risk assessment",
+    "transfection",
+    "translational medicine",
+    "vitic nexus",
+    "western blotting"
+  ],
+  "interests": [
+    "children",
+    "economic empowerment",
+    "education",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "co-founder",
+      "company": "riaz ahmed foundation (raf)",
+      "company_industry": "non-profit organization management",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director, head of ai for precision oncology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "director, generative ai medical engagement lead",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": "2026-04",
+      "is_primary": false
+    },
+    {
+      "title": "director, group lead",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-02",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior science advisor",
+      "company": "fda",
+      "company_industry": "government administration",
+      "start_date": "2021-03",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "post-doctoral research fellow - risk assessment & computational toxicology",
+      "company": "fda",
+      "company_industry": "government administration",
+      "start_date": "2015-03",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "regulatory reviewer",
+      "company": "fda",
+      "company_industry": "government administration",
+      "start_date": "2015-01",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "consultant / intern - risk assessment & computational toxicology",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-06",
+      "end_date": "2013-08",
+      "is_primary": false
+    },
+    {
+      "title": "graduate research assistant - cancer research",
+      "company": "ut md anderson",
+      "company_industry": "hospital & health care",
+      "start_date": "2008-08",
+      "end_date": "2015-02",
+      "is_primary": false
+    },
+    {
+      "title": "intern",
+      "company": "supergen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-05",
+      "end_date": "2007-08",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant / project liaison to supergen, inc",
+      "company": "university of utah - employment",
+      "company_industry": "higher education",
+      "start_date": "2006-08",
+      "end_date": "2008-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the johns hopkins university - carey business school",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2022-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "the johns hopkins university - carey business school",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2018",
+      "end_date": "2021"
+    },
+    {
+      "school": "the university of texas m.d. anderson cancer center",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2008",
+      "end_date": "2014"
+    },
+    {
+      "school": "university of utah - david eccles school of business",
+      "majors": [
+        "business studies"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": null
+    },
+    {
+      "school": "university of utah - david eccles school of business",
+      "majors": [
+        "business",
+        "business studies"
+      ],
+      "degrees": [],
+      "start_date": "2007",
+      "end_date": "2008"
+    },
+    {
+      "school": "university of utah",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2006",
+      "end_date": "2008"
+    },
+    {
+      "school": "anna university chennai",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of technology",
+        "bachelors"
+      ],
+      "start_date": "2002",
+      "end_date": "2006-12"
+    }
+  ]
+}

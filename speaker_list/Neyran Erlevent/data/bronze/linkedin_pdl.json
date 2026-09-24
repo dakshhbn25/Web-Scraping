@@ -1,0 +1,711 @@
+{
+  "record_id": "speaker-viennacx-006",
+  "speaker_name": "Neyran Erlevent",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/neyranerlevent/",
+  "scraped_at": "2026-09-18T10:25:11.316162+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "3yIvyfteCd3QMMuXBecFPg_0000",
+    "full_name": "neyran erlevent",
+    "first_name": "neyran",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "erlevent",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/neyranerlevent",
+    "linkedin_username": "neyranerlevent",
+    "linkedin_id": "358366",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "global head of integrated experience & operations (ixo)",
+    "job_title_role": "operations",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+    "job_company_name": "roche",
+    "job_company_website": "roche.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1896,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/roche",
+    "job_company_linkedin_id": "1602",
+    "job_company_facebook_url": "facebook.com/rochecareers",
+    "job_company_twitter_url": "twitter.com/roche",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4070",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-01-27",
+    "job_last_verified": "2026-08-31",
+    "job_start_date": "2026-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-31",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "budgeting",
+      "budgets",
+      "business analysis",
+      "competitive analysis",
+      "crm",
+      "cross functional team leadership",
+      "digital marketing",
+      "digital strategy",
+      "e commerce",
+      "edetailing",
+      "entrepreneurship",
+      "innovation",
+      "inspiration",
+      "international project management",
+      "it management",
+      "it service management",
+      "leadership",
+      "management",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "mobile applications",
+      "mobile devices",
+      "mobile marketing",
+      "mobile technology",
+      "new business development",
+      "online advertising",
+      "online marketing",
+      "operations",
+      "pharmaceutical industry",
+      "pharmaceuticals",
+      "product development",
+      "product launch",
+      "product management",
+      "product marketing",
+      "project management",
+      "self driven",
+      "sem",
+      "social media",
+      "strategic planning",
+      "strategy",
+      "team building",
+      "team leadership",
+      "team management",
+      "telecommunications",
+      "virtual teams",
+      "web analytics",
+      "web marketing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-02",
+        "title": {
+          "name": "global head of integrated experience & operations (ixo)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2026-02",
+        "start_date": "2023-11",
+        "title": {
+          "name": "global head of business solutions enablement",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-11",
+        "start_date": "2021-09",
+        "title": {
+          "name": "global digital engagement catalyst @ roche pharma",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2021-09",
+        "start_date": "2018-03",
+        "title": {
+          "name": "digital transformation program lead @ roche diagnostics",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-01",
+        "title": {
+          "name": "global digital marketing excellence program lead @ roche diagnostics",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2014-11",
+        "title": {
+          "name": "digital marketing lead @ roche diagnostics",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2014-09",
+        "start_date": "2011-11",
+        "title": {
+          "name": "global head - informatics digital marketing solutions",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2011-11",
+        "start_date": "2009-12",
+        "title": {
+          "name": "regional projects team lead - roche digital marketing agency",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2009-11",
+        "start_date": "2008-08",
+        "title": {
+          "name": "e-marketing project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "turkcell",
+          "size": "5001-10000",
+          "id": "PLgQlzc4bMjiOQ4I1Z3PxwcZ3O1O",
+          "founded": null,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "aydinevler, istanbul, turkey",
+            "locality": "aydinevler",
+            "region": "istanbul",
+            "metro": null,
+            "country": "turkey",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "34854",
+            "geo": "40.94,29.15"
+          },
+          "linkedin_url": "linkedin.com/company/turkcell",
+          "linkedin_id": "4568",
+          "facebook_url": "facebook.com/turkcell",
+          "twitter_url": "twitter.com/turkcell",
+          "website": "turkcell.com.tr"
+        },
+        "location_names": [],
+        "end_date": "2008-07",
+        "start_date": "2004-09",
+        "title": {
+          "name": "senior product manager - user generated content",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "netwise praksis",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2004-09",
+        "start_date": "2003-12",
+        "title": {
+          "name": "web project manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "web",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "click it consultants",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2003-12",
+        "start_date": "2001-01",
+        "title": {
+          "name": "web project manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "web",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "bentley university",
+          "type": "post-secondary institution",
+          "id": "RBUd5r5zTbVF7JWOd7D53w_0000",
+          "location": {
+            "name": "waltham, massachusetts, united states",
+            "locality": "waltham",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/bentley-university",
+          "facebook_url": "facebook.com/bentleyuniversity",
+          "twitter_url": "twitter.com/bentleyu",
+          "linkedin_id": "8103",
+          "website": "bentley.edu",
+          "domain": "bentley.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2002-12",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard university",
+          "type": "post-secondary institution",
+          "id": "5Ic6qaBcxe2DlWHRIVFnZg_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-university",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1646",
+          "website": "harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2001",
+        "majors": [
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bilkent university",
+          "type": "post-secondary institution",
+          "id": "LSgEYbApE0Ej8fGjVuF2sQ_0000",
+          "location": {
+            "name": "bilkent, ankara, turkey",
+            "locality": "bilkent",
+            "region": "ankara",
+            "country": "turkey",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/bilkent-university",
+          "facebook_url": "facebook.com/bilkentuniversitesi",
+          "twitter_url": "twitter.com/bilkentuniv",
+          "linkedin_id": "14165",
+          "website": "w3.bilkent.edu.tr",
+          "domain": "bilkent.edu.tr"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1994-01",
+        "end_date": "1999",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "358366",
+        "url": "linkedin.com/in/neyranerlevent",
+        "username": "neyranerlevent"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/neyran-erlevent-47a153",
+        "username": "neyran-erlevent-47a153"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

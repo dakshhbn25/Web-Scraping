@@ -1,0 +1,246 @@
+{
+  "record_id": "speaker-viennacx-055",
+  "speaker_name": "Almudena Fraga",
+  "linkedin_url": "https://www.linkedin.com/in/almudena-fraga-gonzalez/",
+  "likelihood": 9,
+  "full_name": "almudena fraga",
+  "job_title": "global omnichannel customer engagement lead cardiometabolic - commercialization & launch excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "sobi - swedish orphan biovitrum ab (publ)",
+  "current_company_website": "sobi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "b2b",
+    "brand marketing",
+    "brand strategy",
+    "business innovation",
+    "business planning",
+    "campaigns",
+    "communication",
+    "consumer marketing",
+    "content marketing",
+    "content strategy",
+    "customer contact",
+    "customer engagement",
+    "customer experience",
+    "customer journey mapping",
+    "digital engagement",
+    "digital marketing",
+    "digital media",
+    "digital strategy",
+    "healthcare",
+    "in store marketing",
+    "interpersonal skills",
+    "journey mapping",
+    "leadership",
+    "management",
+    "market planning",
+    "marketing",
+    "marketing management",
+    "marketing strategy",
+    "paid media advertising",
+    "presentation skills",
+    "problem solving",
+    "product launch",
+    "product marketing",
+    "public relations",
+    "social media",
+    "social media marketing",
+    "stakeholder engagement",
+    "stakeholder management",
+    "strategic thinking",
+    "strategy",
+    "subject matter experts",
+    "team leadership",
+    "teamwork",
+    "trade marketing",
+    "trade promotions"
+  ],
+  "interests": [
+    "health"
+  ],
+  "experience": [
+    {
+      "title": "global omnichannel customer engagement lead cardiometabolic - commercialization & launch excellence",
+      "company": "sobi - swedish orphan biovitrum ab (publ)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director customer engagement plans - commercial transformation, international operations",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": "2026-08",
+      "is_primary": false
+    },
+    {
+      "title": "global director customer strategy and omnichannel marketing @ global glp-1 diabetes",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "global director marketing ops - head of cx, campaigns and content @ global customer experience",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": "2025-01",
+      "is_primary": false
+    },
+    {
+      "title": "director global omnichannel strategy & implementation @ global customer engagement",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-11",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "director global customer strategy @ global customer engagement",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-08",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "global customer engagement strategy senior manager @ global customer engagement",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-02",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "global customer engagement capabilities senior manager, global customer engagement",
+      "company": "lundbeck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-02",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "regional digital marketing manager for consumer healthcare -tena (incontinence care)",
+      "company": "essity",
+      "company_industry": "consumer goods",
+      "start_date": "2016-09",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing manager",
+      "company": "essilor group",
+      "company_industry": "management consulting",
+      "start_date": "2016-04",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "digital & trade marketing specialist",
+      "company": "essilor group",
+      "company_industry": "management consulting",
+      "start_date": "2011-01",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "loyalty program manager",
+      "company": "essilor group",
+      "company_industry": "management consulting",
+      "start_date": "2007-04",
+      "end_date": "2011-01",
+      "is_primary": false
+    },
+    {
+      "title": "international area manager",
+      "company": "m-solutions java games developers and distributors",
+      "company_industry": null,
+      "start_date": "2006-09",
+      "end_date": "2007-03",
+      "is_primary": false
+    },
+    {
+      "title": "communication coordinator",
+      "company": "jrc comunicacion",
+      "company_industry": null,
+      "start_date": "2006-02",
+      "end_date": "2006-09",
+      "is_primary": false
+    },
+    {
+      "title": "account executive",
+      "company": "alta marketing 7media comunicacion",
+      "company_industry": null,
+      "start_date": "2005-02",
+      "end_date": "2006-02",
+      "is_primary": false
+    },
+    {
+      "title": "communication assistant",
+      "company": "afarmade",
+      "company_industry": null,
+      "start_date": "2002-02",
+      "end_date": "2005-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "scuola di comunicazione iulm",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2016-01",
+      "end_date": "2016-12"
+    },
+    {
+      "school": "consultoria san roman",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2010-12"
+    },
+    {
+      "school": "consultoria san roman",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "tcapu school",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2005-12"
+    },
+    {
+      "school": "universidad complutense de madrid",
+      "majors": [
+        "journalism"
+      ],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2004"
+    }
+  ]
+}

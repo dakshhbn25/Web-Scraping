@@ -1,0 +1,94 @@
+{
+  "record_id": "speaker-viennacx-040",
+  "speaker_name": "Simon Cox",
+  "linkedin_url": "https://www.linkedin.com/in/simon-cox-638b9170/",
+  "likelihood": 9,
+  "full_name": "simon cox",
+  "job_title": "commercial excellence director",
+  "industry": "pharmaceuticals",
+  "current_company": "sobi uk & ireland",
+  "current_company_website": "sobi-uk.co.uk",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "annual budgeting",
+    "budgeting",
+    "business case preparation",
+    "change management",
+    "commercial excellence",
+    "commercial finance",
+    "commercial management",
+    "communication",
+    "digital marketing",
+    "digital transformation",
+    "driving results",
+    "exceeding targets",
+    "finance",
+    "financial planning",
+    "financial reporting",
+    "forecasting",
+    "investments",
+    "leadership",
+    "microsoft excel",
+    "negotiation",
+    "omnichannel marketing",
+    "performance analysis",
+    "profitability improvement",
+    "project management",
+    "social influence",
+    "strategic vision",
+    "team focused",
+    "technical accounting"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "commercial excellence director",
+      "company": "sobi uk & ireland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "finance and operations director uk & ireland",
+      "company": "sobi uk & ireland",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-10",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "director of finance",
+      "company": "mathworks",
+      "company_industry": "computer software",
+      "start_date": "2009-08",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "general manager",
+      "company": "domino printing sciences",
+      "company_industry": "printing",
+      "start_date": "2006-01",
+      "end_date": "2009-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of york",
+      "majors": [
+        "physics"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1992-01",
+      "end_date": "1995"
+    }
+  ]
+}

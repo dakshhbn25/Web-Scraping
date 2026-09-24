@@ -1,0 +1,478 @@
+{
+  "record_id": "speaker-medical-028",
+  "speaker_name": "Kerrianne Clinton",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/kerrianneclinton/",
+  "scraped_at": "2026-09-18T10:24:53.529088+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "H1Ncs5v1Xeq8iBaC9GVsQA_0000",
+    "full_name": "kerrianne clinton",
+    "first_name": "kerrianne",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "clinton",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/kerrianneclinton",
+    "linkedin_username": "kerrianneclinton",
+    "linkedin_id": "453950620",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "medical lead - vaccines pipeline",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-17",
+    "job_last_verified": "2026-06-12",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-12",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "auditing",
+      "cardiology",
+      "clinical research",
+      "clinical trials",
+      "communication",
+      "cross team collaboration",
+      "customer service",
+      "data analysis",
+      "dermatology",
+      "english",
+      "evidence based medicine",
+      "gastroenterology",
+      "health promotion",
+      "healthcare",
+      "immunology",
+      "leadership",
+      "medical affairs",
+      "medicine",
+      "microsoft excel",
+      "microsoft office",
+      "microsoft powerpoint",
+      "microsoft word",
+      "neurology",
+      "patient counseling",
+      "patient safety",
+      "pharmaceutics",
+      "pharmacokinetics",
+      "pharmacology",
+      "pharmacovigilance",
+      "presentation skills",
+      "product strategy",
+      "project management",
+      "public speaking",
+      "research",
+      "rheumatology",
+      "team leadership",
+      "teamwork",
+      "time management",
+      "training",
+      "vaccinations"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "medical lead - vaccines pipeline",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2025-12",
+        "start_date": "2024-09",
+        "title": {
+          "name": "brand manager respiratory",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-09",
+        "start_date": "2021-11",
+        "title": {
+          "name": "medical advisor respiratory & abpi final signatory",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [
+          "hertfordshire, england, united kingdom"
+        ],
+        "end_date": "2021-11",
+        "start_date": "2020-10",
+        "title": {
+          "name": "clinical primary care network pharmacist",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [
+          "hertfordshire, england, united kingdom"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2018-08",
+        "title": {
+          "name": "hospital pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "east and north hertfordshire teaching nhs trust",
+          "size": "5001-10000",
+          "id": "w5KdDtQ1qWQi894Bc0lyhw7DBibU",
+          "founded": 2000,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "stevenage, england, united kingdom",
+            "locality": "stevenage",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sg1 4ab",
+            "geo": "51.90,-0.17"
+          },
+          "linkedin_url": "linkedin.com/company/east-and-north-hertfordshire-nhs-trust",
+          "linkedin_id": "11057419",
+          "facebook_url": "facebook.com/enherts",
+          "twitter_url": null,
+          "website": "enherts-tr.nhs.uk"
+        },
+        "location_names": [
+          "stevenage, england, united kingdom"
+        ],
+        "end_date": "2018-08",
+        "start_date": "2017-07",
+        "title": {
+          "name": "pre-registration pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boots uk",
+          "size": "10001+",
+          "id": "99QzTUElOPB0aQ96n6AC3QoONf2s",
+          "founded": 1849,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 thane road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.96,-1.18"
+          },
+          "linkedin_url": "linkedin.com/company/boots",
+          "linkedin_id": "5067",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/boots_jobs",
+          "website": "boots.com"
+        },
+        "location_names": [
+          "leicester, england, united kingdom"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2014-06",
+        "title": {
+          "name": "pharmacy advisor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "de montfort university",
+          "type": "post-secondary institution",
+          "id": "fcVUGsi0GEE1dYr5ZbC-AA_0000",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/de-montfort-university",
+          "facebook_url": "facebook.com/dmuleicester",
+          "twitter_url": "twitter.com/dmuleicester",
+          "linkedin_id": "15327",
+          "website": "dmu.ac.uk",
+          "domain": "dmu.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2017",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "instituto john henry newman - universidad francisco de vitoria",
+          "type": "post-secondary institution",
+          "id": "MQEssDoMdSiXgNAMZobLOA_0000",
+          "location": {
+            "name": "pozuelo de alarcon, community of madrid, spain",
+            "locality": "pozuelo de alarcon",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/instituto-john-henry-newman",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "86872894",
+          "website": "institutojohnhenrynewmanufv.com",
+          "domain": "institutojohnhenrynewmanufv.com"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2013-12",
+        "majors": [
+          "chemistry",
+          "philosophy",
+          "physics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "453950620",
+        "url": "linkedin.com/in/kerrianneclinton",
+        "username": "kerrianneclinton"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

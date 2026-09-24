@@ -1,0 +1,772 @@
+{
+  "record_id": "speaker-dubrovnik-043",
+  "speaker_name": "Greg Symber",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/greg-symber/",
+  "scraped_at": "2026-09-18T09:36:36.379456+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "rMkAS6-BD-e-hUaBDBpn6w_0000",
+    "full_name": "greg symber",
+    "first_name": "greg",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "symber",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/greg-symber",
+    "linkedin_username": "greg-symber",
+    "linkedin_id": "44124049",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "director, omnichannel operations and analytics",
+    "job_title_role": "analyst",
+    "job_title_sub_role": null,
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+    "job_company_name": "novartis",
+    "job_company_website": "novartis.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1996,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novartis",
+    "job_company_linkedin_id": "1406",
+    "job_company_facebook_url": "facebook.com/novartis",
+    "job_company_twitter_url": "twitter.com/novartis",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4002",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-04-24",
+    "job_last_verified": "2026-08-14",
+    "job_start_date": "2025-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-14",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agency relationship management",
+      "analytical skills",
+      "biotechnology",
+      "budget management",
+      "business",
+      "business insights",
+      "business process improvement",
+      "change management",
+      "commercial",
+      "commercial insights and analytics",
+      "content adaptation",
+      "content effectiveness",
+      "content supply chain",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer experience",
+      "customer insight",
+      "customer relationship management",
+      "data analysis",
+      "digital marketing",
+      "fda",
+      "financial analysis",
+      "global to local content",
+      "international marketing",
+      "joint business partnerships",
+      "key performance indicators",
+      "leadership",
+      "life sciences",
+      "managing agency relationships",
+      "marketing",
+      "marketing governance",
+      "marketing operations",
+      "matrix leadership",
+      "media agencies",
+      "microsoft excel",
+      "microsoft outlook",
+      "negotiation",
+      "omni channel marketing",
+      "operating models",
+      "operational excellence",
+      "operations",
+      "performance analysis",
+      "pharma",
+      "pharmaceutical consulting",
+      "pharmaceutical industry",
+      "pharmaceutical management",
+      "pharmaceutical manufacturing",
+      "presentations",
+      "procurement",
+      "product development",
+      "resource management",
+      "return on investment",
+      "sales",
+      "sales and marketing",
+      "sap",
+      "social media marketing",
+      "spss",
+      "stakeholder engagement",
+      "strategic influence",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic sourcing",
+      "strategy",
+      "tableau",
+      "team leadership",
+      "vendor management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-01",
+        "title": {
+          "name": "director, omnichannel operations and analytics",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2023-09",
+        "title": {
+          "name": "director, international partnerships & performance",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2023-09",
+        "start_date": "2021-12",
+        "title": {
+          "name": "director, head of us media operations and procurement",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "procurement",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2021-11",
+        "start_date": "2021-01",
+        "title": {
+          "name": "associate director, global media and digital procurement",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "procurement",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2018-02",
+        "title": {
+          "name": "global media category lead, sourcing & enterprise services",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2018-01",
+        "start_date": "2015-08",
+        "title": {
+          "name": "decision support manager, sourcing & enterprise services",
+          "class": "services",
+          "role": "support",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2015-08",
+        "start_date": "2013-06",
+        "title": {
+          "name": "associate, sourcing & enterprise services",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2013-06",
+        "start_date": "2011-05",
+        "title": {
+          "name": "scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sgs",
+          "size": "10001+",
+          "id": "0xw1TvCuaC5sjS0UMqX5Pgry4d0O",
+          "founded": 1878,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "baar, zug, switzerland",
+            "locality": "baar",
+            "region": "zug",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "57 zugerstrasse",
+            "address_line_2": null,
+            "postal_code": "6340",
+            "geo": "47.19,8.52"
+          },
+          "linkedin_url": "linkedin.com/company/sgs",
+          "linkedin_id": "4126",
+          "facebook_url": "facebook.com/societegeneraledesurveillance",
+          "twitter_url": "twitter.com/sgs_sa",
+          "website": "sgs.com"
+        },
+        "location_names": [
+          "fairfield, new jersey, united states"
+        ],
+        "end_date": "2011",
+        "start_date": "2009",
+        "title": {
+          "name": "associate chemist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hikma pharmaceuticals",
+          "size": "5001-10000",
+          "id": "7CAU7oFFu9x9qc2dKtnfdgPgQ0Pq",
+          "founded": 1978,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 new burlington place",
+            "address_line_2": null,
+            "postal_code": "w1s 2hr",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/hikma-pharmaceuticals",
+          "linkedin_id": "42352",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/hikmapharma",
+          "website": "hikma.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2009",
+        "start_date": "2008",
+        "title": {
+          "name": "quality control chemist",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "quality_assurance",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "colgate-palmolive",
+          "size": "10001+",
+          "id": "75321864NXfkrbFy1U3Zwg4axprO",
+          "founded": 1806,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 park avenue",
+            "address_line_2": null,
+            "postal_code": "10022",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/colgate-palmolive",
+          "linkedin_id": "2748",
+          "facebook_url": "facebook.com/colgate",
+          "twitter_url": "twitter.com/colgate",
+          "website": "colgatepalmolive.com"
+        },
+        "location_names": [
+          "morristown, new jersey, united states"
+        ],
+        "end_date": "2008",
+        "start_date": "2007",
+        "title": {
+          "name": "stability lab technician",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "rutgers business school",
+          "type": "post-secondary institution",
+          "id": "EzhPBJ2L2yHFPG9y1G94Zg_0000",
+          "location": {
+            "name": "newark, new jersey, united states",
+            "locality": "newark",
+            "region": "new jersey",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/rutgers-business-school",
+          "facebook_url": "facebook.com/rutgersu",
+          "twitter_url": "twitter.com/rutgersu",
+          "linkedin_id": "4261",
+          "website": "business.rutgers.edu",
+          "domain": "rutgers.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2009",
+        "end_date": "2012",
+        "majors": [
+          "finance",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rutgers university",
+          "type": "post-secondary institution",
+          "id": "XQyxL4ya1oRREDF6BG4hgw_0000",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/rutgersu",
+          "facebook_url": "facebook.com/rutgersu",
+          "twitter_url": "twitter.com/rutgersu",
+          "linkedin_id": "4262",
+          "website": "rutgers.edu",
+          "domain": "rutgers.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2003",
+        "end_date": "2008",
+        "majors": [
+          "business economics",
+          "chemistry",
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rutgers university",
+          "type": "post-secondary institution",
+          "id": "XQyxL4ya1oRREDF6BG4hgw_0000",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/rutgersu",
+          "facebook_url": "facebook.com/rutgersu",
+          "twitter_url": "twitter.com/rutgersu",
+          "linkedin_id": "4262",
+          "website": "rutgers.edu",
+          "domain": "rutgers.edu"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": null,
+        "end_date": "2013-05",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "school of environmental and civil engineering technology",
+          "type": "post-secondary institution",
+          "id": "8ryvJnIt7fB5GzHoSgQVXw_0000",
+          "location": {
+            "name": "toronto, ontario, canada",
+            "locality": "toronto",
+            "region": "ontario",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/seneca-secet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "105065768",
+          "website": "senecapolytechnic.ca",
+          "domain": "senecapolytechnic.ca"
+        },
+        "degrees": [
+          "bachelors",
+          "bachelor of arts"
+        ],
+        "start_date": null,
+        "end_date": "2008-05",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "forrest laboratories las",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "44124049",
+        "url": "linkedin.com/in/greg-symber",
+        "username": "greg-symber"
+      },
+      {
+        "network": "linkedin",
+        "id": "44124049",
+        "url": "linkedin.com/in/greg-symber-90193a12",
+        "username": "greg-symber-90193a12"
+      },
+      {
+        "network": "linkedin",
+        "id": "44124049",
+        "url": "linkedin.com/in/greg-s-90193a12",
+        "username": "greg-s-90193a12"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

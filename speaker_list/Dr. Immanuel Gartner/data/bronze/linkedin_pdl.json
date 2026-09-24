@@ -1,0 +1,793 @@
+{
+  "record_id": "speaker-dubrovnik-035",
+  "speaker_name": "Dr. Immanuel Gartner",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dr-immanuel-gartner-555433180/",
+  "scraped_at": "2026-09-18T09:36:17.822989+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "qSRe4plWfMNVO6MX7RU68A_0000",
+    "full_name": "immanuel gartner",
+    "first_name": "immanuel",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gartner",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_id": null,
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "chief executive officer",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "kMZUaB9uJ8XkC8JCo8enQA1lNJZI",
+    "job_company_name": "gartner.fit",
+    "job_company_website": "gartner.fit",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": "health and human services",
+    "job_company_linkedin_url": "linkedin.com/company/gartner-fit",
+    "job_company_linkedin_id": "104360276",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2026-01-18",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2021",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "austria",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-04-17",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "aufsichtskompetenzen",
+      "basketball",
+      "emergency medicine",
+      "fitness",
+      "general medicine",
+      "gesunder lebensstil",
+      "health promotion",
+      "healthy aging",
+      "injury prevention",
+      "injury rehabilitation",
+      "keynote speaking",
+      "kommunikation",
+      "leadership",
+      "leitungsposition",
+      "longevity",
+      "management",
+      "medizin",
+      "medizin and gesundheitswesen",
+      "rehabilitation",
+      "sport",
+      "sports injuries",
+      "sports medicine",
+      "sports nutrition"
+    ],
+    "location_names": false,
+    "regions": false,
+    "countries": [
+      "austria"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "gartner.fit",
+          "size": "1-10",
+          "id": "kMZUaB9uJ8XkC8JCo8enQA1lNJZI",
+          "founded": null,
+          "industry": null,
+          "industry_v2": "health and human services",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/gartner-fit",
+          "linkedin_id": "104360276",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "gartner.fit"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": null,
+        "start_date": "2021",
+        "title": {
+          "name": "chief executive officer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "fiba",
+          "size": "51-200",
+          "id": "WFBKRQQBKkDKUhDAoDjl9gT4Vvqd",
+          "founded": 1932,
+          "industry": "sports",
+          "industry_v2": "spectator sports",
+          "location": {
+            "name": "mies, vaud, switzerland",
+            "locality": "mies",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "5 route suisse",
+            "address_line_2": null,
+            "postal_code": "1295",
+            "geo": "46.29,6.17"
+          },
+          "linkedin_url": "linkedin.com/company/fiba",
+          "linkedin_id": "81119",
+          "facebook_url": "facebook.com/fiba",
+          "twitter_url": "twitter.com/fiba",
+          "website": "fiba.basketball"
+        },
+        "location_names": [],
+        "end_date": "2025-08",
+        "start_date": "2025-08",
+        "title": {
+          "name": "fiba 3x3 nationsleague tournamentdoctor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fiba",
+          "size": "51-200",
+          "id": "WFBKRQQBKkDKUhDAoDjl9gT4Vvqd",
+          "founded": 1932,
+          "industry": "sports",
+          "industry_v2": "spectator sports",
+          "location": {
+            "name": "mies, vaud, switzerland",
+            "locality": "mies",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "5 route suisse",
+            "address_line_2": null,
+            "postal_code": "1295",
+            "geo": "46.29,6.17"
+          },
+          "linkedin_url": "linkedin.com/company/fiba",
+          "linkedin_id": "81119",
+          "facebook_url": "facebook.com/fiba",
+          "twitter_url": "twitter.com/fiba",
+          "website": "fiba.basketball"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": null,
+        "start_date": "2024",
+        "title": {
+          "name": "fiba3x3 europe cup scientific director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fiba",
+          "size": "51-200",
+          "id": "WFBKRQQBKkDKUhDAoDjl9gT4Vvqd",
+          "founded": 1932,
+          "industry": "sports",
+          "industry_v2": "spectator sports",
+          "location": {
+            "name": "mies, vaud, switzerland",
+            "locality": "mies",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "5 route suisse",
+            "address_line_2": null,
+            "postal_code": "1295",
+            "geo": "46.29,6.17"
+          },
+          "linkedin_url": "linkedin.com/company/fiba",
+          "linkedin_id": "81119",
+          "facebook_url": "facebook.com/fiba",
+          "twitter_url": "twitter.com/fiba",
+          "website": "fiba.basketball"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024",
+        "title": {
+          "name": "fiba3x3 worldtour tournamentdoctor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rudolfinerhaus privatklinik gmbh",
+          "size": "201-500",
+          "id": "xQmC2NotLiCxB9nHXIXsCQxqISLA",
+          "founded": 1882,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "wien, döbling, wien, austria",
+            "locality": "wien, döbling",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "78 billrothstraße",
+            "address_line_2": null,
+            "postal_code": "1190",
+            "geo": "48.25,16.33"
+          },
+          "linkedin_url": "linkedin.com/company/rudolfinerhaus-privatklinik",
+          "linkedin_id": "11359952",
+          "facebook_url": "facebook.com/rudolfinerhausprivatklinik",
+          "twitter_url": null,
+          "website": "rudolfinerhaus.at"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023",
+        "title": {
+          "name": "doctor of medicine",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bvaeb - versicherungsanstalt öffentlich bediensteter, eisenbahnen und bergbau",
+          "size": "1001-5000",
+          "id": "nKmIheIQXwWHiJVLHz7rbgJp6JQL",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "vienna, wien, austria",
+            "locality": "vienna",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "80 josefstädter straße",
+            "address_line_2": null,
+            "postal_code": "1080",
+            "geo": "48.20,16.37"
+          },
+          "linkedin_url": "linkedin.com/company/bvaeb-versicherungsanstalt-öffentlich-bediensteter-eisenbahnen-und-bergbau",
+          "linkedin_id": "92840066",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bvaeb.at"
+        },
+        "location_names": [
+          "krems, lower austria, austria"
+        ],
+        "end_date": "2025",
+        "start_date": "2022",
+        "title": {
+          "name": "medical director - resilienzpark sitzenberg - prevention clinic",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "praxis gruppe schweiz ag",
+          "size": "51-200",
+          "id": "MtBLv1RTBfZduQ2zstw9OQPj4uk1",
+          "founded": 2008,
+          "industry": "medical practice",
+          "industry_v2": "medical practices",
+          "location": {
+            "name": "hünenberg, zug, switzerland",
+            "locality": "hünenberg",
+            "region": "zug",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "23 rothusstrasse",
+            "address_line_2": null,
+            "postal_code": "6331",
+            "geo": "47.18,8.42"
+          },
+          "linkedin_url": "linkedin.com/company/praxis-gruppe-schweiz-ag",
+          "linkedin_id": "6296023",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "praxis-gruppe.ch"
+        },
+        "location_names": [
+          "bern, bern, switzerland",
+          "brienz, bern, switzerland"
+        ],
+        "end_date": "2022-07",
+        "start_date": "2021-05",
+        "title": {
+          "name": "deputy medical director - brienz, switzerland",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vamed",
+          "size": "10001+",
+          "id": "DQCfKe0kg4qfSfS2NWN1hg4rj0ZH",
+          "founded": 1982,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "5 sterngasse",
+            "address_line_2": null,
+            "postal_code": "1230",
+            "geo": "48.21,16.4"
+          },
+          "linkedin_url": "linkedin.com/company/vamed",
+          "linkedin_id": "78455",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "vamed.com"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2020-02",
+        "title": {
+          "name": "medical doctor - rehaklinik wien baumgarten",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "basketball klosterneuburg 🏀",
+          "size": "1-10",
+          "id": "1U4OEfKLWranBioOqxxmlgzHLMYI",
+          "founded": null,
+          "industry": "sports",
+          "industry_v2": "sports teams and clubs",
+          "location": {
+            "name": "in der au, niederösterreich, austria",
+            "locality": "in der au",
+            "region": "niederösterreich",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "3400",
+            "geo": "48.36,16.21"
+          },
+          "linkedin_url": "linkedin.com/company/basketball-klosterneuburg",
+          "linkedin_id": "101457786",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "klosterneuburg, lower austria, austria"
+        ],
+        "end_date": null,
+        "start_date": "2019",
+        "title": {
+          "name": "1st division - chief medical officer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nö universitätsklinikum st. pölten",
+          "size": "1001-5000",
+          "id": "r63KepAyuB1niugW7OiPGwKOgjwP",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "lower austria, austria",
+            "locality": null,
+            "region": "lower austria",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "3100",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/universitätsklinikum-st-pölten",
+          "linkedin_id": "96236337",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "lknoe.at"
+        },
+        "location_names": [],
+        "end_date": "2020",
+        "start_date": "2018",
+        "title": {
+          "name": "medical doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nö landesklinikum lilienfeld",
+          "size": "501-1000",
+          "id": "tipOziThZx6rCBsHCpk8rAolnaV3",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/nö-landesklinikum-lilienfeld",
+          "linkedin_id": "96450070",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "lilienfeld, lower austria, austria"
+        ],
+        "end_date": "2018",
+        "start_date": "2016",
+        "title": {
+          "name": "medical doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rudolfinerhaus privatklinik gmbh",
+          "size": "201-500",
+          "id": "xQmC2NotLiCxB9nHXIXsCQxqISLA",
+          "founded": 1882,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "wien, döbling, wien, austria",
+            "locality": "wien, döbling",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "78 billrothstraße",
+            "address_line_2": null,
+            "postal_code": "1190",
+            "geo": "48.25,16.33"
+          },
+          "linkedin_url": "linkedin.com/company/rudolfinerhaus-privatklinik",
+          "linkedin_id": "11359952",
+          "facebook_url": "facebook.com/rudolfinerhausprivatklinik",
+          "twitter_url": null,
+          "website": "rudolfinerhaus.at"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": "2021",
+        "start_date": "2013",
+        "title": {
+          "name": "medical doctor - surgery assistant",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rudolfinerhaus privatklinik gmbh",
+          "size": "201-500",
+          "id": "xQmC2NotLiCxB9nHXIXsCQxqISLA",
+          "founded": 1882,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "wien, döbling, wien, austria",
+            "locality": "wien, döbling",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "78 billrothstraße",
+            "address_line_2": null,
+            "postal_code": "1190",
+            "geo": "48.25,16.33"
+          },
+          "linkedin_url": "linkedin.com/company/rudolfinerhaus-privatklinik",
+          "linkedin_id": "11359952",
+          "facebook_url": "facebook.com/rudolfinerhausprivatklinik",
+          "twitter_url": null,
+          "website": "rudolfinerhaus.at"
+        },
+        "location_names": [
+          "vienna, wien, austria"
+        ],
+        "end_date": "2013",
+        "start_date": "2011",
+        "title": {
+          "name": "medical doctor in training - surgery assistant",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "universität für weiterbildung krems",
+          "type": "post-secondary institution",
+          "id": "QYh2--5sMlz97qklWhIiNQ_0000",
+          "location": {
+            "name": "krems an der donau, niederösterreich, austria",
+            "locality": "krems an der donau",
+            "region": "niederösterreich",
+            "country": "austria",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unikrems",
+          "facebook_url": "facebook.com/donau.uni",
+          "twitter_url": "twitter.com/donau_uni",
+          "linkedin_id": "343870",
+          "website": "donau-uni.ac.at",
+          "domain": "donau-uni.ac.at"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2020",
+        "end_date": "2025",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universität für weiterbildung krems",
+          "type": "post-secondary institution",
+          "id": "QYh2--5sMlz97qklWhIiNQ_0000",
+          "location": {
+            "name": "krems an der donau, niederösterreich, austria",
+            "locality": "krems an der donau",
+            "region": "niederösterreich",
+            "country": "austria",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unikrems",
+          "facebook_url": "facebook.com/donau.uni",
+          "twitter_url": "twitter.com/donau_uni",
+          "linkedin_id": "343870",
+          "website": "donau-uni.ac.at",
+          "domain": "donau-uni.ac.at"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2018",
+        "end_date": "2025-01",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "medical university of vienna",
+          "type": "post-secondary institution",
+          "id": "msJAs4T1xs7cG-ACk9AkCA_0000",
+          "location": {
+            "name": "wien, alsergrund, wien, austria",
+            "locality": "wien, alsergrund",
+            "region": "wien",
+            "country": "austria",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/medizinische-universitat-wien",
+          "facebook_url": "facebook.com/medizinischeuniversitaetwien",
+          "twitter_url": "twitter.com/meduni_wien",
+          "linkedin_id": "15092335",
+          "website": "meduniwien.ac.at",
+          "domain": "meduniwien.ac.at"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of arkansas",
+          "type": "post-secondary institution",
+          "id": "Cesn3sGkXZLyKSKCBOpyAQ_0000",
+          "location": {
+            "name": "fayetteville, arkansas, united states",
+            "locality": "fayetteville",
+            "region": "arkansas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-arkansas",
+          "facebook_url": "facebook.com/uofarkansas",
+          "twitter_url": "twitter.com/uarkansas",
+          "linkedin_id": "7773",
+          "website": "uark.edu",
+          "domain": "uark.edu"
+        },
+        "degrees": [],
+        "start_date": "2006-01",
+        "end_date": "2007",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "pulaski academy",
+          "type": "post-secondary institution",
+          "id": "AVXBwkrXQfa47-SJ1Hnpag_0000",
+          "location": {
+            "name": "little rock, arkansas, united states",
+            "locality": "little rock",
+            "region": "arkansas",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/pulaskiacademy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "531840",
+          "website": "pulaskiacademy.org",
+          "domain": "pulaskiacademy.org"
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2005",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lakeside high school",
+          "type": "secondary school",
+          "id": "yplV6fZhbVT7lOgL9VufRQ_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/lakeside-high-school-51",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "34213554",
+          "website": "lakesidesd.com",
+          "domain": "lakesidesd.com"
+        },
+        "degrees": [],
+        "start_date": "2003-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "717699665",
+        "url": "linkedin.com/in/dr-immanuel-gartner-555433180",
+        "username": "dr-immanuel-gartner-555433180"
+      },
+      {
+        "network": "linkedin",
+        "id": "717699665",
+        "url": "linkedin.com/in/prim-dr-immanuel-gartner-555433180",
+        "username": "prim-dr-immanuel-gartner-555433180"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

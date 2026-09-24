@@ -1,0 +1,290 @@
+{
+  "record_id": "speaker-dubrovnik-019",
+  "speaker_name": "Alyssa Fenoglio",
+  "linkedin_url": "https://www.linkedin.com/in/afenoglio/",
+  "likelihood": 9,
+  "full_name": "alyssa fenoglio",
+  "job_title": "ai transformation advisor & speaker",
+  "industry": "management consulting",
+  "current_company": "the stem",
+  "current_company_website": "thestem.com",
+  "current_company_industry": "management consulting",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advisory boards",
+    "advisory councils",
+    "ai transformation",
+    "artificial intelligence",
+    "artificial intelligence for business",
+    "brand activation",
+    "brand development",
+    "brand management",
+    "brand marketing",
+    "brand strategy",
+    "building partnerships",
+    "business strategy",
+    "business transformation",
+    "campaign launch",
+    "capability development",
+    "career development",
+    "change management",
+    "coaching",
+    "competitive analysis",
+    "consumer marketing",
+    "consumer products",
+    "corporate advisory",
+    "crm",
+    "cross functional collaborations",
+    "cross functional team leadership",
+    "customer experience",
+    "customer relationship management",
+    "digital health",
+    "digital marketing",
+    "digital strategy",
+    "digital transformation",
+    "diversity and inclusion",
+    "e commerce",
+    "emerging markets",
+    "executive leadership",
+    "field sales training",
+    "generative ai tools",
+    "global cross functional team leadership",
+    "global leadership",
+    "global marketing",
+    "global strategy",
+    "influencer marketing",
+    "international marketing",
+    "keynote speaking",
+    "kol development",
+    "kol management",
+    "leadership",
+    "management",
+    "market analysis",
+    "market development",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing management",
+    "marketing research",
+    "marketing strategy",
+    "medical devices",
+    "medtech",
+    "mobile marketing",
+    "national sales meeting",
+    "omni channel marketing",
+    "omnichannel marketing",
+    "online advertising",
+    "organizational capability",
+    "p&l management",
+    "people development",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "president's club",
+    "product development",
+    "product launch",
+    "product management",
+    "product marketing",
+    "responsible marketing",
+    "retail partnerships",
+    "sales",
+    "sales management",
+    "sales operations",
+    "sales presentations",
+    "segmentation",
+    "senior stakeholder management",
+    "small business development",
+    "social media marketing",
+    "sponsorship activation",
+    "sports marketing",
+    "stakeholder management",
+    "strategic advising",
+    "strategic partnerships",
+    "strategic thinking",
+    "strategy",
+    "sustainability",
+    "team leadership",
+    "university lecturing",
+    "venture capital",
+    "wearable technology",
+    "women's leadership"
+  ],
+  "interests": [
+    "children",
+    "economic empowerment"
+  ],
+  "experience": [
+    {
+      "title": "ai transformation advisor & speaker",
+      "company": "the stem",
+      "company_industry": "management consulting",
+      "start_date": "2026-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "fellow & advisor",
+      "company": "thena capital",
+      "company_industry": "venture capital & private equity",
+      "start_date": "2025-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "founder & strategic advisor",
+      "company": "the human algorithm advisory",
+      "company_industry": "management consulting",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "strategic advisor",
+      "company": "global ai leaders network (gail)",
+      "company_industry": "internet",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "healthcare ai board advisor",
+      "company": "klick",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-03",
+      "end_date": "2025-03",
+      "is_primary": false
+    },
+    {
+      "title": "chief member",
+      "company": "chief",
+      "company_industry": "professional training & coaching",
+      "start_date": "2023-09",
+      "end_date": "2025-09",
+      "is_primary": false
+    },
+    {
+      "title": "council member & advisor - ai council, chief marketing officer forum",
+      "company": "wfa",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-04",
+      "end_date": "2025-11",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, global head of digital commercial",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-04",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "assistant vice president of global marketing excellence, consumer healthcare",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "visiting lecturer",
+      "company": "texas a&m university",
+      "company_industry": "higher education",
+      "start_date": "2018-03",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior director of global marketing excellence & multi-channel engagement",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "director of global consumer marketing - st jude medical neuromodulation",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2016",
+      "end_date": "2017",
+      "is_primary": false
+    },
+    {
+      "title": "director of marketing",
+      "company": "neurometrix, inc.",
+      "company_industry": "medical devices",
+      "start_date": "2014",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "senior assistant brand manager - gillette north america",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "2011",
+      "end_date": "2014",
+      "is_primary": false
+    },
+    {
+      "title": "senior global assistant brand manager - gillette global",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "2011",
+      "end_date": "2013",
+      "is_primary": false
+    },
+    {
+      "title": "senior global product manager",
+      "company": "medtronic",
+      "company_industry": "medical devices",
+      "start_date": "2008",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "specialty pharmaceutical sales representative & sales trainer",
+      "company": "alcon",
+      "company_industry": "medical devices",
+      "start_date": "2005",
+      "end_date": "2008",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "usc marshall school of business",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2006",
+      "end_date": "2008"
+    },
+    {
+      "school": "texas a&m university",
+      "majors": [
+        "kinesiology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1999",
+      "end_date": "2003"
+    },
+    {
+      "school": "texas a&m university",
+      "majors": [
+        "communications"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

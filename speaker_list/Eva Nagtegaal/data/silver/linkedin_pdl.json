@@ -1,0 +1,134 @@
+{
+  "record_id": "speaker-dubrovnik-082",
+  "speaker_name": "Eva Nagtegaal",
+  "linkedin_url": "https://www.linkedin.com/in/evanagtegaal/",
+  "likelihood": 9,
+  "full_name": "eva nagtegaal",
+  "job_title": "independent medical education business lead emea & us",
+  "industry": "higher education",
+  "current_company": "wiley",
+  "current_company_website": "wiley.com",
+  "current_company_industry": "publishing",
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "academic publishing",
+    "account management",
+    "b2b",
+    "b2b marketing",
+    "cardiology",
+    "content development",
+    "content management",
+    "digital marketing",
+    "digital media",
+    "digital strategy",
+    "direct marketing",
+    "email marketing",
+    "hematology",
+    "infectious diseases",
+    "management",
+    "marketing",
+    "marketing communications",
+    "medical writing",
+    "online advertising",
+    "online publishing",
+    "pharmaceutical industry",
+    "product launch",
+    "publications",
+    "publishing",
+    "salesforce.com",
+    "strategic partnerships",
+    "toolkit"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "independent medical education business lead emea & us",
+      "company": "wiley",
+      "company_industry": "publishing",
+      "start_date": "2022-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "diabetes lead",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-08",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "sales director",
+      "company": "psl group",
+      "company_industry": "computer software",
+      "start_date": "2018-01",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "global business development manager emea / la - infectious diseases",
+      "company": "elsevier",
+      "company_industry": "information services",
+      "start_date": "2016-05",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "therapy account manager - elsevier pharma solutions",
+      "company": "elsevier",
+      "company_industry": "information services",
+      "start_date": "2009-07",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate program manager",
+      "company": "excerpta medica bv - adelphi group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-09",
+      "end_date": "2009-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "nima, nederlands instituut voor marketing",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2021-02",
+      "end_date": "2022-01"
+    },
+    {
+      "school": "atlanta technical college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-01",
+      "end_date": "1999"
+    },
+    {
+      "school": "vrije universiteit amsterdam (vu amsterdam)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-09",
+      "end_date": "2000-07"
+    },
+    {
+      "school": "vrije universiteit amsterdam (vu amsterdam)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-12"
+    },
+    {
+      "school": "atlanta technical college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1993-01",
+      "end_date": "1997"
+    }
+  ]
+}

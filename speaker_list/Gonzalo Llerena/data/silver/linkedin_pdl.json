@@ -1,0 +1,169 @@
+{
+  "record_id": "speaker-viennacx-026",
+  "speaker_name": "Gonzalo Llerena",
+  "linkedin_url": "https://www.linkedin.com/in/gonzalo-llerena/?locale=en",
+  "likelihood": 9,
+  "full_name": "gonzalo llerena",
+  "job_title": "global commercial excellence lead",
+  "industry": "pharmaceuticals",
+  "current_company": "wörwag pharma gmbh & co. kg",
+  "current_company_website": "woerwagpharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business strategy",
+    "commercial excellence",
+    "eficacia de ventas",
+    "estrategia",
+    "estrategia de mercadotecnia",
+    "estrategia empresarial",
+    "gerencia de ventas",
+    "human resources consulting",
+    "key account management/kam",
+    "leadership",
+    "liderazgo",
+    "management skills development",
+    "market research",
+    "marketing strategy",
+    "negotiation",
+    "new business development",
+    "performance management",
+    "re engineering projects",
+    "restructures",
+    "sales and marketing excellence",
+    "sales effectiveness",
+    "sales force effectiveness/sfe",
+    "strategic planning",
+    "training and coching"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global commercial excellence lead",
+      "company": "wörwag pharma gmbh & co. kg",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global marketing manager - pharmaceuticals",
+      "company": "lgc standards",
+      "company_industry": "chemicals",
+      "start_date": "2017-07",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "general manager - sales latin america",
+      "company": "centogene",
+      "company_industry": "biotechnology",
+      "start_date": "2015-11",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "regional commercial excellence director latin america",
+      "company": "merck group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "regional commercial excellence manager csa and latin america",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2012-05",
+      "is_primary": false
+    },
+    {
+      "title": "regional sales & marketing excellence (sesame) manager - central & south america (csa)",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-02",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "regional sales & marketing excellence project manager - central & south america (csa)",
+      "company": "grünenthal group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-03",
+      "end_date": "2008-01",
+      "is_primary": false
+    },
+    {
+      "title": "manging director & general manager - ecuador",
+      "company": "the adecco group",
+      "company_industry": "human resources",
+      "start_date": "2001-09",
+      "end_date": "2007-02",
+      "is_primary": false
+    },
+    {
+      "title": "commercial manager - perú",
+      "company": "the adecco group",
+      "company_industry": "human resources",
+      "start_date": "1999-01",
+      "end_date": "2001-08",
+      "is_primary": false
+    },
+    {
+      "title": "operations manager",
+      "company": "central aduanera",
+      "company_industry": null,
+      "start_date": "1996-01",
+      "end_date": "1998-12",
+      "is_primary": false
+    },
+    {
+      "title": "operations manager",
+      "company": "gonzalo llerena ortiz de zevallos",
+      "company_industry": null,
+      "start_date": "1994-01",
+      "end_date": "1995-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior sales executive",
+      "company": "sergersa autos",
+      "company_industry": null,
+      "start_date": "1991-02",
+      "end_date": "1992-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "escuela nacional de control",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-01",
+      "end_date": "1997"
+    },
+    {
+      "school": "universidad católica de santa maría",
+      "majors": [
+        "business",
+        "business administration"
+      ],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": "1988-01",
+      "end_date": "1995"
+    },
+    {
+      "school": "universidad católica santa maría la antigua",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "1995"
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "record_id": "speaker-dubrovnik-042",
+  "speaker_name": "Olivier Burgaud",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/olivier-burgaud-a626751b/",
+  "scraped_at": "2026-09-18T09:36:34.239240+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "zMq-I9Qz45wm3ENNgDT0rg_0000",
+    "full_name": "olivier burgaud",
+    "first_name": "olivier",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "burgaud",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/olivier-burgaud-a626751b",
+    "linkedin_username": "olivier-burgaud-a626751b",
+    "linkedin_id": "70325930",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical affairs digital director",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "vwQVktL9Ca2928apBIruBgzuvACs",
+    "job_company_name": "servier",
+    "job_company_website": "servier.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1954,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/servier",
+    "job_company_linkedin_id": "165926",
+    "job_company_facebook_url": "facebook.com/servierinternational",
+    "job_company_twitter_url": "twitter.com/servier",
+    "job_company_location_name": "suresnes, île-de-france, france",
+    "job_company_location_locality": "suresnes",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.87,2.22",
+    "job_company_location_street_address": "50 rue carnot",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "92150",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-04-25",
+    "job_last_verified": "2026-07-27",
+    "job_start_date": "2024-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-27",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "health",
+      "science and technology"
+    ],
+    "skills": [
+      "biotechnologie",
+      "bonnes pratiques cliniques",
+      "change management",
+      "essais cliniques",
+      "gestion de la relation client",
+      "gestion de portefeuille de projets",
+      "gestion de programmes",
+      "gestion de projet",
+      "it service management",
+      "itil",
+      "leadership",
+      "life sciences",
+      "management",
+      "management services it",
+      "pharmaceutique",
+      "pilotage",
+      "planification",
+      "project management",
+      "r&d",
+      "recherche clinique",
+      "sciences de la vie",
+      "secteur pharmaceutique",
+      "technologies de linformation"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "portugal"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "global medical affairs digital director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "lisbon, lisbon, portugal",
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2024-04",
+        "start_date": "2018-10",
+        "title": {
+          "name": "head of information systems / it emea",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2017-04",
+        "title": {
+          "name": "global information systems chief transformation officer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2016-05",
+        "title": {
+          "name": "global services management information systems director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2012-07",
+        "title": {
+          "name": "clinical development & pharmacovigilance information systems manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "suresnes, île-de-france, france"
+        ],
+        "end_date": "2012-06",
+        "start_date": "2010-10",
+        "title": {
+          "name": "information systems clinical domain manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servier",
+          "size": "10001+",
+          "id": "vwQVktL9Ca2928apBIruBgzuvACs",
+          "founded": 1954,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "suresnes, île-de-france, france",
+            "locality": "suresnes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "50 rue carnot",
+            "address_line_2": null,
+            "postal_code": "92150",
+            "geo": "48.87,2.22"
+          },
+          "linkedin_url": "linkedin.com/company/servier",
+          "linkedin_id": "165926",
+          "facebook_url": "facebook.com/servierinternational",
+          "twitter_url": "twitter.com/servier",
+          "website": "servier.com"
+        },
+        "location_names": [
+          "croissy-sur-seine, île-de-france, france"
+        ],
+        "end_date": "2010",
+        "start_date": "2002",
+        "title": {
+          "name": "it project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "génie physiologique informatique",
+          "type": "post-secondary institution",
+          "id": "YSmgsRAjEBgyzHBkdWdf4g_0000",
+          "location": {
+            "name": "poitiers, nouvelle-aquitaine, france",
+            "locality": "poitiers",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/gphy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18426503",
+          "website": "geniephy.net",
+          "domain": "geniephy.net"
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2001",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "génie physiologique informatique",
+          "type": "post-secondary institution",
+          "id": "YSmgsRAjEBgyzHBkdWdf4g_0000",
+          "location": {
+            "name": "poitiers, nouvelle-aquitaine, france",
+            "locality": "poitiers",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/gphy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18426503",
+          "website": "geniephy.net",
+          "domain": "geniephy.net"
+        },
+        "degrees": [],
+        "start_date": "1998-01",
+        "end_date": "2001",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "70325930",
+        "url": "linkedin.com/in/olivier-burgaud-a626751b",
+        "username": "olivier-burgaud-a626751b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

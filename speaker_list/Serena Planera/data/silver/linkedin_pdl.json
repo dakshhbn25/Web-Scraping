@@ -1,0 +1,281 @@
+{
+  "record_id": "speaker-dubrovnik-009",
+  "speaker_name": "Serena Planera",
+  "linkedin_url": "https://www.linkedin.com/in/serenaplanera/",
+  "likelihood": 9,
+  "full_name": "serena planera",
+  "job_title": "international digital engagement strategy leader",
+  "industry": "pharmaceuticals",
+  "current_company": "eli lilly and company",
+  "current_company_website": "lilly.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "italy",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "behavioral economics",
+    "business analytics",
+    "cognitive neuroscience",
+    "cognitive science",
+    "customer behavior",
+    "data driven decisions",
+    "diversity",
+    "inclusion",
+    "industria farmaceutica",
+    "insegnamento",
+    "latex",
+    "leadership",
+    "lingua inglese",
+    "management",
+    "marketing",
+    "matlab",
+    "microsoft excel",
+    "microsoft office",
+    "neuroscience",
+    "neuroscienze",
+    "people management",
+    "project management",
+    "research",
+    "research design",
+    "ricerca",
+    "spss",
+    "team building",
+    "vendite"
+  ],
+  "interests": [
+    "applied technologies",
+    "behavioural economics",
+    "decision making research",
+    "human computer interface",
+    "social media research",
+    "the environment's protection"
+  ],
+  "experience": [
+    {
+      "title": "international digital engagement strategy leader",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "creativemornings florence host",
+      "company": "creativemornings",
+      "company_industry": "design",
+      "start_date": "2025-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "general manager israel, cyprus, and malta",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-05",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "neuroscience business unit leader - italy hub",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-12",
+      "end_date": "2025-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, lilly digital greenhouse, digital start",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-05",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior director - lilly marketing institute communications and operations",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-10",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "speaker",
+      "company": "mib trieste alumni association",
+      "company_industry": "non-profit organization management",
+      "start_date": "2020-11",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "neuro bone district sales manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-01",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "migraine national sales manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-07",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "guest lecturer",
+      "company": "tsm - trentino school of management",
+      "company_industry": "education management",
+      "start_date": "2018-04",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "bone brand manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-02",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "diabetes brand manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "guest lecturer",
+      "company": "tsm - trentino school of management",
+      "company_industry": "education management",
+      "start_date": "2017-09",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "guest speaker",
+      "company": "università di trento",
+      "company_industry": "research",
+      "start_date": "2017-02",
+      "end_date": "2017-02",
+      "is_primary": false
+    },
+    {
+      "title": "diabetes senior marketing associate",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-10",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "diabetes marketing intern (mba program)",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-06",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "researcher",
+      "company": "universitat osnabruck institute of cognitive science",
+      "company_industry": null,
+      "start_date": "2013-10",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "study project member",
+      "company": "universitat osnabruck institute of cognitive science",
+      "company_industry": null,
+      "start_date": "2013-10",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "research intern",
+      "company": "center for mind/brain sciences",
+      "company_industry": null,
+      "start_date": "2013-02",
+      "end_date": "2013-07",
+      "is_primary": false
+    },
+    {
+      "title": "research intern",
+      "company": "b.r.a.i.n center for neuroscience",
+      "company_industry": null,
+      "start_date": "2012-01",
+      "end_date": "2012-09",
+      "is_primary": false
+    },
+    {
+      "title": "data collector",
+      "company": "comune di trieste",
+      "company_industry": "government administration",
+      "start_date": "2011-09",
+      "end_date": "2012-02",
+      "is_primary": false
+    },
+    {
+      "title": "data collector",
+      "company": "ministero dell'interno",
+      "company_industry": "government administration",
+      "start_date": "2011-05",
+      "end_date": "2011-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mib trieste school of management",
+      "majors": [
+        "international business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2016-12"
+    },
+    {
+      "school": "universität osnabrück",
+      "majors": [
+        "cognitive science"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "università di trento",
+      "majors": [
+        "cognitive science"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "università degli studi di trieste",
+      "majors": [
+        "biotechnology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2012"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "record_id": "speaker-dubrovnik-102",
+  "speaker_name": "Andreas Gensch",
+  "linkedin_url": "https://www.linkedin.com/in/andreas-gensch2020/",
+  "likelihood": 9,
+  "full_name": "andreas gensch",
+  "job_title": "co-founder",
+  "industry": "food production",
+  "current_company": "ceel.ai",
+  "current_company_website": "ceel.ai",
+  "current_company_industry": "hospital & health care",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business development",
+    "business modeling",
+    "business planning",
+    "business strategy",
+    "competitive analysis",
+    "corporate development",
+    "corporate finance",
+    "due diligence",
+    "entrepreneurship",
+    "exeevo life science crm",
+    "financial analysis",
+    "financial modeling",
+    "finanzanalyse",
+    "finanzmodelle",
+    "fintech",
+    "german",
+    "insurtech",
+    "international business",
+    "investment banking",
+    "investmentbank",
+    "management consulting",
+    "market analysis",
+    "market research",
+    "marktanalyse",
+    "marktforschung",
+    "private equity",
+    "privates eigenkapital",
+    "restructuring",
+    "strategie",
+    "strategisches management",
+    "strategy",
+    "unternehmensberatung",
+    "unternehmensfinanzierung",
+    "unternehmensplanung",
+    "unternehmensstrategie",
+    "unternehmertum",
+    "valuation",
+    "wertbestimmung"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-founder",
+      "company": "ceel.ai",
+      "company_industry": "hospital & health care",
+      "start_date": "2025",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "co-founder",
+      "company": "munich re",
+      "company_industry": "insurance",
+      "start_date": "2023",
+      "end_date": "2025",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder",
+      "company": "48bytesnorth inc.",
+      "company_industry": "financial services",
+      "start_date": "2019",
+      "end_date": "2023",
+      "is_primary": false
+    },
+    {
+      "title": "building and learning",
+      "company": "various companies",
+      "company_industry": null,
+      "start_date": "2016",
+      "end_date": "2024",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder",
+      "company": "insurtech hub munich",
+      "company_industry": "insurance",
+      "start_date": "2015",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder",
+      "company": "w&w interaction solutions gmbh",
+      "company_industry": "information technology and services",
+      "start_date": "2013",
+      "end_date": "2019",
+      "is_primary": false
+    },
+    {
+      "title": "strategy consultant",
+      "company": "roland berger",
+      "company_industry": "management consulting",
+      "start_date": "2010",
+      "end_date": "2012",
+      "is_primary": false
+    },
+    {
+      "title": "intern investmentbanking",
+      "company": "unicredit",
+      "company_industry": "banking",
+      "start_date": "2007",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "banker",
+      "company": "airbus",
+      "company_industry": "aviation & aerospace",
+      "start_date": "1999",
+      "end_date": "2002",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "hhl leipzig graduate school of management",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "deggendorf institute of technology",
+      "majors": [],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "higher school of economics",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "management development institute, gurgaon",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "the hong kong polytechnic university",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

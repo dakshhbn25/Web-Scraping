@@ -1,0 +1,638 @@
+{
+  "record_id": "speaker-dubrovnik-120",
+  "speaker_name": "Niamh O’Donnell",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/niamhodonnell1/",
+  "scraped_at": "2026-09-18T10:23:47.671573+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "pePaewdCYBhNFgS9EVnm4Q_0000",
+    "full_name": "niamh o'donnell",
+    "first_name": "niamh",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "o",
+    "last_name": "o'donnell",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/niamhodonnell1",
+    "linkedin_username": "niamhodonnell1",
+    "linkedin_id": "313776093",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "management consulting",
+    "job_title": "life sciences leader - director",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director",
+      "manager"
+    ],
+    "job_company_id": "1Sf5IHpoL0Crr6uhzHVxeQ4guVRa",
+    "job_company_name": "gate one",
+    "job_company_website": "gateone.co.uk",
+    "job_company_size": "201-500",
+    "job_company_founded": 2013,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/gate-one",
+    "job_company_linkedin_id": "5115371",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": "twitter.com/gateoneuk",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": "3 pancras square king's",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "n1c 4ag",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-08-09",
+    "job_last_verified": "2026-05-18",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2025-08-04",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "civil rights and social action",
+      "current affairs",
+      "economic empowerment",
+      "education",
+      "international relations",
+      "media",
+      "music",
+      "piano",
+      "politics",
+      "public relations",
+      "sing"
+    ],
+    "skills": [
+      "analytical skills",
+      "banking",
+      "behavioral economics",
+      "behavioural change",
+      "brand strategy",
+      "business case development",
+      "business development",
+      "business process improvement",
+      "business strategy",
+      "business transformation",
+      "commercial pharma strategy",
+      "customer experience",
+      "customer service",
+      "digital transformation",
+      "finance",
+      "foreign languages",
+      "french",
+      "go to market strategy",
+      "international relations",
+      "interpersonal communication abilities",
+      "irish",
+      "languages",
+      "launch excellence",
+      "leadership",
+      "lotus notes",
+      "management consultancy",
+      "market access",
+      "market research",
+      "microsoft excel",
+      "microsoft office",
+      "microsoft word",
+      "office administration",
+      "operational excellence",
+      "organizational design",
+      "performance improvement",
+      "pharma marketing",
+      "pmo",
+      "proactive self starter",
+      "process improvement",
+      "project management",
+      "project management office",
+      "public relations",
+      "qualitative research",
+      "retail",
+      "secretarial skills",
+      "senior stakeholder management",
+      "social media",
+      "spanish",
+      "spanish literature",
+      "strategic planning",
+      "strategy",
+      "taleo",
+      "team leadership",
+      "team management",
+      "teamwork",
+      "time management",
+      "versatility",
+      "work ethic"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "gate one",
+          "size": "201-500",
+          "id": "1Sf5IHpoL0Crr6uhzHVxeQ4guVRa",
+          "founded": 2013,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "3 pancras square king's",
+            "address_line_2": null,
+            "postal_code": "n1c 4ag",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/gate-one",
+          "linkedin_id": "5115371",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/gateoneuk",
+          "website": "gateone.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "life sciences leader - director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "gate one",
+          "size": "201-500",
+          "id": "1Sf5IHpoL0Crr6uhzHVxeQ4guVRa",
+          "founded": 2013,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "3 pancras square king's",
+            "address_line_2": null,
+            "postal_code": "n1c 4ag",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/gate-one",
+          "linkedin_id": "5115371",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/gateoneuk",
+          "website": "gateone.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2024-07",
+        "start_date": "2022-07",
+        "title": {
+          "name": "life sciences leader - principal consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gate one",
+          "size": "201-500",
+          "id": "1Sf5IHpoL0Crr6uhzHVxeQ4guVRa",
+          "founded": 2013,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "3 pancras square king's",
+            "address_line_2": null,
+            "postal_code": "n1c 4ag",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/gate-one",
+          "linkedin_id": "5115371",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/gateoneuk",
+          "website": "gateone.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2024-07",
+        "start_date": "2021-01",
+        "title": {
+          "name": "manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-09",
+        "start_date": "2017-07",
+        "title": {
+          "name": "manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2015-05",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2014-03",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "dublin 2, leinster, ireland"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2014-01",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bank of ireland",
+          "size": "10001+",
+          "id": "8kgXDAq7qaMN3yxUn7ZSmgjEohUc",
+          "founded": null,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "dublin 4, leinster, ireland",
+            "locality": "dublin 4",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 4",
+            "geo": "53.33,-6.23"
+          },
+          "linkedin_url": "linkedin.com/company/bank-of-ireland",
+          "linkedin_id": "162637",
+          "facebook_url": "facebook.com/bankofireland",
+          "twitter_url": "twitter.com/talktoboi",
+          "website": "bankofireland.com"
+        },
+        "location_names": [],
+        "end_date": "2013-12",
+        "start_date": "2013-06",
+        "title": {
+          "name": "payments administrator - derivatives & securities department, treasury product support (tps)",
+          "class": "services",
+          "role": "support",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pharmaceutical society of ireland",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2013-06",
+        "start_date": "2013-05",
+        "title": {
+          "name": "financial assistant",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "universidad de salamanca",
+          "type": "post-secondary institution",
+          "id": "BF1P75V5Du58OSqOE6-wyg_0000",
+          "location": {
+            "name": "salamanca, castilla and león, spain",
+            "locality": "salamanca",
+            "region": "castilla and león",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-salamanca",
+          "facebook_url": "facebook.com/universidaddesalamanca",
+          "twitter_url": "twitter.com/usal",
+          "linkedin_id": "57126",
+          "website": "usal.es",
+          "domain": "usal.es"
+        },
+        "degrees": [],
+        "start_date": "2011",
+        "end_date": "2012",
+        "majors": [],
+        "minors": [],
+        "gpa": 2.1
+      },
+      {
+        "school": {
+          "name": "trinity college dublin",
+          "type": "post-secondary institution",
+          "id": "h0dfLBkJ5ObQ1BDgIKLe0w_0000",
+          "location": {
+            "name": "dublin, dublin, ireland",
+            "locality": "dublin",
+            "region": "dublin",
+            "country": "ireland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/trinity-college-dublin",
+          "facebook_url": "facebook.com/trinitycollegedublin",
+          "twitter_url": "twitter.com/tcddublin",
+          "linkedin_id": "6679",
+          "website": "tcd.ie",
+          "domain": "tcd.ie"
+        },
+        "degrees": [],
+        "start_date": "2009",
+        "end_date": "2013",
+        "majors": [
+          "european studies",
+          "international relations",
+          "spanish"
+        ],
+        "minors": [],
+        "gpa": 2.1
+      },
+      {
+        "school": {
+          "name": "presentation college headford, co. galway",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2004",
+        "end_date": "2007",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "trinity college - hartford",
+          "type": "post-secondary institution",
+          "id": "fZFRkQGY3A6ZOPKNkLNyOg_0000",
+          "location": {
+            "name": "hartford, connecticut, united states",
+            "locality": "hartford",
+            "region": "connecticut",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/trinity-college-hartford",
+          "facebook_url": "facebook.com/trinitycollege",
+          "twitter_url": "twitter.com/trinitycollege",
+          "linkedin_id": "11730",
+          "website": "trincoll.edu",
+          "domain": "trincoll.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "313776093",
+        "url": "linkedin.com/in/niamhodonnell1",
+        "username": "niamhodonnell1"
+      },
+      {
+        "network": "linkedin",
+        "id": "313776093",
+        "url": "linkedin.com/in/niamh-nieve-o-donnell-4790bb89",
+        "username": "niamh-nieve-o-donnell-4790bb89"
+      },
+      {
+        "network": "linkedin",
+        "id": "313776093",
+        "url": "linkedin.com/in/niamh-o-donnell-4790bb89",
+        "username": "niamh-o-donnell-4790bb89"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,305 @@
+{
+  "record_id": "speaker-dubrovnik-037",
+  "speaker_name": "Naz Ameen",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/naz-ameen-221a91145/",
+  "scraped_at": "2026-09-18T09:36:22.693931+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "XqUDlrB31lWk7QnAyUiAxA_0000",
+    "full_name": "naz ameen",
+    "first_name": "naz",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "ameen",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/naz-ameen-221a91145",
+    "linkedin_username": "naz-ameen-221a91145",
+    "linkedin_id": "590915833",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "medical practice",
+    "job_title": "clinical service manager pharmacist",
+    "job_title_role": "health",
+    "job_title_sub_role": "pharmacy",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "UtB0a7MLcVMxl18TaEjwvgnXGNjE",
+    "job_company_name": "the ridgeway hospital",
+    "job_company_website": null,
+    "job_company_size": "501-1000",
+    "job_company_founded": null,
+    "job_company_industry": "medical practice",
+    "job_company_industry_v2": "hospitals",
+    "job_company_linkedin_url": "linkedin.com/company/the-ridgeway-hospital",
+    "job_company_linkedin_id": "64191941",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "wroughton, england, united kingdom",
+    "job_company_location_locality": "wroughton",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-1.77",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "sn4 9bu",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-02-23",
+    "job_last_verified": "2026-05-05",
+    "job_start_date": "2022-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-11",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "the ridgeway hospital",
+          "size": "501-1000",
+          "id": "UtB0a7MLcVMxl18TaEjwvgnXGNjE",
+          "founded": null,
+          "industry": "medical practice",
+          "industry_v2": "hospitals",
+          "location": {
+            "name": "wroughton, england, united kingdom",
+            "locality": "wroughton",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sn4 9bu",
+            "geo": "51.51,-1.77"
+          },
+          "linkedin_url": "linkedin.com/company/the-ridgeway-hospital",
+          "linkedin_id": "64191941",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "swindon, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2022-11",
+        "title": {
+          "name": "clinical service manager pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": null,
+        "location_names": [
+          "swindon, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2019-02",
+        "title": {
+          "name": "aesthetician",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lloyd's pharmacy",
+          "size": "501-1000",
+          "id": "IjPmAAlkViXZKVnHutcuyAiu7Jen",
+          "founded": null,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "dublin 24, leinster, ireland",
+            "locality": "dublin 24",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "citywest road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.28,-6.37"
+          },
+          "linkedin_url": "linkedin.com/company/lloydspharmacyireland",
+          "linkedin_id": "15525755",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "lloydspharmacy.ie"
+        },
+        "location_names": [
+          "swindon, england, united kingdom"
+        ],
+        "end_date": "2022-11",
+        "start_date": "2018-04",
+        "title": {
+          "name": "pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boots uk",
+          "size": "10001+",
+          "id": "99QzTUElOPB0aQ96n6AC3QoONf2s",
+          "founded": 1849,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 thane road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.96,-1.18"
+          },
+          "linkedin_url": "linkedin.com/company/boots",
+          "linkedin_id": "5067",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/boots_jobs",
+          "website": "boots.com"
+        },
+        "location_names": [],
+        "end_date": "2018-03",
+        "start_date": "2016-08",
+        "title": {
+          "name": "store manager pharmacist",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boots uk",
+          "size": "10001+",
+          "id": "99QzTUElOPB0aQ96n6AC3QoONf2s",
+          "founded": 1849,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 thane road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.96,-1.18"
+          },
+          "linkedin_url": "linkedin.com/company/boots",
+          "linkedin_id": "5067",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/boots_jobs",
+          "website": "boots.com"
+        },
+        "location_names": [],
+        "end_date": "2016-07",
+        "start_date": "2015-06",
+        "title": {
+          "name": "pre-registration pharmacist",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of hertfordshire",
+          "type": "post-secondary institution",
+          "id": "dIkDBfblWB0YzP28Lb15OQ_0000",
+          "location": {
+            "name": "hatfield, england, united kingdom",
+            "locality": "hatfield",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uniofherts",
+          "facebook_url": "facebook.com/uniofherts",
+          "twitter_url": "twitter.com/uniofherts",
+          "linkedin_id": "13121",
+          "website": "herts.ac.uk",
+          "domain": "herts.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2015",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "590915833",
+        "url": "linkedin.com/in/naz-ameen-221a91145",
+        "username": "naz-ameen-221a91145"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

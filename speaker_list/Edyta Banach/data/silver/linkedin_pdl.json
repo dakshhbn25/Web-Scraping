@@ -1,0 +1,301 @@
+{
+  "record_id": "speaker-dubrovnik-001",
+  "speaker_name": "Edyta Banach",
+  "linkedin_url": "https://www.linkedin.com/in/edytabanach/",
+  "likelihood": 9,
+  "full_name": "edyta banach",
+  "job_title": "global commercial strategy lead",
+  "industry": "hospital & health care",
+  "current_company": "johnson & johnson",
+  "current_company_website": "jnj.com",
+  "current_company_industry": "hospital & health care",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "accounting",
+    "auditing",
+    "banking",
+    "business analytics",
+    "business planning",
+    "business strategy",
+    "communication",
+    "compliance",
+    "compliance management",
+    "consolidation",
+    "corporate finance",
+    "corporate governance",
+    "corporate tax",
+    "due diligence",
+    "enterprise risk management",
+    "fcpa",
+    "finance",
+    "financial accounting",
+    "financial analysis",
+    "financial audits",
+    "financial modeling",
+    "financial reporting",
+    "ifrs",
+    "internal audit",
+    "internal controls",
+    "international tax",
+    "leadership",
+    "management",
+    "management consulting",
+    "managerial finance",
+    "market access",
+    "marketingstrategie",
+    "mentoring",
+    "mergers",
+    "mergers and acquisitions",
+    "pharmaceuticals",
+    "presentation skills",
+    "private equity",
+    "project management",
+    "restructuring",
+    "risk management",
+    "sarbanes oxley act",
+    "strategic thinking",
+    "strategie",
+    "strategische planung",
+    "strategy",
+    "tax",
+    "transfer pricing",
+    "us gaap"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global commercial strategy lead",
+      "company": "johnson & johnson",
+      "company_industry": "hospital & health care",
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "intercontinental commercial ta head - oncology (solid tumors & hematology)",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": "2025-09",
+      "is_primary": false
+    },
+    {
+      "title": "global brand team lead - hcv, specialty care",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "global marketing director - hcv, specialty care",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "business unit director - specialty care",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-03",
+      "end_date": "2020-09",
+      "is_primary": false
+    },
+    {
+      "title": "author of corporate governance, risk and compliance management studies & lecturer",
+      "company": "warsaw school of economics",
+      "company_industry": "higher education",
+      "start_date": "2018-10",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "mentor",
+      "company": "fundacja liderek biznesu",
+      "company_industry": "non-profit organization management",
+      "start_date": "2018-05",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "business unit director - virology",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-11",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "regional head of ethics & compliance",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-02",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of compliance",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-08",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "tax manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-07",
+      "end_date": "2011-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "ey",
+      "company_industry": "information technology and services",
+      "start_date": "2007-04",
+      "end_date": "2010-07",
+      "is_primary": false
+    },
+    {
+      "title": "cee coordinator",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2006-07",
+      "end_date": "2007-03",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "pwc",
+      "company_industry": "information technology and services",
+      "start_date": "2005-10",
+      "end_date": "2006-07",
+      "is_primary": false
+    },
+    {
+      "title": "fixed income portfolio assistant",
+      "company": "credit suisse",
+      "company_industry": "banking",
+      "start_date": "2005-07",
+      "end_date": "2005-09",
+      "is_primary": false
+    },
+    {
+      "title": "finance assistant",
+      "company": "bank millennium",
+      "company_industry": "banking",
+      "start_date": "2004-09",
+      "end_date": "2005-01",
+      "is_primary": false
+    },
+    {
+      "title": "assistant (millennium prestige)",
+      "company": "bank millennium",
+      "company_industry": "banking",
+      "start_date": "2004-03",
+      "end_date": "2004-08",
+      "is_primary": false
+    },
+    {
+      "title": "radio presenter",
+      "company": "polskie radio s.a.",
+      "company_industry": "broadcast media",
+      "start_date": "1998-09",
+      "end_date": "2002-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "harvard business school",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2025-04"
+    },
+    {
+      "school": "cornell university",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022-03"
+    },
+    {
+      "school": "quantic school of business and technology",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2020-01",
+      "end_date": "2022-01"
+    },
+    {
+      "school": "center for leadership (cl)",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019-12"
+    },
+    {
+      "school": "sgh warsaw school of economics",
+      "majors": [
+        "finance"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2016",
+      "end_date": "2016"
+    },
+    {
+      "school": "institute of law studies, polish academy of sciences",
+      "majors": [
+        "law"
+      ],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "sgh warsaw school of economics",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "sgh warsaw school of economics",
+      "majors": [],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "sgh warsaw school of economics",
+      "majors": [
+        "philosophy"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2014-06"
+    }
+  ]
+}

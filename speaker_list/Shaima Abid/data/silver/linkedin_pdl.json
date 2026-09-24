@@ -1,0 +1,180 @@
+{
+  "record_id": "speaker-dubrovnik-032",
+  "speaker_name": "Shaima Abid",
+  "linkedin_url": "https://www.linkedin.com/in/shaimaabid/",
+  "likelihood": 9,
+  "full_name": "shaima abid",
+  "job_title": "director, business planning & delivery - us oncology",
+  "industry": "pharmaceuticals",
+  "current_company": "astrazeneca",
+  "current_company_website": "astrazeneca.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "canada",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biomedical engineering",
+    "biotechnology",
+    "change management",
+    "clinical research",
+    "commercial operations",
+    "customer engagement",
+    "design control",
+    "digital and business transformation",
+    "digital marketing",
+    "digital strategy",
+    "leadership",
+    "marketing operations",
+    "matlab",
+    "medical devices",
+    "omni channel engagement",
+    "omni channel marketing",
+    "operational execution",
+    "pmp",
+    "project management",
+    "project planning",
+    "real world evidence",
+    "return on investment",
+    "rf engineering",
+    "salesforce marketing cloud",
+    "sdlc",
+    "solidworks",
+    "strategic vision",
+    "strategy execution",
+    "surgical navigation",
+    "team leadership",
+    "technology integration",
+    "urodynamics"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director, business planning & delivery - us oncology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, global commercial operations (europe & canada region)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": "2025-05",
+      "is_primary": false
+    },
+    {
+      "title": "omnichannel program manager (global commercial operations)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "customer-centric engagement lead",
+      "company": "emd serono, inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "customer excellence and business operations",
+      "company": "takeda canada inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "project manager and launch lead (ibd)",
+      "company": "takeda canada inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016",
+      "end_date": "2018",
+      "is_primary": false
+    },
+    {
+      "title": "project manager, medical device launch",
+      "company": "laborie",
+      "company_industry": "medical devices",
+      "start_date": "2014",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "systems engineer",
+      "company": "laborie",
+      "company_industry": "medical devices",
+      "start_date": "2013-06",
+      "end_date": "2014-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "avado",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-09",
+      "end_date": "2023-04"
+    },
+    {
+      "school": "squared online",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-09",
+      "end_date": "2023-04"
+    },
+    {
+      "school": "university of toronto",
+      "majors": [
+        "project management"
+      ],
+      "degrees": [],
+      "start_date": "2018-06",
+      "end_date": "2018-07"
+    },
+    {
+      "school": "ryerson university",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": "2013"
+    },
+    {
+      "school": "toronto metropolitan university",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of toronto",
+      "majors": [
+        "biochemistry"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

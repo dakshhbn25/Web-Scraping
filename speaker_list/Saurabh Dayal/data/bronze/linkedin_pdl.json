@@ -1,0 +1,814 @@
+{
+  "record_id": "speaker-dubrovnik-056",
+  "speaker_name": "Saurabh Dayal",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/saurabh-dayal/",
+  "scraped_at": "2026-09-18T09:37:04.335923+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "SyLNAF0xA7BIiJkt5aOutQ_0000",
+    "full_name": "saurabh dayal",
+    "first_name": "saurabh",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "dayal",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/saurabh-dayal",
+    "linkedin_username": "saurabh-dayal",
+    "linkedin_id": "40877183",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director & global lead field medical excellence",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director",
+      "manager"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-11-01",
+    "job_last_verified": "2026-07-24",
+    "job_start_date": "2024-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-02-07",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "children",
+      "economic empowerment",
+      "education",
+      "environment",
+      "health",
+      "science and technology"
+    ],
+    "skills": [
+      "apoptosis",
+      "biotechnology",
+      "business networking",
+      "cancer",
+      "cancer research",
+      "cell",
+      "cell based assays",
+      "cell biology",
+      "cell culture",
+      "clinical research",
+      "coaching and mentoring",
+      "colony survival assay",
+      "communication",
+      "crispr",
+      "cross team collaboration",
+      "customer engagement",
+      "dermatology",
+      "diabetes",
+      "digital transformation",
+      "dna",
+      "eczema",
+      "event organisation",
+      "flow cytometry",
+      "fluorescence microscopy",
+      "gel electrophoresis",
+      "healthcare consulting",
+      "immunofluorescence",
+      "immunohistochemistry",
+      "immunoprecipitation",
+      "leadership",
+      "life sciences",
+      "medical administration",
+      "medical affairs",
+      "medical excellence",
+      "medical excellence and operations",
+      "medical research",
+      "mentoring",
+      "microscopy",
+      "microsoft office",
+      "molecular biology",
+      "molecular cloning",
+      "oncology",
+      "operational excellence",
+      "ophthalmology",
+      "pcr",
+      "people management",
+      "pharmaceutical industry",
+      "polymerase chain reaction",
+      "project management",
+      "project planning",
+      "public engagement",
+      "qpcr",
+      "radiation biology",
+      "regulatory compliance",
+      "research",
+      "risk analysis",
+      "rt pcr",
+      "science",
+      "scientific communications",
+      "scientific presentation",
+      "scientific strategy",
+      "scientific writing",
+      "sds page",
+      "skin research",
+      "strategic planning",
+      "student recruiting",
+      "teaching",
+      "tissue culture",
+      "training",
+      "training and onboarding",
+      "transfection",
+      "western blotting"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "director & global lead field medical excellence",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2024-11",
+        "start_date": "2023-06",
+        "title": {
+          "name": "medical customer excellence expert",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2023-06",
+        "start_date": "2022-05",
+        "title": {
+          "name": "global business partner comms & portfolio lead, mapv academy of capability development and learning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2022-05",
+        "start_date": "2022-01",
+        "title": {
+          "name": "head of medical operations, uk",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2022-01",
+        "start_date": "2020-03",
+        "title": {
+          "name": "medical excellence lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2017-01",
+        "title": {
+          "name": "medical science liaison",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of dundee",
+          "size": "1001-5000",
+          "id": "WLDONcsl1tmIMCHqsX0eog6QNxOp",
+          "founded": 1967,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dd1 4hn",
+            "geo": "56.47,-2.94"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "linkedin_id": "166636",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": null,
+          "website": "dundee.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2017-01",
+        "start_date": "2015-11",
+        "title": {
+          "name": "postdoctoral researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of glasgow",
+          "size": "5001-10000",
+          "id": "meWqlk3iCPhnKaQ7GQH9iwVhnamR",
+          "founded": 1451,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "glasgow, scotland, united kingdom",
+            "locality": "glasgow",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "g12 8qq",
+            "geo": "55.84,-4.21"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-glasgow",
+          "linkedin_id": "166639",
+          "facebook_url": "facebook.com/glasgowuniversity",
+          "twitter_url": "twitter.com/glasgowuni",
+          "website": "gla.ac.uk"
+        },
+        "location_names": [
+          "glasgow, scotland, united kingdom"
+        ],
+        "end_date": "2015-11",
+        "start_date": "2012-05",
+        "title": {
+          "name": "postdoctoral research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of dundee",
+          "size": "1001-5000",
+          "id": "WLDONcsl1tmIMCHqsX0eog6QNxOp",
+          "founded": 1967,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dd1 4hn",
+            "geo": "56.47,-2.94"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "linkedin_id": "166636",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": null,
+          "website": "dundee.ac.uk"
+        },
+        "location_names": [
+          "dundee, scotland, united kingdom"
+        ],
+        "end_date": "2012-05",
+        "start_date": "2011-06",
+        "title": {
+          "name": "postdoctoral researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of dundee",
+          "size": "1001-5000",
+          "id": "WLDONcsl1tmIMCHqsX0eog6QNxOp",
+          "founded": 1967,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dd1 4hn",
+            "geo": "56.47,-2.94"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "linkedin_id": "166636",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": null,
+          "website": "dundee.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2011-06",
+        "start_date": "2007-10",
+        "title": {
+          "name": "research assistant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of dundee",
+          "size": "1001-5000",
+          "id": "WLDONcsl1tmIMCHqsX0eog6QNxOp",
+          "founded": 1967,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dd1 4hn",
+            "geo": "56.47,-2.94"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "linkedin_id": "166636",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": null,
+          "website": "dundee.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2007-09",
+        "start_date": "2006-11",
+        "title": {
+          "name": "research technician",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of dundee",
+          "size": "1001-5000",
+          "id": "WLDONcsl1tmIMCHqsX0eog6QNxOp",
+          "founded": 1967,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dd1 4hn",
+            "geo": "56.47,-2.94"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "linkedin_id": "166636",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": null,
+          "website": "dundee.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2006-10",
+        "start_date": "2006-01",
+        "title": {
+          "name": "research assistant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of dundee",
+          "type": "post-secondary institution",
+          "id": "pWHIZHbo7fQRAEB5712E-A_0000",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universityofdundee",
+          "facebook_url": "facebook.com/universityofdundee",
+          "twitter_url": "twitter.com/dundeeuni",
+          "linkedin_id": "166636",
+          "website": "dundee.ac.uk",
+          "domain": "dundee.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2007-01-01",
+        "end_date": "2011",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abertay university",
+          "type": "post-secondary institution",
+          "id": "MbxWRK4Zitlt2fJDiB2uOg_0000",
+          "location": {
+            "name": "dundee, scotland, united kingdom",
+            "locality": "dundee",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/abertay-university",
+          "facebook_url": "facebook.com/abertayuni",
+          "twitter_url": "twitter.com/abertayuni",
+          "linkedin_id": "25034",
+          "website": "abertay.ac.uk",
+          "domain": "abertay.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2004-01-01",
+        "end_date": "2005",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "institute of biotechnology of the czech academy of sciences",
+          "type": "post-secondary institution",
+          "id": "JHD7N4ZIt2b80OsVMHEJiw_0000",
+          "location": {
+            "name": "vestec, central bohemian, czechia",
+            "locality": "vestec",
+            "region": "central bohemian",
+            "country": "czechia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/ibtcas",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "94144871",
+          "website": "ibt.cas.cz",
+          "domain": "cas.cz"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2001-01-01",
+        "end_date": "2004",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "patna university",
+          "type": "post-secondary institution",
+          "id": "qMXeAuraoQKSNQ3cFywKww_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/patna-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "8283435",
+          "website": "puonline.bih.nic.in",
+          "domain": "bih.nic.in"
+        },
+        "degrees": [],
+        "start_date": "1998-01-01",
+        "end_date": "2000",
+        "majors": [
+          "mathematics",
+          "physics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rose bud school",
+          "type": "post-secondary institution",
+          "id": "9wDsFoTLe45r219iBzixZA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/rose-bud-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "97355805",
+          "website": "rosebudschoolliluah.in",
+          "domain": "rosebudschoolliluah.in"
+        },
+        "degrees": [],
+        "start_date": "1992-01",
+        "end_date": "1998-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rose bud school",
+          "type": "post-secondary institution",
+          "id": "9wDsFoTLe45r219iBzixZA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/rose-bud-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "97355805",
+          "website": "rosebudschoolliluah.in",
+          "domain": "rosebudschoolliluah.in"
+        },
+        "degrees": [],
+        "start_date": "1992-01-01",
+        "end_date": "1998-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "40877183",
+        "url": "linkedin.com/in/saurabh-dayal",
+        "username": "saurabh-dayal"
+      },
+      {
+        "network": "linkedin",
+        "id": "40877183",
+        "url": "linkedin.com/in/saurabh-dayal-93b83311",
+        "username": "saurabh-dayal-93b83311"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

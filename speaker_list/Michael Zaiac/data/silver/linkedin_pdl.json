@@ -1,0 +1,217 @@
+{
+  "record_id": "speaker-medical-025",
+  "speaker_name": "Michael Zaiac",
+  "linkedin_url": "https://www.linkedin.com/in/michael-zaiac-45ab191/",
+  "likelihood": 9,
+  "full_name": "michael zaiac",
+  "job_title": "head of medical affairs oncology europe and canada",
+  "industry": "pharmaceuticals",
+  "current_company": "daiichi sankyo europe gmbh",
+  "current_company_website": "daiichi-sankyo.eu",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biomarkers",
+    "biopharmaceuticals",
+    "biotechnology",
+    "cancer",
+    "cardiology",
+    "clinical development",
+    "clinical pharmacology",
+    "clinical research",
+    "clinical trials",
+    "cro",
+    "ctms",
+    "dermatology",
+    "diabetes",
+    "drug development",
+    "edc",
+    "endocrinology",
+    "gastroenterology",
+    "gcp",
+    "health economics",
+    "hematology",
+    "hospital sales",
+    "hta",
+    "immunology",
+    "ind",
+    "infectious diseases",
+    "lifesciences",
+    "market access",
+    "medical affairs",
+    "medical writing",
+    "medicine",
+    "neurology",
+    "neuroscience",
+    "oncology",
+    "outcomes research",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacology",
+    "pharmacovigilance",
+    "protocol",
+    "r&d",
+    "regulatory affairs",
+    "regulatory submissions",
+    "rheumatology",
+    "sales effectiveness",
+    "therapeutic areas",
+    "translational medicine",
+    "transplant",
+    "urology",
+    "vaccines"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of medical affairs oncology europe and canada",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of medical affairs oncology region europe",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-05",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical affairs haematology / oncology emea",
+      "company": "celgene",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-04",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "franchise medical head, immunoinflammation and infectious diseases",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2015-03",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, head of medical affairs bu immunotherapy",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-04",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, vaccine development leader hpv / hsv vaccines",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-06",
+      "end_date": "2011-04",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, head of global medical affairs adolescent / adult vaccines",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-01",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "assistant vice president, medical affairs emea, enbrel, transplant, oncology and gi-wyeth",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-01",
+      "end_date": "2009-12",
+      "is_primary": false
+    },
+    {
+      "title": "european medical director-wyeth",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-03",
+      "end_date": "2007-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of new product development",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-03",
+      "end_date": "2006-03",
+      "is_primary": false
+    },
+    {
+      "title": "associate medical director-head of medical affairs uk",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-06",
+      "end_date": "2005-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs director oncology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1999-03",
+      "end_date": "2002-05",
+      "is_primary": false
+    },
+    {
+      "title": "uk general manager and global corporate medical director pasteur merieux",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1995-06",
+      "end_date": "1999-02",
+      "is_primary": false
+    },
+    {
+      "title": "european medical advisor",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "1994-04",
+      "end_date": "1995-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the open university",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1999-12",
+      "end_date": null
+    },
+    {
+      "school": "freie universität berlin",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "1982-01",
+      "end_date": "1988"
+    },
+    {
+      "school": "rheingau gymnasium",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1975-01",
+      "end_date": "1981"
+    }
+  ]
+}

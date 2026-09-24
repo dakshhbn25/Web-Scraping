@@ -1,0 +1,510 @@
+{
+  "record_id": "speaker-dubrovnik-087",
+  "speaker_name": "Elisabetta Marano",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/elisabetta-marano-00691ba3/",
+  "scraped_at": "2026-09-18T09:38:10.859113+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "YrN7RtmFMBcND4MegudLIw_0000",
+    "full_name": "elisabetta marano",
+    "first_name": "elisabetta",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "marano",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/elisabetta-marano-00691ba3",
+    "linkedin_username": "elisabetta-marano-00691ba3",
+    "linkedin_id": "369555270",
+    "facebook_url": "facebook.com/elisabetta.marano.16",
+    "facebook_username": "elisabetta.marano.16",
+    "facebook_id": "1144006967",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "public policy",
+    "job_title": "patient advocacy and public affairs director",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "9dLknnuFnIiMtIR2zX2B6gfXZrvE",
+    "job_company_name": "alfasigma italia",
+    "job_company_website": "alfasigma.it",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2017,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/alfasigmaitalia",
+    "job_company_linkedin_id": "31433",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "bologna, emilia-romagna, italy",
+    "job_company_location_locality": "bologna",
+    "job_company_location_metro": null,
+    "job_company_location_region": "emilia-romagna",
+    "job_company_location_geo": "44.49,11.33",
+    "job_company_location_street_address": "n.5 viaduct ragazzi del '99",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "40133",
+    "job_company_location_country": "italy",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-08-24",
+    "job_last_verified": "2026-05-13",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "italy",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-18",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business development",
+      "comunicati stampa",
+      "comunicazione",
+      "comunicazioni aziendali",
+      "comunicazioni interne",
+      "comunicazioni interne e esterne",
+      "comunicazioni strategiche",
+      "corporate communications",
+      "crisis communication",
+      "gestione dei cambiamenti",
+      "gestione dei rapporti commerciali",
+      "gestione delle crisi",
+      "gestione eventi",
+      "leadership",
+      "management",
+      "marketing",
+      "marketing communication",
+      "pensiero strategico",
+      "pianificazione eventi",
+      "pianificazione strategica",
+      "pubbliche relazioni",
+      "rapporti con i clienti",
+      "relazioni con i media",
+      "social media",
+      "social media marketing",
+      "social networking",
+      "strategia",
+      "strategia di marketing",
+      "team leadership"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "italy"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "alfasigma italia",
+          "size": "1001-5000",
+          "id": "9dLknnuFnIiMtIR2zX2B6gfXZrvE",
+          "founded": 2017,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bologna, emilia-romagna, italy",
+            "locality": "bologna",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "n.5 viaduct ragazzi del '99",
+            "address_line_2": null,
+            "postal_code": "40133",
+            "geo": "44.49,11.33"
+          },
+          "linkedin_url": "linkedin.com/company/alfasigmaitalia",
+          "linkedin_id": "31433",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "alfasigma.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "patient advocacy and public affairs director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [],
+        "end_date": "2024-07",
+        "start_date": "2022-01",
+        "title": {
+          "name": "public affairs director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omnicom pr group",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2018-06",
+        "title": {
+          "name": "vice president",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omnicom public relations group italia",
+          "size": "51-200",
+          "id": "QssvwWBYhNB5PJViHsbdRAJ0mL3w",
+          "founded": null,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "3 viaduct privata leto pomponio",
+            "address_line_2": null,
+            "postal_code": "20146",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/oprg-ita",
+          "linkedin_id": "11773033",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "omnicomprgroup.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2018-04",
+        "title": {
+          "name": "associate director - head of healthcare omnicom public relations group",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "omnicom public relations group italia",
+          "size": "51-200",
+          "id": "QssvwWBYhNB5PJViHsbdRAJ0mL3w",
+          "founded": null,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "3 viaduct privata leto pomponio",
+            "address_line_2": null,
+            "postal_code": "20146",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/oprg-ita",
+          "linkedin_id": "11773033",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "omnicomprgroup.it"
+        },
+        "location_names": [
+          "milan, lombardy, italy"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2016-09",
+        "title": {
+          "name": "account director - head of healthcare",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "value relations",
+          "size": "11-50",
+          "id": "sPrxbWccfUTBkibfoSfpBAIgS9uP",
+          "founded": 2005,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "5 piazza velasca",
+            "address_line_2": null,
+            "postal_code": "20122",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/value-relations",
+          "linkedin_id": "1227855",
+          "facebook_url": "facebook.com/valuerelations",
+          "twitter_url": "twitter.com/valuerelations",
+          "website": "valuerelations.it"
+        },
+        "location_names": [],
+        "end_date": "2016-08",
+        "start_date": "2014-01",
+        "title": {
+          "name": "head of rome office",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas pr milan",
+          "size": "11-50",
+          "id": "80Io1TofDiq6kVXncUWX3QMKC6cW",
+          "founded": null,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "7 viaduct san vito",
+            "address_line_2": null,
+            "postal_code": "20123",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/d'antona-&-partners",
+          "linkedin_id": "2531684",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "havaspr.it"
+        },
+        "location_names": [],
+        "end_date": "2014",
+        "start_date": "2007",
+        "title": {
+          "name": "practice leader",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "istituto marcellline",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "liceo classico p. verri lodi",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "unitelma sapienza",
+          "type": "post-secondary institution",
+          "id": "bemBz9Eu0chHVfzGZhim4Q_0000",
+          "location": {
+            "name": "roma, lazio, italy",
+            "locality": "roma",
+            "region": "lazio",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unitelmasapienza",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "522233",
+          "website": "unitelmasapienza.it",
+          "domain": "unitelmasapienza.it"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università di pavia",
+          "type": "post-secondary institution",
+          "id": "qP6w85z-LUP2Le87jmV5kg_0000",
+          "location": {
+            "name": "pavia, lombardy, italy",
+            "locality": "pavia",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-pavia",
+          "facebook_url": "facebook.com/universitapavia",
+          "twitter_url": "twitter.com/unipv",
+          "linkedin_id": "14882",
+          "website": "portale.unipv.it",
+          "domain": "unipv.it"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "369555270",
+        "url": "linkedin.com/in/elisabetta-marano-00691ba3",
+        "username": "elisabetta-marano-00691ba3"
+      },
+      {
+        "network": "facebook",
+        "id": "1144006967",
+        "url": "facebook.com/elisabetta.marano.16",
+        "username": "elisabetta.marano.16"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/elisabetta-marano-0297627",
+        "username": "elisabetta-marano-0297627"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

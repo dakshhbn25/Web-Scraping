@@ -1,0 +1,134 @@
+{
+  "record_id": "speaker-dubrovnik-038",
+  "speaker_name": "Jennifer Villagarcia",
+  "linkedin_url": "https://www.linkedin.com/in/jennifervillagarcia/",
+  "likelihood": 9,
+  "full_name": "jennifer villagarcia",
+  "job_title": "global medical scientific communications strategy head",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business knowledge",
+    "business strategy",
+    "content development",
+    "cross functional team leadership",
+    "immunization",
+    "launch experience",
+    "market analysis",
+    "marketing",
+    "marketing strategy",
+    "medical affairs",
+    "pharmacy practice",
+    "presentations",
+    "product launch",
+    "project management",
+    "resource allocation",
+    "social media marketing",
+    "storytelling",
+    "straight talk",
+    "strategic communications",
+    "strategic planning",
+    "team leadership",
+    "team management",
+    "transveral management",
+    "transversal management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global medical scientific communications strategy head",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global brand manager, pediatric vaccines",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "director of pediatric vaccine marketing, europe region",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "director of japan office, strategic launch projects",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "global brand manager for rabies & new techologies",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-01",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "international product manager",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-01",
+      "end_date": "2012-01",
+      "is_primary": false
+    },
+    {
+      "title": "marketing deputy manager, japan",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-11",
+      "end_date": "2007-01",
+      "is_primary": false
+    },
+    {
+      "title": "marketing associate",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-03",
+      "end_date": "2003-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mcmaster university",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "university of waterloo",
+      "majors": [
+        "health science",
+        "kinesiology"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1994-01",
+      "end_date": "1999"
+    }
+  ]
+}

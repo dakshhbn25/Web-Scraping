@@ -1,0 +1,786 @@
+{
+  "record_id": "speaker-dubrovnik-011",
+  "speaker_name": "Iria Gala",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/iriagala/",
+  "scraped_at": "2026-09-18T09:35:25.622494+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "GZjVnSTAsfk1puhYIYPNjg_0000",
+    "full_name": "iria gala",
+    "first_name": "iria",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gala",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/iriagala",
+    "linkedin_username": "iriagala",
+    "linkedin_id": "24334298",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president digital & customer engagement",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "vp"
+    ],
+    "job_company_id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+    "job_company_name": "novo nordisk",
+    "job_company_website": "novonordisk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1923,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/novo-nordisk",
+    "job_company_linkedin_id": "2227",
+    "job_company_facebook_url": "facebook.com/novonordisk",
+    "job_company_twitter_url": "twitter.com/novonordisk",
+    "job_company_location_name": "bagsværd, hovedstaden, denmark",
+    "job_company_location_locality": "bagsværd",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.75,12.45",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2880",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-02-01",
+    "job_last_verified": "2026-06-30",
+    "job_start_date": "2024-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-08-21",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "advertising campaigns",
+      "budgeting",
+      "business development",
+      "business innovation",
+      "business planning",
+      "business process improvement",
+      "business relationship management",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "clinical trials",
+      "consulting",
+      "coordination",
+      "creative ideation",
+      "critical thinking",
+      "cross functional team leadership",
+      "customer focus",
+      "customer satisfaction",
+      "digital campaigns",
+      "digital health",
+      "director level",
+      "employee training",
+      "english",
+      "goal oriented",
+      "healthcare",
+      "high performance teams",
+      "integration",
+      "intrapreneurship",
+      "it escalation",
+      "key performance indicators",
+      "leadership",
+      "management",
+      "marketing campaign management",
+      "measurements",
+      "medical devices",
+      "negotiation",
+      "operational excellence",
+      "operations management",
+      "organizational capabilities",
+      "organizational effectiveness",
+      "people development",
+      "people management",
+      "pharmaceutical industry",
+      "pmp",
+      "portfolio management",
+      "pre sales",
+      "problem solving",
+      "project implementation",
+      "project leadership",
+      "project management",
+      "project planning",
+      "promotional marketing",
+      "requirements analysis",
+      "sales leadership",
+      "social listening",
+      "social media",
+      "software development life cycle",
+      "spanish",
+      "stakeholder engagement",
+      "stakeholder management",
+      "strategic communications",
+      "strategic planning",
+      "strategic vision",
+      "strategy",
+      "team leadership",
+      "team management",
+      "team spirit",
+      "teamwork",
+      "training",
+      "workload prioritization"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "spain",
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "vice president digital & customer engagement",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": "2025-01",
+        "start_date": "2023-06",
+        "title": {
+          "name": "senior director digital, data and it",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2023-05",
+        "start_date": "2020-11",
+        "title": {
+          "name": "emea director digital stakeholder engagement",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2019-07",
+        "title": {
+          "name": "digital innovation lead - mb pmo",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2019-07",
+        "start_date": "2015-06",
+        "title": {
+          "name": "emea senior healthcare solution lead",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2015-06",
+        "start_date": "2012-04",
+        "title": {
+          "name": "market access & business development manager",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2012-05",
+        "start_date": "2008-01",
+        "title": {
+          "name": "digital health project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "santander",
+          "size": "10001+",
+          "id": "2pzeHyeSqNC2XFu4g3P20gJBCD6f",
+          "founded": 1857,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "boadilla del monte, community of madrid, spain",
+            "locality": "boadilla del monte",
+            "region": "community of madrid",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "28660",
+            "geo": "40.4,-3.87"
+          },
+          "linkedin_url": "linkedin.com/company/banco-santander",
+          "linkedin_id": "2873",
+          "facebook_url": "facebook.com/bancosantander",
+          "twitter_url": "twitter.com/bancosantander",
+          "website": "santander.com"
+        },
+        "location_names": [],
+        "end_date": "2008-01",
+        "start_date": "2006-09",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hewlett packard enterprise",
+          "size": "10001+",
+          "id": "EyWCGfUy1Xf29qBoP2TW8ATRRvMt",
+          "founded": 1939,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/hewlett-packard-enterprise",
+          "linkedin_id": "1025",
+          "facebook_url": "facebook.com/hewlettpackardenterprise",
+          "twitter_url": "twitter.com/hpe",
+          "website": "hpe.com"
+        },
+        "location_names": [],
+        "end_date": "2006-09",
+        "start_date": "2006-01",
+        "title": {
+          "name": "consultant engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "coyser sa",
+          "size": "51-200",
+          "id": "mk7B1F00jCffXldjjoBx8QWtcHFt",
+          "founded": 1975,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "españa, community of madrid, spain",
+            "locality": "españa",
+            "region": "community of madrid",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "10 miguel fleta",
+            "address_line_2": null,
+            "postal_code": "28037",
+            "geo": "40.62,-4.03"
+          },
+          "linkedin_url": "linkedin.com/company/coysersa",
+          "linkedin_id": "742633",
+          "facebook_url": "facebook.com/coyser.sa",
+          "twitter_url": "twitter.com/coysersa",
+          "website": "coyser.com"
+        },
+        "location_names": [],
+        "end_date": "2006-01",
+        "start_date": "2004-10",
+        "title": {
+          "name": "presales engineer",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "solutions_engineer",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esade",
+          "type": "post-secondary institution",
+          "id": "BinkVpLIAly4rqAMKcbzgw_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esade",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "163678",
+          "website": "esade.edu",
+          "domain": "esade.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2014",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "project management institute",
+          "type": "post-secondary institution",
+          "id": "mcChk-iRTubhyz8rp3uXyw_0000",
+          "location": {
+            "name": "newtown square, pennsylvania, united states",
+            "locality": "newtown square",
+            "region": "pennsylvania",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/projectmanagementinstitute-pmi",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "91365362",
+          "website": "pmi.org",
+          "domain": "pmi.org"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2017-01",
+        "majors": [
+          "management",
+          "project management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad politécnica de cartagena",
+          "type": "post-secondary institution",
+          "id": "sp8YvuRjq6RRdNFHR2iokw_0000",
+          "location": {
+            "name": "cartagena, region of murcia, spain",
+            "locality": "cartagena",
+            "region": "region of murcia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/upctnoticias",
+          "facebook_url": "facebook.com/upctnoticias",
+          "twitter_url": "twitter.com/upctnoticias",
+          "linkedin_id": "15092652",
+          "website": "upct.es",
+          "domain": "upct.es"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2004",
+        "majors": [
+          "telecommunications"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitat politècnica de valència (upv)",
+          "type": "post-secondary institution",
+          "id": "xJXvGsRU0NqgXSxPBdzAMQ_0000",
+          "location": {
+            "name": "valencia, valencian community, spain",
+            "locality": "valencia",
+            "region": "valencian community",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/upv",
+          "facebook_url": "facebook.com/upv",
+          "twitter_url": "twitter.com/upv",
+          "linkedin_id": "166618",
+          "website": "upv.es",
+          "domain": "upv.es"
+        },
+        "degrees": [],
+        "start_date": "1998-01",
+        "end_date": "2002",
+        "majors": [
+          "engineering",
+          "telecommunications"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "corporate mba. esade business & law school",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": null,
+        "end_date": "2014",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "iil",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2014",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "upct specific training center",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "24334298",
+        "url": "linkedin.com/in/iriagala",
+        "username": "iriagala"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/iria-gala-4221968",
+        "username": "iria-gala-4221968"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,646 @@
+{
+  "record_id": "speaker-dubrovnik-040",
+  "speaker_name": "Gayle Kenney",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/gayle-kenney-medical-affairs-leader/",
+  "scraped_at": "2026-09-18T09:36:29.873483+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Re4TQBzNcWdArTaqZOvLnQ_0000",
+    "full_name": "gayle kenney",
+    "first_name": "gayle",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "kenney",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/gayle-kenney-medical-affairs-leader",
+    "linkedin_username": "gayle-kenney-medical-affairs-leader",
+    "linkedin_id": "85275515",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of medical excellence",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "bUclycpXm3Xk4UwSgLjBGADsq6LW",
+    "job_company_name": "biontech se",
+    "job_company_website": "biontech.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2008,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/biontech-se",
+    "job_company_linkedin_id": "4001311",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "mainz, rhineland-palatinate, germany",
+    "job_company_location_locality": "mainz",
+    "job_company_location_metro": null,
+    "job_company_location_region": "rhineland-palatinate",
+    "job_company_location_geo": "49.98,8.24",
+    "job_company_location_street_address": "12 an der goldgrube",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "55131",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-04-01",
+    "job_last_verified": "2026-08-04",
+    "job_start_date": "2025-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "budget management",
+      "business strategy",
+      "cell culture",
+      "change management",
+      "clinical research",
+      "clinical trials",
+      "coaching",
+      "congress",
+      "content planning",
+      "content strategy",
+      "cross functional team leadership",
+      "cross team collaboration",
+      "customer engagement",
+      "customer experience",
+      "customer service",
+      "data analysis",
+      "hcp liaison",
+      "healthcare",
+      "innovation management",
+      "leadership",
+      "life sciences",
+      "lifesciences",
+      "marketing strategy",
+      "medical affairs",
+      "medical communications",
+      "medical education",
+      "medical information",
+      "medical research",
+      "medical writing",
+      "molecular biology",
+      "negotiation",
+      "neuroscience",
+      "pcr",
+      "pharmaceutical industry",
+      "pharmaceuticals",
+      "presentation skills",
+      "process excellence",
+      "process improvement",
+      "product launch excellence",
+      "project leadership",
+      "project management",
+      "proposal writing",
+      "publications",
+      "research",
+      "resourcing strategies",
+      "science",
+      "scientific communication",
+      "scientific communications",
+      "scientific writing",
+      "stakeholder management",
+      "strategic communications",
+      "succession planning",
+      "team leadership",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "ireland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "biontech se",
+          "size": "1001-5000",
+          "id": "bUclycpXm3Xk4UwSgLjBGADsq6LW",
+          "founded": 2008,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mainz, rhineland-palatinate, germany",
+            "locality": "mainz",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "12 an der goldgrube",
+            "address_line_2": null,
+            "postal_code": "55131",
+            "geo": "49.98,8.24"
+          },
+          "linkedin_url": "linkedin.com/company/biontech-se",
+          "linkedin_id": "4001311",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "biontech.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "head of medical excellence",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2021-01",
+        "title": {
+          "name": "global scientific communication engagement & medical information excellence head",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2021-01",
+        "title": {
+          "name": "scientific communications & medical information excellence head, global medical affairs",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2018-05",
+        "title": {
+          "name": "senior function head & global events lead, medical communications",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2016-06",
+        "title": {
+          "name": "medical information, communication & events services liaison",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2016-06",
+        "start_date": "2015-04",
+        "title": {
+          "name": "medical communications manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "children's fund for health ltd",
+          "size": "11-50",
+          "id": "cPRhAUqgD2mDQKv9ZfJhggXH0sKp",
+          "founded": null,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "dublin, dublin, ireland",
+            "locality": "dublin",
+            "region": "dublin",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.35,-6.26"
+          },
+          "linkedin_url": "linkedin.com/company/children's-fund-for-health-ltd",
+          "linkedin_id": "895940",
+          "facebook_url": "facebook.com/templestreetcuh",
+          "twitter_url": "twitter.com/temple_street",
+          "website": "templestreet.ie"
+        },
+        "location_names": [],
+        "end_date": "2015-04",
+        "start_date": "2011-06",
+        "title": {
+          "name": "research manager",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "royal college of surgeons in ireland (rcsi)",
+          "size": "1001-5000",
+          "id": "jKvxl0wmG7sZhzeXvi4UtgAhA1o2",
+          "founded": 1784,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "123 street stephen's green",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/school/rcsi",
+          "linkedin_id": "37959",
+          "facebook_url": "facebook.com/rcsi123",
+          "twitter_url": "twitter.com/rcsi_irl",
+          "website": "rcsi.com"
+        },
+        "location_names": [],
+        "end_date": "2011-06",
+        "start_date": "2008-04",
+        "title": {
+          "name": "research and innovation coordinator",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "meditech media",
+          "size": "51-200",
+          "id": "mCXbUC9ZYXPItCNKTUitVwnE6t7Q",
+          "founded": 1987,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "76-78 old street",
+            "address_line_2": null,
+            "postal_code": "ec1v 9az",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/meditech-media",
+          "linkedin_id": "28674",
+          "facebook_url": "facebook.com/meditech-media-159654000789782",
+          "twitter_url": "twitter.com/meditech_media",
+          "website": "meditechmedia.com"
+        },
+        "location_names": [],
+        "end_date": "2008-03",
+        "start_date": "2002-10",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "cim | the chartered institute of marketing",
+          "type": "post-secondary institution",
+          "id": "nbfcfAyPqtzGOteq4qBX2g_0000",
+          "location": {
+            "name": "cookham, england, united kingdom",
+            "locality": "cookham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/chartered-institute-of-marketing",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "479618",
+          "website": "cim.co.uk",
+          "domain": "cim.co.uk"
+        },
+        "degrees": [],
+        "start_date": "2003-01",
+        "end_date": "2005",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of alberta",
+          "type": "post-secondary institution",
+          "id": "zF9SyYcjojScl7BkwABXmQ_0000",
+          "location": {
+            "name": "edmonton, alberta, canada",
+            "locality": "edmonton",
+            "region": "alberta",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-alberta",
+          "facebook_url": "facebook.com/ualberta",
+          "twitter_url": "twitter.com/uofa_arts",
+          "linkedin_id": "6455",
+          "website": "ualberta.ca",
+          "domain": "ualberta.ca"
+        },
+        "degrees": [
+          "doctorates",
+          "doctor of philosophy"
+        ],
+        "start_date": "1997",
+        "end_date": "2002",
+        "majors": [
+          "physiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of alberta",
+          "type": "post-secondary institution",
+          "id": "zF9SyYcjojScl7BkwABXmQ_0000",
+          "location": {
+            "name": "edmonton, alberta, canada",
+            "locality": "edmonton",
+            "region": "alberta",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-alberta",
+          "facebook_url": "facebook.com/ualberta",
+          "twitter_url": "twitter.com/uofa_arts",
+          "linkedin_id": "6455",
+          "website": "ualberta.ca",
+          "domain": "ualberta.ca"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1997-01",
+        "end_date": "2002",
+        "majors": [
+          "physiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "trinity college dublin",
+          "type": "post-secondary institution",
+          "id": "h0dfLBkJ5ObQ1BDgIKLe0w_0000",
+          "location": {
+            "name": "dublin, dublin, ireland",
+            "locality": "dublin",
+            "region": "dublin",
+            "country": "ireland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/trinity-college-dublin",
+          "facebook_url": "facebook.com/trinitycollegedublin",
+          "twitter_url": "twitter.com/tcddublin",
+          "linkedin_id": "6679",
+          "website": "tcd.ie",
+          "domain": "tcd.ie"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1997",
+        "majors": [
+          "physiology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "85275515",
+        "url": "linkedin.com/in/gayle-kenney-medical-affairs-leader",
+        "username": "gayle-kenney-medical-affairs-leader"
+      },
+      {
+        "network": "linkedin",
+        "id": "85275515",
+        "url": "linkedin.com/in/gayle-kenney-30b68524",
+        "username": "gayle-kenney-30b68524"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

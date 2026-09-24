@@ -1,0 +1,134 @@
+{
+  "record_id": "speaker-dubrovnik-080",
+  "speaker_name": "Robert Raušel",
+  "designation": "Head of Engineering",
+  "company": "ingemark",
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/robert-rau%C5%A1el-239902128/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": "Robert can introduce you to 10+ people at Ingemark",
+  "linkedin_connections": "464",
+  "linkedin_followers": "464",
+  "linkedin_about": "With a strong foundation in information and communication technologies, my role as Head…\n\n## Welcome back\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s [User Agreement](/legal/user-agreement?trk=public_profile_sign-in-modal_auth-button_user-agreement), [Privacy Policy](/legal/privacy-policy?trk=public_profile_sign-in-modal_auth-button_privacy-policy), and [Cookie Policy](/legal/cookie-policy?trk=public_profile_sign-in-modal_auth-button_cookie-policy).\n\nNew to LinkedIn? [Join now](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=robert-rau%C5%A1el-239902128&trk=public_profile_sign-in-modal_join-link)",
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "information technology and services",
+  "linkedin_current_company": "ingemark",
+  "linkedin_current_company_website": "ingemark.com",
+  "linkedin_skills": [
+    "android",
+    "angular",
+    "behavior driven development",
+    "clean coding",
+    "dart",
+    "domain driven design",
+    "flutter",
+    "git",
+    "ios",
+    "java",
+    "kotlin",
+    "kotlin coroutines",
+    "leadership",
+    "model view viewmodel",
+    "mongodb",
+    "project delivery",
+    "software development",
+    "spring framework",
+    "sql",
+    "team management",
+    "test automation",
+    "test driven development",
+    "xml"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "head of engineering",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "lead flutter developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of mobile development",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2017-10",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "lead android developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2016-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "android developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2015-10",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "system integration engineer",
+      "company": "siemens",
+      "company_industry": "industrial automation",
+      "start_date": "2014-09",
+      "end_date": "2015-09",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "fer",
+      "majors": [
+        "communication"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "college of natural sciences and mathematics at the university of toledo",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2009-12"
+    },
+    {
+      "school": "college of natural sciences and mathematics at the university of toledo",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2009-01"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

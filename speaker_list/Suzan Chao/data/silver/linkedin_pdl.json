@@ -1,0 +1,152 @@
+{
+  "record_id": "speaker-viennacx-058",
+  "speaker_name": "Suzan Chao",
+  "linkedin_url": "https://www.linkedin.com/in/suzan-chao/",
+  "likelihood": 9,
+  "full_name": "suzan chao",
+  "job_title": "senior director, content design & delivery",
+  "industry": "pharmaceuticals",
+  "current_company": "gsk",
+  "current_company_website": "gsk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "assay development",
+    "biochemistry",
+    "biomarkers",
+    "biotechnology",
+    "cell",
+    "cell biology",
+    "cell culture",
+    "clinical development",
+    "clinical trials",
+    "communication",
+    "cro",
+    "customer insight",
+    "drug development",
+    "drug discovery",
+    "elisa",
+    "hcv",
+    "immunology",
+    "in vitro",
+    "in vivo",
+    "infectious diseases",
+    "international conferences",
+    "kol identification",
+    "kol management",
+    "life sciences",
+    "lifesciences",
+    "medical affairs",
+    "medical education",
+    "medical writing",
+    "molecular biology",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmacology",
+    "pre launch",
+    "product launch",
+    "publications",
+    "strategic alliances",
+    "strategic communications",
+    "strategic partnerships",
+    "strategic planning",
+    "translational medicine",
+    "virology"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, content design & delivery",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, medical communications",
+      "company": "regeneron",
+      "company_industry": "biotechnology",
+      "start_date": "2023-08",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "worldwide, director scientific engagement and communications, immuno-oncology (io)",
+      "company": "novartis oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "global, director scientific engagement and communications, tislelizumab",
+      "company": "novartis oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-11",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "scientific communications director - oncology (lung, agnostic, skin and rare diseases)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2019-10",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior scientist",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2015-02",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "scientist",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2013-08",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "scientist",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2011-04",
+      "end_date": "2012-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "albert einstein college of medicine",
+      "majors": [
+        "pharmacology",
+        "philosophy"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "san diego state university",
+      "majors": [
+        "molecular biology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2003"
+    }
+  ]
+}

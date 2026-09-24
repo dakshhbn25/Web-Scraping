@@ -1,0 +1,133 @@
+{
+  "record_id": "speaker-viennacx-013",
+  "speaker_name": "Debbie Young",
+  "linkedin_url": "https://www.linkedin.com/in/debbie-young-uk/",
+  "likelihood": 9,
+  "full_name": "debbie young",
+  "job_title": "multichannel strategy and customer insights director",
+  "industry": "pharmaceuticals",
+  "current_company": "otsuka pharmaceutical companies europe",
+  "current_company_website": "otsuka-europe.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "cross functional team leadership",
+    "customer relationship management",
+    "customer satisfaction",
+    "decision making",
+    "digital innovation",
+    "digital marketing",
+    "healthcare",
+    "leadership",
+    "management",
+    "market access",
+    "marketing",
+    "multi channel commerce",
+    "multi channel marketing",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "project implementation",
+    "sales",
+    "sales operations",
+    "selling",
+    "strategy",
+    "team management",
+    "training",
+    "urology"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "multichannel strategy and customer insights director",
+      "company": "otsuka pharmaceutical companies europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital strategy director",
+      "company": "otsuka pharmaceutical companies europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-03",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "digital committee member",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of channels",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "multi-channel delivery lead",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "national service team lead",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-11",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of it service delivery",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-10",
+      "end_date": "2010-11",
+      "is_primary": false
+    },
+    {
+      "title": "it production service manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-05",
+      "end_date": "2007-10",
+      "is_primary": false
+    },
+    {
+      "title": "urology hospital representative",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-05",
+      "end_date": "2006-05",
+      "is_primary": false
+    },
+    {
+      "title": "data and analytics manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-05",
+      "end_date": "2005-05",
+      "is_primary": false
+    },
+    {
+      "title": "various data analytics roles",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1995-05",
+      "end_date": "2001-04",
+      "is_primary": false
+    }
+  ],
+  "education": []
+}

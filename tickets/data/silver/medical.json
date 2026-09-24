@@ -1,0 +1,16 @@
+{
+  "record_id": "tickets-medical",
+  "event_name": "Medical",
+  "sold_out_claim": "NEXT is always Sold Out!",
+  "stats": [
+    "25+ countries",
+    "100 Attendees",
+    "Top countries: UK, DACH, USA",
+    "65% Pharma Peers"
+  ],
+  "attendee_companies": [],
+  "source_urls": [
+    "https://nextpharmasummit.com/Medical/tickets/"
+  ],
+  "scraped_at": "2026-09-15T07:49:24.351681+00:00"
+}

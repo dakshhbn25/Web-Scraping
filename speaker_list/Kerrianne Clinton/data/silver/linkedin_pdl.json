@@ -1,0 +1,138 @@
+{
+  "record_id": "speaker-medical-028",
+  "speaker_name": "Kerrianne Clinton",
+  "linkedin_url": "https://www.linkedin.com/in/kerrianneclinton/",
+  "likelihood": 9,
+  "full_name": "kerrianne clinton",
+  "job_title": "medical lead - vaccines pipeline",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "auditing",
+    "cardiology",
+    "clinical research",
+    "clinical trials",
+    "communication",
+    "cross team collaboration",
+    "customer service",
+    "data analysis",
+    "dermatology",
+    "english",
+    "evidence based medicine",
+    "gastroenterology",
+    "health promotion",
+    "healthcare",
+    "immunology",
+    "leadership",
+    "medical affairs",
+    "medicine",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft powerpoint",
+    "microsoft word",
+    "neurology",
+    "patient counseling",
+    "patient safety",
+    "pharmaceutics",
+    "pharmacokinetics",
+    "pharmacology",
+    "pharmacovigilance",
+    "presentation skills",
+    "product strategy",
+    "project management",
+    "public speaking",
+    "research",
+    "rheumatology",
+    "team leadership",
+    "teamwork",
+    "time management",
+    "training",
+    "vaccinations"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "medical lead - vaccines pipeline",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "brand manager respiratory",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-09",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor respiratory & abpi final signatory",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-11",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "clinical primary care network pharmacist",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2020-10",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "hospital pharmacist",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2018-08",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "pre-registration pharmacist",
+      "company": "east and north hertfordshire teaching nhs trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2017-07",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacy advisor",
+      "company": "boots uk",
+      "company_industry": "retail",
+      "start_date": "2014-06",
+      "end_date": "2017-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "de montfort university",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "instituto john henry newman - universidad francisco de vitoria",
+      "majors": [
+        "chemistry",
+        "philosophy",
+        "physics"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2013-12"
+    }
+  ]
+}

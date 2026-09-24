@@ -1,0 +1,1100 @@
+{
+  "record_id": "speaker-viennacx-002",
+  "speaker_name": "Itziar Canamasas",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/itziarcanamasas/",
+  "scraped_at": "2026-09-18T10:25:02.167682+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "NTPVfD32RB80935KML5YYg_0000",
+    "full_name": "itziar canamasas",
+    "first_name": "itziar",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "canamasas",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/itziarcanamasas",
+    "linkedin_username": "itziarcanamasas",
+    "linkedin_id": "1133372",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of oncology, senior vice president",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+    "job_company_name": "boehringer ingelheim",
+    "job_company_website": "boehringer-ingelheim.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1885,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+    "job_company_linkedin_id": "3235",
+    "job_company_facebook_url": "facebook.com/boehringeringelheim",
+    "job_company_twitter_url": "twitter.com/boehringerus",
+    "job_company_location_name": "ingelheim, rhineland-palatinate, germany",
+    "job_company_location_locality": "ingelheim",
+    "job_company_location_metro": null,
+    "job_company_location_region": "rhineland-palatinate",
+    "job_company_location_geo": "49.97,8.05",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "55218",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-05-17",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2024-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnology",
+      "clinical development",
+      "clinical trials",
+      "competitive intelligence",
+      "cross functional team leadership",
+      "global marketing",
+      "hospital sales",
+      "international marketing",
+      "lifesciences",
+      "market access",
+      "market analysis",
+      "marketing",
+      "neurology",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "sales effectiveness",
+      "strategy",
+      "urology"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "chile",
+      "ireland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "ingelheim, rhineland-palatinate, germany"
+        ],
+        "end_date": null,
+        "start_date": "2024-05",
+        "title": {
+          "name": "global head of oncology, senior vice president",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "atg therapeutics",
+          "size": "1-10",
+          "id": "z6q251g7exJjoP4CauNwxQjpalOS",
+          "founded": 2022,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/atgtx",
+          "linkedin_id": "75029068",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "atgtx.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "strategic advisor and chairwoman",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "atg therapeutics",
+          "size": "1-10",
+          "id": "z6q251g7exJjoP4CauNwxQjpalOS",
+          "founded": 2022,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/atgtx",
+          "linkedin_id": "75029068",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "atgtx.com"
+        },
+        "location_names": [],
+        "end_date": "2024-04",
+        "start_date": "2023-02",
+        "title": {
+          "name": "chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "atg therapeutics",
+          "size": "1-10",
+          "id": "z6q251g7exJjoP4CauNwxQjpalOS",
+          "founded": 2022,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "l'hospitalet de llobregat, catalonia, spain",
+            "locality": "l'hospitalet de llobregat",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "08908",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/atgtx",
+          "linkedin_id": "75029068",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "atgtx.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-01",
+        "start_date": "2022-08",
+        "title": {
+          "name": "strategic advisor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alx oncology",
+          "size": "11-50",
+          "id": "loIptQDYK5Sg4whLDmgFaQBHYTAw",
+          "founded": 2015,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "south san francisco, california, united states",
+            "locality": "south san francisco",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "323 allerton avenue",
+            "address_line_2": null,
+            "postal_code": "94080",
+            "geo": "37.65,-122.41"
+          },
+          "linkedin_url": "linkedin.com/company/alxo-therapeutics",
+          "linkedin_id": "7577544",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/alxoncology",
+          "website": "alxoncology.com"
+        },
+        "location_names": [],
+        "end_date": "2024-04",
+        "start_date": "2022-04",
+        "title": {
+          "name": "member board of directors",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2022-07",
+        "start_date": "2020-08",
+        "title": {
+          "name": "head of oncology europe, middle east and africa",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipha",
+          "size": "1-10",
+          "id": "CkU9SZNOlccPjRgD442lmQO3Z0zI",
+          "founded": 1994,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "7-8 clanwilliam terrace",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/irish-pharmaceutical-healthcare-association",
+          "linkedin_id": "909773",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ipha",
+          "website": "ipha.ie"
+        },
+        "location_names": [
+          "dublin, leinster, ireland"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2019-05",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "german-irish chamber of industry & commerce",
+          "size": "1-10",
+          "id": "TSFHCt9gM4vochwpkyBuWAme8LND",
+          "founded": null,
+          "industry": "international trade and development",
+          "industry_v2": "international trade and development",
+          "location": {
+            "name": "dublin, dublin, ireland",
+            "locality": "dublin",
+            "region": "dublin",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "48 mount street lower",
+            "address_line_2": "suite 4a",
+            "postal_code": "d02pt98",
+            "geo": "53.35,-6.26"
+          },
+          "linkedin_url": "linkedin.com/company/german-irish-chamber",
+          "linkedin_id": "14831747",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "irland.ahk.de/ie"
+        },
+        "location_names": [
+          "dublin, leinster, ireland"
+        ],
+        "end_date": "2020-07",
+        "start_date": "2017-10",
+        "title": {
+          "name": "council member german irish chamber",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2020-07",
+        "start_date": "2017-05",
+        "title": {
+          "name": "managing director bayer ltd | board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "director",
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2017-04",
+        "start_date": "2014-03",
+        "title": {
+          "name": "vice president global marketing oncology - global leadership circle",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "whippany, new jersey, united states"
+        ],
+        "end_date": "2014-02",
+        "start_date": "2012-04",
+        "title": {
+          "name": "vice president global marketing oncology",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2012-03",
+        "start_date": "2010-01",
+        "title": {
+          "name": "vice president regional marketing oncology europe and canada",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2009-12",
+        "start_date": "2008-07",
+        "title": {
+          "name": "director regional marketing oncology europe",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2008-06",
+        "start_date": "2007-07",
+        "title": {
+          "name": "deputy director regional marketing oncology europe",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "west haven, connecticut, united states"
+        ],
+        "end_date": "2007-06",
+        "start_date": "2006-01",
+        "title": {
+          "name": "associate director global marketing oncology",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2005-12",
+        "start_date": "2005-01",
+        "title": {
+          "name": "marketing manager global marketing oncology",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2004-12",
+        "start_date": "2001-09",
+        "title": {
+          "name": "international management trainee",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "london business school",
+          "type": "post-secondary institution",
+          "id": "LwkowlBz-ITo0vo4g1vTKA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-business-school",
+          "facebook_url": "facebook.com/londonbusinessschool",
+          "twitter_url": "twitter.com/lbs",
+          "linkedin_id": "5954",
+          "website": "london.edu",
+          "domain": "london.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-11",
+        "end_date": "2026-12",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "national association of corporate directors (nacd)",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2022-04",
+        "end_date": "2024-02",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "national association of corporate directors (nacd)",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2024-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2017-01",
+        "end_date": "2017",
+        "majors": [
+          "entrepreneurship"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard business school",
+          "type": "post-secondary institution",
+          "id": "msWm2G6JJBgicb2CCsvODg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4867",
+          "website": "hbs.edu",
+          "domain": "hbs.edu"
+        },
+        "degrees": [],
+        "start_date": "2015-01",
+        "end_date": "2015",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imd",
+          "type": "post-secondary institution",
+          "id": "uQ41rgoNumbOpz-j3dcDaA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imd-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164323",
+          "website": "imd.org",
+          "domain": "imd.org"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2011",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "johannes gutenberg university mainz",
+          "type": "post-secondary institution",
+          "id": "FPiEwuBDs40x953rre733w_0000",
+          "location": {
+            "name": "mainz, rhineland-palatinate, germany",
+            "locality": "mainz",
+            "region": "rhineland-palatinate",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unimainz",
+          "facebook_url": "facebook.com/uni.mainz",
+          "twitter_url": "twitter.com/uni_mainz",
+          "linkedin_id": "15091818",
+          "website": "uni-mainz.de",
+          "domain": "uni-mainz.de"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1997-01",
+        "end_date": "2001",
+        "majors": [
+          "genetics",
+          "molecular biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "alliance manchester business school",
+          "type": "post-secondary institution",
+          "id": "MvhLWXYp832e9T1xT85voQ_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/alliancembs",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "13855",
+          "website": "alliancembs.manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1995",
+        "end_date": "1996",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1995-01",
+        "end_date": "1996-12",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitat de barcelona",
+          "type": "post-secondary institution",
+          "id": "ueQJP5cCUdW8-Ii3aUSkvA_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-barcelona",
+          "facebook_url": "facebook.com/universitatdebarcelona",
+          "twitter_url": "twitter.com/unibarcelona",
+          "linkedin_id": "8082",
+          "website": "ub.edu",
+          "domain": "ub.edu"
+        },
+        "degrees": [],
+        "start_date": "1991-01",
+        "end_date": "1996",
+        "majors": [
+          "biology",
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "1133372",
+        "url": "linkedin.com/in/itziarcanamasas",
+        "username": "itziarcanamasas"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

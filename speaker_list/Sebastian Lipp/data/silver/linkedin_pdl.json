@@ -1,0 +1,148 @@
+{
+  "record_id": "speaker-viennacx-046",
+  "speaker_name": "Sebastian Lipp",
+  "linkedin_url": "https://www.linkedin.com/in/sebastian-lipp/",
+  "likelihood": 9,
+  "full_name": "sebastian lipp",
+  "job_title": "head of content platforms",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda",
+  "current_company_website": "takeda.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "ai strategy",
+    "artificial intelligence",
+    "content authoring",
+    "content strategy",
+    "cross functional collaborations",
+    "customer experience optimization",
+    "data analysis",
+    "digital asset management",
+    "digital transformation",
+    "digitale transformationen",
+    "enterprise project management",
+    "extranet",
+    "forschung",
+    "internet",
+    "intranet",
+    "microsoft copilot",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft project",
+    "microsoft word",
+    "ms lync",
+    "ms project",
+    "ms project server",
+    "ms sharepoint",
+    "organizational change management",
+    "pmi capm",
+    "pmi pmp",
+    "portfoliomanagement",
+    "powerpoint",
+    "prince2",
+    "program management",
+    "programm management",
+    "programmmanagement",
+    "project assessment",
+    "project management",
+    "project planning",
+    "projektmanagement",
+    "projektmanagement office",
+    "projektplanung",
+    "regulatory compliance",
+    "resource and risk management",
+    "sharepoint",
+    "stakeholder management",
+    "strategisches management",
+    "system integration",
+    "team leadership",
+    "training",
+    "training and development",
+    "unternehmensanalyse",
+    "unternehmensberatung",
+    "unternehmensstrategie",
+    "user adoption",
+    "veeva vault and crm",
+    "vertrieb",
+    "viseven ewizard"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of content platforms",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "manager - business lead transformation management ch",
+      "company": "campana & schott",
+      "company_industry": "management consulting",
+      "start_date": "2024-07",
+      "end_date": "2025-02",
+      "is_primary": false
+    },
+    {
+      "title": "managing consultant - business lead life sciences",
+      "company": "campana & schott",
+      "company_industry": "management consulting",
+      "start_date": "2020-07",
+      "end_date": "2024-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant - project & program management",
+      "company": "campana & schott",
+      "company_industry": "management consulting",
+      "start_date": "2017-07",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "consultant - project & program management",
+      "company": "campana & schott",
+      "company_industry": "management consulting",
+      "start_date": "2014-09",
+      "end_date": "2017-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "htwg hochschule konstanz – technik, wirtschaft und gestaltung",
+      "majors": [
+        "engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "kettering university",
+      "majors": [
+        "industrial engineering"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of duisburg - essen",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

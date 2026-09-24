@@ -1,0 +1,270 @@
+{
+  "record_id": "speaker-dubrovnik-016",
+  "speaker_name": "Liana Lubel",
+  "linkedin_url": "https://www.linkedin.com/in/lianalubel/",
+  "likelihood": 9,
+  "full_name": "liana lubel",
+  "job_title": "co-owner @ non-profit",
+  "industry": "marketing and advertising",
+  "current_company": "chleider und chance",
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "advertising research",
+    "analytics",
+    "artificial intelligence",
+    "big data",
+    "board development",
+    "board of directors",
+    "brand equity",
+    "brand management",
+    "business advisory services",
+    "business development",
+    "business insights",
+    "business intelligence",
+    "competitive analysis",
+    "competitive intelligence",
+    "consumer behavior",
+    "consumer behaviour",
+    "consumer insight",
+    "consumer products",
+    "corporate governance",
+    "customer insight",
+    "digital transformation",
+    "emerging markets",
+    "enterprise risk management",
+    "fast moving consumer goods",
+    "fmcg",
+    "forecasting",
+    "global marketing",
+    "growth strategies",
+    "healthcare analytics",
+    "healthcare effectiveness data and information set",
+    "heor",
+    "innovation",
+    "international business",
+    "leadership",
+    "management",
+    "management consulting",
+    "market access",
+    "market analysis",
+    "market research",
+    "marketing",
+    "marketing research",
+    "marketing strategy",
+    "networking",
+    "pricing strategy",
+    "primary research",
+    "product development",
+    "product innovation",
+    "quantitative research",
+    "questionnaire design",
+    "risk assessment",
+    "risk management",
+    "segmentation",
+    "shopper marketing",
+    "stakeholder engagement",
+    "stakeholder management",
+    "strategic insights",
+    "strategic partnerships",
+    "strategy",
+    "sustainability",
+    "team leadership",
+    "team management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-owner @ non-profit",
+      "company": "chleider und chance",
+      "company_industry": null,
+      "start_date": "2025-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director marketing excellence and insights - global abbott medicines",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "member of the creative council",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "member of the esg extended committee",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "vab member",
+      "company": "virtual advisory board (vab)",
+      "company_industry": "management consulting",
+      "start_date": "2023-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "board community member",
+      "company": "board owl",
+      "company_industry": "management consulting",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "interim global market access head",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2022-02",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "global head of strategic insights & analytics",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2017-07",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president innovation practice - global client lead",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2015-10",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president innovation practice - brand strategy",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2014-11",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior vice president strategic account development (affinnova)",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2011-10",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "growth strategy partner (the cambridge group)",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2010-10",
+      "end_date": "2011-09",
+      "is_primary": false
+    },
+    {
+      "title": "vice president client consulting (bases)",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2008-12",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "vice president managing director for bases in france and south africa",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2008-02",
+      "end_date": "2008-11",
+      "is_primary": false
+    },
+    {
+      "title": "director, client service (bases)",
+      "company": "nielsen",
+      "company_industry": "computer software",
+      "start_date": "2002-08",
+      "end_date": "2008-01",
+      "is_primary": false
+    },
+    {
+      "title": "regional consumer understanding manager",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "1996-01",
+      "end_date": "2001-12",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager assistant",
+      "company": "unilever",
+      "company_industry": "consumer goods",
+      "start_date": "1994-12",
+      "end_date": "1995-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imd",
+      "majors": [
+        "organizational leadership"
+      ],
+      "degrees": [],
+      "start_date": "2023-04",
+      "end_date": "2024-10"
+    },
+    {
+      "school": "imd",
+      "majors": [
+        "organizational leadership"
+      ],
+      "degrees": [],
+      "start_date": "2023-03",
+      "end_date": "2024-09"
+    },
+    {
+      "school": "imd",
+      "majors": [
+        "organizational leadership"
+      ],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2024-12"
+    },
+    {
+      "school": "kellogg executive education",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2019",
+      "end_date": "2019"
+    },
+    {
+      "school": "tecnológico de monterrey",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1990-01",
+      "end_date": "1994"
+    },
+    {
+      "school": "northwestern university - kellogg school of management",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

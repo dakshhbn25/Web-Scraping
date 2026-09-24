@@ -1,0 +1,183 @@
+{
+  "record_id": "speaker-dubrovnik-099",
+  "speaker_name": "Stacy Payne",
+  "linkedin_url": "https://www.linkedin.com/in/stacy-payne-msc/",
+  "likelihood": 9,
+  "full_name": "stacy payne",
+  "job_title": "senior director, agentforce life sciences & regulated content management product strategy",
+  "industry": "computer software",
+  "current_company": "salesforce",
+  "current_company_website": "salesforce.com",
+  "current_company_industry": "computer software",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "advertising",
+    "advertising management",
+    "agentforce",
+    "agile project management",
+    "business advisory services",
+    "business coaching",
+    "change management",
+    "closed loop marketing",
+    "competitive analysis",
+    "content excellence",
+    "content management",
+    "content strategy",
+    "corporate advisory",
+    "crm",
+    "customer engagement",
+    "customer experience",
+    "customer experience transformation",
+    "customer journeys",
+    "customer relationship management",
+    "digital marketing",
+    "digital strategy",
+    "digital strategy and innovation",
+    "digital supply chain",
+    "digital transformation",
+    "disruptive technologies in the digital era",
+    "employee training",
+    "establishing strategic partnerships",
+    "event management",
+    "global business development",
+    "global business management",
+    "go to market strategy",
+    "healthcare compliance",
+    "increasing revenue",
+    "information management and visualisation",
+    "key account management",
+    "leadership",
+    "leading people",
+    "leisure",
+    "life science industry",
+    "management",
+    "management consulting",
+    "marketing automation",
+    "marketing management",
+    "marketing strategy",
+    "media buying",
+    "multi site",
+    "new business development",
+    "omnichannel",
+    "operational excellence",
+    "operations management",
+    "p&l management",
+    "partner development",
+    "partnerships",
+    "performance improvement",
+    "performance management",
+    "program management",
+    "public relations",
+    "regulated content management",
+    "regulated industries",
+    "revenue analysis",
+    "revenue management",
+    "sales",
+    "sales management",
+    "sales operations",
+    "sales support",
+    "sponsorship",
+    "strategic planning",
+    "strategy",
+    "technological innovation",
+    "technology",
+    "technology change management",
+    "technology integration",
+    "training and development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, agentforce life sciences & regulated content management product strategy",
+      "company": "salesforce",
+      "company_industry": "computer software",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president - commercial & medical excellence, global",
+      "company": "epista life science",
+      "company_industry": "information technology and services",
+      "start_date": "2024-12",
+      "end_date": "2025-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, head of customer excellence & partnerships, commercial & medical excellence",
+      "company": "epista life science",
+      "company_industry": "information technology and services",
+      "start_date": "2024-04",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "founder and managing director",
+      "company": "health solutions consulting",
+      "company_industry": null,
+      "start_date": "2024-03",
+      "end_date": "2026-06",
+      "is_primary": false
+    },
+    {
+      "title": "global director, part of commercial strategy & content sme",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2015-05",
+      "end_date": "2024-03",
+      "is_primary": false
+    },
+    {
+      "title": "leadership positions",
+      "company": "various companies",
+      "company_industry": null,
+      "start_date": "2007-09",
+      "end_date": "2015-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of hull",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2024-01",
+      "end_date": "2024-12"
+    },
+    {
+      "school": "university of hull",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of science"
+      ],
+      "start_date": "2021",
+      "end_date": "2023"
+    },
+    {
+      "school": "university of south wales",
+      "majors": [
+        "sports management"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "ysgol gyfun gwynllyw",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

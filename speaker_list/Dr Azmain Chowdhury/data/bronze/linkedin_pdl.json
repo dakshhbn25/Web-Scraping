@@ -1,0 +1,481 @@
+{
+  "record_id": "speaker-viennacx-059",
+  "speaker_name": "Dr Azmain Chowdhury",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/doctorazmain/",
+  "scraped_at": "2026-09-21T11:38:38.796885+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "CxvRMEmSmd3XxbUgS7oQTw_0000",
+    "full_name": "azmain chowdhury",
+    "first_name": "azmain",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "chowdhury",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/doctorazmain",
+    "linkedin_username": "doctorazmain",
+    "linkedin_id": "1048878281",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "internet",
+    "job_title": "co-founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "ye7qI8ahKzQup7SYrKJSuALYL9yo",
+    "job_company_name": "social media medics",
+    "job_company_website": "thesocialmediamedics.com",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": "internet",
+    "job_company_industry_v2": "social networking platforms",
+    "job_company_linkedin_url": "linkedin.com/company/thesocialmediamedics",
+    "job_company_linkedin_id": "91654593",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2024-12-15",
+    "job_last_verified": "2026-08-08",
+    "job_start_date": "2022-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-08",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "community building",
+      "content strategy",
+      "copywriting",
+      "graphic design",
+      "health education",
+      "interviewing",
+      "medical education",
+      "online content creation",
+      "public health education",
+      "social media",
+      "social media marketing",
+      "social media strategy",
+      "statistical data analysis",
+      "strategic partnerships",
+      "video editing",
+      "video podcasts",
+      "video production"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "social media medics",
+          "size": "1-10",
+          "id": "ye7qI8ahKzQup7SYrKJSuALYL9yo",
+          "founded": null,
+          "industry": "internet",
+          "industry_v2": "social networking platforms",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/thesocialmediamedics",
+          "linkedin_id": "91654593",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thesocialmediamedics.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-10",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "tiktok",
+          "size": "10001+",
+          "id": "Pr5xJTLlTiwLpgAzPTCOggvYWzL2",
+          "founded": 2012,
+          "industry": "entertainment",
+          "industry_v2": "entertainment providers",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "34.03,-118.24"
+          },
+          "linkedin_url": "linkedin.com/company/tiktok",
+          "linkedin_id": "33246798",
+          "facebook_url": "facebook.com/tiktok",
+          "twitter_url": null,
+          "website": "tiktok.com"
+        },
+        "location_names": [
+          "los angeles, california, united states"
+        ],
+        "end_date": null,
+        "start_date": "2022-03",
+        "title": {
+          "name": "160,000+ followers | clinician creator & medical educator",
+          "class": "services",
+          "role": "education",
+          "sub_role": "primary_and_secondary",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doctor azmain ltd",
+          "size": "1-10",
+          "id": "3j1K7NKAy1baOEPXuIfHcgS2SdYE",
+          "founded": null,
+          "industry": null,
+          "industry_v2": "education",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/doctorazmain",
+          "linkedin_id": "109865189",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "doctorazmain.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-06",
+        "title": {
+          "name": "clinician creator & medical educator | 500,000+ followers on social media",
+          "class": "services",
+          "role": "education",
+          "sub_role": "primary_and_secondary",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "youtube",
+          "size": "1001-5000",
+          "id": "uju6H8FGC5WmY9Um2WS0HgY4rFMi",
+          "founded": 2005,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "san bruno, california, united states",
+            "locality": "san bruno",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "901 cherry avenue",
+            "address_line_2": null,
+            "postal_code": "94066",
+            "geo": "37.62,-122.42"
+          },
+          "linkedin_url": "linkedin.com/company/youtube",
+          "linkedin_id": "16140",
+          "facebook_url": "facebook.com/youtube",
+          "twitter_url": "twitter.com/youtube",
+          "website": "youtube.com"
+        },
+        "location_names": [
+          "san bruno, california, united states"
+        ],
+        "end_date": null,
+        "start_date": "2021-06",
+        "title": {
+          "name": "50,000+ subscribers | clinician creator & medical educator",
+          "class": "services",
+          "role": "education",
+          "sub_role": "primary_and_secondary",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "instagram",
+          "size": "10001+",
+          "id": "azWjYmMaDbflV5f9Bic2QQ0RS38i",
+          "founded": 2010,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "menlo park, california, united states",
+            "locality": "menlo park",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "37.39,-122.22"
+          },
+          "linkedin_url": "linkedin.com/company/instagram",
+          "linkedin_id": "2289109",
+          "facebook_url": "facebook.com/instagram",
+          "twitter_url": "twitter.com/instagram",
+          "website": "instagram.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-10",
+        "title": {
+          "name": "290,000+ followers | clinician creator & medical educator",
+          "class": "services",
+          "role": "education",
+          "sub_role": "primary_and_secondary",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-07",
+        "title": {
+          "name": "medical doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of warwick",
+          "type": "post-secondary institution",
+          "id": "AbNtDq43cTkUVWYbRYNIBQ_0000",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uniofwarwick",
+          "facebook_url": "facebook.com/warwickuniversity",
+          "twitter_url": "twitter.com/warwickuni",
+          "linkedin_id": "7609",
+          "website": "warwick.ac.uk",
+          "domain": "warwick.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2023-05",
+        "end_date": "2025",
+        "majors": [
+          "education",
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard business school",
+          "type": "post-secondary institution",
+          "id": "msWm2G6JJBgicb2CCsvODg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "4867",
+          "website": "hbs.edu",
+          "domain": "hbs.edu"
+        },
+        "degrees": [],
+        "start_date": "2022-01",
+        "end_date": "2022",
+        "majors": [
+          "health care",
+          "public health"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ucl",
+          "type": "post-secondary institution",
+          "id": "G9NsmugT8wQ2Ouasf0gGjg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-college-london",
+          "facebook_url": "facebook.com/uclofficial",
+          "twitter_url": "twitter.com/ucl",
+          "linkedin_id": "4171",
+          "website": "ucl.ac.uk",
+          "domain": "ucl.ac.uk"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelors"
+        ],
+        "start_date": "2014-09",
+        "end_date": "2020-04",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ucl",
+          "type": "post-secondary institution",
+          "id": "G9NsmugT8wQ2Ouasf0gGjg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-college-london",
+          "facebook_url": "facebook.com/uclofficial",
+          "twitter_url": "twitter.com/ucl",
+          "linkedin_id": "4171",
+          "website": "ucl.ac.uk",
+          "domain": "ucl.ac.uk"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2014-09",
+        "end_date": "2017",
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "westminster school, london",
+          "type": "secondary school",
+          "id": "z0QL-mCHX0ZMhxybSn1uMg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/westminster-school-london",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2315983",
+          "website": "westminster.org.uk",
+          "domain": "westminster.org.uk"
+        },
+        "degrees": [],
+        "start_date": "2009-09",
+        "end_date": "2014-08",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "1048878281",
+        "url": "linkedin.com/in/doctorazmain",
+        "username": "doctorazmain"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,629 @@
+{
+  "record_id": "speaker-dubrovnik-102",
+  "speaker_name": "Andreas Gensch",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/andreas-gensch2020/",
+  "scraped_at": "2026-09-18T09:38:42.695755+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "KXjcq2r4qtLWgJQfzOZoXQ_0000",
+    "full_name": "andreas gensch",
+    "first_name": "andreas",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gensch",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/andreas-gensch2020",
+    "linkedin_username": "andreas-gensch2020",
+    "linkedin_id": "26068774",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "food production",
+    "job_title": "co-founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "OBiWa7gKUfDN3yAUbr0r2AbVTRW5",
+    "job_company_name": "ceel.ai",
+    "job_company_website": "ceel.ai",
+    "job_company_size": "1-10",
+    "job_company_founded": 2025,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/ceel-ai",
+    "job_company_linkedin_id": "102880967",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2024-11-24",
+    "job_last_verified": "2026-07-02",
+    "job_start_date": "2025",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business development",
+      "business modeling",
+      "business planning",
+      "business strategy",
+      "competitive analysis",
+      "corporate development",
+      "corporate finance",
+      "due diligence",
+      "entrepreneurship",
+      "exeevo life science crm",
+      "financial analysis",
+      "financial modeling",
+      "finanzanalyse",
+      "finanzmodelle",
+      "fintech",
+      "german",
+      "insurtech",
+      "international business",
+      "investment banking",
+      "investmentbank",
+      "management consulting",
+      "market analysis",
+      "market research",
+      "marktanalyse",
+      "marktforschung",
+      "private equity",
+      "privates eigenkapital",
+      "restructuring",
+      "strategie",
+      "strategisches management",
+      "strategy",
+      "unternehmensberatung",
+      "unternehmensfinanzierung",
+      "unternehmensplanung",
+      "unternehmensstrategie",
+      "unternehmertum",
+      "valuation",
+      "wertbestimmung"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ceel.ai",
+          "size": "1-10",
+          "id": "OBiWa7gKUfDN3yAUbr0r2AbVTRW5",
+          "founded": 2025,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/ceel-ai",
+          "linkedin_id": "102880967",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ceel.ai"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "munich re",
+          "size": "10001+",
+          "id": "MXciiowJ7F7k23xJHqxCsw9Gqorx",
+          "founded": 1880,
+          "industry": "insurance",
+          "industry_v2": "insurance",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "107 königinstrasse",
+            "address_line_2": null,
+            "postal_code": "80802",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/munich-re",
+          "linkedin_id": "8346",
+          "facebook_url": "facebook.com/munichre",
+          "twitter_url": "twitter.com/munichre",
+          "website": "munichre.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2025",
+        "start_date": "2023",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "48bytesnorth inc.",
+          "size": "11-50",
+          "id": "KvHUo34yxmpyCCIGck801gfelCP8",
+          "founded": null,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "46 howard street",
+            "address_line_2": "suite 209",
+            "postal_code": "10013",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/48bytesnorth",
+          "linkedin_id": "26215376",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "48bytesnorth.com"
+        },
+        "location_names": [],
+        "end_date": "2023",
+        "start_date": "2019",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "various companies",
+          "size": "1-10",
+          "id": "VSrniFfYpEB74snOsePiTgMJM6Ov",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "greenwich, connecticut, united states",
+            "locality": "greenwich",
+            "region": "connecticut",
+            "metro": "bridgeport, connecticut",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "06830",
+            "geo": "41.05,-73.63"
+          },
+          "linkedin_url": "linkedin.com/company/various-boards",
+          "linkedin_id": "18698136",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "tgleaders.com"
+        },
+        "location_names": [],
+        "end_date": "2024",
+        "start_date": "2016",
+        "title": {
+          "name": "building and learning",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "insurtech hub munich",
+          "size": "11-50",
+          "id": "XEcXNMn9qQfFrlpxoF4vKwMwwFMy",
+          "founded": 2017,
+          "industry": "insurance",
+          "industry_v2": "insurance",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "29 atelierstraße",
+            "address_line_2": null,
+            "postal_code": "81671",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/insurtechhub-munich",
+          "linkedin_id": "25066985",
+          "facebook_url": "facebook.com/insurtechmunich",
+          "twitter_url": "twitter.com/insurtechmunich",
+          "website": "insurtech-munich.com"
+        },
+        "location_names": [],
+        "end_date": "2019",
+        "start_date": "2015",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "w&w interaction solutions gmbh",
+          "size": "11-50",
+          "id": "BB1lSIqxciRqtrk4ozv6FQfSnDZa",
+          "founded": 2014,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "18 wilhelm-wagenfeld straße",
+            "address_line_2": null,
+            "postal_code": "80807",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/ww-isl",
+          "linkedin_id": "10017755",
+          "facebook_url": "facebook.com/treefin.finanzmanager",
+          "twitter_url": null,
+          "website": "treefin.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2019",
+        "start_date": "2013",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roland berger",
+          "size": "1001-5000",
+          "id": "9KZYoQCOUKvFFCNlkj29Wg0TtXNy",
+          "founded": 1967,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 sederanger",
+            "address_line_2": null,
+            "postal_code": "80538",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/rolandberger",
+          "linkedin_id": "3950",
+          "facebook_url": "facebook.com/rolandbergergmbh",
+          "twitter_url": "twitter.com/rolandberger",
+          "website": "rolandberger.com"
+        },
+        "location_names": [],
+        "end_date": "2012",
+        "start_date": "2010",
+        "title": {
+          "name": "strategy consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unicredit",
+          "size": "10001+",
+          "id": "nl686HhDAI3zVaySWiG2egWRRpmY",
+          "founded": 1870,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "3 piazza gae aulenti",
+            "address_line_2": null,
+            "postal_code": "20154",
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/unicredit",
+          "linkedin_id": "3515",
+          "facebook_url": "facebook.com/unicredititalia",
+          "twitter_url": "twitter.com/unicredit_pr",
+          "website": "unicreditgroup.eu"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2007",
+        "title": {
+          "name": "intern investmentbanking",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "airbus",
+          "size": "10001+",
+          "id": "LiZFrcBoMH133tqhYsdIIw6Mr9k2",
+          "founded": 2014,
+          "industry": "aviation & aerospace",
+          "industry_v2": "aviation and aerospace component manufacturing",
+          "location": {
+            "name": "blagnac, occitanie, france",
+            "locality": "blagnac",
+            "region": "occitanie",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "bp 90112",
+            "address_line_2": null,
+            "postal_code": "31703",
+            "geo": "43.63,1.38"
+          },
+          "linkedin_url": "linkedin.com/company/airbusgroup",
+          "linkedin_id": "2734",
+          "facebook_url": "facebook.com/airbusgroup",
+          "twitter_url": "twitter.com/airbusgroup",
+          "website": "airbus.com"
+        },
+        "location_names": [],
+        "end_date": "2002",
+        "start_date": "1999",
+        "title": {
+          "name": "banker",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "hhl leipzig graduate school of management",
+          "type": "post-secondary institution",
+          "id": "r2c4RfE7uB0D2uWmjjfE1w_0000",
+          "location": {
+            "name": "leipzig, saxony, germany",
+            "locality": "leipzig",
+            "region": "saxony",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hhl-leipzig-graduate-school-of-management",
+          "facebook_url": "facebook.com/handelshochschule",
+          "twitter_url": null,
+          "linkedin_id": "59281",
+          "website": "hhl.de",
+          "domain": "hhl.de"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "deggendorf institute of technology",
+          "type": "post-secondary institution",
+          "id": "uK4jfvBt-w19S7J-2Po2ZA_0000",
+          "location": {
+            "name": "deggendorf, bavaria, germany",
+            "locality": "deggendorf",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/technische-hochschule-deggendorf",
+          "facebook_url": "facebook.com/hochschuledeggendorf",
+          "twitter_url": "twitter.com/th_deggendorf",
+          "linkedin_id": "15248501",
+          "website": "th-deg.de",
+          "domain": "th-deg.de"
+        },
+        "degrees": [
+          "bachelor of business administration",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "higher school of economics",
+          "type": "post-secondary institution",
+          "id": "8TbOJEO9xhF6UBa2rUhgow_0000",
+          "location": {
+            "name": "moscow, moscow, russia",
+            "locality": "moscow",
+            "region": "moscow",
+            "country": "russia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/высшая-школа-экономики",
+          "facebook_url": "facebook.com/hse.ru",
+          "twitter_url": "twitter.com/hse_eng",
+          "linkedin_id": "15100911",
+          "website": "hse.ru",
+          "domain": "hse.ru"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "management development institute, gurgaon",
+          "type": "post-secondary institution",
+          "id": "S7-BTKryZd9MFTSWg1IIkQ_0000",
+          "location": {
+            "name": "gurgaon sector 17, haryana, india",
+            "locality": "gurgaon sector 17",
+            "region": "haryana",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/mdigurgaon",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "397797",
+          "website": "mdi.ac.in",
+          "domain": "mdi.ac.in"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the hong kong polytechnic university",
+          "type": "post-secondary institution",
+          "id": "gbDhkC8caVwmdlHnJhb0bg_0000",
+          "location": {
+            "name": "hung hom, kowloon, hong kong",
+            "locality": "hung hom",
+            "region": "kowloon",
+            "country": "hong kong",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/hong-kong-polytechnic-university",
+          "facebook_url": "facebook.com/hongkongpolyu",
+          "twitter_url": "twitter.com/hongkongpolyu",
+          "linkedin_id": "13359",
+          "website": "polyu.edu.hk",
+          "domain": "polyu.edu.hk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "26068774",
+        "url": "linkedin.com/in/andreas-gensch2020",
+        "username": "andreas-gensch2020"
+      },
+      {
+        "network": "linkedin",
+        "id": "26068774",
+        "url": "linkedin.com/in/andreas-gensch2019",
+        "username": "andreas-gensch2019"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,211 @@
+{
+  "record_id": "speaker-viennacx-061",
+  "speaker_name": "Yacin Marzouki",
+  "designation": "Founder | independent pharma advisor at Biond health",
+  "company": "biond.health",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/yacin-m-customerengagement/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": null,
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": null,
+  "linkedin_people_also_viewed": null,
+  "linkedin_industry": "biotechnology",
+  "linkedin_current_company": "international keynote speaker",
+  "linkedin_current_company_website": null,
+  "linkedin_skills": [
+    "5s",
+    "artificial intelligence",
+    "change management",
+    "collaborative problem solving",
+    "event planning",
+    "injection molding",
+    "leadership",
+    "lean manufacturing",
+    "manufacture",
+    "marketing strategy",
+    "operational excellence",
+    "presentation skills",
+    "project management",
+    "project planning",
+    "public speaking",
+    "risk assessment",
+    "risk management",
+    "strategy",
+    "supply chain management",
+    "team management",
+    "toyota production system"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "international speaker & thought leader in omnichannel engagement",
+      "company": "international keynote speaker",
+      "company_industry": "international trade and development",
+      "start_date": "2025-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "founder | independent pharma advisor",
+      "company": "biond health",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global director",
+      "company": "alfasigma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, campaign & event lead",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2023-04",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "event & campaign lead",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2022-07",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, project management practice",
+      "company": "kronos by epsa",
+      "company_industry": "management consulting",
+      "start_date": "2022-01",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "delivery & expertise manager, project manager consultant",
+      "company": "kronos by epsa",
+      "company_industry": "management consulting",
+      "start_date": "2020-11",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "program manager consultant life science (biotechnology)",
+      "company": "kronos by epsa",
+      "company_industry": "management consulting",
+      "start_date": "2020-06",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "omnichannel manager",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2020-06",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "project management consultant",
+      "company": "kronos by epsa",
+      "company_industry": "management consulting",
+      "start_date": "2019-08",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "project manager vaccines",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-08",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "project manager consultant life science (vaccines)",
+      "company": "kronos by epsa",
+      "company_industry": "management consulting",
+      "start_date": "2019-08",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "project and planning management specialist",
+      "company": "toyota boshoku europe n.v.",
+      "company_industry": "automotive",
+      "start_date": "2018-01",
+      "end_date": "2019-08",
+      "is_primary": false
+    },
+    {
+      "title": "project and planning managment engineer",
+      "company": "toyota boshoku europe n.v.",
+      "company_industry": "automotive",
+      "start_date": "2015-05",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "purchasing intern",
+      "company": "toyota boshoku europe n.v.",
+      "company_industry": "automotive",
+      "start_date": "2014-10",
+      "end_date": "2015-03",
+      "is_primary": false
+    },
+    {
+      "title": "internship trainee",
+      "company": "gävle kommun",
+      "company_industry": "government administration",
+      "start_date": "2014-01",
+      "end_date": "2014-06",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "university of gävle",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2014-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "hub - kubrussel",
+      "majors": [
+        "business management",
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2014-12"
+    }
+  ],
+  "data_sources": {
+    "tavily": false,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

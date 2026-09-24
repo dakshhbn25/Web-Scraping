@@ -1,0 +1,305 @@
+{
+  "record_id": "speaker-viennacx-012",
+  "speaker_name": "Eva Martins",
+  "linkedin_url": "https://www.linkedin.com/in/evamartinsme/",
+  "likelihood": 9,
+  "full_name": "eva martins",
+  "job_title": "chief executive officer and founder of the global leadership academy",
+  "industry": "pharmaceuticals",
+  "current_company": "global women leadership academy",
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "aienabled commercial transformation",
+    "business",
+    "capability building and organizational development",
+    "cardiology",
+    "change management",
+    "clinical development",
+    "clinical trials",
+    "coaching",
+    "commercial",
+    "commercial strategy",
+    "communication",
+    "cooperation",
+    "country/regional leadership",
+    "data management",
+    "diabetes",
+    "digital marketing",
+    "drug development",
+    "franchise/bu leadership",
+    "franchising",
+    "general management",
+    "hospital sales",
+    "integrated product development",
+    "investor relations",
+    "launch excellence",
+    "line management",
+    "management",
+    "market access",
+    "market access and gotomarket",
+    "market analysis",
+    "marketing",
+    "marketing management",
+    "marketing strategy",
+    "negotiation",
+    "neurology",
+    "oncology",
+    "p&l leadership",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "project management",
+    "rheumatology",
+    "sales effectiveness",
+    "sales management",
+    "sales strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief executive officer and founder of the global leadership academy",
+      "company": "global women leadership academy",
+      "company_industry": null,
+      "start_date": "2019-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head launch and commercialization excellence",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global head cit - accelerating our commercial innovation & transformation",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-04",
+      "end_date": "2024-01",
+      "is_primary": false
+    },
+    {
+      "title": "global head innovation & commercial transformation",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-11",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "region europe head - respiratory / immunology / rare diseases",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-12",
+      "end_date": "2017-10",
+      "is_primary": false
+    },
+    {
+      "title": "region europe director - respiratory / immunology / rare diseases",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-04",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "respiratory / immunology / rare diseases business bu head novartis",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-01",
+      "end_date": "2013-03",
+      "is_primary": false
+    },
+    {
+      "title": "hospital sales & marketing manager - respiratory / immunology / rare diseases",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "marketing and alliance manager - psychiatry",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "general manager - spc thrombolytics",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004",
+      "end_date": "2005",
+      "is_primary": false
+    },
+    {
+      "title": "brand lead - hypertension",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002",
+      "end_date": "2004",
+      "is_primary": false
+    },
+    {
+      "title": "brand lead cardiovascular - plavix",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1999",
+      "end_date": "2002",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager cardiovascular",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1998",
+      "end_date": "1999",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "agile21",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2023"
+    },
+    {
+      "school": "academy of neuro - shine technology",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "speaker skills academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "academy of neuro - shine technology",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2021-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "speaker skills academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "international federation of coaching",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "neuro linguistic academy john grinder",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "nlp academy with founder of nlp himself john grinder",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "tony robbins mastery university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "tony robbins mastery university",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "tony robbins mastery university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "place ranker",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2015",
+      "end_date": "2015"
+    },
+    {
+      "school": "place ranker",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2015-12"
+    },
+    {
+      "school": "the journey school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "católica lisbon school of business and economics",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "glasgow caledonian university",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "chateney malabry’s university of paris",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1998-01",
+      "end_date": "1999"
+    }
+  ]
+}

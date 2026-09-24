@@ -1,0 +1,1085 @@
+{
+  "record_id": "speaker-viennacx-012",
+  "speaker_name": "Eva Martins",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/evamartinsme/",
+  "scraped_at": "2026-09-18T10:25:21.913243+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "ABFDyM7-BYVDfFHUkZ30UQ_0000",
+    "full_name": "eva martins",
+    "first_name": "eva",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "martins",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/eva-martins-b887b111",
+    "linkedin_username": "eva-martins-b887b111",
+    "linkedin_id": "40791128",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "chief executive officer and founder of the global leadership academy",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": null,
+    "job_company_name": "global women leadership academy",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2022-06-08",
+    "job_last_verified": "2026-08-29",
+    "job_start_date": "2019-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-29",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "aienabled commercial transformation",
+      "business",
+      "capability building and organizational development",
+      "cardiology",
+      "change management",
+      "clinical development",
+      "clinical trials",
+      "coaching",
+      "commercial",
+      "commercial strategy",
+      "communication",
+      "cooperation",
+      "country/regional leadership",
+      "data management",
+      "diabetes",
+      "digital marketing",
+      "drug development",
+      "franchise/bu leadership",
+      "franchising",
+      "general management",
+      "hospital sales",
+      "integrated product development",
+      "investor relations",
+      "launch excellence",
+      "line management",
+      "management",
+      "market access",
+      "market access and gotomarket",
+      "market analysis",
+      "marketing",
+      "marketing management",
+      "marketing strategy",
+      "negotiation",
+      "neurology",
+      "oncology",
+      "p&l leadership",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "project management",
+      "rheumatology",
+      "sales effectiveness",
+      "sales management",
+      "sales strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "global women leadership academy",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2019-10",
+        "title": {
+          "name": "chief executive officer and founder of the global leadership academy",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland",
+          "paris, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2024-02",
+        "title": {
+          "name": "global head launch and commercialization excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france",
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2024-01",
+        "start_date": "2022-04",
+        "title": {
+          "name": "global head cit - accelerating our commercial innovation & transformation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2022-03",
+        "start_date": "2017-11",
+        "title": {
+          "name": "global head innovation & commercial transformation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2017-10",
+        "start_date": "2014-12",
+        "title": {
+          "name": "region europe head - respiratory / immunology / rare diseases",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2014-11",
+        "start_date": "2013-04",
+        "title": {
+          "name": "region europe director - respiratory / immunology / rare diseases",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2013-03",
+        "start_date": "2010-01",
+        "title": {
+          "name": "respiratory / immunology / rare diseases business bu head novartis",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2006",
+        "title": {
+          "name": "hospital sales & marketing manager - respiratory / immunology / rare diseases",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2006",
+        "start_date": "2005",
+        "title": {
+          "name": "marketing and alliance manager - psychiatry",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2005",
+        "start_date": "2004",
+        "title": {
+          "name": "general manager - spc thrombolytics",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2004",
+        "start_date": "2002",
+        "title": {
+          "name": "brand lead - hypertension",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2002",
+        "start_date": "1999",
+        "title": {
+          "name": "brand lead cardiovascular - plavix",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "1999",
+        "start_date": "1998",
+        "title": {
+          "name": "brand manager cardiovascular",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "agile21",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "academy of neuro - shine technology",
+          "type": "post-secondary institution",
+          "id": "CO7p2MmlBILSPu8NZ038PA_0000",
+          "location": {
+            "name": "miami, florida, united states",
+            "locality": "miami",
+            "region": "florida",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/academy-of-neuro-shine-technology",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1879780",
+          "website": "neuroshinetechnology.com",
+          "domain": "neuroshinetechnology.com"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "speaker skills academy",
+          "type": "post-secondary institution",
+          "id": "ik7Wmphpf7m4sdBEpODVHQ_0000",
+          "location": {
+            "name": "brooklyn, new york, united states",
+            "locality": "brooklyn",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/speaker-skills-academy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "103156741",
+          "website": "speakerskillsacademy.com",
+          "domain": "speakerskillsacademy.com"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "academy of neuro - shine technology",
+          "type": "post-secondary institution",
+          "id": "CO7p2MmlBILSPu8NZ038PA_0000",
+          "location": {
+            "name": "miami, florida, united states",
+            "locality": "miami",
+            "region": "florida",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/academy-of-neuro-shine-technology",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1879780",
+          "website": "neuroshinetechnology.com",
+          "domain": "neuroshinetechnology.com"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2021-01",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "speaker skills academy",
+          "type": "post-secondary institution",
+          "id": "ik7Wmphpf7m4sdBEpODVHQ_0000",
+          "location": {
+            "name": "brooklyn, new york, united states",
+            "locality": "brooklyn",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/speaker-skills-academy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "103156741",
+          "website": "speakerskillsacademy.com",
+          "domain": "speakerskillsacademy.com"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "international federation of coaching",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "neuro linguistic academy john grinder",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "nlp academy with founder of nlp himself john grinder",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2020-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tony robbins mastery university",
+          "type": "post-secondary institution",
+          "id": "tW8UmW1eurLzXJUBskCR4w_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tony-robbins-mastery-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11208106",
+          "website": "tonyrobbins.com",
+          "domain": "tonyrobbins.com"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tony robbins mastery university",
+          "type": "post-secondary institution",
+          "id": "tW8UmW1eurLzXJUBskCR4w_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tony-robbins-mastery-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11208106",
+          "website": "tonyrobbins.com",
+          "domain": "tonyrobbins.com"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tony robbins mastery university",
+          "type": "post-secondary institution",
+          "id": "tW8UmW1eurLzXJUBskCR4w_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tony-robbins-mastery-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11208106",
+          "website": "tonyrobbins.com",
+          "domain": "tonyrobbins.com"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2019",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "place ranker",
+          "type": "post-secondary institution",
+          "id": "hW8XCYw-ohCrMfcjzB5DuQ_0000",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/placeranker",
+          "facebook_url": "facebook.com/ueamazonas",
+          "twitter_url": "twitter.com/uea_amazonas",
+          "linkedin_id": "20487364",
+          "website": "placeranker.com",
+          "domain": "placeranker.com"
+        },
+        "degrees": [],
+        "start_date": "2015",
+        "end_date": "2015",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "place ranker",
+          "type": "post-secondary institution",
+          "id": "hW8XCYw-ohCrMfcjzB5DuQ_0000",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/placeranker",
+          "facebook_url": "facebook.com/ueamazonas",
+          "twitter_url": "twitter.com/uea_amazonas",
+          "linkedin_id": "20487364",
+          "website": "placeranker.com",
+          "domain": "placeranker.com"
+        },
+        "degrees": [],
+        "start_date": "2015-01",
+        "end_date": "2015-12",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the journey school",
+          "type": "secondary school",
+          "id": "bgW4g4pveY-BiBxRjQSq9Q_0000",
+          "location": {
+            "name": "st. paul, minnesota, united states",
+            "locality": "st. paul",
+            "region": "minnesota",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/the-journey-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "80700752",
+          "website": "thejourneyschool.org",
+          "domain": "thejourneyschool.org"
+        },
+        "degrees": [],
+        "start_date": "2014-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "católica lisbon school of business and economics",
+          "type": "post-secondary institution",
+          "id": "pxgrDMn985Rjlqxkr7HMcg_0000",
+          "location": {
+            "name": "lisboa, lisbon, portugal",
+            "locality": "lisboa",
+            "region": "lisbon",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/catolica-lisbon-school-of-business-and-economics",
+          "facebook_url": "facebook.com/universidadecatolicaportuguesaoficial",
+          "twitter_url": null,
+          "linkedin_id": "2289796",
+          "website": "clsbe.lisboa.ucp.pt",
+          "domain": "ucp.pt"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2012",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "glasgow caledonian university",
+          "type": "post-secondary institution",
+          "id": "QhYkPcmXOeHCCd9n3Czfnw_0000",
+          "location": {
+            "name": "glasgow, scotland, united kingdom",
+            "locality": "glasgow",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/glasgow-caledonian-university",
+          "facebook_url": "facebook.com/glasgowcaledonianuniversity",
+          "twitter_url": "twitter.com/gcutoday",
+          "linkedin_id": "19412",
+          "website": "gcu.ac.uk",
+          "domain": "gcu.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2012",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "chateney malabry’s university of paris",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1998-01",
+        "end_date": "1999",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "40791128",
+        "url": "linkedin.com/in/eva-martins-b887b111",
+        "username": "eva-martins-b887b111"
+      },
+      {
+        "network": "linkedin",
+        "id": "40791128",
+        "url": "linkedin.com/in/evamartinsme",
+        "username": "evamartinsme"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,221 @@
+{
+  "record_id": "speaker-viennacx-027",
+  "speaker_name": "Jürgen Benz",
+  "linkedin_url": "https://www.linkedin.com/in/jwgbentz/",
+  "likelihood": 9,
+  "full_name": "jürgen bentz",
+  "job_title": "senior director, global head of medical information",
+  "industry": "pharmaceuticals",
+  "current_company": "ucb",
+  "current_company_website": "ucb.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical chemistry",
+    "biotechnology",
+    "business strategy",
+    "change management",
+    "chemistry",
+    "clinical development",
+    "clinical trials",
+    "cross functional team leadership",
+    "english",
+    "global strategy",
+    "leadership",
+    "life sciences",
+    "management",
+    "medical affairs",
+    "medical information",
+    "medical writing",
+    "medicine",
+    "neurologie",
+    "neurology",
+    "oncology",
+    "onkologie",
+    "overseeing projects",
+    "peer beziehungen",
+    "pharmaceutical industry",
+    "pharmaceutical medicine",
+    "pharmacology",
+    "pharmacovigilance",
+    "product marketing",
+    "regulatory affairs",
+    "sustainability",
+    "sustainable product development",
+    "team leadership"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, global head of medical information",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "executive committee member for external affairs",
+      "company": "mile - medical information leaders in europe",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "program committee member of dia emeais medical information & communications conference",
+      "company": "dia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "work package co-lead",
+      "company": "gravitate-health",
+      "company_industry": "medical practice",
+      "start_date": "2019-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior director, global head of sustainability and medical established brands",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-05",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "director, global project leader and head of established brands, global medical affairs",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-10",
+      "end_date": "2013-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate director epilepsy, global medical affairs",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-05",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "associate director medical affairs cns, germany",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-08",
+      "end_date": "2007-04",
+      "is_primary": false
+    },
+    {
+      "title": "cns sales specialist",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2000-09",
+      "end_date": "2001-07",
+      "is_primary": false
+    },
+    {
+      "title": "clinical project manager",
+      "company": "yamanouchi pharmaceutical co",
+      "company_industry": "biotechnology",
+      "start_date": "1998-06",
+      "end_date": "2000-08",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative",
+      "company": "yamanouchi pharmaceutical co",
+      "company_industry": "biotechnology",
+      "start_date": "1997-04",
+      "end_date": "1998-06",
+      "is_primary": false
+    },
+    {
+      "title": "deputy editor-in-chief",
+      "company": "wiley",
+      "company_industry": "publishing",
+      "start_date": "1995-04",
+      "end_date": "1997-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of cambridge",
+      "majors": [
+        "leadership",
+        "sustainability"
+      ],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "université libre de bruxelles",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "the university of manchester",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1994-01",
+      "end_date": "1994-12"
+    },
+    {
+      "school": "the university of manchester",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1994-01",
+      "end_date": "1994-01"
+    },
+    {
+      "school": "karlsruhe institute of technology (kit)",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1993-01",
+      "end_date": "1995"
+    },
+    {
+      "school": "johannes gutenberg university mainz",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "1985-01",
+      "end_date": "1993"
+    },
+    {
+      "school": "rptu kaiserslautern - landau",
+      "majors": [
+        "chemistry"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1985-01",
+      "end_date": "1990-12"
+    }
+  ]
+}

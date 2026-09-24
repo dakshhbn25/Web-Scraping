@@ -1,0 +1,644 @@
+{
+  "record_id": "speaker-dubrovnik-006",
+  "speaker_name": "Jennifer Cleall",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/jennifercleall/",
+  "scraped_at": "2026-09-18T09:35:13.172779+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "rdc0G2bD2Ar-c7TsC2kz8g_0000",
+    "full_name": "jennifer cleall",
+    "first_name": "jennifer",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "cleall",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/jennifercleall",
+    "linkedin_username": "jennifercleall",
+    "linkedin_id": "69438335",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of digital transformation",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "0y7imC7B1UxpZSiXUlerpQE6L2Lq",
+    "job_company_name": "ferring pharmaceuticals",
+    "job_company_website": "ferring.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1950,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ferring-pharmaceuticals",
+    "job_company_linkedin_id": "163789",
+    "job_company_facebook_url": "facebook.com/ferringpharmaceuticals",
+    "job_company_twitter_url": "twitter.com/ferring",
+    "job_company_location_name": "saint-prex, vaud, switzerland",
+    "job_company_location_locality": "saint-prex",
+    "job_company_location_metro": null,
+    "job_company_location_region": "vaud",
+    "job_company_location_geo": "46.47,6.45",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "1162",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-04-01",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2025-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile",
+      "agile and waterfall methodologies",
+      "agile methodologies",
+      "ai governance",
+      "analytical skills",
+      "artificial intelligence",
+      "budgets",
+      "business analysis",
+      "business development",
+      "business intelligence",
+      "business process",
+      "business process improvement",
+      "business strategy",
+      "business transformation",
+      "change control",
+      "change management",
+      "clinical development",
+      "collaborative problem solving",
+      "communication",
+      "compliance",
+      "consulting",
+      "consumer healthcare",
+      "cross functional team leadership",
+      "culture change",
+      "customer experience",
+      "customer relationship management",
+      "data",
+      "data architecture",
+      "data center",
+      "dependency management",
+      "digital health",
+      "digital strategy",
+      "digital transformation",
+      "disaster recovery",
+      "enterprise architecture",
+      "enterprise systems implementation",
+      "gxp",
+      "health promotion",
+      "healthcare",
+      "healthcare compliance",
+      "healthcare consulting",
+      "healthcare information technology",
+      "healthcare management",
+      "hr consulting",
+      "human resources information systems",
+      "information security",
+      "information technology",
+      "integration",
+      "it consulting",
+      "it enabled business transformation",
+      "it management",
+      "it operations",
+      "it outsourcing",
+      "it service management",
+      "it strategy",
+      "itil",
+      "key performance indicators",
+      "leadership",
+      "leadership development",
+      "life sciences",
+      "management",
+      "organizational culture",
+      "outsourcing",
+      "patient safety",
+      "pharmaceutical industry",
+      "pharmacovigilance",
+      "primary care",
+      "problem solving",
+      "process improvement",
+      "product delivery",
+      "program management",
+      "programmes",
+      "project delivery",
+      "project management",
+      "project portfolio management",
+      "public speaking",
+      "regulatory affairs",
+      "salesforce.com",
+      "sdlc",
+      "stakeholder management",
+      "strategic communications",
+      "strategic it management",
+      "strategic leadership",
+      "strategic vision",
+      "strategic visionary",
+      "strategy",
+      "telecommunications",
+      "user experience",
+      "user personas",
+      "value driven",
+      "vendor management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ferring pharmaceuticals",
+          "size": "5001-10000",
+          "id": "0y7imC7B1UxpZSiXUlerpQE6L2Lq",
+          "founded": 1950,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "saint-prex, vaud, switzerland",
+            "locality": "saint-prex",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1162",
+            "geo": "46.47,6.45"
+          },
+          "linkedin_url": "linkedin.com/company/ferring-pharmaceuticals",
+          "linkedin_id": "163789",
+          "facebook_url": "facebook.com/ferringpharmaceuticals",
+          "twitter_url": "twitter.com/ferring",
+          "website": "ferring.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-03",
+        "title": {
+          "name": "global head of digital transformation",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "cleall digital consultancy",
+          "size": "1-10",
+          "id": "ph4NO92Td8qRVT1BAfBerQaaQdkH",
+          "founded": 2024,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/cleall-digital-consultancy",
+          "linkedin_id": "106174754",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2025-03",
+        "start_date": "2024-10",
+        "title": {
+          "name": "managing director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "salesforce",
+          "size": "10001+",
+          "id": "es7LgyqRNsFDLcWXC3WAvACHVh9g",
+          "founded": 1996,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "san francisco, california, united states",
+            "locality": "san francisco",
+            "region": "california",
+            "metro": "san francisco, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "94105",
+            "geo": "37.76,-122.42"
+          },
+          "linkedin_url": "linkedin.com/company/salesforce",
+          "linkedin_id": "3185",
+          "facebook_url": "facebook.com/salesforce",
+          "twitter_url": "twitter.com/salesforce",
+          "website": "salesforce.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2022-05",
+        "title": {
+          "name": "regional vice president - strategic industry advisor, health & life sciences",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-05",
+        "start_date": "2019-04",
+        "title": {
+          "name": "director - commercial it",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2019-04",
+        "start_date": "2015-07",
+        "title": {
+          "name": "global hcp meeting services, travel & expense, & agile strategy transformation",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2015-07",
+        "start_date": "2012-12",
+        "title": {
+          "name": "global services it",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2012-12",
+        "start_date": "2005-04",
+        "title": {
+          "name": "global network services it",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2005-03",
+        "start_date": "2001-02",
+        "title": {
+          "name": "corporate strategy, business development innovation it",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "american management systems",
+          "size": "10001+",
+          "id": "TzPUbkMmBfWhndkfW22jEAvEnvd3",
+          "founded": 1970,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "fairfax, virginia, united states",
+            "locality": "fairfax",
+            "region": "virginia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "38.85,-77.34"
+          },
+          "linkedin_url": "linkedin.com/company/american-management-systems-va",
+          "linkedin_id": "72771747",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "en.wikipedia.org/wiki/american_management_systems"
+        },
+        "location_names": [],
+        "end_date": "2001-01",
+        "start_date": "1997-07",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard medical school",
+          "type": "post-secondary institution",
+          "id": "wf6icMSOgHnY3ffQbSarUg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-medical-school",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1645",
+          "website": "hms.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-03",
+        "end_date": "2025-11",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard medical school",
+          "type": "post-secondary institution",
+          "id": "wf6icMSOgHnY3ffQbSarUg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-medical-school",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1645",
+          "website": "hms.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2024-06",
+        "end_date": "2025-02",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "depauw university",
+          "type": "post-secondary institution",
+          "id": "54ligByuJAyau4dKcKWv0g_0000",
+          "location": {
+            "name": "greencastle, indiana, united states",
+            "locality": "greencastle",
+            "region": "indiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/depauw-university",
+          "facebook_url": "facebook.com/depauwuniversity",
+          "twitter_url": "twitter.com/depauwu",
+          "linkedin_id": "19333",
+          "website": "depauw.edu",
+          "domain": "depauw.edu"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1993-01",
+        "end_date": "1997",
+        "majors": [
+          "computer science",
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "69438335",
+        "url": "linkedin.com/in/jennifercleall",
+        "username": "jennifercleall"
+      },
+      {
+        "network": "linkedin",
+        "id": "69438335",
+        "url": "linkedin.com/in/jennifer-cleall-27b3081b",
+        "username": "jennifer-cleall-27b3081b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,230 @@
+{
+  "record_id": "speaker-dubrovnik-020",
+  "speaker_name": "Imma Arco",
+  "linkedin_url": "https://www.linkedin.com/in/imma-arco-60846759/",
+  "likelihood": 9,
+  "full_name": "imma arco",
+  "job_title": "associate director, customer strategy and operational excellence, europe & international",
+  "industry": "pharmaceuticals",
+  "current_company": "jazz pharmaceuticals",
+  "current_company_website": "jazzpharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "agile project management",
+    "amministrazione di salesforce.com",
+    "analytical skills",
+    "biotecnologia",
+    "budgeting",
+    "chimica organica",
+    "communication",
+    "cromatografia",
+    "dissolution testing",
+    "empower",
+    "english",
+    "gascromatografia",
+    "gestione team cross functional",
+    "gmp",
+    "health",
+    "hplc",
+    "industria farmaceutica",
+    "interpersonal skills",
+    "ir",
+    "languiges",
+    "leadership",
+    "lims",
+    "lingua inglese",
+    "management",
+    "marketing",
+    "marketing strategy",
+    "microsoft office",
+    "microsoft project",
+    "negotiation",
+    "negoziazione contratti",
+    "norme di buona fabbricazione",
+    "pharma",
+    "pharmaceutical industry",
+    "phmetro",
+    "problem solving",
+    "product launch",
+    "product management",
+    "program management",
+    "project delivery",
+    "project management",
+    "ricerca",
+    "salesforce.com",
+    "scienze naturali",
+    "sop",
+    "stesura di proposte",
+    "strategy",
+    "team building",
+    "team leadership",
+    "team management",
+    "team work",
+    "teamwork",
+    "tlc",
+    "trade marketing",
+    "uplc",
+    "uv vis",
+    "uv/vis"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "associate director, customer strategy and operational excellence, europe & international",
+      "company": "jazz pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior marketing manager, uk & ireland",
+      "company": "jazz pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": "2025-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior marketing manager, european regional markets",
+      "company": "gw pharmaceuticals plc",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-12",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior commercialisation manager , international markets",
+      "company": "gw pharmaceuticals plc",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-07",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "commercialization manager, international markets",
+      "company": "gw pharmaceuticals plc",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-10",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "international commercialization program manager",
+      "company": "gw pharmaceuticals plc",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-05",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "commercial and trade marketing manager, uk & ireland",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-03",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "project manager, pmo & strategy department, vaccines",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "project management & business support scientist",
+      "company": "patheon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "operational excellence project (opex) lead",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-07",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "chemical analyst quality control",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-09",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacist",
+      "company": "pharmacy",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-03",
+      "end_date": "2013-08",
+      "is_primary": false
+    },
+    {
+      "title": "internship-quality control",
+      "company": "farmaceutici damor s.p.a.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2013-03",
+      "is_primary": false
+    },
+    {
+      "title": "researcher organic chemistry",
+      "company": "cnrs",
+      "company_industry": "research",
+      "start_date": "2011-09",
+      "end_date": "2012-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "luiss business school",
+      "majors": [
+        "pharmaceutical administration"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "inrs - institut national de la recherche scientifique",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012-12"
+    },
+    {
+      "school": "inrs - institut national de la recherche scientifique",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012-01"
+    },
+    {
+      "school": "università degli studi di napoli federico ii",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "sorbonne universite",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

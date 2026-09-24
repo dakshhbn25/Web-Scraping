@@ -1,0 +1,121 @@
+{
+  "record_id": "speaker-dubrovnik-010",
+  "speaker_name": "Dave Yates",
+  "linkedin_url": "https://www.linkedin.com/in/dave-yates-50872964/",
+  "likelihood": 9,
+  "full_name": "dave yates",
+  "job_title": "global director: field experience & ai solutions",
+  "industry": "pharmaceuticals",
+  "current_company": "gsk",
+  "current_company_website": "gsk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "change management",
+    "consulting",
+    "customer experience",
+    "customer service",
+    "digital transformation",
+    "health outcomes",
+    "healthcare",
+    "market access",
+    "microsoft office",
+    "new business development",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "process improvement",
+    "product management",
+    "project management",
+    "sales",
+    "sales effectiveness",
+    "storytelling"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global director: field experience & ai solutions",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director global product management",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "director, customer experience",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, evolving customers",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-07",
+      "end_date": "2018-07",
+      "is_primary": false
+    },
+    {
+      "title": "regional sales manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-09",
+      "end_date": "2016-07",
+      "is_primary": false
+    },
+    {
+      "title": "health outcomes consultant",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-11",
+      "end_date": "2015-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the university of western australia",
+      "majors": [],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "university of wales institute cardiff",
+      "majors": [
+        "exercise science"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2000",
+      "end_date": "2003"
+    },
+    {
+      "school": "university of wales",
+      "majors": [
+        "exercise science"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2003"
+    }
+  ]
+}

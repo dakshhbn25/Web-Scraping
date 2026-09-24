@@ -1,0 +1,697 @@
+{
+  "record_id": "speaker-dubrovnik-103",
+  "speaker_name": "Klas Eriksson",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/klaseriksson/",
+  "scraped_at": "2026-09-18T09:38:44.793250+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "LPGX2evx-WStRFByoLYG2g_0000",
+    "full_name": "klas eriksson",
+    "first_name": "klas",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "eriksson",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/klaseriksson",
+    "linkedin_username": "klaseriksson",
+    "linkedin_id": "1055455",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "management consulting",
+    "job_title": "principal",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+    "job_company_name": "axtria - ingenious insights",
+    "job_company_website": "axtria.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 2010,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/axtria",
+    "job_company_linkedin_id": "789643",
+    "job_company_facebook_url": "facebook.com/axtriainc",
+    "job_company_twitter_url": "twitter.com/axtriaconnect",
+    "job_company_location_name": "berkeley heights, new jersey, united states",
+    "job_company_location_locality": "berkeley heights",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.67,-74.42",
+    "job_company_location_street_address": "300 connell drive",
+    "job_company_location_address_line_2": "suite 1300 5th floor",
+    "job_company_location_postal_code": "07922",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2022-08-27",
+    "job_last_verified": "2026-08-24",
+    "job_start_date": "2022-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-24",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "analysis",
+      "analytics",
+      "business analysis",
+      "business development",
+      "business intelligence",
+      "business planning",
+      "business strategy",
+      "change management",
+      "coaching",
+      "consulting",
+      "cross functional team leadership",
+      "customer insight",
+      "customer relationship management",
+      "data analytics",
+      "digital strategy",
+      "financial services",
+      "integration",
+      "leadership",
+      "lifesciences",
+      "management",
+      "management consulting",
+      "multilingual",
+      "project management",
+      "sales",
+      "sales effectiveness",
+      "sales force effectiveness",
+      "sales management",
+      "sales operations",
+      "segmentation",
+      "start ups",
+      "strategy",
+      "telecommunications"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "axtria - ingenious insights",
+          "size": "1001-5000",
+          "id": "B8MBHEV8iXQd8zFyXmC8wgqYWkMm",
+          "founded": 2010,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "berkeley heights, new jersey, united states",
+            "locality": "berkeley heights",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 connell drive",
+            "address_line_2": "suite 1300 5th floor",
+            "postal_code": "07922",
+            "geo": "40.67,-74.42"
+          },
+          "linkedin_url": "linkedin.com/company/axtria",
+          "linkedin_id": "789643",
+          "facebook_url": "facebook.com/axtriainc",
+          "twitter_url": "twitter.com/axtriaconnect",
+          "website": "axtria.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2022-08",
+        "title": {
+          "name": "principal",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2019-07",
+        "title": {
+          "name": "global head of scaled analytic solutions",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "first data corporation",
+          "size": "10001+",
+          "id": "LAb1eHrLwd7YhCnip5TyRAGKoDSX",
+          "founded": 1984,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "brookfield, wisconsin, united states",
+            "locality": "brookfield",
+            "region": "wisconsin",
+            "metro": "milwaukee, wisconsin",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "53045",
+            "geo": "43.06,-88.11"
+          },
+          "linkedin_url": "linkedin.com/company/first-data-corporation",
+          "linkedin_id": "2020",
+          "facebook_url": "facebook.com/firstdata",
+          "twitter_url": "twitter.com/firstdata",
+          "website": "firstdata.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-01",
+        "start_date": "2014-07",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cognizant",
+          "size": "10001+",
+          "id": "2JEEUhQ7VYi8SEwitnXqQAREfk8j",
+          "founded": 1994,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "teaneck, new jersey, united states",
+            "locality": "teaneck",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 frank west burr boulevard",
+            "address_line_2": "suite 600",
+            "postal_code": "07666",
+            "geo": "40.88,-74.01"
+          },
+          "linkedin_url": "linkedin.com/company/cognizant",
+          "linkedin_id": "1680",
+          "facebook_url": "facebook.com/cognizant",
+          "twitter_url": "twitter.com/cognizant",
+          "website": "cognizant.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-07",
+        "start_date": "2013-07",
+        "title": {
+          "name": "principal / director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cognizant",
+          "size": "10001+",
+          "id": "2JEEUhQ7VYi8SEwitnXqQAREfk8j",
+          "founded": 1994,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "teaneck, new jersey, united states",
+            "locality": "teaneck",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "300 frank west burr boulevard",
+            "address_line_2": "suite 600",
+            "postal_code": "07666",
+            "geo": "40.88,-74.01"
+          },
+          "linkedin_url": "linkedin.com/company/cognizant",
+          "linkedin_id": "1680",
+          "facebook_url": "facebook.com/cognizant",
+          "twitter_url": "twitter.com/cognizant",
+          "website": "cognizant.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2013-06",
+        "start_date": "2008-10",
+        "title": {
+          "name": "associate principal / director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ascade",
+          "size": "51-200",
+          "id": "Y8CNJGWFXwGiXJD45Mugngt2NRSK",
+          "founded": 1997,
+          "industry": "telecommunications",
+          "industry_v2": null,
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "29 söder mälarstrand",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/ascade",
+          "linkedin_id": "19147",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ascadenews",
+          "website": "ascade.com"
+        },
+        "location_names": [],
+        "end_date": "2008-10",
+        "start_date": "2007-03",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "general wireless",
+          "size": "11-50",
+          "id": "oFWDABcfZAcC7vM5jjRHBQyklFSL",
+          "founded": null,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "sweden",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/general-wireless",
+          "linkedin_id": "29504",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2007-03",
+        "start_date": "2004-10",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zs",
+          "size": "10001+",
+          "id": "9PBvvCp43Iy4sWR8ABlwtwf0VXJh",
+          "founded": 1983,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1560 sherman avenue",
+            "address_line_2": null,
+            "postal_code": "60201",
+            "geo": "42.04,-87.68"
+          },
+          "linkedin_url": "linkedin.com/company/zs-associates",
+          "linkedin_id": "5240",
+          "facebook_url": "facebook.com/zsassociates",
+          "twitter_url": "twitter.com/zsassociates",
+          "website": "zs.com"
+        },
+        "location_names": [],
+        "end_date": "2004-07",
+        "start_date": "2002-09",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alice systems",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2001-09",
+        "start_date": "2000-09",
+        "title": {
+          "name": "account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ericsson",
+          "size": "10001+",
+          "id": "pkCyfntLyl1PMMBQfFmWkwOShnvX",
+          "founded": 1876,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "kista, stockholm, sweden",
+            "locality": "kista",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "21 torshamnsgatan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.42,17.92"
+          },
+          "linkedin_url": "linkedin.com/company/ericsson",
+          "linkedin_id": "1060",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ericssonpress",
+          "website": "ericsson.com"
+        },
+        "location_names": [],
+        "end_date": "2000-06",
+        "start_date": "1999-03",
+        "title": {
+          "name": "marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ericsson",
+          "size": "10001+",
+          "id": "pkCyfntLyl1PMMBQfFmWkwOShnvX",
+          "founded": 1876,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "kista, stockholm, sweden",
+            "locality": "kista",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "21 torshamnsgatan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.42,17.92"
+          },
+          "linkedin_url": "linkedin.com/company/ericsson",
+          "linkedin_id": "1060",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ericssonpress",
+          "website": "ericsson.com"
+        },
+        "location_names": [],
+        "end_date": "1999-03",
+        "start_date": "1996-08",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ericsson",
+          "size": "10001+",
+          "id": "pkCyfntLyl1PMMBQfFmWkwOShnvX",
+          "founded": 1876,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "kista, stockholm, sweden",
+            "locality": "kista",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "21 torshamnsgatan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.42,17.92"
+          },
+          "linkedin_url": "linkedin.com/company/ericsson",
+          "linkedin_id": "1060",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/ericssonpress",
+          "website": "ericsson.com"
+        },
+        "location_names": [],
+        "end_date": "1996-08",
+        "start_date": "1995-04",
+        "title": {
+          "name": "integration & verification engineer",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ace interactive",
+          "size": "11-50",
+          "id": "ABlrFOIJYqAZ8rMOyNMEwgeDavHB",
+          "founded": 2003,
+          "industry": "gambling & casinos",
+          "industry_v2": "gambling facilities and casinos",
+          "location": {
+            "name": "stockholm, sweden",
+            "locality": null,
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ace-interactive",
+          "linkedin_id": "11012",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aceinteractive.net"
+        },
+        "location_names": [],
+        "end_date": "1995-04",
+        "start_date": "1992-10",
+        "title": {
+          "name": "project manager / software engineer",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of cambridge",
+          "type": "post-secondary institution",
+          "id": "8RCjJr5pmaBeuOcALAzkTQ_0000",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-cambridge",
+          "facebook_url": "facebook.com/cambridge.university",
+          "twitter_url": "twitter.com/cambridge_uni",
+          "linkedin_id": "4522",
+          "website": "cam.ac.uk",
+          "domain": "cam.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2002",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kth royal institute of technology",
+          "type": "post-secondary institution",
+          "id": "CEr9kTqx5upYuMpz9stBpg_0000",
+          "location": {
+            "name": "stockholm, sweden",
+            "locality": null,
+            "region": "stockholm",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kth",
+          "facebook_url": "facebook.com/kth",
+          "twitter_url": null,
+          "linkedin_id": "4814",
+          "website": "kth.se",
+          "domain": "kth.se"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1988-08",
+        "end_date": "1992-07",
+        "majors": [
+          "mechanical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "1055455",
+        "url": "linkedin.com/in/klaseriksson",
+        "username": "klaseriksson"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

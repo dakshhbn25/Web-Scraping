@@ -1,0 +1,838 @@
+{
+  "record_id": "speaker-dubrovnik-124",
+  "speaker_name": "Yacin Marzouki",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/yacin-m-customerengagement/",
+  "scraped_at": "2026-09-18T10:22:54.932199+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "PFHGf2rSx63P0df6daK1ow_0000",
+    "full_name": "yacin marzouki",
+    "first_name": "yacin",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "marzouki",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/yacin-m-customerengagement",
+    "linkedin_username": "yacin-m-customerengagement",
+    "linkedin_id": "722132460",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "international speaker & thought leader in omnichannel engagement",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "2KdLLCYUXObvrCGRfyC3PQAgpMJ1",
+    "job_company_name": "international keynote speaker",
+    "job_company_website": null,
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": "international trade and development",
+    "job_company_industry_v2": "international trade and development",
+    "job_company_linkedin_url": "linkedin.com/company/international-keynote-speaker",
+    "job_company_linkedin_id": "378097",
+    "job_company_facebook_url": "facebook.com/deborah.swallow",
+    "job_company_twitter_url": "twitter.com/deborahswallow",
+    "job_company_location_name": "united kingdom",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-01-16",
+    "job_last_verified": "2026-07-25",
+    "job_start_date": "2025-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-25",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "5s",
+      "artificial intelligence",
+      "change management",
+      "collaborative problem solving",
+      "event planning",
+      "injection molding",
+      "leadership",
+      "lean manufacturing",
+      "manufacture",
+      "marketing strategy",
+      "operational excellence",
+      "presentation skills",
+      "project management",
+      "project planning",
+      "public speaking",
+      "risk assessment",
+      "risk management",
+      "strategy",
+      "supply chain management",
+      "team management",
+      "toyota production system"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "international keynote speaker",
+          "size": "1-10",
+          "id": "2KdLLCYUXObvrCGRfyC3PQAgpMJ1",
+          "founded": null,
+          "industry": "international trade and development",
+          "industry_v2": "international trade and development",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/international-keynote-speaker",
+          "linkedin_id": "378097",
+          "facebook_url": "facebook.com/deborah.swallow",
+          "twitter_url": "twitter.com/deborahswallow",
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-02",
+        "title": {
+          "name": "international speaker & thought leader in omnichannel engagement",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "biond health",
+          "size": "1-10",
+          "id": "MDgh0rlC95wsdGyaVImN4QtJpoU2",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, belgium",
+            "locality": null,
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/biondhealth",
+          "linkedin_id": "110448557",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "biond.health"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "founder | independent pharma advisor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alfasigma",
+          "size": "1001-5000",
+          "id": "8ICAZDFWmaxC1vByH3sr3gMBDKDv",
+          "founded": 2015,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bologna, emilia-romagna, italy",
+            "locality": "bologna",
+            "region": "emilia-romagna",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "n.5 viaduct ragazzi del '99",
+            "address_line_2": null,
+            "postal_code": "40133",
+            "geo": "44.49,11.33"
+          },
+          "linkedin_url": "linkedin.com/company/alfasigma",
+          "linkedin_id": "15237078",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "alfasigma.com"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2025-12",
+        "start_date": "2024-02",
+        "title": {
+          "name": "global director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2024-02",
+        "start_date": "2023-04",
+        "title": {
+          "name": "associate director, campaign & event lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2023-04",
+        "start_date": "2022-07",
+        "title": {
+          "name": "event & campaign lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kronos by epsa",
+          "size": "51-200",
+          "id": "IGGzThexPOKCIYVY86l7Dw6v0N2N",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "1 ikaroslaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/kronosbyepsa",
+          "linkedin_id": "2452794",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kronos_group",
+          "website": "kronosgroup.eu"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2022-07",
+        "start_date": "2022-01",
+        "title": {
+          "name": "senior manager, project management practice",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kronos by epsa",
+          "size": "51-200",
+          "id": "IGGzThexPOKCIYVY86l7Dw6v0N2N",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "1 ikaroslaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/kronosbyepsa",
+          "linkedin_id": "2452794",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kronos_group",
+          "website": "kronosgroup.eu"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2022-03",
+        "start_date": "2020-11",
+        "title": {
+          "name": "delivery & expertise manager, project manager consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kronos by epsa",
+          "size": "51-200",
+          "id": "IGGzThexPOKCIYVY86l7Dw6v0N2N",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "1 ikaroslaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/kronosbyepsa",
+          "linkedin_id": "2452794",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kronos_group",
+          "website": "kronosgroup.eu"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2022-07",
+        "start_date": "2020-06",
+        "title": {
+          "name": "program manager consultant life science (biotechnology)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2022-06",
+        "start_date": "2020-06",
+        "title": {
+          "name": "omnichannel manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kronos by epsa",
+          "size": "51-200",
+          "id": "IGGzThexPOKCIYVY86l7Dw6v0N2N",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "1 ikaroslaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/kronosbyepsa",
+          "linkedin_id": "2452794",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kronos_group",
+          "website": "kronosgroup.eu"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-11",
+        "start_date": "2019-08",
+        "title": {
+          "name": "project management consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2019-08",
+        "title": {
+          "name": "project manager vaccines",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kronos by epsa",
+          "size": "51-200",
+          "id": "IGGzThexPOKCIYVY86l7Dw6v0N2N",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "zaventem, flanders, belgium",
+            "locality": "zaventem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "1 ikaroslaan",
+            "address_line_2": null,
+            "postal_code": "1930",
+            "geo": "50.87,4.46"
+          },
+          "linkedin_url": "linkedin.com/company/kronosbyepsa",
+          "linkedin_id": "2452794",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kronos_group",
+          "website": "kronosgroup.eu"
+        },
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2019-08",
+        "title": {
+          "name": "project manager consultant life science (vaccines)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "toyota boshoku europe n.v.",
+          "size": "51-200",
+          "id": "yoBUgaDu2QhoNrlRzWhTEgv46fP9",
+          "founded": 2005,
+          "industry": "automotive",
+          "industry_v2": "motor vehicle manufacturing",
+          "location": {
+            "name": "belgium",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/toyota-boshoku-europe-nv",
+          "linkedin_id": "900415",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "toyota-boshoku.be"
+        },
+        "location_names": [
+          "faubourg de bruxelles, wallonia, belgium"
+        ],
+        "end_date": "2019-08",
+        "start_date": "2018-01",
+        "title": {
+          "name": "project and planning management specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "toyota boshoku europe n.v.",
+          "size": "51-200",
+          "id": "yoBUgaDu2QhoNrlRzWhTEgv46fP9",
+          "founded": 2005,
+          "industry": "automotive",
+          "industry_v2": "motor vehicle manufacturing",
+          "location": {
+            "name": "belgium",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/toyota-boshoku-europe-nv",
+          "linkedin_id": "900415",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "toyota-boshoku.be"
+        },
+        "location_names": [
+          "faubourg de bruxelles, wallonia, belgium"
+        ],
+        "end_date": "2018-01",
+        "start_date": "2015-05",
+        "title": {
+          "name": "project and planning managment engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "toyota boshoku europe n.v.",
+          "size": "51-200",
+          "id": "yoBUgaDu2QhoNrlRzWhTEgv46fP9",
+          "founded": 2005,
+          "industry": "automotive",
+          "industry_v2": "motor vehicle manufacturing",
+          "location": {
+            "name": "belgium",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/toyota-boshoku-europe-nv",
+          "linkedin_id": "900415",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "toyota-boshoku.be"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2015-03",
+        "start_date": "2014-10",
+        "title": {
+          "name": "purchasing intern",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": "procurement",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gävle kommun",
+          "size": "5001-10000",
+          "id": "Z54U3wyVJhSBM8yaE5vJ8A488Xgo",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "gävle, gävleborg, sweden",
+            "locality": "gävle",
+            "region": "gävleborg",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "22 drottninggatan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "60.67,17.14"
+          },
+          "linkedin_url": "linkedin.com/company/gavle-kommun",
+          "linkedin_id": "74825",
+          "facebook_url": "facebook.com/gavlekommun",
+          "twitter_url": null,
+          "website": "gavle.se"
+        },
+        "location_names": [
+          "gävle, gävleborg, sweden"
+        ],
+        "end_date": "2014-06",
+        "start_date": "2014-01",
+        "title": {
+          "name": "internship trainee",
+          "class": "services",
+          "role": "public_service",
+          "sub_role": "political",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of gävle",
+          "type": "post-secondary institution",
+          "id": "2BQVO0gbbZZzoaJhsmucBA_0000",
+          "location": {
+            "name": "gävle, gävleborg, sweden",
+            "locality": "gävle",
+            "region": "gävleborg",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/h-gskolan-i-g-vle",
+          "facebook_url": "facebook.com/hogskolanigavle",
+          "twitter_url": "twitter.com/higaktuellt",
+          "linkedin_id": "1282383",
+          "website": "hig.se",
+          "domain": "hig.se"
+        },
+        "degrees": [],
+        "start_date": "2014-01",
+        "end_date": "2014",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hub - kubrussel",
+          "type": "post-secondary institution",
+          "id": "ovT9fNxz3aFipfaQiU7qWQ_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/hub-kubrussel",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15128847",
+          "website": "hubrussel.be",
+          "domain": "hubrussel.be"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2014-12",
+        "majors": [
+          "business management",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "722132460",
+        "url": "linkedin.com/in/yacin-m-customerengagement",
+        "username": "yacin-m-customerengagement"
+      },
+      {
+        "network": "linkedin",
+        "id": "722132460",
+        "url": "linkedin.com/in/yacin-m-projectmanager",
+        "username": "yacin-m-projectmanager"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

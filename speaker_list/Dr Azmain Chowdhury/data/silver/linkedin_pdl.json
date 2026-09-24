@@ -1,0 +1,142 @@
+{
+  "record_id": "speaker-viennacx-059",
+  "speaker_name": "Dr Azmain Chowdhury",
+  "linkedin_url": "https://www.linkedin.com/in/doctorazmain/",
+  "likelihood": 9,
+  "full_name": "azmain chowdhury",
+  "job_title": "co-founder",
+  "industry": "internet",
+  "current_company": "social media medics",
+  "current_company_website": "thesocialmediamedics.com",
+  "current_company_industry": "internet",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "community building",
+    "content strategy",
+    "copywriting",
+    "graphic design",
+    "health education",
+    "interviewing",
+    "medical education",
+    "online content creation",
+    "public health education",
+    "social media",
+    "social media marketing",
+    "social media strategy",
+    "statistical data analysis",
+    "strategic partnerships",
+    "video editing",
+    "video podcasts",
+    "video production"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "co-founder",
+      "company": "social media medics",
+      "company_industry": "internet",
+      "start_date": "2022-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "160,000+ followers | clinician creator & medical educator",
+      "company": "tiktok",
+      "company_industry": "entertainment",
+      "start_date": "2022-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "clinician creator & medical educator | 500,000+ followers on social media",
+      "company": "doctor azmain ltd",
+      "company_industry": null,
+      "start_date": "2021-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "50,000+ subscribers | clinician creator & medical educator",
+      "company": "youtube",
+      "company_industry": "internet",
+      "start_date": "2021-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "290,000+ followers | clinician creator & medical educator",
+      "company": "instagram",
+      "company_industry": "computer software",
+      "start_date": "2020-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "medical doctor",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2020-07",
+      "end_date": null,
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of warwick",
+      "majors": [
+        "education",
+        "healthcare"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2023-05",
+      "end_date": "2025"
+    },
+    {
+      "school": "harvard business school",
+      "majors": [
+        "health care",
+        "public health"
+      ],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "ucl",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "2014-09",
+      "end_date": "2020-04"
+    },
+    {
+      "school": "ucl",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2014-09",
+      "end_date": "2017"
+    },
+    {
+      "school": "westminster school, london",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-09",
+      "end_date": "2014-08"
+    }
+  ]
+}

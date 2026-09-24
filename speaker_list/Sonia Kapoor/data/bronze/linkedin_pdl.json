@@ -1,0 +1,524 @@
+{
+  "record_id": "speaker-dubrovnik-051",
+  "speaker_name": "Sonia Kapoor",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/sonia-kapoor-9216179/",
+  "scraped_at": "2026-09-18T09:36:53.710949+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "xWjqbG4n-2Y5HPcIL7mmpg_0000",
+    "full_name": "sonia kapoor",
+    "first_name": "sonia",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "kapoor",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/sonia-kapoor-9216179",
+    "linkedin_username": "sonia-kapoor-9216179",
+    "linkedin_id": "28401001",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "consumer goods",
+    "job_title": "chief marketing officer, co-founder",
+    "job_title_role": "marketing",
+    "job_title_sub_role": null,
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "8CozPFAFUmnsgwhI31i1AwCRrgB6",
+    "job_company_name": "fortal",
+    "job_company_website": "fortalvidros.com.br",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": "linkedin.com/company/fortal",
+    "job_company_linkedin_id": "6994139",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "brazil",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "brazil",
+    "job_company_location_continent": "south america",
+    "job_last_changed": "2026-06-04",
+    "job_last_verified": "2026-08-20",
+    "job_start_date": "2026-05",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united arab emirates",
+    "location_continent": "asia",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-08-20",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "brand building",
+      "brand development",
+      "brand equity",
+      "brand management",
+      "btl activations",
+      "business development",
+      "business strategy",
+      "competitive analysis",
+      "consumer behaviour",
+      "customer insight",
+      "data driven marketing",
+      "digital commerce",
+      "digital marketing",
+      "e commerce",
+      "fast moving consumer goods",
+      "fmcg",
+      "growth strategy",
+      "integrated campaign planning",
+      "management",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing mix development",
+      "marketing research",
+      "marketing strategy",
+      "p&l management",
+      "performance marketing",
+      "product development",
+      "roi management",
+      "strategic brand positioning",
+      "team leadership",
+      "team management",
+      "trade marketing"
+    ],
+    "location_names": false,
+    "regions": true,
+    "countries": [
+      "united arab emirates"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "fortal",
+          "size": "1-10",
+          "id": "8CozPFAFUmnsgwhI31i1AwCRrgB6",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "brazil",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/fortal",
+          "linkedin_id": "6994139",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "fortalvidros.com.br"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-05",
+        "title": {
+          "name": "chief marketing officer, co-founder",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2026-03",
+        "start_date": "2024-04",
+        "title": {
+          "name": "head of omnichannel",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2024-04",
+        "start_date": "2022-07",
+        "title": {
+          "name": "head of digital marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2022-07",
+        "start_date": "2019-01",
+        "title": {
+          "name": "u studio & digital marketing leader",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2019-01",
+        "start_date": "2017-01",
+        "title": {
+          "name": "brand marketing & business unit p & l senior manager, beauty & personal care",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [],
+        "end_date": "2017-01",
+        "start_date": "2014-09",
+        "title": {
+          "name": "global brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unilever",
+          "size": "10001+",
+          "id": "34xfZ363o8JiC0StuwJOVQ2pizC6",
+          "founded": 1872,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "100 victoria embankment",
+            "address_line_2": null,
+            "postal_code": "ec4y 0dy",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/unilever",
+          "linkedin_id": "1248",
+          "facebook_url": "facebook.com/hindustanunileverlimited",
+          "twitter_url": "twitter.com/unilever",
+          "website": "unilever.com"
+        },
+        "location_names": [
+          "mumbai, maharashtra, india"
+        ],
+        "end_date": "2014-09",
+        "start_date": "2011-06",
+        "title": {
+          "name": "brand development, lifebuoy global",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sc johnson",
+          "size": "10001+",
+          "id": "Kum8m06p1SRUWUFAm9BepQp3w7pU",
+          "founded": 1886,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "racine, wisconsin, united states",
+            "locality": "racine",
+            "region": "wisconsin",
+            "metro": "racine, wisconsin",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1525 howe street",
+            "address_line_2": null,
+            "postal_code": "53403",
+            "geo": "42.73,-87.81"
+          },
+          "linkedin_url": "linkedin.com/company/scjohnson",
+          "linkedin_id": "4039",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "scjohnson.com"
+        },
+        "location_names": [],
+        "end_date": "2011-07",
+        "start_date": "2010-03",
+        "title": {
+          "name": "brand manager- air care",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sc johnson",
+          "size": "10001+",
+          "id": "Kum8m06p1SRUWUFAm9BepQp3w7pU",
+          "founded": 1886,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "racine, wisconsin, united states",
+            "locality": "racine",
+            "region": "wisconsin",
+            "metro": "racine, wisconsin",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1525 howe street",
+            "address_line_2": null,
+            "postal_code": "53403",
+            "geo": "42.73,-87.81"
+          },
+          "linkedin_url": "linkedin.com/company/scjohnson",
+          "linkedin_id": "4039",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "scjohnson.com"
+        },
+        "location_names": [],
+        "end_date": "2010-03",
+        "start_date": "2008-11",
+        "title": {
+          "name": "assistant brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "symbiosis institute of management studies",
+          "type": "post-secondary institution",
+          "id": "BLPgX3bfX6AgeuLBBowxcQ_0000",
+          "location": {
+            "name": "pune, maharashtra, india",
+            "locality": "pune",
+            "region": "maharashtra",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/symbiosis-institute-of-management-studies",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "407000",
+          "website": "sims.edu",
+          "domain": "sims.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "28401001",
+        "url": "linkedin.com/in/sonia-kapoor-9216179",
+        "username": "sonia-kapoor-9216179"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

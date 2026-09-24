@@ -1,0 +1,570 @@
+{
+  "record_id": "speaker-dubrovnik-015",
+  "speaker_name": "Elijah Robinson",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/elijah-e-robinson/",
+  "scraped_at": "2026-09-18T09:35:34.435340+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Y7z2UcNrQmbPW-MTY3busw_0000",
+    "full_name": "elijah robinson",
+    "first_name": "elijah",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "robinson",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/elijah-e-robinson",
+    "linkedin_username": "elijah-e-robinson",
+    "linkedin_id": "59432007",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "director, omnichannel content excellence and delivery global brands",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+    "job_company_name": "astrazeneca",
+    "job_company_website": "astrazeneca.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1999,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astrazeneca",
+    "job_company_linkedin_id": "1603",
+    "job_company_facebook_url": "facebook.com/astrazenecacareers",
+    "job_company_twitter_url": "twitter.com/astrazeneca",
+    "job_company_location_name": "cambridge, england, united kingdom",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "52.19,0.11",
+    "job_company_location_street_address": "1 francis crick avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "cb2 0aa",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-10-02",
+    "job_last_verified": "2026-09-01",
+    "job_start_date": "2022-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-01",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "children",
+      "civil rights and social action",
+      "education",
+      "environment",
+      "health",
+      "human rights",
+      "politics",
+      "science and technology"
+    ],
+    "skills": [
+      "biotechnology",
+      "clinical development",
+      "clinical research",
+      "clinical trials",
+      "cro",
+      "digital marketing",
+      "glp",
+      "laboratory",
+      "life sciences",
+      "lifesciences",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "program management",
+      "quality assurance",
+      "sop",
+      "standard operating procedure",
+      "toxicology",
+      "training",
+      "validation"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-12",
+        "title": {
+          "name": "director, omnichannel content excellence and delivery global brands",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "wilmington, delaware, united states"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2021-12",
+        "title": {
+          "name": "global marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "foster city, california, united states"
+        ],
+        "end_date": "2021-12",
+        "start_date": "2020-12",
+        "title": {
+          "name": "senior project manager, personal promo hiv treatment marketing",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [
+          "foster city, california, united states"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2019-05",
+        "title": {
+          "name": "product manager, hcp promo, hiv treatment marketing",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gilead sciences",
+          "size": "10001+",
+          "id": "3rvA7wsoqcXtKFTBD65o8gBR0lm6",
+          "founded": 1987,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "foster city, california, united states",
+            "locality": "foster city",
+            "region": "california",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "333 lakeside drive",
+            "address_line_2": null,
+            "postal_code": "94404",
+            "geo": "38.47,-122.43"
+          },
+          "linkedin_url": "linkedin.com/company/gilead-sciences",
+          "linkedin_id": "163993",
+          "facebook_url": "facebook.com/gilead-sciences-162678203751209",
+          "twitter_url": "twitter.com/gileadsciences",
+          "website": "gilead.com"
+        },
+        "location_names": [],
+        "end_date": "2019-10",
+        "start_date": "2017-08",
+        "title": {
+          "name": "community liaison",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "unity health care",
+          "size": "1001-5000",
+          "id": "qGCv64gca6WwQ4FfmLR2GwuKXt0A",
+          "founded": 1985,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1220 12th street southeast",
+            "address_line_2": null,
+            "postal_code": "20003",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/unityhealthcare",
+          "linkedin_id": "124990",
+          "facebook_url": "facebook.com/unityhealthcareinc",
+          "twitter_url": "twitter.com/unityhealthcare",
+          "website": "unityhealthcare.org"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2017-08",
+        "start_date": "2013-05",
+        "title": {
+          "name": "program manager of infectious disease",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "decypher",
+          "size": "201-500",
+          "id": "thVdsfo4Bajz2PCMgwCwLwkeNeRp",
+          "founded": 2002,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "san antonio, texas, united states",
+            "locality": "san antonio",
+            "region": "texas",
+            "metro": "san antonio, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 concord plaza drive",
+            "address_line_2": "suite 780",
+            "postal_code": "78216",
+            "geo": "29.50,-98.6"
+          },
+          "linkedin_url": "linkedin.com/company/decypher",
+          "linkedin_id": "271351",
+          "facebook_url": "facebook.com/decyphertechnologies",
+          "twitter_url": "twitter.com/decypherusa",
+          "website": "decypher.com"
+        },
+        "location_names": [
+          "tysons, virginia, united states"
+        ],
+        "end_date": "2013-12",
+        "start_date": "2012-12",
+        "title": {
+          "name": "portfolio manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "avanza laboratories",
+          "size": "51-200",
+          "id": "jQ6UBF6oIHknruFLYX4wsgxRvk8G",
+          "founded": 2009,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "gaithersburg, maryland, united states",
+            "locality": "gaithersburg",
+            "region": "maryland",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "39.14,-77.19"
+          },
+          "linkedin_url": "linkedin.com/company/avanza-laboratories",
+          "linkedin_id": "733570",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "avanzalaboratories.com"
+        },
+        "location_names": [
+          "gaithersburg, maryland, united states"
+        ],
+        "end_date": "2012-11",
+        "start_date": "2012-05",
+        "title": {
+          "name": "dose formulation and analysis manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "covance",
+          "size": "10001+",
+          "id": "NCjo6C9ggovfhBzrsJAIoAy481q1",
+          "founded": 1996,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "princeton, new jersey, united states",
+            "locality": "princeton",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "206 carnegie center drive",
+            "address_line_2": null,
+            "postal_code": "08540",
+            "geo": "40.34,-74.65"
+          },
+          "linkedin_url": "linkedin.com/company/covancedrugdevelopment",
+          "linkedin_id": "5143",
+          "facebook_url": "facebook.com/covance",
+          "twitter_url": "twitter.com/covance",
+          "website": "covance.com"
+        },
+        "location_names": [
+          "chandler, arizona, united states"
+        ],
+        "end_date": "2012-04",
+        "start_date": "2006-08",
+        "title": {
+          "name": "dose formulations supervisor",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "arizona state university",
+          "type": "post-secondary institution",
+          "id": "jY9zOnwqLqYN9kOaKKK5ow_0000",
+          "location": {
+            "name": "tempe, arizona, united states",
+            "locality": "tempe",
+            "region": "arizona",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/arizona-state-university",
+          "facebook_url": "facebook.com/arizonastateuniversity",
+          "twitter_url": "twitter.com/asu",
+          "linkedin_id": "4292",
+          "website": "asu.edu",
+          "domain": "asu.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "virginia state university",
+          "type": "post-secondary institution",
+          "id": "qHod16kW1tKaPurSYAQOhw_0000",
+          "location": {
+            "name": "virginia beach, virginia, united states",
+            "locality": "virginia beach",
+            "region": "virginia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/virginiastateuniversity",
+          "facebook_url": "facebook.com/virginiastateuniversity",
+          "twitter_url": "twitter.com/vsutrojans",
+          "linkedin_id": "31576",
+          "website": "vsu.edu",
+          "domain": "vsu.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2006",
+        "majors": [
+          "biology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "59432007",
+        "url": "linkedin.com/in/elijah-e-robinson",
+        "username": "elijah-e-robinson"
+      },
+      {
+        "network": "linkedin",
+        "id": "59432007",
+        "url": "linkedin.com/in/elijah-robinson-mnps-633aa117",
+        "username": "elijah-robinson-mnps-633aa117"
+      },
+      {
+        "network": "linkedin",
+        "id": "59432007",
+        "url": "linkedin.com/in/elijah-robinson-633aa117",
+        "username": "elijah-robinson-633aa117"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,198 @@
+{
+  "record_id": "speaker-viennacx-006",
+  "speaker_name": "Neyran Erlevent",
+  "linkedin_url": "https://www.linkedin.com/in/neyranerlevent/",
+  "likelihood": 9,
+  "full_name": "neyran erlevent",
+  "job_title": "global head of integrated experience & operations (ixo)",
+  "industry": "hospital & health care",
+  "current_company": "roche",
+  "current_company_website": "roche.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "budgeting",
+    "budgets",
+    "business analysis",
+    "competitive analysis",
+    "crm",
+    "cross functional team leadership",
+    "digital marketing",
+    "digital strategy",
+    "e commerce",
+    "edetailing",
+    "entrepreneurship",
+    "innovation",
+    "inspiration",
+    "international project management",
+    "it management",
+    "it service management",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "mobile applications",
+    "mobile devices",
+    "mobile marketing",
+    "mobile technology",
+    "new business development",
+    "online advertising",
+    "online marketing",
+    "operations",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "product development",
+    "product launch",
+    "product management",
+    "product marketing",
+    "project management",
+    "self driven",
+    "sem",
+    "social media",
+    "strategic planning",
+    "strategy",
+    "team building",
+    "team leadership",
+    "team management",
+    "telecommunications",
+    "virtual teams",
+    "web analytics",
+    "web marketing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of integrated experience & operations (ixo)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2026-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of business solutions enablement",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2023-11",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "global digital engagement catalyst @ roche pharma",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2021-09",
+      "end_date": "2023-11",
+      "is_primary": false
+    },
+    {
+      "title": "digital transformation program lead @ roche diagnostics",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2018-03",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "global digital marketing excellence program lead @ roche diagnostics",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2016-01",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing lead @ roche diagnostics",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2014-11",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "global head - informatics digital marketing solutions",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2011-11",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "regional projects team lead - roche digital marketing agency",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2009-12",
+      "end_date": "2011-11",
+      "is_primary": false
+    },
+    {
+      "title": "e-marketing project manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2008-08",
+      "end_date": "2009-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior product manager - user generated content",
+      "company": "turkcell",
+      "company_industry": "telecommunications",
+      "start_date": "2004-09",
+      "end_date": "2008-07",
+      "is_primary": false
+    },
+    {
+      "title": "web project manager",
+      "company": "netwise praksis",
+      "company_industry": null,
+      "start_date": "2003-12",
+      "end_date": "2004-09",
+      "is_primary": false
+    },
+    {
+      "title": "web project manager",
+      "company": "click it consultants",
+      "company_industry": null,
+      "start_date": "2001-01",
+      "end_date": "2003-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "bentley university",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2002-12"
+    },
+    {
+      "school": "harvard university",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "bilkent university",
+      "majors": [],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1994-01",
+      "end_date": "1999"
+    }
+  ]
+}

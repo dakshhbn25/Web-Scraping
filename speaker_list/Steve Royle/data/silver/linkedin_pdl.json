@@ -1,0 +1,172 @@
+{
+  "record_id": "speaker-dubrovnik-119",
+  "speaker_name": "Steve Royle",
+  "linkedin_url": "https://www.linkedin.com/in/stevenroyle/",
+  "likelihood": 9,
+  "full_name": "steve royle",
+  "job_title": "founder",
+  "industry": "computer software",
+  "current_company": "my medical affairs",
+  "current_company_website": "mymedicalaffairs.com",
+  "current_company_industry": "internet",
+  "location_country": "australia",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "digital marketing",
+    "digital strategy",
+    "integrated marketing",
+    "management",
+    "market research",
+    "marketing strategy",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "social media marketing",
+    "strategy"
+  ],
+  "interests": [
+    "poverty alleviation"
+  ],
+  "experience": [
+    {
+      "title": "founder",
+      "company": "my medical affairs",
+      "company_industry": "internet",
+      "start_date": "2022-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "founder | managing director",
+      "company": "rumi",
+      "company_industry": "computer software",
+      "start_date": "2020-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "founder i engagement solutions director",
+      "company": "swipe health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2016-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "client services director",
+      "company": "nucleus global, an inizio company",
+      "company_industry": "public relations and communications",
+      "start_date": "2014-12",
+      "end_date": "2015-11",
+      "is_primary": false
+    },
+    {
+      "title": "general manager - uk",
+      "company": "princeton health",
+      "company_industry": "media production",
+      "start_date": "2011-06",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "group account director",
+      "company": "ashfield medcomms, an inizio company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-01",
+      "end_date": "2011-06",
+      "is_primary": false
+    },
+    {
+      "title": "business manager",
+      "company": "princeton health",
+      "company_industry": "media production",
+      "start_date": "2004-04",
+      "end_date": "2007-04",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-01",
+      "end_date": "2004-03",
+      "is_primary": false
+    },
+    {
+      "title": "hospital account manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-04",
+      "end_date": "2002-12",
+      "is_primary": false
+    },
+    {
+      "title": "territory manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2001-01",
+      "end_date": "2002-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "quantic school of business and technology",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2023-09",
+      "end_date": "2025"
+    },
+    {
+      "school": "quantic school of business and technology",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2023-01",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "griffith university",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2000-01"
+    },
+    {
+      "school": "griffith university",
+      "majors": [
+        "health science"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1996",
+      "end_date": "2000"
+    },
+    {
+      "school": "griffith university",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2001"
+    },
+    {
+      "school": "merrimac state high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "1995"
+    }
+  ]
+}

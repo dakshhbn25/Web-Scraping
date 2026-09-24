@@ -1,0 +1,236 @@
+{
+  "record_id": "speaker-viennacx-022",
+  "speaker_name": "Mateja Vrtacnik Mandic",
+  "linkedin_url": "https://www.linkedin.com/in/mateja-vrtacnik/",
+  "likelihood": 9,
+  "full_name": "mateja mandic",
+  "job_title": "head of strategy & business operations europe and canada obu",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda oncology",
+  "current_company_website": "takedaoncology.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "business development",
+    "business to business",
+    "clinical research",
+    "clinical trials",
+    "diabetes",
+    "finance",
+    "health insurance",
+    "healthcare",
+    "management",
+    "market access",
+    "medicine",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacists",
+    "pharmacology",
+    "pharmacovigilance",
+    "pharmacy",
+    "pharmacy automation",
+    "product launch",
+    "public health",
+    "regulatory affairs",
+    "regulatory documentation",
+    "regulatory policy",
+    "regulatory requirements",
+    "regulatory submissions"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of strategy & business operations europe and canada obu",
+      "company": "takeda oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "country head oncology portugal a.i.",
+      "company": "takeda oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-12",
+      "end_date": "2026-04",
+      "is_primary": false
+    },
+    {
+      "title": "member of the boardroom",
+      "company": "the boardroom",
+      "company_industry": "think tanks",
+      "start_date": "2025-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of strategy and business operations",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-09",
+      "end_date": "2024-05",
+      "is_primary": false
+    },
+    {
+      "title": "chief of staff & a.i. head of business operations",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-04",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "chief of staff",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-10",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "business operations lead and oce community lead central south eastern europe (csee) region",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-11",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "launch excellence lead and business operations manager europe & canada oncology",
+      "company": "takeda oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-08",
+      "end_date": "2021-10",
+      "is_primary": false
+    },
+    {
+      "title": "brand and customer manager rare disease",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-07",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "brand and customer manager oncology",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "labeling and technical publication specialist",
+      "company": "stryker",
+      "company_industry": "medical devices",
+      "start_date": "2018-04",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "mba intern technical product management and network strategy",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2017-06",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "mba student",
+      "company": "university of st.gallen",
+      "company_industry": "higher education",
+      "start_date": "2016-09",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "regulatory affairs and pharmacovigilance manager",
+      "company": "alvogen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-07",
+      "end_date": "2016-07",
+      "is_primary": false
+    },
+    {
+      "title": "associate in regulatory affairs and pharmacovigilance",
+      "company": "alvogen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013",
+      "end_date": "2015",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative",
+      "company": "alkaloid ad skopje",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012",
+      "end_date": "2012",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacist",
+      "company": "gradske ljekarne zagreb",
+      "company_industry": null,
+      "start_date": "2011",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "student intern",
+      "company": "community hospital pharmacy",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-05",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "student intern",
+      "company": "community pharmacy",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-07",
+      "end_date": "2009-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of st.gallen",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2016",
+      "end_date": "2017"
+    },
+    {
+      "school": "university of st.gallen",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2005",
+      "end_date": "2017"
+    },
+    {
+      "school": "university of zagreb / sveučilište u zagrebu",
+      "majors": [],
+      "degrees": [
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2010"
+    }
+  ]
+}

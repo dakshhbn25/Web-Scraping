@@ -1,0 +1,165 @@
+{
+  "record_id": "speaker-dubrovnik-126",
+  "speaker_name": "Jiten Jain",
+  "linkedin_url": "https://www.linkedin.com/in/jitenj/",
+  "likelihood": 9,
+  "full_name": "jiten jain",
+  "job_title": "mentor",
+  "industry": "hospital & health care",
+  "current_company": "media for all [mefa]",
+  "current_company_website": "mediaforall.org.uk",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytics",
+    "b2b",
+    "brand management",
+    "business development",
+    "business planning",
+    "business strategy",
+    "competitive analysis",
+    "competitive intelligence",
+    "crm",
+    "cross functional team leadership",
+    "customer relationship management",
+    "digital marketing",
+    "entrepreneurship",
+    "healthcare",
+    "key account management",
+    "management consulting",
+    "market analysis",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing management",
+    "marketing research",
+    "marketing strategy",
+    "new business development",
+    "organizational development",
+    "product development",
+    "product launch",
+    "product management",
+    "product marketing",
+    "project management",
+    "start ups",
+    "strategic partnerships",
+    "strategic planning",
+    "strategy",
+    "team building",
+    "team management"
+  ],
+  "interests": [
+    "biofuels",
+    "brand management",
+    "digital",
+    "functional foods",
+    "international travel",
+    "nutrition",
+    "organizational development",
+    "pharma and biopharma",
+    "pharma and healthcare delivery",
+    "playing basketball and cricket",
+    "professional networking",
+    "strategic planning",
+    "vitamins and enzymes"
+  ],
+  "experience": [
+    {
+      "title": "mentor",
+      "company": "media for all [mefa]",
+      "company_industry": "marketing and advertising",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital interest group & industry-agency interest group : committee member",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "vice president - sales & partnerships and general manager - uk & eu",
+      "company": "doceree",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "assistant vice president - sales & partnership (emerging markets)",
+      "company": "doceree",
+      "company_industry": "marketing and advertising",
+      "start_date": "2022-04",
+      "end_date": "2023-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior director - sales & partnership",
+      "company": "doceree",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-09",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "director - sales & partnership",
+      "company": "doceree",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-09",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "dgm strategy & business",
+      "company": "a.d.a.m. health",
+      "company_industry": "hospital & health care",
+      "start_date": "2015-03",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager strategy & bussines",
+      "company": "via media health",
+      "company_industry": null,
+      "start_date": "2013-01",
+      "end_date": "2015-02",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager",
+      "company": "nutritionists republic",
+      "company_industry": "media production",
+      "start_date": "2011-10",
+      "end_date": "2013-01",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "via media health communications private limited",
+      "company_industry": null,
+      "start_date": "2008-12",
+      "end_date": "2011-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "indian institute of foreign trade",
+      "majors": [
+        "commerce",
+        "international business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2013"
+    }
+  ]
+}

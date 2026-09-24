@@ -1,0 +1,188 @@
+{
+  "record_id": "speaker-dubrovnik-073",
+  "speaker_name": "Arantxa Mugica Goicoechea",
+  "linkedin_url": "https://www.linkedin.com/in/arantxamg/?locale=en",
+  "likelihood": 9,
+  "full_name": "arantxa goicoechea",
+  "job_title": "senior director, international web product strategy",
+  "industry": "pharmaceuticals",
+  "current_company": "eli lilly and company",
+  "current_company_website": "lilly.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "spain",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "acceso a mercados",
+    "analytical skills",
+    "asistencia sanitaria",
+    "brand strategy",
+    "branding",
+    "business insights",
+    "business planning",
+    "campaigns",
+    "comunicaciones de marketing",
+    "critical thinking",
+    "digital campaigns",
+    "digital media",
+    "digital strategy",
+    "disease awareness campaigns",
+    "estrategia",
+    "estrategia de mercadotecnia",
+    "estrategia digital",
+    "leadership",
+    "liderazgo de equipos multidisciplinarios",
+    "market access",
+    "market research",
+    "marketing",
+    "marketing campaigns",
+    "marketing communications",
+    "marketing digital",
+    "marketing strategy",
+    "mercadotecnia",
+    "operations",
+    "patient advocacy",
+    "pharmaceutical industry",
+    "plan de negocio",
+    "project management",
+    "recruiting",
+    "redes sociales",
+    "sales",
+    "social media",
+    "strategic communications",
+    "strategic planning",
+    "strategy",
+    "teamwork",
+    "trabajo en equipo",
+    "ventas"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director, international web product strategy",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate director, international digital engagement strategy",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-06",
+      "end_date": "2025-11",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, international strategy and operations, oncology",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-06",
+      "end_date": "2024-05",
+      "is_primary": false
+    },
+    {
+      "title": "international marketing oncology - assignment",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-06",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "robotics, artificial intelligence and precision medicine committee member",
+      "company": "european health parliament",
+      "company_industry": "hospital & health care",
+      "start_date": "2017-10",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "european digital corporate affairs manager",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-07",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "corporate affairs senior associate",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-08",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "corporate affairs associate",
+      "company": "eli lilly and company",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-08",
+      "end_date": "2015-08",
+      "is_primary": false
+    },
+    {
+      "title": "corporate affairs / business development trainee",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2012-07",
+      "end_date": "2013-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "iese business school",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2023-09",
+      "end_date": "2025-04"
+    },
+    {
+      "school": "esic business & marketing school",
+      "majors": [
+        "healthcare",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "universidad autónoma de madrid",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2012",
+      "end_date": "2013"
+    },
+    {
+      "school": "university of florida",
+      "majors": [
+        "epidemiology",
+        "global health",
+        "management",
+        "pharmacy"
+      ],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "university of navarra",
+      "majors": [
+        "management",
+        "marketing",
+        "public health"
+      ],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2012"
+    }
+  ]
+}

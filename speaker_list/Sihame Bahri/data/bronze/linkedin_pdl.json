@@ -1,0 +1,682 @@
+{
+  "record_id": "speaker-viennacx-056",
+  "speaker_name": "Sihame Bahri",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/sihame-bahri/",
+  "scraped_at": "2026-09-18T10:26:41.980606+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "NPiwlNnXRL0120L-RcMn5g_0000",
+    "full_name": "sihame bahri",
+    "first_name": "sihame",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bahri",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/sihame-bahri",
+    "linkedin_username": "sihame-bahri",
+    "linkedin_id": "57220295",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global omnichannel engagement lead nephrology and iron portfolios",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "XxhBOlj8nqInLj8CZa4MsQE0Vvgi",
+    "job_company_name": "csl",
+    "job_company_website": "csl.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1916,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/csl",
+    "job_company_linkedin_id": "7384",
+    "job_company_facebook_url": "facebook.com/cslbiotechnology",
+    "job_company_twitter_url": "twitter.com/csl",
+    "job_company_location_name": "melbourne, victoria, australia",
+    "job_company_location_locality": "melbourne",
+    "job_company_location_metro": null,
+    "job_company_location_region": "victoria",
+    "job_company_location_geo": "-37.81,144.96",
+    "job_company_location_street_address": "655 elizabeth street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "3000",
+    "job_company_location_country": "australia",
+    "job_company_location_continent": "oceania",
+    "job_last_changed": "2025-12-16",
+    "job_last_verified": "2026-08-26",
+    "job_start_date": "2025-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-26",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "children",
+      "civil rights and social action",
+      "education",
+      "health",
+      "human rights",
+      "modern art",
+      "professionnal opportunities",
+      "social services"
+    ],
+    "skills": [
+      "adobe photoshop",
+      "adobe sitecatalyst",
+      "brand development",
+      "brand performance",
+      "branding",
+      "business strategy",
+      "campaign management",
+      "campaign strategies",
+      "cluster management",
+      "competitive analysis",
+      "competitive intelligence",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer experience",
+      "data analysis",
+      "digital marketing",
+      "digital media",
+      "digital strategy",
+      "digital transformation",
+      "drupal",
+      "financial analysis",
+      "financial communications",
+      "financial reporting",
+      "google analytics",
+      "integrated marketing",
+      "management",
+      "market analysis",
+      "market planning",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "omni channel marketing",
+      "operations management",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "process improvement",
+      "product launch",
+      "product management",
+      "product marketing",
+      "project management",
+      "sales effectiveness",
+      "salesforce.com",
+      "search engine optimization",
+      "social media",
+      "strategic communications",
+      "strategic planning",
+      "teamwork",
+      "twitter ads",
+      "wordpress"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "france"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "csl",
+          "size": "10001+",
+          "id": "XxhBOlj8nqInLj8CZa4MsQE0Vvgi",
+          "founded": 1916,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "melbourne, victoria, australia",
+            "locality": "melbourne",
+            "region": "victoria",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "655 elizabeth street",
+            "address_line_2": null,
+            "postal_code": "3000",
+            "geo": "-37.81,144.96"
+          },
+          "linkedin_url": "linkedin.com/company/csl",
+          "linkedin_id": "7384",
+          "facebook_url": "facebook.com/cslbiotechnology",
+          "twitter_url": "twitter.com/csl",
+          "website": "csl.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "global omnichannel engagement lead nephrology and iron portfolios",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "csl vifor",
+          "size": "10001+",
+          "id": "irTzAjaySlSJ7ZTjG1m4QQW2pf95",
+          "founded": 1872,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "sankt gallen, st. gallen, switzerland",
+            "locality": "sankt gallen",
+            "region": "st. gallen",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "37 rechenstrasse",
+            "address_line_2": null,
+            "postal_code": "9001",
+            "geo": "47.41,9.35"
+          },
+          "linkedin_url": "linkedin.com/company/csl-vifor",
+          "linkedin_id": "263528",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "viforpharma.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2025-11",
+        "start_date": "2024-01",
+        "title": {
+          "name": "global omnichannel lead iron portfolio",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [],
+        "end_date": "2023-12",
+        "start_date": "2021-11",
+        "title": {
+          "name": "omnichannel strategy & operations cluster head",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [],
+        "end_date": "2021-10",
+        "start_date": "2020-06",
+        "title": {
+          "name": "global omnichannel operations lead",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "essity",
+          "size": "10001+",
+          "id": "1WHeVJtNquDL54d1SuAYvQeOXcXb",
+          "founded": 2017,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "stockholm, stockholm, sweden",
+            "locality": "stockholm",
+            "region": "stockholm",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "63 klarabergsviadukten",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "59.32,18.05"
+          },
+          "linkedin_url": "linkedin.com/company/essity",
+          "linkedin_id": "16240930",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/essity",
+          "website": "essity.com"
+        },
+        "location_names": [],
+        "end_date": "2020-06",
+        "start_date": "2018-06",
+        "title": {
+          "name": "global marketing communication senior manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson",
+          "size": "10001+",
+          "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson",
+          "linkedin_id": "1207",
+          "facebook_url": "facebook.com/jnj",
+          "twitter_url": "twitter.com/jnjcares",
+          "website": "jnj.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2018-03",
+        "start_date": "2015-11",
+        "title": {
+          "name": "digital marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "laboratoires urgo",
+          "size": "1001-5000",
+          "id": "X9MpxIESr9JvJtxmnXYdXASjdj1y",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/laboratoires-urgo",
+          "linkedin_id": "82663",
+          "facebook_url": "facebook.com/methaqtakaful",
+          "twitter_url": null,
+          "website": "methaq.ae"
+        },
+        "location_names": [
+          "dijon, bourgogne-franche-comté, france"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2013-01",
+        "title": {
+          "name": "global brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "rueil-malmaison, île-de-france, france"
+        ],
+        "end_date": "2012-12",
+        "start_date": "2011-01",
+        "title": {
+          "name": "digital channel manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2010-12",
+        "start_date": "2010-01",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kering",
+          "size": "10001+",
+          "id": "BSRtaC8NwZ4VU89GGQrrWAaB2gJY",
+          "founded": 1962,
+          "industry": "luxury goods & jewelry",
+          "industry_v2": "retail luxury goods and jewelry",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "40 rue de sèvres",
+            "address_line_2": null,
+            "postal_code": "75007",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/kering",
+          "linkedin_id": "165528",
+          "facebook_url": "facebook.com/keringgroup",
+          "twitter_url": "twitter.com/keringforwomen",
+          "website": "kering.com"
+        },
+        "location_names": [],
+        "end_date": "2009-05",
+        "start_date": "2008-05",
+        "title": {
+          "name": "communication executive",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "esmod international",
+          "type": "post-secondary institution",
+          "id": "rNd1UrnWBuTPhgjsatAbcw_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esmod-international",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15114757",
+          "website": "esmod.com",
+          "domain": "esmod.com"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2020-01",
+        "end_date": "2021",
+        "majors": [
+          "business",
+          "fashion"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "escp",
+          "type": "post-secondary institution",
+          "id": "F860nHkGYBXNBk-TiwMLBA_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/escp-business-school",
+          "facebook_url": "facebook.com/escpbs",
+          "twitter_url": "twitter.com/escp_bs",
+          "linkedin_id": "308907",
+          "website": "escp.eu",
+          "domain": "escp.eu"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2010",
+        "majors": [
+          "communication management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of paris i: panthéon - sorbonne",
+          "type": "post-secondary institution",
+          "id": "VWcSuW3KdjhmeHB194tRpg_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sorbonneparis1",
+          "facebook_url": "facebook.com/univparis1pantheonsorbonne",
+          "twitter_url": "twitter.com/sorbonneparis1",
+          "linkedin_id": "15094912",
+          "website": "pantheonsorbonne.fr",
+          "domain": "pantheonsorbonne.fr"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2008",
+        "majors": [
+          "business administration",
+          "consulting",
+          "economics",
+          "information systems",
+          "international economics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "57220295",
+        "url": "linkedin.com/in/sihame-bahri",
+        "username": "sihame-bahri"
+      },
+      {
+        "network": "youtube",
+        "id": null,
+        "url": "youtube.com/user/supersissib",
+        "username": "supersissib"
+      },
+      {
+        "network": "linkedin",
+        "id": "57220295",
+        "url": "linkedin.com/in/sihame-bahri-71b1b517",
+        "username": "sihame-bahri-71b1b517"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

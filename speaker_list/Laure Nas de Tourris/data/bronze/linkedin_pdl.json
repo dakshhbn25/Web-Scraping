@@ -1,0 +1,1045 @@
+{
+  "record_id": "speaker-dubrovnik-118",
+  "speaker_name": "Laure Nas de Tourris",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/laurenasdetourris/",
+  "scraped_at": "2026-09-18T10:23:43.393407+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "wP2bXHxezVeTd7Llb-prqw_0000",
+    "full_name": "laure de tourris",
+    "first_name": "laure",
+    "middle_initial": "n",
+    "middle_name": "nas",
+    "last_initial": "d",
+    "last_name": "de tourris",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/laurenasdetourris",
+    "linkedin_username": "laurenasdetourris",
+    "linkedin_id": "49601388",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "information services",
+    "job_title": "partner, commercial consulting services",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "sCd7J7Z5oGNJr9Fyn4y65Arjtbs3",
+    "job_company_name": "clarivate",
+    "job_company_website": "clarivate.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "information services",
+    "job_company_industry_v2": "information services",
+    "job_company_linkedin_url": "linkedin.com/company/clarivate",
+    "job_company_linkedin_id": "10950962",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-10-01",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2025-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "health",
+      "horse riding trails",
+      "theatre",
+      "travel"
+    ],
+    "skills": [
+      "biotechnology industry",
+      "brand strategy",
+      "business management",
+      "business planning",
+      "business strategy",
+      "business transformation",
+      "change management",
+      "commercialization",
+      "communication",
+      "consulting",
+      "corporate strategy",
+      "corporate strategy formulation",
+      "cross functional team leadership",
+      "driven by results",
+      "engineering",
+      "executive management",
+      "gestion de projet",
+      "go to market strategy",
+      "healthcare",
+      "healthcare consulting",
+      "immunology",
+      "international marketing",
+      "launch strategies",
+      "leadership",
+      "management",
+      "management consulting",
+      "market research",
+      "marketing strategy",
+      "operational excellence",
+      "opportunity assessment",
+      "pharmaceutical industry",
+      "portfolio management",
+      "positive work environment",
+      "product launch",
+      "project management",
+      "sales effectiveness",
+      "sales operations",
+      "scenario planning",
+      "secteur pharmaceutique",
+      "senior stakeholder management",
+      "sfe",
+      "stakeholder management",
+      "storytelling",
+      "strategic analytics",
+      "strategic consulting",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "team leadership",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "clarivate",
+          "size": "10001+",
+          "id": "sCd7J7Z5oGNJr9Fyn4y65Arjtbs3",
+          "founded": null,
+          "industry": "information services",
+          "industry_v2": "information services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/clarivate",
+          "linkedin_id": "10950962",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "clarivate.com"
+        },
+        "location_names": [
+          "k’unī, oromia, ethiopia"
+        ],
+        "end_date": null,
+        "start_date": "2025-06",
+        "title": {
+          "name": "partner, commercial consulting services",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "arthritis and musculoskeletal alliance",
+          "size": "1-10",
+          "id": "DSkJBmPE7S8ap4rSRFLCtQqjnFb0",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "health and human services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/arthritis-and-musculoskeletal-alliance",
+          "linkedin_id": "4714371",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "arma.uk.net"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2026-07",
+        "title": {
+          "name": "board member / trustee",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kyowa kirin co., ltd.",
+          "size": "5001-10000",
+          "id": "P26dmJgVBweBHLa6PHqVHQ2qISWS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ōtemachi, tokyo, japan",
+            "locality": "ōtemachi",
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "1-9-2 ohtemachi",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "35.68,139.76"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-co-ltd",
+          "linkedin_id": "1239741",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirin.co.jp"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2025-06",
+        "start_date": "2023-06",
+        "title": {
+          "name": "global strategy & commercial head, immunology & rare disease",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the ehlers-danlos support uk",
+          "size": "1-10",
+          "id": "LIuyDI5mgTFMjkj9Xi4z7wW81wmK",
+          "founded": 1987,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "borehamwood, england, united kingdom",
+            "locality": "borehamwood",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "wd6 1qq",
+            "geo": "51.65,-0.26"
+          },
+          "linkedin_url": "linkedin.com/company/ehlers-danlos-support-uk",
+          "linkedin_id": "5039141",
+          "facebook_url": "facebook.com/ehlersdanlosuk",
+          "twitter_url": "twitter.com/ehlersdanlosuk",
+          "website": "ehlers-danlos.org"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2022-06",
+        "title": {
+          "name": "board member / deputy chair",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kyowa kirin co., ltd.",
+          "size": "5001-10000",
+          "id": "P26dmJgVBweBHLa6PHqVHQ2qISWS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ōtemachi, tokyo, japan",
+            "locality": "ōtemachi",
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "1-9-2 ohtemachi",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "35.68,139.76"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-co-ltd",
+          "linkedin_id": "1239741",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirin.co.jp"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2022-03",
+        "title": {
+          "name": "cluster franchise head - rare disease",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kyowa kirin co., ltd.",
+          "size": "5001-10000",
+          "id": "P26dmJgVBweBHLa6PHqVHQ2qISWS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ōtemachi, tokyo, japan",
+            "locality": "ōtemachi",
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "1-9-2 ohtemachi",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "35.68,139.76"
+          },
+          "linkedin_url": "linkedin.com/company/kyowa-kirin-co-ltd",
+          "linkedin_id": "1239741",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kyowakirin.co.jp"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-03",
+        "start_date": "2020-03",
+        "title": {
+          "name": "strategic chief of staff to president",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "aides",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2020-02",
+        "start_date": "2018-03",
+        "title": {
+          "name": "senior director, global strategic planning & portfolio management - corporate strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-08",
+        "start_date": "2015-11",
+        "title": {
+          "name": "senior director - global head patient value solutions (strategy & commercialisation)",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-11",
+        "start_date": "2015-03",
+        "title": {
+          "name": "global market manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roland berger",
+          "size": "1001-5000",
+          "id": "9KZYoQCOUKvFFCNlkj29Wg0TtXNy",
+          "founded": 1967,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 sederanger",
+            "address_line_2": null,
+            "postal_code": "80538",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/rolandberger",
+          "linkedin_id": "3950",
+          "facebook_url": "facebook.com/rolandbergergmbh",
+          "twitter_url": "twitter.com/rolandberger",
+          "website": "rolandberger.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2015-03",
+        "start_date": "2013-08",
+        "title": {
+          "name": "senior strategy consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2013-06",
+        "start_date": "2012-06",
+        "title": {
+          "name": "strategic planning manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2012-06",
+        "start_date": "2010-04",
+        "title": {
+          "name": "sales force effectiveness & customer strategy manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zs",
+          "size": "10001+",
+          "id": "9PBvvCp43Iy4sWR8ABlwtwf0VXJh",
+          "founded": 1983,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1560 sherman avenue",
+            "address_line_2": null,
+            "postal_code": "60201",
+            "geo": "42.04,-87.68"
+          },
+          "linkedin_url": "linkedin.com/company/zs-associates",
+          "linkedin_id": "5240",
+          "facebook_url": "facebook.com/zsassociates",
+          "twitter_url": "twitter.com/zsassociates",
+          "website": "zs.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2010-02",
+        "start_date": "2006-11",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "slb",
+          "size": "10001+",
+          "id": "aZQMCUWA1CxPBUv4DVTcMQQmHwSU",
+          "founded": 1926,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": "houston, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "5599 san felipe street",
+            "address_line_2": null,
+            "postal_code": "77056",
+            "geo": "29.78,-95.47"
+          },
+          "linkedin_url": "linkedin.com/company/schlumberger",
+          "linkedin_id": "1468",
+          "facebook_url": "facebook.com/weareslbglobal",
+          "twitter_url": "twitter.com/schlumberger",
+          "website": "slb.com"
+        },
+        "location_names": [
+          "houston, texas, united states"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2006-01",
+        "title": {
+          "name": "research & development engineering",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2024-09",
+        "end_date": "2024-11",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "nedonboard",
+          "type": "post-secondary institution",
+          "id": "19vQhbwB3Ij1Iwxy0YVf5Q_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/nedonboard",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "9999752",
+          "website": "nedonboard.com",
+          "domain": "nedonboard.com"
+        },
+        "degrees": [],
+        "start_date": "2024-01",
+        "end_date": "2024-02",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "nedonboard",
+          "type": "post-secondary institution",
+          "id": "19vQhbwB3Ij1Iwxy0YVf5Q_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/nedonboard",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "9999752",
+          "website": "nedonboard.com",
+          "domain": "nedonboard.com"
+        },
+        "degrees": [],
+        "start_date": "2023-01",
+        "end_date": "2023",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of oxford",
+          "type": "post-secondary institution",
+          "id": "0DqFeiO1KFc2xNVeC7BnyA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxforduni",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4477",
+          "website": "ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2022-06",
+        "end_date": "2022-08",
+        "majors": [
+          "education",
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of oxford",
+          "type": "post-secondary institution",
+          "id": "0DqFeiO1KFc2xNVeC7BnyA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxforduni",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4477",
+          "website": "ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2021-01",
+        "end_date": "2021-01",
+        "majors": [
+          "education",
+          "sustainability"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": "2019",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imperial college london",
+          "type": "post-secondary institution",
+          "id": "Fz8Pa7Dul89QmPc-6UAp1A_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "5106",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of strathclyde",
+          "type": "post-secondary institution",
+          "id": "BQmKBdshDCUg2FjYDjnVOA_0000",
+          "location": {
+            "name": "glasgow, scotland, united kingdom",
+            "locality": "glasgow",
+            "region": "scotland",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-strathclyde",
+          "facebook_url": "facebook.com/universityofstrathclyde",
+          "twitter_url": "twitter.com/unistrathclyde",
+          "linkedin_id": "166675",
+          "website": "strath.ac.uk",
+          "domain": "strath.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2005-01",
+        "end_date": "2005",
+        "majors": [
+          "mechanical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "école nationale supérieure d'arts et métiers (ensam - méknes - المدرسة الوطنية العليا للفنون و المهن",
+          "type": "post-secondary institution",
+          "id": "tCMUZ5xCvclARIKMGjPYPw_0000",
+          "location": {
+            "name": "meknes, fès-meknès, morocco",
+            "locality": "meknes",
+            "region": "fès-meknès",
+            "country": "morocco",
+            "continent": "africa"
+          },
+          "linkedin_url": "linkedin.com/school/école-nationale-supérieure-d-arts-et-métiers-ensam-méknes-المدرسة-الوطنية-العليا-للفنون-و-المهن",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "26262188",
+          "website": "ensam-umi.ac.ma",
+          "domain": "ensam-umi.ac.ma"
+        },
+        "degrees": [],
+        "start_date": "2003",
+        "end_date": "2006",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "arts et métiers - école nationale supérieure d'arts et métiers",
+          "type": "post-secondary institution",
+          "id": "vFxIKxFActkgoqiOI6w4GQ_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/arts-et-metiers-ensam",
+          "facebook_url": "facebook.com/amparistech",
+          "twitter_url": "twitter.com/artsetmetiers_",
+          "linkedin_id": "1280025",
+          "website": "artsetmetiers.fr",
+          "domain": "artsetmetiers.fr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2006",
+        "majors": [
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée berthollet",
+          "type": "post-secondary institution",
+          "id": "BidRe-a711hSQQ49E28bmw_0000",
+          "location": {
+            "name": "annecy, auvergne-rhône-alpes, france",
+            "locality": "annecy",
+            "region": "auvergne-rhône-alpes",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lycée-berthollet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15135979",
+          "website": "lycee-berthollet-annecy.web.ac-grenoble.fr",
+          "domain": "ac-grenoble.fr"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "49601388",
+        "url": "linkedin.com/in/laurenasdetourris",
+        "username": "laurenasdetourris"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

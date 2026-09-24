@@ -1,0 +1,732 @@
+{
+  "record_id": "speaker-dubrovnik-044",
+  "speaker_name": "Dr Dev Gakhar",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/devgakhar/",
+  "scraped_at": "2026-09-18T09:36:38.502069+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "yGguHWBbQfJSRfSSHDiH1g_0000",
+    "full_name": "dev gakhar",
+    "first_name": "dev",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gakhar",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/devgakhar",
+    "linkedin_username": "devgakhar",
+    "linkedin_id": "643854529",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "co-founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "Iqr9sfCpDjFUCKlaB9i29gBWFDnd",
+    "job_company_name": "the healthcare creators collective",
+    "job_company_website": "healthcarecreators.co.uk",
+    "job_company_size": "1-10",
+    "job_company_founded": 2025,
+    "job_company_industry": null,
+    "job_company_industry_v2": "social networking platforms",
+    "job_company_linkedin_url": "linkedin.com/company/healthcare-creators-collective",
+    "job_company_linkedin_id": "111302338",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-03-26",
+    "job_last_verified": "2026-05-20",
+    "job_start_date": "2025-10",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-25",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "change management",
+      "communication",
+      "content strategy for healthcare",
+      "digital communication",
+      "digital communication strategy",
+      "digital health advocacy",
+      "digital transformation",
+      "health policy engagement",
+      "healthcare innovation",
+      "high pressure situations",
+      "interpersonal communication",
+      "leadership",
+      "management",
+      "medical education",
+      "medical misinformation management",
+      "negotiation",
+      "public health communication",
+      "research skills",
+      "stakeholder engagement",
+      "strategic communications",
+      "strategic partnerships",
+      "teaching",
+      "team management",
+      "teamwork",
+      "time management",
+      "video editing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "the healthcare creators collective",
+          "size": "1-10",
+          "id": "Iqr9sfCpDjFUCKlaB9i29gBWFDnd",
+          "founded": 2025,
+          "industry": null,
+          "industry_v2": "social networking platforms",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/healthcare-creators-collective",
+          "linkedin_id": "111302338",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "healthcarecreators.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "nhs clinical entrepreneur programme",
+          "size": "1-10",
+          "id": "WrS0n3FCis0zQHsPs6JnOwfPRnqC",
+          "founded": 2016,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chelmsford, england, united kingdom",
+            "locality": "chelmsford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cm1 1sh",
+            "geo": "51.71,0.48"
+          },
+          "linkedin_url": "linkedin.com/company/clinical-entrepreneur-programme",
+          "linkedin_id": "74517988",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "nhscep.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-04",
+        "title": {
+          "name": "nhs clinical entrepreneur",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "themednex",
+          "size": "1-10",
+          "id": "kGNDlCLLQYHU03Um12UP6wI3uvJT",
+          "founded": null,
+          "industry": "education management",
+          "industry_v2": "research services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/themednex",
+          "linkedin_id": "108049950",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "themednex.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-09",
+        "title": {
+          "name": "member board of directors",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-08",
+        "title": {
+          "name": "senior house officer fy3 doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doctor devify",
+          "size": "1-10",
+          "id": "tWtMFCV6jfS95daVlV1aFQSOz1QT",
+          "founded": 2023,
+          "industry": "online media",
+          "industry_v2": "online audio and video media",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.45,-1.01"
+          },
+          "linkedin_url": "linkedin.com/company/doctordevify",
+          "linkedin_id": "108494826",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "doctordevify.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-11",
+        "title": {
+          "name": "healthcare communications consultant",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tiktok",
+          "size": "10001+",
+          "id": "Pr5xJTLlTiwLpgAzPTCOggvYWzL2",
+          "founded": 2012,
+          "industry": "entertainment",
+          "industry_v2": "entertainment providers",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "34.03,-118.24"
+          },
+          "linkedin_url": "linkedin.com/company/tiktok",
+          "linkedin_id": "33246798",
+          "facebook_url": "facebook.com/tiktok",
+          "twitter_url": null,
+          "website": "tiktok.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-10",
+        "title": {
+          "name": "founding member - tiktok clinician creator network",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ukfpo",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2025-08",
+        "start_date": "2023-10",
+        "title": {
+          "name": "foundation doctors advisory board representative for 300+ doctors across lnr",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "advisor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doctor devify",
+          "size": "1-10",
+          "id": "tWtMFCV6jfS95daVlV1aFQSOz1QT",
+          "founded": 2023,
+          "industry": "online media",
+          "industry_v2": "online audio and video media",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.45,-1.01"
+          },
+          "linkedin_url": "linkedin.com/company/doctordevify",
+          "linkedin_id": "108494826",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "doctordevify.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-09",
+        "title": {
+          "name": "founder and content creator",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [
+          "leicestershire, england, united kingdom"
+        ],
+        "end_date": "2025-08",
+        "start_date": "2023-07",
+        "title": {
+          "name": "specialised (academic) foundation doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "westmead hospital",
+          "size": "1-10",
+          "id": "wsskqVxlMqA9HFlpIxSmgQ3BS83k",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "sydney, new south wales, australia",
+            "locality": "sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "-33.86,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/westmead-hospital",
+          "linkedin_id": "1303705",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "wavingsun.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2023-05",
+        "title": {
+          "name": "medical elective in dermatology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "imperial college school of medicine students'​ union",
+          "size": "11-50",
+          "id": "ctCW52FsupXMxslmrbY4RgnWFn33",
+          "founded": 1997,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sw7 2az",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/icsmsu",
+          "linkedin_id": "12633695",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "icsmsu.com"
+        },
+        "location_names": [
+          "kensington, england, united kingdom"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2022-08",
+        "title": {
+          "name": "bar manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2022-03",
+        "start_date": "2020-06",
+        "title": {
+          "name": "mental health health care assistant",
+          "class": "services",
+          "role": "health",
+          "sub_role": "therapy",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of leicester",
+          "type": "post-secondary institution",
+          "id": "IliAO25PHvmSIpw872bXXQ_0000",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-leicester",
+          "facebook_url": "facebook.com/uniofleicester",
+          "twitter_url": "twitter.com/uniofleicester",
+          "linkedin_id": "14403",
+          "website": "le.ac.uk",
+          "domain": "le.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2024-09",
+        "end_date": "2025-07",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of leicester",
+          "type": "post-secondary institution",
+          "id": "IliAO25PHvmSIpw872bXXQ_0000",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-leicester",
+          "facebook_url": "facebook.com/uniofleicester",
+          "twitter_url": "twitter.com/uniofleicester",
+          "linkedin_id": "14403",
+          "website": "le.ac.uk",
+          "domain": "le.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2024-01",
+        "end_date": "2025-12",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imperial business school",
+          "type": "post-secondary institution",
+          "id": "grkuCQ34PskwpoqeBZrdBQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-business-school",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "2661479",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2020-01",
+        "end_date": "2021",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "imperial college london",
+          "type": "post-secondary institution",
+          "id": "Fz8Pa7Dul89QmPc-6UAp1A_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/imperial-college-london",
+          "facebook_url": "facebook.com/imperialcollegelondon",
+          "twitter_url": "twitter.com/imperialcollege",
+          "linkedin_id": "5106",
+          "website": "imperial.ac.uk",
+          "domain": "imperial.ac.uk"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2017-01",
+        "end_date": "2023-12",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "reading school",
+          "type": "secondary school",
+          "id": "2DtrZBnYSg42qjM78abgdg_0000",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/reading-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2287706",
+          "website": "reading-school.co.uk",
+          "domain": "reading-school.co.uk"
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2017",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "643854529",
+        "url": "linkedin.com/in/devgakhar",
+        "username": "devgakhar"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

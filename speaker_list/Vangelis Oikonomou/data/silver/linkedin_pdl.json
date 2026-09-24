@@ -1,0 +1,268 @@
+{
+  "record_id": null,
+  "speaker_name": "Vangelis Oikonomou",
+  "linkedin_url": "https://www.linkedin.com/in/vangelisoikonomou/",
+  "likelihood": 9,
+  "full_name": "vangelis oikonomou",
+  "job_title": "director, international commercial excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "novartis",
+  "current_company_website": "novartis.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "artificial intelligence",
+    "brand management",
+    "business development",
+    "business planning",
+    "business process re engineering",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "commercial execution",
+    "commercial leadership",
+    "competitive analysis",
+    "competitive intelligence",
+    "creativity coaching",
+    "cross functional team leadership",
+    "customer experience",
+    "customer insight",
+    "customer journeys",
+    "customer relationship management",
+    "digital strategy",
+    "digital transformation",
+    "engineering",
+    "fmcg",
+    "forecasting",
+    "generative ai",
+    "global deployment",
+    "global marketing",
+    "hospital sales",
+    "influencing others",
+    "innovation",
+    "integrated marketing",
+    "key account development",
+    "key account management",
+    "launch excellence",
+    "machine learning",
+    "management",
+    "management consulting",
+    "market access",
+    "market analysis",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing capabilities",
+    "marketing management",
+    "marketing research",
+    "marketing strategy",
+    "marketing technology",
+    "microsoft outlook",
+    "microsoft powerpoint",
+    "negotiation",
+    "operations management",
+    "ophthalmics",
+    "p&l management",
+    "people management",
+    "persuasive presentations",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "pharmaceutics",
+    "pricing",
+    "product development",
+    "product launch",
+    "product marketing",
+    "project management",
+    "respiratory disease",
+    "sales effectiveness",
+    "sales management",
+    "sales operations",
+    "segmentation",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "technology planning",
+    "trade marketing",
+    "voice of the customer"
+  ],
+  "interests": [
+    "discovering and trending new technologies",
+    "djing and listening to music",
+    "editing videos and watching movies",
+    "flying planes",
+    "learning new things every day",
+    "playing tennis",
+    "sailing boats",
+    "see 1+see less",
+    "skiing",
+    "socializing",
+    "taking pictures",
+    "traveling"
+  ],
+  "experience": [
+    {
+      "title": "director, international commercial excellence",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, international customer experience country operations",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "director, global content products success",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-07",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, global digital asset management",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, management consulting & global account executive",
+      "company": "ey",
+      "company_industry": "information technology and services",
+      "start_date": "2018-11",
+      "end_date": "2019-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, management consulting & global account executive",
+      "company": "ey",
+      "company_industry": "information technology and services",
+      "start_date": "2017-09",
+      "end_date": "2018-11",
+      "is_primary": false
+    },
+    {
+      "title": "region europe commercial lead & strategic projects head (dermatology, immunology)",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2017-08",
+      "is_primary": false
+    },
+    {
+      "title": "brand lead, ophthalmics",
+      "company": "novartis hellas",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-10",
+      "end_date": "2015-08",
+      "is_primary": false
+    },
+    {
+      "title": "customer development lead, ophthalmics",
+      "company": "novartis hellas",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-10",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "brand lead, respiratory",
+      "company": "novartis hellas",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-09",
+      "end_date": "2011-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant, management consulting",
+      "company": "tecmor s.a.",
+      "company_industry": "management consulting",
+      "start_date": "2006",
+      "end_date": "2009",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "copenhagen business school",
+      "majors": [
+        "behavioral science",
+        "education",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "the flight school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "athens university of economics and business",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2009-01"
+    },
+    {
+      "school": "école nationale des ponts et chaussées",
+      "majors": [
+        "civil engineering"
+      ],
+      "degrees": [
+        "master of engineering",
+        "masters"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2005-12"
+    },
+    {
+      "school": "democritus university of thrace - (d.u.th.)",
+      "majors": [
+        "civil engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors",
+        "master of engineering",
+        "masters"
+      ],
+      "start_date": "1998-01",
+      "end_date": "2004-12"
+    },
+    {
+      "school": "lycée franco - hellénique d'athenes 'eugène delacroix' (lfh)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1997"
+    },
+    {
+      "school": "lycée franco - hellénique d'athenes 'eugène delacroix' (lfh)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1991",
+      "end_date": "1997"
+    }
+  ]
+}

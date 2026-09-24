@@ -1,0 +1,676 @@
+{
+  "record_id": "speaker-viennacx-026",
+  "speaker_name": "Gonzalo Llerena",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/gonzalo-llerena/?locale=en",
+  "scraped_at": "2026-09-18T10:25:49.890204+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "5iFhDzJCoFm4ukcydXiZfg_0000",
+    "full_name": "gonzalo llerena",
+    "first_name": "gonzalo",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "llerena",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/gonzalo-llerena",
+    "linkedin_username": "gonzalo-llerena",
+    "linkedin_id": "46231512",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global commercial excellence lead",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "5v2XCpqg6E0oUd1HBnMf1AFbVVnA",
+    "job_company_name": "wörwag pharma gmbh & co. kg",
+    "job_company_website": "woerwagpharma.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1971,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/woerwag-pharma-gmbh-&-co.-kg",
+    "job_company_linkedin_id": "320175",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "böblingen, baden-württemberg, germany",
+    "job_company_location_locality": "böblingen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "baden-württemberg",
+    "job_company_location_geo": "48.68,8.99",
+    "job_company_location_street_address": "24 flugfeld alley",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "71034",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2021-06-10",
+    "job_last_verified": "2026-08-19",
+    "job_start_date": "2021-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-19",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business strategy",
+      "commercial excellence",
+      "eficacia de ventas",
+      "estrategia",
+      "estrategia de mercadotecnia",
+      "estrategia empresarial",
+      "gerencia de ventas",
+      "human resources consulting",
+      "key account management/kam",
+      "leadership",
+      "liderazgo",
+      "management skills development",
+      "market research",
+      "marketing strategy",
+      "negotiation",
+      "new business development",
+      "performance management",
+      "re engineering projects",
+      "restructures",
+      "sales and marketing excellence",
+      "sales effectiveness",
+      "sales force effectiveness/sfe",
+      "strategic planning",
+      "training and coching"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "panama",
+      "brazil"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "wörwag pharma gmbh & co. kg",
+          "size": "1001-5000",
+          "id": "5v2XCpqg6E0oUd1HBnMf1AFbVVnA",
+          "founded": 1971,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "böblingen, baden-württemberg, germany",
+            "locality": "böblingen",
+            "region": "baden-württemberg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "24 flugfeld alley",
+            "address_line_2": null,
+            "postal_code": "71034",
+            "geo": "48.68,8.99"
+          },
+          "linkedin_url": "linkedin.com/company/woerwag-pharma-gmbh-&-co.-kg",
+          "linkedin_id": "320175",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "woerwagpharma.com"
+        },
+        "location_names": [
+          "böblingen, baden-württemberg, germany"
+        ],
+        "end_date": null,
+        "start_date": "2021-04",
+        "title": {
+          "name": "global commercial excellence lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "lgc standards",
+          "size": "201-500",
+          "id": "iYQg5Y0clp1KTOVqYC7mXggUYfM0",
+          "founded": null,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "tw11 0ly",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/lgc-standards",
+          "linkedin_id": "1221257",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/lgcstandards",
+          "website": "lgcstandards.com"
+        },
+        "location_names": [
+          "luckenwalde, brandenburg, germany"
+        ],
+        "end_date": "2020-09",
+        "start_date": "2017-07",
+        "title": {
+          "name": "global marketing manager - pharmaceuticals",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "centogene",
+          "size": "501-1000",
+          "id": "xQsvdLNNBGeE2rjBCBoW9goAPueX",
+          "founded": 2006,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "rostock, mecklenburg-vorpommern, germany",
+            "locality": "rostock",
+            "region": "mecklenburg-vorpommern",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "7 am strande",
+            "address_line_2": null,
+            "postal_code": "18055",
+            "geo": "54.10,12.10"
+          },
+          "linkedin_url": "linkedin.com/company/centogene",
+          "linkedin_id": "1318599",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "centogene.com"
+        },
+        "location_names": [
+          "rostock, mecklenburg-vorpommern, germany"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2015-11",
+        "title": {
+          "name": "general manager - sales latin america",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck group",
+          "size": "10001+",
+          "id": "AIVnnXsA9sUCA83uQoEBigZxpiCO",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter street",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/merck-group",
+          "linkedin_id": "1485",
+          "facebook_url": "facebook.com/merckdeutschland",
+          "twitter_url": "twitter.com/merckgroup",
+          "website": "merckgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2014-12",
+        "start_date": "2012-10",
+        "title": {
+          "name": "regional commercial excellence director latin america",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [],
+        "end_date": "2012-05",
+        "start_date": "2010-10",
+        "title": {
+          "name": "regional commercial excellence manager csa and latin america",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [
+          "quito, pichincha, ecuador"
+        ],
+        "end_date": "2010-09",
+        "start_date": "2008-02",
+        "title": {
+          "name": "regional sales & marketing excellence (sesame) manager - central & south america (csa)",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "grünenthal group",
+          "size": "1001-5000",
+          "id": "PbvKbxthJTL9ENRutTrG1A1icIyV",
+          "founded": 1946,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "aachen, north rhine-westphalia, germany",
+            "locality": "aachen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 zieglerstr.",
+            "address_line_2": null,
+            "postal_code": "52078",
+            "geo": "50.75,6.09"
+          },
+          "linkedin_url": "linkedin.com/company/gruenenthal",
+          "linkedin_id": "164071",
+          "facebook_url": "facebook.com/grunenthal",
+          "twitter_url": "twitter.com/grunenthal_es",
+          "website": "grunenthal.com"
+        },
+        "location_names": [
+          "quito, pichincha, ecuador"
+        ],
+        "end_date": "2008-01",
+        "start_date": "2007-03",
+        "title": {
+          "name": "regional sales & marketing excellence project manager - central & south america (csa)",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the adecco group",
+          "size": "10001+",
+          "id": "HKCAfxrOo9qwqBBwIvYjCgwq33Ne",
+          "founded": 1996,
+          "industry": "human resources",
+          "industry_v2": "human resources services",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "30 bellerivestrasse",
+            "address_line_2": null,
+            "postal_code": "8008",
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/theadeccogroup",
+          "linkedin_id": "1929",
+          "facebook_url": "facebook.com/theadeccogroup",
+          "twitter_url": "twitter.com/adeccogroupna",
+          "website": "adeccogroup.com"
+        },
+        "location_names": [
+          "quito, pichincha, ecuador"
+        ],
+        "end_date": "2007-02",
+        "start_date": "2001-09",
+        "title": {
+          "name": "manging director & general manager - ecuador",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the adecco group",
+          "size": "10001+",
+          "id": "HKCAfxrOo9qwqBBwIvYjCgwq33Ne",
+          "founded": 1996,
+          "industry": "human resources",
+          "industry_v2": "human resources services",
+          "location": {
+            "name": "zürich, zurich, switzerland",
+            "locality": "zürich",
+            "region": "zurich",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "30 bellerivestrasse",
+            "address_line_2": null,
+            "postal_code": "8008",
+            "geo": "47.38,8.54"
+          },
+          "linkedin_url": "linkedin.com/company/theadeccogroup",
+          "linkedin_id": "1929",
+          "facebook_url": "facebook.com/theadeccogroup",
+          "twitter_url": "twitter.com/adeccogroupna",
+          "website": "adeccogroup.com"
+        },
+        "location_names": [],
+        "end_date": "2001-08",
+        "start_date": "1999-01",
+        "title": {
+          "name": "commercial manager - perú",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "central aduanera",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1998-12",
+        "start_date": "1996-01",
+        "title": {
+          "name": "operations manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gonzalo llerena ortiz de zevallos",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1995-12",
+        "start_date": "1994-01",
+        "title": {
+          "name": "operations manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sergersa autos",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1992-08",
+        "start_date": "1991-02",
+        "title": {
+          "name": "senior sales executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "escuela nacional de control",
+          "type": "post-secondary institution",
+          "id": "n7jLTHynBS60TWcDfcfuSQ_0000",
+          "location": {
+            "name": "lima, lima, peru",
+            "locality": "lima",
+            "region": "lima",
+            "country": "peru",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/encperu",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "16207265",
+          "website": "enc.edu.pe",
+          "domain": "enc.edu.pe"
+        },
+        "degrees": [],
+        "start_date": "1997-01",
+        "end_date": "1997",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad católica de santa maría",
+          "type": "post-secondary institution",
+          "id": "9ef4rSz49sHWBtLLD-VcSg_0000",
+          "location": {
+            "name": "san jose, arequipa, peru",
+            "locality": "san jose",
+            "region": "arequipa",
+            "country": "peru",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-catolica-de-santa-maria",
+          "facebook_url": "facebook.com/ucsm.edu.pe",
+          "twitter_url": null,
+          "linkedin_id": "1175724",
+          "website": "ucsm.edu.pe",
+          "domain": "ucsm.edu.pe"
+        },
+        "degrees": [
+          "bachelor of business administration",
+          "bachelors"
+        ],
+        "start_date": "1988-01",
+        "end_date": "1995",
+        "majors": [
+          "business",
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad católica santa maría la antigua",
+          "type": "post-secondary institution",
+          "id": "BUFYkxTmBY64bfSRE2quAQ_0000",
+          "location": {
+            "name": "panama city, panamá, panama",
+            "locality": "panama city",
+            "region": "panamá",
+            "country": "panama",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-catolica-santa-maria-la-antigua-sede",
+          "facebook_url": "facebook.com/usmapanama",
+          "twitter_url": "twitter.com/usmapanama",
+          "linkedin_id": "397692",
+          "website": "usma.ac.pa",
+          "domain": "usma.ac.pa"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "1995",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "46231512",
+        "url": "linkedin.com/in/gonzalo-llerena",
+        "username": "gonzalo-llerena"
+      },
+      {
+        "network": "linkedin",
+        "id": "46231512",
+        "url": "linkedin.com/in/gonzalo-llerena-42059613",
+        "username": "gonzalo-llerena-42059613"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

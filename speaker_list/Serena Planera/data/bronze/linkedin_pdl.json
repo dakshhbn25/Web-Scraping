@@ -1,0 +1,1128 @@
+{
+  "record_id": "speaker-dubrovnik-009",
+  "speaker_name": "Serena Planera",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/serenaplanera/",
+  "scraped_at": "2026-09-18T09:35:21.230342+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "-3-5ZDiyyw83Oi3t14JNCA_0000",
+    "full_name": "serena planera",
+    "first_name": "serena",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "p",
+    "last_name": "planera",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/serenaplanera",
+    "linkedin_username": "serenaplanera",
+    "linkedin_id": "401463673",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/splanera",
+    "twitter_username": "splanera",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "international digital engagement strategy leader",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+    "job_company_name": "eli lilly and company",
+    "job_company_website": "lilly.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1876,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+    "job_company_linkedin_id": "1663",
+    "job_company_facebook_url": "facebook.com/elilillyandco",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "indianapolis, indiana, united states",
+    "job_company_location_locality": "indianapolis",
+    "job_company_location_metro": "indianapolis, indiana",
+    "job_company_location_region": "indiana",
+    "job_company_location_geo": "39.83,-86.09",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "46285",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-02-01",
+    "job_last_verified": "2026-09-01",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "italy",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-01",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "applied technologies",
+      "behavioural economics",
+      "decision making research",
+      "human computer interface",
+      "social media research",
+      "the environment's protection"
+    ],
+    "skills": [
+      "behavioral economics",
+      "business analytics",
+      "cognitive neuroscience",
+      "cognitive science",
+      "customer behavior",
+      "data driven decisions",
+      "diversity",
+      "inclusion",
+      "industria farmaceutica",
+      "insegnamento",
+      "latex",
+      "leadership",
+      "lingua inglese",
+      "management",
+      "marketing",
+      "matlab",
+      "microsoft excel",
+      "microsoft office",
+      "neuroscience",
+      "neuroscienze",
+      "people management",
+      "project management",
+      "research",
+      "research design",
+      "ricerca",
+      "spss",
+      "team building",
+      "vendite"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "italy",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "international digital engagement strategy leader",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "creativemornings",
+          "size": "1-10",
+          "id": "tIF8DkJrY33PL4ChUIrkOQiRA5Zm",
+          "founded": 2008,
+          "industry": "design",
+          "industry_v2": "design services",
+          "location": {
+            "name": "brooklyn, new york, united states",
+            "locality": "brooklyn",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "47 bergen street",
+            "address_line_2": "floor 2",
+            "postal_code": "11201",
+            "geo": "40.66,-73.94"
+          },
+          "linkedin_url": "linkedin.com/company/creativemornings",
+          "linkedin_id": "2527036",
+          "facebook_url": "facebook.com/creativemornings",
+          "twitter_url": "twitter.com/creativemorning",
+          "website": "creativemornings.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-11",
+        "title": {
+          "name": "creativemornings florence host",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2026-01",
+        "start_date": "2025-05",
+        "title": {
+          "name": "general manager israel, cyprus, and malta",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2025-05",
+        "start_date": "2023-12",
+        "title": {
+          "name": "neuroscience business unit leader - italy hub",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "indianapolis, indiana, united states"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2023-05",
+        "title": {
+          "name": "senior director, lilly digital greenhouse, digital start",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "indianapolis, indiana, united states"
+        ],
+        "end_date": "2023-05",
+        "start_date": "2021-10",
+        "title": {
+          "name": "senior director - lilly marketing institute communications and operations",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mib trieste alumni association",
+          "size": "1001-5000",
+          "id": "Esk7A0GvtKTt4MbdxrzhoAZKD54g",
+          "founded": 2005,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "trieste, friuli-venezia giulia, italy",
+            "locality": "trieste",
+            "region": "friuli-venezia giulia",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "1 l.go caduti di nasiriya",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.64,13.77"
+          },
+          "linkedin_url": "linkedin.com/company/mib-alumni-association",
+          "linkedin_id": "10598418",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mibalumni.blog"
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2020-11",
+        "title": {
+          "name": "speaker",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "rome, lazio, italy"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2020-01",
+        "title": {
+          "name": "neuro bone district sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "florence, tuscany, italy"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2019-07",
+        "title": {
+          "name": "migraine national sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tsm - trentino school of management",
+          "size": "51-200",
+          "id": "HaXAlDSS2UImVL3Kl7jy3gZQrnSm",
+          "founded": 2003,
+          "industry": "education management",
+          "industry_v2": "education",
+          "location": {
+            "name": "trento, trentino-south tyrol, italy",
+            "locality": "trento",
+            "region": "trentino-south tyrol",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "24 viaduct del pioppeto",
+            "address_line_2": null,
+            "postal_code": "38121",
+            "geo": "46.06,11.11"
+          },
+          "linkedin_url": "linkedin.com/company/tsm-trentino-school-of-management",
+          "linkedin_id": "2700005",
+          "facebook_url": "facebook.com/tsm.tn.it",
+          "twitter_url": "twitter.com/tsmtnit",
+          "website": "tsm.tn.it"
+        },
+        "location_names": [
+          "trento, trentino-south tyrol, italy"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2018-04",
+        "title": {
+          "name": "guest lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "florence, tuscany, italy"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2018-02",
+        "title": {
+          "name": "bone brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "florence, tuscany, italy"
+        ],
+        "end_date": "2018-01",
+        "start_date": "2017-12",
+        "title": {
+          "name": "diabetes brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tsm - trentino school of management",
+          "size": "51-200",
+          "id": "HaXAlDSS2UImVL3Kl7jy3gZQrnSm",
+          "founded": 2003,
+          "industry": "education management",
+          "industry_v2": "education",
+          "location": {
+            "name": "trento, trentino-south tyrol, italy",
+            "locality": "trento",
+            "region": "trentino-south tyrol",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "24 viaduct del pioppeto",
+            "address_line_2": null,
+            "postal_code": "38121",
+            "geo": "46.06,11.11"
+          },
+          "linkedin_url": "linkedin.com/company/tsm-trentino-school-of-management",
+          "linkedin_id": "2700005",
+          "facebook_url": "facebook.com/tsm.tn.it",
+          "twitter_url": "twitter.com/tsmtnit",
+          "website": "tsm.tn.it"
+        },
+        "location_names": [
+          "trento, trentino-south tyrol, italy"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2017-09",
+        "title": {
+          "name": "guest lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "università di trento",
+          "size": "1001-5000",
+          "id": "yWqT0VS5oBgaCWfr0aBx7wKwfDjt",
+          "founded": null,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "trento, trentino-south tyrol, italy",
+            "locality": "trento",
+            "region": "trentino-south tyrol",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "14 viaduct calepina",
+            "address_line_2": null,
+            "postal_code": "38122",
+            "geo": "46.06,11.11"
+          },
+          "linkedin_url": "linkedin.com/school/universitaditrento",
+          "linkedin_id": "17712",
+          "facebook_url": "facebook.com/unitrento",
+          "twitter_url": null,
+          "website": "unitn.it"
+        },
+        "location_names": [
+          "trento, trentino-south tyrol, italy"
+        ],
+        "end_date": "2017-02",
+        "start_date": "2017-02",
+        "title": {
+          "name": "guest speaker",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "florence, tuscany, italy"
+        ],
+        "end_date": "2017-11",
+        "start_date": "2016-10",
+        "title": {
+          "name": "diabetes senior marketing associate",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "florence, tuscany, italy"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2016-06",
+        "title": {
+          "name": "diabetes marketing intern (mba program)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "universitat osnabruck institute of cognitive science",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "osnabrück, lower saxony, germany"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2013-10",
+        "title": {
+          "name": "researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "universitat osnabruck institute of cognitive science",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "osnabrück, lower saxony, germany"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2013-10",
+        "title": {
+          "name": "study project member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "center for mind/brain sciences",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "rovereto, trentino-south tyrol, italy"
+        ],
+        "end_date": "2013-07",
+        "start_date": "2013-02",
+        "title": {
+          "name": "research intern",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "b.r.a.i.n center for neuroscience",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "trieste, friuli-venezia giulia, italy"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2012-01",
+        "title": {
+          "name": "research intern",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "comune di trieste",
+          "size": "1001-5000",
+          "id": "M38lSWN3GBVeXOwB2FSlHwo4RXmD",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "trieste, friuli-venezia giulia, italy",
+            "locality": "trieste",
+            "region": "friuli-venezia giulia",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "4 piazza dell'unità d'italia",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.64,13.77"
+          },
+          "linkedin_url": "linkedin.com/company/comuneditrieste",
+          "linkedin_id": "359765",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "comune.trieste.it"
+        },
+        "location_names": [
+          "trieste, friuli-venezia giulia, italy"
+        ],
+        "end_date": "2012-02",
+        "start_date": "2011-09",
+        "title": {
+          "name": "data collector",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ministero dell'interno",
+          "size": "10001+",
+          "id": "CdFMQFCGftNRmqieDFq2IQs8jeqa",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "italy",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ministero-dell'interno",
+          "linkedin_id": "52470",
+          "facebook_url": "facebook.com/viminale.ministerointerno",
+          "twitter_url": null,
+          "website": "interno.gov.it"
+        },
+        "location_names": [
+          "trieste, friuli-venezia giulia, italy"
+        ],
+        "end_date": "2011-05",
+        "start_date": "2011-05",
+        "title": {
+          "name": "data collector",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "mib trieste school of management",
+          "type": "post-secondary institution",
+          "id": "q30Z6CzJIekekt1HD2jUfw_0000",
+          "location": {
+            "name": "trieste, friuli-venezia giulia, italy",
+            "locality": "trieste",
+            "region": "friuli-venezia giulia",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/mibtrieste",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "12339",
+          "website": "mib.edu",
+          "domain": "mib.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2016-12",
+        "majors": [
+          "international business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universität osnabrück",
+          "type": "post-secondary institution",
+          "id": "Rv6h9yWUUAXEN-YPVrTXbw_0000",
+          "location": {
+            "name": "osnabrück, lower saxony, germany",
+            "locality": "osnabrück",
+            "region": "lower saxony",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/osnabrueck-university",
+          "facebook_url": "facebook.com/uniosnabrueck",
+          "twitter_url": null,
+          "linkedin_id": "45458",
+          "website": "uni-osnabrueck.de",
+          "domain": "uni-osnabrueck.de"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2014",
+        "majors": [
+          "cognitive science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università di trento",
+          "type": "post-secondary institution",
+          "id": "Btl2pGcrWtVoBFaeBbAnWA_0000",
+          "location": {
+            "name": "trento, trentino-south tyrol, italy",
+            "locality": "trento",
+            "region": "trentino-south tyrol",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universitaditrento",
+          "facebook_url": "facebook.com/unitrento",
+          "twitter_url": "twitter.com/unitrento",
+          "linkedin_id": "17712",
+          "website": "unitn.it",
+          "domain": "unitn.it"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2012-01",
+        "end_date": "2014",
+        "majors": [
+          "cognitive science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università degli studi di trieste",
+          "type": "post-secondary institution",
+          "id": "qqg6yJ3Uk83gChTb47gVug_0000",
+          "location": {
+            "name": "trieste, friuli-venezia giulia, italy",
+            "locality": "trieste",
+            "region": "friuli-venezia giulia",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universitadeglistudiditrieste",
+          "facebook_url": "facebook.com/universitatrieste",
+          "twitter_url": "twitter.com/unitrieste",
+          "linkedin_id": "1173764",
+          "website": "portale.units.it",
+          "domain": "units.it"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2012",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "401463673",
+        "url": "linkedin.com/in/serenaplanera",
+        "username": "serenaplanera"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/splanera",
+        "username": "splanera"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/serena-planera-621548b2",
+        "username": "serena-planera-621548b2"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

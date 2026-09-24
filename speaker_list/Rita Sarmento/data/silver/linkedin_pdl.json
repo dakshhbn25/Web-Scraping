@@ -1,0 +1,200 @@
+{
+  "record_id": "speaker-dubrovnik-013",
+  "speaker_name": "Rita Sarmento",
+  "linkedin_url": "https://www.linkedin.com/in/rita-sarmento/",
+  "likelihood": 9,
+  "full_name": "rita sarmento",
+  "job_title": "head of commercial capabilities, international business unit",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda",
+  "current_company_website": "takeda.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business analysis",
+    "business expansion",
+    "business model innovation",
+    "business planning",
+    "business strategy",
+    "change management",
+    "change programmes",
+    "commercial management",
+    "competitive intelligence",
+    "competitive strategies",
+    "corporate finance",
+    "customer engagement",
+    "customer experience",
+    "customer insight",
+    "data analysis",
+    "data analytics",
+    "digital health",
+    "digital marketing",
+    "digital strategy",
+    "digital transformation",
+    "financial analysis",
+    "financial modeling",
+    "forecasting",
+    "leadership",
+    "management",
+    "market analysis",
+    "market research",
+    "marketing",
+    "multi channel marketing",
+    "new business development",
+    "omni channel marketing",
+    "operational excellence",
+    "operational planning",
+    "operations management",
+    "organizational capability",
+    "organizational development",
+    "process improvement",
+    "product launch",
+    "product management",
+    "project planning",
+    "sales operations",
+    "strategic planning",
+    "strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of commercial capabilities, international business unit",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of data, digital and technology, csee",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "head of omnichannel engagement capability, europe and canada",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "customer excellence and learning & development, eucan",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-04",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of market intelligence & insights neuroscience and ophthalmics, director",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2017-06",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "international business expansion lead",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2015-06",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "manager residential products - commercial operations and process excellence",
+      "company": "oi",
+      "company_industry": "telecommunications",
+      "start_date": "2013-05",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "consultant - planning and performance / pmo",
+      "company": "oi",
+      "company_industry": "telecommunications",
+      "start_date": "2012-04",
+      "end_date": "2013-05",
+      "is_primary": false
+    },
+    {
+      "title": "summer consultant",
+      "company": "boston consulting group (bcg)",
+      "company_industry": "management consulting",
+      "start_date": "2011-07",
+      "end_date": "2011-09",
+      "is_primary": false
+    },
+    {
+      "title": "external consultant",
+      "company": "endeavor",
+      "company_industry": "non-profit organization management",
+      "start_date": "2010-07",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "business analyst - strategy and program management",
+      "company": "vodafone",
+      "company_industry": "telecommunications",
+      "start_date": "2006-07",
+      "end_date": "2010-06",
+      "is_primary": false
+    },
+    {
+      "title": "corporate finance analyst",
+      "company": "banco de investimento global",
+      "company_industry": "banking",
+      "start_date": "2005-07",
+      "end_date": "2006-06",
+      "is_primary": false
+    },
+    {
+      "title": "summer internship",
+      "company": "roland berger",
+      "company_industry": "management consulting",
+      "start_date": "2004",
+      "end_date": "2004",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "insead",
+      "majors": [
+        "business"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "università bocconi",
+      "majors": [
+        "business management"
+      ],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "universidade católica portuguesa",
+      "majors": [
+        "business administration",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2001-01",
+      "end_date": "2005"
+    }
+  ]
+}

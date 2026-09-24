@@ -1,0 +1,698 @@
+{
+  "record_id": "speaker-viennacx-017",
+  "speaker_name": "Emilien Le Flahat",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/emilienleflahat/?locale=en",
+  "scraped_at": "2026-09-18T10:25:32.846585+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "nYi8aJqRYCGcjspKXKjf-g_0000",
+    "full_name": "emilien le flahat",
+    "first_name": "emilien",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "le flahat",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/emilienleflahat",
+    "linkedin_username": "emilienleflahat",
+    "linkedin_id": "379232884",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/emilien_le_flat",
+    "twitter_username": "emilien_le_flat",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "commercial advanced analytics & ai product line owner",
+    "job_title_role": "product",
+    "job_title_sub_role": "product_management",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-06-19",
+    "job_last_verified": "2026-08-25",
+    "job_start_date": "2025-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-25",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [
+      "cinéma",
+      "cuisine",
+      "culture numérique",
+      "health",
+      "littérature et voyage",
+      "musique",
+      "nouvelles technologies",
+      "pratique régulière du tennis"
+    ],
+    "skills": [
+      "agentic ai",
+      "apprentissage automatique",
+      "artificial intelligence",
+      "artificial neural networks",
+      "bioinformatics",
+      "biophotonics",
+      "biosensors",
+      "business development",
+      "c",
+      "c++",
+      "certified scrum product owner",
+      "commerce",
+      "communication",
+      "competitive strategy",
+      "conception de logiciels",
+      "customer experience management",
+      "data consulting",
+      "data science",
+      "deep learning",
+      "electronics",
+      "erp infor",
+      "financing new ventures",
+      "gestion de projet",
+      "gestion de projet agile",
+      "image processing",
+      "java",
+      "knowledge management",
+      "leadership mondial",
+      "linux",
+      "management",
+      "marketing of innovation",
+      "matlab",
+      "medical imaging",
+      "microsoft excel",
+      "microsoft office",
+      "mysql",
+      "nanotechnologie",
+      "neurosciences",
+      "powerpoint",
+      "project management",
+      "python",
+      "rgpd",
+      "sap fiori",
+      "signal processing",
+      "strategic management of innovation",
+      "techniques danimation"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "canada"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "commercial advanced analytics & ai product line owner",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2025-06",
+        "start_date": "2023-12",
+        "title": {
+          "name": "advanced analytics for business insights regional squad lead (part of global product strategy)",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2022-03",
+        "title": {
+          "name": "global data science strategy lead & product owner",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2022-03",
+        "start_date": "2020-12",
+        "title": {
+          "name": "customer engagement analyst",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2020-09",
+        "start_date": "2019-09",
+        "title": {
+          "name": "business analyst consultant for global business intelligence team (opusline)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2019-05",
+        "start_date": "2018-11",
+        "title": {
+          "name": "co-founder and data scientist @ pairsoria",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "opusline",
+          "size": "51-200",
+          "id": "YwnC12C9hx0nCkZCsrk5bwuDeBJS",
+          "founded": 2012,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/opusline",
+          "linkedin_id": "2979583",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/opusline",
+          "website": "opusline.fr"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2018-03",
+        "title": {
+          "name": "strategy & management senior consultant in ai & data",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bitmakers labs",
+          "size": "1-10",
+          "id": "fqSvzxW2oqcH6ebalEuCUABamaGe",
+          "founded": 2015,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "75012",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/bitmakers-labs",
+          "linkedin_id": "10274182",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bitmakers.care"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2017-06",
+        "title": {
+          "name": "data scientist trainee - deep learning & signal processing",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2016-08",
+        "start_date": "2016-04",
+        "title": {
+          "name": "internship in mammography service optimization",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "invivox",
+          "size": "11-50",
+          "id": "LLgWyTzHj1aN4lUai5kk7QzNo50a",
+          "founded": 2016,
+          "industry": "e-learning",
+          "industry_v2": "e-learning providers",
+          "location": {
+            "name": "pessac, nouvelle-aquitaine, france",
+            "locality": "pessac",
+            "region": "nouvelle-aquitaine",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "21 avenue eugène et marc dulout",
+            "address_line_2": null,
+            "postal_code": "33600",
+            "geo": "44.8,-0.63"
+          },
+          "linkedin_url": "linkedin.com/company/invivox",
+          "linkedin_id": "10192713",
+          "facebook_url": "facebook.com/invivox-1061888523840431",
+          "twitter_url": "twitter.com/invivox",
+          "website": "invivox.com"
+        },
+        "location_names": [
+          "paris, california, united states"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2015-10",
+        "title": {
+          "name": "part time business freelance",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "czech technical university in prague",
+          "size": "1001-5000",
+          "id": "RN4pmgC3R8Xu27pGxOA4fAQp8rId",
+          "founded": 1707,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "dejvice, prague, czechia",
+            "locality": "dejvice",
+            "region": "prague",
+            "metro": null,
+            "country": "czechia",
+            "continent": "europe",
+            "street_address": "1580 3 jugoslávských partyzánů",
+            "address_line_2": null,
+            "postal_code": "160 00",
+            "geo": "50.10,14.39"
+          },
+          "linkedin_url": "linkedin.com/school/cvutpraha",
+          "linkedin_id": "15091777",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "cvut.cz"
+        },
+        "location_names": [
+          "prague, prague, czechia"
+        ],
+        "end_date": "2015-08",
+        "start_date": "2015-07",
+        "title": {
+          "name": "research on a dvs camera, bio-informatics",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "université de sherbrooke",
+          "type": "post-secondary institution",
+          "id": "lDDt1LqMT5c0n1O6IV7xQg_0000",
+          "location": {
+            "name": "sherbrooke, quebec, canada",
+            "locality": "sherbrooke",
+            "region": "quebec",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/universite-de-sherbrooke",
+          "facebook_url": "facebook.com/usherbrooke",
+          "twitter_url": "twitter.com/usherbrooke",
+          "linkedin_id": "166701",
+          "website": "usherbrooke.ca",
+          "domain": "usherbrooke.ca"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2015",
+        "end_date": "2017",
+        "majors": [
+          "biology",
+          "computer engineering",
+          "engineering",
+          "management",
+          "project management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rennes school of business",
+          "type": "post-secondary institution",
+          "id": "zWLiL4AiUtmAIVJAN-YLlw_0000",
+          "location": {
+            "name": "rennes, bretagne, france",
+            "locality": "rennes",
+            "region": "bretagne",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/renneschoolofbusiness",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15092681",
+          "website": "rennes-sb.fr",
+          "domain": "rennes-sb.fr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2016",
+        "majors": [
+          "business",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "institut supérieur d'électronique et du numérique",
+          "type": "post-secondary institution",
+          "id": "6P87RaEqaaCJBjafPhQ3Pg_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/isen-ecole-d-ingenieurs",
+          "facebook_url": "facebook.com/groupe.isen",
+          "twitter_url": "twitter.com/groupeisen",
+          "linkedin_id": "15094127",
+          "website": "isen.fr",
+          "domain": "isen.fr"
+        },
+        "degrees": [],
+        "start_date": "2011-01",
+        "end_date": "2015",
+        "majors": [
+          "electronics"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "379232884",
+        "url": "linkedin.com/in/emilienleflahat",
+        "username": "emilienleflahat"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/emilien_le_flat",
+        "username": "emilien_le_flat"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

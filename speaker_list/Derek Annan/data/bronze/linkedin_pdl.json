@@ -1,0 +1,938 @@
+{
+  "record_id": "speaker-dubrovnik-121",
+  "speaker_name": "Derek Annan",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/derek-annan-phd/",
+  "scraped_at": "2026-09-18T10:23:50.803597+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "d9JVivu4b7Wr94isg4Zbvg_0000",
+    "full_name": "derek annan",
+    "first_name": "derek",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "annan",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/derek-annan-phd",
+    "linkedin_username": "derek-annan-phd",
+    "linkedin_id": "48214223",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of group healthcare strategy",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "mehy7apti5N9NbPxhTFmVgrPdx7J",
+    "job_company_name": "resonant group",
+    "job_company_website": "resonantgrp.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2018,
+    "job_company_industry": "public relations and communications",
+    "job_company_industry_v2": "public relations and communications services",
+    "job_company_linkedin_url": "linkedin.com/company/resonant-group",
+    "job_company_linkedin_id": "34780869",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": "39-41 neal street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-07-30",
+    "job_last_verified": "2026-07-17",
+    "job_start_date": "2025-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "science and technology"
+    ],
+    "skills": [
+      "assay development",
+      "biochemistry",
+      "bioinformatics",
+      "biotechnology",
+      "builds relationships",
+      "business continuity planning",
+      "career counseling",
+      "client relations",
+      "customer engagement",
+      "diagnostics",
+      "dna",
+      "dna extraction",
+      "elisa",
+      "immunoassays",
+      "life sciences",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "medical education",
+      "medical writing",
+      "molecular biology",
+      "nmr",
+      "oncology",
+      "organization skills",
+      "pcr",
+      "pharmaceutical industry",
+      "pharmaceuticals",
+      "protein chemistry",
+      "protein purification",
+      "qpcr",
+      "research",
+      "science",
+      "uv/vis"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "resonant group",
+          "size": "51-200",
+          "id": "mehy7apti5N9NbPxhTFmVgrPdx7J",
+          "founded": 2018,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "39-41 neal street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/resonant-group",
+          "linkedin_id": "34780869",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "resonantgrp.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-07",
+        "title": {
+          "name": "head of group healthcare strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "impact medical education",
+          "size": "1-10",
+          "id": "FKHhtYSku46tBIsbPj0PSgfksvYB",
+          "founded": 2014,
+          "industry": "pharmaceuticals",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "beaconsfield, england, united kingdom",
+            "locality": "beaconsfield",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52-54 aylesbury end",
+            "address_line_2": null,
+            "postal_code": "hp9 1lw",
+            "geo": "51.6,-0.64"
+          },
+          "linkedin_url": "linkedin.com/company/impact-medical-education",
+          "linkedin_id": "27147568",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "impactmedicaleducation.com"
+        },
+        "location_names": [
+          "beaconsfield, england, united kingdom"
+        ],
+        "end_date": "2025-07",
+        "start_date": "2024-12",
+        "title": {
+          "name": "senior director, medical and commercial strategy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wave healthcare communications",
+          "size": "11-50",
+          "id": "Lrwc2yxNngpGxw4g8nuZegId8c3f",
+          "founded": 2001,
+          "industry": "pharmaceuticals",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "beaconsfield, england, united kingdom",
+            "locality": "beaconsfield",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52-54 aylesbury end",
+            "address_line_2": null,
+            "postal_code": "hp9 1lw",
+            "geo": "51.6,-0.64"
+          },
+          "linkedin_url": "linkedin.com/company/wave-healthcare-communications",
+          "linkedin_id": "1276380",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "wavehealthcare.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2025-07",
+        "start_date": "2024-12",
+        "title": {
+          "name": "senior director, medical and commercial strategy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "black professionals in life sciences (bpls)",
+          "size": "1-10",
+          "id": "DLkwdLJ4l65oQSDeVJxpyw5XzOPl",
+          "founded": 2024,
+          "industry": "non-profit organization management",
+          "industry_v2": "professional organizations",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/black-professionals-in-healthcare-bpih",
+          "linkedin_id": "102671515",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bpls.org.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-11",
+        "title": {
+          "name": "partnerships lead",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bedrock healthcare communications",
+          "size": "11-50",
+          "id": "LvYxslUgywYkB9VqNfAgswpyisgE",
+          "founded": 2011,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "fleet, england, united kingdom",
+            "locality": "fleet",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "gu51 2un",
+            "geo": "51.25,-0.82"
+          },
+          "linkedin_url": "linkedin.com/company/bedrock-healthcare-communications",
+          "linkedin_id": "1980264",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bedrockhealth",
+          "website": "bedrock-health.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2023-04",
+        "title": {
+          "name": "head of medical strategy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bedrock healthcare communications",
+          "size": "11-50",
+          "id": "LvYxslUgywYkB9VqNfAgswpyisgE",
+          "founded": 2011,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "fleet, england, united kingdom",
+            "locality": "fleet",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "gu51 2un",
+            "geo": "51.25,-0.82"
+          },
+          "linkedin_url": "linkedin.com/company/bedrock-healthcare-communications",
+          "linkedin_id": "1980264",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bedrockhealth",
+          "website": "bedrock-health.com"
+        },
+        "location_names": [],
+        "end_date": "2023-04",
+        "start_date": "2021-09",
+        "title": {
+          "name": "head of strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bedrock healthcare communications",
+          "size": "11-50",
+          "id": "LvYxslUgywYkB9VqNfAgswpyisgE",
+          "founded": 2011,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "fleet, england, united kingdom",
+            "locality": "fleet",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "gu51 2un",
+            "geo": "51.25,-0.82"
+          },
+          "linkedin_url": "linkedin.com/company/bedrock-healthcare-communications",
+          "linkedin_id": "1980264",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bedrockhealth",
+          "website": "bedrock-health.com"
+        },
+        "location_names": [],
+        "end_date": "2021-10",
+        "start_date": "2020-07",
+        "title": {
+          "name": "scientific solutions director",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lucid group",
+          "size": "201-500",
+          "id": "B7eLGM5H9ecb27aK39zlGwBElQZx",
+          "founded": 2007,
+          "industry": "pharmaceuticals",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "w1t 4je",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/lucid",
+          "linkedin_id": "815494",
+          "facebook_url": "facebook.com/wearelucidgroup",
+          "twitter_url": "twitter.com/mededlucid",
+          "website": "wearelucidgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2020-05",
+        "start_date": "2018-04",
+        "title": {
+          "name": "client partnership director",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lucid group",
+          "size": "201-500",
+          "id": "B7eLGM5H9ecb27aK39zlGwBElQZx",
+          "founded": 2007,
+          "industry": "pharmaceuticals",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "w1t 4je",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/lucid",
+          "linkedin_id": "815494",
+          "facebook_url": "facebook.com/wearelucidgroup",
+          "twitter_url": "twitter.com/mededlucid",
+          "website": "wearelucidgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2018-04",
+        "start_date": "2017-12",
+        "title": {
+          "name": "associate business unit director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cogora",
+          "size": "51-200",
+          "id": "yqESR1LklEyr2BwVMTYNWg5vVNvo",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 giltspur street",
+            "address_line_2": null,
+            "postal_code": "ec1a 9dd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/cogora",
+          "linkedin_id": "67718",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/cogoragroup",
+          "website": "cogora.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-05",
+        "title": {
+          "name": "client services director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "virgo health",
+          "size": "51-200",
+          "id": "o8sxSGgP8deeoU1ljVskkg72aoiL",
+          "founded": 2003,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "99 clifton street",
+            "address_line_2": null,
+            "postal_code": "ec2a 4tp",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/virgo-health",
+          "linkedin_id": "394251",
+          "facebook_url": "facebook.com/virgohealth",
+          "twitter_url": "twitter.com/virgohealth",
+          "website": "virgohealth.com"
+        },
+        "location_names": [],
+        "end_date": "2016-05",
+        "start_date": "2015-05",
+        "title": {
+          "name": "business development / account director, health education",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "virgo health",
+          "size": "51-200",
+          "id": "o8sxSGgP8deeoU1ljVskkg72aoiL",
+          "founded": 2003,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "99 clifton street",
+            "address_line_2": null,
+            "postal_code": "ec2a 4tp",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/virgo-health",
+          "linkedin_id": "394251",
+          "facebook_url": "facebook.com/virgohealth",
+          "twitter_url": "twitter.com/virgohealth",
+          "website": "virgohealth.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2015-01",
+        "title": {
+          "name": "account director, health education",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "apothecom, an inizio company",
+          "size": "201-500",
+          "id": "26kqhPPZyuxBtgUc8NfhuAP1CbNe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "26 southampton buildings holborn gate",
+            "address_line_2": "6th floor",
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/apothecom-a-medistrava-company",
+          "linkedin_id": "28321",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "apothecom.com"
+        },
+        "location_names": [],
+        "end_date": "2014-12",
+        "start_date": "2014-10",
+        "title": {
+          "name": "account director (medical education)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "apothecom, an inizio company",
+          "size": "201-500",
+          "id": "26kqhPPZyuxBtgUc8NfhuAP1CbNe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "26 southampton buildings holborn gate",
+            "address_line_2": "6th floor",
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/apothecom-a-medistrava-company",
+          "linkedin_id": "28321",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "apothecom.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-10",
+        "start_date": "2012-10",
+        "title": {
+          "name": "senior account manager (medical education)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipg health medical communications",
+          "size": "501-1000",
+          "id": "SnvDEcRcWx5veLLCJEC6IgUtgvsv",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "622 third avenue",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/ipg-health-medical-communications",
+          "linkedin_id": "86707532",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ohmedcomms.com"
+        },
+        "location_names": [],
+        "end_date": "2012-10",
+        "start_date": "2010-10",
+        "title": {
+          "name": "account manager (medical education / advertising)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ipg health medical communications",
+          "size": "501-1000",
+          "id": "SnvDEcRcWx5veLLCJEC6IgUtgvsv",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "622 third avenue",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/ipg-health-medical-communications",
+          "linkedin_id": "86707532",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ohmedcomms.com"
+        },
+        "location_names": [],
+        "end_date": "2010-10",
+        "start_date": "2010-08",
+        "title": {
+          "name": "account executive (medical education)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "cranfield university",
+          "type": "post-secondary institution",
+          "id": "T8kuM6VjCBmdh7mtfjNdnQ_0000",
+          "location": {
+            "name": "cranfield, england, united kingdom",
+            "locality": "cranfield",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cranfield-university",
+          "facebook_url": "facebook.com/cranfielduni",
+          "twitter_url": "twitter.com/cranfielduni",
+          "linkedin_id": "163246",
+          "website": "cranfield.ac.uk",
+          "domain": "cranfield.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2009",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "king's college london",
+          "type": "post-secondary institution",
+          "id": "2q2YIlBvBucJNrXjuIZYyQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/king's-college-london",
+          "facebook_url": "facebook.com/kingscollegelondon",
+          "twitter_url": "twitter.com/kingscollegelon",
+          "linkedin_id": "7198",
+          "website": "kcl.ac.uk",
+          "domain": "kcl.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "london south bank university",
+          "type": "post-secondary institution",
+          "id": "qbynYpxgtkakvgLpyUSd6Q_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lsbu",
+          "facebook_url": "facebook.com/londonsouthbankuni",
+          "twitter_url": "twitter.com/lsbu",
+          "linkedin_id": "12252",
+          "website": "lsbu.ac.uk",
+          "domain": "lsbu.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2003",
+        "majors": [
+          "biotechnology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "achimota school",
+          "type": "secondary school",
+          "id": "cTn3HXRIlWdpyX9n1FZsVA_0000",
+          "location": {
+            "name": "accra, greater accra, ghana",
+            "locality": "accra",
+            "region": "greater accra",
+            "country": "ghana",
+            "continent": "africa"
+          },
+          "linkedin_url": "linkedin.com/school/achimota-secondary-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18801118",
+          "website": "achimota.edu.gh",
+          "domain": "achimota.edu.gh"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bishop",
+          "type": "post-secondary institution",
+          "id": "asgpJfGTBXAb4-1o6Qq6-w_0000",
+          "location": {
+            "name": "mobile, alabama, united states",
+            "locality": "mobile",
+            "region": "alabama",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/bishop-state-community-college",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1327604",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "48214223",
+        "url": "linkedin.com/in/derek-annan-phd",
+        "username": "derek-annan-phd"
+      },
+      {
+        "network": "linkedin",
+        "id": "48214223",
+        "url": "linkedin.com/in/derek-annan-phd-8bb19114",
+        "username": "derek-annan-phd-8bb19114"
+      },
+      {
+        "network": "linkedin",
+        "id": "48214223",
+        "url": "linkedin.com/in/derek-annan-8bb19114",
+        "username": "derek-annan-8bb19114"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

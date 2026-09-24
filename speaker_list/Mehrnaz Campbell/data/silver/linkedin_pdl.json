@@ -1,0 +1,173 @@
+{
+  "record_id": "speaker-dubrovnik-111",
+  "speaker_name": "Mehrnaz Campbell",
+  "linkedin_url": "https://www.linkedin.com/in/mehrnazcampbell/",
+  "likelihood": 9,
+  "full_name": "mehrnaz campbell",
+  "job_title": "founder & chief executive officer",
+  "industry": "pharmaceuticals",
+  "current_company": "cheemia",
+  "current_company_website": "cheemia.co.uk",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "artificial intelligence for business",
+    "business strategy",
+    "cardiology",
+    "crm",
+    "cross functional team leadership",
+    "cybersecurity",
+    "diabetes",
+    "endocrinology",
+    "healthcare",
+    "healthcare consulting",
+    "hospital sales",
+    "industry judge",
+    "juggling",
+    "key account management",
+    "leadership",
+    "market access",
+    "negotiation",
+    "neurology",
+    "omni channel marketing",
+    "pharmaceutical consulting",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "presentation coaching",
+    "product launch",
+    "remote access",
+    "remote access trainer",
+    "rheumatology",
+    "sales",
+    "sales effectiveness",
+    "speaker",
+    "strategy",
+    "urology",
+    "video conferencing"
+  ],
+  "interests": [
+    "cooking and entertaining",
+    "copywriting",
+    "marketing",
+    "skiing",
+    "trekking",
+    "walking"
+  ],
+  "experience": [
+    {
+      "title": "founder & chief executive officer",
+      "company": "cheemia",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "co-chair of pm society learning & development interest group",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "international keynote speaker",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "author",
+      "company": "the omni advantage",
+      "company_industry": null,
+      "start_date": "2023-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "pm society digital interest group member",
+      "company": "pm society",
+      "company_industry": "marketing and advertising",
+      "start_date": "2023-02",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "founder and lead trainer",
+      "company": "cheemia reset",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-04",
+      "end_date": null,
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "saïd business school, university of oxford",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2024-02",
+      "end_date": "2024-05"
+    },
+    {
+      "school": "alliance manchester business school",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1999",
+      "end_date": "2004"
+    },
+    {
+      "school": "the university of manchester",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1999",
+      "end_date": "2004"
+    },
+    {
+      "school": "cim | the chartered institute of marketing",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1996",
+      "end_date": "1997"
+    },
+    {
+      "school": "university of westminster",
+      "majors": [
+        "management",
+        "management studies"
+      ],
+      "degrees": [],
+      "start_date": "1994",
+      "end_date": "1996"
+    },
+    {
+      "school": "nursing",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1986",
+      "end_date": "1989"
+    },
+    {
+      "school": "tarbiat modares university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1980",
+      "end_date": "1984"
+    }
+  ]
+}

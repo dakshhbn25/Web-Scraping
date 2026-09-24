@@ -1,0 +1,187 @@
+{
+  "record_id": "speaker-dubrovnik-053",
+  "speaker_name": "Neha Shah",
+  "linkedin_url": "https://www.linkedin.com/in/shahnb/",
+  "likelihood": 9,
+  "full_name": "neha shah",
+  "job_title": "senior director, medical affairs and chief patient office technology",
+  "industry": "biotechnology",
+  "current_company": "vertex pharmaceuticals",
+  "current_company_website": "vrtx.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "afm",
+    "agarose gel electrophoresis",
+    "animal models",
+    "assay development",
+    "biomedical engineering",
+    "biotechnology",
+    "business engagement",
+    "cancer",
+    "cell",
+    "cell based assays",
+    "cell culture",
+    "cell culture process development",
+    "characterization",
+    "clinical trials",
+    "confocal microscopy",
+    "confocal raman microscopy",
+    "content strategy",
+    "covid 19",
+    "customer relationship management",
+    "digital marketing",
+    "digital strategy",
+    "doe",
+    "electrophoresis",
+    "elisa",
+    "facs",
+    "fermentation",
+    "flow cytometry",
+    "fluorescence",
+    "fluorescence microscopy",
+    "ftir",
+    "gel electrophoresis",
+    "gold nanoparticle synthesis",
+    "good clinical practice",
+    "histology",
+    "immunoassays",
+    "immunofluorescence",
+    "immunohistochemistry",
+    "in vitro",
+    "information technology",
+    "leadership",
+    "life sciences",
+    "medical affairs",
+    "medical devices",
+    "microscopy",
+    "molecular biology",
+    "nanoparticles",
+    "pcr",
+    "pharmaceutical industry",
+    "pre clinical cancer models",
+    "process development",
+    "process simulation",
+    "product lifecycle management",
+    "product management",
+    "rare diseases",
+    "real world evidence",
+    "regulatory interactions",
+    "regulatory requirements",
+    "scientific communications",
+    "small scale bioreactors",
+    "technology transfer",
+    "tissue culture",
+    "tissue engineering",
+    "transfection",
+    "transmission electron microscopy"
+  ],
+  "interests": [
+    "children",
+    "education",
+    "health",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "senior director, medical affairs and chief patient office technology",
+      "company": "vertex pharmaceuticals",
+      "company_industry": "biotechnology",
+      "start_date": "2024",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director, digital medical affairs",
+      "company": "moderna",
+      "company_industry": "biotechnology",
+      "start_date": "2022-03",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior director, global scientific affairs and diagnostics, rare diseases",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, medical affairs project management",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016",
+      "end_date": "2017",
+      "is_primary": false
+    },
+    {
+      "title": "senior scientist",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012",
+      "end_date": "2016",
+      "is_primary": false
+    },
+    {
+      "title": "collaborator",
+      "company": "lifecell, an acelity company",
+      "company_industry": "biotechnology",
+      "start_date": "2007",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "phd candidate / nih pre-doctoral fellow",
+      "company": "university of minnesota",
+      "company_industry": "higher education",
+      "start_date": "2006",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "biochemical engineer",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "summer intern",
+      "company": "celgene",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004",
+      "end_date": "2004",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "rutgers university",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of minnesota",
+      "majors": [
+        "biomedical engineering"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

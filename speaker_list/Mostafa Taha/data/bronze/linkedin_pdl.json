@@ -1,0 +1,702 @@
+{
+  "record_id": "speaker-dubrovnik-031",
+  "speaker_name": "Mostafa Taha",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/mostafa-taha-b7ab651a/",
+  "scraped_at": "2026-09-18T09:36:09.233528+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "ay8nL1dBOQPpAAbVws5euQ_0000",
+    "full_name": "mostafa taha",
+    "first_name": "mostafa",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "t",
+    "last_name": "taha",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/mostafa-taha-b7ab651a",
+    "linkedin_username": "mostafa-taha-b7ab651a",
+    "linkedin_id": "68563534",
+    "facebook_url": "facebook.com/mostafa.taha",
+    "facebook_username": "mostafa.taha",
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "vice president, head of global business transformation",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director",
+      "vp"
+    ],
+    "job_company_id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+    "job_company_name": "merck healthcare",
+    "job_company_website": null,
+    "job_company_size": "10001+",
+    "job_company_founded": 1668,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+    "job_company_linkedin_id": "4235",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "darmstadt, hesse, germany",
+    "job_company_location_locality": "darmstadt",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hesse",
+    "job_company_location_geo": "49.86,8.64",
+    "job_company_location_street_address": "250 frankfurter straße",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "64293",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2022-11-16",
+    "job_last_verified": "2026-07-08",
+    "job_start_date": "2022-11",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "united arab emirates",
+    "location_continent": "asia",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-04-20",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "cars",
+      "new technology",
+      "reading",
+      "traveling"
+    ],
+    "skills": [
+      "ai solutions",
+      "gtm transformation",
+      "marktech"
+    ],
+    "location_names": false,
+    "regions": false,
+    "countries": [
+      "united arab emirates"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "innovation, virginia, united states"
+        ],
+        "end_date": null,
+        "start_date": "2022-11",
+        "title": {
+          "name": "vice president, head of global business transformation",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2022-11",
+        "start_date": "2020-11",
+        "title": {
+          "name": "chief transformation lead - global",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2019-04",
+        "title": {
+          "name": "global head of business analytics & solutions",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2018-04",
+        "title": {
+          "name": "director, emea head of insights & analytics",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2018-03",
+        "start_date": "2017-06",
+        "title": {
+          "name": "senior insights lead - oncology - region europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2017-05",
+        "start_date": "2014-06",
+        "title": {
+          "name": "regional marketing manager (oncology)",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck healthcare",
+          "size": "10001+",
+          "id": "L8xH04uXvTmjvAGIZVQlxQyJbKg0",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter straße",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/healthcarebusinessofmerck",
+          "linkedin_id": "4235",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2014-05",
+        "start_date": "2014-02",
+        "title": {
+          "name": "regional therapeutic area manager, oncology",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2014-02",
+        "start_date": "2010-03",
+        "title": {
+          "name": "product manager (oncology)",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2010-09",
+        "start_date": "2010-03",
+        "title": {
+          "name": "project manager (oncology and molecular diagnostics)",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2010-03",
+        "start_date": "2007-11",
+        "title": {
+          "name": "disease area specialist (oncology)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": "2007-10",
+        "start_date": "2005-12",
+        "title": {
+          "name": "medical representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2005-12",
+        "start_date": "2005-04",
+        "title": {
+          "name": "hematology product specialist",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the university of manchester",
+          "type": "post-secondary institution",
+          "id": "qLE6zhDOgOvFfpaodkxmOg_0000",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-manchester",
+          "facebook_url": "facebook.com/theuniversityofmanchester",
+          "twitter_url": "twitter.com/officialuom",
+          "linkedin_id": "166652",
+          "website": "manchester.ac.uk",
+          "domain": "manchester.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2020",
+        "end_date": "2021",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "helwan university cairo",
+          "type": "post-secondary institution",
+          "id": "YMJLVshqn8k53X2HiZnl7w_0000",
+          "location": {
+            "name": "cairo, cairo, egypt",
+            "locality": "cairo",
+            "region": "cairo",
+            "country": "egypt",
+            "continent": "africa"
+          },
+          "linkedin_url": "linkedin.com/school/helwan-university",
+          "facebook_url": "facebook.com/helwan.edu.eg1",
+          "twitter_url": null,
+          "linkedin_id": "1070071",
+          "website": "helwan.edu.eg",
+          "domain": "helwan.edu.eg"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1997",
+        "end_date": "2002",
+        "majors": [
+          "pharmaceutical science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "birmingham - southern college",
+          "type": "post-secondary institution",
+          "id": "M-PY59vLf-WcBeMOB4ztAA_0000",
+          "location": {
+            "name": "birmingham, alabama, united states",
+            "locality": "birmingham",
+            "region": "alabama",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/birmingham-southern-college",
+          "facebook_url": "facebook.com/birminghamsouthern",
+          "twitter_url": "twitter.com/fromthehilltop",
+          "linkedin_id": "30560",
+          "website": "bsc.edu",
+          "domain": "bsc.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mit sloan executive education",
+          "type": "post-secondary institution",
+          "id": "8DHmdJ1BSpy2Rg73PzPx2w_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-executive-education",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "2609174",
+          "website": "exec.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "68563534",
+        "url": "linkedin.com/in/mostafa-taha-b7ab651a",
+        "username": "mostafa-taha-b7ab651a"
+      },
+      {
+        "network": "facebook",
+        "id": null,
+        "url": "facebook.com/mostafa.taha",
+        "username": "mostafa.taha"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

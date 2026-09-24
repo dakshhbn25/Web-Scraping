@@ -1,0 +1,724 @@
+{
+  "record_id": "speaker-viennacx-043",
+  "speaker_name": "Romika Bhowmick",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/romika-bhowmick/",
+  "scraped_at": "2026-09-18T10:26:20.356504+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "rhYLbA9xMvhp07br0nwc7w_0000",
+    "full_name": "romika bhowmick",
+    "first_name": "romika",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bhowmick",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/romika-bhowmick",
+    "linkedin_username": "romika-bhowmick",
+    "linkedin_id": "78723931",
+    "facebook_url": "facebook.com/romika.bhowmick",
+    "facebook_username": "romika.bhowmick",
+    "facebook_id": "604486412",
+    "twitter_url": "twitter.com/romikab",
+    "twitter_username": "romikab",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "banking",
+    "job_title": null,
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": null,
+    "job_company_name": null,
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": null,
+    "job_last_verified": null,
+    "job_start_date": null,
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-06-29",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile methodologies",
+      "ai for leadership",
+      "ai governance",
+      "analytics",
+      "artificial intelligence",
+      "artificial intelligence foundations",
+      "banking",
+      "brand management",
+      "business analysis",
+      "business case development",
+      "business development",
+      "business partner relations",
+      "business planning",
+      "business process improvement",
+      "business strategy",
+      "business to business",
+      "change management",
+      "channel strategy",
+      "coaching",
+      "communication",
+      "community of practice",
+      "competitive analysis",
+      "content strategy",
+      "crm",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer experience",
+      "customer relationship management",
+      "data analysis",
+      "data driven decision making",
+      "data strategies",
+      "digital marketing",
+      "digital strategy",
+      "e commerce",
+      "emerging technologies",
+      "environmental",
+      "external communications",
+      "generative ai for management",
+      "governance",
+      "internal and external communications",
+      "international business leadership",
+      "it strategy",
+      "leadership",
+      "management",
+      "market research",
+      "marketing",
+      "marketing strategy",
+      "microsoft office",
+      "multi channel marketing",
+      "new business development",
+      "omni channel marketing",
+      "operational excellence",
+      "pharmaceutical marketing",
+      "possess strong analytical",
+      "product development",
+      "program management",
+      "project management",
+      "retail",
+      "revenue generation",
+      "sales",
+      "sales and marketing",
+      "sales strategy",
+      "social",
+      "stakeholder engagement",
+      "strategic initiatives",
+      "strategic marketing",
+      "strategic partnerships",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "strategy to execution",
+      "team leadership",
+      "team management",
+      "teamwork",
+      "technology integration"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands",
+      "india"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2026-03",
+        "start_date": "2024-04",
+        "title": {
+          "name": "head of external digital channels",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2024-04",
+        "start_date": "2022-07",
+        "title": {
+          "name": "director, head of commercial digital platform strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2024-04",
+        "start_date": "2020-04",
+        "title": {
+          "name": "associate director commercial platforms strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2020-04",
+        "start_date": "2018-11",
+        "title": {
+          "name": "senior manager - digital commercial (europe & international markets)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "stryker",
+          "size": "10001+",
+          "id": "JSsHgnYhafePlE0C9LauVwYEPtwu",
+          "founded": 1941,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "portage, michigan, united states",
+            "locality": "portage",
+            "region": "michigan",
+            "metro": "kalamazoo, michigan",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2825 airview boulevard",
+            "address_line_2": null,
+            "postal_code": "49002",
+            "geo": "42.18,-85.60"
+          },
+          "linkedin_url": "linkedin.com/company/stryker",
+          "linkedin_id": "3282",
+          "facebook_url": "facebook.com/strykercareers",
+          "twitter_url": "twitter.com/stryker_jobs",
+          "website": "stryker.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2017-11",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "yes bank",
+          "size": "10001+",
+          "id": "i8s5V9jOoJXf3mogAmCfyQWs0g61",
+          "founded": 2004,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "mumbai, maharashtra, india",
+            "locality": "mumbai",
+            "region": "maharashtra",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "19.07,72.87"
+          },
+          "linkedin_url": "linkedin.com/company/yes-bank",
+          "linkedin_id": "269604",
+          "facebook_url": "facebook.com/yesbank",
+          "twitter_url": "twitter.com/yesbank",
+          "website": "yesbank.in"
+        },
+        "location_names": [
+          "mumbai, maharashtra, india"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2016-02",
+        "title": {
+          "name": "senior manager products",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "axis bank",
+          "size": "10001+",
+          "id": "BmlpvghWkx6IFg5gYgizUAhtzEHJ",
+          "founded": 1994,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "prabhadevi, maharashtra, india",
+            "locality": "prabhadevi",
+            "region": "maharashtra",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "400025",
+            "geo": "19.01,72.82"
+          },
+          "linkedin_url": "linkedin.com/company/axis-bank",
+          "linkedin_id": "162609",
+          "facebook_url": "facebook.com/axisbank",
+          "twitter_url": null,
+          "website": "axisbank.com"
+        },
+        "location_names": [
+          "mumbai, maharashtra, india",
+          "prabhadevi, maharashtra, india"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2015-04",
+        "title": {
+          "name": "manager - affluent business (burgundy by axis bank)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "axis bank",
+          "size": "10001+",
+          "id": "BmlpvghWkx6IFg5gYgizUAhtzEHJ",
+          "founded": 1994,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "prabhadevi, maharashtra, india",
+            "locality": "prabhadevi",
+            "region": "maharashtra",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "400025",
+            "geo": "19.01,72.82"
+          },
+          "linkedin_url": "linkedin.com/company/axis-bank",
+          "linkedin_id": "162609",
+          "facebook_url": "facebook.com/axisbank",
+          "twitter_url": null,
+          "website": "axisbank.com"
+        },
+        "location_names": [
+          "mumbai, maharashtra, india"
+        ],
+        "end_date": "2015-03",
+        "start_date": "2013-08",
+        "title": {
+          "name": "business solutions manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2025-10",
+        "end_date": "2026-06",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2025-01",
+        "end_date": "2026-12",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "goa institute of management (gim)",
+          "type": "post-secondary institution",
+          "id": "OhxjvW6p-ZZAhIzglAY70A_0000",
+          "location": {
+            "name": "sanquelim, goa, india",
+            "locality": "sanquelim",
+            "region": "goa",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/goa-institute-of-management-gim",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "458894",
+          "website": "gim.ac.in",
+          "domain": "gim.ac.in"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2011-01",
+        "end_date": "2013",
+        "majors": [
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "national institute of fashion technology",
+          "type": "post-secondary institution",
+          "id": "z4otST6Y7awhgqb-otnPJg_0000",
+          "location": {
+            "name": "chennai, tamil nadu, india",
+            "locality": "chennai",
+            "region": "tamil nadu",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/national-institute-of-fashion-technology",
+          "facebook_url": "facebook.com/nationalinstituteoffashiontechnologyindia",
+          "twitter_url": "twitter.com/niftnewdelhi",
+          "linkedin_id": "15112561",
+          "website": "nift.ac.in",
+          "domain": "nift.ac.in"
+        },
+        "degrees": [
+          "bachelor of technology",
+          "bachelors"
+        ],
+        "start_date": "2005-01",
+        "end_date": "2009",
+        "majors": [
+          "apparel and textiles"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "national institute of fashion technology",
+          "type": "post-secondary institution",
+          "id": "z4otST6Y7awhgqb-otnPJg_0000",
+          "location": {
+            "name": "chennai, tamil nadu, india",
+            "locality": "chennai",
+            "region": "tamil nadu",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/national-institute-of-fashion-technology",
+          "facebook_url": "facebook.com/nationalinstituteoffashiontechnologyindia",
+          "twitter_url": "twitter.com/niftnewdelhi",
+          "linkedin_id": "15112561",
+          "website": "nift.ac.in",
+          "domain": "nift.ac.in"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": "2009",
+        "majors": [
+          "fashion"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bhs",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "birla high school",
+          "type": "secondary school",
+          "id": "zA-BYS1lsY1dEHubhGj-1w_0000",
+          "location": {
+            "name": "kolkata, west bengal, india",
+            "locality": "kolkata",
+            "region": "west bengal",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/company/birla-high-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "42822370",
+          "website": "birlahighschool.com",
+          "domain": "birlahighschool.com"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "78723931",
+        "url": "linkedin.com/in/romika-bhowmick",
+        "username": "romika-bhowmick"
+      },
+      {
+        "network": "facebook",
+        "id": "604486412",
+        "url": "facebook.com/romika.bhowmick",
+        "username": "romika.bhowmick"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/romikab",
+        "username": "romikab"
+      },
+      {
+        "network": "linkedin",
+        "id": "78723931",
+        "url": "linkedin.com/in/romika-bhowmick-9b744522",
+        "username": "romika-bhowmick-9b744522"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

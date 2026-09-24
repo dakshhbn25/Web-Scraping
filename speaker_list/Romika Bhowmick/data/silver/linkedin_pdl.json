@@ -1,0 +1,229 @@
+{
+  "record_id": "speaker-viennacx-043",
+  "speaker_name": "Romika Bhowmick",
+  "linkedin_url": "https://www.linkedin.com/in/romika-bhowmick/",
+  "likelihood": 9,
+  "full_name": "romika bhowmick",
+  "job_title": null,
+  "industry": "banking",
+  "current_company": null,
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "ai for leadership",
+    "ai governance",
+    "analytics",
+    "artificial intelligence",
+    "artificial intelligence foundations",
+    "banking",
+    "brand management",
+    "business analysis",
+    "business case development",
+    "business development",
+    "business partner relations",
+    "business planning",
+    "business process improvement",
+    "business strategy",
+    "business to business",
+    "change management",
+    "channel strategy",
+    "coaching",
+    "communication",
+    "community of practice",
+    "competitive analysis",
+    "content strategy",
+    "crm",
+    "cross functional team leadership",
+    "customer engagement",
+    "customer experience",
+    "customer relationship management",
+    "data analysis",
+    "data driven decision making",
+    "data strategies",
+    "digital marketing",
+    "digital strategy",
+    "e commerce",
+    "emerging technologies",
+    "environmental",
+    "external communications",
+    "generative ai for management",
+    "governance",
+    "internal and external communications",
+    "international business leadership",
+    "it strategy",
+    "leadership",
+    "management",
+    "market research",
+    "marketing",
+    "marketing strategy",
+    "microsoft office",
+    "multi channel marketing",
+    "new business development",
+    "omni channel marketing",
+    "operational excellence",
+    "pharmaceutical marketing",
+    "possess strong analytical",
+    "product development",
+    "program management",
+    "project management",
+    "retail",
+    "revenue generation",
+    "sales",
+    "sales and marketing",
+    "sales strategy",
+    "social",
+    "stakeholder engagement",
+    "strategic initiatives",
+    "strategic marketing",
+    "strategic partnerships",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "strategy to execution",
+    "team leadership",
+    "team management",
+    "teamwork",
+    "technology integration"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of external digital channels",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "director, head of commercial digital platform strategy",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-07",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate director commercial platforms strategy",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-04",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager - digital commercial (europe & international markets)",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-11",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "stryker",
+      "company_industry": "medical devices",
+      "start_date": "2017-11",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager products",
+      "company": "yes bank",
+      "company_industry": "banking",
+      "start_date": "2016-02",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "manager - affluent business (burgundy by axis bank)",
+      "company": "axis bank",
+      "company_industry": "banking",
+      "start_date": "2015-04",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "business solutions manager",
+      "company": "axis bank",
+      "company_industry": "banking",
+      "start_date": "2013-08",
+      "end_date": "2015-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2025-10",
+      "end_date": "2026-06"
+    },
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2026-12"
+    },
+    {
+      "school": "goa institute of management (gim)",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "national institute of fashion technology",
+      "majors": [
+        "apparel and textiles"
+      ],
+      "degrees": [
+        "bachelor of technology",
+        "bachelors"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "national institute of fashion technology",
+      "majors": [
+        "fashion"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "school": "bhs",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "birla high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

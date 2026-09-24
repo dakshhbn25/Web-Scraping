@@ -1,0 +1,662 @@
+{
+  "record_id": "speaker-dubrovnik-073",
+  "speaker_name": "Arantxa Mugica Goicoechea",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/arantxamg/?locale=en",
+  "scraped_at": "2026-09-18T09:37:40.360969+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "DfKlhBOlb7bKjrGb3lEUFw_0000",
+    "full_name": "arantxa goicoechea",
+    "first_name": "arantxa",
+    "middle_initial": "m",
+    "middle_name": "mugica",
+    "last_initial": "g",
+    "last_name": "goicoechea",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/arantxamg",
+    "linkedin_username": "arantxamg",
+    "linkedin_id": "181898261",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior director, international web product strategy",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "web",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+    "job_company_name": "eli lilly and company",
+    "job_company_website": "lilly.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1876,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+    "job_company_linkedin_id": "1663",
+    "job_company_facebook_url": "facebook.com/elilillyandco",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "indianapolis, indiana, united states",
+    "job_company_location_locality": "indianapolis",
+    "job_company_location_metro": "indianapolis, indiana",
+    "job_company_location_region": "indiana",
+    "job_company_location_geo": "39.83,-86.09",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "46285",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-10-10",
+    "job_last_verified": "2026-05-18",
+    "job_start_date": "2025-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-05-25",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "acceso a mercados",
+      "analytical skills",
+      "asistencia sanitaria",
+      "brand strategy",
+      "branding",
+      "business insights",
+      "business planning",
+      "campaigns",
+      "comunicaciones de marketing",
+      "critical thinking",
+      "digital campaigns",
+      "digital media",
+      "digital strategy",
+      "disease awareness campaigns",
+      "estrategia",
+      "estrategia de mercadotecnia",
+      "estrategia digital",
+      "leadership",
+      "liderazgo de equipos multidisciplinarios",
+      "market access",
+      "market research",
+      "marketing",
+      "marketing campaigns",
+      "marketing communications",
+      "marketing digital",
+      "marketing strategy",
+      "mercadotecnia",
+      "operations",
+      "patient advocacy",
+      "pharmaceutical industry",
+      "plan de negocio",
+      "project management",
+      "recruiting",
+      "redes sociales",
+      "sales",
+      "social media",
+      "strategic communications",
+      "strategic planning",
+      "strategy",
+      "teamwork",
+      "trabajo en equipo",
+      "ventas"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain",
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": null,
+        "start_date": "2025-11",
+        "title": {
+          "name": "senior director, international web product strategy",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "web",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2025-11",
+        "start_date": "2024-06",
+        "title": {
+          "name": "associate director, international digital engagement strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2024-05",
+        "start_date": "2021-06",
+        "title": {
+          "name": "associate director, international strategy and operations, oncology",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2020-06",
+        "title": {
+          "name": "international marketing oncology - assignment",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "european health parliament",
+          "size": "51-200",
+          "id": "GtFyyulfDFeRhRbki5o9mwjBmevJ",
+          "founded": 2014,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 rue wiertz",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/european-health-parliament",
+          "linkedin_id": "5349003",
+          "facebook_url": "facebook.com/healthparliament",
+          "twitter_url": null,
+          "website": "healthparliament.eu"
+        },
+        "location_names": [],
+        "end_date": "2018-06",
+        "start_date": "2017-10",
+        "title": {
+          "name": "robotics, artificial intelligence and precision medicine committee member",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-05",
+        "start_date": "2017-07",
+        "title": {
+          "name": "european digital corporate affairs manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2017-06",
+        "start_date": "2015-08",
+        "title": {
+          "name": "corporate affairs senior associate",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [],
+        "end_date": "2015-08",
+        "start_date": "2013-08",
+        "title": {
+          "name": "corporate affairs associate",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [
+          "madrid, community of madrid, spain"
+        ],
+        "end_date": "2013-07",
+        "start_date": "2012-07",
+        "title": {
+          "name": "corporate affairs / business development trainee",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "iese business school",
+          "type": "post-secondary institution",
+          "id": "Y87BftjK52-iFSI18DQsaA_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/iese-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164299",
+          "website": "iese.edu",
+          "domain": "iese.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2023-09",
+        "end_date": "2025-04",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esic business & marketing school",
+          "type": "post-secondary institution",
+          "id": "HZpa-1BSzDP5pfw824HABw_0000",
+          "location": {
+            "name": "pozuelo de alarcon, community of madrid, spain",
+            "locality": "pozuelo de alarcon",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/esic",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15106496",
+          "website": "esic.edu",
+          "domain": "esic.edu"
+        },
+        "degrees": [],
+        "start_date": "2015-01",
+        "end_date": "2015",
+        "majors": [
+          "healthcare",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad autónoma de madrid",
+          "type": "post-secondary institution",
+          "id": "eYSJNAZmtyWHXLB86JlKyg_0000",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-autonoma-de-madrid",
+          "facebook_url": "facebook.com/universidadautonomademadrid",
+          "twitter_url": "twitter.com/uam_madrid",
+          "linkedin_id": "166613",
+          "website": "uam.es",
+          "domain": "uam.es"
+        },
+        "degrees": [],
+        "start_date": "2012",
+        "end_date": "2013",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of florida",
+          "type": "post-secondary institution",
+          "id": "9gzgAuUYLnuZqKWbbYZaEg_0000",
+          "location": {
+            "name": "gainesville, florida, united states",
+            "locality": "gainesville",
+            "region": "florida",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/uflorida",
+          "facebook_url": "facebook.com/uflorida",
+          "twitter_url": "twitter.com/uf",
+          "linkedin_id": "4282",
+          "website": "ufl.edu",
+          "domain": "ufl.edu"
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2011",
+        "majors": [
+          "epidemiology",
+          "global health",
+          "management",
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of navarra",
+          "type": "post-secondary institution",
+          "id": "YLmXBWgmHOcMra9sgibAQg_0000",
+          "location": {
+            "name": "pamplona/iruña, navarre, spain",
+            "locality": "pamplona/iruña",
+            "region": "navarre",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-navarra-cp",
+          "facebook_url": "facebook.com/unav",
+          "twitter_url": "twitter.com/unav",
+          "linkedin_id": "26328",
+          "website": "unav.edu",
+          "domain": "unav.edu"
+        },
+        "degrees": [],
+        "start_date": "2007-01",
+        "end_date": "2012",
+        "majors": [
+          "management",
+          "marketing",
+          "public health"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "181898261",
+        "url": "linkedin.com/in/arantxamg",
+        "username": "arantxamg"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/arantxa-mugica-goicoechea-245b0150",
+        "username": "arantxa-mugica-goicoechea-245b0150"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

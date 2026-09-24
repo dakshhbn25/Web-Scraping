@@ -1,0 +1,660 @@
+{
+  "record_id": "speaker-viennacx-035",
+  "speaker_name": "Vladimir Nimec",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/vnimec/?skipRedirect=true",
+  "scraped_at": "2026-09-18T10:26:05.256868+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "AxEfiG1lL3mOOJgybBFJuQ_0000",
+    "full_name": "vladimir nimec",
+    "first_name": "vladimir",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "n",
+    "last_name": "nimec",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/vnimec",
+    "linkedin_username": "vnimec",
+    "linkedin_id": "533755815",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "head of applied ai solutions",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+    "job_company_name": "daiichi sankyo europe gmbh",
+    "job_company_website": "daiichi-sankyo.eu",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1899,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+    "job_company_linkedin_id": "801298",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "münchen, bavaria, germany",
+    "job_company_location_locality": "münchen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "bavaria",
+    "job_company_location_geo": "48.15,11.55",
+    "job_company_location_street_address": "48 zielstattstraße",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "81379",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-07-20",
+    "job_start_date": "2025-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-01-06",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "agile development",
+      "agile methodologies",
+      "ai strategy",
+      "amazon redshift",
+      "amazon web services",
+      "analytical skills",
+      "analytics",
+      "apache spark",
+      "artificial intelligence",
+      "azure databricks",
+      "bid preparation",
+      "big data",
+      "c",
+      "ci/cd",
+      "cloud computing",
+      "communication",
+      "consulting",
+      "critical thinking",
+      "data analysis",
+      "data architecture",
+      "data engineering",
+      "data management",
+      "data modeling",
+      "data quality",
+      "data strategies",
+      "databircks",
+      "delta lake",
+      "devops",
+      "digital transformation",
+      "extract",
+      "general data protection regulation",
+      "generative ai",
+      "git",
+      "image processing",
+      "keras",
+      "key performance indicators",
+      "latex",
+      "leadership",
+      "load",
+      "machine learning",
+      "microsoft azure",
+      "mlops",
+      "postgresql",
+      "problem solving",
+      "product leadership",
+      "product strategy",
+      "project management",
+      "python",
+      "python",
+      "pytorch",
+      "regulatory compliance",
+      "snowflake",
+      "solution architecture",
+      "sql",
+      "strategic planning",
+      "tableau",
+      "team leadership",
+      "team management",
+      "technical leadership",
+      "transform"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": null,
+        "start_date": "2025-08",
+        "title": {
+          "name": "head of applied ai solutions",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2025-07",
+        "start_date": "2024-08",
+        "title": {
+          "name": "director data & ai",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [],
+        "end_date": "2024-08",
+        "start_date": "2022-12",
+        "title": {
+          "name": "data science and data engineering senior manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2022-11",
+        "start_date": "2022-06",
+        "title": {
+          "name": "data engineer - architect",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_engineering",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "accenture",
+          "size": "10001+",
+          "id": "NYYbtRj1s6utKbHMHSioGQntpYZ9",
+          "founded": 1989,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 2",
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/accenture",
+          "linkedin_id": "1033",
+          "facebook_url": "facebook.com/accenture",
+          "twitter_url": "twitter.com/accenture",
+          "website": "accenture.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": "2022-06",
+        "start_date": "2020-03",
+        "title": {
+          "name": "senior analyst - data & ai",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "udacity",
+          "size": "201-500",
+          "id": "3BZrDtsaebrUnK09kZB8bQe9ltfI",
+          "founded": 2011,
+          "industry": "e-learning",
+          "industry_v2": null,
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "2440 west el camino real",
+            "address_line_2": null,
+            "postal_code": "94040",
+            "geo": "37.38,-122.07"
+          },
+          "linkedin_url": "linkedin.com/school/udacity",
+          "linkedin_id": "2475568",
+          "facebook_url": "facebook.com/udacity",
+          "twitter_url": "twitter.com/udacity",
+          "website": "udacity.com"
+        },
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2019-02",
+        "title": {
+          "name": "independent consulting",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2020-03",
+        "start_date": "2018-01",
+        "title": {
+          "name": "machine learning engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "orno",
+          "size": "1-10",
+          "id": "D5P7dgHXXUmfiRfnmsvXYAEI3k2Y",
+          "founded": 2019,
+          "industry": "restaurants",
+          "industry_v2": "restaurants",
+          "location": {
+            "name": "vicente lópez, buenos aires, argentina",
+            "locality": "vicente lópez",
+            "region": "buenos aires",
+            "metro": null,
+            "country": "argentina",
+            "continent": "south america",
+            "street_address": "402 corrientes",
+            "address_line_2": null,
+            "postal_code": "b1636gej",
+            "geo": "-34.53,-58.47"
+          },
+          "linkedin_url": "linkedin.com/company/ornopizzeria",
+          "linkedin_id": "81597706",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ornopizzeria.com"
+        },
+        "location_names": [],
+        "end_date": "2017-12",
+        "start_date": "2016-02",
+        "title": {
+          "name": "data scientist",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lidl lietuva",
+          "size": "1001-5000",
+          "id": "4CoFFjDBwTC25QzBaOCTCQaMfjsV",
+          "founded": 2002,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "vilnius, vilniaus miestas, lithuania",
+            "locality": "vilnius",
+            "region": "vilniaus miestas",
+            "metro": null,
+            "country": "lithuania",
+            "continent": "europe",
+            "street_address": "34-1 viršuliškių skg.",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "54.68,25.28"
+          },
+          "linkedin_url": "linkedin.com/company/lidl-lietuva",
+          "linkedin_id": "1671431",
+          "facebook_url": "facebook.com/lidllietuva",
+          "twitter_url": null,
+          "website": "lidl.lt"
+        },
+        "location_names": [],
+        "end_date": "2014-07",
+        "start_date": "2013-02",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kauno savivaldybė",
+          "size": "501-1000",
+          "id": "J1M7eCoIYLu1z2m4tW2QzgXcASZ4",
+          "founded": null,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "kaunas, kauno miestas, lithuania",
+            "locality": "kaunas",
+            "region": "kauno miestas",
+            "metro": null,
+            "country": "lithuania",
+            "continent": "europe",
+            "street_address": "96 laisves aleja",
+            "address_line_2": null,
+            "postal_code": "44251",
+            "geo": "54.89,23.88"
+          },
+          "linkedin_url": "linkedin.com/company/kaunosavivaldybe",
+          "linkedin_id": "17996328",
+          "facebook_url": "facebook.com/kaunosavivaldybe",
+          "twitter_url": null,
+          "website": "kaunas.lt"
+        },
+        "location_names": [
+          "kaunas, kauno miestas, lithuania"
+        ],
+        "end_date": "2013",
+        "start_date": "2012",
+        "title": {
+          "name": "senior specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ecocentras npo",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "vilnius, vilniaus miestas, lithuania"
+        ],
+        "end_date": "2012",
+        "start_date": "2012",
+        "title": {
+          "name": "chief consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eirene",
+          "size": "501-1000",
+          "id": "KRjsBk1hDFsdf3mOVWwVUgMcNP4g",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/eirene-ny",
+          "linkedin_id": "78467052",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "eirene.inc"
+        },
+        "location_names": [],
+        "end_date": "2013",
+        "start_date": "2011",
+        "title": {
+          "name": "founder & chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2012",
+        "start_date": "2009",
+        "title": {
+          "name": "architect",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "vilnius tech - vilnius gediminas technical university",
+          "type": "post-secondary institution",
+          "id": "35Oq-ZtmHO7jHqeV9mOfPw_0000",
+          "location": {
+            "name": "vilnius, vilniaus apskritis, lithuania",
+            "locality": "vilnius",
+            "region": "vilniaus apskritis",
+            "country": "lithuania",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vilniustech",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "206433",
+          "website": "vilniustech.lt",
+          "domain": "vilniustech.lt"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [
+          "architecture",
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "533755815",
+        "url": "linkedin.com/in/vnimec",
+        "username": "vnimec"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/vladimir-nimec-57390612a",
+        "username": "vladimir-nimec-57390612a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

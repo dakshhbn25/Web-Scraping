@@ -1,0 +1,257 @@
+{
+  "record_id": "speaker-viennacx-041",
+  "speaker_name": "Gökhan Salmanoglu",
+  "linkedin_url": "https://www.linkedin.com/in/gokhansalmanoglu/",
+  "likelihood": 9,
+  "full_name": "gökhan salmanoglu",
+  "job_title": "commercial lead / poland & east cluster (dual assignment)",
+  "industry": "pharmaceuticals",
+  "current_company": "pfizer",
+  "current_company_website": "pfizer.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "analysis",
+    "analytics",
+    "artificial intelligence",
+    "automation",
+    "b2b",
+    "brand management",
+    "business analytics",
+    "business development",
+    "business innovation",
+    "business model transformation",
+    "business operations",
+    "business planning",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "coaching",
+    "commercial excellence",
+    "commercial management",
+    "competitive analysis",
+    "creativity and innovation",
+    "crm",
+    "cross functional team leadership",
+    "customer engagement",
+    "customer insight",
+    "customer relationship management",
+    "digital marketing",
+    "digital strategy",
+    "digital transformation",
+    "email marketing",
+    "emerging markets",
+    "enterprise marketing",
+    "entrepreneurship",
+    "fast moving consumer goods",
+    "fmcg",
+    "integrated marketing",
+    "leadership",
+    "machine learning",
+    "management",
+    "market analysis",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "media strategy",
+    "mentoring",
+    "mobile devices",
+    "mobile marketing",
+    "multi channel marketing",
+    "negotiation",
+    "online advertising",
+    "organizational development",
+    "p and l oversight",
+    "p&l management",
+    "people management",
+    "product management",
+    "product marketing",
+    "program management",
+    "project management",
+    "segmentation",
+    "senior stakeholder management",
+    "social media",
+    "stakeholder management",
+    "strategic leadership",
+    "strategic planning",
+    "strategic thinking",
+    "strategy",
+    "team leadership",
+    "team management"
+  ],
+  "interests": [
+    "education",
+    "environment",
+    "health",
+    "human rights",
+    "politics",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "commercial lead / poland & east cluster (dual assignment)",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "commercial excellence and ai transformation leader, international markets",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "emerging markets bu lead (sr. director)",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023",
+      "end_date": "2024-04",
+      "is_primary": false
+    },
+    {
+      "title": "global lead, bold move gtm transformation - senior director",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-06",
+      "end_date": "2024",
+      "is_primary": false
+    },
+    {
+      "title": "germany country head, commercial excellence & operations",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "progressive leadership roles within commercial excellence and digital transformation",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-12",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "director, ceemea digital marketing lead / global lead, mobile innovation",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "2009-01",
+      "end_date": "2011-12",
+      "is_primary": false
+    },
+    {
+      "title": "progressive leadership roles in brand marketing and martech",
+      "company": "procter & gamble",
+      "company_industry": "consumer goods",
+      "start_date": "2005-01",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "associate brand manager",
+      "company": "aygaz",
+      "company_industry": "oil & energy",
+      "start_date": "2004-06",
+      "end_date": "2005-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "koç university",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2014",
+      "end_date": "2015"
+    },
+    {
+      "school": "adana fen lisesi",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "adana science high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "koç university",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "middle east technical university northern cyprus campus",
+      "majors": [
+        "industrial engineering"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "orta doğu teknik üniversitesi / middle east technical university",
+      "majors": [
+        "industrial engineering"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [
+        "finance"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "the wharton school",
+      "majors": [
+        "education",
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "yale school of management",
+      "majors": [
+        "behavioral science",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

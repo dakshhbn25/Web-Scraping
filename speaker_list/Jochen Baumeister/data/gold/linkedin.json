@@ -1,0 +1,240 @@
+{
+  "record_id": "speaker-dubrovnik-070",
+  "speaker_name": "Jochen Baumeister",
+  "designation": "AI Transformation & Behavioral Science in Regulated Enterprises",
+  "company": null,
+  "event_name": "Dubrovnik",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/jbaumeister/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Sandoz",
+  "linkedin_location": "Greater Munich Metropolitan Area, DE",
+  "linkedin_connections": "500",
+  "linkedin_followers": "2951",
+  "linkedin_about": "AI is changing how we run businesses<br><br> This transformation happens at the intersection of…",
+  "linkedin_about_en": null,
+  "linkedin_languages": "**German** (Native or bilingual proficiency), **English** (Full professional proficiency)",
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Thomas Kostka",
+      "company": "European Central Bank",
+      "profile_url": "https://de.linkedin.com/in/thomas-kostka-48b956109"
+    },
+    {
+      "name": "Rohit Rajan",
+      "company": "Allianz Commercial",
+      "profile_url": "https://de.linkedin.com/in/rohitrajandsa"
+    },
+    {
+      "name": "Ana Fraga",
+      "company": "Macquarie Group",
+      "profile_url": "https://uk.linkedin.com/in/ana-filipa-fraga"
+    },
+    {
+      "name": "Milos Krstajic",
+      "company": "Allianz",
+      "profile_url": "https://de.linkedin.com/in/milos-krstajic-89258825"
+    },
+    {
+      "name": "Paloma Lopez-Garcia",
+      "company": "European Central Bank",
+      "profile_url": "https://de.linkedin.com/in/paloma-lopez-garcia-18925381"
+    },
+    {
+      "name": "Andrea Tinella",
+      "company": "Cofidis Italia",
+      "profile_url": "https://it.linkedin.com/in/andreatinella"
+    },
+    {
+      "name": "Mahesh Gade",
+      "company": "Mytheresa",
+      "profile_url": "https://de.linkedin.com/in/maheshreddygade"
+    },
+    {
+      "name": "Qi Xu, CFA",
+      "company": "Allianz Global Investors",
+      "profile_url": "https://de.linkedin.com/in/qi-xu-cfa-1546b1133"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "sandoz",
+  "linkedin_current_company_website": "sandoz.com",
+  "linkedin_skills": [
+    "adobe analytics",
+    "adobe experience manager",
+    "ai governance",
+    "ai strategy",
+    "ai transformation",
+    "amazon web services",
+    "analytics",
+    "artificial intelligence",
+    "behavioral design",
+    "behavioral economics",
+    "behavioral science",
+    "business analytics",
+    "change management",
+    "customer insight",
+    "data analysis",
+    "data analytics",
+    "data science",
+    "data strategy",
+    "datenanalyse",
+    "datenverarbeitung",
+    "datenvisualisierung",
+    "design thinking",
+    "digital transformation",
+    "energy industry",
+    "eu ai act",
+    "generative ai",
+    "google analytics",
+    "insurance industry",
+    "kommunikation",
+    "kundenerfahrung",
+    "kundenzufriedenheit",
+    "leadership",
+    "maschinelles lernen",
+    "matlab",
+    "microsoft azure",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft powerpoint",
+    "microsoft word",
+    "people analytics",
+    "pharmaceutical industry",
+    "powerpoint",
+    "project management",
+    "psychology",
+    "python",
+    "quantitative analytics",
+    "quantitative research",
+    "r",
+    "rasa",
+    "rasa platform",
+    "regulatory compliance",
+    "research",
+    "ressourcenallokation",
+    "risk analysis",
+    "risk management",
+    "robotic process automation",
+    "social psychology",
+    "social sciences",
+    "spss",
+    "sql",
+    "stakeholder management",
+    "statistics",
+    "statistische datenanalyse",
+    "strategie",
+    "strategy",
+    "tableau",
+    "teammanagement",
+    "user experience",
+    "wachstumsstrategien"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "global head of behavioral science & data science / ai",
+      "company": "sandoz",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "data science manager",
+      "company": "allianz",
+      "company_industry": "financial services",
+      "start_date": "2021-05",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "behavioral economist",
+      "company": "allianz",
+      "company_industry": "financial services",
+      "start_date": "2018-11",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist / artificial intelligence specialist",
+      "company": "e.on",
+      "company_industry": "utilities",
+      "start_date": "2016-11",
+      "end_date": "2018-11",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "ludwig - maximilians - universität münchen",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "technical university of munich",
+      "majors": [
+        "computer science",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "ucl",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "mcgill university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "ludwig - maximilians - universität münchen",
+      "majors": [
+        "neuroscience",
+        "psychology"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "saïd business school, university of oxford",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2023"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": []
+}

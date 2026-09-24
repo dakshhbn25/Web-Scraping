@@ -1,0 +1,237 @@
+{
+  "record_id": "speaker-dubrovnik-065",
+  "speaker_name": "Guy Doron",
+  "linkedin_url": "https://www.linkedin.com/in/guy-doron-neuro-insights/",
+  "likelihood": 9,
+  "full_name": "guy doron",
+  "job_title": "senior director - agile talent impact expert, behavioral & data science",
+  "industry": "pharmaceuticals",
+  "current_company": "bayer",
+  "current_company_website": "bayer.com",
+  "current_company_industry": "chemicals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "algorithms",
+    "analytical skills",
+    "animal behavior",
+    "artificial intelligence",
+    "assembly language",
+    "behavioral sciences",
+    "biochemistry",
+    "business insights",
+    "business strategy",
+    "c",
+    "c++",
+    "career development",
+    "cell biology",
+    "change management",
+    "computer science",
+    "consumer behavior",
+    "data analysis",
+    "data analytics",
+    "data management",
+    "data science",
+    "data visualization",
+    "databases",
+    "decision making",
+    "deep learning",
+    "experimental psychology",
+    "human resources",
+    "in vivo electrophysiology",
+    "insight generation",
+    "labview",
+    "leadership",
+    "life sciences",
+    "machine learning",
+    "machine learning algorithms",
+    "matlab",
+    "microscopy",
+    "molecular biology",
+    "multi cultural team leadership",
+    "mysql",
+    "neurobiology",
+    "neuroscience",
+    "pharmacovigilance",
+    "predictive modeling",
+    "programming",
+    "psychology",
+    "python",
+    "r",
+    "research",
+    "research and development",
+    "sas",
+    "science",
+    "sql",
+    "talent management",
+    "team building",
+    "team leadership",
+    "vb",
+    "visual basic .net"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director - agile talent impact expert, behavioral & data science",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2025-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "scientific innovation analysis expert, r & d, data sciences & ai",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2025-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "career advisory board member",
+      "company": "charité - universitätsmedizin berlin",
+      "company_industry": "hospital & health care",
+      "start_date": "2024-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior insight solutions lead, research & development data sciences & ai",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2023-04",
+      "end_date": "2025-04",
+      "is_primary": false
+    },
+    {
+      "title": "head of trend & feasibility analysis, research & development scientific & competitive intelligence",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2021-01",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist, pv data science & insight generation",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2019-08",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist, pv analytics",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2018-09",
+      "end_date": "2019-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior clinical study coordinator",
+      "company": "charité - universitätsmedizin berlin",
+      "company_industry": "hospital & health care",
+      "start_date": "2016-01",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "research group leader",
+      "company": "charité - universitätsmedizin berlin",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "post-doctoral research scientist",
+      "company": "humboldt-universität zu berlin",
+      "company_industry": "higher education",
+      "start_date": "2013-01",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "doctoral research scientist",
+      "company": "humboldt-universität zu berlin",
+      "company_industry": "higher education",
+      "start_date": "2008-07",
+      "end_date": "2012-12",
+      "is_primary": false
+    },
+    {
+      "title": "pre-doctoral research scientist",
+      "company": "university of haifa",
+      "company_industry": "higher education",
+      "start_date": "2002-10",
+      "end_date": "2008-06",
+      "is_primary": false
+    },
+    {
+      "title": "system administrator, help desk team",
+      "company": "elbit systems israel",
+      "company_industry": "defense & space",
+      "start_date": "2002-02",
+      "end_date": "2008-06",
+      "is_primary": false
+    },
+    {
+      "title": "non-commissioned officer (nco) , combat engineering corps",
+      "company": "israel defense forces",
+      "company_industry": "military",
+      "start_date": "1995-08",
+      "end_date": "1998-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "humboldt - universität zu berlin",
+      "majors": [],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2013-12"
+    },
+    {
+      "school": "university of haifa",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "university of haifa",
+      "majors": [
+        "computer science"
+      ],
+      "degrees": [
+        "bachelors",
+        "bachelor of science"
+      ],
+      "start_date": "1999",
+      "end_date": "2002"
+    },
+    {
+      "school": "university of haifa",
+      "majors": [
+        "computer science",
+        "psychology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2002"
+    }
+  ]
+}

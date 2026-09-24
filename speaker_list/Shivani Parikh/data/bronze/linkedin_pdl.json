@@ -1,0 +1,783 @@
+{
+  "record_id": null,
+  "speaker_name": "Shivani Parikh",
+  "event_name": null,
+  "linkedin_url": "https://www.linkedin.com/in/shivani-parikh-3171472b/",
+  "scraped_at": "2026-09-21T11:39:17.911990+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "DAq9HHDytX3nybkfB7KT5Q_0000",
+    "full_name": "shivani parikh",
+    "first_name": "shivani",
+    "middle_initial": "g",
+    "middle_name": null,
+    "last_initial": "p",
+    "last_name": "parikh",
+    "sex": "female",
+    "birth_year": true,
+    "birth_date": true,
+    "linkedin_url": "linkedin.com/in/shivani-parikh-3171472b",
+    "linkedin_username": "shivani-parikh-3171472b",
+    "linkedin_id": "104853763",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": "2538693",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "head, content & channel enablement",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+    "job_company_name": "astellas pharma",
+    "job_company_website": "astellas.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2005,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/astellaspharmainc",
+    "job_company_linkedin_id": "33408697",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "nihombashihoncho, tokio, japan",
+    "job_company_location_locality": "nihombashihoncho",
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokio",
+    "job_company_location_geo": "35.67,139.77",
+    "job_company_location_street_address": "2-5-1 nihonbashi-honcho",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "103-8411",
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2026-06-16",
+    "job_last_verified": "2026-08-14",
+    "job_start_date": "2026-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-14",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "health",
+      "science and technology"
+    ],
+    "skills": [
+      "business analysis",
+      "change management",
+      "closed loop marketing",
+      "competitive analysis",
+      "consulting",
+      "crm",
+      "customer relationship management",
+      "data analysis",
+      "digital marketing",
+      "digital transformation",
+      "leadership",
+      "management",
+      "management consulting",
+      "market research",
+      "marketing",
+      "marketing research",
+      "marketing strategy",
+      "microsoft office",
+      "pharmaceutical industry",
+      "program management",
+      "project management",
+      "stakeholder engagement",
+      "stakeholder management",
+      "strategy",
+      "team leadership",
+      "veeva"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united states"
+    ],
+    "street_addresses": true,
+    "experience": [
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-04",
+        "title": {
+          "name": "head, content & channel enablement",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": "2026-04",
+        "start_date": "2024-09",
+        "title": {
+          "name": "head of content activation, oso",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2024-09",
+        "start_date": "2023-05",
+        "title": {
+          "name": "senior director, omnichannel strategy & excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2023-05",
+        "start_date": "2022-02",
+        "title": {
+          "name": "director, strategy & omnichannel excellence (oco)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2022-02",
+        "start_date": "2021-03",
+        "title": {
+          "name": "global production director, emea",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2021-02",
+        "start_date": "2018-07",
+        "title": {
+          "name": "global delivery director, gco",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas health network",
+          "size": "1001-5000",
+          "id": "UwcSq0qFj7JTgwJkSzDSww1BsIqP",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/havashealth",
+          "linkedin_id": "1322260",
+          "facebook_url": "facebook.com/havashealthyou",
+          "twitter_url": "twitter.com/havashealthyou",
+          "website": "havashealthandyou.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2018-01",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-09",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2015-01",
+        "title": {
+          "name": "senior account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "accenture",
+          "size": "10001+",
+          "id": "NYYbtRj1s6utKbHMHSioGQntpYZ9",
+          "founded": 1989,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "dublin 2",
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/accenture",
+          "linkedin_id": "1033",
+          "facebook_url": "facebook.com/accenture",
+          "twitter_url": "twitter.com/accenture",
+          "website": "accenture.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-01",
+        "start_date": "2012-02",
+        "title": {
+          "name": "management consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hostelling international",
+          "size": "1-10",
+          "id": "g2CennCcvrlQlMhrIEhUVAg3HpMz",
+          "founded": 1932,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/hostelling-international_2",
+          "linkedin_id": "1172713",
+          "facebook_url": "facebook.com/hostellinginternational",
+          "twitter_url": "twitter.com/hostelling",
+          "website": "hihostels.com"
+        },
+        "location_names": [
+          "santa monica, california, united states"
+        ],
+        "end_date": "2008-08",
+        "start_date": "2008-05",
+        "title": {
+          "name": "travel store associate",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucla athletics",
+          "size": "1-10",
+          "id": "zsr6J8AdX7SikJiUngFi6w7grqWK",
+          "founded": 1919,
+          "industry": "sports",
+          "industry_v2": "spectator sports",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "325 westwood plaza",
+            "address_line_2": null,
+            "postal_code": "90095",
+            "geo": "34.03,-118.24"
+          },
+          "linkedin_url": "linkedin.com/company/uclaathletics",
+          "linkedin_id": "109958934",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "westwood, california, united states"
+        ],
+        "end_date": "2010-06",
+        "start_date": "2008-01",
+        "title": {
+          "name": "assistant to director of student-athlete development",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucla athletics",
+          "size": "1-10",
+          "id": "zsr6J8AdX7SikJiUngFi6w7grqWK",
+          "founded": 1919,
+          "industry": "sports",
+          "industry_v2": "spectator sports",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "325 westwood plaza",
+            "address_line_2": null,
+            "postal_code": "90095",
+            "geo": "34.03,-118.24"
+          },
+          "linkedin_url": "linkedin.com/company/uclaathletics",
+          "linkedin_id": "109958934",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "westwood, california, united states"
+        ],
+        "end_date": "2007-12",
+        "start_date": "2006-10",
+        "title": {
+          "name": "development assistant",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "king's college london",
+          "type": "post-secondary institution",
+          "id": "2q2YIlBvBucJNrXjuIZYyQ_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/king's-college-london",
+          "facebook_url": "facebook.com/kingscollegelondon",
+          "twitter_url": "twitter.com/kingscollegelon",
+          "linkedin_id": "7198",
+          "website": "kcl.ac.uk",
+          "domain": "kcl.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2011",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad de málaga",
+          "type": "post-secondary institution",
+          "id": "8ZRl8Ztz0ThDgeOV21Vi3g_0000",
+          "location": {
+            "name": "malaga, andalusia, spain",
+            "locality": "malaga",
+            "region": "andalusia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-malaga",
+          "facebook_url": "facebook.com/universidadmalaga",
+          "twitter_url": "twitter.com/infouma",
+          "linkedin_id": "333206",
+          "website": "uma.es",
+          "domain": "uma.es"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ucla",
+          "type": "post-secondary institution",
+          "id": "TIx2s50pR1mpAAy9o6ZXGg_0000",
+          "location": {
+            "name": "los angeles, california, united states",
+            "locality": "los angeles",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/ucla",
+          "facebook_url": "facebook.com/ucla",
+          "twitter_url": "twitter.com/ucla",
+          "linkedin_id": "2477",
+          "website": "ucla.edu",
+          "domain": "ucla.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2010",
+        "majors": [
+          "communication studies"
+        ],
+        "minors": [
+          "spanish"
+        ],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "burbank high school",
+          "type": "secondary school",
+          "id": "G0NN0hHkLfKoJ1ZqDvMb5Q_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/burbankhighschool",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "34217236",
+          "website": "burbankusd.org",
+          "domain": "burbankusd.org"
+        },
+        "degrees": [],
+        "start_date": "2002-01",
+        "end_date": "2006",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "104853763",
+        "url": "linkedin.com/in/shivani-parikh-3171472b",
+        "username": "shivani-parikh-3171472b"
+      },
+      {
+        "network": "facebook",
+        "id": "2538693",
+        "url": "facebook.com/2538693",
+        "username": null
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

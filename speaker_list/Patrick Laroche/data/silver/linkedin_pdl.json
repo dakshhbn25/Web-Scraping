@@ -1,0 +1,139 @@
+{
+  "record_id": "speaker-dubrovnik-058",
+  "speaker_name": "Patrick Laroche",
+  "linkedin_url": "https://www.linkedin.com/in/patrick-laroche-a60ab011/",
+  "likelihood": 9,
+  "full_name": "patrick laroche",
+  "job_title": "vice president, head of medical affairs emea",
+  "industry": "pharmaceuticals",
+  "current_company": "johnson & johnson innovative medicine",
+  "current_company_website": "janssen.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnologie",
+    "immunology",
+    "kol development",
+    "lancement de produit",
+    "management",
+    "market access",
+    "medical affairs",
+    "medical education",
+    "neurosciences",
+    "oncologie",
+    "pharmaceutical industry",
+    "pharmacovigilance",
+    "real world evidence",
+    "scientific communication",
+    "secteur pharmaceutique",
+    "ventes pharmaceutiques",
+    "virology"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "vice president, head of medical affairs emea",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president medical affairs, operational excellence strategy emea",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "emea therapeutic area lead hematology",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-06",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "emea medical affairs strategic director",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "country medical affairs director france",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-09",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "country medical affairs director russia & cis",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2014-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical director oncology & hematology",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-02",
+      "end_date": "2012-09",
+      "is_primary": false
+    },
+    {
+      "title": "scientific communication director oncology & hematology",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-09",
+      "end_date": "2010-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior product manager",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-09",
+      "end_date": "2009-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison cns",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-11",
+      "end_date": "2006-09",
+      "is_primary": false
+    },
+    {
+      "title": "emergency medicine practising physician",
+      "company": "grenoble university hospital",
+      "company_industry": null,
+      "start_date": "2001-05",
+      "end_date": "2004-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of joseph fourier, grenoble",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "1998-01",
+      "end_date": "2003"
+    }
+  ]
+}

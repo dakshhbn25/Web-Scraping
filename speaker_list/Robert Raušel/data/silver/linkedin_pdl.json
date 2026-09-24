@@ -1,0 +1,118 @@
+{
+  "record_id": "speaker-dubrovnik-080",
+  "speaker_name": "Robert Raušel",
+  "linkedin_url": "https://www.linkedin.com/in/robert-rau%C5%A1el-239902128/",
+  "likelihood": 9,
+  "full_name": "robert raušel",
+  "job_title": "head of engineering",
+  "industry": "information technology and services",
+  "current_company": "ingemark",
+  "current_company_website": "ingemark.com",
+  "current_company_industry": "information technology and services",
+  "location_country": "croatia",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "android",
+    "angular",
+    "behavior driven development",
+    "clean coding",
+    "dart",
+    "domain driven design",
+    "flutter",
+    "git",
+    "ios",
+    "java",
+    "kotlin",
+    "kotlin coroutines",
+    "leadership",
+    "model view viewmodel",
+    "mongodb",
+    "project delivery",
+    "software development",
+    "spring framework",
+    "sql",
+    "team management",
+    "test automation",
+    "test driven development",
+    "xml"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of engineering",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2024-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "lead flutter developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2022-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of mobile development",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2017-10",
+      "end_date": "2024-02",
+      "is_primary": false
+    },
+    {
+      "title": "lead android developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2016-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "android developer",
+      "company": "ingemark",
+      "company_industry": "information technology and services",
+      "start_date": "2015-10",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "system integration engineer",
+      "company": "siemens",
+      "company_industry": "industrial automation",
+      "start_date": "2014-09",
+      "end_date": "2015-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "fer",
+      "majors": [
+        "communication"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "college of natural sciences and mathematics at the university of toledo",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2009-12"
+    },
+    {
+      "school": "college of natural sciences and mathematics at the university of toledo",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2005-01",
+      "end_date": "2009-01"
+    }
+  ]
+}

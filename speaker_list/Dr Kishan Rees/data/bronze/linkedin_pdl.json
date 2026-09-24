@@ -1,0 +1,1446 @@
+{
+  "record_id": "speaker-medical-002",
+  "speaker_name": "Dr Kishan Rees",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/drkishanrees/",
+  "scraped_at": "2026-09-18T10:24:06.104994+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "qx5KklNmqRy2I0jYvBsnRA_0000",
+    "full_name": "kishan rees",
+    "first_name": "kishan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "r",
+    "last_name": "rees",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/drkishanrees",
+    "linkedin_username": "drkishanrees",
+    "linkedin_id": "137381122",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior director / global video content & digital media strategy - patient & scientific engagement",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-03-15",
+    "job_last_verified": "2026-08-14",
+    "job_start_date": "2024-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-14",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "academic writing",
+      "acute care",
+      "agile methodologies",
+      "artificial intelligence",
+      "board level",
+      "brand awareness",
+      "brand development",
+      "branding and identity",
+      "broadcast journalism",
+      "broadcast production",
+      "broadcast television",
+      "broadcasting",
+      "business strategy",
+      "clinical research",
+      "clinical training",
+      "communication",
+      "creativity and innovation",
+      "crisis communications",
+      "critical thinking",
+      "customer service",
+      "digital innovation",
+      "digital marketing",
+      "digital media",
+      "dyslexic thinking",
+      "emergency medicine",
+      "external agencies",
+      "graduate medical education",
+      "health communication",
+      "healthcare",
+      "healthcare information technology",
+      "healthcare information technology",
+      "healthcare management",
+      "hospitals",
+      "information technology",
+      "innovation management",
+      "leadership",
+      "live broadcast",
+      "mam",
+      "management",
+      "mba",
+      "medical education",
+      "medicine",
+      "mentoring",
+      "microsoft powerpoint",
+      "negotiation",
+      "orthopedic",
+      "orthopedics",
+      "patient safety",
+      "pedagogy",
+      "pediatrics",
+      "people development",
+      "project based learning",
+      "public health",
+      "relationship building",
+      "research",
+      "social media",
+      "social media marketing",
+      "stakeholder management",
+      "strategic planning",
+      "strategy",
+      "surgery",
+      "teaching",
+      "team management",
+      "training",
+      "wound care",
+      "youtube"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-11",
+        "title": {
+          "name": "senior director / global video content & digital media strategy - patient & scientific engagement",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2024-10",
+        "start_date": "2022-11",
+        "title": {
+          "name": "senior director / digital ckd then cv - global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2022-12",
+        "start_date": "2021-09",
+        "title": {
+          "name": "medical lead - dermatology then acting head of immunology medical",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "needlesmart",
+          "size": "11-50",
+          "id": "AxU31CnpWVzdnp31ZcED0wFhkMDS",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "liverpool, england, united kingdom",
+            "locality": "liverpool",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "15a tiger court",
+            "address_line_2": null,
+            "postal_code": "l34 1bh",
+            "geo": "53.42,-2.83"
+          },
+          "linkedin_url": "linkedin.com/company/needlesmart",
+          "linkedin_id": "5113104",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "needlesmart.com"
+        },
+        "location_names": [],
+        "end_date": "2022-12",
+        "start_date": "2020-12",
+        "title": {
+          "name": "clinical advisory group member",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "greater lincolnshire lep",
+          "size": "11-50",
+          "id": "PjGtTrBwVV4EJXxIVED4BQnc3v26",
+          "founded": 2010,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "lincoln, england, united kingdom",
+            "locality": "lincoln",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "4 witham park",
+            "address_line_2": null,
+            "postal_code": "ln5 7jn",
+            "geo": "53.21,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/greaterlincolnshirelep",
+          "linkedin_id": "6466502",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "greaterlincolnshirelep.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-05",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2021-09",
+        "start_date": "2020-04",
+        "title": {
+          "name": "pharmaceutical physician & interact lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "st john & st elizabeth hospital",
+          "size": "201-500",
+          "id": "2d46VBfz1BtaBzxnApP3hwBXvWNd",
+          "founded": 1856,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "60 grove end road",
+            "address_line_2": null,
+            "postal_code": "nw8 9nh",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/st-john-and-st-elizabeth-hospital",
+          "linkedin_id": "2306003",
+          "facebook_url": "facebook.com/stjohnandstelizabethhospital",
+          "twitter_url": null,
+          "website": "hje.org.uk"
+        },
+        "location_names": [
+          "st john's wood, england, united kingdom"
+        ],
+        "end_date": "2021-12",
+        "start_date": "2019-12",
+        "title": {
+          "name": "urgent care doctor",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom",
+          "bonifacio global city, metro manila, philippines"
+        ],
+        "end_date": "2020-03",
+        "start_date": "2019-04",
+        "title": {
+          "name": "mam 80% & global secondment 20",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs england",
+          "size": "5001-10000",
+          "id": "Ptcbi27ITiP3C6lEidUZHAosUll4",
+          "founded": 2012,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "80 london road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/nhsengland",
+          "linkedin_id": "2786868",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "england.nhs.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2019-03",
+        "title": {
+          "name": "mentor for nhs england s clinical entrepreneur program",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hull york medical school",
+          "size": "501-1000",
+          "id": "npEaU6z84XPdwtBUQgZQ2Qr9sVdb",
+          "founded": 2003,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "york, england, united kingdom",
+            "locality": "york",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.96,-1.05"
+          },
+          "linkedin_url": "linkedin.com/school/hull-york-medical-school",
+          "linkedin_id": "3635004",
+          "facebook_url": "facebook.com/hullyorkmedicalschool",
+          "twitter_url": "twitter.com/hymsalumni",
+          "website": "hyms.ac.uk"
+        },
+        "location_names": [
+          "kingston upon hull, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2018-12",
+        "title": {
+          "name": "visiting honorary lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "luton, england, united kingdom"
+        ],
+        "end_date": "2019-04",
+        "start_date": "2018-11",
+        "title": {
+          "name": "mam - final signatory (fs)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs england",
+          "size": "5001-10000",
+          "id": "Ptcbi27ITiP3C6lEidUZHAosUll4",
+          "founded": 2012,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "80 london road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/nhsengland",
+          "linkedin_id": "2786868",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "england.nhs.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-03",
+        "start_date": "2018-07",
+        "title": {
+          "name": "nhs england clinical entrepreneur - year 2",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "luton, england, united kingdom"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2018-05",
+        "title": {
+          "name": "medical affairs manager (mam)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs england",
+          "size": "5001-10000",
+          "id": "Ptcbi27ITiP3C6lEidUZHAosUll4",
+          "founded": 2012,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "80 london road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/nhsengland",
+          "linkedin_id": "2786868",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "england.nhs.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-06",
+        "start_date": "2017-07",
+        "title": {
+          "name": "nhs england clinical entrepreneur - year 1",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sky news",
+          "size": "10001+",
+          "id": "87Ahv2Bm3kTASggqVCyUTQGNZpir",
+          "founded": null,
+          "industry": "broadcast media",
+          "industry_v2": "broadcast media production and distribution",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "tw7 5qd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/sky-news",
+          "linkedin_id": "3315",
+          "facebook_url": "facebook.com/skynews",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2016-11",
+        "title": {
+          "name": "health pundit & newspaper reviewer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "watmed media",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2015-11",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs",
+          "size": "10001+",
+          "id": "5TkBdVCHgunXWAjgsjka7QkYSBeZ",
+          "founded": 1948,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/nhs",
+          "linkedin_id": "1977",
+          "facebook_url": "facebook.com/nhswebsite",
+          "twitter_url": "twitter.com/nhsuk",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2019-12",
+        "start_date": "2015-08",
+        "title": {
+          "name": "locum middle grade in ed",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lincolnshire community and hospitals nhs group",
+          "size": "5001-10000",
+          "id": "7ZIhXJwTaQ0w8obUb3VLjwq82MHK",
+          "founded": 2000,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "lincoln, england, united kingdom",
+            "locality": "lincoln",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ln2 5qy",
+            "geo": "53.21,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/united-lincolnshire-hospitals-nhs-trust",
+          "linkedin_id": "339684",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ulh.nhs.uk"
+        },
+        "location_names": [],
+        "end_date": "2018-05",
+        "start_date": "2015-08",
+        "title": {
+          "name": "senior clinical teaching fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "higher education academy",
+          "size": "51-200",
+          "id": "nmcmUqMFpcvTlyApECQ3PQqF1yKh",
+          "founded": null,
+          "industry": "education management",
+          "industry_v2": "education administration programs",
+          "location": {
+            "name": "york, england, united kingdom",
+            "locality": "york",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.96,-1.05"
+          },
+          "linkedin_url": "linkedin.com/company/higher-education-academy",
+          "linkedin_id": "68441",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/heacademy",
+          "website": "heacademy.ac.uk"
+        },
+        "location_names": [],
+        "end_date": "2018-05",
+        "start_date": "2014-08",
+        "title": {
+          "name": "associate fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lincolnshire community and hospitals nhs group",
+          "size": "5001-10000",
+          "id": "7ZIhXJwTaQ0w8obUb3VLjwq82MHK",
+          "founded": 2000,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "lincoln, england, united kingdom",
+            "locality": "lincoln",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ln2 5qy",
+            "geo": "53.21,-0.57"
+          },
+          "linkedin_url": "linkedin.com/company/united-lincolnshire-hospitals-nhs-trust",
+          "linkedin_id": "339684",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ulh.nhs.uk"
+        },
+        "location_names": [
+          "lincoln, england, united kingdom"
+        ],
+        "end_date": "2015-07",
+        "start_date": "2013-08",
+        "title": {
+          "name": "clinical teaching fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "watmed educational",
+          "size": "1-10",
+          "id": "xU1ki1tCJwufQ5qBThiLxgsAzeZ6",
+          "founded": 2013,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/watmed-educational",
+          "linkedin_id": "9435729",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "watmed-educational.com"
+        },
+        "location_names": [],
+        "end_date": "2015-05",
+        "start_date": "2013-04",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university hospitals of leicester nhs trust",
+          "size": "10001+",
+          "id": "JpSkHNubR2MhEiHHcADGtQ1Mnsma",
+          "founded": 2000,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le1 5ww",
+            "geo": "52.62,-1.10"
+          },
+          "linkedin_url": "linkedin.com/company/university-hospitals-of-leicester-nhs-trust",
+          "linkedin_id": "5078847",
+          "facebook_url": "facebook.com/leicesterhospitals",
+          "twitter_url": "twitter.com/leic_hospital",
+          "website": "leicestershospitals.nhs.uk"
+        },
+        "location_names": [],
+        "end_date": "2013-07",
+        "start_date": "2012-08",
+        "title": {
+          "name": "ct2",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "northampton general hospital nhs trust",
+          "size": "1001-5000",
+          "id": "BWpba3x4b67zBX2CoPhOUAuPtw0f",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "northampton, england, united kingdom",
+            "locality": "northampton",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "nn1 5bd",
+            "geo": "52.23,-0.88"
+          },
+          "linkedin_url": "linkedin.com/company/northampton-general-hospital",
+          "linkedin_id": "605962",
+          "facebook_url": "facebook.com/northamptongeneralhospital",
+          "twitter_url": "twitter.com/nghnhstrust",
+          "website": "northamptongeneral.nhs.uk"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2011-08",
+        "title": {
+          "name": "ct1",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "watmed locums",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2018-05",
+        "start_date": "2011-04",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "general medical council",
+          "size": "501-1000",
+          "id": "mpogroOpOnSckScu8AtWTAg4x0wp",
+          "founded": 1858,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "350 euston road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/general-medical-council",
+          "linkedin_id": "15659",
+          "facebook_url": "facebook.com/gmcuk",
+          "twitter_url": "twitter.com/gmcuk",
+          "website": "gmc-uk.org"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2012-08",
+        "start_date": "2010-08",
+        "title": {
+          "name": "question writer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university hospitals of leicester nhs trust",
+          "size": "10001+",
+          "id": "JpSkHNubR2MhEiHHcADGtQ1Mnsma",
+          "founded": 2000,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le1 5ww",
+            "geo": "52.62,-1.10"
+          },
+          "linkedin_url": "linkedin.com/company/university-hospitals-of-leicester-nhs-trust",
+          "linkedin_id": "5078847",
+          "facebook_url": "facebook.com/leicesterhospitals",
+          "twitter_url": "twitter.com/leic_hospital",
+          "website": "leicestershospitals.nhs.uk"
+        },
+        "location_names": [],
+        "end_date": "2011-07",
+        "start_date": "2010-08",
+        "title": {
+          "name": "fy2",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mencap",
+          "size": "5001-10000",
+          "id": "2h0o5iFSYXTZwIxFNuP4fAgBV89A",
+          "founded": null,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "peterborough, england, united kingdom",
+            "locality": "peterborough",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 cyrus way",
+            "address_line_2": null,
+            "postal_code": "pe7 8hp",
+            "geo": "52.54,-0.25"
+          },
+          "linkedin_url": "linkedin.com/company/mencap",
+          "linkedin_id": "24030",
+          "facebook_url": "facebook.com/mencap",
+          "twitter_url": "twitter.com/mencap_charity",
+          "website": "mencap.org.uk"
+        },
+        "location_names": [
+          "watford, england, united kingdom"
+        ],
+        "end_date": "2015-07",
+        "start_date": "2009-07",
+        "title": {
+          "name": "volunteer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "unpaid"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "harvard medical school",
+          "type": "post-secondary institution",
+          "id": "wf6icMSOgHnY3ffQbSarUg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-medical-school",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1645",
+          "website": "hms.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-02",
+        "end_date": "2025-04",
+        "majors": [
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvard medical school",
+          "type": "post-secondary institution",
+          "id": "wf6icMSOgHnY3ffQbSarUg_0000",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/harvard-medical-school",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "1645",
+          "website": "hms.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2025-01",
+        "end_date": "2025-12",
+        "majors": [
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of york",
+          "type": "post-secondary institution",
+          "id": "6bzRsGMHdXMoWuGkECX13A_0000",
+          "location": {
+            "name": "york, england, united kingdom",
+            "locality": "york",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uniofyork",
+          "facebook_url": "facebook.com/universityofyork",
+          "twitter_url": "twitter.com/uniofyork",
+          "linkedin_id": "10399",
+          "website": "york.ac.uk",
+          "domain": "york.ac.uk"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "2020-03",
+        "end_date": "2025-05",
+        "majors": [
+          "communication"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "nottingham university business school",
+          "type": "post-secondary institution",
+          "id": "yasVKZ1tGLgnvHIx8bJTbw_0000",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/nottingham-university-business-school",
+          "facebook_url": "facebook.com/uniofnottingham",
+          "twitter_url": "twitter.com/uniofnottingham",
+          "linkedin_id": "15094153",
+          "website": "nottingham.ac.uk",
+          "domain": "nottingham.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2018",
+        "majors": [
+          "entrepreneurship"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "higher education academy",
+          "type": "post-secondary institution",
+          "id": "ZqQ3-ruGiYyKTVOQFqKzCg_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/higher-education-academy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "68441",
+          "website": "heacademy.ac.uk",
+          "domain": "heacademy.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of nottingham",
+          "type": "post-secondary institution",
+          "id": "xU0hGNajorBvB-nuskDXQQ_0000",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-nottingham",
+          "facebook_url": "facebook.com/uniofnottingham",
+          "twitter_url": "twitter.com/uniofnottingham",
+          "linkedin_id": "7290",
+          "website": "nottingham.ac.uk",
+          "domain": "nottingham.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2013-01",
+        "end_date": "2015",
+        "majors": [
+          "education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of leicester",
+          "type": "post-secondary institution",
+          "id": "IliAO25PHvmSIpw872bXXQ_0000",
+          "location": {
+            "name": "leicester, england, united kingdom",
+            "locality": "leicester",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-leicester",
+          "facebook_url": "facebook.com/uniofleicester",
+          "twitter_url": "twitter.com/uniofleicester",
+          "linkedin_id": "14403",
+          "website": "le.ac.uk",
+          "domain": "le.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rickmansworth school",
+          "type": "secondary school",
+          "id": "mcj9YlDaTJGeSkDlIjhtLA_0000",
+          "location": {
+            "name": "rickmansworth, england, united kingdom",
+            "locality": "rickmansworth",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/rickmansworth-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "601053",
+          "website": "rickmansworth.herts.sch.uk",
+          "domain": "sch.uk"
+        },
+        "degrees": [],
+        "start_date": "1997-01",
+        "end_date": "2004",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "137381122",
+        "url": "linkedin.com/in/drkishanrees",
+        "username": "drkishanrees"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/dr-kishan-rees-b6a0123a",
+        "username": "dr-kishan-rees-b6a0123a"
+      },
+      {
+        "network": "linkedin",
+        "id": "137381122",
+        "url": "linkedin.com/in/kishan-rees-b6a0123a",
+        "username": "kishan-rees-b6a0123a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,183 @@
+{
+  "record_id": "speaker-dubrovnik-070",
+  "speaker_name": "Jochen Baumeister",
+  "linkedin_url": "https://www.linkedin.com/in/jbaumeister/",
+  "likelihood": 9,
+  "full_name": "jochen baumeister",
+  "job_title": "global head of behavioral science & data science / ai",
+  "industry": "pharmaceuticals",
+  "current_company": "sandoz",
+  "current_company_website": "sandoz.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe analytics",
+    "adobe experience manager",
+    "ai governance",
+    "ai strategy",
+    "ai transformation",
+    "amazon web services",
+    "analytics",
+    "artificial intelligence",
+    "behavioral design",
+    "behavioral economics",
+    "behavioral science",
+    "business analytics",
+    "change management",
+    "customer insight",
+    "data analysis",
+    "data analytics",
+    "data science",
+    "data strategy",
+    "datenanalyse",
+    "datenverarbeitung",
+    "datenvisualisierung",
+    "design thinking",
+    "digital transformation",
+    "energy industry",
+    "eu ai act",
+    "generative ai",
+    "google analytics",
+    "insurance industry",
+    "kommunikation",
+    "kundenerfahrung",
+    "kundenzufriedenheit",
+    "leadership",
+    "maschinelles lernen",
+    "matlab",
+    "microsoft azure",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft powerpoint",
+    "microsoft word",
+    "people analytics",
+    "pharmaceutical industry",
+    "powerpoint",
+    "project management",
+    "psychology",
+    "python",
+    "quantitative analytics",
+    "quantitative research",
+    "r",
+    "rasa",
+    "rasa platform",
+    "regulatory compliance",
+    "research",
+    "ressourcenallokation",
+    "risk analysis",
+    "risk management",
+    "robotic process automation",
+    "social psychology",
+    "social sciences",
+    "spss",
+    "sql",
+    "stakeholder management",
+    "statistics",
+    "statistische datenanalyse",
+    "strategie",
+    "strategy",
+    "tableau",
+    "teammanagement",
+    "user experience",
+    "wachstumsstrategien"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of behavioral science & data science / ai",
+      "company": "sandoz",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "data science manager",
+      "company": "allianz",
+      "company_industry": "financial services",
+      "start_date": "2021-05",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "behavioral economist",
+      "company": "allianz",
+      "company_industry": "financial services",
+      "start_date": "2018-11",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "data scientist / artificial intelligence specialist",
+      "company": "e.on",
+      "company_industry": "utilities",
+      "start_date": "2016-11",
+      "end_date": "2018-11",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ludwig - maximilians - universität münchen",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "technical university of munich",
+      "majors": [
+        "computer science",
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "ucl",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "mcgill university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "ludwig - maximilians - universität münchen",
+      "majors": [
+        "neuroscience",
+        "psychology"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "saïd business school, university of oxford",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2023"
+    }
+  ]
+}

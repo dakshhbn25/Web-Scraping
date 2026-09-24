@@ -1,0 +1,243 @@
+{
+  "record_id": "speaker-medical-001",
+  "speaker_name": "Dr Adela Taranu",
+  "linkedin_url": "https://www.linkedin.com/in/dr-adela-taranu-phd-mba-279537a0/",
+  "likelihood": 9,
+  "full_name": "adela taranu",
+  "job_title": "head of global medical writing & advice | global medical affairs",
+  "industry": "pharmaceuticals",
+  "current_company": "wörwag pharma gmbh & co. kg",
+  "current_company_website": "woerwagpharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biochemistry",
+    "bioinformatics",
+    "biostatistics",
+    "biotechnology",
+    "cell biology",
+    "english",
+    "genomics",
+    "life sciences",
+    "major depressive disorder",
+    "microsoft office",
+    "molecular biology",
+    "neuroscience",
+    "ngs",
+    "pharmacogenomics",
+    "pharmacokinetics",
+    "pharmacology",
+    "project management",
+    "research",
+    "science",
+    "scientific writing",
+    "statistical analysis"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of global medical writing & advice | global medical affairs",
+      "company": "wörwag pharma gmbh & co. kg",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "team lead global regulatory medical writing | global medical affairs",
+      "company": "wörwag pharma gmbh & co. kg",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-08",
+      "end_date": "2022-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior regulatory medical writer | medical affairs",
+      "company": "namsa",
+      "company_industry": "management consulting",
+      "start_date": "2019-05",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical scientific writer | medical affairs",
+      "company": "medtronic",
+      "company_industry": "medical devices",
+      "start_date": "2017-11",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "scientific and medical project manager",
+      "company": "inserm",
+      "company_industry": "research",
+      "start_date": "2014-10",
+      "end_date": "2017-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "stanford university graduate school of business",
+      "majors": [
+        "business",
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2023-09",
+      "end_date": "2024-09"
+    },
+    {
+      "school": "stanford university graduate school of business",
+      "majors": [
+        "business",
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2024-12"
+    },
+    {
+      "school": "hec paris",
+      "majors": [
+        "leadership",
+        "education"
+      ],
+      "degrees": [],
+      "start_date": "2022-11",
+      "end_date": "2022-12"
+    },
+    {
+      "school": "paris - sud university (paris xi)",
+      "majors": [],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2014",
+      "end_date": "2017"
+    },
+    {
+      "school": "conservatoire national des arts et métiers - cnam",
+      "majors": [
+        "bioinformatics"
+      ],
+      "degrees": [],
+      "start_date": "2014",
+      "end_date": "2016"
+    },
+    {
+      "school": "paris - sud university (paris xi)",
+      "majors": [
+        "genomics",
+        "statistics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014",
+      "end_date": "2015"
+    },
+    {
+      "school": "université paris - saclay",
+      "majors": [],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2017-12"
+    },
+    {
+      "school": "université paris - saclay",
+      "majors": [
+        "genetics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "paris - sud university (paris xi)",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2013",
+      "end_date": "2014"
+    },
+    {
+      "school": "université paris - saclay",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2013",
+      "end_date": "2014"
+    },
+    {
+      "school": "conservatoire national des arts et métiers - cnam",
+      "majors": [
+        "bioengineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2016-12"
+    },
+    {
+      "school": "université paris - saclay",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "université paris descartes",
+      "majors": [
+        "pharmacology",
+        "toxicology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2012",
+      "end_date": "2013"
+    },
+    {
+      "school": "université paris cité",
+      "majors": [
+        "pharmacology",
+        "toxicology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2013-12"
+    },
+    {
+      "school": "université paris cité",
+      "majors": [],
+      "degrees": [
+        "bachelor of applied science",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2012"
+    }
+  ]
+}

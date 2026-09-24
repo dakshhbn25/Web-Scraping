@@ -1,0 +1,840 @@
+{
+  "record_id": "speaker-dubrovnik-065",
+  "speaker_name": "Guy Doron",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/guy-doron-neuro-insights/",
+  "scraped_at": "2026-09-18T09:37:23.260356+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "Sw6liYGFyPjwrNK54i2mtw_0000",
+    "full_name": "guy doron",
+    "first_name": "guy",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "doron",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/guy-doron-neuro-insights",
+    "linkedin_username": "guy-doron-neuro-insights",
+    "linkedin_id": "448820735",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior director - agile talent impact expert, behavioral & data science",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-10",
+    "job_last_verified": "2026-08-06",
+    "job_start_date": "2025-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-06",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "algorithms",
+      "analytical skills",
+      "animal behavior",
+      "artificial intelligence",
+      "assembly language",
+      "behavioral sciences",
+      "biochemistry",
+      "business insights",
+      "business strategy",
+      "c",
+      "c++",
+      "career development",
+      "cell biology",
+      "change management",
+      "computer science",
+      "consumer behavior",
+      "data analysis",
+      "data analytics",
+      "data management",
+      "data science",
+      "data visualization",
+      "databases",
+      "decision making",
+      "deep learning",
+      "experimental psychology",
+      "human resources",
+      "in vivo electrophysiology",
+      "insight generation",
+      "labview",
+      "leadership",
+      "life sciences",
+      "machine learning",
+      "machine learning algorithms",
+      "matlab",
+      "microscopy",
+      "molecular biology",
+      "multi cultural team leadership",
+      "mysql",
+      "neurobiology",
+      "neuroscience",
+      "pharmacovigilance",
+      "predictive modeling",
+      "programming",
+      "psychology",
+      "python",
+      "r",
+      "research",
+      "research and development",
+      "sas",
+      "science",
+      "sql",
+      "talent management",
+      "team building",
+      "team leadership",
+      "vb",
+      "visual basic .net"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-09",
+        "title": {
+          "name": "senior director - agile talent impact expert, behavioral & data science",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-04",
+        "title": {
+          "name": "scientific innovation analysis expert, r & d, data sciences & ai",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charité - universitätsmedizin berlin",
+          "size": "10001+",
+          "id": "eIzdgThAC75ME978OB5QGA6zDENZ",
+          "founded": 1710,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 charitéplatz",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/school/charite",
+          "linkedin_id": "44032",
+          "facebook_url": "facebook.com/chariteuniversitaetsmedizinberlin",
+          "twitter_url": null,
+          "website": "charite.de"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-04",
+        "title": {
+          "name": "career advisory board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "advisor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2025-04",
+        "start_date": "2023-04",
+        "title": {
+          "name": "senior insight solutions lead, research & development data sciences & ai",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2023-04",
+        "start_date": "2021-01",
+        "title": {
+          "name": "head of trend & feasibility analysis, research & development scientific & competitive intelligence",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2020-12",
+        "start_date": "2019-08",
+        "title": {
+          "name": "data scientist, pv data science & insight generation",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2019-08",
+        "start_date": "2018-09",
+        "title": {
+          "name": "data scientist, pv analytics",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charité - universitätsmedizin berlin",
+          "size": "10001+",
+          "id": "eIzdgThAC75ME978OB5QGA6zDENZ",
+          "founded": 1710,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 charitéplatz",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/school/charite",
+          "linkedin_id": "44032",
+          "facebook_url": "facebook.com/chariteuniversitaetsmedizinberlin",
+          "twitter_url": null,
+          "website": "charite.de"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2018-08",
+        "start_date": "2016-01",
+        "title": {
+          "name": "senior clinical study coordinator",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charité - universitätsmedizin berlin",
+          "size": "10001+",
+          "id": "eIzdgThAC75ME978OB5QGA6zDENZ",
+          "founded": 1710,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 charitéplatz",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/school/charite",
+          "linkedin_id": "44032",
+          "facebook_url": "facebook.com/chariteuniversitaetsmedizinberlin",
+          "twitter_url": null,
+          "website": "charite.de"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2014-04",
+        "title": {
+          "name": "research group leader",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "humboldt-universität zu berlin",
+          "size": "5001-10000",
+          "id": "9gBI0N317UBr72NBYUtE3gvGmmwK",
+          "founded": 1810,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 unter den linden",
+            "address_line_2": null,
+            "postal_code": "10099",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/school/humboldt-university-berlin",
+          "linkedin_id": "15463",
+          "facebook_url": "facebook.com/humboldtuni",
+          "twitter_url": "twitter.com/humboldtuni",
+          "website": "hu-berlin.de"
+        },
+        "location_names": [],
+        "end_date": "2014-03",
+        "start_date": "2013-01",
+        "title": {
+          "name": "post-doctoral research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "humboldt-universität zu berlin",
+          "size": "5001-10000",
+          "id": "9gBI0N317UBr72NBYUtE3gvGmmwK",
+          "founded": 1810,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 unter den linden",
+            "address_line_2": null,
+            "postal_code": "10099",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/school/humboldt-university-berlin",
+          "linkedin_id": "15463",
+          "facebook_url": "facebook.com/humboldtuni",
+          "twitter_url": "twitter.com/humboldtuni",
+          "website": "hu-berlin.de"
+        },
+        "location_names": [],
+        "end_date": "2012-12",
+        "start_date": "2008-07",
+        "title": {
+          "name": "doctoral research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of haifa",
+          "size": "1001-5000",
+          "id": "3TWggekC0eHBtMSDCByJkAhq4IeX",
+          "founded": 1972,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "haifa, haifa, israel",
+            "locality": "haifa",
+            "region": "haifa",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "31905",
+            "geo": "32.81,34.99"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-haifa",
+          "linkedin_id": "3156",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "haifa.ac.il"
+        },
+        "location_names": [
+          "haifa, haifa, israel"
+        ],
+        "end_date": "2008-06",
+        "start_date": "2002-10",
+        "title": {
+          "name": "pre-doctoral research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elbit systems israel",
+          "size": "10001+",
+          "id": "XldpKv264iOcngS54F7m6grNxumz",
+          "founded": 1967,
+          "industry": "defense & space",
+          "industry_v2": "defense and space manufacturing",
+          "location": {
+            "name": "israel",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/elbit-systems-ltd",
+          "linkedin_id": "163594",
+          "facebook_url": "facebook.com/elbitsystemsltd",
+          "twitter_url": "twitter.com/elbitsystemsltd",
+          "website": "elbitsystems.com"
+        },
+        "location_names": [
+          "haifa, haifa, israel"
+        ],
+        "end_date": "2008-06",
+        "start_date": "2002-02",
+        "title": {
+          "name": "system administrator, help desk team",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "israel defense forces",
+          "size": "10001+",
+          "id": "I3Pkj9fYfCzVQIqs2z0SfwhrbiCN",
+          "founded": 1948,
+          "industry": "military",
+          "industry_v2": "armed forces",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "1 hakirya",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/israeldefenseforces",
+          "linkedin_id": "11689046",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "petaẖ tiqwa, central district, israel"
+        ],
+        "end_date": "1998-07",
+        "start_date": "1995-08",
+        "title": {
+          "name": "non-commissioned officer (nco) , combat engineering corps",
+          "class": "services",
+          "role": "public_service",
+          "sub_role": "military",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "humboldt - universität zu berlin",
+          "type": "post-secondary institution",
+          "id": "Dw3QWjpiBs1VhfGz7C171Q_0000",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/humboldt-university-berlin",
+          "facebook_url": "facebook.com/humboldtuni",
+          "twitter_url": "twitter.com/humboldtuni",
+          "linkedin_id": "15463",
+          "website": "hu-berlin.de",
+          "domain": "hu-berlin.de"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2013-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of haifa",
+          "type": "post-secondary institution",
+          "id": "IifXU9wYUFAxhp1EZzco4g_0000",
+          "location": {
+            "name": "haifa, haifa, israel",
+            "locality": "haifa",
+            "region": "haifa",
+            "country": "israel",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-haifa",
+          "facebook_url": "facebook.com/univ.haifa.ac.il",
+          "twitter_url": "twitter.com/uhaifa",
+          "linkedin_id": "3156",
+          "website": "haifa.ac.il",
+          "domain": "haifa.ac.il"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2008",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of haifa",
+          "type": "post-secondary institution",
+          "id": "IifXU9wYUFAxhp1EZzco4g_0000",
+          "location": {
+            "name": "haifa, haifa, israel",
+            "locality": "haifa",
+            "region": "haifa",
+            "country": "israel",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-haifa",
+          "facebook_url": "facebook.com/univ.haifa.ac.il",
+          "twitter_url": "twitter.com/uhaifa",
+          "linkedin_id": "3156",
+          "website": "haifa.ac.il",
+          "domain": "haifa.ac.il"
+        },
+        "degrees": [
+          "bachelors",
+          "bachelor of science"
+        ],
+        "start_date": "1999",
+        "end_date": "2002",
+        "majors": [
+          "computer science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of haifa",
+          "type": "post-secondary institution",
+          "id": "IifXU9wYUFAxhp1EZzco4g_0000",
+          "location": {
+            "name": "haifa, haifa, israel",
+            "locality": "haifa",
+            "region": "haifa",
+            "country": "israel",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-haifa",
+          "facebook_url": "facebook.com/univ.haifa.ac.il",
+          "twitter_url": "twitter.com/uhaifa",
+          "linkedin_id": "3156",
+          "website": "haifa.ac.il",
+          "domain": "haifa.ac.il"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2002",
+        "majors": [
+          "computer science",
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "448820735",
+        "url": "linkedin.com/in/guy-doron-neuro-insights",
+        "username": "guy-doron-neuro-insights"
+      },
+      {
+        "network": "linkedin",
+        "id": "448820735",
+        "url": "linkedin.com/in/guy-doron-fast-ai",
+        "username": "guy-doron-fast-ai"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

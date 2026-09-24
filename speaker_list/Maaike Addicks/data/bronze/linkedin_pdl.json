@@ -1,0 +1,850 @@
+{
+  "record_id": "speaker-dubrovnik-125",
+  "speaker_name": "Maaike Addicks",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/maaike-addicks/",
+  "scraped_at": "2026-09-18T10:23:57.297934+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "2dQmk1sz3v5BkqiGAhacvg_0000",
+    "full_name": "maaike addicks",
+    "first_name": "maaike",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "addicks",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/maaike-addicks",
+    "linkedin_username": "maaike-addicks",
+    "linkedin_id": "3282743",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director and co-founder school of medical affairs",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director",
+      "owner"
+    ],
+    "job_company_id": "YTxFiey6Cm2M61EK9ZtdbQqE8XOk",
+    "job_company_name": "school of medical affairs",
+    "job_company_website": "schoolofmedicalaffairs.nl",
+    "job_company_size": "1-10",
+    "job_company_founded": 2019,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/school-of-medical-affairs",
+    "job_company_linkedin_id": "51592181",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "naarden, north holland, netherlands",
+    "job_company_location_locality": "naarden",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north holland",
+    "job_company_location_geo": "52.28,5.15",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "netherlands",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2019-12-07",
+    "job_last_verified": "2026-07-22",
+    "job_start_date": "2019-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-11-21",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business strategy",
+      "change management",
+      "consultancy services",
+      "keynote speaking",
+      "leadership",
+      "medical affairs",
+      "operational excellence",
+      "people management",
+      "pharmaceutical industry",
+      "product launch",
+      "training and development",
+      "training and development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "school of medical affairs",
+          "size": "1-10",
+          "id": "YTxFiey6Cm2M61EK9ZtdbQqE8XOk",
+          "founded": 2019,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "naarden, north holland, netherlands",
+            "locality": "naarden",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.28,5.15"
+          },
+          "linkedin_url": "linkedin.com/company/school-of-medical-affairs",
+          "linkedin_id": "51592181",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "schoolofmedicalaffairs.nl"
+        },
+        "location_names": [
+          "nederland, texas, united states"
+        ],
+        "end_date": null,
+        "start_date": "2019-09",
+        "title": {
+          "name": "director and co-founder school of medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ligalli",
+          "size": "11-50",
+          "id": "t3UTEt4ykwg4c5CWAnCnxAe00mnJ",
+          "founded": 2014,
+          "industry": "medical devices",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "leiden, south holland, netherlands",
+            "locality": "leiden",
+            "region": "south holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "21 j.h. oortweg",
+            "address_line_2": null,
+            "postal_code": "2333 ch",
+            "geo": "52.16,4.48"
+          },
+          "linkedin_url": "linkedin.com/company/medring-by-ligalli",
+          "linkedin_id": "18937871",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ligalli.health"
+        },
+        "location_names": [
+          "leiden, south holland, netherlands"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2023-08",
+        "title": {
+          "name": "chief medical officer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dutch association for pharmaceutical medicine",
+          "size": "501-1000",
+          "id": "dZdPliEKI6pUQ53NbTMnhQNaTQ0C",
+          "founded": 1962,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "woerden, utrecht, netherlands",
+            "locality": "woerden",
+            "region": "utrecht",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "41 d leidsestraatweg",
+            "address_line_2": "bp netherlands",
+            "postal_code": "3443 bp",
+            "geo": "52.08,4.88"
+          },
+          "linkedin_url": "linkedin.com/company/nederlandse-vereniging-voor-farmaceutische-geneeskunde-nvfg",
+          "linkedin_id": "43313191",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "nvfg.nl"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-07",
+        "title": {
+          "name": "board member dutch association of pharmaceutical medicine (nvfg) + chair medical affairs committee",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [],
+        "end_date": "2019-09",
+        "start_date": "2019-05",
+        "title": {
+          "name": "ad interim medical lead benelux",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "precision aq - international",
+          "size": "1-10",
+          "id": "zEIJGkQitCU6NgpX9Kd26g6ZoWv8",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "29 throgmorton street",
+            "address_line_2": null,
+            "postal_code": "ec2n 2at",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq-international",
+          "linkedin_id": "53963",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2021-12",
+        "start_date": "2018-04",
+        "title": {
+          "name": "senior strategy consultant - medical affairs omnichannel engagement",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "hoofddorp, north holland, netherlands"
+        ],
+        "end_date": "2018-02",
+        "start_date": "2017-11",
+        "title": {
+          "name": "ad interim head of medical affairs immunology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medical affairs solutions nl",
+          "size": "1-10",
+          "id": "dxwcZRcrR5nh4AczmB5FGAE1wKF3",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "naarden, north holland, netherlands",
+            "locality": "naarden",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1412 ax",
+            "geo": "52.28,5.15"
+          },
+          "linkedin_url": "linkedin.com/company/medical-affairs-solutions-nl",
+          "linkedin_id": "35541039",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "medicalaffairs.nl"
+        },
+        "location_names": [
+          "naarden, north holland, netherlands"
+        ],
+        "end_date": null,
+        "start_date": "2017-05",
+        "title": {
+          "name": "medical affairs expert",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celforpharma",
+          "size": "1-10",
+          "id": "S7etY1JhyzINIGySVGUXOgK9kuJa",
+          "founded": 2005,
+          "industry": "professional training & coaching",
+          "industry_v2": "professional training and coaching",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "20a j.east mommaertslaan",
+            "address_line_2": null,
+            "postal_code": "1831",
+            "geo": "50.89,4.43"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "linkedin_id": "965286",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "celforpharma.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2017-04",
+        "title": {
+          "name": "expert trainer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2013-01",
+        "title": {
+          "name": "head of medical affairs scd",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": "2013-12",
+        "start_date": "2010-11",
+        "title": {
+          "name": "medical manager hpc",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "solvay pharma",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2010-12",
+        "start_date": "2008-09",
+        "title": {
+          "name": "country medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "organon",
+          "size": "10001+",
+          "id": "aHV5LA6UG4unQ3BBaA72RgYJqgwR",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "jersey city, new jersey, united states",
+            "locality": "jersey city",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 hudson street",
+            "address_line_2": null,
+            "postal_code": "07302",
+            "geo": "40.72,-74.05"
+          },
+          "linkedin_url": "linkedin.com/company/organon",
+          "linkedin_id": "3605",
+          "facebook_url": "facebook.com/organonllc",
+          "twitter_url": null,
+          "website": "organon.com"
+        },
+        "location_names": [],
+        "end_date": "2008-09",
+        "start_date": "2007-03",
+        "title": {
+          "name": "associate director medical affairs gynaecology, europe",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "organon",
+          "size": "10001+",
+          "id": "aHV5LA6UG4unQ3BBaA72RgYJqgwR",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "jersey city, new jersey, united states",
+            "locality": "jersey city",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 hudson street",
+            "address_line_2": null,
+            "postal_code": "07302",
+            "geo": "40.72,-74.05"
+          },
+          "linkedin_url": "linkedin.com/company/organon",
+          "linkedin_id": "3605",
+          "facebook_url": "facebook.com/organonllc",
+          "twitter_url": null,
+          "website": "organon.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2007-02",
+        "start_date": "2004-02",
+        "title": {
+          "name": "medical advisor contraception",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "organon",
+          "size": "10001+",
+          "id": "aHV5LA6UG4unQ3BBaA72RgYJqgwR",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "jersey city, new jersey, united states",
+            "locality": "jersey city",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 hudson street",
+            "address_line_2": null,
+            "postal_code": "07302",
+            "geo": "40.72,-74.05"
+          },
+          "linkedin_url": "linkedin.com/company/organon",
+          "linkedin_id": "3605",
+          "facebook_url": "facebook.com/organonllc",
+          "twitter_url": null,
+          "website": "organon.com"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2004-02",
+        "start_date": "2002-02",
+        "title": {
+          "name": "medical advisor cns, psychiatry",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "altrecht ambulatory psychiatric institute",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2002-02",
+        "start_date": "2000-01",
+        "title": {
+          "name": "resident physician psychiatry",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "utrecht university",
+          "type": "post-secondary institution",
+          "id": "SEN1MGlTOwRSBT8FFC3Iyg_0000",
+          "location": {
+            "name": "utrecht, utrecht, netherlands",
+            "locality": "utrecht",
+            "region": "utrecht",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universiteit-utrecht",
+          "facebook_url": "facebook.com/utrechtuniversity",
+          "twitter_url": "twitter.com/uniutrecht",
+          "linkedin_id": "166740",
+          "website": "uu.nl",
+          "domain": "uu.nl"
+        },
+        "degrees": [],
+        "start_date": "1993-01",
+        "end_date": "2000-12",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "marion high school, mi, usa",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1992",
+        "end_date": "1993",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "marion high school, mi, us",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1992-01",
+        "end_date": "1993-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "marion high school, mi, us",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1992-01",
+        "end_date": "1993-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "christelijk lyceum zandvliet",
+          "type": "secondary school",
+          "id": "pZxpKjtXrcRYxDvNh4O9Uw_0000",
+          "location": {
+            "name": "the hague, south holland, netherlands",
+            "locality": "the hague",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/christelijk-lyceum-zandvliet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18394976",
+          "website": "solz.tickable.nl",
+          "domain": "tickable.nl"
+        },
+        "degrees": [],
+        "start_date": "1986-01",
+        "end_date": "1992-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "christelijk lyceum zandvliet",
+          "type": "secondary school",
+          "id": "pZxpKjtXrcRYxDvNh4O9Uw_0000",
+          "location": {
+            "name": "the hague, south holland, netherlands",
+            "locality": "the hague",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/christelijk-lyceum-zandvliet",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18394976",
+          "website": "solz.tickable.nl",
+          "domain": "tickable.nl"
+        },
+        "degrees": [],
+        "start_date": "1986-01",
+        "end_date": "1992-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3282743",
+        "url": "linkedin.com/in/maaike-addicks",
+        "username": "maaike-addicks"
+      },
+      {
+        "network": "linkedin",
+        "id": "3282743",
+        "url": "linkedin.com/in/maaike-addicks-md-89b1231",
+        "username": "maaike-addicks-md-89b1231"
+      },
+      {
+        "network": "linkedin",
+        "id": "3282743",
+        "url": "linkedin.com/in/maaike-addicks-89b1231",
+        "username": "maaike-addicks-89b1231"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

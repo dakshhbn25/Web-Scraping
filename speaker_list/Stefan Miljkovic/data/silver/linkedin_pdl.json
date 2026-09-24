@@ -1,0 +1,217 @@
+{
+  "record_id": "speaker-dubrovnik-017",
+  "speaker_name": "Stefan Miljkovic",
+  "linkedin_url": "https://www.linkedin.com/in/stefan-miljkovic-digital-leader/",
+  "likelihood": 9,
+  "full_name": "stefan miljkovic",
+  "job_title": "lecturer",
+  "industry": "pharmaceuticals",
+  "current_company": "escp - msc biopharmaceutical management",
+  "current_company_website": "msm-news.net",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "anesthesia",
+    "artificial intelligence",
+    "biotechnology",
+    "business english",
+    "cardiology",
+    "clinical trials",
+    "coaching",
+    "contract negotiation",
+    "customer engagement",
+    "customer experience",
+    "customer journey mapping",
+    "data management",
+    "data mining",
+    "diabetes",
+    "digital health",
+    "digital marketing",
+    "digital project management",
+    "digital strategy",
+    "digital transformation",
+    "drug development",
+    "drupal",
+    "french",
+    "generative ai",
+    "integrated multi channel marketing",
+    "key account management",
+    "leadership",
+    "managed care",
+    "market access",
+    "marketing",
+    "marketing automation",
+    "marketing strategy",
+    "medical affairs",
+    "multi channel analytics",
+    "multi channel campaign management",
+    "multi channel marketing",
+    "natural language processing",
+    "negotiation",
+    "omni channel marketing",
+    "omnichannel marketing",
+    "openai",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacology",
+    "pharmacovigilance",
+    "pharmacy",
+    "planning budgeting and forecasting",
+    "product management",
+    "product marketing",
+    "project management",
+    "project planning",
+    "regulatory requirements",
+    "rheumatology",
+    "sales",
+    "sales analysis",
+    "sales operations",
+    "scientific communications",
+    "search engine marketing",
+    "search engine optimization",
+    "serbian",
+    "social media marketing",
+    "strategy",
+    "team management",
+    "user experience",
+    "veeva"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "lecturer",
+      "company": "escp - msc biopharmaceutical management",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "assistant vice president, global head customer experience",
+      "company": "ipsen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "executive lead, medical affairs (rotation)",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-06",
+      "end_date": "2025-04",
+      "is_primary": false
+    },
+    {
+      "title": "global head ai content engine & web products",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-11",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "worldwide director web & media oncology",
+      "company": "novartis oncology",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital & data transformation",
+      "company": "novartis, australia & new zealand",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-11",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital strategy & innovation",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-08",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of customer experience",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-04",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison - infectiology",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-09",
+      "end_date": "2013-04",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager & product manager",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-03",
+      "end_date": "2012-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "escp",
+      "majors": [
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2008-01"
+    },
+    {
+      "school": "univerzitet u beogradu - arhitektonski fakultet / university of belgrade - faculty of architecture",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2000",
+      "end_date": "2007"
+    },
+    {
+      "school": "univerzitet u beogradu - arhitektonski fakultet / university of belgrade - faculty of architecture",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "doctor of pharmacy",
+        "doctorates"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2007-01"
+    },
+    {
+      "school": "high school of pharmacy - high school of medicine of krusevac",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "high school of tourism - polytechnique school of paris",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

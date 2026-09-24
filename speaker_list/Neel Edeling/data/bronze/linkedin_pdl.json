@@ -1,0 +1,809 @@
+{
+  "record_id": "speaker-viennacx-050",
+  "speaker_name": "Neel Edeling",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/neel-edeling-951266/",
+  "scraped_at": "2026-09-18T10:26:31.116259+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "WRtZfDcAgEG3ExHt38O1kQ_0000",
+    "full_name": "neel edeling",
+    "first_name": "neel",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "edeling",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/neel-edeling-951266",
+    "linkedin_username": "neel-edeling-951266",
+    "linkedin_id": "633805",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior ai manager, ai & compliance",
+    "job_title_role": "legal",
+    "job_title_sub_role": "compliance",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "senior",
+      "manager"
+    ],
+    "job_company_id": "bcYqBWvAViFmfYj2Kg58DgUlDs4x",
+    "job_company_name": "leo pharma",
+    "job_company_website": "leo-pharma.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1908,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/leo-pharma",
+    "job_company_linkedin_id": "164713",
+    "job_company_facebook_url": "facebook.com/leopharmaas",
+    "job_company_twitter_url": "twitter.com/leohealthyskin",
+    "job_company_location_name": "ballerup, hovedstaden, denmark",
+    "job_company_location_locality": "ballerup",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.72,12.35",
+    "job_company_location_street_address": "55 industriparken",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2750",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-03-10",
+    "job_last_verified": "2026-08-25",
+    "job_start_date": "2024-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "denmark",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-25",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analysis",
+      "b2b",
+      "b2b marketing",
+      "business development",
+      "business process",
+      "business strategy",
+      "digital marketing",
+      "digital strategy",
+      "e commerce",
+      "entrepreneurship",
+      "intranet strategy",
+      "key account management",
+      "leadership",
+      "management",
+      "management consulting",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "online marketing",
+      "problem solving",
+      "product development",
+      "product management",
+      "project management",
+      "recruiting",
+      "sales",
+      "sales process",
+      "salesforce.com",
+      "selling",
+      "start ups",
+      "strategic planning",
+      "strategy",
+      "team building",
+      "veeva crm",
+      "veeva vault"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "denmark"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "leo pharma",
+          "size": "1001-5000",
+          "id": "bcYqBWvAViFmfYj2Kg58DgUlDs4x",
+          "founded": 1908,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ballerup, hovedstaden, denmark",
+            "locality": "ballerup",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "55 industriparken",
+            "address_line_2": null,
+            "postal_code": "2750",
+            "geo": "55.72,12.35"
+          },
+          "linkedin_url": "linkedin.com/company/leo-pharma",
+          "linkedin_id": "164713",
+          "facebook_url": "facebook.com/leopharmaas",
+          "twitter_url": "twitter.com/leohealthyskin",
+          "website": "leo-pharma.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-02",
+        "title": {
+          "name": "senior ai manager, ai & compliance",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ascendis pharma",
+          "size": "501-1000",
+          "id": "75fkq3dcS7hkTMoMv03QUgZzJtgM",
+          "founded": 2007,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "hellerup, hovedstaden, denmark",
+            "locality": "hellerup",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "12 tuborg boulevard",
+            "address_line_2": null,
+            "postal_code": "2900",
+            "geo": "55.73,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/ascendis-pharma-a-s",
+          "linkedin_id": "8788834",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ascendispharma.com"
+        },
+        "location_names": [],
+        "end_date": "2024-02",
+        "start_date": "2022-11",
+        "title": {
+          "name": "senior eu commercial it product manager / launch lead",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lundbeck",
+          "size": "5001-10000",
+          "id": "6CSCetK9MeCxQ11JMMT4GAYCulnS",
+          "founded": 1915,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "9 ottiliavej",
+            "address_line_2": null,
+            "postal_code": "2500",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/lundbeck",
+          "linkedin_id": "4589",
+          "facebook_url": "facebook.com/lundbeckgbskrakow",
+          "twitter_url": "twitter.com/lundbeck",
+          "website": "lundbeck.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2022-11",
+        "start_date": "2021-01",
+        "title": {
+          "name": "global veeva engagement, external",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ey",
+          "size": "10001+",
+          "id": "InypSCQ4r4576NVauTJJ0Q6MRk4l",
+          "founded": 1989,
+          "industry": "information technology and services",
+          "industry_v2": "professional services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "6 more london place",
+            "address_line_2": null,
+            "postal_code": "se1 2da",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/ernstandyoung",
+          "linkedin_id": "1073",
+          "facebook_url": "facebook.com/ey",
+          "twitter_url": "twitter.com/eynews",
+          "website": "ey.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2021-01",
+        "start_date": "2019-04",
+        "title": {
+          "name": "senior manager, technology advisory",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wipro",
+          "size": "10001+",
+          "id": "08aa6nuDv5fkQSz9f1VplAfpTkQJ",
+          "founded": 1945,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "bangalore, karnataka, india",
+            "locality": "bangalore",
+            "region": "karnataka",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "12.97,77.59"
+          },
+          "linkedin_url": "linkedin.com/company/wipro",
+          "linkedin_id": "1318",
+          "facebook_url": "facebook.com/wiprotechnologies",
+          "twitter_url": "twitter.com/wipro",
+          "website": "wipro.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2019-04",
+        "start_date": "2018-02",
+        "title": {
+          "name": "director of business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wipro",
+          "size": "10001+",
+          "id": "08aa6nuDv5fkQSz9f1VplAfpTkQJ",
+          "founded": 1945,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "bangalore, karnataka, india",
+            "locality": "bangalore",
+            "region": "karnataka",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "12.97,77.59"
+          },
+          "linkedin_url": "linkedin.com/company/wipro",
+          "linkedin_id": "1318",
+          "facebook_url": "facebook.com/wiprotechnologies",
+          "twitter_url": "twitter.com/wipro",
+          "website": "wipro.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2019-05",
+        "start_date": "2018-01",
+        "title": {
+          "name": "director, business development hbu",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vertic",
+          "size": "51-200",
+          "id": "mSxEqFqdkfRes2OdCITVBwKR6bVd",
+          "founded": 2002,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "530 fifth avenue",
+            "address_line_2": "suite 806",
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/verticportals",
+          "linkedin_id": "27896",
+          "facebook_url": "facebook.com/vertic",
+          "twitter_url": "twitter.com/wearevertic",
+          "website": "vertic.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-04",
+        "title": {
+          "name": "client director, healthcare",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "avensia",
+          "size": "201-500",
+          "id": "Mjk3JkAqLRDDZNGr8VmCoQFqoTkS",
+          "founded": 1998,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "lund, skåne, sweden",
+            "locality": "lund",
+            "region": "skåne",
+            "metro": null,
+            "country": "sweden",
+            "continent": "europe",
+            "street_address": "21 vävaregatan",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "55.7,13.18"
+          },
+          "linkedin_url": "linkedin.com/company/avensia",
+          "linkedin_id": "73099",
+          "facebook_url": "facebook.com/avensia",
+          "twitter_url": "twitter.com/avensia_ab",
+          "website": "avensia.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2015-02",
+        "title": {
+          "name": "country manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "precision aq - international",
+          "size": "1-10",
+          "id": "zEIJGkQitCU6NgpX9Kd26g6ZoWv8",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "29 throgmorton street",
+            "address_line_2": null,
+            "postal_code": "ec2n 2at",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq-international",
+          "linkedin_id": "53963",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2016-01",
+        "start_date": "2014-12",
+        "title": {
+          "name": "senior director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "valtech",
+          "size": "5001-10000",
+          "id": "ggzBjth7OK1sg5QH5W4nUwMsySh4",
+          "founded": 1993,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/valtech",
+          "linkedin_id": "5175",
+          "facebook_url": "facebook.com/valtech",
+          "twitter_url": "twitter.com/valtech_",
+          "website": "valtech.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2014-11",
+        "start_date": "2013-06",
+        "title": {
+          "name": "global pharma director",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "valtech",
+          "size": "5001-10000",
+          "id": "ggzBjth7OK1sg5QH5W4nUwMsySh4",
+          "founded": 1993,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/valtech",
+          "linkedin_id": "5175",
+          "facebook_url": "facebook.com/valtech",
+          "twitter_url": "twitter.com/valtech_",
+          "website": "valtech.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2014-11",
+        "start_date": "2012-12",
+        "title": {
+          "name": "engagement manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "daman",
+          "size": "11-50",
+          "id": "aDRCB76X5t70MD8LLnb6bA7nWwDJ",
+          "founded": 2002,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "hovedstaden, denmark",
+            "locality": null,
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/daman",
+          "linkedin_id": "927397",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "damandigital.com"
+        },
+        "location_names": [
+          "copenhagen, hovedstaden, denmark"
+        ],
+        "end_date": "2012-12",
+        "start_date": "2012-03",
+        "title": {
+          "name": "head of sales",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "visitdenmark",
+          "size": "51-200",
+          "id": "UqnldSBRHdhSnxZCiLsGhgHXaRAV",
+          "founded": null,
+          "industry": "leisure, travel & tourism",
+          "industry_v2": "travel arrangements",
+          "location": {
+            "name": "copenhagen, hovedstaden, denmark",
+            "locality": "copenhagen",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "43 islands brygge",
+            "address_line_2": null,
+            "postal_code": "2300",
+            "geo": "55.67,12.56"
+          },
+          "linkedin_url": "linkedin.com/company/visitdenmark",
+          "linkedin_id": "947316",
+          "facebook_url": "facebook.com/denmark",
+          "twitter_url": "twitter.com/@govisitdenmark",
+          "website": "visitdenmark.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2008",
+        "start_date": "2006",
+        "title": {
+          "name": "director of sales",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "intramed a/s",
+          "size": "11-50",
+          "id": "wEcf5JDn97pKTdEiRDMBZw3CtuB2",
+          "founded": 1999,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "ballerup, hovedstaden, denmark",
+            "locality": "ballerup",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "1 lautruphoj",
+            "address_line_2": null,
+            "postal_code": "2750",
+            "geo": "55.72,12.35"
+          },
+          "linkedin_url": "linkedin.com/company/intramed-as",
+          "linkedin_id": "52248",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "intramed.dk"
+        },
+        "location_names": [],
+        "end_date": "2011-08",
+        "start_date": "2006-10",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2006-07",
+        "start_date": "2003-10",
+        "title": {
+          "name": "vice president business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "copenhagen business school",
+          "type": "post-secondary institution",
+          "id": "NQ2wgaZhUlI1NU3T4ZuMBQ_0000",
+          "location": {
+            "name": "frederiksberg, hovedstaden, denmark",
+            "locality": "frederiksberg",
+            "region": "hovedstaden",
+            "country": "denmark",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/copenhagen-business-school",
+          "facebook_url": "facebook.com/copenhagenbusinessschool",
+          "twitter_url": "twitter.com/cbssayshello",
+          "linkedin_id": "2151",
+          "website": "cbs.dk",
+          "domain": "cbs.dk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011-12",
+        "majors": [
+          "communication",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the new school",
+          "type": "post-secondary institution",
+          "id": "k6yuS8VR0H9U3E47iZdBNQ_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/the-new-school",
+          "facebook_url": "facebook.com/thenewschool",
+          "twitter_url": "twitter.com/thenewschool",
+          "linkedin_id": "166389",
+          "website": "newschool.edu",
+          "domain": "newschool.edu"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2003",
+        "majors": [
+          "design"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "633805",
+        "url": "linkedin.com/in/neel-edeling-951266",
+        "username": "neel-edeling-951266"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/hinal-patel-mbcs-16127622",
+        "username": "hinal-patel-mbcs-16127622"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/pierre-jean-auriol-86b49318",
+        "username": "pierre-jean-auriol-86b49318"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

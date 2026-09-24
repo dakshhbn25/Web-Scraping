@@ -1,0 +1,702 @@
+{
+  "record_id": "speaker-dubrovnik-075",
+  "speaker_name": "Mirkka Schaller",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/mirkka-schaller/",
+  "scraped_at": "2026-09-18T09:37:44.631767+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "yMEwpVpY4iplGBWa7paWgA_0000",
+    "full_name": "mirkka schaller",
+    "first_name": "mirkka",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "schaller",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/mirkka-schaller",
+    "linkedin_username": "mirkka-schaller",
+    "linkedin_id": "212256813",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "health futurist",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [],
+    "job_company_id": null,
+    "job_company_name": "health futurist network",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2026-01-02",
+    "job_last_verified": "2026-03-02",
+    "job_start_date": "2025-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-03-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts",
+      "classical music",
+      "nature (= finnish lakes/woods and sauna)",
+      "nature (=finnish lakes/woods)",
+      "nutrition",
+      "power yoga",
+      "running"
+    ],
+    "skills": [
+      "biotechnology",
+      "change management",
+      "clinical nutrition",
+      "digital innovation",
+      "digital transformation",
+      "klinische studien",
+      "life sciences",
+      "pharmaceutical industry",
+      "public speaking",
+      "strategic foresight",
+      "strategic planning",
+      "strategie"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "health futurist network",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-06",
+        "title": {
+          "name": "health futurist",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "world economic forum",
+          "size": "501-1000",
+          "id": "MppNPI16poTqayUnfBC4VQq7Kb2g",
+          "founded": 1971,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "cologny, geneva, switzerland",
+            "locality": "cologny",
+            "region": "geneva",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "91-93 route de la capite",
+            "address_line_2": null,
+            "postal_code": "1223",
+            "geo": "46.21,6.18"
+          },
+          "linkedin_url": "linkedin.com/company/world-economic-forum",
+          "linkedin_id": "8193",
+          "facebook_url": "facebook.com/worldeconomicforum",
+          "twitter_url": "twitter.com/wef",
+          "website": "weforum.org"
+        },
+        "location_names": [],
+        "end_date": "2025-06",
+        "start_date": "2024-04",
+        "title": {
+          "name": "member of the global foresight network",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "network",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2025-06",
+        "start_date": "2023-04",
+        "title": {
+          "name": "head of innovation accelerator & think tank, it",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": "2023-06",
+        "start_date": "2022-02",
+        "title": {
+          "name": "digital innovation & data generation, digital enablement",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2022-02",
+        "start_date": "2019-04",
+        "title": {
+          "name": "digital innovation medical communications",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": "2019-04",
+        "start_date": "2018-01",
+        "title": {
+          "name": "scientific communication associate director",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alexion pharmaceuticals, inc.",
+          "size": "1001-5000",
+          "id": "eppWjfjET5XOJy4fIqGzAAkzx5Ar",
+          "founded": 1992,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "121 seaport boulevard",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/alexion-pharmaceuticals",
+          "linkedin_id": "16750",
+          "facebook_url": "facebook.com/alexionpharmaceuticalsinc",
+          "twitter_url": "twitter.com/alexionpharma",
+          "website": "alexion.com"
+        },
+        "location_names": [],
+        "end_date": "2018-01",
+        "start_date": "2015-09",
+        "title": {
+          "name": "scientific communication senior manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aava medical communication & consulting",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2015-09",
+        "start_date": "2011-05",
+        "title": {
+          "name": "consultant & speaker",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "csl vifor",
+          "size": "10001+",
+          "id": "irTzAjaySlSJ7ZTjG1m4QQW2pf95",
+          "founded": 1872,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "sankt gallen, st. gallen, switzerland",
+            "locality": "sankt gallen",
+            "region": "st. gallen",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "37 rechenstrasse",
+            "address_line_2": null,
+            "postal_code": "9001",
+            "geo": "47.41,9.35"
+          },
+          "linkedin_url": "linkedin.com/company/csl-vifor",
+          "linkedin_id": "263528",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "viforpharma.com"
+        },
+        "location_names": [],
+        "end_date": "2011-05",
+        "start_date": "2008-09",
+        "title": {
+          "name": "medical communications",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2007-09",
+        "start_date": "2004-09",
+        "title": {
+          "name": "science manager, consumer care",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of helsinki",
+          "type": "post-secondary institution",
+          "id": "sbDvW6a1aWgOzi-umYxNCg_0000",
+          "location": {
+            "name": "helsinki, uusimaa, finland",
+            "locality": "helsinki",
+            "region": "uusimaa",
+            "country": "finland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-helsinki",
+          "facebook_url": "facebook.com/helsinkiuniversity",
+          "twitter_url": "twitter.com/helsinkiuni",
+          "linkedin_id": "4273",
+          "website": "helsinki.fi",
+          "domain": "helsinki.fi"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2000",
+        "end_date": "2004",
+        "majors": [
+          "pharmacology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "kuopio university hospital (kuh) - kuopion yliopistollinen sairaala (kys)",
+          "type": "post-secondary institution",
+          "id": "gflcAe0UGLJA0GhOrDS53w_0000",
+          "location": {
+            "name": "kuopio, north savo, finland",
+            "locality": "kuopio",
+            "region": "north savo",
+            "country": "finland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/kuopio-university-hospital",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "42552",
+          "website": "pshyvinvointialue.fi",
+          "domain": "pshyvinvointialue.fi"
+        },
+        "degrees": [
+          "masters",
+          "master of science"
+        ],
+        "start_date": "1994",
+        "end_date": "2000",
+        "majors": [
+          "nutrition"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "medical faculty skopje, university ss cyril and methodius",
+          "type": "post-secondary institution",
+          "id": "eaxb0uS4ffvaIZyrGMdHnA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/medicinski-fakultet-university-ss-cyril-and-methodius-skopje",
+          "facebook_url": "facebook.com/ukim.edu.mk",
+          "twitter_url": "twitter.com/ukimedumk",
+          "linkedin_id": "71424774",
+          "website": "medf.ukim.edu.mk",
+          "domain": "ukim.edu.mk"
+        },
+        "degrees": [
+          "masters",
+          "master of science"
+        ],
+        "start_date": "1994",
+        "end_date": "2000",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "medical school",
+          "type": "post-secondary institution",
+          "id": "gX1laecnGp6li22sPngFSQ_0000",
+          "location": {
+            "name": "leeds, england, united kingdom",
+            "locality": "leeds",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/medical-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "11907612",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1994",
+        "end_date": "2000",
+        "majors": [
+          "nutrition"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "singularity university",
+          "type": "post-secondary institution",
+          "id": "zAHgBBgxZfR4Yabwlz5ujA_0000",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/singularity-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "495148",
+          "website": "su.org",
+          "domain": "su.org"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2020",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "institute for integrative nutrition",
+          "type": "post-secondary institution",
+          "id": "pjzxiT-gWmnDrl1ikBa60Q_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/institute-for-integrative-nutrition",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "902375",
+          "website": "integrativenutrition.com",
+          "domain": "integrativenutrition.com"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of eastern finland",
+          "type": "post-secondary institution",
+          "id": "QQqhGaZ9el-lysmL19eN2g_0000",
+          "location": {
+            "name": "kuopio, north savo, finland",
+            "locality": "kuopio",
+            "region": "north savo",
+            "country": "finland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-eastern-finland",
+          "facebook_url": "facebook.com/itasuomenyliopisto.uef",
+          "twitter_url": "twitter.com/unieastfinland",
+          "linkedin_id": "10314",
+          "website": "uef.fi",
+          "domain": "uef.fi"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "212256813",
+        "url": "linkedin.com/in/mirkka-schaller",
+        "username": "mirkka-schaller"
+      },
+      {
+        "network": "linkedin",
+        "id": "212256813",
+        "url": "linkedin.com/in/mirkka-schaller-phd-9791015b",
+        "username": "mirkka-schaller-phd-9791015b"
+      },
+      {
+        "network": "linkedin",
+        "id": "212256813",
+        "url": "linkedin.com/in/mirkka-schaller-9791015b",
+        "username": "mirkka-schaller-9791015b"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

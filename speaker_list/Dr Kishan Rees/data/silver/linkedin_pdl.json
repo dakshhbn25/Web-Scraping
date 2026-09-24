@@ -1,0 +1,378 @@
+{
+  "record_id": "speaker-medical-002",
+  "speaker_name": "Dr Kishan Rees",
+  "linkedin_url": "https://www.linkedin.com/in/drkishanrees/",
+  "likelihood": 9,
+  "full_name": "kishan rees",
+  "job_title": "senior director / global video content & digital media strategy - patient & scientific engagement",
+  "industry": "pharmaceuticals",
+  "current_company": "bayer",
+  "current_company_website": "bayer.com",
+  "current_company_industry": "chemicals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "academic writing",
+    "acute care",
+    "agile methodologies",
+    "artificial intelligence",
+    "board level",
+    "brand awareness",
+    "brand development",
+    "branding and identity",
+    "broadcast journalism",
+    "broadcast production",
+    "broadcast television",
+    "broadcasting",
+    "business strategy",
+    "clinical research",
+    "clinical training",
+    "communication",
+    "creativity and innovation",
+    "crisis communications",
+    "critical thinking",
+    "customer service",
+    "digital innovation",
+    "digital marketing",
+    "digital media",
+    "dyslexic thinking",
+    "emergency medicine",
+    "external agencies",
+    "graduate medical education",
+    "health communication",
+    "healthcare",
+    "healthcare information technology",
+    "healthcare information technology",
+    "healthcare management",
+    "hospitals",
+    "information technology",
+    "innovation management",
+    "leadership",
+    "live broadcast",
+    "mam",
+    "management",
+    "mba",
+    "medical education",
+    "medicine",
+    "mentoring",
+    "microsoft powerpoint",
+    "negotiation",
+    "orthopedic",
+    "orthopedics",
+    "patient safety",
+    "pedagogy",
+    "pediatrics",
+    "people development",
+    "project based learning",
+    "public health",
+    "relationship building",
+    "research",
+    "social media",
+    "social media marketing",
+    "stakeholder management",
+    "strategic planning",
+    "strategy",
+    "surgery",
+    "teaching",
+    "team management",
+    "training",
+    "wound care",
+    "youtube"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director / global video content & digital media strategy - patient & scientific engagement",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director / digital ckd then cv - global medical affairs",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2022-11",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "medical lead - dermatology then acting head of immunology medical",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "clinical advisory group member",
+      "company": "needlesmart",
+      "company_industry": "hospital & health care",
+      "start_date": "2020-12",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "greater lincolnshire lep",
+      "company_industry": "government administration",
+      "start_date": "2020-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "pharmaceutical physician & interact lead",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-04",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "urgent care doctor",
+      "company": "st john & st elizabeth hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2019-12",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "mam 80% & global secondment 20",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-04",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "mentor for nhs england s clinical entrepreneur program",
+      "company": "nhs england",
+      "company_industry": "hospital & health care",
+      "start_date": "2019-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "visiting honorary lecturer",
+      "company": "hull york medical school",
+      "company_industry": "higher education",
+      "start_date": "2018-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "mam - final signatory (fs)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-11",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "nhs england clinical entrepreneur - year 2",
+      "company": "nhs england",
+      "company_industry": "hospital & health care",
+      "start_date": "2018-07",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs manager (mam)",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-05",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "nhs england clinical entrepreneur - year 1",
+      "company": "nhs england",
+      "company_industry": "hospital & health care",
+      "start_date": "2017-07",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "health pundit & newspaper reviewer",
+      "company": "sky news",
+      "company_industry": "broadcast media",
+      "start_date": "2016-11",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "watmed media",
+      "company_industry": null,
+      "start_date": "2015-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "locum middle grade in ed",
+      "company": "nhs",
+      "company_industry": "food & beverages",
+      "start_date": "2015-08",
+      "end_date": "2019-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior clinical teaching fellow",
+      "company": "lincolnshire community and hospitals nhs group",
+      "company_industry": "hospital & health care",
+      "start_date": "2015-08",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "associate fellow",
+      "company": "higher education academy",
+      "company_industry": "education management",
+      "start_date": "2014-08",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "clinical teaching fellow",
+      "company": "lincolnshire community and hospitals nhs group",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-08",
+      "end_date": "2015-07",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "watmed educational",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-04",
+      "end_date": "2015-05",
+      "is_primary": false
+    },
+    {
+      "title": "ct2",
+      "company": "university hospitals of leicester nhs trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2012-08",
+      "end_date": "2013-07",
+      "is_primary": false
+    },
+    {
+      "title": "ct1",
+      "company": "northampton general hospital nhs trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2011-08",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "watmed locums",
+      "company_industry": null,
+      "start_date": "2011-04",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "question writer",
+      "company": "general medical council",
+      "company_industry": "non-profit organization management",
+      "start_date": "2010-08",
+      "end_date": "2012-08",
+      "is_primary": false
+    },
+    {
+      "title": "fy2",
+      "company": "university hospitals of leicester nhs trust",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-08",
+      "end_date": "2011-07",
+      "is_primary": false
+    },
+    {
+      "title": "volunteer",
+      "company": "mencap",
+      "company_industry": "non-profit organization management",
+      "start_date": "2009-07",
+      "end_date": "2015-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "harvard medical school",
+      "majors": [
+        "healthcare"
+      ],
+      "degrees": [],
+      "start_date": "2025-02",
+      "end_date": "2025-04"
+    },
+    {
+      "school": "harvard medical school",
+      "majors": [
+        "healthcare"
+      ],
+      "degrees": [],
+      "start_date": "2025-01",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "university of york",
+      "majors": [
+        "communication"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2020-03",
+      "end_date": "2025-05"
+    },
+    {
+      "school": "nottingham university business school",
+      "majors": [
+        "entrepreneurship"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2018"
+    },
+    {
+      "school": "higher education academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "university of nottingham",
+      "majors": [
+        "education"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "university of leicester",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "rickmansworth school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1997-01",
+      "end_date": "2004"
+    }
+  ]
+}

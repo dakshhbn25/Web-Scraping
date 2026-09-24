@@ -1,0 +1,589 @@
+{
+  "record_id": "speaker-dubrovnik-021",
+  "speaker_name": "Carlos Sosa",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/carlos-sosa-baixas/",
+  "scraped_at": "2026-09-18T09:35:47.506941+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "3i0TpyVV-ZEO440EPSkhyw_0000",
+    "full_name": "carlos sosa",
+    "first_name": "carlos",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "sosa",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/carlos-sosa-baixas",
+    "linkedin_username": "carlos-sosa-baixas",
+    "linkedin_id": "942658",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": null,
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": null,
+    "job_company_name": null,
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": null,
+    "job_last_verified": null,
+    "job_start_date": null,
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "analytical skills",
+      "artificial intelligence",
+      "business strategy",
+      "critical thinking",
+      "crm",
+      "data analytics",
+      "forecasting",
+      "global marketing",
+      "leadership",
+      "management consulting",
+      "market access",
+      "market analysis",
+      "marketing strategy",
+      "omni channel marketing",
+      "people management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "project implementation",
+      "prompt engineering",
+      "sales compensation management",
+      "sales effectiveness",
+      "sales force effectiveness",
+      "strategy",
+      "team leadership",
+      "veeva"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2026-03",
+        "start_date": "2022-05",
+        "title": {
+          "name": "executive director global commercial excellence",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2022-04",
+        "start_date": "2015-11",
+        "title": {
+          "name": "director global sales operations excellence (global commercial excellence transformation lead)",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2014-04",
+        "title": {
+          "name": "director global commercial effectiveness",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2011-11",
+        "title": {
+          "name": "implementation leader chrome project",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [],
+        "end_date": "2012-01",
+        "start_date": "2010-09",
+        "title": {
+          "name": "head of global marketing pain & gi",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [],
+        "end_date": "2010-09",
+        "start_date": "2007-08",
+        "title": {
+          "name": "head of global marketing and market research",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "almirall",
+          "size": "1001-5000",
+          "id": "cayHPdITbMAG6RQhSNPPKwhICoQO",
+          "founded": 1944,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "151 ronda general mitre",
+            "address_line_2": null,
+            "postal_code": "08022",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/almirall",
+          "linkedin_id": "11195",
+          "facebook_url": "facebook.com/almirall-hermal-gmbh",
+          "twitter_url": "twitter.com/almirallus",
+          "website": "almirall.com"
+        },
+        "location_names": [],
+        "end_date": "2007-07",
+        "start_date": "2002-09",
+        "title": {
+          "name": "head of global market intelligence - global marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zs",
+          "size": "10001+",
+          "id": "9PBvvCp43Iy4sWR8ABlwtwf0VXJh",
+          "founded": 1983,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "evanston, illinois, united states",
+            "locality": "evanston",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1560 sherman avenue",
+            "address_line_2": null,
+            "postal_code": "60201",
+            "geo": "42.04,-87.68"
+          },
+          "linkedin_url": "linkedin.com/company/zs-associates",
+          "linkedin_id": "5240",
+          "facebook_url": "facebook.com/zsassociates",
+          "twitter_url": "twitter.com/zsassociates",
+          "website": "zs.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2002",
+        "start_date": "1997",
+        "title": {
+          "name": "manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "caracas, federal district, venezuela"
+        ],
+        "end_date": "1995",
+        "start_date": "1991",
+        "title": {
+          "name": "brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "iese business school",
+          "type": "post-secondary institution",
+          "id": "Y87BftjK52-iFSI18DQsaA_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/iese-business-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "164299",
+          "website": "iese.edu",
+          "domain": "iese.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1995-01-01",
+        "end_date": "1997",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad metropolitana (ve)",
+          "type": "post-secondary institution",
+          "id": "zar52ghwUsPy3WAhUg5iZg_0000",
+          "location": {
+            "name": "petare, miranda, venezuela",
+            "locality": "petare",
+            "region": "miranda",
+            "country": "venezuela",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/unimet-ve",
+          "facebook_url": "facebook.com/unimet",
+          "twitter_url": "twitter.com/unimet",
+          "linkedin_id": "376487",
+          "website": "unimet.edu.ve",
+          "domain": "unimet.edu.ve"
+        },
+        "degrees": [],
+        "start_date": "1986-01-01",
+        "end_date": "1991",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad metropolitana (ve)",
+          "type": "post-secondary institution",
+          "id": "zar52ghwUsPy3WAhUg5iZg_0000",
+          "location": {
+            "name": "petare, miranda, venezuela",
+            "locality": "petare",
+            "region": "miranda",
+            "country": "venezuela",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/unimet-ve",
+          "facebook_url": "facebook.com/unimet",
+          "twitter_url": "twitter.com/unimet",
+          "linkedin_id": "376487",
+          "website": "unimet.edu.ve",
+          "domain": "unimet.edu.ve"
+        },
+        "degrees": [],
+        "start_date": "1984-01-01",
+        "end_date": "1989-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "942658",
+        "url": "linkedin.com/in/carlos-sosa-baixas",
+        "username": "carlos-sosa-baixas"
+      },
+      {
+        "network": "linkedin",
+        "id": "942658",
+        "url": "linkedin.com/in/carlos-sosa-62a395",
+        "username": "carlos-sosa-62a395"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,687 @@
+{
+  "record_id": "speaker-dubrovnik-100",
+  "speaker_name": "Ariel Salmang",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/arielsalmang/",
+  "scraped_at": "2026-09-18T09:38:38.575345+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "fDIPyfcqEB7pBwS1T67KZg_0000",
+    "full_name": "ariel salmang",
+    "first_name": "ariel",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "salmang",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/arielsalmang",
+    "linkedin_username": "arielsalmang",
+    "linkedin_id": "8624501",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "management consulting",
+    "job_title": "chief executive officer",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "x0YVnwDB7VaeGtfhUh0p6wf05sgV",
+    "job_company_name": "think tank 4 gmbh",
+    "job_company_website": "thinktank4.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2016,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/think-tank-4-gmbh",
+    "job_company_linkedin_id": "10866657",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "düsseldorf, north rhine-westphalia, germany",
+    "job_company_location_locality": "düsseldorf",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.21,6.76",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "40477",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2018-03-05",
+    "job_last_verified": "2026-08-21",
+    "job_start_date": "2016-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-21",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "food and wine",
+      "golf",
+      "life 3",
+      "literature",
+      "opera"
+    ],
+    "skills": [
+      "advertising",
+      "business development",
+      "business strategy",
+      "change management",
+      "consulting",
+      "digital marketing",
+      "digital media",
+      "digital strategy",
+      "e commerce",
+      "entrepreneurship",
+      "integrated marketing",
+      "leadership",
+      "management",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "mobile devices",
+      "mobile marketing",
+      "multi channel marketing",
+      "new business development",
+      "online advertising",
+      "online marketing",
+      "pharmaceutical industry",
+      "project management",
+      "social media",
+      "social media marketing",
+      "start ups",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "think tank 4 gmbh",
+          "size": "1-10",
+          "id": "x0YVnwDB7VaeGtfhUh0p6wf05sgV",
+          "founded": 2016,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "düsseldorf, north rhine-westphalia, germany",
+            "locality": "düsseldorf",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "40477",
+            "geo": "51.21,6.76"
+          },
+          "linkedin_url": "linkedin.com/company/think-tank-4-gmbh",
+          "linkedin_id": "10866657",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thinktank4.com"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2016-04",
+        "title": {
+          "name": "chief executive officer",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "eversana intouch",
+          "size": "1001-5000",
+          "id": "RnkvtWjHGMA2cIfeSnbs7gl0jY75",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "overland park, kansas, united states",
+            "locality": "overland park",
+            "region": "kansas",
+            "metro": "kansas city, missouri",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "7045 college boulevard",
+            "address_line_2": null,
+            "postal_code": "66211",
+            "geo": "38.95,-94.70"
+          },
+          "linkedin_url": "linkedin.com/company/eversana-intouch",
+          "linkedin_id": "81914625",
+          "facebook_url": "facebook.com/eversanaintouch",
+          "twitter_url": null,
+          "website": "eversanaintouch.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2024-01",
+        "title": {
+          "name": "senior vice president, managing director, global strategic development",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eversana intouch",
+          "size": "1001-5000",
+          "id": "RnkvtWjHGMA2cIfeSnbs7gl0jY75",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "overland park, kansas, united states",
+            "locality": "overland park",
+            "region": "kansas",
+            "metro": "kansas city, missouri",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "7045 college boulevard",
+            "address_line_2": null,
+            "postal_code": "66211",
+            "geo": "38.95,-94.70"
+          },
+          "linkedin_url": "linkedin.com/company/eversana-intouch",
+          "linkedin_id": "81914625",
+          "facebook_url": "facebook.com/eversanaintouch",
+          "twitter_url": null,
+          "website": "eversanaintouch.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2016-05",
+        "title": {
+          "name": "managing director eversana intouch international",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "healthware group",
+          "size": "201-500",
+          "id": "CCBZusdLO8w79ZgAj3GkGwTj2tQK",
+          "founded": 1997,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "salerno, campania, italy",
+            "locality": "salerno",
+            "region": "campania",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.67,14.78"
+          },
+          "linkedin_url": "linkedin.com/company/healthwaregroup",
+          "linkedin_id": "143295",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "healthwaregroup.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2016-05",
+        "title": {
+          "name": "managing director eversana intouch international (a joint venture with healthware group)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "precision aq - international",
+          "size": "1-10",
+          "id": "zEIJGkQitCU6NgpX9Kd26g6ZoWv8",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "29 throgmorton street",
+            "address_line_2": null,
+            "postal_code": "ec2n 2at",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq-international",
+          "linkedin_id": "53963",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2016-03",
+        "start_date": "2014-05",
+        "title": {
+          "name": "vice president international business development",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "razorfish healthware",
+          "size": "201-500",
+          "id": "VfBU1Zd0RpV9rKFrMoNUAAGmlvDC",
+          "founded": 1996,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/razorfish-healthware",
+          "linkedin_id": "2848542",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "razorfishhealthware.com"
+        },
+        "location_names": [],
+        "end_date": "2014-04",
+        "start_date": "2012-12",
+        "title": {
+          "name": "global head of advisory",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "publicis healthware international",
+          "size": "201-500",
+          "id": "YHDsVwhbAeLuUoNx14lbyAPPfdQr",
+          "founded": 1996,
+          "industry": "marketing and advertising",
+          "industry_v2": null,
+          "location": {
+            "name": "salerno, campania, italy",
+            "locality": "salerno",
+            "region": "campania",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": "15 viaduct antonio amato",
+            "address_line_2": null,
+            "postal_code": "84131",
+            "geo": "40.67,14.78"
+          },
+          "linkedin_url": "linkedin.com/company/publicis-healthware-international",
+          "linkedin_id": "912079",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-11",
+        "start_date": "2009-10",
+        "title": {
+          "name": "international director digital communication",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "publicis health",
+          "size": "1001-5000",
+          "id": "afF0wFquCs1XfYtVHr4BfwcT3qRr",
+          "founded": 2003,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "375 hudson street",
+            "address_line_2": null,
+            "postal_code": "10014",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/publicishealth",
+          "linkedin_id": "798828",
+          "facebook_url": "facebook.com/publicis-healthcare-communications-group-152161064830002",
+          "twitter_url": null,
+          "website": "publicishealth.com"
+        },
+        "location_names": [],
+        "end_date": "2009-09",
+        "start_date": "2008-10",
+        "title": {
+          "name": "managing director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "arvato",
+          "size": "10001+",
+          "id": "BjrBRrFQ4BcYDtbnCSZKgQHaDVRb",
+          "founded": null,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "gütersloh, north rhine-westphalia, germany",
+            "locality": "gütersloh",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.92,8.4"
+          },
+          "linkedin_url": "linkedin.com/company/arvato",
+          "linkedin_id": "10816367",
+          "facebook_url": "facebook.com/arvatoscstr",
+          "twitter_url": null,
+          "website": "arvato-supply-chain.com"
+        },
+        "location_names": [
+          "hamburg, hamburg, germany"
+        ],
+        "end_date": "2008-04",
+        "start_date": "2007-05",
+        "title": {
+          "name": "marketing director",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "simyo",
+          "size": "11-50",
+          "id": "q0KLs8KZakA8hUQCOORzqwu2fY16",
+          "founded": 2005,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "germany",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/simyo",
+          "linkedin_id": "125401",
+          "facebook_url": "facebook.com/simyode",
+          "twitter_url": "twitter.com/simyo",
+          "website": "simyo.de"
+        },
+        "location_names": [],
+        "end_date": "2007-04",
+        "start_date": "2005-08",
+        "title": {
+          "name": "business development manager",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "esperto",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2002-12",
+        "start_date": "2000-09",
+        "title": {
+          "name": "managing partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "t3 business development",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2000-07",
+        "title": {
+          "name": "managing partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "stepstone",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2000-07",
+        "start_date": "1999-05",
+        "title": {
+          "name": "marketing director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "prosieben media ag",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1999-04",
+        "start_date": "1997-02",
+        "title": {
+          "name": "various positions",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ludwig - maximilians - universität münchen",
+          "type": "post-secondary institution",
+          "id": "xzWvTDsoBC3Llxgl90ptlA_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lmu.muenchen",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "596185",
+          "website": "lmu.de",
+          "domain": "lmu.de"
+        },
+        "degrees": [],
+        "start_date": "1989-01",
+        "end_date": "1995",
+        "majors": [
+          "law"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "8624501",
+        "url": "linkedin.com/in/arielsalmang",
+        "username": "arielsalmang"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/ariel-salmang-045a7b2",
+        "username": "ariel-salmang-045a7b2"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,509 @@
+[
+  {
+    "session_title": "Opening Panel Fishbowl: Plug in to Medical NEXT: Navigating Complexity, Driving Impact!",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "09:10 AM",
+    "end_time": "09:50 AM",
+    "track": "Learn Stage",
+    "speakers": [
+      {
+        "speaker_name": "Joaquim Fonseca",
+        "designation": "Global Medical Excellence Lead",
+        "company": "Takeda"
+      },
+      {
+        "speaker_name": "Michelle Bridenbaker",
+        "designation": "Global Head of Medical Excellence & Communications",
+        "company": "Recordati"
+      },
+      {
+        "speaker_name": "Caroline Chataing",
+        "designation": "Global Scientific Communication Lead – RSV mAb",
+        "company": "Sanofi"
+      },
+      {
+        "speaker_name": "Dario Safaric",
+        "designation": "Chairman NEXT Pharma Summit",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Interactive Workshop: Beyond the Black Box: Practical AI for Rare Disease and Patient-Centric Innovation",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "09:50 AM",
+    "end_time": "10:30 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Amy FitzPatrick",
+        "designation": "Founder & Chief Innovation & Science Officer",
+        "company": "decipHER women"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "AI, the new Medical Affairs?",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "11:00 AM",
+    "end_time": "11:20 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Lode Dewulf",
+        "designation": "Independent Director and Medical/Patient Affairs Expert",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Oxford Debate: Who should own customer insights — Medical or Commercial?",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "11:20 AM",
+    "end_time": "11:50 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Yacin Marzouki",
+        "designation": "Omnichannel & customer engagement lead",
+        "company": null
+      },
+      {
+        "speaker_name": "Joan van der Horn",
+        "designation": "Medical Affairs Director",
+        "company": "Viatris"
+      },
+      {
+        "speaker_name": "Georgie Tilley",
+        "designation": "Medical Solutions Lead",
+        "company": "Sorcero"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Panel: Medical Affairs Professionals: Generalists, Specialists, or Something In Between?",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "11:50 AM",
+    "end_time": "12:20 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Sourav Ghosh",
+        "designation": "Head of Global Services, Medical & Scientific Affairs",
+        "company": "Boehringer Ingelheim"
+      },
+      {
+        "speaker_name": "Andressa van der Laan",
+        "designation": "Global Medical Lead/Digital Healh & Medical Excellence",
+        "company": "Abbott"
+      },
+      {
+        "speaker_name": "Tamara Krcmar",
+        "designation": "Transversal Cardiometabolic & Venous Disease medical communication",
+        "company": "Servier"
+      },
+      {
+        "speaker_name": "Lode Dewulf",
+        "designation": "Independent Director and Medical/Patient Affairs Expert",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Interactive Panel: The evolving Field Medical role and the essential needs for in role success",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "12:20 PM",
+    "end_time": "01:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Helen Kane",
+        "designation": "Founder",
+        "company": "ONEMsl"
+      },
+      {
+        "speaker_name": "Lorna Fergusson",
+        "designation": "Field Medical Excellence, Global & ELMAC",
+        "company": "Amgen"
+      },
+      {
+        "speaker_name": "Joaquim Fonseca",
+        "designation": "Global Medical Excellence Lead",
+        "company": "Takeda"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "From Clicks to Clinical Change: Redefining Medical Education Impact",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "02:00 PM",
+    "end_time": "02:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Daniela Clape",
+        "designation": "Founder and CEO Xpeer Medical Education",
+        "company": null
+      },
+      {
+        "speaker_name": "Olivier Valcke",
+        "designation": "Director – Biocodex Microbiota Institute",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Build Workshop: From Medical Plan to Field Medical Strategy",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "02:30 PM",
+    "end_time": "03:10 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Maja Beilmann-Schramm",
+        "designation": "Field Trainer",
+        "company": "Merck"
+      },
+      {
+        "speaker_name": "Lorna Fergusson",
+        "designation": "Field Medical Excellence, Global & ELMAC",
+        "company": "Amgen"
+      },
+      {
+        "speaker_name": "Beth Luyten",
+        "designation": "Medical Doctor & Medical Sr. Manager",
+        "company": "Amgen"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "No More One Size Fits All: Creating Precision KOL Engagement plans with AI",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "03:10 PM",
+    "end_time": "03:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Victoria Ho",
+        "designation": "VP, Medical Strategy and Solutions",
+        "company": "Sorcero"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Medical Affairs 3.0: CX-First Engagement Powered by Digital, Tech & AI",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "03:30 PM",
+    "end_time": "04:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Michelle Bridenbaker",
+        "designation": "Global Medical Information Lead",
+        "company": "Recordati"
+      },
+      {
+        "speaker_name": "Mara van Dorst",
+        "designation": "Head of Digital Technology Medical",
+        "company": "UCB"
+      },
+      {
+        "speaker_name": "Yazan Iwidat",
+        "designation": "Global Omnichannel Experience Standards Lead",
+        "company": "MSD"
+      },
+      {
+        "speaker_name": "Steve Royle",
+        "designation": "Founder of My Medical Affairs & the Rumi Engagement platform MYMA",
+        "company": null
+      },
+      {
+        "speaker_name": "Sam Rolfe",
+        "designation": "Sales Director",
+        "company": "Exeevo"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Fire-Side Chat: Medical in Pharma: Dinosaur or Phoenix? Evolving to Deliver Real Customer Impact",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "04:00 PM",
+    "end_time": "04:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Davina L.",
+        "designation": "Therapy Area Lead Oncology & Final Signatory",
+        "company": "Astellas Pharma"
+      },
+      {
+        "speaker_name": "Amy FitzPatrick",
+        "designation": "Founder & Chief Innovation & Science Officer",
+        "company": "decipHER women"
+      },
+      {
+        "speaker_name": "Paul Tunnah",
+        "designation": "Medical Expert",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Beyond pilots, how governed AI delivers in Medical Affairs",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "04:30 PM",
+    "end_time": "05:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Hannah Tivey",
+        "designation": "Chief Strategy & Innovation Officer",
+        "company": "fusionScientific"
+      },
+      {
+        "speaker_name": "Philippe Vyt",
+        "designation": "Founder",
+        "company": "Shyft"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Happy Hour Party",
+    "event_name": "Medical",
+    "day": "Day 1",
+    "start_time": "05:00 PM",
+    "end_time": "06:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Digitized Dependence Driving Doctored Truths?",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "09:00 AM",
+    "end_time": "09:40 AM",
+    "track": "AI STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Vernon Bainton",
+        "designation": "Chief Medical Officer",
+        "company": "Havas Lynx Group"
+      },
+      {
+        "speaker_name": "Kishan Rees",
+        "designation": "Senior Director / Global Video Content & Digital Media Strategy – Patient & Scientific Engagement",
+        "company": "Bayer"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Medical is beautiful: what data-driven medical engagement looks like in 2026, to drive and demonstrate impact",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "09:40 AM",
+    "end_time": "10:00 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Thomas Lanz",
+        "designation": "Medical Affairs Development Lead",
+        "company": "Boehringer Ingelheim"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Proactive Case-Study: Collaborate to Innovate: How Digital and Medical team up to Drive Digital Engagement Forward",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "10:00 AM",
+    "end_time": "10:40 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Valerie Storms",
+        "designation": "Head of Digital Innovation EU-MSC",
+        "company": "Daiichi Sankyo"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "The Strategic Impact of the Medical Customer Excellence Role",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "10:40 AM",
+    "end_time": "11:00 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Bekir Basar Ozer",
+        "designation": "Regional Associate Medical Customer Excellence Director",
+        "company": "Shionogi"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Networking Break",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "11:00 AM",
+    "end_time": "11:30 AM",
+    "track": "MAIN STAGE",
+    "speakers": [],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "360 Customer Engagement: How Medical Affairs must adapt to changing KOL expectations and behaviours in the age of AI",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "11:30 AM",
+    "end_time": "11:50 AM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Sam Rolfe",
+        "designation": "Sales Director",
+        "company": "Exeevo"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "Medical Impact as a Strategic Driver in Pharma: Myth, Reality, or Missed Opportunity?",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "11:50 AM",
+    "end_time": "12:30 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Dr. Mussa Arvani",
+        "designation": "Medical Affairs Expert",
+        "company": null
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  },
+  {
+    "session_title": "NEXT Medical festival Blueprint Jam Session: 100 Voices, One Vision.",
+    "event_name": "Medical",
+    "day": "Day 2",
+    "start_time": "12:30 PM",
+    "end_time": "02:00 PM",
+    "track": "MAIN STAGE",
+    "speakers": [
+      {
+        "speaker_name": "Lode Dewulf",
+        "designation": "Independent Director and Medical/Patient Affairs Expert",
+        "company": null
+      },
+      {
+        "speaker_name": "Yacin Marzouki",
+        "designation": "Omnichannel & customer engagement lead",
+        "company": null
+      },
+      {
+        "speaker_name": "Helen Kane",
+        "designation": "Founder",
+        "company": "ONEMsl"
+      },
+      {
+        "speaker_name": "Victoria Ho",
+        "designation": "VP, Medical Strategy and Solutions",
+        "company": "Sorcero"
+      }
+    ],
+    "source_urls": [
+      "https://nextpharmasummit.com/Medical/agenda/"
+    ],
+    "scraped_at": "2026-09-15T06:57:42.096270+00:00"
+  }
+]

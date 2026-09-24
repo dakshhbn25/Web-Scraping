@@ -1,0 +1,209 @@
+{
+  "record_id": "speaker-dubrovnik-092",
+  "speaker_name": "Dr William McCully",
+  "linkedin_url": "https://www.linkedin.com/in/williammccully/",
+  "likelihood": 9,
+  "full_name": "william mccully",
+  "job_title": "co-founder & director",
+  "industry": "pharmaceuticals",
+  "current_company": "aithena",
+  "current_company_website": "aithena.co.uk",
+  "current_company_industry": "computer software",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "antimicrobials",
+    "biotechnology",
+    "clinical pharmacy",
+    "clinical research",
+    "clinical trials",
+    "coeliac disease",
+    "crohn's disease",
+    "data analysis",
+    "drug discovery",
+    "gastroenterology",
+    "graphpad prism",
+    "healthcare",
+    "inflammatory bowel disease",
+    "keynote",
+    "life sciences",
+    "management",
+    "medical affairs",
+    "medicinal chemistry",
+    "medicine",
+    "method development",
+    "natural products",
+    "networking",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "pharmacology",
+    "pharmacy",
+    "powerpoint",
+    "presentations",
+    "project management",
+    "public engagement",
+    "public speaking",
+    "quantitative analytics",
+    "research",
+    "spss",
+    "statistics",
+    "ulcerative colitis"
+  ],
+  "interests": [
+    "current affairs",
+    "design",
+    "football",
+    "guitar",
+    "music",
+    "rugby",
+    "science",
+    "technology"
+  ],
+  "experience": [
+    {
+      "title": "co-founder & director",
+      "company": "aithena",
+      "company_industry": "computer software",
+      "start_date": "2024-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, patient access to care",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2021-08",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, medical affairs | covid-19",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2020-10",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical lead uk & ireland",
+      "company": "almirall",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-06",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "global medical affairs excellence manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-09",
+      "end_date": "2019-06",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs manager",
+      "company": "tillotts pharma ag",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "acting medical affairs manager",
+      "company": "tillotts pharma ag",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical and scientific liaison manager",
+      "company": "tillotts pharma ag",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-05",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "phd researcher",
+      "company": "cardiff university / prifysgol caerdydd",
+      "company_industry": "higher education",
+      "start_date": "2010-01",
+      "end_date": "2013-11",
+      "is_primary": false
+    },
+    {
+      "title": "community pharmacist",
+      "company": "locum wales & south west england",
+      "company_industry": null,
+      "start_date": "2009-08",
+      "end_date": "2014-05",
+      "is_primary": false
+    },
+    {
+      "title": "pre-registration pharmacist",
+      "company": "nhs wales",
+      "company_industry": "hospital & health care",
+      "start_date": "2008-08",
+      "end_date": "2009-08",
+      "is_primary": false
+    },
+    {
+      "title": "summer research student",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-08",
+      "end_date": "2007-09",
+      "is_primary": false
+    },
+    {
+      "title": "summer internship",
+      "company": "almac group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-09",
+      "end_date": "2006-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "cim | the chartered institute of marketing",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2023-03",
+      "end_date": "2024-03"
+    },
+    {
+      "school": "cardiff university / prifysgol caerdydd",
+      "majors": [],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "cardiff university / prifysgol caerdydd",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "friends' school lisburn",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2002-01",
+      "end_date": "2004"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "record_id": "speaker-dubrovnik-066",
+  "speaker_name": "Dr. Eve Huber",
+  "linkedin_url": "https://www.linkedin.com/in/dr-eve-huber-38275783/",
+  "likelihood": 9,
+  "full_name": "eve huber",
+  "job_title": "director strategy & marketing neuroscience, global portfolio division",
+  "industry": "wholesale",
+  "current_company": "takeda pharmaceuticals international gmbh glattpark ch",
+  "current_company_website": null,
+  "current_company_industry": "wholesale",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "arzneimittelzulassung",
+    "biomedizinische forschung",
+    "business analyse",
+    "datenanalyse",
+    "digitale strategie",
+    "elektrophysiologie",
+    "endnote",
+    "englisch",
+    "epidemiologie",
+    "gastroenterologie",
+    "gcp",
+    "gesundheitsmanagement",
+    "hirnforschung",
+    "klinische forschung",
+    "klinische studien",
+    "kommunikationstraining",
+    "marketing",
+    "marketingstrategie",
+    "matlab",
+    "medical affairs",
+    "medizin",
+    "microsoft access",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft powerpoint",
+    "microsoft word",
+    "mri",
+    "multichannel marketingstrategie",
+    "neurolinguistisches programmieren",
+    "neurologie",
+    "neurophysiologie",
+    "neuropsychologie",
+    "neuroradiologie",
+    "neurowissenschaften",
+    "pharmaindustrie",
+    "projektmanagement",
+    "r",
+    "redcap",
+    "research",
+    "spm",
+    "stata",
+    "strategische allianzen",
+    "translationale forschung",
+    "translationale medizin",
+    "wissenschaftliches schreiben"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director strategy & marketing neuroscience, global portfolio division",
+      "company": "takeda pharmaceuticals international gmbh glattpark ch",
+      "company_industry": "wholesale",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "neuroscience launch excellence consultant",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "eucan content excellence program lead ns",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-10",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "commercial lead neuroscience switzerland",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-10",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "brand & customer manager neuroscience / vaccine launch lead",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-02",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor gastroenterology & new product lead vaccines",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "brand & customer manager / launch lead gastroenterology",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-08",
+      "end_date": "2021-03",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder, chief executive officer & head coach",
+      "company": "nlp labor",
+      "company_industry": "education management",
+      "start_date": "2018-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "research fellow",
+      "company": "mcgill university",
+      "company_industry": "higher education",
+      "start_date": "2016-09",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "doctoral researcher",
+      "company": "universitätsklinik balgrist",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-09",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "study nurse assistant",
+      "company": "universitätsklinik balgrist",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-06",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "graduate research fellow",
+      "company": "universitätsklinik balgrist",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-01",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "associate researcher",
+      "company": "it'is foundation",
+      "company_industry": "research",
+      "start_date": "2011-09",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant at the center for interdisciplinary sleep research",
+      "company": "kinderspital zürich",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-06",
+      "end_date": "2010-11",
+      "is_primary": false
+    },
+    {
+      "title": "project manager in health managment",
+      "company": "makora ag",
+      "company_industry": null,
+      "start_date": "2009-11",
+      "end_date": "2011-03",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant in anthropology",
+      "company": "university of zurich",
+      "company_industry": "higher education",
+      "start_date": "2009-02",
+      "end_date": "2009-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "psqi - integrated leadership solutions",
+      "majors": [
+        "coaching"
+      ],
+      "degrees": [],
+      "start_date": "2020-06",
+      "end_date": "2021-07"
+    },
+    {
+      "school": "psqi - integrated leadership solutions",
+      "majors": [
+        "coaching"
+      ],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "zhi / society of nlp",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "university of zürich",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "universität zürich",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "doctorates",
+        "doctor of philosophy"
+      ],
+      "start_date": "2014",
+      "end_date": "2018"
+    },
+    {
+      "school": "university of zurich",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2018-12"
+    },
+    {
+      "school": "university of zurich",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "prävensana",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "university of zurich",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "st giles school",
+      "majors": [
+        "english language",
+        "english language and literature",
+        "literature"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2008"
+    }
+  ]
+}

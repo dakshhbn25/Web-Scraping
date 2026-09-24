@@ -1,0 +1,253 @@
+{
+  "record_id": "speaker-viennacx-007",
+  "speaker_name": "Dr. Marion C. Legler",
+  "designation": "Head of Bayer Pharma Decision Science & AI",
+  "company": "bayer.com",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/dr-marion-c-legler-b389a7150/",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": "Bayer",
+  "linkedin_location": "Germany, DE",
+  "linkedin_connections": "500",
+  "linkedin_followers": "1859",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [
+    {
+      "text": "Paper Highlight 👉 Symbolic XAI: A step closer to AI that explains its own reasoning — logically. Researchers at BIFOLD have been exploring how to…",
+      "text_en": null,
+      "interaction": "Liked by Dr. Marion C. Legler",
+      "post_url": "https://www.linkedin.com/posts/bifoldberlin_paper-highlight-symbolic-xai-a-step-closer-activity-7432092928249917440-pigJ",
+      "image_url": null
+    },
+    {
+      "text": "Can you spot me? Last day in Davos. I am so incredibly grateful for Safia Agueni and Rupa Dash for providing a forum at which I could join other…",
+      "text_en": null,
+      "interaction": "Liked by Dr. Marion C. Legler",
+      "post_url": "https://www.linkedin.com/posts/angelimoeller_health-ai-activity-7420419536899833856-S_69",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQFFiSXwhNpbXg/feedshare-shrink_800/B4DZvqgPyxJMAg-/0/1769165881168?e=2147483647&v=beta&t=qqhjuQYVyX_EvaQ9Pqm0M4vj_bKxEU6dYijEVVFtNt8"
+    }
+  ],
+  "linkedin_people_also_viewed": [
+    {
+      "name": "Dr. Michael Kuehler",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/michaelkuehler"
+    },
+    {
+      "name": "Tiemo Redel",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/tiemoredel"
+    },
+    {
+      "name": "Dr. Oliver Daniel Schwich",
+      "company": "Merck Life Science",
+      "profile_url": "https://de.linkedin.com/in/oliver-daniel-schwich"
+    },
+    {
+      "name": "Dr. Barbara Stollfuss",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/dr-barbara-stollfuss-470630179"
+    },
+    {
+      "name": "Christian de Vries",
+      "company": "Bayer AG",
+      "profile_url": "https://de.linkedin.com/in/christian-de-vries-826a3738"
+    },
+    {
+      "name": "Philipp Ellinger",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/philipp-ellinger-4727a9b9"
+    },
+    {
+      "name": "Eva Bretschneider",
+      "company": "Bayer",
+      "profile_url": "https://de.linkedin.com/in/eva-bretschneider"
+    },
+    {
+      "name": "Carsten Müller MD",
+      "company": "Bayer Pharmaceuticals",
+      "profile_url": "https://de.linkedin.com/in/carsten-m%C3%BCller-md-62812990"
+    },
+    {
+      "name": "Michael Sonntag",
+      "company": "Wörwag Pharma GmbH & Co. KG",
+      "profile_url": "https://de.linkedin.com/in/michael-sonntag/en"
+    }
+  ],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "bayer",
+  "linkedin_current_company_website": "bayer.com",
+  "linkedin_skills": [
+    "data analysis",
+    "data science",
+    "data strategy",
+    "datenanalyse",
+    "englisch",
+    "machine learning",
+    "microsoft excel",
+    "politikberatung",
+    "project management",
+    "projektmanagement",
+    "python",
+    "r",
+    "research",
+    "statistik",
+    "strategie",
+    "strategische beratung",
+    "volkswirtschaftlihche gesamtrechnungen",
+    "wirtschaftswissenschaften"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "head of pharma decision science & ai",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2022-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of decision science & adv analytics | medical affairs, pharmacovigilance & regulatory affairs",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-06",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant data science",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2018-02",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior researcher @ health economy research",
+      "company": "wifor institute",
+      "company_industry": "research",
+      "start_date": "2013-10",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "researcher @ zentrum für management im gesundheitswesen",
+      "company": "universität für weiterbildung krems",
+      "company_industry": "higher education",
+      "start_date": "2012-12",
+      "end_date": "2013-09",
+      "is_primary": false
+    },
+    {
+      "title": "akademischer tutor",
+      "company": "wu (vienna university of economics and business)",
+      "company_industry": "higher education",
+      "start_date": "2012-09",
+      "end_date": "2013-02",
+      "is_primary": false
+    },
+    {
+      "title": "volontariat",
+      "company": "austrian federal economic chamber",
+      "company_industry": "management consulting",
+      "start_date": "2012-08",
+      "end_date": "2012-09",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "economica institut für wirtschaftsforschung",
+      "company_industry": "research",
+      "start_date": "2012-01",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "niederosterreichische landesregierung",
+      "company_industry": null,
+      "start_date": "2011-08",
+      "end_date": "2011-11",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "federation of austrian industries",
+      "company_industry": "non-profit organization management",
+      "start_date": "2011-01",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "wissenschaftlicher mitarbeiter",
+      "company": "sozialversicherung der selbständigen",
+      "company_industry": "insurance",
+      "start_date": "2008-11",
+      "end_date": "2010-08",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "university of bremen",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018-01"
+    },
+    {
+      "school": "university of bremen",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2018-01-01",
+      "end_date": "2018-12-31"
+    },
+    {
+      "school": "wu (vienna university of economics and business)",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2011-01-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "uppsala university",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2010-01-01",
+      "end_date": null
+    },
+    {
+      "school": "wu (vienna university of economics and business)",
+      "majors": [],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2008-01-01",
+      "end_date": "2011"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "record_id": "speaker-dubrovnik-029",
+  "speaker_name": "Tiana Homsani",
+  "linkedin_url": "https://www.linkedin.com/in/tiana-vpcommercialexecutive/",
+  "likelihood": 9,
+  "full_name": "tiana homsani",
+  "job_title": "head of content excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "takeda",
+  "current_company_website": "takeda.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "5s",
+    "biotechnology industry",
+    "black belt",
+    "board of directors",
+    "business continuity",
+    "business model innovation",
+    "business process",
+    "business process improvement",
+    "business process mapping",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "coaching",
+    "commercial operation",
+    "continuous improvement",
+    "cross functional team leadership",
+    "customer experience",
+    "digital marketing",
+    "digital strategy",
+    "dmaic",
+    "executive leadership",
+    "executive management",
+    "executive positions",
+    "gmp",
+    "go to market strategy",
+    "good manufacturing practice",
+    "green belt",
+    "healthcare",
+    "innovation management",
+    "iso",
+    "kaizen",
+    "leadership",
+    "lean manufacturing",
+    "logistics",
+    "logistics management",
+    "long term vision",
+    "management",
+    "manufacturing",
+    "manufacturing operations",
+    "marketing budget management",
+    "marketing management",
+    "marketing strategy",
+    "master black belt",
+    "omni channel marketing",
+    "operational excellence",
+    "operational strategy",
+    "operations management",
+    "people development",
+    "people management",
+    "pharmaceuticals",
+    "process improvement",
+    "product lifecycle management",
+    "production planning",
+    "project management",
+    "project planning",
+    "quality assurance",
+    "quality management",
+    "quality system",
+    "risk management",
+    "root cause analysis",
+    "sap",
+    "sap products",
+    "strategy",
+    "supply chain",
+    "supply chain management",
+    "supply chain optimization",
+    "supply management",
+    "tpm",
+    "training",
+    "value stream mapping",
+    "vice presidents"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of content excellence",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global head of marketing excellence",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2021-06",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "global commercial execution director",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-10",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "head strategy and integration",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2017-10",
+      "is_primary": false
+    },
+    {
+      "title": "global brand lead in pharma supply chain",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "head of operational excellence, external supply operations",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-12",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "logistics and warehouse manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2012-05",
+      "end_date": "2012-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of business process excellence, small molecules",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2010-07",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of business execellence & master black belt",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2008-01",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "financial controller and strategic planning manager",
+      "company": "michelin",
+      "company_industry": "automotive",
+      "start_date": "2005",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "industrial engineering head for south america",
+      "company": "michelin",
+      "company_industry": "automotive",
+      "start_date": "2003",
+      "end_date": "2005",
+      "is_primary": false
+    },
+    {
+      "title": "head of customer engagement",
+      "company": "oi",
+      "company_industry": "telecommunications",
+      "start_date": "2002",
+      "end_date": "2003",
+      "is_primary": false
+    },
+    {
+      "title": "operation management leadership program",
+      "company": "ge",
+      "company_industry": "mechanical or industrial engineering",
+      "start_date": "1998",
+      "end_date": "2002",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "imd",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2023-06",
+      "end_date": "2023-10"
+    },
+    {
+      "school": "fgv - fundação getulio vargas",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": "2006",
+      "end_date": "2007"
+    },
+    {
+      "school": "fgv - fundação getulio vargas",
+      "majors": [
+        "business administration",
+        "industrial engineering",
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "1996",
+      "end_date": "2007"
+    },
+    {
+      "school": "pontifícia universidade católica do rio de janeiro",
+      "majors": [
+        "industrial engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1996-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "pontifícia universidade católica do rio de janeiro",
+      "majors": [
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1996-01",
+      "end_date": "1999"
+    },
+    {
+      "school": "pontifícia universidade católica do rio de janeiro",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1990",
+      "end_date": "1997"
+    },
+    {
+      "school": "business skills solutions part of newham college",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "harvard business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "stanford university",
+      "majors": [
+        "leadership",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

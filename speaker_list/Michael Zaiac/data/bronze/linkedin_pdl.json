@@ -1,0 +1,820 @@
+{
+  "record_id": "speaker-medical-025",
+  "speaker_name": "Michael Zaiac",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/michael-zaiac-45ab191/",
+  "scraped_at": "2026-09-18T10:24:45.716357+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "v7ALIVJUjmdmKIVHLxvlOQ_0000",
+    "full_name": "michael zaiac",
+    "first_name": "michael",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "z",
+    "last_name": "zaiac",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/michael-zaiac-45ab191",
+    "linkedin_username": "michael-zaiac-45ab191",
+    "linkedin_id": "5760070",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of medical affairs oncology europe and canada",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+    "job_company_name": "daiichi sankyo europe gmbh",
+    "job_company_website": "daiichi-sankyo.eu",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1899,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+    "job_company_linkedin_id": "801298",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "münchen, bavaria, germany",
+    "job_company_location_locality": "münchen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "bavaria",
+    "job_company_location_geo": "48.15,11.55",
+    "job_company_location_street_address": "48 zielstattstraße",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "81379",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-06-22",
+    "job_last_verified": "2026-08-07",
+    "job_start_date": "2023-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-07",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biomarkers",
+      "biopharmaceuticals",
+      "biotechnology",
+      "cancer",
+      "cardiology",
+      "clinical development",
+      "clinical pharmacology",
+      "clinical research",
+      "clinical trials",
+      "cro",
+      "ctms",
+      "dermatology",
+      "diabetes",
+      "drug development",
+      "edc",
+      "endocrinology",
+      "gastroenterology",
+      "gcp",
+      "health economics",
+      "hematology",
+      "hospital sales",
+      "hta",
+      "immunology",
+      "ind",
+      "infectious diseases",
+      "lifesciences",
+      "market access",
+      "medical affairs",
+      "medical writing",
+      "medicine",
+      "neurology",
+      "neuroscience",
+      "oncology",
+      "outcomes research",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "pharmacology",
+      "pharmacovigilance",
+      "protocol",
+      "r&d",
+      "regulatory affairs",
+      "regulatory submissions",
+      "rheumatology",
+      "sales effectiveness",
+      "therapeutic areas",
+      "translational medicine",
+      "transplant",
+      "urology",
+      "vaccines"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "daiichi sankyo europe gmbh",
+          "size": "1001-5000",
+          "id": "Ba4juah3z59RQxQiWrfd4ANfJuau",
+          "founded": 1899,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "48 zielstattstraße",
+            "address_line_2": null,
+            "postal_code": "81379",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/daiichi-sankyo-europe-gmbh",
+          "linkedin_id": "801298",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "daiichi-sankyo.eu"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "head of medical affairs oncology europe and canada",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2023-05",
+        "start_date": "2018-05",
+        "title": {
+          "name": "head of medical affairs oncology region europe",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celgene",
+          "size": "5001-10000",
+          "id": "fg8PAfQVDTINnwFGlFFb0As6wYPo",
+          "founded": 1986,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "summit, new jersey, united states",
+            "locality": "summit",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "86 morris avenue",
+            "address_line_2": null,
+            "postal_code": "07901",
+            "geo": "40.71,-74.36"
+          },
+          "linkedin_url": "linkedin.com/company/celgene",
+          "linkedin_id": "8348",
+          "facebook_url": "facebook.com/celgene",
+          "twitter_url": "twitter.com/celgene",
+          "website": "celgene.com"
+        },
+        "location_names": [
+          "boudry, neuchâtel, switzerland"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2015-04",
+        "title": {
+          "name": "head of medical affairs haematology / oncology emea",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-03",
+        "start_date": "2014-01",
+        "title": {
+          "name": "franchise medical head, immunoinflammation and infectious diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "rixensart, wallonia, belgium"
+        ],
+        "end_date": "2013-12",
+        "start_date": "2011-04",
+        "title": {
+          "name": "vice president, head of medical affairs bu immunotherapy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "wavre, wallonia, belgium"
+        ],
+        "end_date": "2011-04",
+        "start_date": "2010-06",
+        "title": {
+          "name": "vice president, vaccine development leader hpv / hsv vaccines",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "wavre, wallonia, belgium"
+        ],
+        "end_date": "2010-06",
+        "start_date": "2010-01",
+        "title": {
+          "name": "vice president, head of global medical affairs adolescent / adult vaccines",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2009-12",
+        "start_date": "2008-01",
+        "title": {
+          "name": "assistant vice president, medical affairs emea, enbrel, transplant, oncology and gi-wyeth",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2007-11",
+        "start_date": "2006-03",
+        "title": {
+          "name": "european medical director-wyeth",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "tadworth, england, united kingdom"
+        ],
+        "end_date": "2006-03",
+        "start_date": "2005-03",
+        "title": {
+          "name": "head of new product development",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "tadworth, england, united kingdom"
+        ],
+        "end_date": "2005-03",
+        "start_date": "2002-06",
+        "title": {
+          "name": "associate medical director-head of medical affairs uk",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "frimley, england, united kingdom"
+        ],
+        "end_date": "2002-05",
+        "start_date": "1999-03",
+        "title": {
+          "name": "medical affairs director oncology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "1999-02",
+        "start_date": "1995-06",
+        "title": {
+          "name": "uk general manager and global corporate medical director pasteur merieux",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "procter & gamble",
+          "size": "10001+",
+          "id": "DYR0cj7feGRotCA8sI7I3gPaU2TB",
+          "founded": 1837,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "cincinnati, ohio, united states",
+            "locality": "cincinnati",
+            "region": "ohio",
+            "metro": "cincinnati, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "45202",
+            "geo": "39.2,-84.62"
+          },
+          "linkedin_url": "linkedin.com/company/procter-and-gamble",
+          "linkedin_id": "1116",
+          "facebook_url": "facebook.com/proctergamble",
+          "twitter_url": "twitter.com/proctergamble",
+          "website": "pg.com"
+        },
+        "location_names": [
+          "staines-upon-thames, england, united kingdom"
+        ],
+        "end_date": "1995-06",
+        "start_date": "1994-04",
+        "title": {
+          "name": "european medical advisor",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the open university",
+          "type": "post-secondary institution",
+          "id": "typaCZQzogmfw9kvatOszw_0000",
+          "location": {
+            "name": "milton keynes, england, united kingdom",
+            "locality": "milton keynes",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/theopenuniversity",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6128",
+          "website": "open.ac.uk",
+          "domain": "open.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "1999-12",
+        "end_date": null,
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "freie universität berlin",
+          "type": "post-secondary institution",
+          "id": "1aVPhdGY9UHVXBhs9k8vbA_0000",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/freie-universitat-berlin",
+          "facebook_url": "facebook.com/freieuniversitaetberlin",
+          "twitter_url": "twitter.com/fu_berlin",
+          "linkedin_id": "163897",
+          "website": "fu-berlin.de",
+          "domain": "fu-berlin.de"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "1982-01",
+        "end_date": "1988",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "rheingau gymnasium",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1975-01",
+        "end_date": "1981",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "5760070",
+        "url": "linkedin.com/in/michael-zaiac-45ab191",
+        "username": "michael-zaiac-45ab191"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

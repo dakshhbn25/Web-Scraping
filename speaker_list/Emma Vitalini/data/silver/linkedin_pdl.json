@@ -1,0 +1,334 @@
+{
+  "record_id": "speaker-medical-023",
+  "speaker_name": "Emma Vitalini",
+  "linkedin_url": "https://www.linkedin.com/in/emmavitalini-pharma-pioneer/",
+  "likelihood": 9,
+  "full_name": "emma vitalini",
+  "job_title": "digital scientific engagement lead, mid-european region",
+  "industry": "pharmaceuticals",
+  "current_company": "msd",
+  "current_company_website": "msd.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advisory boards",
+    "affiliate relations",
+    "anaesthesiology",
+    "biopharmaceuticals",
+    "biotechnology",
+    "breast cancer",
+    "cancer therapeutics",
+    "clinical development",
+    "cognitive neuroscience",
+    "colorectal",
+    "colorectal cancer",
+    "crohn's disease",
+    "data quality control",
+    "diabetes",
+    "digital transformation",
+    "drug development",
+    "editing",
+    "health economics",
+    "hematology",
+    "immunology",
+    "implementation science",
+    "line management",
+    "lung cancer",
+    "manuscript",
+    "market access",
+    "medical affairs",
+    "medical communications",
+    "medical writing",
+    "neurodiversity career management",
+    "neurodiversity support",
+    "oncology",
+    "oncology clinical research",
+    "operational excellence",
+    "osteoporosis",
+    "pharmaceutical industry",
+    "pharmaceuticals",
+    "pharmacology",
+    "pharmacovigilance",
+    "prostate cancer",
+    "psychopathology",
+    "publication planning",
+    "publications",
+    "quality control",
+    "relationship building",
+    "scientific education",
+    "scientific engagement",
+    "sop development",
+    "strategic communications",
+    "strategic partnerships",
+    "strategic planning",
+    "supportive care",
+    "system deployment",
+    "system development",
+    "technical writing",
+    "vaccines",
+    "website development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "digital scientific engagement lead, mid-european region",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "volunteer strategic partner - health & life sciences and education",
+      "company": "neuro charity",
+      "company_industry": "non-profit organization management",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head global digital health technology innovation",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2024-11",
+      "end_date": "2026-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of global medical digital strategy",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2023-09",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "executive director global business process and insights lead, research & development strategy and operations",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2021-11",
+      "end_date": "2023-09",
+      "is_primary": false
+    },
+    {
+      "title": "executive director, ex-us medical capabilities",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2021-05",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "eu medical otezla integration lead",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2019-09",
+      "end_date": "2020-03",
+      "is_primary": false
+    },
+    {
+      "title": "director and head of eu medical capabilities",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2019-04",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "european medical head of strategy and operations at amgen (europe) gmbh",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2016-07",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "scientific publications senior manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2009-12",
+      "end_date": "2016-07",
+      "is_primary": false
+    },
+    {
+      "title": "scientific publications manager",
+      "company": "amgen",
+      "company_industry": "biotechnology",
+      "start_date": "2008-04",
+      "end_date": "2009-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical writer",
+      "company": "gardiner-caldwell communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-10",
+      "end_date": "2008-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical writer",
+      "company": "gardiner-caldwell communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-05",
+      "end_date": "2007-10",
+      "is_primary": false
+    },
+    {
+      "title": "associate medical writer",
+      "company": "gardiner-caldwell communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-05",
+      "end_date": "2006-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical information assistant",
+      "company": "gardiner-caldwell communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-02",
+      "end_date": "2004-05",
+      "is_primary": false
+    },
+    {
+      "title": "information systems helpdesk operator",
+      "company": "fujitsu",
+      "company_industry": "information technology and services",
+      "start_date": "2001-01",
+      "end_date": "2001-07",
+      "is_primary": false
+    },
+    {
+      "title": "transportation operations assistant",
+      "company": "culina logistics",
+      "company_industry": "warehousing",
+      "start_date": "2000-07",
+      "end_date": "2000-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit professional education",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2024-02",
+      "end_date": "2024-02"
+    },
+    {
+      "school": "mit professional education",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2024-01",
+      "end_date": "2024-12"
+    },
+    {
+      "school": "harvard extension school",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2023-09",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "harvard extension school",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2023-08",
+      "end_date": "2026-12"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2022-06",
+      "end_date": "2022-08"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2022-02",
+      "end_date": "2022-03"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022-12"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2021-11",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2021-11",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "business",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "mit sloan executive education",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021-01"
+    },
+    {
+      "school": "durham university",
+      "majors": [
+        "fundraising"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "westlands high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1990-01",
+      "end_date": "1997"
+    }
+  ]
+}

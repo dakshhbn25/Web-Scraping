@@ -1,0 +1,104 @@
+{
+  "record_id": "speaker-viennacx-028",
+  "speaker_name": "Khwaja Muhammad Saquib",
+  "linkedin_url": "https://www.linkedin.com/in/saquib-khwaja-754479137/",
+  "likelihood": 9,
+  "full_name": "saquib khwaja",
+  "job_title": "em content strategy manager",
+  "industry": "pharmaceuticals",
+  "current_company": "gsk",
+  "current_company_website": "gsk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "pakistan",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "change management",
+    "content management",
+    "content planning",
+    "customer experience management",
+    "data driven marketing",
+    "external liaison",
+    "omni channel marketing",
+    "strategic planning",
+    "study coordination",
+    "team leadership"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "em content strategy manager",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of coms - performance markets",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-07",
+      "end_date": "2023-12",
+      "is_primary": false
+    },
+    {
+      "title": "portfolio manager export markets",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-10",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "content specialist - gulf states and saudi arabia",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-07",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical scientific liaison",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-04",
+      "end_date": "2018-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "school of dental medicine university of zagreb",
+      "majors": [
+        "dentistry"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2009",
+      "end_date": "2013"
+    },
+    {
+      "school": "dj science college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007",
+      "end_date": "2009"
+    },
+    {
+      "school": "dj science college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007",
+      "end_date": "2008"
+    },
+    {
+      "school": "b.v.s parsi high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1995",
+      "end_date": "2006"
+    }
+  ]
+}

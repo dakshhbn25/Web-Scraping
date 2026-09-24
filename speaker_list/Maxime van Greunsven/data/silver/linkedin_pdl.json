@@ -1,0 +1,244 @@
+{
+  "record_id": "speaker-medical-031",
+  "speaker_name": "Maxime van Greunsven",
+  "linkedin_url": "https://www.linkedin.com/in/maxime-van-greunsven-18b07083/",
+  "likelihood": 9,
+  "full_name": "maxime van greunsven",
+  "job_title": "customer experience & innovation lead",
+  "industry": "pharmaceuticals",
+  "current_company": "msd",
+  "current_company_website": "msd.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "anglais",
+    "as400 administration",
+    "deduco",
+    "indesign",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft word",
+    "powerpoint",
+    "rexx",
+    "sales force",
+    "salesforce.com",
+    "sharepoint"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "customer experience & innovation lead",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "trade & shopper marketing manager rcee (russia & central eastern europe) + support australia",
+      "company": "hra pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing manager benelux",
+      "company": "hra pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-01",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "trade & shopper marketing manager benelux",
+      "company": "hra pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-09",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "pharmaceutical sales representative hra pharma",
+      "company": "ashfield, part of udg healthcare (now inizio)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "axone pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "pricing coordinator emea",
+      "company": "gates corporation",
+      "company_industry": "industrial automation",
+      "start_date": "2016-09",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "student job marketing",
+      "company": "va.s.co",
+      "company_industry": "food & beverages",
+      "start_date": "2016-06",
+      "end_date": "2016-09",
+      "is_primary": false
+    },
+    {
+      "title": "marketing internship",
+      "company": "johnson & johnson medical",
+      "company_industry": "hospital & health care",
+      "start_date": "2016-02",
+      "end_date": "2016-05",
+      "is_primary": false
+    },
+    {
+      "title": "sales internship",
+      "company": "tao drinks",
+      "company_industry": null,
+      "start_date": "2015-01",
+      "end_date": "2015-02",
+      "is_primary": false
+    },
+    {
+      "title": "student job employee at the openday of vasco group",
+      "company": "va.s.co",
+      "company_industry": "food & beverages",
+      "start_date": "2014-09",
+      "end_date": "2014-09",
+      "is_primary": false
+    },
+    {
+      "title": "student job polyvalent",
+      "company": "delhaize belgium",
+      "company_industry": "retail",
+      "start_date": "2014-06",
+      "end_date": "2014-08",
+      "is_primary": false
+    },
+    {
+      "title": "student job sales",
+      "company": "la ferme de l'hoste",
+      "company_industry": null,
+      "start_date": "2012-07",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "student job animator",
+      "company": "la garangeoire",
+      "company_industry": null,
+      "start_date": "2012-07",
+      "end_date": "2012-08",
+      "is_primary": false
+    },
+    {
+      "title": "student job barman",
+      "company": "la garangeoire",
+      "company_industry": null,
+      "start_date": "2011-07",
+      "end_date": "2011-08",
+      "is_primary": false
+    },
+    {
+      "title": "student job sales",
+      "company": "eddy gonzalez",
+      "company_industry": null,
+      "start_date": "2008-07",
+      "end_date": "2008-08",
+      "is_primary": false
+    },
+    {
+      "title": "student job barman & waiter",
+      "company": "den dikke & den dunne",
+      "company_industry": null,
+      "start_date": "2007-07",
+      "end_date": "2010-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "vlerick business school",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "hec paris",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2015",
+      "end_date": "2016"
+    },
+    {
+      "school": "ephec",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2015-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "colchester institute",
+      "majors": [
+        "business",
+        "international business"
+      ],
+      "degrees": [],
+      "start_date": "2014-01",
+      "end_date": "2015-01"
+    },
+    {
+      "school": "belgium campus",
+      "majors": [
+        "business management",
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": "2013",
+      "end_date": "2016"
+    },
+    {
+      "school": "ehsal management school",
+      "majors": [
+        "business management",
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "vlerick business school",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2005",
+      "end_date": "2009"
+    }
+  ]
+}

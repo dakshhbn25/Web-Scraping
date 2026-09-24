@@ -1,0 +1,100 @@
+{
+  "record_id": "speaker-dubrovnik-104",
+  "speaker_name": "Florian Gürtler",
+  "linkedin_url": "https://www.linkedin.com/in/florianguertler2023/",
+  "likelihood": 9,
+  "full_name": "florian gürtler",
+  "job_title": "key account director",
+  "industry": "computer software",
+  "current_company": "axtria - ingenious insights",
+  "current_company_website": "axtria.com",
+  "current_company_industry": "computer software",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "business development",
+    "cold calling",
+    "consultative selling",
+    "contract negotiation",
+    "escalations management",
+    "key account development",
+    "key account relationship building",
+    "matrix management",
+    "networking",
+    "relationship building",
+    "sales",
+    "solution selling"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "key account director",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2023-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "european key account manager",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2017-11",
+      "end_date": "2023-07",
+      "is_primary": false
+    },
+    {
+      "title": "integrated technology services manager",
+      "company": "ibm",
+      "company_industry": "information technology and services",
+      "start_date": "2007-08",
+      "end_date": "2010-11",
+      "is_primary": false
+    },
+    {
+      "title": "contracts & negotiations",
+      "company": "ibm",
+      "company_industry": "information technology and services",
+      "start_date": "2004-08",
+      "end_date": "2007-08",
+      "is_primary": false
+    },
+    {
+      "title": "software buyer; procurement",
+      "company": "ibm",
+      "company_industry": "information technology and services",
+      "start_date": "2003-01",
+      "end_date": "2004-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "general qualification for university entrance",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of bern",
+      "majors": [
+        "law"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "university of wales",
+      "majors": [
+        "law"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

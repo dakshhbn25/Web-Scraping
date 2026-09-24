@@ -1,0 +1,453 @@
+{
+  "record_id": "speaker-dubrovnik-010",
+  "speaker_name": "Dave Yates",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dave-yates-50872964/",
+  "scraped_at": "2026-09-18T09:35:23.437833+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "wbXKc2Fa5WKG37yBOdmPkg_0000",
+    "full_name": "dave yates",
+    "first_name": "dave",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "y",
+    "last_name": "yates",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dave-yates-50872964",
+    "linkedin_username": "dave-yates-50872964",
+    "linkedin_id": "228734360",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global director: field experience & ai solutions",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+    "job_company_name": "gsk",
+    "job_company_website": "gsk.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1830,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/glaxosmithkline",
+    "job_company_linkedin_id": "1399",
+    "job_company_facebook_url": "facebook.com/gsk",
+    "job_company_twitter_url": "twitter.com/gsk",
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "ub11 1bt",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-06-25",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2025-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "change management",
+      "consulting",
+      "customer experience",
+      "customer service",
+      "digital transformation",
+      "health outcomes",
+      "healthcare",
+      "market access",
+      "microsoft office",
+      "new business development",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "process improvement",
+      "product management",
+      "project management",
+      "sales",
+      "sales effectiveness",
+      "storytelling"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-03",
+        "title": {
+          "name": "global director: field experience & ai solutions",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "brentford, england, united kingdom"
+        ],
+        "end_date": "2025-06",
+        "start_date": "2019-09",
+        "title": {
+          "name": "director global product management",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2025-06",
+        "start_date": "2018-07",
+        "title": {
+          "name": "director, customer experience",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "patiya head office, chittagong, bangladesh"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2016-07",
+        "title": {
+          "name": "senior manager, evolving customers",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-07",
+        "start_date": "2015-09",
+        "title": {
+          "name": "regional sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-09",
+        "start_date": "2009-11",
+        "title": {
+          "name": "health outcomes consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the university of western australia",
+          "type": "post-secondary institution",
+          "id": "BCVRgRyC7wf74yiVAbWrKA_0000",
+          "location": {
+            "name": "nedlands, western australia, australia",
+            "locality": "nedlands",
+            "region": "western australia",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-western-australia",
+          "facebook_url": "facebook.com/universitywa",
+          "twitter_url": "twitter.com/uwanews",
+          "linkedin_id": "9334",
+          "website": "uwa.edu.au",
+          "domain": "uwa.edu.au"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of wales institute cardiff",
+          "type": "post-secondary institution",
+          "id": "wuxTAR-MBJJVhvlyJgBlWw_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/university-of-wales-institute-cardiff",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "64193088",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2000",
+        "end_date": "2003",
+        "majors": [
+          "exercise science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of wales",
+          "type": "post-secondary institution",
+          "id": "xUDwrdv4--2QRL3XzGKu1Q_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-wales",
+          "facebook_url": "facebook.com/universityofwales",
+          "twitter_url": "twitter.com/uniwales",
+          "linkedin_id": "318809",
+          "website": "wales.ac.uk",
+          "domain": "wales.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2000-01",
+        "end_date": "2003",
+        "majors": [
+          "exercise science"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "228734360",
+        "url": "linkedin.com/in/dave-yates-50872964",
+        "username": "dave-yates-50872964"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

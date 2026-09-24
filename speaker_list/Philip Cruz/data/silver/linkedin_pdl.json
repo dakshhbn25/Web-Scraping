@@ -1,0 +1,185 @@
+{
+  "record_id": "speaker-medical-000",
+  "speaker_name": "Philip Cruz",
+  "linkedin_url": "https://www.linkedin.com/in/philip-cruz-md-ffpm-39454118a/",
+  "likelihood": 9,
+  "full_name": "philip cruz",
+  "job_title": "country medical director for the united kingdom",
+  "industry": "higher education",
+  "current_company": "moderna",
+  "current_company_website": "modernatx.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "clinical operations",
+    "good clinical practice",
+    "medical governance",
+    "public speaking",
+    "scientific communications"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "country medical director for the united kingdom",
+      "company": "moderna",
+      "company_industry": "biotechnology",
+      "start_date": "2022-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior global medical affairs leader, vaccines",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "visiting lecturer",
+      "company": "king's college london",
+      "company_industry": "research",
+      "start_date": "2021-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "vaccines medical director for united kingdom and ireland",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-10",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical director",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "area medical affairs leader",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-05",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical affairs manager for pediatric vaccines",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-05",
+      "end_date": "2013-04",
+      "is_primary": false
+    },
+    {
+      "title": "managing director",
+      "company": "ambica international corporation.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-04",
+      "end_date": "2010-04",
+      "is_primary": false
+    },
+    {
+      "title": "public policy manager",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-09",
+      "end_date": "2009-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs manager",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-10",
+      "end_date": "2008-08",
+      "is_primary": false
+    },
+    {
+      "title": "clinical research consultant",
+      "company": "unilab, inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-05",
+      "end_date": "2004-01",
+      "is_primary": false
+    },
+    {
+      "title": "database manager for clinical research",
+      "company": "the national institutes of health university of the philippines national institutes of health",
+      "company_industry": null,
+      "start_date": "2003-01",
+      "end_date": "2005-12",
+      "is_primary": false
+    },
+    {
+      "title": "assistant director for special projects",
+      "company": "philippine general hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2003-01",
+      "end_date": "2003-12",
+      "is_primary": false
+    },
+    {
+      "title": "co-investigator",
+      "company": "wyeth vaccines research",
+      "company_industry": null,
+      "start_date": "2002-09",
+      "end_date": "2003-05",
+      "is_primary": false
+    },
+    {
+      "title": "chief resident",
+      "company": "philippine general hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2002-01",
+      "end_date": "2002-12",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "king's college london",
+      "majors": [
+        "drug development"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "university of the philippines - philippine general hospital",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2001"
+    },
+    {
+      "school": "university of the philippines",
+      "majors": [],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "1993-01",
+      "end_date": "1998"
+    },
+    {
+      "school": "university of the philippines",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1988-01",
+      "end_date": "1993"
+    }
+  ]
+}

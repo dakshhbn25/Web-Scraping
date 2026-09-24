@@ -1,0 +1,227 @@
+{
+  "record_id": "speaker-dubrovnik-062",
+  "speaker_name": "Cristina Finazzi",
+  "linkedin_url": "https://www.linkedin.com/in/cristina-finazzi/",
+  "likelihood": 9,
+  "full_name": "cristina finazzi",
+  "job_title": "director, customer experience",
+  "industry": "pharmaceuticals",
+  "current_company": "novartis",
+  "current_company_website": "novartis.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "budgets",
+    "business planning",
+    "change management",
+    "content marketing",
+    "creative strategy",
+    "crisis communications",
+    "crisis management",
+    "customer experience design",
+    "customer service",
+    "decision making",
+    "digital marketing",
+    "email marketing",
+    "emotional intelligence",
+    "human resources",
+    "internal communications",
+    "interpersonal communication",
+    "leadership",
+    "learning agility",
+    "live meeting",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "omni channel marketing",
+    "online advertising",
+    "online marketing",
+    "organizational agility",
+    "project management",
+    "public relations",
+    "resiliency",
+    "sales",
+    "sem",
+    "social media marketing",
+    "storytelling",
+    "strategic human resource planning",
+    "strategic repositioning",
+    "strategy",
+    "talent management",
+    "teamwork",
+    "viral marketing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director, customer experience",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, creative strategy",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "marketing and communication director at large (volunteer leader)",
+      "company": "healthcare businesswomen’s association",
+      "company_industry": "non-profit organization management",
+      "start_date": "2021-11",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global marketing associate director - internal comms lead",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-07",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "global marketing project manager",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "administrative specialist",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-01",
+      "end_date": "2015-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior key account",
+      "company": "groupalia",
+      "company_industry": "internet",
+      "start_date": "2010-06",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "marketing manager",
+      "company": "pavoni italia spa",
+      "company_industry": null,
+      "start_date": "2009-09",
+      "end_date": "2010-07",
+      "is_primary": false
+    },
+    {
+      "title": "junior product manager oscar mondadori",
+      "company": "mondadori group",
+      "company_industry": "publishing",
+      "start_date": "2005-01",
+      "end_date": "2006-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "hec paris",
+      "majors": [
+        "leadership",
+        "organizational leadership"
+      ],
+      "degrees": [],
+      "start_date": "2023-01",
+      "end_date": "2023-01"
+    },
+    {
+      "school": "wharton online",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2022-07",
+      "end_date": "2022-07"
+    },
+    {
+      "school": "wharton online",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2022-01",
+      "end_date": "2022-12"
+    },
+    {
+      "school": "ie business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "university of virginia darden school of business",
+      "majors": [
+        "business",
+        "design"
+      ],
+      "degrees": [],
+      "start_date": "2020-01",
+      "end_date": "2020"
+    },
+    {
+      "school": "university of london",
+      "majors": [
+        "business",
+        "management",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "università cattolica del sacro cuore",
+      "majors": [
+        "history"
+      ],
+      "degrees": [],
+      "start_date": "2007-01",
+      "end_date": "2007-12"
+    },
+    {
+      "school": "hec paris",
+      "majors": [
+        "organizational leadership",
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2023-12"
+    },
+    {
+      "school": "università cattolica del sacro cuore",
+      "majors": [
+        "history"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2007-01"
+    },
+    {
+      "school": "hr",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "istituto maria immacolata, gorgonzola (mi)",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

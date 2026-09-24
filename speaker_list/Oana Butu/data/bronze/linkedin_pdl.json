@@ -1,0 +1,545 @@
+{
+  "record_id": "speaker-viennacx-053",
+  "speaker_name": "Oana Butu",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/oanabutu/",
+  "scraped_at": "2026-09-18T10:26:35.525936+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "-mgzWFBK4NwmxtRpDFj8BA_0000",
+    "full_name": "oana butu",
+    "first_name": "oana",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "butu",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/oanabutu",
+    "linkedin_username": "oanabutu",
+    "linkedin_id": "188186252",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/oanabutu",
+    "twitter_username": "oanabutu",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "global ehealth lead | a:care lead",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+    "job_company_name": "abbott",
+    "job_company_website": "pk.abbott",
+    "job_company_size": "10001+",
+    "job_company_founded": 1980,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/abbott-",
+    "job_company_linkedin_id": "1612",
+    "job_company_facebook_url": "facebook.com/abbott",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "abbott park, illinois, united states",
+    "job_company_location_locality": "abbott park",
+    "job_company_location_metro": null,
+    "job_company_location_region": "illinois",
+    "job_company_location_geo": "42.32,-87.86",
+    "job_company_location_street_address": "100 abbott park road",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "60064",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2022-06-12",
+    "job_last_verified": "2026-06-10",
+    "job_start_date": "2020-02",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2021-09-08",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "artificial intelligence",
+      "budgets",
+      "business networking",
+      "business strategy",
+      "cardiology",
+      "competitive analysis",
+      "conference speaking",
+      "cross functional team leadership",
+      "cultural change initiatives",
+      "culture change",
+      "design thinking",
+      "forecasting",
+      "health",
+      "healthcare",
+      "hospital sales",
+      "interventional cardiology",
+      "leadership",
+      "market research",
+      "marketing",
+      "marketing management",
+      "marketing strategy",
+      "motivational speaking",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "project management",
+      "sales",
+      "sales effectiveness",
+      "sales management",
+      "sales operations",
+      "selling skills",
+      "soft skills",
+      "strategic partnerships",
+      "strategic planning",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "romania",
+      "netherlands",
+      "chile",
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-02",
+        "title": {
+          "name": "global ehealth lead | a:care lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2020-01",
+        "start_date": "2016-11",
+        "title": {
+          "name": "patient experience lead - oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2016-11",
+        "start_date": "2015-01",
+        "title": {
+          "name": "oncology hospital secialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2014-12",
+        "start_date": "2012-10",
+        "title": {
+          "name": "medical sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [],
+        "end_date": "2012-01",
+        "start_date": "2009-02",
+        "title": {
+          "name": "medical sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sales job roles",
+          "size": "1-10",
+          "id": "l8AxKfiEZbdw1ii83JRd2gJh7Nxe",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "maidenhead, england, united kingdom",
+            "locality": "maidenhead",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "sl6 1sl",
+            "geo": "51.51,-0.73"
+          },
+          "linkedin_url": "linkedin.com/company/sales-job-roles",
+          "linkedin_id": "10766858",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thesalesjob.com"
+        },
+        "location_names": [],
+        "end_date": "2009-02",
+        "start_date": "2004-04",
+        "title": {
+          "name": "sales and marketing manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2022-01",
+        "end_date": "2022",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universitatea constantin brâncoveanu",
+          "type": "post-secondary institution",
+          "id": "-t-qzTpkUQR9RPCHPcsp4w_0000",
+          "location": {
+            "name": "pitești, argeș, romania",
+            "locality": "pitești",
+            "region": "argeș",
+            "country": "romania",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/univbrancoveanu",
+          "facebook_url": "facebook.com/univbrancoveanu",
+          "twitter_url": null,
+          "linkedin_id": "15098332",
+          "website": "univcb.ro",
+          "domain": "univcb.ro"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2009-10",
+        "end_date": "2012",
+        "majors": [
+          "communications",
+          "public relations"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "academy of economic studies of moldova",
+          "type": "post-secondary institution",
+          "id": "i16-bcaNhildN7tRQpo1yw_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/academy-of-economic-studies-of-moldova1",
+          "facebook_url": "facebook.com/asemoficial",
+          "twitter_url": null,
+          "linkedin_id": "19092452",
+          "website": "ase.md",
+          "domain": "ase.md"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2000-01",
+        "end_date": "2004",
+        "majors": [
+          "commerce",
+          "management",
+          "tourism management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abpi",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abpi qualified",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the prince2 academy",
+          "type": "post-secondary institution",
+          "id": "UvYp8Xr0iIeza7ZDe1SucA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/the-prince2-academy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "2402934",
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "188186252",
+        "url": "linkedin.com/in/oanabutu",
+        "username": "oanabutu"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/oanabutu",
+        "username": "oanabutu"
+      },
+      {
+        "network": "linkedin",
+        "id": "961628394",
+        "url": "linkedin.com/in/stoicaoana",
+        "username": "stoicaoana"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/oana-stoica-0b803453",
+        "username": "oana-stoica-0b803453"
+      },
+      {
+        "network": "linkedin",
+        "id": "188186252",
+        "url": "linkedin.com/in/stoicaoana",
+        "username": "stoicaoana"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

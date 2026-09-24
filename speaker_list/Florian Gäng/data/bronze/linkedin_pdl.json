@@ -1,0 +1,630 @@
+{
+  "record_id": "speaker-viennacx-037",
+  "speaker_name": "Florian Gäng",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/floriangaeng/",
+  "scraped_at": "2026-09-18T10:26:09.696816+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "xzBAIgZGLivNn15Vrkdk5A_0000",
+    "full_name": "florian gäng",
+    "first_name": "florian",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "g",
+    "last_name": "gäng",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/floriangaeng",
+    "linkedin_username": "floriangaeng",
+    "linkedin_id": "436940152",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director, global customer experience strategy",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-09-19",
+    "job_last_verified": "2026-09-03",
+    "job_start_date": "2020-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-03",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "civil rights and social action",
+      "environment",
+      "politics"
+    ],
+    "skills": [
+      "business design",
+      "business innovation",
+      "content strategy",
+      "conversational interfaces",
+      "creative strategy",
+      "digital marketing",
+      "digital strategy",
+      "digitale strategie",
+      "digitale transformation",
+      "digitales marketing",
+      "kreativstrategie",
+      "multichannel marketing",
+      "nutzererfahrung",
+      "nutzerforschung",
+      "organisational development",
+      "persuasive design",
+      "product and service design",
+      "service design",
+      "social media",
+      "social media marketing",
+      "soziale medien",
+      "usability",
+      "user experience design",
+      "user research",
+      "voice user interface design"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-12",
+        "title": {
+          "name": "director, global customer experience strategy",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2016",
+        "start_date": "2016",
+        "title": {
+          "name": "user experience strategy & product design / user research",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "publicis sapient",
+          "size": "10001+",
+          "id": "yD0dNUkDcHUKyzuyEQL3iABpFxH0",
+          "founded": 1990,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "40 water street",
+            "address_line_2": null,
+            "postal_code": "02109",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/publicissapient",
+          "linkedin_id": "10801655",
+          "facebook_url": "facebook.com/publicissapient",
+          "twitter_url": null,
+          "website": "publicissapient.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2016-09",
+        "title": {
+          "name": "head of cx & innovation consulting dach, senior director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aperto - an ibm company",
+          "size": "201-500",
+          "id": "tKH54NY7ino5BHaPAXixUA6JJcUx",
+          "founded": 1995,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "5 chausseestraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/aperto-anibmcompany",
+          "linkedin_id": "31402",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aperto.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2016",
+        "start_date": "2015",
+        "title": {
+          "name": "managing director strategy",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aperto - an ibm company",
+          "size": "201-500",
+          "id": "tKH54NY7ino5BHaPAXixUA6JJcUx",
+          "founded": 1995,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "5 chausseestraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/aperto-anibmcompany",
+          "linkedin_id": "31402",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aperto.com"
+        },
+        "location_names": [],
+        "end_date": "2014",
+        "start_date": "2010",
+        "title": {
+          "name": "head of business / board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "director",
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aperto - an ibm company",
+          "size": "201-500",
+          "id": "tKH54NY7ino5BHaPAXixUA6JJcUx",
+          "founded": 1995,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "5 chausseestraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/aperto-anibmcompany",
+          "linkedin_id": "31402",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aperto.com"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2010",
+        "title": {
+          "name": "creative director user experience",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "aperto - an ibm company",
+          "size": "201-500",
+          "id": "tKH54NY7ino5BHaPAXixUA6JJcUx",
+          "founded": 1995,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "5 chausseestraße",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/aperto-anibmcompany",
+          "linkedin_id": "31402",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "aperto.com"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2008",
+        "title": {
+          "name": "senior user experience architect",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_design",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "syntactics inc.",
+          "size": "11-50",
+          "id": "gi3SpZssG9816Njr9c4rmQUSYKlb",
+          "founded": 2000,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "cagayan de oro city, northern mindanao, philippines",
+            "locality": "cagayan de oro city",
+            "region": "northern mindanao",
+            "metro": null,
+            "country": "philippines",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "9000",
+            "geo": "8.48,124.64"
+          },
+          "linkedin_url": "linkedin.com/company/syntactics-inc.",
+          "linkedin_id": "123047",
+          "facebook_url": "facebook.com/syntacticsinc",
+          "twitter_url": "twitter.com/syntacticsinc",
+          "website": "syntacticsinc.com"
+        },
+        "location_names": [
+          "bonn, north rhine-westphalia, germany",
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2008",
+        "start_date": "2006",
+        "title": {
+          "name": "consultant conversational interfaces",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "voiceobjects ag",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "bergisch gladbach, north rhine-westphalia, germany"
+        ],
+        "end_date": "2006",
+        "start_date": "2004",
+        "title": {
+          "name": "voice user interface designer",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_design",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fraunhofer institut iao stuttgart",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "stuttgart, baden-württemberg, germany"
+        ],
+        "end_date": "2004",
+        "start_date": "2003",
+        "title": {
+          "name": "graduate research assistant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "cambridge technology partners",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "1999",
+        "start_date": "1998",
+        "title": {
+          "name": "customer experience designer",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zeitwerk gmbh",
+          "size": "11-50",
+          "id": "UfXR25QcFG7mCXlMzNe8SAxTx8sH",
+          "founded": 1996,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": {
+            "name": "ettlingen, baden-württemberg, germany",
+            "locality": "ettlingen",
+            "region": "baden-württemberg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "2 ludwig-erhard-street",
+            "address_line_2": null,
+            "postal_code": "76275",
+            "geo": "48.93,8.4"
+          },
+          "linkedin_url": "linkedin.com/company/zeitwerkgmbh",
+          "linkedin_id": "8853492",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "zeitwerk.de"
+        },
+        "location_names": [
+          "gaggenau, baden-württemberg, germany"
+        ],
+        "end_date": "1996",
+        "start_date": "1996",
+        "title": {
+          "name": "design / konzeption",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "graphic_design",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deutsches rotes kreuz rettungsdienst",
+          "size": "1-10",
+          "id": "NOsf3BCK2gPWnRMm1PegygSM49P4",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "triberg im schwarzwald, baden-württemberg, germany",
+            "locality": "triberg im schwarzwald",
+            "region": "baden-württemberg",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "9 hornberger straße",
+            "address_line_2": null,
+            "postal_code": "78098",
+            "geo": "48.13,8.23"
+          },
+          "linkedin_url": "linkedin.com/company/deutsches-rotes-kreuz-rettungsdienst",
+          "linkedin_id": "7458376",
+          "facebook_url": "facebook.com/drk.triberg.schonach",
+          "twitter_url": null,
+          "website": "drk-triberg.de"
+        },
+        "location_names": [
+          "rastatt, baden-württemberg, germany"
+        ],
+        "end_date": "1997-09",
+        "start_date": "1994-09",
+        "title": {
+          "name": "paramedic / emergency medical technician",
+          "class": "services",
+          "role": "public_service",
+          "sub_role": "emergency_services",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of konstanz",
+          "type": "post-secondary institution",
+          "id": "tYVguEp0r8rTBp1xYImxzQ_0000",
+          "location": {
+            "name": "konstanz, baden-württemberg, germany",
+            "locality": "konstanz",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-konstanz",
+          "facebook_url": "facebook.com/unikonstanz",
+          "twitter_url": "twitter.com/unikonstanz",
+          "linkedin_id": "166645",
+          "website": "uni-konstanz.de",
+          "domain": "uni-konstanz.de"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2003",
+        "majors": [
+          "educational psychology",
+          "engineering",
+          "management",
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "436940152",
+        "url": "linkedin.com/in/floriangaeng",
+        "username": "floriangaeng"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

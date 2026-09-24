@@ -1,0 +1,182 @@
+{
+  "record_id": "speaker-viennacx-039",
+  "speaker_name": "Morgwn Shaw",
+  "linkedin_url": "https://www.linkedin.com/in/morgwnshaw/",
+  "likelihood": 9,
+  "full_name": "morgwn shaw",
+  "job_title": "associate director - omnichannel experience, strategy, planning & production",
+  "industry": "pharmaceuticals",
+  "current_company": "bristol myers squibb",
+  "current_company_website": "bms.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "advertising",
+    "agile methodologies",
+    "analytics",
+    "business development",
+    "business strategy",
+    "content strategy",
+    "conversion optimization",
+    "creative direction",
+    "creative ideation",
+    "creative strategy",
+    "crm",
+    "customer experience",
+    "digital innovation",
+    "digital marketing",
+    "digital project management",
+    "digital strategy",
+    "direct marketing",
+    "ecommerce",
+    "email marketing",
+    "google analytics",
+    "integrated marketing",
+    "interactive advertising",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing strategy",
+    "microsoft powerpoint",
+    "omni channel marketing",
+    "online advertising",
+    "online marketing",
+    "ppc",
+    "project management",
+    "sales",
+    "sem",
+    "senior stakeholder management",
+    "seo",
+    "social marketing",
+    "social media",
+    "social media marketing",
+    "staff mentoring",
+    "strategic planning",
+    "strategy",
+    "team leadership",
+    "web analytics",
+    "web project management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "associate director - omnichannel experience, strategy, planning & production",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "associate director - digital marketing specialist",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-12",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "board member",
+      "company": "awesome foundation",
+      "company_industry": "philanthropy",
+      "start_date": "2017-08",
+      "end_date": "2018-04",
+      "is_primary": false
+    },
+    {
+      "title": "digital transformation director / senior account director",
+      "company": "apd",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-02",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "next digital (now apd)",
+      "company_industry": "marketing and advertising",
+      "start_date": "2010-10",
+      "end_date": "2013-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager - new media and communications",
+      "company": "clinuvel pharmaceuticals ltd",
+      "company_industry": "biotechnology",
+      "start_date": "2009-07",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "digital business consultant",
+      "company": "digital art science",
+      "company_industry": null,
+      "start_date": "2009-02",
+      "end_date": "2009-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior account manager / strategist",
+      "company": "bullseye",
+      "company_industry": "marketing and advertising",
+      "start_date": "2008-01",
+      "end_date": "2009-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior am / digital strategist",
+      "company": "isobar",
+      "company_industry": "marketing and advertising",
+      "start_date": "2007-06",
+      "end_date": "2008-01",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "mrm",
+      "company_industry": "marketing and advertising",
+      "start_date": "2006-10",
+      "end_date": "2007-05",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "big fish®",
+      "company_industry": "marketing and advertising",
+      "start_date": "2006-04",
+      "end_date": "2006-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "deakin university",
+      "majors": [
+        "visual art"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "1998",
+      "end_date": "2001"
+    },
+    {
+      "school": "billanook college",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1991",
+      "end_date": "1997"
+    },
+    {
+      "school": "heatherdale primary",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1984",
+      "end_date": "1990"
+    }
+  ]
+}

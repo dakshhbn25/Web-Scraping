@@ -1,0 +1,151 @@
+{
+  "record_id": "speaker-dubrovnik-018",
+  "speaker_name": "Stefan König",
+  "linkedin_url": "https://www.linkedin.com/in/stefan-k%C3%B6nig-9920b61b/",
+  "likelihood": 9,
+  "full_name": "stefan könig",
+  "job_title": "global chief executive officer",
+  "industry": "pharmaceuticals",
+  "current_company": "merz therapeutics",
+  "current_company_website": "merztherapeutics.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business strategy",
+    "cardiology",
+    "gastroenterology",
+    "global marketing",
+    "market access",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "regulatory affairs",
+    "sales effectiveness",
+    "strategic planning"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global chief executive officer",
+      "company": "merz therapeutics",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief executive officer",
+      "company": "george medicines",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-05",
+      "end_date": "2023-02",
+      "is_primary": false
+    },
+    {
+      "title": "vice president and general manager global ibd franchise",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-08",
+      "end_date": "2021-05",
+      "is_primary": false
+    },
+    {
+      "title": "general manager austria & osteuropa holding",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-11",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "managing director & region head alpe-adria",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-03",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of business development & third party comops latam",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-05",
+      "end_date": "2011-03",
+      "is_primary": false
+    },
+    {
+      "title": "marketing director latam",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-01",
+      "end_date": "2009-05",
+      "is_primary": false
+    },
+    {
+      "title": "director innovation and portfolio management",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-07",
+      "end_date": "2007-12",
+      "is_primary": false
+    },
+    {
+      "title": "manager multivitamins and cardiometabolic line",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-08",
+      "end_date": "2006-04",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager coug & cold and new products",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-07",
+      "end_date": "2004-07",
+      "is_primary": false
+    },
+    {
+      "title": "global brand manager vitamin brands",
+      "company": "merck group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2000-01",
+      "end_date": "2002-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "berufsakademie stuttgart",
+      "majors": [
+        "finance",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2006-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "tecnológico de monterrey",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2005-12"
+    },
+    {
+      "school": "georgia state university",
+      "majors": [
+        "finance",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "1998-01",
+      "end_date": "1998"
+    }
+  ]
+}

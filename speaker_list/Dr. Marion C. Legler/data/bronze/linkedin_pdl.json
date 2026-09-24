@@ -1,0 +1,707 @@
+{
+  "record_id": "speaker-viennacx-007",
+  "speaker_name": "Dr. Marion C. Legler",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/dr-marion-c-legler-b389a7150/",
+  "scraped_at": "2026-09-18T10:25:13.414097+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "dqmZisU1eyjjbpdiaZ913g_0000",
+    "full_name": "marion legler",
+    "first_name": "marion",
+    "middle_initial": "c",
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "legler",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dr-marion-c-legler-b389a7150",
+    "linkedin_username": "dr-marion-c-legler-b389a7150",
+    "linkedin_id": "611601308",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of pharma decision science & ai",
+    "job_title_role": "health",
+    "job_title_sub_role": "pharmacy",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+    "job_company_name": "bayer",
+    "job_company_website": "bayer.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1863,
+    "job_company_industry": "chemicals",
+    "job_company_industry_v2": "chemical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bayer",
+    "job_company_linkedin_id": "1893",
+    "job_company_facebook_url": "facebook.com/bayer",
+    "job_company_twitter_url": "twitter.com/bayer",
+    "job_company_location_name": "leverkusen, north rhine-westphalia, germany",
+    "job_company_location_locality": "leverkusen",
+    "job_company_location_metro": null,
+    "job_company_location_region": "north rhine-westphalia",
+    "job_company_location_geo": "51.03,7.0",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "51373",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-07-09",
+    "job_last_verified": "2026-08-21",
+    "job_start_date": "2022-12",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-08-21",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "data analysis",
+      "data science",
+      "data strategy",
+      "datenanalyse",
+      "englisch",
+      "machine learning",
+      "microsoft excel",
+      "politikberatung",
+      "project management",
+      "projektmanagement",
+      "python",
+      "r",
+      "research",
+      "statistik",
+      "strategie",
+      "strategische beratung",
+      "volkswirtschaftlihche gesamtrechnungen",
+      "wirtschaftswissenschaften"
+    ],
+    "location_names": false,
+    "regions": false,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2022-12",
+        "title": {
+          "name": "head of pharma decision science & ai",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bayer",
+          "size": "10001+",
+          "id": "Pus7HkHcqoVCaDY4S2j5hgoqfwt0",
+          "founded": 1863,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "leverkusen, north rhine-westphalia, germany",
+            "locality": "leverkusen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "51373",
+            "geo": "51.03,7.0"
+          },
+          "linkedin_url": "linkedin.com/company/bayer",
+          "linkedin_id": "1893",
+          "facebook_url": "facebook.com/bayer",
+          "twitter_url": "twitter.com/bayer",
+          "website": "bayer.com"
+        },
+        "location_names": [],
+        "end_date": "2022-12",
+        "start_date": "2020-06",
+        "title": {
+          "name": "head of decision science & adv analytics | medical affairs, pharmacovigilance & regulatory affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deloitte",
+          "size": "10001+",
+          "id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+          "founded": 1845,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 rockefeller plaza",
+            "address_line_2": null,
+            "postal_code": "10112",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/deloitte",
+          "linkedin_id": "1038",
+          "facebook_url": "facebook.com/deloitte",
+          "twitter_url": "twitter.com/deloitte",
+          "website": "deloitte.com"
+        },
+        "location_names": [],
+        "end_date": "2020-05",
+        "start_date": "2018-02",
+        "title": {
+          "name": "senior consultant data science",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wifor institute",
+          "size": "51-200",
+          "id": "k72mX9IpwQ5w8iLXHziHGgPW68oy",
+          "founded": 2009,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6 ludwigsplatz",
+            "address_line_2": null,
+            "postal_code": "64283",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/wifor",
+          "linkedin_id": "11116918",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "wifor.com"
+        },
+        "location_names": [
+          "darmstadt, hesse, germany"
+        ],
+        "end_date": "2018-01",
+        "start_date": "2013-10",
+        "title": {
+          "name": "senior researcher @ health economy research",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "universität für weiterbildung krems",
+          "size": "501-1000",
+          "id": "X9nSbl5n7CFPrJyadDCavQgLQVvm",
+          "founded": 1994,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "krems, lower austria, austria",
+            "locality": "krems",
+            "region": "lower austria",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "30 drive-karl-dorrek-straße",
+            "address_line_2": null,
+            "postal_code": "3500",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/school/donau.uni",
+          "linkedin_id": "343870",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "donau-uni.ac.at"
+        },
+        "location_names": [
+          "krems an der donau, niederösterreich, austria"
+        ],
+        "end_date": "2013-09",
+        "start_date": "2012-12",
+        "title": {
+          "name": "researcher @ zentrum für management im gesundheitswesen",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "wu (vienna university of economics and business)",
+          "size": "1001-5000",
+          "id": "1fmoJSCX2frGd1zxAxz5TQNyrwFU",
+          "founded": 1898,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "vienna, vienna, austria",
+            "locality": "vienna",
+            "region": "vienna",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "1 welthandelsplatz",
+            "address_line_2": null,
+            "postal_code": "1020",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/school/wu-wirtschaftsuniversitaet-wien",
+          "linkedin_id": "15091531",
+          "facebook_url": "facebook.com/wu.wirtschaftsuniversitaet.wien",
+          "twitter_url": null,
+          "website": "wu.ac.at"
+        },
+        "location_names": [],
+        "end_date": "2013-02",
+        "start_date": "2012-09",
+        "title": {
+          "name": "akademischer tutor",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "austrian federal economic chamber",
+          "size": "1001-5000",
+          "id": "I7vlcLZllWEpoBdEJOdZsQ3icPzv",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "63 wiedner hauptstraße",
+            "address_line_2": null,
+            "postal_code": "1045",
+            "geo": "48.21,16.4"
+          },
+          "linkedin_url": "linkedin.com/company/wirtschaftskammer",
+          "linkedin_id": "48520",
+          "facebook_url": "facebook.com/wirtschaftskammer",
+          "twitter_url": null,
+          "website": "wko.at"
+        },
+        "location_names": [
+          "sydney, new south wales, australia"
+        ],
+        "end_date": "2012-09",
+        "start_date": "2012-08",
+        "title": {
+          "name": "volontariat",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "economica institut für wirtschaftsforschung",
+          "size": "11-50",
+          "id": "sWbSnY9k6CS3sAfLy1h2vgwhvn1R",
+          "founded": 2005,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "wien, liesing, wien, austria",
+            "locality": "wien, liesing",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "50-52 liniengasse",
+            "address_line_2": null,
+            "postal_code": "1060",
+            "geo": "48.14,16.29"
+          },
+          "linkedin_url": "linkedin.com/company/economica-institut-für-wirtschaftsforschung",
+          "linkedin_id": "14796892",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "economica.at"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2012-01",
+        "title": {
+          "name": "wissenschaftlicher mitarbeiter",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "niederosterreichische landesregierung",
+          "size": "1-10",
+          "id": "3jkSW2Z1huyQEVFZbcSLQwdPNkxT",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": {
+            "name": "vienna, vienna, austria",
+            "locality": "vienna",
+            "region": "vienna",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1010",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/niederosterreichische-landesregierung",
+          "linkedin_id": "94420859",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "nolreisen.at"
+        },
+        "location_names": [
+          "st. pölten, niederösterreich, austria"
+        ],
+        "end_date": "2011-11",
+        "start_date": "2011-08",
+        "title": {
+          "name": "wissenschaftlicher mitarbeiter",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "federation of austrian industries",
+          "size": "51-200",
+          "id": "NrGIjpvFb7UVsnBXLfjG7gxOaz7V",
+          "founded": 1946,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "4 schwarzenbergplatz",
+            "address_line_2": null,
+            "postal_code": "1031",
+            "geo": "48.21,16.4"
+          },
+          "linkedin_url": "linkedin.com/company/industriellenvereinigung",
+          "linkedin_id": "18079536",
+          "facebook_url": "facebook.com/industriellenvereinigung",
+          "twitter_url": null,
+          "website": "iv.at"
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2011-01",
+        "title": {
+          "name": "wissenschaftlicher mitarbeiter",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sozialversicherung der selbständigen",
+          "size": "1001-5000",
+          "id": "pcWRgNAxgYxY5tvLfDPpRQS6VuQG",
+          "founded": null,
+          "industry": "insurance",
+          "industry_v2": "insurance",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "84-86 wiedner hauptstraße",
+            "address_line_2": null,
+            "postal_code": "1051",
+            "geo": "48.21,16.4"
+          },
+          "linkedin_url": "linkedin.com/company/deinesvs",
+          "linkedin_id": "11553962",
+          "facebook_url": "facebook.com/deinesvs",
+          "twitter_url": null,
+          "website": "svs.at"
+        },
+        "location_names": [],
+        "end_date": "2010-08",
+        "start_date": "2008-11",
+        "title": {
+          "name": "wissenschaftlicher mitarbeiter",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of bremen",
+          "type": "post-secondary institution",
+          "id": "NUaAgyBOp-K3BXpawsSJ-A_0000",
+          "location": {
+            "name": "bremen, bremen, germany",
+            "locality": "bremen",
+            "region": "bremen",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bremen",
+          "facebook_url": "facebook.com/universitaetbremen",
+          "twitter_url": "twitter.com/unibremen",
+          "linkedin_id": "12668",
+          "website": "uni-bremen.de",
+          "domain": "uni-bremen.de"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of bremen",
+          "type": "post-secondary institution",
+          "id": "NUaAgyBOp-K3BXpawsSJ-A_0000",
+          "location": {
+            "name": "bremen, bremen, germany",
+            "locality": "bremen",
+            "region": "bremen",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bremen",
+          "facebook_url": "facebook.com/universitaetbremen",
+          "twitter_url": "twitter.com/unibremen",
+          "linkedin_id": "12668",
+          "website": "uni-bremen.de",
+          "domain": "uni-bremen.de"
+        },
+        "degrees": [],
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "wu (vienna university of economics and business)",
+          "type": "post-secondary institution",
+          "id": "gCpaCJnYkjxxQ8YZ8rrZVQ_0000",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "country": "austria",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/wu-wirtschaftsuniversitaet-wien",
+          "facebook_url": "facebook.com/wu.wirtschaftsuniversitaet.wien",
+          "twitter_url": "twitter.com/wu_vienna",
+          "linkedin_id": "15091531",
+          "website": "wu.ac.at",
+          "domain": "wu.ac.at"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2011-01-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "uppsala university",
+          "type": "post-secondary institution",
+          "id": "GyIEFJhftffe77fFcTybvA_0000",
+          "location": {
+            "name": "uppsala, uppsala, sweden",
+            "locality": "uppsala",
+            "region": "uppsala",
+            "country": "sweden",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/uppsala-university",
+          "facebook_url": "facebook.com/uppsala.universitet",
+          "twitter_url": "twitter.com/uppsalauni",
+          "linkedin_id": "157321",
+          "website": "uu.se",
+          "domain": "uu.se"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2010-01-01",
+        "end_date": null,
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "wu (vienna university of economics and business)",
+          "type": "post-secondary institution",
+          "id": "gCpaCJnYkjxxQ8YZ8rrZVQ_0000",
+          "location": {
+            "name": "wien, leopoldstadt, wien, austria",
+            "locality": "wien, leopoldstadt",
+            "region": "wien",
+            "country": "austria",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/wu-wirtschaftsuniversitaet-wien",
+          "facebook_url": "facebook.com/wu.wirtschaftsuniversitaet.wien",
+          "twitter_url": "twitter.com/wu_vienna",
+          "linkedin_id": "15091531",
+          "website": "wu.ac.at",
+          "domain": "wu.ac.at"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2008-01-01",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "611601308",
+        "url": "linkedin.com/in/dr-marion-c-legler-b389a7150",
+        "username": "dr-marion-c-legler-b389a7150"
+      },
+      {
+        "network": "linkedin",
+        "id": "611601308",
+        "url": "linkedin.com/in/dr-marion-cornelia-schwärzler-b389a7150",
+        "username": "dr-marion-cornelia-schwärzler-b389a7150"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/marion-cornelia-schwärzler-b389a7150",
+        "username": "marion-cornelia-schwärzler-b389a7150"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

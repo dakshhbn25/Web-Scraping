@@ -1,0 +1,785 @@
+{
+  "record_id": "speaker-dubrovnik-064",
+  "speaker_name": "Azeeza Sunmonu",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/azeezat/",
+  "scraped_at": "2026-09-18T09:37:21.162046+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "GkGO-CAdNG39ZteSlURVvA_0000",
+    "full_name": "azeeza sunmonu",
+    "first_name": "azeeza",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "sunmonu",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/azeezat",
+    "linkedin_username": "azeezat",
+    "linkedin_id": "46273081",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "commercial execution emea & global accounts",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [],
+    "job_company_id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+    "job_company_name": "abbott",
+    "job_company_website": "pk.abbott",
+    "job_company_size": "10001+",
+    "job_company_founded": 1980,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/abbott-",
+    "job_company_linkedin_id": "1612",
+    "job_company_facebook_url": "facebook.com/abbott",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "abbott park, illinois, united states",
+    "job_company_location_locality": "abbott park",
+    "job_company_location_metro": null,
+    "job_company_location_region": "illinois",
+    "job_company_location_geo": "42.32,-87.86",
+    "job_company_location_street_address": "100 abbott park road",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "60064",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-09-04",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2026-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-04-02",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [],
+    "skills": [
+      "account management",
+      "board interaction",
+      "budgeting",
+      "business administration",
+      "business analysis",
+      "business analytics",
+      "business development",
+      "business intelligence",
+      "business management",
+      "business operations",
+      "business planning",
+      "business process design",
+      "business process improvement",
+      "business strategy",
+      "capacity planning",
+      "change management",
+      "change menagement",
+      "coaching",
+      "commercial",
+      "commercial development",
+      "compliance management",
+      "continuous improvement",
+      "contract management",
+      "contract negotiation",
+      "contracts management",
+      "cross functional team leadership",
+      "customer focused selling",
+      "customer relationship management",
+      "data analytics",
+      "data driven decision making",
+      "database design",
+      "demand forecasting",
+      "digital marketing",
+      "diversity and inclusion",
+      "economic research",
+      "economics",
+      "enterprise risk management",
+      "executive management",
+      "finance",
+      "forecasting",
+      "fp&a",
+      "fundraising",
+      "general management",
+      "global regulatory compliance",
+      "go to market strategy",
+      "higher education",
+      "insurance",
+      "international negotiations",
+      "international standards",
+      "invoicing",
+      "key performance indicators",
+      "large enterprise",
+      "leadership",
+      "lean six sigma",
+      "lean thinking",
+      "legal",
+      "legal advice",
+      "legal consulting",
+      "market analysis",
+      "mentoring",
+      "negotiation",
+      "new business development",
+      "operational excellence",
+      "operational intelligence",
+      "operational planning",
+      "operations",
+      "operations management",
+      "partner relationship management",
+      "partnerships",
+      "policy development",
+      "problem solving",
+      "procurement",
+      "product development",
+      "product management",
+      "program management",
+      "project management",
+      "proposal management",
+      "proposal writing",
+      "public speaking",
+      "risk management",
+      "risk management and frameworks",
+      "sales and business operations",
+      "sales and marketing",
+      "sales enablement",
+      "sales funnel optimization",
+      "sales leadership",
+      "sales leadership training",
+      "sales management",
+      "sales operations",
+      "sales strategy",
+      "salesforce.com",
+      "sfdc",
+      "strategic leadership",
+      "strategic marketing",
+      "strategic planning",
+      "strategy",
+      "supply chain management",
+      "tableau",
+      "team management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom",
+      "united arab emirates"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-08",
+        "title": {
+          "name": "commercial execution emea & global accounts",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "mundipharma",
+          "size": "1001-5000",
+          "id": "PFTOoWkEwBPzSB1YXqdfewsFV7pY",
+          "founded": 1952,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united kingdom",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/mundipharma",
+          "linkedin_id": "18456",
+          "facebook_url": "facebook.com/mundipharmatalk",
+          "twitter_url": null,
+          "website": "mundipharma.net"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2026-08",
+        "start_date": "2025-05",
+        "title": {
+          "name": "global head of commercial excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "executive council for leading change (eclc)",
+          "size": "1-10",
+          "id": "ns1Ppv2z38CNAsegJpTiTQP80oUt",
+          "founded": 2023,
+          "industry": "non-profit organization management",
+          "industry_v2": "industry associations",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/executive-council-for-leading-change",
+          "linkedin_id": "98978741",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "tigerhall.com"
+        },
+        "location_names": [
+          "emea, central sulawesi, indonesia"
+        ],
+        "end_date": null,
+        "start_date": "2024-06",
+        "title": {
+          "name": "member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [
+          "emea, central sulawesi, indonesia"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2021-01",
+        "title": {
+          "name": "emea head of commercial operations & excellence - enterprise solutions & partnerships",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [],
+        "end_date": "2021-01",
+        "start_date": "2019-10",
+        "title": {
+          "name": "director - commercial development & risk management",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pharmacists beyond borders (pbb)",
+          "size": "11-50",
+          "id": "D7IToGOfkjviXrxn0kpqcAAc6v6K",
+          "founded": 2016,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "fayetteville, arkansas, united states",
+            "locality": "fayetteville",
+            "region": "arkansas",
+            "metro": "fayetteville, arkansas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "36.05,-94.19"
+          },
+          "linkedin_url": "linkedin.com/company/pharmacists-beyond-borders",
+          "linkedin_id": "35677214",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "pharmacistsbb.org"
+        },
+        "location_names": [
+          "bonifacio global city, metro manila, philippines"
+        ],
+        "end_date": null,
+        "start_date": "2017-07",
+        "title": {
+          "name": "board member / ned",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "philips",
+          "size": "10001+",
+          "id": "NMs6QeAEO8gCp5p3LudRKgTuKa4n",
+          "founded": 1891,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "2 amstelplein",
+            "address_line_2": null,
+            "postal_code": "1096 bc",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/philips",
+          "linkedin_id": "1090",
+          "facebook_url": "facebook.com/philipsindia",
+          "twitter_url": "twitter.com/philips",
+          "website": "philips.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2019-01",
+        "start_date": "2016-01",
+        "title": {
+          "name": "head of risk management & business development support",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "baker hughes",
+          "size": "10001+",
+          "id": "l5t6yP5k1OXB5bIr0gbYCgsZDZ9y",
+          "founded": null,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": "houston, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "17021 aldine",
+            "address_line_2": null,
+            "postal_code": "77073",
+            "geo": "29.78,-95.47"
+          },
+          "linkedin_url": "linkedin.com/company/bakerhughes",
+          "linkedin_id": "4334",
+          "facebook_url": "facebook.com/bakerhughesco",
+          "twitter_url": "twitter.com/bakerhughesco",
+          "website": "bakerhughes.com"
+        },
+        "location_names": [],
+        "end_date": "2016",
+        "start_date": "2015",
+        "title": {
+          "name": "director - contracts, risk & pricing centre of excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "baker hughes",
+          "size": "10001+",
+          "id": "l5t6yP5k1OXB5bIr0gbYCgsZDZ9y",
+          "founded": null,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": "houston, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "17021 aldine",
+            "address_line_2": null,
+            "postal_code": "77073",
+            "geo": "29.78,-95.47"
+          },
+          "linkedin_url": "linkedin.com/company/bakerhughes",
+          "linkedin_id": "4334",
+          "facebook_url": "facebook.com/bakerhughesco",
+          "twitter_url": "twitter.com/bakerhughesco",
+          "website": "bakerhughes.com"
+        },
+        "location_names": [],
+        "end_date": "2015",
+        "start_date": "2014",
+        "title": {
+          "name": "commercial excellence director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "baker hughes",
+          "size": "10001+",
+          "id": "l5t6yP5k1OXB5bIr0gbYCgsZDZ9y",
+          "founded": null,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "houston, texas, united states",
+            "locality": "houston",
+            "region": "texas",
+            "metro": "houston, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "17021 aldine",
+            "address_line_2": null,
+            "postal_code": "77073",
+            "geo": "29.78,-95.47"
+          },
+          "linkedin_url": "linkedin.com/company/bakerhughes",
+          "linkedin_id": "4334",
+          "facebook_url": "facebook.com/bakerhughesco",
+          "twitter_url": "twitter.com/bakerhughesco",
+          "website": "bakerhughes.com"
+        },
+        "location_names": [],
+        "end_date": "2014",
+        "start_date": "2012",
+        "title": {
+          "name": "regional manager - contracts & legal",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "legal",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "honeywell technologies",
+          "size": "10001+",
+          "id": "EkStmveB2JsoSmXxdD0lewcvBbrK",
+          "founded": null,
+          "industry": "industrial automation",
+          "industry_v2": "automation machinery manufacturing",
+          "location": {
+            "name": "charlotte, north carolina, united states",
+            "locality": "charlotte",
+            "region": "north carolina",
+            "metro": "charlotte, north carolina",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "28202",
+            "geo": "35.25,-80.77"
+          },
+          "linkedin_url": "linkedin.com/company/honeywell",
+          "linkedin_id": "1344",
+          "facebook_url": "facebook.com/honeywell",
+          "twitter_url": "twitter.com/honeywell",
+          "website": "honeywell.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2012",
+        "start_date": "2010",
+        "title": {
+          "name": "regional manager - contracts & legal",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "legal",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kca deutag",
+          "size": "10001+",
+          "id": "3OpnCitOs2ZmPeSVVhmVEQlV0V2D",
+          "founded": 1888,
+          "industry": "oil & energy",
+          "industry_v2": "oil and gas",
+          "location": {
+            "name": "portlethen, scotland, united kingdom",
+            "locality": "portlethen",
+            "region": "scotland",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ab12 4xx",
+            "geo": "57.05,-2.13"
+          },
+          "linkedin_url": "linkedin.com/company/kca-deutag",
+          "linkedin_id": "28847",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/kcadeutagnews",
+          "website": "kcadeutag.com"
+        },
+        "location_names": [
+          "africa, indiana, united states"
+        ],
+        "end_date": "2010",
+        "start_date": "2008",
+        "title": {
+          "name": "regional commercial manager (mea & apac)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "petrofac",
+          "size": "5001-10000",
+          "id": "Qq7QNE6weFs3NVMzotIQWghJEPrS",
+          "founded": 1981,
+          "industry": "oil & energy",
+          "industry_v2": "engineering services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "117 jermyn street",
+            "address_line_2": null,
+            "postal_code": "sw1y 6hh",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/petrofac_3",
+          "linkedin_id": "322219",
+          "facebook_url": "facebook.com/petrofacgroup",
+          "twitter_url": null,
+          "website": "petrofac.com"
+        },
+        "location_names": [
+          "bonifacio global city, metro manila, philippines"
+        ],
+        "end_date": "2008",
+        "start_date": "2005",
+        "title": {
+          "name": "senior team lead - contracts & legal",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "legal",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "columbus university panamá",
+          "type": "post-secondary institution",
+          "id": "17Fars09Q3slG2-vYdnSvQ_0000",
+          "location": {
+            "name": "calle larga, panamá, panama",
+            "locality": "calle larga",
+            "region": "panamá",
+            "country": "panama",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/columbus-university",
+          "facebook_url": "facebook.com/columbusuniversity",
+          "twitter_url": "twitter.com/columbuspanama",
+          "linkedin_id": "5428101",
+          "website": "columbus.edu",
+          "domain": "columbus.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2008",
+        "majors": [
+          "business management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "oxford brookes university",
+          "type": "post-secondary institution",
+          "id": "4cLlXMV1osyzDnu6BAEbAw_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordbrookes",
+          "facebook_url": "facebook.com/oxfordbrookes",
+          "twitter_url": "twitter.com/oxford_brookes",
+          "linkedin_id": "13996",
+          "website": "brookes.ac.uk",
+          "domain": "brookes.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "1998-01",
+        "end_date": "2001",
+        "majors": [
+          "economics",
+          "law"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "46273081",
+        "url": "linkedin.com/in/azeezat",
+        "username": "azeezat"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

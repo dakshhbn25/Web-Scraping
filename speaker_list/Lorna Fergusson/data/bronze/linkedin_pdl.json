@@ -1,0 +1,525 @@
+{
+  "record_id": "speaker-dubrovnik-076",
+  "speaker_name": "Lorna Fergusson",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/lorna-fergusson-5964937/",
+  "scraped_at": "2026-09-18T09:37:46.895307+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "yadlIKl8HgDM6oVc8lCCuA_0000",
+    "full_name": "lorna fergusson",
+    "first_name": "lorna",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "fergusson",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lorna-fergusson-5964937",
+    "linkedin_username": "lorna-fergusson-5964937",
+    "linkedin_id": "22089858",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "director medical excellence & operations, international",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "jzJ7CpuLp61L1nmacdLkTwKInEBZ",
+    "job_company_name": "bridgebio",
+    "job_company_website": "bridgebio.com",
+    "job_company_size": "201-500",
+    "job_company_founded": 2014,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/bridgebio",
+    "job_company_linkedin_id": "6824982",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "palo alto, california, united states",
+    "job_company_location_locality": "palo alto",
+    "job_company_location_metro": "san jose, california",
+    "job_company_location_region": "california",
+    "job_company_location_geo": "37.43,-122.14",
+    "job_company_location_street_address": "421 kipling street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-09-03",
+    "job_last_verified": "2026-09-03",
+    "job_start_date": "2026-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-03",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnology",
+      "bone",
+      "business process improvement",
+      "capability development",
+      "clinical development",
+      "clinical trials",
+      "collaborative leadership",
+      "computational chemistry",
+      "customer relationship management",
+      "drug discovery",
+      "field medical",
+      "internal and external communications",
+      "lifesciences",
+      "medical education",
+      "mentoring",
+      "nephrology",
+      "networking",
+      "oncology",
+      "organic chemistry",
+      "pharmaceutical industry",
+      "pharmaceutics",
+      "process automation",
+      "science education",
+      "scientific communications",
+      "sop development",
+      "strategic leadership",
+      "team leadership",
+      "teamwork"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bridgebio",
+          "size": "201-500",
+          "id": "jzJ7CpuLp61L1nmacdLkTwKInEBZ",
+          "founded": 2014,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "palo alto, california, united states",
+            "locality": "palo alto",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "421 kipling street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "37.43,-122.14"
+          },
+          "linkedin_url": "linkedin.com/company/bridgebio",
+          "linkedin_id": "6824982",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bridgebio.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-09",
+        "title": {
+          "name": "director medical excellence & operations, international",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2026-05",
+        "start_date": "2021-05",
+        "title": {
+          "name": "global field medical excellence lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2021-05",
+        "start_date": "2019-08",
+        "title": {
+          "name": "medical communications lead general medicine",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2019-08",
+        "start_date": "2015-04",
+        "title": {
+          "name": "scientific communications senior manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2012-01",
+        "title": {
+          "name": "medical communication manage",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2011-12",
+        "start_date": "2011-04",
+        "title": {
+          "name": "acting medical communication senior manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2011-04",
+        "start_date": "2007-08",
+        "title": {
+          "name": "medical information / medical communication executive",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "cambridge, england, united kingdom"
+        ],
+        "end_date": "2007-08",
+        "start_date": "2005-11",
+        "title": {
+          "name": "drug safety executive",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "health_and_safety",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of nottingham",
+          "type": "post-secondary institution",
+          "id": "xU0hGNajorBvB-nuskDXQQ_0000",
+          "location": {
+            "name": "nottingham, england, united kingdom",
+            "locality": "nottingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-nottingham",
+          "facebook_url": "facebook.com/uniofnottingham",
+          "twitter_url": "twitter.com/uniofnottingham",
+          "linkedin_id": "7290",
+          "website": "nottingham.ac.uk",
+          "domain": "nottingham.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "2000-01",
+        "end_date": "2004",
+        "majors": [
+          "chemistry",
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of kent",
+          "type": "post-secondary institution",
+          "id": "qyitXMgY6Uytmef5UFXdIg_0000",
+          "location": {
+            "name": "canterbury, england, united kingdom",
+            "locality": "canterbury",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-kent",
+          "facebook_url": "facebook.com/universityofkent",
+          "twitter_url": "twitter.com/unikent",
+          "linkedin_id": "11866",
+          "website": "kent.ac.uk",
+          "domain": "kent.ac.uk"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1997-01",
+        "end_date": "2000",
+        "majors": [],
+        "minors": [],
+        "gpa": 2.1
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "22089858",
+        "url": "linkedin.com/in/lorna-fergusson-5964937",
+        "username": "lorna-fergusson-5964937"
+      },
+      {
+        "network": "linkedin",
+        "id": "22089858",
+        "url": "linkedin.com/in/lorna-fergusson",
+        "username": "lorna-fergusson"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

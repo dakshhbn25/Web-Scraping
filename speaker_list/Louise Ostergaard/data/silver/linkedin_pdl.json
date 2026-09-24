@@ -1,0 +1,160 @@
+{
+  "record_id": "speaker-medical-007",
+  "speaker_name": "Louise Ostergaard",
+  "linkedin_url": "https://www.linkedin.com/in/ostergaardlouiselifescience/",
+  "likelihood": 9,
+  "full_name": "louise ostergaard",
+  "job_title": "global publications & scientific communications director",
+  "industry": "pharmaceuticals",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "assay development",
+    "biochemistry",
+    "biotechnology",
+    "business strategy",
+    "cardiovascular medicine",
+    "cell",
+    "cell biology",
+    "cell culture",
+    "clinical development",
+    "clinical trials",
+    "creativity and innovation",
+    "digital communication",
+    "editorial",
+    "elisa",
+    "healthcare",
+    "in vitro",
+    "interdisciplinary collaboration",
+    "interdisciplinary research",
+    "laboratory",
+    "life sciences",
+    "lifesciences",
+    "matrix management",
+    "medical writing",
+    "medicine",
+    "molecular biology",
+    "organizational leadership",
+    "pharmaceutical industry",
+    "pharmacology",
+    "project management",
+    "protein chemistry",
+    "proteomics",
+    "publication planning",
+    "publications",
+    "research",
+    "science",
+    "scientific communications",
+    "scientific writing",
+    "stakeholder engagement",
+    "stakeholder management",
+    "strategic planning",
+    "strategy",
+    "team leadership",
+    "translational research"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global publications & scientific communications director",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior global publications manager",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-01",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "global publication manager",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-09",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "group leader / assistant professor",
+      "company": "university of zurich",
+      "company_industry": "higher education",
+      "start_date": "2008-02",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "post doc",
+      "company": "aarhus university",
+      "company_industry": "research",
+      "start_date": "2007-07",
+      "end_date": "2008-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "goethe university frankfurt",
+      "majors": [
+        "biochemistry",
+        "molecular biology"
+      ],
+      "degrees": [],
+      "start_date": "2005",
+      "end_date": "2005"
+    },
+    {
+      "school": "aarhus university",
+      "majors": [
+        "pharmacology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2003",
+      "end_date": "2007"
+    },
+    {
+      "school": "university of pittsburgh",
+      "majors": [
+        "biochemistry",
+        "molecular biology"
+      ],
+      "degrees": [],
+      "start_date": "2001",
+      "end_date": "2001"
+    },
+    {
+      "school": "aarhus university",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2000",
+      "end_date": "2003"
+    },
+    {
+      "school": "aarhus university",
+      "majors": [
+        "chemistry"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1997",
+      "end_date": "2000"
+    }
+  ]
+}

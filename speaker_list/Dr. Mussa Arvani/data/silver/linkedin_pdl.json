@@ -1,0 +1,375 @@
+{
+  "record_id": "speaker-dubrovnik-074",
+  "speaker_name": "Dr. Mussa Arvani",
+  "linkedin_url": "https://www.linkedin.com/in/dr-mussa-arvani-md/",
+  "likelihood": 9,
+  "full_name": "mussa arvani",
+  "job_title": "independent meducator and founder - mms",
+  "industry": "pharmaceuticals",
+  "current_company": "mms maestro medical solutions",
+  "current_company_website": null,
+  "current_company_industry": null,
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advisory boards",
+    "agile project management",
+    "analytical skills",
+    "artificial intelligence",
+    "artificial intelligence for business",
+    "budget management",
+    "budgetierung",
+    "build strong relationships",
+    "business acumen",
+    "business strategy",
+    "cardiology",
+    "career development",
+    "change management",
+    "clinical pharmacology",
+    "clinical research",
+    "clinical teaching",
+    "clinical trials",
+    "coaching",
+    "coaching and mentoring",
+    "communication",
+    "conversational skills",
+    "data ethics",
+    "diabetes",
+    "diabetic eye",
+    "digital health",
+    "diversity and inclusion",
+    "doctor of medicine",
+    "employee training",
+    "englisch",
+    "feature engineering",
+    "flexibility",
+    "good clinical practice",
+    "health informatics",
+    "healthcare",
+    "healthcare management",
+    "immunology",
+    "inflammation",
+    "insight generation",
+    "internal medicine",
+    "international experience",
+    "internationale teams",
+    "kennzahlen",
+    "key account development",
+    "kol management",
+    "leadership",
+    "life sciences",
+    "market access",
+    "market research",
+    "marketing",
+    "medical affairs",
+    "medical communications",
+    "medical conferences",
+    "medical doctor",
+    "medical education",
+    "medical information",
+    "medical management",
+    "medical marketing",
+    "medical monitoring",
+    "medical retina",
+    "medical science liaison",
+    "medical writing",
+    "medicine",
+    "model evaluation",
+    "netzwerkaufbau",
+    "neuroscience",
+    "ophthalmology",
+    "orphan drugs",
+    "patient care",
+    "people management",
+    "pharmaceutical industry",
+    "pharmazeutika",
+    "presentation skills",
+    "problem solving",
+    "product launch",
+    "project management",
+    "projektmanagement",
+    "public affairs",
+    "publications",
+    "rare diseases",
+    "research and development",
+    "sales",
+    "scientific communications",
+    "scientific writing",
+    "self confidence",
+    "specialty care",
+    "stakeholder management",
+    "strategic planning",
+    "strategy",
+    "team building",
+    "team leadership",
+    "team organisation",
+    "teammanagement",
+    "telemedicine",
+    "transformation",
+    "vaccines",
+    "web conferences"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "independent meducator and founder - mms",
+      "company": "mms maestro medical solutions",
+      "company_industry": null,
+      "start_date": "2026-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "external lecturer | healthcare management",
+      "company": "iu international university of applied sciences",
+      "company_industry": "higher education",
+      "start_date": "2026-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "medical lecturer",
+      "company": "lingoda gmbh",
+      "company_industry": "e-learning",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "leadership & management - competency team",
+      "company": "medical affairs professional society (maps)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-12",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "medical group lead immunology, infectious diseases & ophthalmology",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2024-12",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "field medical focus area working group",
+      "company": "medical affairs professional society (maps)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-04",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "field medical coordinator xgbu",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "covid-19 vaccination service",
+      "company": "kassenärztliche vereinigung berlin",
+      "company_industry": "hospital & health care",
+      "start_date": "2021-04",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of msl general medicines - germany, switzerland, austria",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical science liaison manager - ophthalmology & rare diseases",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2018-07",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical advisor",
+      "company": "alimera",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2018-07",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical science liaison manager",
+      "company": "alimera",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-12",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor - ophthalmology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-07",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison manager - ophthalmology",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-06",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "clinician in elective period, ophthalmology",
+      "company": "kantonsspital aarau ag",
+      "company_industry": "hospital & health care",
+      "start_date": "2012-02",
+      "end_date": "2012-04",
+      "is_primary": false
+    },
+    {
+      "title": "resident clinician, ophthalmology",
+      "company": "charite campus virchow-klinikum klinik fur augenheilkunde",
+      "company_industry": null,
+      "start_date": "2011-11",
+      "end_date": "2012-02",
+      "is_primary": false
+    },
+    {
+      "title": "clinical study coordinator, ophthalmology",
+      "company": "charite campus virchow-klinikum klinik fur augenheilkunde",
+      "company_industry": null,
+      "start_date": "2011-05",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical patient service - morbus parkinson",
+      "company": "charité universitätsmedizin berlin - campus benjamin franklin",
+      "company_industry": "medical practice",
+      "start_date": "2011-04",
+      "end_date": "2011-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical trainee, trauma surgery",
+      "company": "klinik für unfallchirurgie - medizinische hochschule hannover",
+      "company_industry": "hospital & health care",
+      "start_date": "2011-02",
+      "end_date": "2011-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical trainee, ophthalmology",
+      "company": "ophtalmologie lariboisière",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-08",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "medical trainee, orthopedics",
+      "company": "hospital for special surgery",
+      "company_industry": "hospital & health care",
+      "start_date": "2009-08",
+      "end_date": "2009-10",
+      "is_primary": false
+    },
+    {
+      "title": "clinical study coordinator, neurology",
+      "company": "charite campus benjamin franklin klinik fur neurologie",
+      "company_industry": null,
+      "start_date": "2009-01",
+      "end_date": "2011-05",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "srh fernhochschule - the mobile university",
+      "majors": [
+        "health care administration",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2020-01",
+      "end_date": "2022-12"
+    },
+    {
+      "school": "stanford university school of medicine",
+      "majors": [
+        "writing"
+      ],
+      "degrees": [],
+      "start_date": "2019-07",
+      "end_date": "2019-07"
+    },
+    {
+      "school": "harvardx - an online learning initiative by harvard university through edx",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [],
+      "start_date": "2019-07",
+      "end_date": null
+    },
+    {
+      "school": "harvardx - an online learning initiative by harvard university through edx",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": null
+    },
+    {
+      "school": "medizinische hochschule hannover",
+      "majors": [],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2014-10",
+      "end_date": "2014-10"
+    },
+    {
+      "school": "charité - universitätsmedizin berlin",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "doctor of medicine",
+        "doctorates"
+      ],
+      "start_date": "2006-01",
+      "end_date": "2012-12"
+    },
+    {
+      "school": "stanford university school of medicine",
+      "majors": [
+        "writing"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2019-12"
+    },
+    {
+      "school": "medizinische hochschule hannover",
+      "majors": [],
+      "degrees": [
+        "doctorates",
+        "doctor of medicine"
+      ],
+      "start_date": null,
+      "end_date": "2014-12"
+    }
+  ]
+}

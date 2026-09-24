@@ -1,0 +1,161 @@
+{
+  "record_id": "speaker-viennacx-053",
+  "speaker_name": "Oana Butu",
+  "linkedin_url": "https://www.linkedin.com/in/oanabutu/",
+  "likelihood": 9,
+  "full_name": "oana butu",
+  "job_title": "global ehealth lead | a:care lead",
+  "industry": "hospital & health care",
+  "current_company": "abbott",
+  "current_company_website": "pk.abbott",
+  "current_company_industry": "hospital & health care",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "artificial intelligence",
+    "budgets",
+    "business networking",
+    "business strategy",
+    "cardiology",
+    "competitive analysis",
+    "conference speaking",
+    "cross functional team leadership",
+    "cultural change initiatives",
+    "culture change",
+    "design thinking",
+    "forecasting",
+    "health",
+    "healthcare",
+    "hospital sales",
+    "interventional cardiology",
+    "leadership",
+    "market research",
+    "marketing",
+    "marketing management",
+    "marketing strategy",
+    "motivational speaking",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "project management",
+    "sales",
+    "sales effectiveness",
+    "sales management",
+    "sales operations",
+    "selling skills",
+    "soft skills",
+    "strategic partnerships",
+    "strategic planning",
+    "strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global ehealth lead | a:care lead",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2020-02",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "patient experience lead - oncology",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-11",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "oncology hospital secialist",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2016-11",
+      "is_primary": false
+    },
+    {
+      "title": "medical sales representative",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical sales representative",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-02",
+      "end_date": "2012-01",
+      "is_primary": false
+    },
+    {
+      "title": "sales and marketing manager",
+      "company": "sales job roles",
+      "company_industry": "marketing and advertising",
+      "start_date": "2004-04",
+      "end_date": "2009-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2022-01",
+      "end_date": "2022"
+    },
+    {
+      "school": "universitatea constantin brâncoveanu",
+      "majors": [
+        "communications",
+        "public relations"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2009-10",
+      "end_date": "2012"
+    },
+    {
+      "school": "academy of economic studies of moldova",
+      "majors": [
+        "commerce",
+        "management",
+        "tourism management"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "abpi",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "abpi qualified",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "the prince2 academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

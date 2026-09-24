@@ -1,0 +1,599 @@
+{
+  "record_id": "speaker-dubrovnik-053",
+  "speaker_name": "Neha Shah",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/shahnb/",
+  "scraped_at": "2026-09-18T09:36:58.004032+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "BbBcVEHcAw6Kbs0XBVMWbA_0000",
+    "full_name": "neha shah",
+    "first_name": "neha",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "shah",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/shahnb",
+    "linkedin_username": "shahnb",
+    "linkedin_id": "6787080",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "biotechnology",
+    "job_title": "senior director, medical affairs and chief patient office technology",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "senior",
+      "director"
+    ],
+    "job_company_id": "T9mvOcJ7CfAE1NldCHFGvASwTFnq",
+    "job_company_name": "vertex pharmaceuticals",
+    "job_company_website": "vrtx.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1989,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/vertex-pharmaceuticals",
+    "job_company_linkedin_id": "6866",
+    "job_company_facebook_url": "facebook.com/vertexpharmainc",
+    "job_company_twitter_url": "twitter.com/vertexpharma",
+    "job_company_location_name": "boston, massachusetts, united states",
+    "job_company_location_locality": "boston",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.33,-71.04",
+    "job_company_location_street_address": "50 northern avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02210",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-01-03",
+    "job_last_verified": "2026-07-30",
+    "job_start_date": "2024",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-30",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "children",
+      "education",
+      "health",
+      "science and technology"
+    ],
+    "skills": [
+      "afm",
+      "agarose gel electrophoresis",
+      "animal models",
+      "assay development",
+      "biomedical engineering",
+      "biotechnology",
+      "business engagement",
+      "cancer",
+      "cell",
+      "cell based assays",
+      "cell culture",
+      "cell culture process development",
+      "characterization",
+      "clinical trials",
+      "confocal microscopy",
+      "confocal raman microscopy",
+      "content strategy",
+      "covid 19",
+      "customer relationship management",
+      "digital marketing",
+      "digital strategy",
+      "doe",
+      "electrophoresis",
+      "elisa",
+      "facs",
+      "fermentation",
+      "flow cytometry",
+      "fluorescence",
+      "fluorescence microscopy",
+      "ftir",
+      "gel electrophoresis",
+      "gold nanoparticle synthesis",
+      "good clinical practice",
+      "histology",
+      "immunoassays",
+      "immunofluorescence",
+      "immunohistochemistry",
+      "in vitro",
+      "information technology",
+      "leadership",
+      "life sciences",
+      "medical affairs",
+      "medical devices",
+      "microscopy",
+      "molecular biology",
+      "nanoparticles",
+      "pcr",
+      "pharmaceutical industry",
+      "pre clinical cancer models",
+      "process development",
+      "process simulation",
+      "product lifecycle management",
+      "product management",
+      "rare diseases",
+      "real world evidence",
+      "regulatory interactions",
+      "regulatory requirements",
+      "scientific communications",
+      "small scale bioreactors",
+      "technology transfer",
+      "tissue culture",
+      "tissue engineering",
+      "transfection",
+      "transmission electron microscopy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "vertex pharmaceuticals",
+          "size": "1001-5000",
+          "id": "T9mvOcJ7CfAE1NldCHFGvASwTFnq",
+          "founded": 1989,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "50 northern avenue",
+            "address_line_2": null,
+            "postal_code": "02210",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/vertex-pharmaceuticals",
+          "linkedin_id": "6866",
+          "facebook_url": "facebook.com/vertexpharmainc",
+          "twitter_url": "twitter.com/vertexpharma",
+          "website": "vrtx.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024",
+        "title": {
+          "name": "senior director, medical affairs and chief patient office technology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "moderna",
+          "size": "1001-5000",
+          "id": "62sgbrRtUb92l5a2QWP6ywhoCKWB",
+          "founded": 2010,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 technology square",
+            "address_line_2": null,
+            "postal_code": "02139",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/modernatx",
+          "linkedin_id": "2281734",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "modernatx.com"
+        },
+        "location_names": [],
+        "end_date": "2023-12",
+        "start_date": "2022-03",
+        "title": {
+          "name": "senior director, digital medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "cambridge, massachusetts, united states"
+        ],
+        "end_date": "2022-03",
+        "start_date": "2017",
+        "title": {
+          "name": "senior director, global scientific affairs and diagnostics, rare diseases",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2017",
+        "start_date": "2016",
+        "title": {
+          "name": "associate director, medical affairs project management",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": "2016",
+        "start_date": "2012",
+        "title": {
+          "name": "senior scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lifecell, an acelity company",
+          "size": "5001-10000",
+          "id": "EnZEfesk642x48uJQzyHngRk3ckw",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "san antonio, texas, united states",
+            "locality": "san antonio",
+            "region": "texas",
+            "metro": "san antonio, texas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "12930 west i-10",
+            "address_line_2": null,
+            "postal_code": "78249",
+            "geo": "29.50,-98.6"
+          },
+          "linkedin_url": "linkedin.com/company/lifecell-corporation",
+          "linkedin_id": "18694",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2007",
+        "title": {
+          "name": "collaborator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of minnesota",
+          "size": "10001+",
+          "id": "AabX0LZ08rMVLQ3JeQg8QwQIfj5C",
+          "founded": 1851,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "st. paul, minnesota, united states",
+            "locality": "st. paul",
+            "region": "minnesota",
+            "metro": "minneapolis, minnesota",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "44.88,-93.11"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-minnesota",
+          "linkedin_id": "3181",
+          "facebook_url": "facebook.com/uofmn",
+          "twitter_url": "twitter.com/umnews",
+          "website": "twin-cities.umn.edu"
+        },
+        "location_names": [
+          "minneapolis, minnesota, united states"
+        ],
+        "end_date": "2011",
+        "start_date": "2006",
+        "title": {
+          "name": "phd candidate / nih pre-doctoral fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [
+          "rahway, new jersey, united states"
+        ],
+        "end_date": "2006",
+        "start_date": "2004",
+        "title": {
+          "name": "biochemical engineer",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celgene",
+          "size": "5001-10000",
+          "id": "fg8PAfQVDTINnwFGlFFb0As6wYPo",
+          "founded": 1986,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "summit, new jersey, united states",
+            "locality": "summit",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "86 morris avenue",
+            "address_line_2": null,
+            "postal_code": "07901",
+            "geo": "40.71,-74.36"
+          },
+          "linkedin_url": "linkedin.com/company/celgene",
+          "linkedin_id": "8348",
+          "facebook_url": "facebook.com/celgene",
+          "twitter_url": "twitter.com/celgene",
+          "website": "celgene.com"
+        },
+        "location_names": [],
+        "end_date": "2004",
+        "start_date": "2004",
+        "title": {
+          "name": "summer intern",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "rutgers university",
+          "type": "post-secondary institution",
+          "id": "XQyxL4ya1oRREDF6BG4hgw_0000",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/rutgersu",
+          "facebook_url": "facebook.com/rutgersu",
+          "twitter_url": "twitter.com/rutgersu",
+          "linkedin_id": "4262",
+          "website": "rutgers.edu",
+          "domain": "rutgers.edu"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "biomedical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of minnesota",
+          "type": "post-secondary institution",
+          "id": "9KoN2WBSHgRa4vIGIftO6Q_0000",
+          "location": {
+            "name": "st. paul, minnesota, united states",
+            "locality": "st. paul",
+            "region": "minnesota",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-minnesota",
+          "facebook_url": "facebook.com/uofmn",
+          "twitter_url": "twitter.com/umnews",
+          "linkedin_id": "3181",
+          "website": "twin-cities.umn.edu",
+          "domain": "umn.edu"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "biomedical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "6787080",
+        "url": "linkedin.com/in/shahnb",
+        "username": "shahnb"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

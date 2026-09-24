@@ -1,0 +1,618 @@
+{
+  "record_id": "speaker-medical-018",
+  "speaker_name": "Patricia Maric",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/patriciamaric/",
+  "scraped_at": "2026-09-18T10:24:32.293834+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "2LrU7s4QquzBs5eww0JtXQ_0000",
+    "full_name": "patricia maric",
+    "first_name": "patricia",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "maric",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/patriciamaric",
+    "linkedin_username": "patriciamaric",
+    "linkedin_id": "324551583",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical transformation lead, strategy, innovation & medical transformation",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-08-01",
+    "job_last_verified": "2026-07-09",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united arab emirates",
+    "location_continent": "asia",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2026-07-09",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "arts and culture",
+      "education",
+      "environment",
+      "health",
+      "science and technology"
+    ],
+    "skills": [
+      "agile",
+      "business development",
+      "change management",
+      "clinical pharmacy",
+      "clinical research",
+      "communicating with impact",
+      "creative solutions",
+      "cross functional projects",
+      "customer engagement",
+      "customer events",
+      "customer interaction",
+      "customer service",
+      "data generation",
+      "design thinking",
+      "digital essentials",
+      "digital health",
+      "english",
+      "healthcare",
+      "immunology",
+      "integrated care",
+      "ios",
+      "leadership project management",
+      "life sciences",
+      "market research",
+      "marketing strategy",
+      "medical affiars",
+      "medical education",
+      "medical technology",
+      "microsoft excel",
+      "microsoft office",
+      "microsoft word",
+      "negotiation",
+      "omni channel marketing",
+      "patient care management",
+      "patient education",
+      "patient experience",
+      "patient safety",
+      "patient services",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "pharmaceutics",
+      "pharmacology",
+      "pharmacotherapy",
+      "pharmacy",
+      "powerpoint",
+      "problem solving",
+      "project management",
+      "public speaking",
+      "research",
+      "respiration",
+      "respiratory",
+      "standard operating procedure",
+      "strategic communications",
+      "teamwork",
+      "training",
+      "transformation strategy",
+      "transformational change",
+      "transformational leadership",
+      "windows"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united arab emirates",
+      "united kingdom",
+      "united states",
+      "croatia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "global medical transformation lead, strategy, innovation & medical transformation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-07",
+        "start_date": "2021-02",
+        "title": {
+          "name": "patient experience lead, transformation, greater gulf mco",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2021-02",
+        "start_date": "2019-01",
+        "title": {
+          "name": "medical advisor, global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ferring pharmaceuticals",
+          "size": "5001-10000",
+          "id": "0y7imC7B1UxpZSiXUlerpQE6L2Lq",
+          "founded": 1950,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "saint-prex, vaud, switzerland",
+            "locality": "saint-prex",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1162",
+            "geo": "46.47,6.45"
+          },
+          "linkedin_url": "linkedin.com/company/ferring-pharmaceuticals",
+          "linkedin_id": "163789",
+          "facebook_url": "facebook.com/ferringpharmaceuticals",
+          "twitter_url": "twitter.com/ferring",
+          "website": "ferring.com"
+        },
+        "location_names": [],
+        "end_date": "2019-01",
+        "start_date": "2018-01",
+        "title": {
+          "name": "key account specialist",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ferring pharmaceuticals",
+          "size": "5001-10000",
+          "id": "0y7imC7B1UxpZSiXUlerpQE6L2Lq",
+          "founded": 1950,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "saint-prex, vaud, switzerland",
+            "locality": "saint-prex",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1162",
+            "geo": "46.47,6.45"
+          },
+          "linkedin_url": "linkedin.com/company/ferring-pharmaceuticals",
+          "linkedin_id": "163789",
+          "facebook_url": "facebook.com/ferringpharmaceuticals",
+          "twitter_url": "twitter.com/ferring",
+          "website": "ferring.com"
+        },
+        "location_names": [],
+        "end_date": "2018-01",
+        "start_date": "2017-02",
+        "title": {
+          "name": "medical representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "zagreb, city of zagreb, croatia"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2016-02",
+        "title": {
+          "name": "project assistant",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "zagreb, city of zagreb, croatia"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2016-01",
+        "title": {
+          "name": "student assistant",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "national university of sciences and technology (nust)",
+          "type": "post-secondary institution",
+          "id": "P-T7qVQ10wp4FPl9Lbj6wg_0000",
+          "location": {
+            "name": "islamabad, islamabad, pakistan",
+            "locality": "islamabad",
+            "region": "islamabad",
+            "country": "pakistan",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/nustofficial",
+          "facebook_url": "facebook.com/nationaluniversityofsciencesandtechnology",
+          "twitter_url": "twitter.com/official_nust",
+          "linkedin_id": "551751",
+          "website": "nust.edu.pk",
+          "domain": "nust.edu.pk"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018",
+        "majors": [
+          "business",
+          "international business",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "china pharmaceutical university",
+          "type": "post-secondary institution",
+          "id": "kBth2pQDP6HkflwAxwXGvg_0000",
+          "location": {
+            "name": "nanjing, jiangsu, china",
+            "locality": "nanjing",
+            "region": "jiangsu",
+            "country": "china",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/中国药科大学",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15093295",
+          "website": "cpu.edu.cn",
+          "domain": "cpu.edu.cn"
+        },
+        "degrees": [],
+        "start_date": "2016-01",
+        "end_date": "2016",
+        "majors": [
+          "education",
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "upf barcelona school of management",
+          "type": "post-secondary institution",
+          "id": "iG-CfPcM0LkM2EApbR4MIQ_0000",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/upf-barcelona-school-of-management",
+          "facebook_url": "facebook.com/upfbarcelona",
+          "twitter_url": "twitter.com/upfbarcelona",
+          "linkedin_id": "15098965",
+          "website": "bsm.upf.edu",
+          "domain": "upf.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2013",
+        "end_date": "2020",
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "college of pharmacy and biochemistry, zagreb, croatia",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2010",
+        "end_date": "2016",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of zagreb / sveučilište u zagrebu",
+          "type": "post-secondary institution",
+          "id": "9tofGuRRKHc2ZRp34JKKOg_0000",
+          "location": {
+            "name": "zagreb-novi zagreb-zapad, city of zagreb, croatia",
+            "locality": "zagreb-novi zagreb-zapad",
+            "region": "city of zagreb",
+            "country": "croatia",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-zagreb",
+          "facebook_url": "facebook.com/unizg",
+          "twitter_url": "twitter.com/sveuzgbu",
+          "linkedin_id": "15093576",
+          "website": "unizg.hr",
+          "domain": "unizg.hr"
+        },
+        "degrees": [
+          "doctor of pharmacy",
+          "doctorates"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2016",
+        "majors": [
+          "biochemistry",
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "x. gymnasium 'ivan supek'",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2005",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "324551583",
+        "url": "linkedin.com/in/patriciamaric",
+        "username": "patriciamaric"
+      },
+      {
+        "network": "linkedin",
+        "id": "324551583",
+        "url": "linkedin.com/in/patricia-marić-25383790",
+        "username": "patricia-marić-25383790"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

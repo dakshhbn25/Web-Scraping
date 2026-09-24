@@ -1,0 +1,505 @@
+{
+  "record_id": "speaker-dubrovnik-082",
+  "speaker_name": "Eva Nagtegaal",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/evanagtegaal/",
+  "scraped_at": "2026-09-18T09:37:59.977134+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "d3BCcffx452BWkcSJ2zShA_0000",
+    "full_name": "eva nagtegaal",
+    "first_name": "eva",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "n",
+    "last_name": "nagtegaal",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/evanagtegaal",
+    "linkedin_username": "evanagtegaal",
+    "linkedin_id": "3457267",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "higher education",
+    "job_title": "independent medical education business lead emea & us",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+    "job_company_name": "wiley",
+    "job_company_website": "wiley.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1807,
+    "job_company_industry": "publishing",
+    "job_company_industry_v2": "book and periodical publishing",
+    "job_company_linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+    "job_company_linkedin_id": "164549",
+    "job_company_facebook_url": "facebook.com/johnwileysons",
+    "job_company_twitter_url": "twitter.com/wileytextbooks",
+    "job_company_location_name": "hoboken, new jersey, united states",
+    "job_company_location_locality": "hoboken",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.74,-74.02",
+    "job_company_location_street_address": "111 river street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "07030",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2024-03-17",
+    "job_last_verified": "2026-05-04",
+    "job_start_date": "2022-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2024-03-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "academic publishing",
+      "account management",
+      "b2b",
+      "b2b marketing",
+      "cardiology",
+      "content development",
+      "content management",
+      "digital marketing",
+      "digital media",
+      "digital strategy",
+      "direct marketing",
+      "email marketing",
+      "hematology",
+      "infectious diseases",
+      "management",
+      "marketing",
+      "marketing communications",
+      "medical writing",
+      "online advertising",
+      "online publishing",
+      "pharmaceutical industry",
+      "product launch",
+      "publications",
+      "publishing",
+      "salesforce.com",
+      "strategic partnerships",
+      "toolkit"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": null,
+        "start_date": "2022-04",
+        "title": {
+          "name": "independent medical education business lead emea & us",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2022-04",
+        "start_date": "2019-08",
+        "title": {
+          "name": "diabetes lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "psl group",
+          "size": "1001-5000",
+          "id": "1B39pUY23woj8HgpZY0BLwVJ5SdP",
+          "founded": null,
+          "industry": "computer software",
+          "industry_v2": "technology, information and media",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10036",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/psl-group",
+          "linkedin_id": "39442",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "pslgroup.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2018-01",
+        "title": {
+          "name": "sales director",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elsevier",
+          "size": "5001-10000",
+          "id": "8Wvn6vNdZvBuK29x9cf1TgAwWthf",
+          "founded": 1880,
+          "industry": "information services",
+          "industry_v2": "information services",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "29 radarweg",
+            "address_line_2": null,
+            "postal_code": "1043",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/elsevier",
+          "linkedin_id": "3027",
+          "facebook_url": "facebook.com/elsevierconnect",
+          "twitter_url": "twitter.com/elsevierconnect",
+          "website": "elsevier.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-05",
+        "title": {
+          "name": "global business development manager emea / la - infectious diseases",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elsevier",
+          "size": "5001-10000",
+          "id": "8Wvn6vNdZvBuK29x9cf1TgAwWthf",
+          "founded": 1880,
+          "industry": "information services",
+          "industry_v2": "information services",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "29 radarweg",
+            "address_line_2": null,
+            "postal_code": "1043",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/elsevier",
+          "linkedin_id": "3027",
+          "facebook_url": "facebook.com/elsevierconnect",
+          "twitter_url": "twitter.com/elsevierconnect",
+          "website": "elsevier.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2009-07",
+        "title": {
+          "name": "therapy account manager - elsevier pharma solutions",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "excerpta medica bv - adelphi group",
+          "size": "51-200",
+          "id": "qO5ArwKyBLEhqQyf6BCR7gleu3kk",
+          "founded": 1947,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "amstelveen, north holland, netherlands",
+            "locality": "amstelveen",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": "4 professor westh. keesomlaan",
+            "address_line_2": null,
+            "postal_code": "1183 dj",
+            "geo": "52.29,4.84"
+          },
+          "linkedin_url": "linkedin.com/company/excerptamedica",
+          "linkedin_id": "3026",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "excerptamedica.com"
+        },
+        "location_names": [],
+        "end_date": "2009-07",
+        "start_date": "2002-09",
+        "title": {
+          "name": "associate program manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "nima, nederlands instituut voor marketing",
+          "type": "post-secondary institution",
+          "id": "ImLgIjuNpyNtAdM5wL3A8g_0000",
+          "location": {
+            "name": "diemen, north holland, netherlands",
+            "locality": "diemen",
+            "region": "north holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/nima-nederlands-instituut-voor-marketing",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "201385",
+          "website": "nima.nl",
+          "domain": "nima.nl"
+        },
+        "degrees": [],
+        "start_date": "2021-02",
+        "end_date": "2022-01",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "atlanta technical college",
+          "type": "post-secondary institution",
+          "id": "XBIdUnQplo4axR-DBO1EgA_0000",
+          "location": {
+            "name": "atlanta, georgia, united states",
+            "locality": "atlanta",
+            "region": "georgia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/atlanta-technical-college",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "67112",
+          "website": "atlantatech.edu",
+          "domain": "atlantatech.edu"
+        },
+        "degrees": [],
+        "start_date": "1997-01",
+        "end_date": "1999",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "vrije universiteit amsterdam (vu amsterdam)",
+          "type": "post-secondary institution",
+          "id": "6rnF6YFa3ExAplV0le7W0w_0000",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vrije-universiteit-amsterdam",
+          "facebook_url": "facebook.com/vuamsterdam",
+          "twitter_url": "twitter.com/vuamsterdam",
+          "linkedin_id": "5570",
+          "website": "vu.nl",
+          "domain": "vu.nl"
+        },
+        "degrees": [],
+        "start_date": "1996-09",
+        "end_date": "2000-07",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "vrije universiteit amsterdam (vu amsterdam)",
+          "type": "post-secondary institution",
+          "id": "6rnF6YFa3ExAplV0le7W0w_0000",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vrije-universiteit-amsterdam",
+          "facebook_url": "facebook.com/vuamsterdam",
+          "twitter_url": "twitter.com/vuamsterdam",
+          "linkedin_id": "5570",
+          "website": "vu.nl",
+          "domain": "vu.nl"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2000-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "atlanta technical college",
+          "type": "post-secondary institution",
+          "id": "XBIdUnQplo4axR-DBO1EgA_0000",
+          "location": {
+            "name": "atlanta, georgia, united states",
+            "locality": "atlanta",
+            "region": "georgia",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/atlanta-technical-college",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "67112",
+          "website": "atlantatech.edu",
+          "domain": "atlantatech.edu"
+        },
+        "degrees": [],
+        "start_date": "1993-01",
+        "end_date": "1997",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "3457267",
+        "url": "linkedin.com/in/evanagtegaal",
+        "username": "evanagtegaal"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

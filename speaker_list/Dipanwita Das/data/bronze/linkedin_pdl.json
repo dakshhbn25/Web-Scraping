@@ -1,0 +1,747 @@
+{
+  "record_id": "speaker-dubrovnik-096",
+  "speaker_name": "Dipanwita Das",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dipanwitadas/",
+  "scraped_at": "2026-09-18T09:38:30.244335+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "NvVysE1JwHO3l00td71zOQ_0000",
+    "full_name": "dipanwita das",
+    "first_name": "dipanwita",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "das",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dipanwitadas",
+    "linkedin_username": "dipanwitadas",
+    "linkedin_id": "13847566",
+    "facebook_url": "facebook.com/blackdouleur",
+    "facebook_username": "blackdouleur",
+    "facebook_id": "585860197",
+    "twitter_url": "twitter.com/dipanwita_d",
+    "twitter_username": "dipanwita_d",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "computer software",
+    "job_title": "chief executive officer & co-founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "H1FtE262xtdQITABrRRUUATGtA5a",
+    "job_company_name": "sorcero",
+    "job_company_website": "sorcero.com",
+    "job_company_size": "51-200",
+    "job_company_founded": 2018,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/sorceroai",
+    "job_company_linkedin_id": "27143444",
+    "job_company_facebook_url": "facebook.com/sorceroai",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "washington, district of columbia, united states",
+    "job_company_location_locality": "washington",
+    "job_company_location_metro": "district of columbia",
+    "job_company_location_region": "district of columbia",
+    "job_company_location_geo": "38.87,-77.00",
+    "job_company_location_street_address": "1301 k street northwest",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "20005",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2020-11-30",
+    "job_last_verified": "2026-08-31",
+    "job_start_date": "2018-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-31",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "children",
+      "civil rights and social action",
+      "crowdmapping",
+      "e learning",
+      "economic empowerment",
+      "education",
+      "human rights",
+      "politics",
+      "science and technology",
+      "social entrepreneurship",
+      "social media marketing",
+      "social services"
+    ],
+    "skills": [
+      "advocacy",
+      "board relations",
+      "business relationship management",
+      "capacity building",
+      "communication",
+      "community development",
+      "community organizing",
+      "community outreach",
+      "corporate communications",
+      "creative strategy",
+      "curriculum development",
+      "design thinking",
+      "e democracy",
+      "e learning",
+      "e learning implementation",
+      "editing",
+      "employee engagement",
+      "executive team",
+      "facilitation",
+      "fundraising",
+      "human centered design",
+      "human resources",
+      "international development",
+      "international relations",
+      "leadership",
+      "leadership development",
+      "management",
+      "marketing",
+      "mentoring",
+      "ngos",
+      "non governmental organizations",
+      "non profits",
+      "nonprofit organizations",
+      "nonprofits",
+      "operational planning",
+      "policy analysis",
+      "program evaluation",
+      "programme design",
+      "public policy",
+      "public speaking",
+      "research",
+      "social entrepreneurship",
+      "social media",
+      "social media marketing",
+      "strategic planning",
+      "strategy",
+      "training",
+      "volunteer management",
+      "webinar development",
+      "writing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states",
+      "united kingdom",
+      "india"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sorcero",
+          "size": "51-200",
+          "id": "H1FtE262xtdQITABrRRUUATGtA5a",
+          "founded": 2018,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1301 k street northwest",
+            "address_line_2": null,
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/sorceroai",
+          "linkedin_id": "27143444",
+          "facebook_url": "facebook.com/sorceroai",
+          "twitter_url": null,
+          "website": "sorcero.com"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": null,
+        "start_date": "2018-04",
+        "title": {
+          "name": "chief executive officer & co-founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "chief",
+          "size": "51-200",
+          "id": "vJNt9vylNvRNIUaL20AnZgCIUQ65",
+          "founded": 2019,
+          "industry": "professional training & coaching",
+          "industry_v2": "think tanks",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "13 east 19th street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/joinchief",
+          "linkedin_id": "11864448",
+          "facebook_url": "facebook.com/joinchiefnow",
+          "twitter_url": null,
+          "website": "chief.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-08",
+        "title": {
+          "name": "member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ecoamerica",
+          "size": "11-50",
+          "id": "CMJZfM3Oi3cpUSOHOs7BtwtJPf1o",
+          "founded": 2006,
+          "industry": "environmental services",
+          "industry_v2": "environmental services",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1730 rhode island avenue northwest",
+            "address_line_2": "suite 200",
+            "postal_code": "20036",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/ecoamerica",
+          "linkedin_id": "125544",
+          "facebook_url": "facebook.com/ecoamerica",
+          "twitter_url": "twitter.com/ecoamerica",
+          "website": "ecoamerica.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "member board of directors",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "chief",
+          "size": "51-200",
+          "id": "vJNt9vylNvRNIUaL20AnZgCIUQ65",
+          "founded": 2019,
+          "industry": "professional training & coaching",
+          "industry_v2": "think tanks",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "13 east 19th street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/joinchief",
+          "linkedin_id": "11864448",
+          "facebook_url": "facebook.com/joinchiefnow",
+          "twitter_url": null,
+          "website": "chief.com"
+        },
+        "location_names": [],
+        "end_date": "2022-05",
+        "start_date": "2021-04",
+        "title": {
+          "name": "founding member",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "edmund hillary fellowship (ehf)",
+          "size": "1-10",
+          "id": "bs9mB3nxkzU4iu75Ygelaw7LrLd2",
+          "founded": 2016,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "auckland, auckland, new zealand",
+            "locality": "auckland",
+            "region": "auckland",
+            "metro": null,
+            "country": "new zealand",
+            "continent": "oceania",
+            "street_address": "101 pakenham street west",
+            "address_line_2": null,
+            "postal_code": "1010",
+            "geo": "-36.84,174.75"
+          },
+          "linkedin_url": "linkedin.com/company/edmund-hillary-fellowship-ehf-",
+          "linkedin_id": "15196417",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ehf.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-10",
+        "title": {
+          "name": "edmund hillary global impact fellow",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mindshare, inc.",
+          "size": "1-10",
+          "id": "fWP57BExAoSyByZqhQcDJAWeWcyT",
+          "founded": 1997,
+          "industry": "civic & social organization",
+          "industry_v2": "civic and social organizations",
+          "location": {
+            "name": "majadahonda, community of madrid, spain",
+            "locality": "majadahonda",
+            "region": "community of madrid",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.46,-3.86"
+          },
+          "linkedin_url": "linkedin.com/company/mindshare-inc.",
+          "linkedin_id": "10939647",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mindsharenetwork.org"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2019-12",
+        "start_date": "2019-03",
+        "title": {
+          "name": "member i class of 2019",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "atlas corps",
+          "size": "11-50",
+          "id": "xpVLCloYfhMKgWdgmn0iSA4NPN03",
+          "founded": 2006,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1100 13th street northwest",
+            "address_line_2": "suite 800",
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/school/atlascorps",
+          "linkedin_id": "98804",
+          "facebook_url": "facebook.com/atlascorps",
+          "twitter_url": "twitter.com/atlascorps",
+          "website": "atlascorps.org"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2018-02",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "s m sehgal foundation",
+          "size": "51-200",
+          "id": "yyCyqX0FLhlYVzCU3exM6QqGrAw7",
+          "founded": 1999,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "smaspur, haryana, india",
+            "locality": "smaspur",
+            "region": "haryana",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": "plot no. 34 sector 44",
+            "address_line_2": null,
+            "postal_code": "122003",
+            "geo": "28.41,76.98"
+          },
+          "linkedin_url": "linkedin.com/company/sehgal-foundation",
+          "linkedin_id": "1997620",
+          "facebook_url": "facebook.com/smsfpage",
+          "twitter_url": null,
+          "website": "smsfoundation.org"
+        },
+        "location_names": [
+          "gurgaon, haryana, india",
+          "gurugram, haryana, india"
+        ],
+        "end_date": "2015-01",
+        "start_date": "2014-05",
+        "title": {
+          "name": "digital transformation consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "atlas corps",
+          "size": "11-50",
+          "id": "xpVLCloYfhMKgWdgmn0iSA4NPN03",
+          "founded": 2006,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1100 13th street northwest",
+            "address_line_2": "suite 800",
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/school/atlascorps",
+          "linkedin_id": "98804",
+          "facebook_url": "facebook.com/atlascorps",
+          "twitter_url": "twitter.com/atlascorps",
+          "website": "atlascorps.org"
+        },
+        "location_names": [
+          "washington, district of columbia, united states"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2012-08",
+        "title": {
+          "name": "fellow and training manager",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "20:20 msl",
+          "size": "51-200",
+          "id": "lOyGoOs3Bc3oVsJxmPC26wpo6Kln",
+          "founded": null,
+          "industry": "public relations and communications",
+          "industry_v2": "public relations and communications services",
+          "location": {
+            "name": "hyderabad, telangana, india",
+            "locality": "hyderabad",
+            "region": "telangana",
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "17.36,78.46"
+          },
+          "linkedin_url": "linkedin.com/company/20-20-msl",
+          "linkedin_id": "2014279",
+          "facebook_url": "facebook.com/2020msl",
+          "twitter_url": "twitter.com/2020msl",
+          "website": "2020msl.com"
+        },
+        "location_names": [
+          "new delhi, delhi, india",
+          "delhi, delhi, india"
+        ],
+        "end_date": "2012-07",
+        "start_date": "2012-04",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "what's up bharat?",
+          "size": "1-10",
+          "id": "hqdsvDOlKJ06Zokisgh6RwmaGoUH",
+          "founded": 2011,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "india",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "india",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/what's-up-bharat-",
+          "linkedin_id": "2295300",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "whatsupbharat.in"
+        },
+        "location_names": [
+          "new delhi, delhi, india",
+          "delhi, delhi, india"
+        ],
+        "end_date": "2012-03",
+        "start_date": "2011-08",
+        "title": {
+          "name": "managing director- strategy",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "stanford university graduate school of business",
+          "type": "post-secondary institution",
+          "id": "vyAdVAemUJ-lNqBEs4BXfg_0000",
+          "location": {
+            "name": "belmont, california, united states",
+            "locality": "belmont",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/stanford-graduate-school-of-business",
+          "facebook_url": "facebook.com/stanford",
+          "twitter_url": "twitter.com/stanford",
+          "linkedin_id": "1791",
+          "website": "gsb.stanford.edu",
+          "domain": "stanford.edu"
+        },
+        "degrees": [],
+        "start_date": "2018-01",
+        "end_date": "2018",
+        "majors": [
+          "entrepreneurship"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "institute of development studies",
+          "type": "post-secondary institution",
+          "id": "gG6dc6iR27g1fCk-uE2TZg_0000",
+          "location": {
+            "name": "brighton, england, united kingdom",
+            "locality": "brighton",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/institute-of-development-studies",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "39073",
+          "website": "ids.ac.uk",
+          "domain": "ids.ac.uk"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2010-01",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "st. stephen's college, delhi",
+          "type": "post-secondary institution",
+          "id": "f8a0C-AijWPAhdXgcF3T8w_0000",
+          "location": {
+            "name": "delhi, delhi, india",
+            "locality": "delhi",
+            "region": "delhi",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/ststephensclg",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "14626375",
+          "website": "ststephens.edu",
+          "domain": "ststephens.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2006-01",
+        "majors": [
+          "history"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "la martiniere for boys, kolkata",
+          "type": "post-secondary institution",
+          "id": "vJxeERrcalxLLF2RdFAWqA_0000",
+          "location": {
+            "name": "kolkata, west bengal, india",
+            "locality": "kolkata",
+            "region": "west bengal",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/lmbcalcutta",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "79511154",
+          "website": "lamartiniereforboys.co.in",
+          "domain": "lamartiniereforboys.co.in"
+        },
+        "degrees": [],
+        "start_date": "1989-01",
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "13847566",
+        "url": "linkedin.com/in/dipanwitadas",
+        "username": "dipanwitadas"
+      },
+      {
+        "network": "facebook",
+        "id": "585860197",
+        "url": "facebook.com/blackdouleur",
+        "username": "blackdouleur"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/dipanwita_d",
+        "username": "dipanwita_d"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/dipanwita-das-77a7794",
+        "username": "dipanwita-das-77a7794"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

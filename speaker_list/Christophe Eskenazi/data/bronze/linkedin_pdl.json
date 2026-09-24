@@ -1,0 +1,598 @@
+{
+  "record_id": "speaker-viennacx-034",
+  "speaker_name": "Christophe Eskenazi",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/christophe-eskenazi/",
+  "scraped_at": "2026-09-18T10:26:03.014879+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "om3XLYCH-S5ZOULsqVIGvQ_0000",
+    "full_name": "christophe eskenazi",
+    "first_name": "christophe",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "e",
+    "last_name": "eskenazi",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/christophe-eskenazi",
+    "linkedin_username": "christophe-eskenazi",
+    "linkedin_id": "110550647",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of it europe",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+    "job_company_name": "biogen",
+    "job_company_website": "biogen.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1978,
+    "job_company_industry": "biotechnology",
+    "job_company_industry_v2": "biotechnology research",
+    "job_company_linkedin_url": "linkedin.com/company/biogen-",
+    "job_company_linkedin_id": "3961",
+    "job_company_facebook_url": "facebook.com/biogen",
+    "job_company_twitter_url": "twitter.com/biogen",
+    "job_company_location_name": "cambridge, massachusetts, united states",
+    "job_company_location_locality": "cambridge",
+    "job_company_location_metro": "boston, massachusetts",
+    "job_company_location_region": "massachusetts",
+    "job_company_location_geo": "42.37,-71.11",
+    "job_company_location_street_address": "225 binney street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "02142",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-11-17",
+    "job_last_verified": "2026-08-19",
+    "job_start_date": "2025-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-19",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adobe experience manager",
+      "agile methodologies",
+      "amazon web services",
+      "artificial intelligence",
+      "b2b marketing",
+      "budget management",
+      "business analysis",
+      "business intelligence",
+      "business process improvement",
+      "business strategy",
+      "cardiology",
+      "change management",
+      "computer system validation",
+      "cross functional team leadership",
+      "customer engagement",
+      "customer relationship management",
+      "cybersecurity",
+      "devops",
+      "digital innovation",
+      "digital marketing",
+      "digital strategy",
+      "english",
+      "foreign languages",
+      "general data protection regulation",
+      "healthcare information technology",
+      "hematology",
+      "immunology",
+      "international project management",
+      "it infrastructure management",
+      "it management",
+      "it outsourcing",
+      "it service management",
+      "it strategy",
+      "itil",
+      "itil implementation",
+      "large scale system integration",
+      "management",
+      "master data management",
+      "mergers and acquisitions",
+      "omni channel marketing",
+      "oncology",
+      "operations management",
+      "order to cash",
+      "patient safety",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "predictive analytics",
+      "process improvement",
+      "product launch",
+      "project management",
+      "rare diseases",
+      "remote patient monitoring",
+      "rems",
+      "sales effectiveness",
+      "salesforce crm analytics",
+      "salesforce marketing cloud",
+      "salesforce.com",
+      "scaled agile framework",
+      "software as a service",
+      "strategy",
+      "tableau",
+      "team management",
+      "tender process",
+      "veeva",
+      "veeva crm",
+      "vendor management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "united states",
+      "france"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland",
+          "baar, zug, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2025-11",
+        "title": {
+          "name": "head of it europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "neuchâtel, neuchâtel, switzerland"
+        ],
+        "end_date": "2025-10",
+        "start_date": "2020-11",
+        "title": {
+          "name": "head of digital and it europe, japan & canada",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celgene",
+          "size": "5001-10000",
+          "id": "fg8PAfQVDTINnwFGlFFb0As6wYPo",
+          "founded": 1986,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "summit, new jersey, united states",
+            "locality": "summit",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "86 morris avenue",
+            "address_line_2": null,
+            "postal_code": "07901",
+            "geo": "40.71,-74.36"
+          },
+          "linkedin_url": "linkedin.com/company/celgene",
+          "linkedin_id": "8348",
+          "facebook_url": "facebook.com/celgene",
+          "twitter_url": "twitter.com/celgene",
+          "website": "celgene.com"
+        },
+        "location_names": [],
+        "end_date": "2020-11",
+        "start_date": "2018-06",
+        "title": {
+          "name": "head of it bms and celgene france",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "upsa",
+          "size": "1001-5000",
+          "id": "4S9MjBBxAEw3xQngEds5EwDoIKeC",
+          "founded": 1935,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rueil-malmaison, île-de-france, france",
+            "locality": "rueil-malmaison",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "3 rue joseph monier",
+            "address_line_2": null,
+            "postal_code": "92500",
+            "geo": "48.87,2.18"
+          },
+          "linkedin_url": "linkedin.com/company/upsa-france",
+          "linkedin_id": "8179307",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "upsa.com"
+        },
+        "location_names": [
+          "rueil-malmaison, île-de-france, france"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2016-04",
+        "title": {
+          "name": "head of it",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "chester, england, united kingdom"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2008-04",
+        "title": {
+          "name": "head of infrastructure and operations emea",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb uk & ireland",
+          "size": "1001-5000",
+          "id": "Q21Nv0J0op4wMhOC55CVZwk6udqA",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "hillingdon, england, united kingdom",
+            "locality": "hillingdon",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub8 1dh",
+            "geo": "51.51,-0.48"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb-uk-ireland",
+          "linkedin_id": "93848929",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "chester, england, united kingdom"
+        ],
+        "end_date": "2008-04",
+        "start_date": "2003-11",
+        "title": {
+          "name": "international it project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "liverpool john moores university",
+          "type": "post-secondary institution",
+          "id": "RQEuTS1CwjLU0oR1ThnZzw_0000",
+          "location": {
+            "name": "liverpool, england, united kingdom",
+            "locality": "liverpool",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ljmu",
+          "facebook_url": "facebook.com/ljmuofficial",
+          "twitter_url": "twitter.com/ljmu",
+          "linkedin_id": "12754",
+          "website": "ljmu.ac.uk",
+          "domain": "ljmu.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2002-01-01",
+        "end_date": "2003",
+        "majors": [
+          "management",
+          "multimedia"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of wales",
+          "type": "post-secondary institution",
+          "id": "xUDwrdv4--2QRL3XzGKu1Q_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-wales",
+          "facebook_url": "facebook.com/universityofwales",
+          "twitter_url": "twitter.com/uniwales",
+          "linkedin_id": "318809",
+          "website": "wales.ac.uk",
+          "domain": "wales.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2000-01-01",
+        "end_date": "2002",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université nice sophia antipolis",
+          "type": "post-secondary institution",
+          "id": "AW0h7K1I0rx6Rgb6Q11YFg_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/school/université-nice-sophia-antipolis",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "80063785",
+          "website": "univ-cotedazur.fr",
+          "domain": "univ-cotedazur.fr"
+        },
+        "degrees": [],
+        "start_date": "1998",
+        "end_date": "2000",
+        "majors": [
+          "telecommunications",
+          "engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université côte d'azur",
+          "type": "post-secondary institution",
+          "id": "yO2T4MJpGx9xLQghnppA5w_0000",
+          "location": {
+            "name": "nice, provence-alpes-côte d'azur, france",
+            "locality": "nice",
+            "region": "provence-alpes-côte d'azur",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/univ_cotedazur",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10826935",
+          "website": "univ-cotedazur.fr",
+          "domain": "univ-cotedazur.fr"
+        },
+        "degrees": [],
+        "start_date": "1998-01-01",
+        "end_date": "2000",
+        "majors": [
+          "engineering",
+          "telecommunications"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée carnot",
+          "type": "post-secondary institution",
+          "id": "xlBlnnx89pBt5PM1Ptlfog_0000",
+          "location": {
+            "name": "dijon, bourgogne-franche-comté, france",
+            "locality": "dijon",
+            "region": "bourgogne-franche-comté",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lyceecarnot",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18549934",
+          "website": "lyc21-carnot.ac-dijon.fr",
+          "domain": "ac-dijon.fr"
+        },
+        "degrees": [],
+        "start_date": "1997-09",
+        "end_date": "1998-06",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "lycée carnot",
+          "type": "post-secondary institution",
+          "id": "xlBlnnx89pBt5PM1Ptlfog_0000",
+          "location": {
+            "name": "dijon, bourgogne-franche-comté, france",
+            "locality": "dijon",
+            "region": "bourgogne-franche-comté",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lyceecarnot",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18549934",
+          "website": "lyc21-carnot.ac-dijon.fr",
+          "domain": "ac-dijon.fr"
+        },
+        "degrees": [],
+        "start_date": "1997-01",
+        "end_date": "1998-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "110550647",
+        "url": "linkedin.com/in/christophe-eskenazi",
+        "username": "christophe-eskenazi"
+      },
+      {
+        "network": "pinterest",
+        "id": null,
+        "url": "pinterest.com/christopheesken",
+        "username": "christopheesken"
+      },
+      {
+        "network": "linkedin",
+        "id": "110550647",
+        "url": "linkedin.com/in/christophe-eskenazi-09b03431",
+        "username": "christophe-eskenazi-09b03431"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

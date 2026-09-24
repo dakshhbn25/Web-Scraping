@@ -1,0 +1,217 @@
+{
+  "record_id": "speaker-dubrovnik-005",
+  "speaker_name": "Gemma Malla Salomó",
+  "linkedin_url": "https://www.linkedin.com/in/gemma-malla-salom%C3%B3/",
+  "likelihood": 9,
+  "full_name": "gemma salomó",
+  "job_title": "global omnichannel & ecommerce associate director chc franchise",
+  "industry": "pharmaceuticals",
+  "current_company": "angelini pharma",
+  "current_company_website": "angelinipharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "spain",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "analytical skills",
+    "brain health",
+    "business english",
+    "business strategy",
+    "collaborative leadership",
+    "communication",
+    "consulting mindset",
+    "cross functional team leadership",
+    "customer insight",
+    "digital health",
+    "digital innovation",
+    "digital project management",
+    "digital strategy",
+    "digital transformation",
+    "economics",
+    "english",
+    "estrategia digital",
+    "fast moving consumer goods",
+    "female leadership",
+    "french",
+    "healthcare",
+    "healthcare management",
+    "hr consulting",
+    "innovation",
+    "inspirational leadership",
+    "keynote speaking",
+    "management",
+    "market research",
+    "marketing digital",
+    "marketing strategy",
+    "microsoft excel",
+    "microsoft office",
+    "microsoft powerpoint",
+    "negotiation",
+    "open innovation",
+    "oratoria",
+    "pharma",
+    "powerpoint",
+    "problem solving",
+    "project management",
+    "project planning",
+    "public health",
+    "public speaking",
+    "redes sociales",
+    "social media",
+    "spanish",
+    "sql",
+    "strategic consulting",
+    "strategic thinking",
+    "talent acquisition",
+    "team management",
+    "teamwork",
+    "trabajo en equipo",
+    "transformational leadership",
+    "women's leadership"
+  ],
+  "interests": [
+    "esquí",
+    "karate (cinturón negro)",
+    "navegar",
+    "sozialdienste",
+    "viajar"
+  ],
+  "experience": [
+    {
+      "title": "global omnichannel & ecommerce associate director chc franchise",
+      "company": "angelini pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "coordinator of postgraduate program at the university of barcelona",
+      "company": "universitat de barcelona",
+      "company_industry": "research",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "business unit head ophthalmology",
+      "company": "angelini pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-09",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "head of digital innovation iberia",
+      "company": "angelini pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-07",
+      "end_date": "2026-03",
+      "is_primary": false
+    },
+    {
+      "title": "lecturer at esade",
+      "company": "esade",
+      "company_industry": "higher education",
+      "start_date": "2020-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "digital medicines manager hcps",
+      "company": "angelini pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-04",
+      "end_date": "2021-07",
+      "is_primary": false
+    },
+    {
+      "title": "experienced senior strategy consultant",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2015-05",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "summer intern",
+      "company": "desigual",
+      "company_industry": "apparel & fashion",
+      "start_date": "2014-07",
+      "end_date": "2014-08",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "ejoventut",
+      "company_industry": "management consulting",
+      "start_date": "2012-09",
+      "end_date": "2015-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "sda bocconi",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-09",
+      "end_date": null
+    },
+    {
+      "school": "talent garden",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-05",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "talent garden",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021-12"
+    },
+    {
+      "school": "sda bocconi",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": null
+    },
+    {
+      "school": "city university of hong kong",
+      "majors": [
+        "business economics",
+        "chinese"
+      ],
+      "degrees": [],
+      "start_date": "2015",
+      "end_date": null
+    },
+    {
+      "school": "tcapu school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012",
+      "end_date": "2015"
+    },
+    {
+      "school": "esade",
+      "majors": [],
+      "degrees": [
+        "bachelor of business administration",
+        "bachelors"
+      ],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "ipsi",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

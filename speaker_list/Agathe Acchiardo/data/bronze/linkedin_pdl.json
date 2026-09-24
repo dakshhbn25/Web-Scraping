@@ -1,0 +1,690 @@
+{
+  "record_id": "speaker-dubrovnik-123",
+  "speaker_name": "Agathe Acchiardo",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/agatheacchiardo/",
+  "scraped_at": "2026-09-18T10:23:55.143072+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "84ix2PG0iWBXCwqa5EL00g_0000",
+    "full_name": "agathe acchiardo",
+    "first_name": "agathe",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "acchiardo",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/agatheacchiardo",
+    "linkedin_username": "agatheacchiardo",
+    "linkedin_id": "89912075",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "research",
+    "job_title": "founder & director",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director",
+      "owner"
+    ],
+    "job_company_id": "tg8nNkzgdlX0kUZ1GY7rsQiNn79s",
+    "job_company_name": "think next",
+    "job_company_website": "thinknext.uk",
+    "job_company_size": "1-10",
+    "job_company_founded": 2018,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/thinknext-uk",
+    "job_company_linkedin_id": "40662609",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": "15 bowling green lane",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "ec1r 0bd",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-06-01",
+    "job_last_verified": "2026-08-17",
+    "job_start_date": "2018-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-17",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "affordability",
+      "business analysis",
+      "business model innovation",
+      "business planning",
+      "business strategy",
+      "change management",
+      "coaching",
+      "consulting",
+      "cross functional team leadership",
+      "cultural awareness",
+      "customer segmentation strategy",
+      "design thinking",
+      "emerging markets",
+      "foresight",
+      "future trends",
+      "futures thinking",
+      "ideation",
+      "innovation",
+      "innovation consulting",
+      "innovation management",
+      "international business consulting",
+      "kpi implementation",
+      "leadership",
+      "management",
+      "market research",
+      "organizational design",
+      "organizational development",
+      "patient insights",
+      "people development",
+      "people management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "product launch",
+      "project implementation",
+      "project planning",
+      "public speaking",
+      "qualitative and quantitative research methodologies",
+      "qualitative market research",
+      "qualitative research",
+      "quantitative research",
+      "sales effectiveness",
+      "scenario analysis",
+      "scenario planning",
+      "stakeholder engagement",
+      "strategic growth initiatives",
+      "strategic insights",
+      "strategic thinking",
+      "strategy consulting",
+      "team motivation",
+      "training",
+      "training needs analysis",
+      "trend analysis",
+      "trend research"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain",
+      "united kingdom",
+      "russia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "think next",
+          "size": "1-10",
+          "id": "tg8nNkzgdlX0kUZ1GY7rsQiNn79s",
+          "founded": 2018,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "15 bowling green lane",
+            "address_line_2": null,
+            "postal_code": "ec1r 0bd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/thinknext-uk",
+          "linkedin_id": "40662609",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "thinknext.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2018-05",
+        "title": {
+          "name": "founder & director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "foresight factory",
+          "size": "51-200",
+          "id": "4pamSaCMyyNM8izL1uXXuQBbY8hc",
+          "founded": 1996,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ec1v 9dd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/foresight-factory",
+          "linkedin_id": "44318",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/foresightfact",
+          "website": "foresightfactory.co"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2017-04",
+        "title": {
+          "name": "client engagement director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "foresight factory",
+          "size": "51-200",
+          "id": "4pamSaCMyyNM8izL1uXXuQBbY8hc",
+          "founded": 1996,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ec1v 9dd",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/foresight-factory",
+          "linkedin_id": "44318",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/foresightfact",
+          "website": "foresightfactory.co"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2016-04",
+        "title": {
+          "name": "senior account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "free-lance",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2015-11",
+        "start_date": "2014-10",
+        "title": {
+          "name": "consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2014-07",
+        "start_date": "2011-12",
+        "title": {
+          "name": "head of commercial excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "moscow, moscow, russia"
+        ],
+        "end_date": "2011-12",
+        "start_date": "2010-11",
+        "title": {
+          "name": "change implementation lead",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2010-05",
+        "start_date": "2009-06",
+        "title": {
+          "name": "regional sfe manager asiapac",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2009-05",
+        "start_date": "2008-06",
+        "title": {
+          "name": "segmentation and targeting specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2008-05",
+        "start_date": "2007-06",
+        "title": {
+          "name": "analyst projects sales force effectiveness (sfe)",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [],
+        "end_date": "2007-03",
+        "start_date": "2006-06",
+        "title": {
+          "name": "analyst sales force effectiveness (sfe)",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogaran",
+          "size": "201-500",
+          "id": "g63U0veAtR9Hy8RsVL7VXwvUGxBd",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "colombes, île-de-france, france",
+            "locality": "colombes",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "15 boulevard charles de gaulle",
+            "address_line_2": null,
+            "postal_code": "92700",
+            "geo": "48.91,2.25"
+          },
+          "linkedin_url": "linkedin.com/company/biogaran",
+          "linkedin_id": "26742449",
+          "facebook_url": "facebook.com/biogaran",
+          "twitter_url": null,
+          "website": "biogaran.fr"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2006-04",
+        "start_date": "2005-08",
+        "title": {
+          "name": "junior associate, department of strategic projects & training",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "entry"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "université paris nanterre",
+          "type": "post-secondary institution",
+          "id": "CM6jKxBpqTzFgDfC1pKegw_0000",
+          "location": {
+            "name": "nanterre, île-de-france, france",
+            "locality": "nanterre",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-paris-nanterre",
+          "facebook_url": "facebook.com/universite.paris.nanterre",
+          "twitter_url": "twitter.com/uparisnanterre",
+          "linkedin_id": "352250",
+          "website": "parisnanterre.fr",
+          "domain": "parisnanterre.fr"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2005",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université paris nanterre",
+          "type": "post-secondary institution",
+          "id": "CM6jKxBpqTzFgDfC1pKegw_0000",
+          "location": {
+            "name": "nanterre, île-de-france, france",
+            "locality": "nanterre",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universite-paris-nanterre",
+          "facebook_url": "facebook.com/universite.paris.nanterre",
+          "twitter_url": "twitter.com/uparisnanterre",
+          "linkedin_id": "352250",
+          "website": "parisnanterre.fr",
+          "domain": "parisnanterre.fr"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2004-12",
+        "majors": [
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "essec business school",
+          "type": "post-secondary institution",
+          "id": "VODka2ZHqnNsE--dCeq0Mg_0000",
+          "location": {
+            "name": "cergy, île-de-france, france",
+            "locality": "cergy",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/essec-business-school",
+          "facebook_url": "facebook.com/essec",
+          "twitter_url": "twitter.com/essec",
+          "linkedin_id": "11415",
+          "website": "essec.edu",
+          "domain": "essec.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2007",
+        "majors": [
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "89912075",
+        "url": "linkedin.com/in/agatheacchiardo",
+        "username": "agatheacchiardo"
+      },
+      {
+        "network": "linkedin",
+        "id": "89912075",
+        "url": "linkedin.com/in/agathe-acchiardo-54b14026",
+        "username": "agathe-acchiardo-54b14026"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

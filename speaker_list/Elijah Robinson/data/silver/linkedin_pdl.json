@@ -1,0 +1,144 @@
+{
+  "record_id": "speaker-dubrovnik-015",
+  "speaker_name": "Elijah Robinson",
+  "linkedin_url": "https://www.linkedin.com/in/elijah-e-robinson/",
+  "likelihood": 9,
+  "full_name": "elijah robinson",
+  "job_title": "director, omnichannel content excellence and delivery global brands",
+  "industry": "pharmaceuticals",
+  "current_company": "astrazeneca",
+  "current_company_website": "astrazeneca.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "clinical development",
+    "clinical research",
+    "clinical trials",
+    "cro",
+    "digital marketing",
+    "glp",
+    "laboratory",
+    "life sciences",
+    "lifesciences",
+    "pharmaceutical industry",
+    "pharmaceutics",
+    "program management",
+    "quality assurance",
+    "sop",
+    "standard operating procedure",
+    "toxicology",
+    "training",
+    "validation"
+  ],
+  "interests": [
+    "children",
+    "civil rights and social action",
+    "education",
+    "environment",
+    "health",
+    "human rights",
+    "politics",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "director, omnichannel content excellence and delivery global brands",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global marketing manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-12",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior project manager, personal promo hiv treatment marketing",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2020-12",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "product manager, hcp promo, hiv treatment marketing",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2019-05",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "community liaison",
+      "company": "gilead sciences",
+      "company_industry": "biotechnology",
+      "start_date": "2017-08",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "program manager of infectious disease",
+      "company": "unity health care",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-05",
+      "end_date": "2017-08",
+      "is_primary": false
+    },
+    {
+      "title": "portfolio manager",
+      "company": "decypher",
+      "company_industry": "information technology and services",
+      "start_date": "2012-12",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "dose formulation and analysis manager",
+      "company": "avanza laboratories",
+      "company_industry": "research",
+      "start_date": "2012-05",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "dose formulations supervisor",
+      "company": "covance",
+      "company_industry": "research",
+      "start_date": "2006-08",
+      "end_date": "2012-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "arizona state university",
+      "majors": [],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "virginia state university",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2006"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "record_id": "speaker-medical-011",
+  "speaker_name": "Kate Bradford",
+  "linkedin_url": "https://www.linkedin.com/in/kate-bradford-a9346b4/",
+  "likelihood": 9,
+  "full_name": "kate bradford",
+  "job_title": "global head of medical training and field capabilities",
+  "industry": "biotechnology",
+  "current_company": "alexion pharmaceuticals, inc.",
+  "current_company_website": "alexion.com",
+  "current_company_industry": "biotechnology",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agile methodologies",
+    "artificial intelligence",
+    "biotechnology",
+    "building organizational capability",
+    "business development",
+    "business process improvement",
+    "cardiology",
+    "clinical development",
+    "clinical research",
+    "clinical trials",
+    "competitive strategies",
+    "compliance",
+    "crm",
+    "diabetes",
+    "drug development",
+    "employee learning and development",
+    "field medical",
+    "gastroenterology",
+    "global navigation satellite system",
+    "irpcs",
+    "leadership",
+    "life sciences",
+    "management",
+    "market access",
+    "medical affairs",
+    "medical writing",
+    "neurology",
+    "new market expansion",
+    "oncology",
+    "operations management",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "product launch",
+    "sailing",
+    "sales effectiveness",
+    "seamanship",
+    "skiing",
+    "strategic planning",
+    "strategy",
+    "therapeutic areas",
+    "training"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of medical training and field capabilities",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2024-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of launch & field excellence, medical international & japan",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2022-03",
+      "end_date": "2024-05",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical launch excellence and medical advisors for clinical trials",
+      "company": "alexion pharmaceuticals, inc.",
+      "company_industry": "biotechnology",
+      "start_date": "2021-08",
+      "end_date": "2022-03",
+      "is_primary": false
+    },
+    {
+      "title": "head of international field based medicine",
+      "company": "arena pharmaceuticals, inc.",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2021-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of field effectiveness, international",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2018-06",
+      "end_date": "2019-08",
+      "is_primary": false
+    },
+    {
+      "title": "lead field medical effectiveness, europe",
+      "company": "shire",
+      "company_industry": "biotechnology",
+      "start_date": "2017-09",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical learning and development, global (ex us)",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2016-06",
+      "end_date": "2017-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical development, insights and analytics",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2015-12",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "head, msl excellence, eu",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2013-09",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs",
+      "company": "biogen",
+      "company_industry": "biotechnology",
+      "start_date": "2012-01",
+      "end_date": "2013-08",
+      "is_primary": false
+    },
+    {
+      "title": "uk medical science liaison manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-06",
+      "end_date": "2012-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-06",
+      "end_date": "2010-05",
+      "is_primary": false
+    },
+    {
+      "title": "associate lecturer",
+      "company": "southampton college",
+      "company_industry": "education management",
+      "start_date": "2007-09",
+      "end_date": "2009-05",
+      "is_primary": false
+    },
+    {
+      "title": "secondary care specialist",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003",
+      "end_date": "2007",
+      "is_primary": false
+    },
+    {
+      "title": "operations director",
+      "company": "martin ward anderson",
+      "company_industry": null,
+      "start_date": "1998",
+      "end_date": "2002",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of southampton",
+      "majors": [
+        "pharmacology",
+        "physiology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1993-01",
+      "end_date": "1996"
+    },
+    {
+      "school": "university of southampton",
+      "majors": [
+        "biochemistry",
+        "pharmacology",
+        "physiology"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors",
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "1989-01",
+      "end_date": "1992"
+    },
+    {
+      "school": "the king’s school, worcester",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1987-01",
+      "end_date": "1989"
+    },
+    {
+      "school": "the king’s school, worcester",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1985",
+      "end_date": "1990"
+    },
+    {
+      "school": "ysgol ardudwy harlech",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

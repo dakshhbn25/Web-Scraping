@@ -1,0 +1,579 @@
+{
+  "record_id": "speaker-medical-014",
+  "speaker_name": "Emeline Blin Massonneau",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/emelineblin/",
+  "scraped_at": "2026-09-18T10:24:30.161038+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "W5tPFnyJtq8w-MwcoEK7EQ_0000",
+    "full_name": "emeline massonneau",
+    "first_name": "emeline",
+    "middle_initial": "b",
+    "middle_name": "blin",
+    "last_initial": "m",
+    "last_name": "massonneau",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/emelineblin",
+    "linkedin_username": "emelineblin",
+    "linkedin_id": "70549234",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "npp / launch digital excellence lead - global portfolio division dd & t",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+    "job_company_name": "takeda",
+    "job_company_website": "takeda.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1781,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+    "job_company_linkedin_id": "5482",
+    "job_company_facebook_url": "facebook.com/takedapharma",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "tokyo, japan",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokyo",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-09-01",
+    "job_start_date": "2025-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "france",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2020-03-11",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business strategy",
+      "communication marketing",
+      "crm",
+      "french",
+      "gestion de projet",
+      "international marketing",
+      "lancement de produit",
+      "management",
+      "management marketing",
+      "market analysis",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "product management",
+      "project management",
+      "responsable produit",
+      "sales management",
+      "sales manager",
+      "vente",
+      "ventes"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "france",
+      "singapore"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-06",
+        "title": {
+          "name": "npp / launch digital excellence lead - global portfolio division dd & t",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": "2025-08",
+        "start_date": "2021-10",
+        "title": {
+          "name": "omnichannel franchise lead - europe & canada (gastroenterology)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2019-09",
+        "title": {
+          "name": "head of marketing - gastroenterology fr",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2019-09",
+        "start_date": "2018-02",
+        "title": {
+          "name": "head of marketing - urology fr",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": "2018-02",
+        "start_date": "2017-03",
+        "title": {
+          "name": "regional brand manager, emerging markets",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": "2017-04",
+        "start_date": "2015-05",
+        "title": {
+          "name": "project manager established products, emerging markets",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ims health relationship management",
+          "size": "10001+",
+          "id": "GyLvGVN0qHfmg7xnW5E0KAV6ySxK",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "paris la défense, île-de-france, france",
+            "locality": "paris la défense",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "17 bis place des reflets tsa 64567",
+            "address_line_2": null,
+            "postal_code": "92099",
+            "geo": "48.89,2.23"
+          },
+          "linkedin_url": "linkedin.com/company/ims-health-relationship-management",
+          "linkedin_id": "3652",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium",
+          "faubourg de bruxelles, wallonia, belgium"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2012-08",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ims health relationship management",
+          "size": "10001+",
+          "id": "GyLvGVN0qHfmg7xnW5E0KAV6ySxK",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "paris la défense, île-de-france, france",
+            "locality": "paris la défense",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "17 bis place des reflets tsa 64567",
+            "address_line_2": null,
+            "postal_code": "92099",
+            "geo": "48.89,2.23"
+          },
+          "linkedin_url": "linkedin.com/company/ims-health-relationship-management",
+          "linkedin_id": "3652",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-07",
+        "start_date": "2011-07",
+        "title": {
+          "name": "marketing & communication manager apac",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ge healthcare",
+          "size": "10001+",
+          "id": "DBYhNKWmHB6591QiGayAbwjAaJ0D",
+          "founded": 1892,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "chicago, illinois, united states",
+            "locality": "chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "41.87,-87.70"
+          },
+          "linkedin_url": "linkedin.com/company/gehealthcare",
+          "linkedin_id": "1016",
+          "facebook_url": "facebook.com/gehealthcare",
+          "twitter_url": "twitter.com/gehealthcare",
+          "website": "gehealthcare.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2011-06",
+        "start_date": "2010-09",
+        "title": {
+          "name": "int marketing leader one ge",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "kedge business school",
+          "type": "post-secondary institution",
+          "id": "K9e8kYUdUv2qNMxlO2sIBw_0000",
+          "location": {
+            "name": "talence, nouvelle-aquitaine, france",
+            "locality": "talence",
+            "region": "nouvelle-aquitaine",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kedge-business-school",
+          "facebook_url": "facebook.com/kedgebs",
+          "twitter_url": "twitter.com/kedgebs",
+          "linkedin_id": "2757210",
+          "website": "kedge.edu",
+          "domain": "kedge.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of hull",
+          "type": "post-secondary institution",
+          "id": "YkQUazgBFl8UOonMb1GC4Q_0000",
+          "location": {
+            "name": "kingston upon hull, england, united kingdom",
+            "locality": "kingston upon hull",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-hull",
+          "facebook_url": "facebook.com/universityofhull",
+          "twitter_url": "twitter.com/uniofhull",
+          "linkedin_id": "166641",
+          "website": "hull.ac.uk",
+          "domain": "hull.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2010",
+        "majors": [
+          "international business",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad rey juan carlos",
+          "type": "post-secondary institution",
+          "id": "z6V84rlqoXmoAMCAFaSBtw_0000",
+          "location": {
+            "name": "móstoles, community of madrid, spain",
+            "locality": "móstoles",
+            "region": "community of madrid",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-rey-juan-carlos",
+          "facebook_url": "facebook.com/universidadreyjuancarlos",
+          "twitter_url": "twitter.com/urjc",
+          "linkedin_id": "21522",
+          "website": "urjc.es",
+          "domain": "urjc.es"
+        },
+        "degrees": [],
+        "start_date": "2007-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "70549234",
+        "url": "linkedin.com/in/emelineblin",
+        "username": "emelineblin"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

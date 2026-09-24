@@ -1,0 +1,513 @@
+{
+  "record_id": "speaker-dubrovnik-106",
+  "speaker_name": "Aditya Kudumala",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/akudumala/",
+  "scraped_at": "2026-09-18T10:23:20.429862+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "1PCr7b4NBsH-Kpll89CGsw_0000",
+    "full_name": "aditya kudumala",
+    "first_name": "aditya",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "kudumala",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/akudumala",
+    "linkedin_username": "akudumala",
+    "linkedin_id": "7088487",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/akudumala",
+    "twitter_username": "akudumala",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "management consulting",
+    "job_title": "principal (partner)",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "partner"
+    ],
+    "job_company_id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+    "job_company_name": "deloitte",
+    "job_company_website": "deloitte.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1845,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/deloitte",
+    "job_company_linkedin_id": "1038",
+    "job_company_facebook_url": "facebook.com/deloitte",
+    "job_company_twitter_url": "twitter.com/deloitte",
+    "job_company_location_name": "new york, new york, united states",
+    "job_company_location_locality": "new york",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new york",
+    "job_company_location_geo": "40.71,-73.99",
+    "job_company_location_street_address": "30 rockefeller plaza",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "10112",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2016-12-25",
+    "job_last_verified": "2026-09-04",
+    "job_start_date": "2009-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": true,
+    "location_region": true,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-04",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "children",
+      "economic empowerment",
+      "education",
+      "environment",
+      "health",
+      "music",
+      "poverty alleviation",
+      "reading",
+      "science and technology",
+      "sports",
+      "travel"
+    ],
+    "skills": [
+      "acquisition integration",
+      "analysis",
+      "analytics",
+      "artificial intelligence",
+      "biosimilars",
+      "biotechnology industry",
+      "business analytics",
+      "business development",
+      "business insights",
+      "business intelligence",
+      "business planning",
+      "business process",
+      "business process improvement",
+      "business strategy",
+      "business transformation",
+      "consulting",
+      "corporate finance",
+      "cross functional team leadership",
+      "data warehousing",
+      "drug development",
+      "drug discovery",
+      "entrepreneurship",
+      "governance",
+      "gxp",
+      "increase productivity",
+      "information management",
+      "innovation",
+      "integration",
+      "it enabled business transformation",
+      "it strategy",
+      "leadership",
+      "lifesciences",
+      "management",
+      "management consulting",
+      "operating models",
+      "outsourcing",
+      "pharmaceutical industry",
+      "pharmacovigilance",
+      "pmo",
+      "process improvement",
+      "product strategy",
+      "r&d experience",
+      "roi strategies",
+      "sdlc",
+      "software development life cycle",
+      "start up ventures",
+      "strategic roadmaps",
+      "strategy",
+      "value propositions"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "deloitte",
+          "size": "10001+",
+          "id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+          "founded": 1845,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 rockefeller plaza",
+            "address_line_2": null,
+            "postal_code": "10112",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/deloitte",
+          "linkedin_id": "1038",
+          "facebook_url": "facebook.com/deloitte",
+          "twitter_url": "twitter.com/deloitte",
+          "website": "deloitte.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": null,
+        "start_date": "2009-06",
+        "title": {
+          "name": "principal (partner)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "syracuse university",
+          "size": "1001-5000",
+          "id": "46TUe82Iq82B9Rnb6qrmMwWx36NA",
+          "founded": 1870,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "syracuse, new york, united states",
+            "locality": "syracuse",
+            "region": "new york",
+            "metro": "syracuse, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "900 south crouse avenue",
+            "address_line_2": null,
+            "postal_code": "13244",
+            "geo": "43.02,-76.11"
+          },
+          "linkedin_url": "linkedin.com/school/syracuse-university",
+          "linkedin_id": "166228",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/whitmanatsu",
+          "website": "syracuse.edu"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2017-08",
+        "title": {
+          "name": "advisory board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "advisor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "jiva discovery",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2013-08",
+        "start_date": "2011-12",
+        "title": {
+          "name": "co-founder and chief executive officer",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bearingpoint",
+          "size": "5001-10000",
+          "id": "HkmkrNcEW5kMM0bvrQTYUw3re5Wa",
+          "founded": 2002,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "amsterdam, north holland, netherlands",
+            "locality": "amsterdam",
+            "region": "north holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "1101 bh",
+            "geo": "52.34,4.83"
+          },
+          "linkedin_url": "linkedin.com/company/bearingpoint",
+          "linkedin_id": "1349",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/bearingpoint",
+          "website": "bearingpoint.com"
+        },
+        "location_names": [],
+        "end_date": "2009-06",
+        "start_date": "2001-01",
+        "title": {
+          "name": "manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "fidelity investments",
+          "size": "10001+",
+          "id": "VyA410j5Ryn0nukJBnYCDAG67ePb",
+          "founded": 1946,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "245 summer street",
+            "address_line_2": null,
+            "postal_code": "02210",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/fidelity-investments",
+          "linkedin_id": "1307",
+          "facebook_url": "facebook.com/fidelityinvestments",
+          "twitter_url": "twitter.com/fidelity",
+          "website": "fidelity.com"
+        },
+        "location_names": [],
+        "end_date": "1998-08",
+        "start_date": "1998-05",
+        "title": {
+          "name": "analyst (intern)",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "financial",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "llama",
+          "size": "10001+",
+          "id": "7wBJds3PcwUMpK0dYzhM2AjOYrbg",
+          "founded": null,
+          "industry": "internet",
+          "industry_v2": "technology, information and internet",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/indian-space-research-organisation",
+          "linkedin_id": "31137",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1998-08",
+        "start_date": "1997-08",
+        "title": {
+          "name": "engineer (intern)",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "yale school of management",
+          "type": "post-secondary institution",
+          "id": "NQo3l8rqFmjSJ8jL5Sx5Pg_0000",
+          "location": {
+            "name": "new haven, connecticut, united states",
+            "locality": "new haven",
+            "region": "connecticut",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/yale-school-of-management",
+          "facebook_url": "facebook.com/yaleuniversity",
+          "twitter_url": "twitter.com/yale",
+          "linkedin_id": "4073",
+          "website": "som.yale.edu",
+          "domain": "yale.edu"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2008",
+        "majors": [
+          "education",
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "syracuse university",
+          "type": "post-secondary institution",
+          "id": "It1NVrecBG5jVtrKMHpcMw_0000",
+          "location": {
+            "name": "syracuse, new york, united states",
+            "locality": "syracuse",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/syracuse-university",
+          "facebook_url": "facebook.com/syracuseuniversity",
+          "twitter_url": "twitter.com/syracuseu",
+          "linkedin_id": "166228",
+          "website": "syracuse.edu",
+          "domain": "syracuse.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2000",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "bangalore university",
+          "type": "post-secondary institution",
+          "id": "7L2mB03V0kCNCMCl91NJJw_0000",
+          "location": {
+            "name": "indiana, united states",
+            "locality": null,
+            "region": "indiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/bangalore-university",
+          "facebook_url": "facebook.com/janannabharathi",
+          "twitter_url": null,
+          "linkedin_id": "1461117",
+          "website": "bangaloreuniversity.in",
+          "domain": "bangaloreuniversity.in"
+        },
+        "degrees": [
+          "bachelor of engineering",
+          "bachelors"
+        ],
+        "start_date": "1994-01",
+        "end_date": "1998",
+        "majors": [
+          "mechanical engineering"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "yale university",
+          "type": "post-secondary institution",
+          "id": "O6fwtuGIBQU1JgTS-bu9QA_0000",
+          "location": {
+            "name": "new haven, connecticut, united states",
+            "locality": "new haven",
+            "region": "connecticut",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/yale-university",
+          "facebook_url": "facebook.com/yaleuniversity",
+          "twitter_url": "twitter.com/yale",
+          "linkedin_id": "15248569",
+          "website": "news.yale.edu",
+          "domain": "yale.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "7088487",
+        "url": "linkedin.com/in/akudumala",
+        "username": "akudumala"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/akudumala",
+        "username": "akudumala"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/aditya-kudumala-17345a2",
+        "username": "aditya-kudumala-17345a2"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

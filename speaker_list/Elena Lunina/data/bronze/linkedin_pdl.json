@@ -1,0 +1,598 @@
+{
+  "record_id": "speaker-dubrovnik-012",
+  "speaker_name": "Elena Lunina",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/elenalunina/",
+  "scraped_at": "2026-09-18T09:35:27.831714+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "NxFxDzWl3f66K7w-330pbw_0000",
+    "full_name": "elena lunina",
+    "first_name": "elena",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "lunina",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/elenalunina",
+    "linkedin_username": "elenalunina",
+    "linkedin_id": "328347457",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical scientific communication & engagement head",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "brand",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+    "job_company_name": "sanofi",
+    "job_company_website": "sanofi.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sanofi",
+    "job_company_linkedin_id": "1642",
+    "job_company_facebook_url": "facebook.com/sanofius",
+    "job_company_twitter_url": "twitter.com/sanofi",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "46 avenue de la grande-armée",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75017",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-08-05",
+    "job_start_date": "2025-07",
+    "location_name": true,
+    "location_locality": false,
+    "location_metro": false,
+    "location_region": false,
+    "location_country": "united states",
+    "location_continent": "north america",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": false,
+    "location_last_updated": "2025-10-27",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "ai integration in medical operations",
+      "cardiology",
+      "change management",
+      "cross functional collaborations",
+      "data driven decision making",
+      "digital health innovation",
+      "epidemiology",
+      "evidence generation and real world evidence",
+      "internal medicine",
+      "leading transformational change",
+      "medical affairs leadership",
+      "medical communications strategy",
+      "medical insights and analytics",
+      "omnichannel medical engagement",
+      "portfolio management",
+      "presentation skills",
+      "public health",
+      "research",
+      "scientific writing",
+      "spss",
+      "stakeholder management",
+      "strategic resource allocation"
+    ],
+    "location_names": false,
+    "regions": true,
+    "countries": [
+      "united states",
+      "russia"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "morristown, new jersey, united states"
+        ],
+        "end_date": null,
+        "start_date": "2025-07",
+        "title": {
+          "name": "global medical scientific communication & engagement head",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "bridgewater, new jersey, united states"
+        ],
+        "end_date": "2025-07",
+        "start_date": "2023-06",
+        "title": {
+          "name": "global medical omnichannel head, vaccines",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2023-06",
+        "start_date": "2021-09",
+        "title": {
+          "name": "medical head general medicines, eurasia mco, eurasia medical lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2021-09",
+        "start_date": "2020-05",
+        "title": {
+          "name": "medical head eurasia mco general medicines bu",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2020-04",
+        "start_date": "2017-01",
+        "title": {
+          "name": "head of medical affairs, diabetes and cardiovacsular",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2016-12",
+        "start_date": "2014-12",
+        "title": {
+          "name": "medical manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2014-11",
+        "start_date": "2012-06",
+        "title": {
+          "name": "scientific advisor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "tver state medical academy",
+          "size": "11-50",
+          "id": "C9eNFrrIGtio338AlZ9D3AWbSzin",
+          "founded": null,
+          "industry": "medical practice",
+          "industry_v2": "medical practices",
+          "location": {
+            "name": "moscow, moscow, russia",
+            "locality": "moscow",
+            "region": "moscow",
+            "metro": null,
+            "country": "russia",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "55.75,37.61"
+          },
+          "linkedin_url": "linkedin.com/company/tver-state-medical-academy",
+          "linkedin_id": "9019748",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "tvergma.ru"
+        },
+        "location_names": [
+          "tver, tver oblast, russia"
+        ],
+        "end_date": "2012-06",
+        "start_date": "1999-10",
+        "title": {
+          "name": "lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "vienna school of clinical research and european forum alpbach, austria",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2010-01",
+        "end_date": "2010",
+        "majors": [
+          "health care"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ethio hopkins alumni association(ehaa)",
+          "type": "post-secondary institution",
+          "id": "ZATgYYu6Hzlaz6zT2dPI8g_0000",
+          "location": {
+            "name": "baltimore, maryland, united states",
+            "locality": "baltimore",
+            "region": "maryland",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/company/johns-hopkins-university-bloomberg-school-of-public-health-ethiopian-alumni-network",
+          "facebook_url": "facebook.com/johnshopkinsuniversity",
+          "twitter_url": "twitter.com/johnshopkins",
+          "linkedin_id": "102590884",
+          "website": "publichealth.jhu.edu",
+          "domain": "jhu.edu"
+        },
+        "degrees": [],
+        "start_date": "2009",
+        "end_date": "2009",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tver state medical university",
+          "type": "post-secondary institution",
+          "id": "Os1RFCwyf3ysBW6KMcU2WA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tver-state-medical-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "69718753",
+          "website": "tvgmu.ru",
+          "domain": "tvgmu.ru"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2008-01",
+        "end_date": "2011",
+        "majors": [
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "braun hebrew university - hadassah school of public health and community medicine, jerusalem, israel",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "master of public health",
+          "masters"
+        ],
+        "start_date": "2002-01",
+        "end_date": "2003",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tver state medical university",
+          "type": "post-secondary institution",
+          "id": "Os1RFCwyf3ysBW6KMcU2WA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tver-state-medical-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "69718753",
+          "website": "tvgmu.ru",
+          "domain": "tvgmu.ru"
+        },
+        "degrees": [],
+        "start_date": "1997-01",
+        "end_date": "1999",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "tver state medical university",
+          "type": "post-secondary institution",
+          "id": "Os1RFCwyf3ysBW6KMcU2WA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/tver-state-medical-university",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "69718753",
+          "website": "tvgmu.ru",
+          "domain": "tvgmu.ru"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "1991-01",
+        "end_date": "1997-12",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "328347457",
+        "url": "linkedin.com/in/elenalunina",
+        "username": "elenalunina"
+      },
+      {
+        "network": "linkedin",
+        "id": "328347457",
+        "url": "linkedin.com/in/elena-lunina-a81b6791",
+        "username": "elena-lunina-a81b6791"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

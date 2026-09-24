@@ -1,0 +1,218 @@
+{
+  "record_id": "speaker-dubrovnik-086",
+  "speaker_name": "Massimiliano Ciaramelli",
+  "linkedin_url": "https://www.linkedin.com/in/massimilianociaramelli/",
+  "likelihood": 9,
+  "full_name": "massimiliano ciaramelli",
+  "job_title": "vice president, commercial",
+  "industry": "hospital & health care",
+  "current_company": "mama health",
+  "current_company_website": "mamahealth.com",
+  "current_company_industry": "hospital & health care",
+  "location_country": "united states",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "business plan",
+    "business strategy",
+    "lavoro di squadra",
+    "leadership",
+    "management",
+    "marketing",
+    "microsoft excel",
+    "powerpoint",
+    "project management",
+    "pubbliche relazioni",
+    "public relations",
+    "public speaking",
+    "strategia d'impresa",
+    "teamwork"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "vice president, commercial",
+      "company": "mama health",
+      "company_industry": "hospital & health care",
+      "start_date": "2026-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of customer success",
+      "company": "mama health",
+      "company_industry": "hospital & health care",
+      "start_date": "2025-01",
+      "end_date": "2026-02",
+      "is_primary": false
+    },
+    {
+      "title": "ambassador",
+      "company": "weroad",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "2024-01",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "travel coordinator",
+      "company": "weroad",
+      "company_industry": "leisure, travel & tourism",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global director, customer value solutions",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2022-03",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "team leader, adoption programs",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2021-10",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior customer success manager",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2020-07",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "customer success manager",
+      "company": "celonis",
+      "company_industry": "computer software",
+      "start_date": "2019-01",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "allianz partners",
+      "company_industry": "insurance",
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "chief of staff to the chief executive officer",
+      "company": "beyers koffie",
+      "company_industry": "food production",
+      "start_date": "2017-10",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "strategy consulting",
+      "company": "accenture",
+      "company_industry": "management consulting",
+      "start_date": "2017-01",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "vicepresident & head of public relations",
+      "company": "b.wine",
+      "company_industry": "wine and spirits",
+      "start_date": "2015-01",
+      "end_date": "2017-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "harvard business school online",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2021-01",
+      "end_date": "2021-01"
+    },
+    {
+      "school": "the university of queensland",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2016",
+      "end_date": "2017"
+    },
+    {
+      "school": "università bocconi",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2015",
+      "end_date": "2017"
+    },
+    {
+      "school": "university of auckland",
+      "majors": [],
+      "degrees": [
+        "bachelor of commerce",
+        "bachelors"
+      ],
+      "start_date": "2014",
+      "end_date": "2014"
+    },
+    {
+      "school": "università bocconi",
+      "majors": [
+        "finance",
+        "international economics",
+        "management"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2012",
+      "end_date": "2015"
+    },
+    {
+      "school": "liceo scientifico \"tito lucrezio caro\", naples, italy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2007",
+      "end_date": "2012"
+    },
+    {
+      "school": "univeristy of colorado school of medicine",
+      "majors": [
+        "commerce"
+      ],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "school": "liceo scientifico caro di",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2012"
+    },
+    {
+      "school": "liceo scientifico tito lucrezio caro",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2012"
+    }
+  ]
+}

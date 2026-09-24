@@ -1,0 +1,178 @@
+{
+  "record_id": "speaker-viennacx-018",
+  "speaker_name": "Robin Jones",
+  "linkedin_url": "https://www.linkedin.com/in/robin-jones-3b584816/",
+  "likelihood": 9,
+  "full_name": "robin jones",
+  "job_title": "product owner: ai & genai",
+  "industry": "pharmaceuticals",
+  "current_company": "astrazeneca",
+  "current_company_website": "astrazeneca.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe creative suite",
+    "adobe elearning suite",
+    "articulate suite",
+    "budgets",
+    "business development",
+    "community development",
+    "corporate social responsibility",
+    "digital media",
+    "editing",
+    "flash",
+    "global health",
+    "grant writing",
+    "grants",
+    "health communication",
+    "health research",
+    "healthcare",
+    "html",
+    "infectious diseases",
+    "international development",
+    "journalism",
+    "leadership",
+    "management",
+    "marketing communications",
+    "microsoft office",
+    "ms office suite",
+    "ngos",
+    "non profits",
+    "nonprofits",
+    "pharmaceutical industry",
+    "project management",
+    "project planning",
+    "proposal writing",
+    "public health",
+    "public relations",
+    "publications",
+    "qualitative research",
+    "report writing",
+    "research",
+    "social media strategist",
+    "spss",
+    "strategic communications",
+    "strategic planning",
+    "website development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "product owner: ai & genai",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital brand manager",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-06",
+      "end_date": "2025-08",
+      "is_primary": false
+    },
+    {
+      "title": "digital account director",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2018-09",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "account director - digital",
+      "company": "syneos health commercial solutions",
+      "company_industry": "biotechnology",
+      "start_date": "2017-03",
+      "end_date": "2018-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior account manager",
+      "company": "syneos health commercial solutions",
+      "company_industry": "biotechnology",
+      "start_date": "2015-10",
+      "end_date": "2017-03",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "havas lynx",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-08",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior account executive",
+      "company": "havas lynx",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-01",
+      "end_date": "2014-08",
+      "is_primary": false
+    },
+    {
+      "title": "junior product manager",
+      "company": "amiculum",
+      "company_industry": "management consulting",
+      "start_date": "2012-09",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "external communications officer",
+      "company": "malaria consortium",
+      "company_industry": "non-profit organization management",
+      "start_date": "2011-09",
+      "end_date": "2012-04",
+      "is_primary": false
+    },
+    {
+      "title": "country director",
+      "company": "que rico cambodia",
+      "company_industry": null,
+      "start_date": "2007-10",
+      "end_date": "2010-09",
+      "is_primary": false
+    },
+    {
+      "title": "communications officer",
+      "company": "ael berkman forwarding",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2006-06",
+      "end_date": "2007-10",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ucl",
+      "majors": [
+        "epidemiology",
+        "global health"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "oxford brookes university",
+      "majors": [
+        "communications"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2006"
+    }
+  ]
+}

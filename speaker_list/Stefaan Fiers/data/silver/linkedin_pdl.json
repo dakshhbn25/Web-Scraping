@@ -1,0 +1,261 @@
+{
+  "record_id": "speaker-medical-020",
+  "speaker_name": "Stefaan Fiers",
+  "linkedin_url": "https://www.linkedin.com/in/stefaanfiers/",
+  "likelihood": 9,
+  "full_name": "stefaan fiers",
+  "job_title": "chapter head external affairs",
+  "industry": "pharmaceuticals",
+  "current_company": "roche belgium & luxembourg",
+  "current_company_website": null,
+  "current_company_industry": "hospital & health care",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "bestuursniveau",
+    "biotechnology",
+    "board administration",
+    "board governance",
+    "board level",
+    "corporate communications",
+    "crisis communications",
+    "european politics",
+    "european union politics",
+    "french",
+    "governmental affairs",
+    "health policy",
+    "healthcare industry",
+    "internal communications",
+    "lesgeven",
+    "life sciences",
+    "lifesciences",
+    "management",
+    "market access",
+    "pharmaceutical industry",
+    "policy",
+    "policy analysis",
+    "political science",
+    "politics",
+    "public affairs",
+    "public policy",
+    "public speaking",
+    "stakeholder analysis",
+    "strategische communicatie",
+    "strategy",
+    "trade associations",
+    "university teaching"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chapter head external affairs",
+      "company": "roche belgium & luxembourg",
+      "company_industry": "hospital & health care",
+      "start_date": "2025-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "board member",
+      "company": "europabio - the european association for bioindustries",
+      "company_industry": "biotechnology",
+      "start_date": "2024-06",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "head corporate comms, public affairs & patient advocacy - csee region public affairs community lead",
+      "company": "takeda in belgium",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-06",
+      "end_date": "2025-09",
+      "is_primary": false
+    },
+    {
+      "title": "board member and past president",
+      "company": "bepact - belgian public affairs community",
+      "company_industry": "public relations and communications",
+      "start_date": "2016-02",
+      "end_date": "2025-05",
+      "is_primary": false
+    },
+    {
+      "title": "communications & public policy director",
+      "company": "pharma.be",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-12",
+      "end_date": "2020-06",
+      "is_primary": false
+    },
+    {
+      "title": "head of governmental affairs",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-02",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "chair of the government relations forum",
+      "company": "amcham belgium",
+      "company_industry": "non-profit organization management",
+      "start_date": "2013-10",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "assoc director policy / governmental relations",
+      "company": "msd belgium",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-08",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "governmental affairs manager",
+      "company": "msd belgium",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-10",
+      "end_date": "2012-08",
+      "is_primary": false
+    },
+    {
+      "title": "professor of public policy",
+      "company": "université catholique de lille",
+      "company_industry": "higher education",
+      "start_date": "2008-06",
+      "end_date": "2009-09",
+      "is_primary": false
+    },
+    {
+      "title": "regional head and member of the board",
+      "company": "school of education",
+      "company_industry": null,
+      "start_date": "2006-11",
+      "end_date": "2008-10",
+      "is_primary": false
+    },
+    {
+      "title": "associate professor of public affairs & comparative politics",
+      "company": "ku leuven",
+      "company_industry": "research",
+      "start_date": "2002-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "journalist -head of the political desk",
+      "company": "4fm",
+      "company_industry": "broadcast media",
+      "start_date": "2001",
+      "end_date": "2002",
+      "is_primary": false
+    },
+    {
+      "title": "postdoctoral researcher",
+      "company": "research foundation flanders - fwo",
+      "company_industry": "research",
+      "start_date": "1999",
+      "end_date": "2002",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "rotterdam school of management, erasmus university",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2019-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "rotterdam school of management, erasmus university",
+      "majors": [
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018-01"
+    },
+    {
+      "school": "bespoke school of finance",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2016-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "instituut voor farmaceutisch bedrijfsleven",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "vlerick business school",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "six sigma academy amsterdam",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2010-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "instituut voor farmaceutisch bedrijfsleven",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "university of oxford",
+      "majors": [
+        "economics",
+        "politics"
+      ],
+      "degrees": [],
+      "start_date": "1993-01",
+      "end_date": "1993"
+    },
+    {
+      "school": "ku leuven",
+      "majors": [
+        "government",
+        "political science",
+        "political science and government"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates",
+        "master of arts",
+        "masters"
+      ],
+      "start_date": "1989-01",
+      "end_date": "1998"
+    },
+    {
+      "school": "st hugh's college, oxford",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "st leocollege",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

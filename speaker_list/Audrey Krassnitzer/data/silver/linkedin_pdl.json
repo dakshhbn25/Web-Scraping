@@ -1,0 +1,190 @@
+{
+  "record_id": "speaker-dubrovnik-028",
+  "speaker_name": "Audrey Krassnitzer",
+  "linkedin_url": "https://www.linkedin.com/in/audreykrassnitzer/",
+  "likelihood": 9,
+  "full_name": "audrey krassnitzer",
+  "job_title": "director, hcp journeys",
+  "industry": "marketing and advertising",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "advertising",
+    "budgets",
+    "digital marketing",
+    "email marketing",
+    "event management",
+    "leadership",
+    "management",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "medical education",
+    "microsoft office",
+    "powerpoint",
+    "program management",
+    "project management",
+    "recruiting",
+    "social media",
+    "social media marketing",
+    "social networking",
+    "strategic communications",
+    "strategic planning",
+    "strategy"
+  ],
+  "interests": [
+    "animal welfare",
+    "arts and culture",
+    "disaster and humanitarian relief",
+    "education",
+    "human rights",
+    "poverty alleviation"
+  ],
+  "experience": [
+    {
+      "title": "director, hcp journeys",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global mce director",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2025-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, multichannel engagement",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "manager",
+      "company": "deloitte digital",
+      "company_industry": "management consulting",
+      "start_date": "2019-09",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "deloitte digital",
+      "company_industry": "management consulting",
+      "start_date": "2017-07",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "digital marketing consultant",
+      "company": "strategic communications consultant",
+      "company_industry": null,
+      "start_date": "2016-01",
+      "end_date": "2017-07",
+      "is_primary": false
+    },
+    {
+      "title": "account supervisor",
+      "company": "medical knowledge group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2015-04",
+      "end_date": "2015-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior account executive",
+      "company": "medical knowledge group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2013-10",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "account executive",
+      "company": "medical knowledge group",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-04",
+      "end_date": "2013-10",
+      "is_primary": false
+    },
+    {
+      "title": "associate account manager",
+      "company": "publicis health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2010-10",
+      "end_date": "2012-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate project manager",
+      "company": "chameleon communications international",
+      "company_industry": "marketing and advertising",
+      "start_date": "2008-11",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "third grade teacher",
+      "company": "agape mission",
+      "company_industry": "civic & social organization",
+      "start_date": "2007-11",
+      "end_date": "2008-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "columbia university",
+      "majors": [
+        "communications"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "new york university",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2013",
+      "end_date": "2014"
+    },
+    {
+      "school": "new york university",
+      "majors": [
+        "german",
+        "german studies"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "university of rochester",
+      "majors": [
+        "classics"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2007"
+    }
+  ]
+}

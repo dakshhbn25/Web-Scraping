@@ -1,0 +1,614 @@
+{
+  "record_id": "speaker-medical-027",
+  "speaker_name": "Azèle Mathieu",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/az%C3%A8le-mathieu-a465804/",
+  "scraped_at": "2026-09-18T10:24:51.359349+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "s6Gq1Eg2yDB6iLBM6Kyusg_0000",
+    "full_name": "azèle mathieu",
+    "first_name": "azèle",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "m",
+    "last_name": "mathieu",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/azèle-mathieu-a465804",
+    "linkedin_username": "azèle-mathieu-a465804",
+    "linkedin_id": "13355478",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "innovation lead - associate director",
+    "job_title_role": "operations",
+    "job_title_sub_role": "strategy",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [],
+    "job_company_id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+    "job_company_name": "msd belgium",
+    "job_company_website": "msd-belgium.be",
+    "job_company_size": "501-1000",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/msd-belgium",
+    "job_company_linkedin_id": "2498507",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "watermael-boitsfort, brussels, belgium",
+    "job_company_location_locality": "watermael-boitsfort",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.8,4.41",
+    "job_company_location_street_address": "25 vorstlaan",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "1170",
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2021-02-11",
+    "job_last_verified": "2026-06-25",
+    "job_start_date": "2020-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2023-03-31",
+    "phone_numbers": true,
+    "emails": false,
+    "interests": [
+      "challenges",
+      "diving (padi certificate)",
+      "education",
+      "health",
+      "playing piano",
+      "running"
+    ],
+    "skills": [
+      "analysis",
+      "business development",
+      "business strategy",
+      "economics",
+      "entrepreneurship",
+      "innovation management",
+      "intellectual property",
+      "management",
+      "management consulting",
+      "research",
+      "strategy",
+      "technology transfer"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "msd belgium",
+          "size": "501-1000",
+          "id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "watermael-boitsfort, brussels, belgium",
+            "locality": "watermael-boitsfort",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "25 vorstlaan",
+            "address_line_2": null,
+            "postal_code": "1170",
+            "geo": "50.8,4.41"
+          },
+          "linkedin_url": "linkedin.com/company/msd-belgium",
+          "linkedin_id": "2498507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msd-belgium.be"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-11",
+        "title": {
+          "name": "innovation lead - associate director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "hub.brussels",
+          "size": "201-500",
+          "id": "59Hi3zPnFTdlLXBN13qhHwatJpy8",
+          "founded": 2018,
+          "industry": "government administration",
+          "industry_v2": "government administration",
+          "location": {
+            "name": "saint-gilles, brussels, belgium",
+            "locality": "saint-gilles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "110-112 chaussée de charleroi",
+            "address_line_2": null,
+            "postal_code": "1060",
+            "geo": "50.81,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/hub-brussels",
+          "linkedin_id": "27211651",
+          "facebook_url": "facebook.com/brusselshub",
+          "twitter_url": "twitter.com/brussels_hub",
+          "website": "hub.brussels"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2013-10",
+        "title": {
+          "name": "manager lifetech.brussels",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "impulse.brussels",
+          "size": "11-50",
+          "id": "SjxMC0RLBtJmTJkgmGJ9MwmWg9TF",
+          "founded": 2003,
+          "industry": "public policy",
+          "industry_v2": "public policy offices",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "86c avenue du port",
+            "address_line_2": "bte 211",
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/brussels-enterprise-agency-abe-bao-bea-",
+          "linkedin_id": "811307",
+          "facebook_url": "facebook.com/impulse.brussels",
+          "twitter_url": null,
+          "website": "abe-bao.be"
+        },
+        "location_names": [],
+        "end_date": "2013-09",
+        "start_date": "2012-06",
+        "title": {
+          "name": "financial expert",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "solvay lifelong learning | solvay brussels school of economics & management",
+          "size": "201-500",
+          "id": "8Gzqr5VR2gbV0gEav2LPKQo73mlm",
+          "founded": 1903,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "42 avenue franklin d. roosevelt",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/company/solvay-lifelong-learning-solvay-brussels-school-of-economics-and-management-ulb",
+          "linkedin_id": "1102027",
+          "facebook_url": "facebook.com/solvay.edu",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "ixelles, brussels, belgium"
+        ],
+        "end_date": "2017-09",
+        "start_date": "2012-02",
+        "title": {
+          "name": "professor business planning (mba) & technology transfer (master) )",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biosenic s.a.",
+          "size": "11-50",
+          "id": "zlPTQCxYBjBeo43IDQPXMgXzl6RO",
+          "founded": 2006,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mont-saint-guibert, wallonia, belgium",
+            "locality": "mont-saint-guibert",
+            "region": "wallonia",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "11 rue granbonpré",
+            "address_line_2": null,
+            "postal_code": "1435",
+            "geo": "50.63,4.61"
+          },
+          "linkedin_url": "linkedin.com/company/biosenic",
+          "linkedin_id": "2409587",
+          "facebook_url": "facebook.com/bonetherapeutics",
+          "twitter_url": "twitter.com/bonetherapeutic",
+          "website": "biosenic.com"
+        },
+        "location_names": [],
+        "end_date": "2012-05",
+        "start_date": "2011-09",
+        "title": {
+          "name": "business development manager",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "université libre de bruxelles",
+          "size": "5001-10000",
+          "id": "GFT0UDZN1gndzMGIBN9V1gi38qZI",
+          "founded": 1834,
+          "industry": "research",
+          "industry_v2": null,
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "50 avenue franklin roosevelt",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/school/universite-libre-de-bruxelles",
+          "linkedin_id": "166704",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ulb.be"
+        },
+        "location_names": [],
+        "end_date": "2011-09",
+        "start_date": "2007-04",
+        "title": {
+          "name": "business development manager at the ulb technology transfer office",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "solvay lifelong learning | solvay brussels school of economics & management",
+          "size": "201-500",
+          "id": "8Gzqr5VR2gbV0gEav2LPKQo73mlm",
+          "founded": 1903,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "42 avenue franklin d. roosevelt",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/company/solvay-lifelong-learning-solvay-brussels-school-of-economics-and-management-ulb",
+          "linkedin_id": "1102027",
+          "facebook_url": "facebook.com/solvay.edu",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2005-03",
+        "start_date": "2004-10",
+        "title": {
+          "name": "researcher",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "solvay lifelong learning | solvay brussels school of economics & management",
+          "size": "201-500",
+          "id": "8Gzqr5VR2gbV0gEav2LPKQo73mlm",
+          "founded": 1903,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "42 avenue franklin d. roosevelt",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/company/solvay-lifelong-learning-solvay-brussels-school-of-economics-and-management-ulb",
+          "linkedin_id": "1102027",
+          "facebook_url": "facebook.com/solvay.edu",
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2007-03",
+        "start_date": "2004-04",
+        "title": {
+          "name": "teaching assistant",
+          "class": "services",
+          "role": "education",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "solvay brussels school of economics and management",
+          "type": "post-secondary institution",
+          "id": "R2JNUlpJ8N4Y0KSivyYKqQ_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/solvay-brussels-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6258195",
+          "website": "solvay.edu",
+          "domain": "solvay.edu"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2011",
+        "majors": [
+          "economics",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "solvay brussels school of economics and management",
+          "type": "post-secondary institution",
+          "id": "R2JNUlpJ8N4Y0KSivyYKqQ_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/solvay-brussels-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6258195",
+          "website": "solvay.edu",
+          "domain": "solvay.edu"
+        },
+        "degrees": [],
+        "start_date": "2005-01",
+        "end_date": "2006",
+        "majors": [
+          "management",
+          "management science"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "solvay business school (vub)",
+          "type": "post-secondary institution",
+          "id": "5i0LF4S1dCbXtuc2NGBxQQ_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vub-solvay-business-school",
+          "facebook_url": "facebook.com/vubrussel",
+          "twitter_url": "twitter.com/vubrussel",
+          "linkedin_id": "11480445",
+          "website": "vub.be",
+          "domain": "vub.be"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1999",
+        "end_date": "2004",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "solvay brussels school of economics and management",
+          "type": "post-secondary institution",
+          "id": "R2JNUlpJ8N4Y0KSivyYKqQ_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/solvay-brussels-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6258195",
+          "website": "solvay.edu",
+          "domain": "solvay.edu"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1999-01",
+        "end_date": "2004",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "collège saint augustin",
+          "type": "secondary school",
+          "id": "z6PHeLzZfrE16lcdgYIxJw_0000",
+          "location": {
+            "name": "france",
+            "locality": null,
+            "region": null,
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/collège-saint-augustin",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "7243918",
+          "website": "collegesaintaugustin.com",
+          "domain": "collegesaintaugustin.com"
+        },
+        "degrees": [],
+        "start_date": "1993-01",
+        "end_date": "1999",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "celforpharma",
+          "type": "post-secondary institution",
+          "id": "IpvB8Tuk-saHIhksqs5E9A_0000",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/celforpharma",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "965286",
+          "website": "celforpharma.com",
+          "domain": "celforpharma.com"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "13355478",
+        "url": "linkedin.com/in/azèle-mathieu-a465804",
+        "username": "azèle-mathieu-a465804"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/azã¨le-mathieu-a465804",
+        "username": "azã¨le-mathieu-a465804"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

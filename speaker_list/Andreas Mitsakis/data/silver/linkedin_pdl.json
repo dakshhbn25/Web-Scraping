@@ -1,0 +1,206 @@
+{
+  "record_id": "speaker-viennacx-031",
+  "speaker_name": "Andreas Mitsakis",
+  "linkedin_url": "https://www.linkedin.com/in/andreas-mitsakis/",
+  "likelihood": 9,
+  "full_name": "andreas mitsakis",
+  "job_title": "omnichannel execution lead central & south europe cluster",
+  "industry": "pharmaceuticals",
+  "current_company": "sanofi",
+  "current_company_website": "sanofi.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "greece",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "agile project management",
+    "ai ethics",
+    "application development",
+    "attention to detail",
+    "brand management",
+    "brand strategy",
+    "cardiology",
+    "change management",
+    "coaching",
+    "cross functional team leadership",
+    "design thinking",
+    "diabetes",
+    "digital innovation",
+    "digital marketing",
+    "digital transformation",
+    "endocrinology",
+    "feedback control systems",
+    "financial forecasting",
+    "gastroenterology",
+    "generative ai",
+    "go to market strategy",
+    "healthcare",
+    "hospital sales",
+    "hypertension",
+    "innovation",
+    "innovation development",
+    "internal medicine",
+    "large language models",
+    "large language models",
+    "launch excellence",
+    "leadership",
+    "management",
+    "market access",
+    "market analysis",
+    "market planning",
+    "medical education",
+    "medicine",
+    "microsoft power apps",
+    "microsoft power automate",
+    "neurology",
+    "omni channel marketing",
+    "oncology",
+    "osteoporosis",
+    "p&l management",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "pharmacy",
+    "planning budgeting and forecasting",
+    "power automate",
+    "product launch",
+    "product ownership",
+    "project management",
+    "prompt engineering",
+    "pulmonology",
+    "recruiting",
+    "regional marketing",
+    "sales effectiveness",
+    "sales management",
+    "sales operations",
+    "strategic planning",
+    "strategic vision",
+    "team leadership",
+    "therapeutic areas",
+    "transformation",
+    "urology",
+    "vaccines",
+    "vibe coding"
+  ],
+  "interests": [
+    "animal welfare",
+    "arts and culture",
+    "children",
+    "civil rights and social action",
+    "environment",
+    "poverty alleviation",
+    "science and technology"
+  ],
+  "experience": [
+    {
+      "title": "omnichannel execution lead central & south europe cluster",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-10",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "transformation and commercial excellence lead specialty care gr",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-09",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "country sales & marketing manager greece & cyprus (ad interim)",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2021-11",
+      "end_date": "2022-02",
+      "is_primary": false
+    },
+    {
+      "title": "franchise lead oncology precision medicine emea 2",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2020-01",
+      "end_date": "2022-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior brand manager oncology greece & cyprus",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2016-03",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager oncology",
+      "company": "bayer",
+      "company_industry": "chemicals",
+      "start_date": "2014-02",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative biosimilars",
+      "company": "sandoz",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-04",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "brand manager cardiometabolic care & general medicine",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-10",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager oncology",
+      "company": "merck healthcare",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-10",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager vaccines",
+      "company": "sanofi",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-09",
+      "end_date": "2007-10",
+      "is_primary": false
+    },
+    {
+      "title": "key account manager cns & respiratory",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-04",
+      "end_date": "2006-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "panteion panepestimion ikonomikon kai politicon epistimon",
+      "majors": [
+        "politics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "1997-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "panteion panepestimion ikonomikon kai politicon epistimon",
+      "majors": [
+        "international relations"
+      ],
+      "degrees": [],
+      "start_date": "1993-01",
+      "end_date": "1997"
+    }
+  ]
+}

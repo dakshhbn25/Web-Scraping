@@ -1,0 +1,769 @@
+{
+  "record_id": "speaker-dubrovnik-013",
+  "speaker_name": "Rita Sarmento",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/rita-sarmento/",
+  "scraped_at": "2026-09-18T09:35:30.018998+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "xQkAB4xiDzAiBXNxjxk-cA_0000",
+    "full_name": "rita sarmento",
+    "first_name": "rita",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "s",
+    "last_name": "sarmento",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/rita-sarmento",
+    "linkedin_username": "rita-sarmento",
+    "linkedin_id": "9616270",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of commercial capabilities, international business unit",
+    "job_title_role": null,
+    "job_title_sub_role": null,
+    "job_title_class": null,
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+    "job_company_name": "takeda",
+    "job_company_website": "takeda.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1781,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+    "job_company_linkedin_id": "5482",
+    "job_company_facebook_url": "facebook.com/takedapharma",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "tokyo, japan",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokyo",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2026-08-01",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2026-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-02",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business analysis",
+      "business expansion",
+      "business model innovation",
+      "business planning",
+      "business strategy",
+      "change management",
+      "change programmes",
+      "commercial management",
+      "competitive intelligence",
+      "competitive strategies",
+      "corporate finance",
+      "customer engagement",
+      "customer experience",
+      "customer insight",
+      "data analysis",
+      "data analytics",
+      "digital health",
+      "digital marketing",
+      "digital strategy",
+      "digital transformation",
+      "financial analysis",
+      "financial modeling",
+      "forecasting",
+      "leadership",
+      "management",
+      "market analysis",
+      "market research",
+      "marketing",
+      "multi channel marketing",
+      "new business development",
+      "omni channel marketing",
+      "operational excellence",
+      "operational planning",
+      "operations management",
+      "organizational capability",
+      "organizational development",
+      "process improvement",
+      "product launch",
+      "product management",
+      "project planning",
+      "sales operations",
+      "strategic planning",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2026-06",
+        "title": {
+          "name": "head of commercial capabilities, international business unit",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2026-05",
+        "start_date": "2023-01",
+        "title": {
+          "name": "head of data, digital and technology, csee",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2021-09",
+        "title": {
+          "name": "head of omnichannel engagement capability, europe and canada",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2021-08",
+        "start_date": "2019-04",
+        "title": {
+          "name": "customer excellence and learning & development, eucan",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2019-03",
+        "start_date": "2017-06",
+        "title": {
+          "name": "head of market intelligence & insights neuroscience and ophthalmics, director",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2017-05",
+        "start_date": "2015-06",
+        "title": {
+          "name": "international business expansion lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "oi",
+          "size": "10001+",
+          "id": "wxC6iCTanRfR4pIjMCVySAPnolp9",
+          "founded": null,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "20230070",
+            "geo": "-22.91,-43.26"
+          },
+          "linkedin_url": "linkedin.com/company/oioficial",
+          "linkedin_id": "3721",
+          "facebook_url": "facebook.com/oitvoficial",
+          "twitter_url": null,
+          "website": "oitv.net"
+        },
+        "location_names": [
+          "rio de janeiro, rio de janeiro, brazil"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2013-05",
+        "title": {
+          "name": "manager residential products - commercial operations and process excellence",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "oi",
+          "size": "10001+",
+          "id": "wxC6iCTanRfR4pIjMCVySAPnolp9",
+          "founded": null,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "rio de janeiro, rio de janeiro, brazil",
+            "locality": "rio de janeiro",
+            "region": "rio de janeiro",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "20230070",
+            "geo": "-22.91,-43.26"
+          },
+          "linkedin_url": "linkedin.com/company/oioficial",
+          "linkedin_id": "3721",
+          "facebook_url": "facebook.com/oitvoficial",
+          "twitter_url": null,
+          "website": "oitv.net"
+        },
+        "location_names": [
+          "rio de janeiro, rio de janeiro, brazil"
+        ],
+        "end_date": "2013-05",
+        "start_date": "2012-04",
+        "title": {
+          "name": "consultant - planning and performance / pmo",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boston consulting group (bcg)",
+          "size": "10001+",
+          "id": "Gm7vfasxvdxjYP55BTbiUAZnzkpT",
+          "founded": 1963,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "boston, massachusetts, united states",
+            "locality": "boston",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 pier 4 boulevard",
+            "address_line_2": null,
+            "postal_code": "02210",
+            "geo": "42.33,-71.04"
+          },
+          "linkedin_url": "linkedin.com/company/boston-consulting-group",
+          "linkedin_id": "1784",
+          "facebook_url": "facebook.com/bostonconsultinggroup",
+          "twitter_url": "twitter.com/bcg",
+          "website": "bcg.com"
+        },
+        "location_names": [
+          "são paulo, são paulo, brazil"
+        ],
+        "end_date": "2011-09",
+        "start_date": "2011-07",
+        "title": {
+          "name": "summer consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "endeavor",
+          "size": "501-1000",
+          "id": "cqxBlfKhmB5yEblPtToRdALQDHAm",
+          "founded": 1997,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "28 liberty street",
+            "address_line_2": "53rd floor",
+            "postal_code": "10005",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/endeavorglobal",
+          "linkedin_id": "301210",
+          "facebook_url": "facebook.com/endeavorglobal",
+          "twitter_url": "twitter.com/endeavor_global",
+          "website": "endeavor.org"
+        },
+        "location_names": [],
+        "end_date": "2010-12",
+        "start_date": "2010-07",
+        "title": {
+          "name": "external consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vodafone",
+          "size": "10001+",
+          "id": "ToostUBBJgMHLHQeweAvhAFaRxBI",
+          "founded": 1982,
+          "industry": "telecommunications",
+          "industry_v2": "telecommunications",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 kingdom street",
+            "address_line_2": null,
+            "postal_code": "w2 6by",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/vodafone",
+          "linkedin_id": "1217",
+          "facebook_url": "facebook.com/vodafoneuk",
+          "twitter_url": null,
+          "website": "vodafone.com"
+        },
+        "location_names": [
+          "lisbon, lisbon, portugal"
+        ],
+        "end_date": "2010-06",
+        "start_date": "2006-07",
+        "title": {
+          "name": "business analyst - strategy and program management",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "banco de investimento global",
+          "size": "201-500",
+          "id": "fKOk60u2ubLeQtq7BFXneQJncH7I",
+          "founded": 1999,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "lisboa, lisbon, portugal",
+            "locality": "lisboa",
+            "region": "lisbon",
+            "metro": null,
+            "country": "portugal",
+            "continent": "europe",
+            "street_address": "74-76 avenida 24 de julho",
+            "address_line_2": null,
+            "postal_code": "1200-869",
+            "geo": "38.71,-9.13"
+          },
+          "linkedin_url": "linkedin.com/company/bancodeinvestimentoglobal",
+          "linkedin_id": "23532",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "big.pt"
+        },
+        "location_names": [
+          "lisbon, lisbon, portugal"
+        ],
+        "end_date": "2006-06",
+        "start_date": "2005-07",
+        "title": {
+          "name": "corporate finance analyst",
+          "class": "general_and_administrative",
+          "role": "finance",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roland berger",
+          "size": "1001-5000",
+          "id": "9KZYoQCOUKvFFCNlkj29Wg0TtXNy",
+          "founded": 1967,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 sederanger",
+            "address_line_2": null,
+            "postal_code": "80538",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/rolandberger",
+          "linkedin_id": "3950",
+          "facebook_url": "facebook.com/rolandbergergmbh",
+          "twitter_url": "twitter.com/rolandberger",
+          "website": "rolandberger.com"
+        },
+        "location_names": [
+          "lisbon, lisbon, portugal"
+        ],
+        "end_date": "2004",
+        "start_date": "2004",
+        "title": {
+          "name": "summer internship",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2011-01",
+        "end_date": "2011",
+        "majors": [
+          "business"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "università bocconi",
+          "type": "post-secondary institution",
+          "id": "rjTFLTKoPaQ2usQLBI18-g_0000",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "country": "italy",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universita-bocconi",
+          "facebook_url": "facebook.com/unibocconi",
+          "twitter_url": "twitter.com/unibocconi",
+          "linkedin_id": "166692",
+          "website": "unibocconi.it",
+          "domain": "unibocconi.it"
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2004",
+        "majors": [
+          "business management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidade católica portuguesa",
+          "type": "post-secondary institution",
+          "id": "D9dBS91WFp3YdztCqiOa4g_0000",
+          "location": {
+            "name": "lisboa, lisbon, portugal",
+            "locality": "lisboa",
+            "region": "lisbon",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidade-catolica-portuguesa",
+          "facebook_url": "facebook.com/universidadecatolicaportuguesaoficial",
+          "twitter_url": null,
+          "linkedin_id": "15098255",
+          "website": "ucp.pt",
+          "domain": "ucp.pt"
+        },
+        "degrees": [],
+        "start_date": "2001-01",
+        "end_date": "2005",
+        "majors": [
+          "business administration",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "9616270",
+        "url": "linkedin.com/in/rita-sarmento",
+        "username": "rita-sarmento"
+      },
+      {
+        "network": "linkedin",
+        "id": "9616270",
+        "url": "linkedin.com/in/rita-sarmento-b7a2783",
+        "username": "rita-sarmento-b7a2783"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,472 @@
+{
+  "record_id": "speaker-dubrovnik-083",
+  "speaker_name": "Geoff Covey",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/gcovey/",
+  "scraped_at": "2026-09-18T09:38:02.187401+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "hF5q80PuYBMSVzYvqNHt7A_0000",
+    "full_name": "geoff covey",
+    "first_name": "geoff",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "covey",
+    "sex": "male",
+    "birth_year": true,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/gcovey",
+    "linkedin_username": "gcovey",
+    "linkedin_id": "64301982",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "publishing",
+    "job_title": "director, product development, independent medical education",
+    "job_title_role": "creative",
+    "job_title_sub_role": "journalism",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+    "job_company_name": "wiley",
+    "job_company_website": "wiley.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1807,
+    "job_company_industry": "publishing",
+    "job_company_industry_v2": "book and periodical publishing",
+    "job_company_linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+    "job_company_linkedin_id": "164549",
+    "job_company_facebook_url": "facebook.com/johnwileysons",
+    "job_company_twitter_url": "twitter.com/wileytextbooks",
+    "job_company_location_name": "hoboken, new jersey, united states",
+    "job_company_location_locality": "hoboken",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.74,-74.02",
+    "job_company_location_street_address": "111 river street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "07030",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-09-01",
+    "job_last_verified": "2026-08-12",
+    "job_start_date": "2025-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-12",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "advertising",
+      "business development",
+      "content management",
+      "copywriting",
+      "crm",
+      "digital media",
+      "digital publishing",
+      "editorial",
+      "graphic design",
+      "healthcare marketing",
+      "indesign",
+      "medical communications",
+      "medical education",
+      "online advertising",
+      "online marketing",
+      "online publishing",
+      "pharmaceutical industry",
+      "pharmaceuticals",
+      "product development",
+      "product strategy",
+      "publications",
+      "publishing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2025-08",
+        "title": {
+          "name": "director, product development, independent medical education",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2025-08",
+        "start_date": "2023-12",
+        "title": {
+          "name": "associate director, sales, independent medical education",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "karger publishers",
+          "size": "201-500",
+          "id": "M2UpCzIQ6Bo7WoGblYYEzwS5KaKl",
+          "founded": 1890,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "10 allschwilerstrasse",
+            "address_line_2": null,
+            "postal_code": "4055",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/karger-publishers",
+          "linkedin_id": "3847526",
+          "facebook_url": "facebook.com/kargerpublishers",
+          "twitter_url": "twitter.com/kargerpublisher",
+          "website": "karger.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2022-11",
+        "title": {
+          "name": "head of healthcare markets",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "karger publishers",
+          "size": "201-500",
+          "id": "M2UpCzIQ6Bo7WoGblYYEzwS5KaKl",
+          "founded": 1890,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "10 allschwilerstrasse",
+            "address_line_2": null,
+            "postal_code": "4055",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/karger-publishers",
+          "linkedin_id": "3847526",
+          "facebook_url": "facebook.com/kargerpublishers",
+          "twitter_url": "twitter.com/kargerpublisher",
+          "website": "karger.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2023-12",
+        "start_date": "2018-04",
+        "title": {
+          "name": "general manager (uk)",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "health press limited",
+          "size": "1-10",
+          "id": "cKi7369mB9qk38fOndXFBQ5ikvsG",
+          "founded": 1993,
+          "industry": "publishing",
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": "linkedin.com/company/health-press-limited",
+          "linkedin_id": "2196915",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "fastfacts.com"
+        },
+        "location_names": [
+          "oxford, england, united kingdom"
+        ],
+        "end_date": "2018-03",
+        "start_date": "2010-08",
+        "title": {
+          "name": "senior publications developer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lcp ltd.",
+          "size": "11-50",
+          "id": "UUrKZJQHTQR50lvmzfQp7QTLKup3",
+          "founded": 1993,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "royal leamington spa, england, united kingdom",
+            "locality": "royal leamington spa",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.29,-1.52"
+          },
+          "linkedin_url": "linkedin.com/company/lcp-ltd-",
+          "linkedin_id": "2755579",
+          "facebook_url": "facebook.com/lcpnews",
+          "twitter_url": "twitter.com/lcp_news",
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2010-09",
+        "start_date": "2009-11",
+        "title": {
+          "name": "production manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nelson thornes",
+          "size": "201-500",
+          "id": "IxjI2Zo8BrO3sDk7PPMZbADxHyrX",
+          "founded": 2000,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "cheltenham, england, united kingdom",
+            "locality": "cheltenham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "27 bath road",
+            "address_line_2": null,
+            "postal_code": "gl53 7th",
+            "geo": "51.87,-2.07"
+          },
+          "linkedin_url": "linkedin.com/company/nelson-thornes",
+          "linkedin_id": "32777",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "nelsonthornes.com"
+        },
+        "location_names": [],
+        "end_date": "2009-11",
+        "start_date": "2008-05",
+        "title": {
+          "name": "production editor",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "oxford brookes university",
+          "type": "post-secondary institution",
+          "id": "4cLlXMV1osyzDnu6BAEbAw_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordbrookes",
+          "facebook_url": "facebook.com/oxfordbrookes",
+          "twitter_url": "twitter.com/oxford_brookes",
+          "linkedin_id": "13996",
+          "website": "brookes.ac.uk",
+          "domain": "brookes.ac.uk"
+        },
+        "degrees": [
+          "master of arts",
+          "masters"
+        ],
+        "start_date": "2007",
+        "end_date": "2008",
+        "majors": [
+          "design",
+          "finance",
+          "marketing",
+          "publishing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of exeter",
+          "type": "post-secondary institution",
+          "id": "B1jJk3uIzAO9JBZ-OKDtbw_0000",
+          "location": {
+            "name": "exeter, england, united kingdom",
+            "locality": "exeter",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-exeter",
+          "facebook_url": "facebook.com/exeteruni",
+          "twitter_url": "twitter.com/uniofexeter",
+          "linkedin_id": "11826",
+          "website": "exeter.ac.uk",
+          "domain": "exeter.ac.uk"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2004",
+        "end_date": "2007",
+        "majors": [
+          "graphic design",
+          "publishing"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "64301982",
+        "url": "linkedin.com/in/gcovey",
+        "username": "gcovey"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/geoff-covey-96664b19",
+        "username": "geoff-covey-96664b19"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

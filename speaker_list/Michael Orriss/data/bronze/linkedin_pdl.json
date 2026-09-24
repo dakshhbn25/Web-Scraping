@@ -1,0 +1,771 @@
+{
+  "record_id": "speaker-dubrovnik-113",
+  "speaker_name": "Michael Orriss",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/michaelorriss/",
+  "scraped_at": "2026-09-18T10:23:33.034166+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "lq1KCZGewdtq7je4x7SNDQ_0000",
+    "full_name": "michael orriss",
+    "first_name": "michael",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "o",
+    "last_name": "orriss",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/michaelorriss",
+    "linkedin_username": "michaelorriss",
+    "linkedin_id": "175119630",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/michaelorriss",
+    "twitter_username": "michaelorriss",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "member of the pm society learning and development interest group",
+    "job_title_role": "human_resources",
+    "job_title_sub_role": "training",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [],
+    "job_company_id": "npi1mxooz34zQNAMFndGDwmiX4fe",
+    "job_company_name": "pm society",
+    "job_company_website": "pmsociety.org.uk",
+    "job_company_size": "11-50",
+    "job_company_founded": 1976,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "marketing services",
+    "job_company_linkedin_url": "linkedin.com/company/pmsociety",
+    "job_company_linkedin_id": "406401",
+    "job_company_facebook_url": "facebook.com/pmsociety",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "london, england, united kingdom",
+    "job_company_location_locality": "london",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.51,-0.18",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-08-01",
+    "job_last_verified": "2026-08-15",
+    "job_start_date": "2021-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-15",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "change management",
+      "commercial management",
+      "cross functional team leadership",
+      "digital marketing",
+      "digital photography",
+      "fmcg",
+      "hospital sales",
+      "management",
+      "market access",
+      "marketing operations",
+      "multi channel marketing",
+      "pharmaceutical industry",
+      "pharmaceutical marketing",
+      "pharmaceutical sales",
+      "photography",
+      "product launch",
+      "retail management",
+      "sales",
+      "sales management",
+      "seo",
+      "strategy"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "pm society",
+          "size": "11-50",
+          "id": "npi1mxooz34zQNAMFndGDwmiX4fe",
+          "founded": 1976,
+          "industry": "marketing and advertising",
+          "industry_v2": "marketing services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/pmsociety",
+          "linkedin_id": "406401",
+          "facebook_url": "facebook.com/pmsociety",
+          "twitter_url": null,
+          "website": "pmsociety.org.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-06",
+        "title": {
+          "name": "member of the pm society learning and development interest group",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "oxfordsm",
+          "size": "51-200",
+          "id": "CkuJBBvrfillrKb0falnhQCTKkps",
+          "founded": 1987,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/oxfordsm",
+          "linkedin_id": "52957",
+          "facebook_url": "facebook.com/oxfordsm-1939759166104326",
+          "twitter_url": "twitter.com/oxfordsm",
+          "website": "oxfordsm.com"
+        },
+        "location_names": [
+          "ascot, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2021-03",
+        "title": {
+          "name": "associate consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rubica change & analytics for life sciences",
+          "size": "11-50",
+          "id": "4Ha9slEmHSC31nC5LBOzWQCaEXiT",
+          "founded": 2014,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "reading, england, united kingdom",
+            "locality": "reading",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "po box 8223",
+            "address_line_2": null,
+            "postal_code": "rg6 9rr",
+            "geo": "51.45,-1.01"
+          },
+          "linkedin_url": "linkedin.com/company/rubica-change-&-analytics",
+          "linkedin_id": "9216805",
+          "facebook_url": "facebook.com/rubicauk",
+          "twitter_url": null,
+          "website": "rubica.co.uk"
+        },
+        "location_names": [
+          "ascot, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2021-01",
+        "title": {
+          "name": "principal consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "michael g orriss consulting",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "ascot, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2020-06",
+        "title": {
+          "name": "independent marketing consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "open to new opportunities",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "ascot, england, united kingdom"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2020-04",
+        "title": {
+          "name": "taking a short break and open to new opportunities",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2020-04",
+        "start_date": "2018-05",
+        "title": {
+          "name": "global commercial director - marketing operations",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2018-06",
+        "start_date": "2015-10",
+        "title": {
+          "name": "head of marketing excellence",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2015-10",
+        "start_date": "2013-09",
+        "title": {
+          "name": "senior multichannel marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2013-09",
+        "start_date": "2011-01",
+        "title": {
+          "name": "brand manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2010-12",
+        "start_date": "2006-05",
+        "title": {
+          "name": "first line sales manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2006-04",
+        "start_date": "2003-01",
+        "title": {
+          "name": "national account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "north berwick, scotland, united kingdom"
+        ],
+        "end_date": "2003-01",
+        "start_date": "2000-06",
+        "title": {
+          "name": "sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "arcadia group ltd",
+          "size": "10001+",
+          "id": "M07Ma4ShUHsxuAKfZlkBCwqEgxZw",
+          "founded": null,
+          "industry": "real estate",
+          "industry_v2": "real estate",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/arcadia-group-ltd",
+          "linkedin_id": "633746",
+          "facebook_url": "facebook.com/arcadiafuturetalent",
+          "twitter_url": "twitter.com/arcadiasocial",
+          "website": "arcadiagroup.co.uk"
+        },
+        "location_names": [
+          "windsor, north carolina, united states"
+        ],
+        "end_date": "2000-06",
+        "start_date": "1993-09",
+        "title": {
+          "name": "retail store manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sainsbury's",
+          "size": "10001+",
+          "id": "0ZXeLiPxGbt56tVnQDJMBQEkZ5cK",
+          "founded": 1869,
+          "industry": "retail",
+          "industry_v2": "retail",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "33 holborn",
+            "address_line_2": null,
+            "postal_code": "ec1n 2ht",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/sainsburys",
+          "linkedin_id": "5015",
+          "facebook_url": "facebook.com/sainsburys",
+          "twitter_url": "twitter.com/sainsburys",
+          "website": "sainsburys.co.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "1993-09",
+        "start_date": "1989-07",
+        "title": {
+          "name": "grocery department manager",
+          "class": "services",
+          "role": "hospitality",
+          "sub_role": "retail",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "abbot's hill school",
+          "type": "secondary school",
+          "id": "aWs0yfSCPWEVdnGO5Xhhsw_0000",
+          "location": {
+            "name": "hemel hempstead, england, united kingdom",
+            "locality": "hemel hempstead",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/abbot's-hill",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5058738",
+          "website": "abbotshill.herts.sch.uk",
+          "domain": "sch.uk"
+        },
+        "degrees": [],
+        "start_date": "1988",
+        "end_date": "1990",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abbots field comprehensive",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1983",
+        "end_date": "1988",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abbotsfield college",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "abbotsfield comprehensive",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "175119630",
+        "url": "linkedin.com/in/michaelorriss",
+        "username": "michaelorriss"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/michaelorriss",
+        "username": "michaelorriss"
+      },
+      {
+        "network": "linkedin",
+        "id": "175119630",
+        "url": "linkedin.com/in/michael-orriss-4667924a",
+        "username": "michael-orriss-4667924a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

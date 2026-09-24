@@ -1,0 +1,110 @@
+{
+  "record_id": "speaker-dubrovnik-046",
+  "speaker_name": "Dr. Mercede Pannozzo",
+  "linkedin_url": "https://www.linkedin.com/in/mercedepannozzo-297bb079/",
+  "likelihood": 9,
+  "full_name": "mercede pannozzo",
+  "job_title": "senior medical advisor | medical digital health, ai & healthcare innovation",
+  "industry": "pharmaceuticals",
+  "current_company": "viatris",
+  "current_company_website": "viatris.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "ai and digital innovation in healthcare",
+    "artificial intelligence",
+    "artificial intelligence for health",
+    "biotechnology",
+    "clinical trials",
+    "data dissemination",
+    "data ethics data manipulation",
+    "data mining",
+    "dermatology",
+    "electronic medical record",
+    "evidence generation and real world data strategy",
+    "feature engineering",
+    "immunology",
+    "inflammation",
+    "kol",
+    "large language",
+    "launch excellence and full medical lifecycle management",
+    "leadership",
+    "medical affairs",
+    "medical strategy and cross functional leadership",
+    "neuromuscular disorders",
+    "pharmaceuticals",
+    "rare diseases",
+    "relationship building",
+    "spoken english",
+    "stakeholder engagement and scientific communication",
+    "team leadership",
+    "unstructured data health informatics"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior medical advisor | medical digital health, ai & healthcare innovation",
+      "company": "viatris",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior medical advisor",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-06",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor",
+      "company": "mylan",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-02",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "european msl central nervous with a particular focus on multiple sclerosis",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-02",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "postdoctoral researcher sleep & cardiometabolic health",
+      "company": "darwin private hospital",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-06",
+      "end_date": "2015-11",
+      "is_primary": false
+    },
+    {
+      "title": "pharmacovigilance coordinator",
+      "company": "chiltern",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-01",
+      "end_date": "2015-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the university of edinburgh",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2015-01"
+    }
+  ]
+}

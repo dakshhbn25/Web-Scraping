@@ -1,0 +1,647 @@
+{
+  "record_id": "speaker-dubrovnik-048",
+  "speaker_name": "Kornelia Williams",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/kornelia-williams-57019912/",
+  "scraped_at": "2026-09-18T09:36:47.512472+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "W4oBkaLVWJBTQkqXr3nRbw_0000",
+    "full_name": "kornelia williams",
+    "first_name": "kornelia",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "w",
+    "last_name": "williams",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/kornelia-williams-57019912",
+    "linkedin_username": "kornelia-williams-57019912",
+    "linkedin_id": "42255588",
+    "facebook_url": "facebook.com/kornelia.williams",
+    "facebook_username": "kornelia.williams",
+    "facebook_id": "576662328",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "pharmaceuticals",
+    "job_title": "director, content strategy and operations - global customer excellence",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+    "job_company_name": "abbvie",
+    "job_company_website": "abbvie.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 2013,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/abbvie",
+    "job_company_linkedin_id": "1304385",
+    "job_company_facebook_url": "facebook.com/abbviecareers",
+    "job_company_twitter_url": "twitter.com/abbvie",
+    "job_company_location_name": "north chicago, illinois, united states",
+    "job_company_location_locality": "north chicago",
+    "job_company_location_metro": "chicago, illinois",
+    "job_company_location_region": "illinois",
+    "job_company_location_geo": "42.32,-87.84",
+    "job_company_location_street_address": "1 waukegan road",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "60064",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2021-12-10",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2021-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-02-07",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "21 cfr part 11",
+      "artificial intelligence",
+      "business analysis",
+      "business process improvement",
+      "change control",
+      "change management",
+      "content lifecycle management",
+      "content production",
+      "cross functional team leadership",
+      "fda",
+      "gmp",
+      "gxp",
+      "it management",
+      "management",
+      "manufacturing",
+      "mlro",
+      "ms project",
+      "pharmaceutical industry",
+      "pmo",
+      "pmp",
+      "process engineering",
+      "process improvement",
+      "program management",
+      "project delivery",
+      "project management",
+      "project planning",
+      "project portfolio management",
+      "quality assurance",
+      "quality management",
+      "quality system",
+      "regulatory affairs",
+      "regulatory submissions",
+      "risk management",
+      "sdlc",
+      "sharepoint",
+      "six sigma",
+      "validation",
+      "vendor management",
+      "visio"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "marlow, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2021-12",
+        "title": {
+          "name": "director, content strategy and operations - global customer excellence",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2021-11",
+        "start_date": "2020-09",
+        "title": {
+          "name": "digital integration programme lead",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": "implementation",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "allergan",
+          "size": "10001+",
+          "id": "GcBT06ea1vhWVCbBbISyGgLa2X58",
+          "founded": 1948,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "coolock, dublin, ireland",
+            "locality": "coolock",
+            "region": "dublin",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.38,-6.20"
+          },
+          "linkedin_url": "linkedin.com/company/allergan",
+          "linkedin_id": "4832",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/allergan",
+          "website": "allergan.com"
+        },
+        "location_names": [
+          "marlow, england, united kingdom"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2017-09",
+        "title": {
+          "name": "senior commercial it manager",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "allergan",
+          "size": "10001+",
+          "id": "GcBT06ea1vhWVCbBbISyGgLa2X58",
+          "founded": 1948,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "coolock, dublin, ireland",
+            "locality": "coolock",
+            "region": "dublin",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.38,-6.20"
+          },
+          "linkedin_url": "linkedin.com/company/allergan",
+          "linkedin_id": "4832",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/allergan",
+          "website": "allergan.com"
+        },
+        "location_names": [
+          "marlow, england, united kingdom",
+          "coolock, dublin, ireland"
+        ],
+        "end_date": "2017-08",
+        "start_date": "2014-06",
+        "title": {
+          "name": "rdis project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nestlé",
+          "size": "10001+",
+          "id": "PaCiblC4ZtUzQ6LHC8aj4AorHkCI",
+          "founded": null,
+          "industry": "food & beverages",
+          "industry_v2": "food and beverage services",
+          "location": {
+            "name": "vevey, vaud, switzerland",
+            "locality": "vevey",
+            "region": "vaud",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "55 avenue nestlé",
+            "address_line_2": null,
+            "postal_code": "1800",
+            "geo": "46.45,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/nestle-s-a-",
+          "linkedin_id": "1393",
+          "facebook_url": "facebook.com/nestle",
+          "twitter_url": "twitter.com/nestle",
+          "website": "nestle.com"
+        },
+        "location_names": [
+          "maidenhead, england, united kingdom"
+        ],
+        "end_date": "2014-05",
+        "start_date": "2012-12",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2012-11",
+        "start_date": "2010-07",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2010-08",
+        "start_date": "2010-01",
+        "title": {
+          "name": "regulatory labelling manager",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2010-02",
+        "start_date": "2008-07",
+        "title": {
+          "name": "programme and operations advisor",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2008-06",
+        "start_date": "2006-10",
+        "title": {
+          "name": "packaging co-ordinator",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2006-09",
+        "start_date": "2006-05",
+        "title": {
+          "name": "packaging administrator",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2006-04",
+        "start_date": "2006-01",
+        "title": {
+          "name": "european artwork and labelling support",
+          "class": "services",
+          "role": "support",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of west london",
+          "type": "post-secondary institution",
+          "id": "dBrfSW7owtPoyGTpVnIRrw_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-west-london",
+          "facebook_url": "facebook.com/universitywestlondon",
+          "twitter_url": "twitter.com/uniwestlondon",
+          "linkedin_id": "19580",
+          "website": "uwl.ac.uk",
+          "domain": "uwl.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2011",
+        "majors": [
+          "project management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of west london",
+          "type": "post-secondary institution",
+          "id": "dBrfSW7owtPoyGTpVnIRrw_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-west-london",
+          "facebook_url": "facebook.com/universitywestlondon",
+          "twitter_url": "twitter.com/uniwestlondon",
+          "linkedin_id": "19580",
+          "website": "uwl.ac.uk",
+          "domain": "uwl.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2005-01",
+        "end_date": "2009",
+        "majors": [
+          "information systems"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "42255588",
+        "url": "linkedin.com/in/kornelia-williams-57019912",
+        "username": "kornelia-williams-57019912"
+      },
+      {
+        "network": "facebook",
+        "id": "576662328",
+        "url": "facebook.com/kornelia.williams",
+        "username": "kornelia.williams"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

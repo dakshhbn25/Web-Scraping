@@ -1,0 +1,516 @@
+{
+  "record_id": "speaker-dubrovnik-070",
+  "speaker_name": "Jochen Baumeister",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/jbaumeister/",
+  "scraped_at": "2026-09-18T09:37:33.813624+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "jwi1eo5l5yEl-MdMpa3jzw_0000",
+    "full_name": "jochen baumeister",
+    "first_name": "jochen",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "baumeister",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/jbaumeister",
+    "linkedin_username": "jbaumeister",
+    "linkedin_id": "179189724",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/analyzehumans",
+    "twitter_username": "analyzehumans",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of behavioral science & data science / ai",
+    "job_title_role": "engineering",
+    "job_title_sub_role": "data_science",
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "uub8samWX0d8T13kglUHgQ2VCOz4",
+    "job_company_name": "sandoz",
+    "job_company_website": "sandoz.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1886,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/sandoz",
+    "job_company_linkedin_id": "4891",
+    "job_company_facebook_url": "facebook.com/sandozglobal",
+    "job_company_twitter_url": "twitter.com/sandoz_global",
+    "job_company_location_name": "basel, basel-stadt, switzerland",
+    "job_company_location_locality": "basel",
+    "job_company_location_metro": null,
+    "job_company_location_region": "basel-stadt",
+    "job_company_location_geo": "47.54,7.59",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "4056",
+    "job_company_location_country": "switzerland",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2023-07-01",
+    "job_last_verified": "2026-08-18",
+    "job_start_date": "2023-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-18",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adobe analytics",
+      "adobe experience manager",
+      "ai governance",
+      "ai strategy",
+      "ai transformation",
+      "amazon web services",
+      "analytics",
+      "artificial intelligence",
+      "behavioral design",
+      "behavioral economics",
+      "behavioral science",
+      "business analytics",
+      "change management",
+      "customer insight",
+      "data analysis",
+      "data analytics",
+      "data science",
+      "data strategy",
+      "datenanalyse",
+      "datenverarbeitung",
+      "datenvisualisierung",
+      "design thinking",
+      "digital transformation",
+      "energy industry",
+      "eu ai act",
+      "generative ai",
+      "google analytics",
+      "insurance industry",
+      "kommunikation",
+      "kundenerfahrung",
+      "kundenzufriedenheit",
+      "leadership",
+      "maschinelles lernen",
+      "matlab",
+      "microsoft azure",
+      "microsoft excel",
+      "microsoft office",
+      "microsoft powerpoint",
+      "microsoft word",
+      "people analytics",
+      "pharmaceutical industry",
+      "powerpoint",
+      "project management",
+      "psychology",
+      "python",
+      "quantitative analytics",
+      "quantitative research",
+      "r",
+      "rasa",
+      "rasa platform",
+      "regulatory compliance",
+      "research",
+      "ressourcenallokation",
+      "risk analysis",
+      "risk management",
+      "robotic process automation",
+      "social psychology",
+      "social sciences",
+      "spss",
+      "sql",
+      "stakeholder management",
+      "statistics",
+      "statistische datenanalyse",
+      "strategie",
+      "strategy",
+      "tableau",
+      "teammanagement",
+      "user experience",
+      "wachstumsstrategien"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "chile"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "sandoz",
+          "size": "10001+",
+          "id": "uub8samWX0d8T13kglUHgQ2VCOz4",
+          "founded": 1886,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4056",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/sandoz",
+          "linkedin_id": "4891",
+          "facebook_url": "facebook.com/sandozglobal",
+          "twitter_url": "twitter.com/sandoz_global",
+          "website": "sandoz.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": null,
+        "start_date": "2023-04",
+        "title": {
+          "name": "global head of behavioral science & data science / ai",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "allianz",
+          "size": "10001+",
+          "id": "BkZOf8ANB6zMLA53eaSHZgKAE3Yx",
+          "founded": 1890,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "28 koeniginstrasse",
+            "address_line_2": null,
+            "postal_code": "80802",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/allianz",
+          "linkedin_id": "2979",
+          "facebook_url": "facebook.com/allianz",
+          "twitter_url": "twitter.com/allianz",
+          "website": "allianz.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2023-03",
+        "start_date": "2021-05",
+        "title": {
+          "name": "data science manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "allianz",
+          "size": "10001+",
+          "id": "BkZOf8ANB6zMLA53eaSHZgKAE3Yx",
+          "founded": 1890,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "28 koeniginstrasse",
+            "address_line_2": null,
+            "postal_code": "80802",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/allianz",
+          "linkedin_id": "2979",
+          "facebook_url": "facebook.com/allianz",
+          "twitter_url": "twitter.com/allianz",
+          "website": "allianz.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2018-11",
+        "title": {
+          "name": "behavioral economist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "e.on",
+          "size": "10001+",
+          "id": "zCsKhih4MqG5BNi2Qyp3fAuAEM78",
+          "founded": 2000,
+          "industry": "utilities",
+          "industry_v2": "utilities",
+          "location": {
+            "name": "essen, north rhine-westphalia, germany",
+            "locality": "essen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 brüsseler platz",
+            "address_line_2": null,
+            "postal_code": "45131",
+            "geo": "51.42,7.06"
+          },
+          "linkedin_url": "linkedin.com/company/e-on",
+          "linkedin_id": "4383",
+          "facebook_url": "facebook.com/eon",
+          "twitter_url": "twitter.com/eon_se_en",
+          "website": "eon.com"
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2018-11",
+        "start_date": "2016-11",
+        "title": {
+          "name": "data scientist / artificial intelligence specialist",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "data_science",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ludwig - maximilians - universität münchen",
+          "type": "post-secondary institution",
+          "id": "xzWvTDsoBC3Llxgl90ptlA_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lmu.muenchen",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "596185",
+          "website": "lmu.de",
+          "domain": "lmu.de"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2018",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "technical university of munich",
+          "type": "post-secondary institution",
+          "id": "kcADTmdpy5OXv-Jg2mFjtw_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/technische-universitat-munchen",
+          "facebook_url": "facebook.com/tu.muenchen",
+          "twitter_url": "twitter.com/tu_muenchen",
+          "linkedin_id": "166283",
+          "website": "tum.de",
+          "domain": "tum.de"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2018",
+        "majors": [
+          "computer science",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ucl",
+          "type": "post-secondary institution",
+          "id": "G9NsmugT8wQ2Ouasf0gGjg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-college-london",
+          "facebook_url": "facebook.com/uclofficial",
+          "twitter_url": "twitter.com/ucl",
+          "linkedin_id": "4171",
+          "website": "ucl.ac.uk",
+          "domain": "ucl.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2014-01",
+        "end_date": "2015",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mcgill university",
+          "type": "post-secondary institution",
+          "id": "uKA8XBX8-o2uCwM1HrF0Lw_0000",
+          "location": {
+            "name": "montreal, quebec, canada",
+            "locality": "montreal",
+            "region": "quebec",
+            "country": "canada",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mcgill-university",
+          "facebook_url": "facebook.com/mcgilluniversity",
+          "twitter_url": "twitter.com/mcgillu",
+          "linkedin_id": "4855",
+          "website": "mcgill.ca",
+          "domain": "mcgill.ca"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ludwig - maximilians - universität münchen",
+          "type": "post-secondary institution",
+          "id": "xzWvTDsoBC3Llxgl90ptlA_0000",
+          "location": {
+            "name": "munich, bavaria, germany",
+            "locality": "munich",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lmu.muenchen",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "596185",
+          "website": "lmu.de",
+          "domain": "lmu.de"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2014",
+        "majors": [
+          "neuroscience",
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "saïd business school, university of oxford",
+          "type": "post-secondary institution",
+          "id": "q2Q5-i2vAkb5LupDO8paxA_0000",
+          "location": {
+            "name": "oxford, england, united kingdom",
+            "locality": "oxford",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/oxfordsbs",
+          "facebook_url": "facebook.com/the.university.of.oxford",
+          "twitter_url": "twitter.com/uniofoxford",
+          "linkedin_id": "4476",
+          "website": "sbs.ox.ac.uk",
+          "domain": "ox.ac.uk"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2023",
+        "majors": [
+          "leadership"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "179189724",
+        "url": "linkedin.com/in/jbaumeister",
+        "username": "jbaumeister"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/analyzehumans",
+        "username": "analyzehumans"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

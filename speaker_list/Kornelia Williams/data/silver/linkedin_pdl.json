@@ -1,0 +1,173 @@
+{
+  "record_id": "speaker-dubrovnik-048",
+  "speaker_name": "Kornelia Williams",
+  "linkedin_url": "https://www.linkedin.com/in/kornelia-williams-57019912/",
+  "likelihood": 9,
+  "full_name": "kornelia williams",
+  "job_title": "director, content strategy and operations - global customer excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "abbvie",
+  "current_company_website": "abbvie.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "21 cfr part 11",
+    "artificial intelligence",
+    "business analysis",
+    "business process improvement",
+    "change control",
+    "change management",
+    "content lifecycle management",
+    "content production",
+    "cross functional team leadership",
+    "fda",
+    "gmp",
+    "gxp",
+    "it management",
+    "management",
+    "manufacturing",
+    "mlro",
+    "ms project",
+    "pharmaceutical industry",
+    "pmo",
+    "pmp",
+    "process engineering",
+    "process improvement",
+    "program management",
+    "project delivery",
+    "project management",
+    "project planning",
+    "project portfolio management",
+    "quality assurance",
+    "quality management",
+    "quality system",
+    "regulatory affairs",
+    "regulatory submissions",
+    "risk management",
+    "sdlc",
+    "sharepoint",
+    "six sigma",
+    "validation",
+    "vendor management",
+    "visio"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director, content strategy and operations - global customer excellence",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "digital integration programme lead",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior commercial it manager",
+      "company": "allergan",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-09",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "rdis project manager",
+      "company": "allergan",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-06",
+      "end_date": "2017-08",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "nestlé",
+      "company_industry": "food & beverages",
+      "start_date": "2012-12",
+      "end_date": "2014-05",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-07",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "regulatory labelling manager",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-01",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "programme and operations advisor",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008-07",
+      "end_date": "2010-02",
+      "is_primary": false
+    },
+    {
+      "title": "packaging co-ordinator",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-10",
+      "end_date": "2008-06",
+      "is_primary": false
+    },
+    {
+      "title": "packaging administrator",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-05",
+      "end_date": "2006-09",
+      "is_primary": false
+    },
+    {
+      "title": "european artwork and labelling support",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-01",
+      "end_date": "2006-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of west london",
+      "majors": [
+        "project management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "university of west london",
+      "majors": [
+        "information systems"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2009"
+    }
+  ]
+}

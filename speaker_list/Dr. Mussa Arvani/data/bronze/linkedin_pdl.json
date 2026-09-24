@@ -1,0 +1,1262 @@
+{
+  "record_id": "speaker-dubrovnik-074",
+  "speaker_name": "Dr. Mussa Arvani",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/dr-mussa-arvani-md/",
+  "scraped_at": "2026-09-18T09:37:42.461289+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "cj7vqMLBBTWq45XnzedrPg_0000",
+    "full_name": "mussa arvani",
+    "first_name": "mussa",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "arvani",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/dr-mussa-arvani-md",
+    "linkedin_username": "dr-mussa-arvani-md",
+    "linkedin_id": "454381858",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "independent meducator and founder - mms",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": null,
+    "job_company_name": "mms maestro medical solutions",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2026-06-25",
+    "job_last_verified": "2026-07-14",
+    "job_start_date": "2026-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-14",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "advisory boards",
+      "agile project management",
+      "analytical skills",
+      "artificial intelligence",
+      "artificial intelligence for business",
+      "budget management",
+      "budgetierung",
+      "build strong relationships",
+      "business acumen",
+      "business strategy",
+      "cardiology",
+      "career development",
+      "change management",
+      "clinical pharmacology",
+      "clinical research",
+      "clinical teaching",
+      "clinical trials",
+      "coaching",
+      "coaching and mentoring",
+      "communication",
+      "conversational skills",
+      "data ethics",
+      "diabetes",
+      "diabetic eye",
+      "digital health",
+      "diversity and inclusion",
+      "doctor of medicine",
+      "employee training",
+      "englisch",
+      "feature engineering",
+      "flexibility",
+      "good clinical practice",
+      "health informatics",
+      "healthcare",
+      "healthcare management",
+      "immunology",
+      "inflammation",
+      "insight generation",
+      "internal medicine",
+      "international experience",
+      "internationale teams",
+      "kennzahlen",
+      "key account development",
+      "kol management",
+      "leadership",
+      "life sciences",
+      "market access",
+      "market research",
+      "marketing",
+      "medical affairs",
+      "medical communications",
+      "medical conferences",
+      "medical doctor",
+      "medical education",
+      "medical information",
+      "medical management",
+      "medical marketing",
+      "medical monitoring",
+      "medical retina",
+      "medical science liaison",
+      "medical writing",
+      "medicine",
+      "model evaluation",
+      "netzwerkaufbau",
+      "neuroscience",
+      "ophthalmology",
+      "orphan drugs",
+      "patient care",
+      "people management",
+      "pharmaceutical industry",
+      "pharmazeutika",
+      "presentation skills",
+      "problem solving",
+      "product launch",
+      "project management",
+      "projektmanagement",
+      "public affairs",
+      "publications",
+      "rare diseases",
+      "research and development",
+      "sales",
+      "scientific communications",
+      "scientific writing",
+      "self confidence",
+      "specialty care",
+      "stakeholder management",
+      "strategic planning",
+      "strategy",
+      "team building",
+      "team leadership",
+      "team organisation",
+      "teammanagement",
+      "telemedicine",
+      "transformation",
+      "vaccines",
+      "web conferences"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "mms maestro medical solutions",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-06",
+        "title": {
+          "name": "independent meducator and founder - mms",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "iu international university of applied sciences",
+          "size": "1001-5000",
+          "id": "DSlBRZqVkI2X3sss51A64QtpqLom",
+          "founded": 1998,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "erfurt, thuringia, germany",
+            "locality": "erfurt",
+            "region": "thuringia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "152 juri-gagarin-ring",
+            "address_line_2": null,
+            "postal_code": "99084",
+            "geo": "50.97,11.03"
+          },
+          "linkedin_url": "linkedin.com/school/iubh-hochschule",
+          "linkedin_id": "15091817",
+          "facebook_url": "de-de.facebook.com/iu.fernstudium",
+          "twitter_url": null,
+          "website": "iu.de"
+        },
+        "location_names": [
+          "bonn, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2026-07",
+        "title": {
+          "name": "external lecturer | healthcare management",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lingoda gmbh",
+          "size": "201-500",
+          "id": "HJcW26Tckyp4fHkAbBUBfwfgiMAl",
+          "founded": 2014,
+          "industry": "e-learning",
+          "industry_v2": "e-learning providers",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "69 zimmerstraße",
+            "address_line_2": null,
+            "postal_code": "10117",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/lingoda-gmbh",
+          "linkedin_id": "3312920",
+          "facebook_url": "facebook.com/lingoda",
+          "twitter_url": "twitter.com/lingoda",
+          "website": "lingoda.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-04",
+        "title": {
+          "name": "medical lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medical affairs professional society (maps)",
+          "size": "11-50",
+          "id": "nqw4VDrbOlcUMCalsJqCqg5y8UqH",
+          "founded": 2016,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "golden, colorado, united states",
+            "locality": "golden",
+            "region": "colorado",
+            "metro": "denver, colorado",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "602 park point drive",
+            "address_line_2": "suite 105",
+            "postal_code": "80401",
+            "geo": "39.70,-105.23"
+          },
+          "linkedin_url": "linkedin.com/company/mapsmedaffairs",
+          "linkedin_id": "10864253",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "medicalaffairs.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "leadership & management - competency team",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2026-05",
+        "start_date": "2024-12",
+        "title": {
+          "name": "medical group lead immunology, infectious diseases & ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medical affairs professional society (maps)",
+          "size": "11-50",
+          "id": "nqw4VDrbOlcUMCalsJqCqg5y8UqH",
+          "founded": 2016,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "golden, colorado, united states",
+            "locality": "golden",
+            "region": "colorado",
+            "metro": "denver, colorado",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "602 park point drive",
+            "address_line_2": "suite 105",
+            "postal_code": "80401",
+            "geo": "39.70,-105.23"
+          },
+          "linkedin_url": "linkedin.com/company/mapsmedaffairs",
+          "linkedin_id": "10864253",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "medicalaffairs.org"
+        },
+        "location_names": [],
+        "end_date": "2025-12",
+        "start_date": "2024-04",
+        "title": {
+          "name": "field medical focus area working group",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-11",
+        "start_date": "2023-06",
+        "title": {
+          "name": "field medical coordinator xgbu",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kassenärztliche vereinigung berlin",
+          "size": "201-500",
+          "id": "SD1l23x5lBLB7YtCGV2KLwafGbpR",
+          "founded": 1955,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "6a masurenallee",
+            "address_line_2": null,
+            "postal_code": "14057",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/kassenärztliche-vereinigung-berlin",
+          "linkedin_id": "7371357",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kvberlin.de"
+        },
+        "location_names": [],
+        "end_date": "2022-01",
+        "start_date": "2021-04",
+        "title": {
+          "name": "covid-19 vaccination service",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2021-01",
+        "title": {
+          "name": "head of msl general medicines - germany, switzerland, austria",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "dach, gilgit-baltistan, pakistan"
+        ],
+        "end_date": "2020-12",
+        "start_date": "2018-07",
+        "title": {
+          "name": "senior medical science liaison manager - ophthalmology & rare diseases",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alimera",
+          "size": "51-200",
+          "id": "zgMHnqpq9UTRjFIiESnWvwzkIDyx",
+          "founded": 2003,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "alpharetta, georgia, united states",
+            "locality": "alpharetta",
+            "region": "georgia",
+            "metro": "atlanta, georgia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "6310 town square",
+            "address_line_2": "suite 400",
+            "postal_code": null,
+            "geo": "34.06,-84.25"
+          },
+          "linkedin_url": "linkedin.com/company/alimera-sciences",
+          "linkedin_id": "53974",
+          "facebook_url": "facebook.com/alimerasciences",
+          "twitter_url": "twitter.com/alimerasciences",
+          "website": "alimerasciences.com"
+        },
+        "location_names": [],
+        "end_date": "2018-07",
+        "start_date": "2018-01",
+        "title": {
+          "name": "senior medical advisor",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "alimera",
+          "size": "51-200",
+          "id": "zgMHnqpq9UTRjFIiESnWvwzkIDyx",
+          "founded": 2003,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "alpharetta, georgia, united states",
+            "locality": "alpharetta",
+            "region": "georgia",
+            "metro": "atlanta, georgia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "6310 town square",
+            "address_line_2": "suite 400",
+            "postal_code": null,
+            "geo": "34.06,-84.25"
+          },
+          "linkedin_url": "linkedin.com/company/alimera-sciences",
+          "linkedin_id": "53974",
+          "facebook_url": "facebook.com/alimerasciences",
+          "twitter_url": "twitter.com/alimerasciences",
+          "website": "alimerasciences.com"
+        },
+        "location_names": [
+          "alpharetta, georgia, united states"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-12",
+        "title": {
+          "name": "senior medical science liaison manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2016-01",
+        "start_date": "2015-07",
+        "title": {
+          "name": "medical advisor - ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2016-11",
+        "start_date": "2013-06",
+        "title": {
+          "name": "medical science liaison manager - ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kantonsspital aarau ag",
+          "size": "1001-5000",
+          "id": "jG1QRfz7EdOxvDHkY2iF1wpeqsXH",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "aarau 1, aargau, switzerland",
+            "locality": "aarau 1",
+            "region": "aargau",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "25 tellstrasse",
+            "address_line_2": null,
+            "postal_code": "5001",
+            "geo": "47.38,8.04"
+          },
+          "linkedin_url": "linkedin.com/company/kantonsspital-aarau-ag",
+          "linkedin_id": "5244077",
+          "facebook_url": "facebook.com/ksaarau",
+          "twitter_url": null,
+          "website": "ksa.ch"
+        },
+        "location_names": [
+          "aarau, aargau, switzerland"
+        ],
+        "end_date": "2012-04",
+        "start_date": "2012-02",
+        "title": {
+          "name": "clinician in elective period, ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charite campus virchow-klinikum klinik fur augenheilkunde",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-02",
+        "start_date": "2011-11",
+        "title": {
+          "name": "resident clinician, ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charite campus virchow-klinikum klinik fur augenheilkunde",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2012-07",
+        "start_date": "2011-05",
+        "title": {
+          "name": "clinical study coordinator, ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charité universitätsmedizin berlin - campus benjamin franklin",
+          "size": "1-10",
+          "id": "gaAZd7BMSinYVUVhATCF4AoDauW7",
+          "founded": null,
+          "industry": "medical practice",
+          "industry_v2": "medical practices",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "30 hindenburgdamm",
+            "address_line_2": null,
+            "postal_code": "12203",
+            "geo": "52.48,13.44"
+          },
+          "linkedin_url": "linkedin.com/company/charité-universitätsmedizin-berlin---campus-benjamin-franklin",
+          "linkedin_id": "41134667",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2011-12",
+        "start_date": "2011-04",
+        "title": {
+          "name": "medical patient service - morbus parkinson",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "klinik für unfallchirurgie - medizinische hochschule hannover",
+          "size": "1-10",
+          "id": "8V86Hs0cFTGvqWNBBt0FMgLDvq3J",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "hannover, lower saxony, germany",
+            "locality": "hannover",
+            "region": "lower saxony",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "1 carl-neuberg-straße",
+            "address_line_2": null,
+            "postal_code": "30625",
+            "geo": "52.37,9.74"
+          },
+          "linkedin_url": "linkedin.com/company/klinik-für-unfallchirurgie---medizinische-hochschule-hannover",
+          "linkedin_id": "37887463",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mhh-unfallchirurgie.de"
+        },
+        "location_names": [
+          "deich-und sielrott, lower saxony, germany",
+          "hannover, lower saxony, germany"
+        ],
+        "end_date": "2011-04",
+        "start_date": "2011-02",
+        "title": {
+          "name": "medical trainee, trauma surgery",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ophtalmologie lariboisière",
+          "size": "201-500",
+          "id": "y7CvBiWd76x3HIJS3k7ZdAfQatsP",
+          "founded": 1903,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "2 rue ambroise paré",
+            "address_line_2": null,
+            "postal_code": "75474",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ophtalmologie-lariboisière",
+          "linkedin_id": "42303502",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ophtalmologie-lariboisiere.fr"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2010-10",
+        "start_date": "2010-08",
+        "title": {
+          "name": "medical trainee, ophthalmology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hospital for special surgery",
+          "size": "5001-10000",
+          "id": "r6Qmn8l27JzuCCiyrWg3SAT5MQ0K",
+          "founded": 1863,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "535 east 70th street",
+            "address_line_2": null,
+            "postal_code": "10021",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/hospital-for-special-surgery",
+          "linkedin_id": "16907",
+          "facebook_url": "facebook.com/hspecialsurgery",
+          "twitter_url": null,
+          "website": "hss.edu"
+        },
+        "location_names": [],
+        "end_date": "2009-10",
+        "start_date": "2009-08",
+        "title": {
+          "name": "medical trainee, orthopedics",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "charite campus benjamin franklin klinik fur neurologie",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "berlin, berlin, germany"
+        ],
+        "end_date": "2011-05",
+        "start_date": "2009-01",
+        "title": {
+          "name": "clinical study coordinator, neurology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "srh fernhochschule - the mobile university",
+          "type": "post-secondary institution",
+          "id": "iHc-GsjrxE01Py8IsQwEkg_0000",
+          "location": {
+            "name": "riedlingen, baden-württemberg, germany",
+            "locality": "riedlingen",
+            "region": "baden-württemberg",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/srh-fernhochschule",
+          "facebook_url": "facebook.com/srh.fernhochschule",
+          "twitter_url": "twitter.com/srh_mobileuni",
+          "linkedin_id": "7159801",
+          "website": "mobile-university.de",
+          "domain": "mobile-university.de"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2020-01",
+        "end_date": "2022-12",
+        "majors": [
+          "health care administration",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "stanford university school of medicine",
+          "type": "post-secondary institution",
+          "id": "0lQUQF6zfa4cFLGNaiysNA_0000",
+          "location": {
+            "name": "palo alto, california, united states",
+            "locality": "palo alto",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/stanford-university-school-of-medicine",
+          "facebook_url": "facebook.com/stanford",
+          "twitter_url": "twitter.com/stanford",
+          "linkedin_id": "1790",
+          "website": "med.stanford.edu",
+          "domain": "stanford.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-07",
+        "end_date": "2019-07",
+        "majors": [
+          "writing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvardx - an online learning initiative by harvard university through edx",
+          "type": "post-secondary institution",
+          "id": "AkyLgSs0G2r3jn3SA7lV3w_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/harvardx-edx",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "14579095",
+          "website": "harvardx.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-07",
+        "end_date": null,
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "harvardx - an online learning initiative by harvard university through edx",
+          "type": "post-secondary institution",
+          "id": "AkyLgSs0G2r3jn3SA7lV3w_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/harvardx-edx",
+          "facebook_url": "facebook.com/harvard",
+          "twitter_url": "twitter.com/harvard",
+          "linkedin_id": "14579095",
+          "website": "harvardx.harvard.edu",
+          "domain": "harvard.edu"
+        },
+        "degrees": [],
+        "start_date": "2019-01",
+        "end_date": null,
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "medizinische hochschule hannover",
+          "type": "post-secondary institution",
+          "id": "gfTBNu1f0c4bYmitU9M9aw_0000",
+          "location": {
+            "name": "hannover, lower saxony, germany",
+            "locality": "hannover",
+            "region": "lower saxony",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/medizinische-hochschule-hannover",
+          "facebook_url": "facebook.com/mhhnova",
+          "twitter_url": null,
+          "linkedin_id": "15094027",
+          "website": "mhh.de",
+          "domain": "mhh.de"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "2014-10",
+        "end_date": "2014-10",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "charité - universitätsmedizin berlin",
+          "type": "post-secondary institution",
+          "id": "orTKfvd--EHS6PolF08jNg_0000",
+          "location": {
+            "name": "berlin, berlin, germany",
+            "locality": "berlin",
+            "region": "berlin",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/charite",
+          "facebook_url": "facebook.com/chariteuniversitaetsmedizinberlin",
+          "twitter_url": "twitter.com/chariteberlin",
+          "linkedin_id": "44032",
+          "website": "jobs.charite.de",
+          "domain": "charite.de"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": "2006-01",
+        "end_date": "2012-12",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "stanford university school of medicine",
+          "type": "post-secondary institution",
+          "id": "0lQUQF6zfa4cFLGNaiysNA_0000",
+          "location": {
+            "name": "palo alto, california, united states",
+            "locality": "palo alto",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/stanford-university-school-of-medicine",
+          "facebook_url": "facebook.com/stanford",
+          "twitter_url": "twitter.com/stanford",
+          "linkedin_id": "1790",
+          "website": "med.stanford.edu",
+          "domain": "stanford.edu"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2019-12",
+        "majors": [
+          "writing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "medizinische hochschule hannover",
+          "type": "post-secondary institution",
+          "id": "gfTBNu1f0c4bYmitU9M9aw_0000",
+          "location": {
+            "name": "hannover, lower saxony, germany",
+            "locality": "hannover",
+            "region": "lower saxony",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/medizinische-hochschule-hannover",
+          "facebook_url": "facebook.com/mhhnova",
+          "twitter_url": null,
+          "linkedin_id": "15094027",
+          "website": "mhh.de",
+          "domain": "mhh.de"
+        },
+        "degrees": [
+          "doctorates",
+          "doctor of medicine"
+        ],
+        "start_date": null,
+        "end_date": "2014-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "454381858",
+        "url": "linkedin.com/in/dr-mussa-arvani-md",
+        "username": "dr-mussa-arvani-md"
+      },
+      {
+        "network": "linkedin",
+        "id": "454381858",
+        "url": "linkedin.com/in/dr-mussa-arvani-md-56a208108",
+        "username": "dr-mussa-arvani-md-56a208108"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/dr-med-mussa-arvani-56a208108",
+        "username": "dr-med-mussa-arvani-56a208108"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

@@ -1,0 +1,519 @@
+{
+  "record_id": "speaker-dubrovnik-081",
+  "speaker_name": "Mark Meyling",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/mark-gmelig-meyling-88682a/",
+  "scraped_at": "2026-09-18T09:37:57.815459+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "wis0jnR7zHE3X8BBBlzCtQ_0000",
+    "full_name": "mark meyling",
+    "first_name": "mark",
+    "middle_initial": "g",
+    "middle_name": "gmelig",
+    "last_initial": "m",
+    "last_name": "meyling",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/mark-gmelig-meyling-88682a",
+    "linkedin_username": "mark-gmelig-meyling-88682a",
+    "linkedin_id": "2050662",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "management consulting",
+    "job_title": "director, independent medical education, sales",
+    "job_title_role": "creative",
+    "job_title_sub_role": "journalism",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+    "job_company_name": "wiley",
+    "job_company_website": "wiley.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1807,
+    "job_company_industry": "publishing",
+    "job_company_industry_v2": "book and periodical publishing",
+    "job_company_linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+    "job_company_linkedin_id": "164549",
+    "job_company_facebook_url": "facebook.com/johnwileysons",
+    "job_company_twitter_url": "twitter.com/wileytextbooks",
+    "job_company_location_name": "hoboken, new jersey, united states",
+    "job_company_location_locality": "hoboken",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.74,-74.02",
+    "job_company_location_street_address": "111 river street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "07030",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-02-16",
+    "job_last_verified": "2026-07-27",
+    "job_start_date": "2025-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-27",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "account management",
+      "annunci pubblicitari",
+      "attenzione al dettaglio",
+      "budgeting",
+      "business planning",
+      "business strategy",
+      "coaching",
+      "continuing medical education",
+      "contract negotiation",
+      "cross functional team leadership",
+      "customer relations",
+      "customer service",
+      "digital marketing",
+      "dutch",
+      "email marketing",
+      "english",
+      "fluent english",
+      "formazione nella comunicazione",
+      "french",
+      "german",
+      "healthcare",
+      "key account management",
+      "leadership",
+      "management",
+      "management consulting",
+      "market access",
+      "market analysis",
+      "market research",
+      "marketing communications",
+      "marketing management",
+      "marketing strategy",
+      "medical education",
+      "negotiation",
+      "new business development",
+      "online marketing",
+      "organizational development",
+      "people management",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceuticals",
+      "powerpoint",
+      "print production",
+      "problem solving",
+      "product development",
+      "product launch",
+      "public relations",
+      "publishing",
+      "relationship development",
+      "sales",
+      "sales effectiveness",
+      "sales management",
+      "spanish",
+      "strategic planning",
+      "strategic thinking",
+      "strategy development",
+      "team building",
+      "team leadership",
+      "team management",
+      "teamwork"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "director, independent medical education, sales",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "wiley",
+          "size": "5001-10000",
+          "id": "tbrwxz8vH5iemn93vQOcjwt9hLOQ",
+          "founded": 1807,
+          "industry": "publishing",
+          "industry_v2": "book and periodical publishing",
+          "location": {
+            "name": "hoboken, new jersey, united states",
+            "locality": "hoboken",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "111 river street",
+            "address_line_2": null,
+            "postal_code": "07030",
+            "geo": "40.74,-74.02"
+          },
+          "linkedin_url": "linkedin.com/company/john-wiley-and-sons",
+          "linkedin_id": "164549",
+          "facebook_url": "facebook.com/johnwileysons",
+          "twitter_url": "twitter.com/wileytextbooks",
+          "website": "wiley.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2021-11",
+        "title": {
+          "name": "senior manager medical education, emea & us",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eco international sa",
+          "size": "51-200",
+          "id": "s2JoRBZKli2LifV1kTiuDAwsa5wb",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lugano, ticino, switzerland",
+            "locality": "lugano",
+            "region": "ticino",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "27 corso elvezia",
+            "address_line_2": null,
+            "postal_code": "6900",
+            "geo": "46.00,8.95"
+          },
+          "linkedin_url": "linkedin.com/company/eco-international",
+          "linkedin_id": "70009049",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ecointernational.ch"
+        },
+        "location_names": [],
+        "end_date": "2021-12",
+        "start_date": "2020-01",
+        "title": {
+          "name": "consulting partner",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elsevier health and medical sciences journals",
+          "size": "1-10",
+          "id": "5Jv7n4kVCOR47SKmnjVyeAXSA5EO",
+          "founded": null,
+          "industry": null,
+          "industry_v2": "periodical publishing",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/elsevier-health-and-medical-sciences-journals",
+          "linkedin_id": "106592831",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "lugano, ticino, switzerland"
+        ],
+        "end_date": "2021-10",
+        "start_date": "2018-12",
+        "title": {
+          "name": "distributor - pharma life sciences solutions",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "servodomo sa / vezzoligas sa",
+          "size": "11-50",
+          "id": "hpfCqVY6KhgOSyCQZze3LA16fC2e",
+          "founded": 1961,
+          "industry": "renewables & environment",
+          "industry_v2": "renewable energy semiconductor manufacturing",
+          "location": {
+            "name": "bedano, ticino, switzerland",
+            "locality": "bedano",
+            "region": "ticino",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "15 viaduct ai gelsi",
+            "address_line_2": null,
+            "postal_code": "6930",
+            "geo": "46.05,8.91"
+          },
+          "linkedin_url": "linkedin.com/company/servodomo-sa",
+          "linkedin_id": "33431632",
+          "facebook_url": "facebook.com/servodomo",
+          "twitter_url": null,
+          "website": "vezzoli.ch"
+        },
+        "location_names": [
+          "bedano, ticino, switzerland"
+        ],
+        "end_date": "2020-11",
+        "start_date": "2018-01",
+        "title": {
+          "name": "consulting marketing manager",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gnm healthcare",
+          "size": "11-50",
+          "id": "556UnpyLfOXhjUZxTNnXnQzw0xpB",
+          "founded": 2005,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "112 west 34th street",
+            "address_line_2": "18th floor",
+            "postal_code": "10120",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/gnm-healthcare-consulting-group-llc",
+          "linkedin_id": "2616716",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "gnmhealthcare.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2018-10",
+        "start_date": "2012-05",
+        "title": {
+          "name": "international business development consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gmi sa",
+          "size": "1-10",
+          "id": "WziALUDuDTexELGhYySTCAOaOlGE",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "lugano, ticino, switzerland",
+            "locality": "lugano",
+            "region": "ticino",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "6900",
+            "geo": "46.00,8.95"
+          },
+          "linkedin_url": "linkedin.com/company/gmi-sa",
+          "linkedin_id": "10931947",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "gmisa.ch"
+        },
+        "location_names": [
+          "lugano, ticino, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2012-01",
+        "title": {
+          "name": "entrepeneur",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "simid international",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-04",
+        "start_date": "2008-01",
+        "title": {
+          "name": "director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "simid",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-04",
+        "start_date": "2005-08",
+        "title": {
+          "name": "managing director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "via marketing & promotion",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2005",
+        "start_date": "2004",
+        "title": {
+          "name": "managing director",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "2050662",
+        "url": "linkedin.com/in/mark-gmelig-meyling-88682a",
+        "username": "mark-gmelig-meyling-88682a"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

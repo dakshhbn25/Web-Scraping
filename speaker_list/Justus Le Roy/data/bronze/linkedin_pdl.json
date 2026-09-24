@@ -1,0 +1,614 @@
+{
+  "record_id": "speaker-viennacx-009",
+  "speaker_name": "Justus Le Roy",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/justusleroy/",
+  "scraped_at": "2026-09-18T10:25:17.522743+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "k1CZYArQxwvFqJ4qI7dLsw_0000",
+    "full_name": "justus le roy",
+    "first_name": "justus",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "le roy",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/justusleroy",
+    "linkedin_username": "justusleroy",
+    "linkedin_id": "6664935",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director digital marketing & engagement strategy, incyte international",
+    "job_title_role": "marketing",
+    "job_title_sub_role": null,
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "DtP97656KRJduTDrtE0iVAAJZuQ8",
+    "job_company_name": "incyte",
+    "job_company_website": "incyte.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1991,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/incyte",
+    "job_company_linkedin_id": "6761",
+    "job_company_facebook_url": "facebook.com/incyte",
+    "job_company_twitter_url": "twitter.com/incyte",
+    "job_company_location_name": "wilmington, delaware, united states",
+    "job_company_location_locality": "wilmington",
+    "job_company_location_metro": "philadelphia, pennsylvania",
+    "job_company_location_region": "delaware",
+    "job_company_location_geo": "39.74,-75.52",
+    "job_company_location_street_address": "1801 augustine cut-off",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "19803",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-04-11",
+    "job_last_verified": "2026-07-28",
+    "job_start_date": "2023-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-28",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adobe photoshop",
+      "analytical skills",
+      "analytics",
+      "b2b marketing",
+      "biotechnology industry",
+      "business development",
+      "business strategy",
+      "communication",
+      "content management systems",
+      "content strategy",
+      "customer engagement",
+      "customer experience",
+      "customer relationship management",
+      "digital communication",
+      "digital innovation",
+      "digital marketing",
+      "digital media",
+      "digital strategy",
+      "digital transformation",
+      "e business",
+      "e commerce",
+      "email marketing",
+      "go to market strategy",
+      "google adwords",
+      "google analytics",
+      "internet strategy",
+      "journey mapping",
+      "key performance indicators",
+      "management",
+      "marketing",
+      "marketing analytics",
+      "marketing automation",
+      "marketing leadership",
+      "marketing strategy",
+      "media strategy",
+      "multi channel marketing",
+      "omni channel marketing",
+      "online marketing",
+      "paid search strategy",
+      "pharmaceutics",
+      "product strategy",
+      "program management",
+      "project management",
+      "salesforce.com",
+      "search engine marketing",
+      "search engine optimization",
+      "sem",
+      "seo",
+      "sharepoint",
+      "sitecore",
+      "social media",
+      "social media marketing",
+      "strategic planning",
+      "strategy",
+      "team development",
+      "team leadership",
+      "user experience",
+      "web 2.0",
+      "web analytics",
+      "web development",
+      "web marketing",
+      "web project management",
+      "website development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "incyte",
+          "size": "1001-5000",
+          "id": "DtP97656KRJduTDrtE0iVAAJZuQ8",
+          "founded": 1991,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "wilmington, delaware, united states",
+            "locality": "wilmington",
+            "region": "delaware",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1801 augustine cut-off",
+            "address_line_2": null,
+            "postal_code": "19803",
+            "geo": "39.74,-75.52"
+          },
+          "linkedin_url": "linkedin.com/company/incyte",
+          "linkedin_id": "6761",
+          "facebook_url": "facebook.com/incyte",
+          "twitter_url": "twitter.com/incyte",
+          "website": "incyte.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-01",
+        "title": {
+          "name": "director digital marketing & engagement strategy, incyte international",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "incyte",
+          "size": "1001-5000",
+          "id": "DtP97656KRJduTDrtE0iVAAJZuQ8",
+          "founded": 1991,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "wilmington, delaware, united states",
+            "locality": "wilmington",
+            "region": "delaware",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1801 augustine cut-off",
+            "address_line_2": null,
+            "postal_code": "19803",
+            "geo": "39.74,-75.52"
+          },
+          "linkedin_url": "linkedin.com/company/incyte",
+          "linkedin_id": "6761",
+          "facebook_url": "facebook.com/incyte",
+          "twitter_url": "twitter.com/incyte",
+          "website": "incyte.com"
+        },
+        "location_names": [],
+        "end_date": "2022-12",
+        "start_date": "2020-07",
+        "title": {
+          "name": "associate director digital, europe",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "evibes digital consulting",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2020-06",
+        "start_date": "2019-06",
+        "title": {
+          "name": "international digital director neauvia, matex lab s.a.",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "invista",
+          "size": "5001-10000",
+          "id": "n2YKPKsxiLZdjjiMIi6yCwzeThxp",
+          "founded": null,
+          "industry": "chemicals",
+          "industry_v2": "chemical manufacturing",
+          "location": {
+            "name": "wichita, kansas, united states",
+            "locality": "wichita",
+            "region": "kansas",
+            "metro": "wichita, kansas",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "4123 east 37th street north",
+            "address_line_2": null,
+            "postal_code": "67220",
+            "geo": "37.65,-97.23"
+          },
+          "linkedin_url": "linkedin.com/company/invista",
+          "linkedin_id": "523382",
+          "facebook_url": "facebook.com/invistaglobal",
+          "twitter_url": "twitter.com/invista",
+          "website": "invista.com"
+        },
+        "location_names": [
+          "wichita, kansas, united states",
+          "geneva, geneva, switzerland"
+        ],
+        "end_date": "2019-06",
+        "start_date": "2014-01",
+        "title": {
+          "name": "head global digital strategy marketing, communication, innovation & transformation",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hp",
+          "size": "10001+",
+          "id": "zGj3UKuZCB1PsJxtMJAasgFvyfuw",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "palo alto, california, united states",
+            "locality": "palo alto",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1501 page mill road",
+            "address_line_2": null,
+            "postal_code": "94304",
+            "geo": "37.43,-122.14"
+          },
+          "linkedin_url": "linkedin.com/company/hp",
+          "linkedin_id": "5390798",
+          "facebook_url": "facebook.com/hp",
+          "twitter_url": "twitter.com/hp",
+          "website": "hp.com"
+        },
+        "location_names": [
+          "geneva, geneva, switzerland"
+        ],
+        "end_date": "2013",
+        "start_date": "2009",
+        "title": {
+          "name": "emea digital marketing manager hp.com",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "hp",
+          "size": "10001+",
+          "id": "zGj3UKuZCB1PsJxtMJAasgFvyfuw",
+          "founded": null,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "palo alto, california, united states",
+            "locality": "palo alto",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1501 page mill road",
+            "address_line_2": null,
+            "postal_code": "94304",
+            "geo": "37.43,-122.14"
+          },
+          "linkedin_url": "linkedin.com/company/hp",
+          "linkedin_id": "5390798",
+          "facebook_url": "facebook.com/hp",
+          "twitter_url": "twitter.com/hp",
+          "website": "hp.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2009",
+        "start_date": "2006",
+        "title": {
+          "name": "country manager belgium & luxembourg digital marketing & hp.com",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2002-01",
+        "title": {
+          "name": "independent consultant web & digital services",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "verizon",
+          "size": "10001+",
+          "id": "RR8uu8e5kiJwMILyP4xTuwI7FS5q",
+          "founded": 1983,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "basking ridge, new jersey, united states",
+            "locality": "basking ridge",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "07920",
+            "geo": "40.67,-74.55"
+          },
+          "linkedin_url": "linkedin.com/company/verizon",
+          "linkedin_id": "1103",
+          "facebook_url": "facebook.com/verizon",
+          "twitter_url": "twitter.com/verizon",
+          "website": "verizon.com"
+        },
+        "location_names": [
+          "reston, virginia, united states"
+        ],
+        "end_date": "2006",
+        "start_date": "1999",
+        "title": {
+          "name": "webmaster - digital product interfaces - interactive marketing",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "web",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ehsal management school",
+          "type": "post-secondary institution",
+          "id": "up2Y6OVAQRc-pPNkDtecrA_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ehsal",
+          "facebook_url": "facebook.com/odiseehogeschool",
+          "twitter_url": "twitter.com/odiseehogesch",
+          "linkedin_id": "20264",
+          "website": "odisee.be",
+          "domain": "odisee.be"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2000",
+        "end_date": "2002",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "vdab",
+          "type": "post-secondary institution",
+          "id": "6mfWbFsB5aqTBVQH8EG1PQ_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vdab",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "10197",
+          "website": "vdab.be",
+          "domain": "vdab.be"
+        },
+        "degrees": [],
+        "start_date": "1998-01",
+        "end_date": "1999-12",
+        "majors": [
+          "design",
+          "web development"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ehsal management school",
+          "type": "post-secondary institution",
+          "id": "up2Y6OVAQRc-pPNkDtecrA_0000",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ehsal",
+          "facebook_url": "facebook.com/odiseehogeschool",
+          "twitter_url": "twitter.com/odiseehogesch",
+          "linkedin_id": "20264",
+          "website": "odisee.be",
+          "domain": "odisee.be"
+        },
+        "degrees": [
+          "master of business administration",
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1994",
+        "end_date": "2002",
+        "majors": [
+          "kinesiology",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "leuven university press",
+          "type": "post-secondary institution",
+          "id": "-qRnxuWiBbPkREJDuSXPtA_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/leuven-university-press",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "800998",
+          "website": "upl.be",
+          "domain": "upl.be"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "1994",
+        "end_date": "1998",
+        "majors": [
+          "physical education"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ku leuven",
+          "type": "post-secondary institution",
+          "id": "EwX2xwU0kxY2DDzP58BoRw_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ku_leuven",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "linkedin_id": "3629",
+          "website": "kuleuven.be",
+          "domain": "kuleuven.be"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "1994-01",
+        "end_date": "1998-12",
+        "majors": [
+          "kinesiology",
+          "management",
+          "physical education",
+          "sports management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "6664935",
+        "url": "linkedin.com/in/justusleroy",
+        "username": "justusleroy"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/justus-le-roy-0332952",
+        "username": "justus-le-roy-0332952"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

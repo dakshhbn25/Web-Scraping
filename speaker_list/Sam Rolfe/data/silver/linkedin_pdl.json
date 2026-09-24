@@ -1,0 +1,173 @@
+{
+  "record_id": "speaker-dubrovnik-098",
+  "speaker_name": "Sam Rolfe",
+  "linkedin_url": "https://www.linkedin.com/in/sam-rolfe-cloud/",
+  "likelihood": 9,
+  "full_name": "sam rolfe",
+  "job_title": "sales director, emea",
+  "industry": "computer software",
+  "current_company": "exeevo",
+  "current_company_website": "exeevo.com",
+  "current_company_industry": "information technology and services",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "adobe acrobat",
+    "business development",
+    "c suite selling",
+    "cloud saas",
+    "coaching",
+    "customer relationship management",
+    "customer service",
+    "food and beverage",
+    "foreign languages",
+    "hospitality",
+    "hospitality industry",
+    "hospitality management",
+    "life sciences",
+    "management",
+    "market research",
+    "new business development",
+    "people management",
+    "pharmaceutical industry",
+    "problem solving",
+    "project management",
+    "restaurants",
+    "sales",
+    "sales development",
+    "sales process development",
+    "sales strategy",
+    "software implementation",
+    "software project management",
+    "strategic partnerships",
+    "team leadership",
+    "teamwork",
+    "time management",
+    "training",
+    "training delivery"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "sales director, emea",
+      "company": "exeevo",
+      "company_industry": "information technology and services",
+      "start_date": "2025-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director of business development",
+      "company": "arkivum",
+      "company_industry": "computer software",
+      "start_date": "2023-10",
+      "end_date": "2025-05",
+      "is_primary": false
+    },
+    {
+      "title": "account partner, emea cro",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2022-01",
+      "end_date": "2023-07",
+      "is_primary": false
+    },
+    {
+      "title": "account executive, vault cdms",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2021-02",
+      "end_date": "2022-01",
+      "is_primary": false
+    },
+    {
+      "title": "sales development manager emea",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2018-12",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "sales development representative",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2016-05",
+      "end_date": "2018-12",
+      "is_primary": false
+    },
+    {
+      "title": "associate consultant, commercial content",
+      "company": "veeva systems",
+      "company_industry": "computer software",
+      "start_date": "2015-09",
+      "end_date": "2016-05",
+      "is_primary": false
+    },
+    {
+      "title": "implementation executive",
+      "company": "zinc ahead ltd",
+      "company_industry": "computer software",
+      "start_date": "2015-01",
+      "end_date": "2015-09",
+      "is_primary": false
+    },
+    {
+      "title": "account executive",
+      "company": "zinc ahead ltd",
+      "company_industry": "computer software",
+      "start_date": "2014-04",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "customer support administrator",
+      "company": "zinc ahead ltd",
+      "company_industry": "computer software",
+      "start_date": "2012-09",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "supervisor",
+      "company": "mitchells & butlers plc",
+      "company_industry": "hospitality",
+      "start_date": "2011-02",
+      "end_date": "2012-10",
+      "is_primary": false
+    },
+    {
+      "title": "fa level 1 football coach",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2010-06",
+      "end_date": "2012-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "oxford brookes university",
+      "majors": [
+        "coaching",
+        "philosophy",
+        "physical education"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2008-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "the royal grammar school, high wycombe",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2006"
+    }
+  ]
+}

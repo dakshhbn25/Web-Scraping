@@ -1,0 +1,172 @@
+{
+  "record_id": "speaker-dubrovnik-106",
+  "speaker_name": "Aditya Kudumala",
+  "linkedin_url": "https://www.linkedin.com/in/akudumala/",
+  "likelihood": 9,
+  "full_name": "aditya kudumala",
+  "job_title": "principal (partner)",
+  "industry": "management consulting",
+  "current_company": "deloitte",
+  "current_company_website": "deloitte.com",
+  "current_company_industry": "management consulting",
+  "location_country": "united states",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "acquisition integration",
+    "analysis",
+    "analytics",
+    "artificial intelligence",
+    "biosimilars",
+    "biotechnology industry",
+    "business analytics",
+    "business development",
+    "business insights",
+    "business intelligence",
+    "business planning",
+    "business process",
+    "business process improvement",
+    "business strategy",
+    "business transformation",
+    "consulting",
+    "corporate finance",
+    "cross functional team leadership",
+    "data warehousing",
+    "drug development",
+    "drug discovery",
+    "entrepreneurship",
+    "governance",
+    "gxp",
+    "increase productivity",
+    "information management",
+    "innovation",
+    "integration",
+    "it enabled business transformation",
+    "it strategy",
+    "leadership",
+    "lifesciences",
+    "management",
+    "management consulting",
+    "operating models",
+    "outsourcing",
+    "pharmaceutical industry",
+    "pharmacovigilance",
+    "pmo",
+    "process improvement",
+    "product strategy",
+    "r&d experience",
+    "roi strategies",
+    "sdlc",
+    "software development life cycle",
+    "start up ventures",
+    "strategic roadmaps",
+    "strategy",
+    "value propositions"
+  ],
+  "interests": [
+    "children",
+    "economic empowerment",
+    "education",
+    "environment",
+    "health",
+    "music",
+    "poverty alleviation",
+    "reading",
+    "science and technology",
+    "sports",
+    "travel"
+  ],
+  "experience": [
+    {
+      "title": "principal (partner)",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2009-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "advisory board member",
+      "company": "syracuse university",
+      "company_industry": "higher education",
+      "start_date": "2017-08",
+      "end_date": "2023-03",
+      "is_primary": false
+    },
+    {
+      "title": "co-founder and chief executive officer",
+      "company": "jiva discovery",
+      "company_industry": null,
+      "start_date": "2011-12",
+      "end_date": "2013-08",
+      "is_primary": false
+    },
+    {
+      "title": "manager",
+      "company": "bearingpoint",
+      "company_industry": "management consulting",
+      "start_date": "2001-01",
+      "end_date": "2009-06",
+      "is_primary": false
+    },
+    {
+      "title": "analyst (intern)",
+      "company": "fidelity investments",
+      "company_industry": "financial services",
+      "start_date": "1998-05",
+      "end_date": "1998-08",
+      "is_primary": false
+    },
+    {
+      "title": "engineer (intern)",
+      "company": "llama",
+      "company_industry": "internet",
+      "start_date": "1997-08",
+      "end_date": "1998-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "yale school of management",
+      "majors": [
+        "education",
+        "leadership"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "syracuse university",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "1999-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "bangalore university",
+      "majors": [
+        "mechanical engineering"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "1994-01",
+      "end_date": "1998"
+    },
+    {
+      "school": "yale university",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

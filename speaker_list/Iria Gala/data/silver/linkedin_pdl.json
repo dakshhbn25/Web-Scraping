@@ -1,0 +1,246 @@
+{
+  "record_id": "speaker-dubrovnik-011",
+  "speaker_name": "Iria Gala",
+  "linkedin_url": "https://www.linkedin.com/in/iriagala/",
+  "likelihood": 9,
+  "full_name": "iria gala",
+  "job_title": "vice president digital & customer engagement",
+  "industry": "pharmaceuticals",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising campaigns",
+    "budgeting",
+    "business development",
+    "business innovation",
+    "business planning",
+    "business process improvement",
+    "business relationship management",
+    "business strategy",
+    "business transformation",
+    "change management",
+    "clinical trials",
+    "consulting",
+    "coordination",
+    "creative ideation",
+    "critical thinking",
+    "cross functional team leadership",
+    "customer focus",
+    "customer satisfaction",
+    "digital campaigns",
+    "digital health",
+    "director level",
+    "employee training",
+    "english",
+    "goal oriented",
+    "healthcare",
+    "high performance teams",
+    "integration",
+    "intrapreneurship",
+    "it escalation",
+    "key performance indicators",
+    "leadership",
+    "management",
+    "marketing campaign management",
+    "measurements",
+    "medical devices",
+    "negotiation",
+    "operational excellence",
+    "operations management",
+    "organizational capabilities",
+    "organizational effectiveness",
+    "people development",
+    "people management",
+    "pharmaceutical industry",
+    "pmp",
+    "portfolio management",
+    "pre sales",
+    "problem solving",
+    "project implementation",
+    "project leadership",
+    "project management",
+    "project planning",
+    "promotional marketing",
+    "requirements analysis",
+    "sales leadership",
+    "social listening",
+    "social media",
+    "software development life cycle",
+    "spanish",
+    "stakeholder engagement",
+    "stakeholder management",
+    "strategic communications",
+    "strategic planning",
+    "strategic vision",
+    "strategy",
+    "team leadership",
+    "team management",
+    "team spirit",
+    "teamwork",
+    "training",
+    "workload prioritization"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "vice president digital & customer engagement",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director digital, data and it",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": "2025-01",
+      "is_primary": false
+    },
+    {
+      "title": "emea director digital stakeholder engagement",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-11",
+      "end_date": "2023-05",
+      "is_primary": false
+    },
+    {
+      "title": "digital innovation lead - mb pmo",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-07",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "emea senior healthcare solution lead",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-06",
+      "end_date": "2019-07",
+      "is_primary": false
+    },
+    {
+      "title": "market access & business development manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2012-04",
+      "end_date": "2015-06",
+      "is_primary": false
+    },
+    {
+      "title": "digital health project manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2008-01",
+      "end_date": "2012-05",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "santander",
+      "company_industry": "banking",
+      "start_date": "2006-09",
+      "end_date": "2008-01",
+      "is_primary": false
+    },
+    {
+      "title": "consultant engineer",
+      "company": "hewlett packard enterprise",
+      "company_industry": "information technology and services",
+      "start_date": "2006-01",
+      "end_date": "2006-09",
+      "is_primary": false
+    },
+    {
+      "title": "presales engineer",
+      "company": "coyser sa",
+      "company_industry": "telecommunications",
+      "start_date": "2004-10",
+      "end_date": "2006-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "mit sloan school of management",
+      "majors": [
+        "business"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2019"
+    },
+    {
+      "school": "esade",
+      "majors": [],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2013-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "project management institute",
+      "majors": [
+        "management",
+        "project management"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2017-01"
+    },
+    {
+      "school": "universidad politécnica de cartagena",
+      "majors": [
+        "telecommunications"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2002-01",
+      "end_date": "2004"
+    },
+    {
+      "school": "universitat politècnica de valència (upv)",
+      "majors": [
+        "engineering",
+        "telecommunications"
+      ],
+      "degrees": [],
+      "start_date": "1998-01",
+      "end_date": "2002"
+    },
+    {
+      "school": "corporate mba. esade business & law school",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "school": "iil",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "school": "upct specific training center",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2003"
+    }
+  ]
+}

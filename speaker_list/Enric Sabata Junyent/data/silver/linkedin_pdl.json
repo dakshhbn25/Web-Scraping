@@ -1,0 +1,147 @@
+{
+  "record_id": "speaker-medical-012",
+  "speaker_name": "Enric Sabata Junyent",
+  "linkedin_url": "https://www.linkedin.com/in/enric-sabata/",
+  "likelihood": 9,
+  "full_name": "enric junyent",
+  "job_title": "medical insights & analytics lead",
+  "industry": "pharmaceuticals",
+  "current_company": "boehringer ingelheim",
+  "current_company_website": "boehringer-ingelheim.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "administration",
+    "agile methodologies",
+    "analytics",
+    "application programming interfaces",
+    "audio visual systems",
+    "augmented reality",
+    "big data",
+    "big data analytics",
+    "branding",
+    "business development",
+    "business insights",
+    "business management",
+    "change management",
+    "conference management",
+    "conference organization",
+    "corporate communications",
+    "customer insight",
+    "customer relationship management",
+    "cybersecurity",
+    "economics",
+    "healthcare",
+    "home care",
+    "innovation management",
+    "internet legal",
+    "it consulting",
+    "it management",
+    "itil certified",
+    "medical affairs",
+    "meeting planning",
+    "negotiation",
+    "pharma",
+    "project management",
+    "public relations",
+    "sales",
+    "salesforce.com",
+    "scrum",
+    "startups",
+    "veeva crm",
+    "virtual reality",
+    "web marketing strategy"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "medical insights & analytics lead",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global insights analytics solution & strategy lead in global medical affairs",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-03",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global capability owner medical insights management",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": "2024-03",
+      "is_primary": false
+    },
+    {
+      "title": "information technology business consultant",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-09",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "inhouse it consultant",
+      "company": "union investment",
+      "company_industry": "financial services",
+      "start_date": "2014-09",
+      "end_date": "2017-09",
+      "is_primary": false
+    },
+    {
+      "title": "online marketing manager",
+      "company": "hyundai mobis",
+      "company_industry": "automotive",
+      "start_date": "2014-02",
+      "end_date": "2014-07",
+      "is_primary": false
+    },
+    {
+      "title": "congress and meeting planner - team lead",
+      "company": "proske",
+      "company_industry": "events services",
+      "start_date": "2008-04",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "congress planner & assistant sales manager",
+      "company": "world trade center barcelona",
+      "company_industry": "real estate",
+      "start_date": "2006-09",
+      "end_date": "2007-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "hochschule mainz - university of applied sciences",
+      "majors": [
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2016-02",
+      "end_date": "2018-02"
+    },
+    {
+      "school": "universitat autònoma de barcelona",
+      "majors": [
+        "tourism management"
+      ],
+      "degrees": [],
+      "start_date": "2002-09",
+      "end_date": "2005-09"
+    }
+  ]
+}

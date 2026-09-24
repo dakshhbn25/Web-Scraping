@@ -1,0 +1,138 @@
+{
+  "record_id": "speaker-viennacx-065",
+  "speaker_name": "Ewa Nuckey",
+  "linkedin_url": "https://www.linkedin.com/in/ewa-nuckey-a21a64/",
+  "likelihood": 9,
+  "full_name": "ewa nuckey",
+  "job_title": "senior director commecial and cx strategy",
+  "industry": "marketing and advertising",
+  "current_company": "publicis health",
+  "current_company_website": "publicishealth.com",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "brand development",
+    "commercial planning",
+    "creative strategy",
+    "crm",
+    "customer experience",
+    "customer relationship management",
+    "digital marketing",
+    "digital strategy",
+    "direct marketing",
+    "director level",
+    "experiential",
+    "fast moving consumer goods",
+    "fmcg",
+    "integrated marketing",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "multi channel marketing",
+    "relationship marketing",
+    "retail",
+    "shopper marketing",
+    "sponsorship"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior director commecial and cx strategy",
+      "company": "publicis health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director commecial and cx strategy",
+      "company": "digitas health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2024-09",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "strategy director",
+      "company": "vml",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-01",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "global strategic lead respiratory",
+      "company": "wpp",
+      "company_industry": "marketing and advertising",
+      "start_date": "2019-06",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "planning director",
+      "company": "geometry global",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-01",
+      "end_date": "2024-09",
+      "is_primary": false
+    },
+    {
+      "title": "director strategic planning",
+      "company": "citizen relations",
+      "company_industry": "public relations and communications",
+      "start_date": "2016-07",
+      "end_date": "2016-10",
+      "is_primary": false
+    },
+    {
+      "title": "freelance strategic planner",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2016-06",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "director strategy & insight",
+      "company": "momentum worldwide",
+      "company_industry": "marketing and advertising",
+      "start_date": "2015-04",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "planning director",
+      "company": "zak media group",
+      "company_industry": null,
+      "start_date": "2014-03",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "company director",
+      "company": "nuckey precision",
+      "company_industry": null,
+      "start_date": "2012-08",
+      "end_date": "2015-04",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "monash university",
+      "majors": [
+        "business",
+        "business marketing",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1994",
+      "end_date": "1997"
+    }
+  ]
+}

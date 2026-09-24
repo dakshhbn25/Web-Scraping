@@ -1,0 +1,179 @@
+{
+  "record_id": "speaker-dubrovnik-089",
+  "speaker_name": "Vishal Khanna",
+  "linkedin_url": "https://www.linkedin.com/in/vkhanna009/",
+  "likelihood": 9,
+  "full_name": "vishal khanna",
+  "job_title": "regional principal dach & fr",
+  "industry": "pharmaceuticals",
+  "current_company": "axtria - ingenious insights",
+  "current_company_website": "axtria.com",
+  "current_company_industry": "computer software",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "account management",
+    "analytics",
+    "automotive",
+    "building relationships",
+    "business analysis",
+    "business development",
+    "business management",
+    "business strategy",
+    "business transformation",
+    "commercials",
+    "consulting",
+    "customer relations",
+    "customer relationship management",
+    "customer service",
+    "data management",
+    "global delivery",
+    "hospitality",
+    "it outsourcing",
+    "it service management",
+    "it strategy",
+    "lifesciences",
+    "logistics",
+    "management",
+    "management consulting",
+    "manufacturing",
+    "offshore software development",
+    "offshoring",
+    "operations management",
+    "outsourcing",
+    "people management",
+    "performance management",
+    "planning",
+    "pre sales",
+    "product development",
+    "product management",
+    "profit center management",
+    "program management",
+    "project delivery",
+    "project planning",
+    "service delivery",
+    "social entrepreneurship",
+    "software project management",
+    "sourcing",
+    "strategic leadership",
+    "strategic partnerships",
+    "strategic sourcing",
+    "strategy",
+    "strategy development",
+    "team leadership",
+    "team management",
+    "telecommunications",
+    "travel",
+    "youth mentoring"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "regional principal dach & fr",
+      "company": "axtria - ingenious insights",
+      "company_industry": "computer software",
+      "start_date": "2020-03",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president analytics solutions and global head commercial analytics outsourcing services",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2018-01",
+      "end_date": "2020-02",
+      "is_primary": false
+    },
+    {
+      "title": "vice president - commercial outsourcing services",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2014-01",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "director - commercial effectiveness services",
+      "company": "iqvia",
+      "company_industry": "hospital & health care",
+      "start_date": "2012-07",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "client partner",
+      "company": "cognizant",
+      "company_industry": "information technology and services",
+      "start_date": "2008-08",
+      "end_date": "2012-07",
+      "is_primary": false
+    },
+    {
+      "title": "head of it services delivery",
+      "company": "syntel",
+      "company_industry": "information technology and services",
+      "start_date": "2003-06",
+      "end_date": "2008-08",
+      "is_primary": false
+    },
+    {
+      "title": "head of india delivery center",
+      "company": "ampersand info-tech",
+      "company_industry": null,
+      "start_date": "1997-09",
+      "end_date": "2003-05",
+      "is_primary": false
+    },
+    {
+      "title": "information technology consultant",
+      "company": "siemens",
+      "company_industry": "industrial automation",
+      "start_date": "1992",
+      "end_date": "1997",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "tias school for business and society",
+      "majors": [
+        "business administration",
+        "business administration and management",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "interamerican academy (official page)",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2006-01",
+      "end_date": "2008"
+    },
+    {
+      "school": "savitribai phule pune university",
+      "majors": [
+        "computer science"
+      ],
+      "degrees": [
+        "bachelor of engineering",
+        "bachelors"
+      ],
+      "start_date": "1988-01",
+      "end_date": "1992"
+    },
+    {
+      "school": "apeejay school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1984-01",
+      "end_date": "1988"
+    }
+  ]
+}

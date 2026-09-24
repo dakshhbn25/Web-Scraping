@@ -1,0 +1,210 @@
+{
+  "record_id": "speaker-viennacx-054",
+  "speaker_name": "Madicken Baltzer Skovholm",
+  "linkedin_url": "https://www.linkedin.com/in/madicken-baltzer-skovholm-9496609a/",
+  "likelihood": 9,
+  "full_name": "madicken skovholm",
+  "job_title": "head of global content excellence",
+  "industry": "marketing and advertising",
+  "current_company": "alk",
+  "current_company_website": "alk.net",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "ad targeting",
+    "branding and identity",
+    "campaign management",
+    "campaign strategies",
+    "communication",
+    "communication skills",
+    "community management",
+    "content development",
+    "content management systems",
+    "copywriting",
+    "creative campaign development",
+    "creative insights",
+    "creative writing",
+    "customer insight",
+    "customer service",
+    "design thinking",
+    "digital communication",
+    "digital marketing",
+    "digital media",
+    "digital publishing",
+    "digital strategy",
+    "digital video",
+    "english",
+    "event management",
+    "event planning",
+    "events",
+    "film production",
+    "german",
+    "graphic design",
+    "hostesses",
+    "hosting",
+    "kampagne planer",
+    "key performance indicators",
+    "kundeengagement",
+    "lederskab",
+    "marketing",
+    "marketing communications",
+    "media planning",
+    "media production",
+    "microsoft office",
+    "photo shoots",
+    "project management",
+    "project planning",
+    "public relations",
+    "pv",
+    "sales",
+    "search engine optimization",
+    "seo copywriting",
+    "social media",
+    "social networking",
+    "social services",
+    "spanish",
+    "strategic planning",
+    "teamwork",
+    "user centered design"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "head of global content excellence",
+      "company": "alk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "head of creative services, consumer marketing",
+      "company": "alk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-01",
+      "end_date": "2024-07",
+      "is_primary": false
+    },
+    {
+      "title": "digital projektleder",
+      "company": "alk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-09",
+      "end_date": "2023-01",
+      "is_primary": false
+    },
+    {
+      "title": "digital consultant",
+      "company": "accenture song",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-11",
+      "end_date": "2021-09",
+      "is_primary": false
+    },
+    {
+      "title": "digital project manager",
+      "company": "accenture song",
+      "company_industry": "marketing and advertising",
+      "start_date": "2020-01",
+      "end_date": "2020-11",
+      "is_primary": false
+    },
+    {
+      "title": "associate consultant, performance marketing",
+      "company": "accenture song",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-11",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "social media & content manager",
+      "company": "palaeo",
+      "company_industry": "glass, ceramics & concrete",
+      "start_date": "2017-07",
+      "end_date": "2017-11",
+      "is_primary": false
+    },
+    {
+      "title": "student assistant, digital communication",
+      "company": "dansk journalistforbund - medier & kommunikation",
+      "company_industry": "political organization",
+      "start_date": "2016-09",
+      "end_date": "2017-06",
+      "is_primary": false
+    },
+    {
+      "title": "social media assistant",
+      "company": "citrusmedia",
+      "company_industry": "marketing and advertising",
+      "start_date": "2015-09",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "digital content manager",
+      "company": "eventkontoret",
+      "company_industry": "events services",
+      "start_date": "2015-02",
+      "end_date": "2015-08",
+      "is_primary": false
+    },
+    {
+      "title": "event coordinator and hostess",
+      "company": "eventkontoret",
+      "company_industry": "events services",
+      "start_date": "2012-01",
+      "end_date": "2016-03",
+      "is_primary": false
+    },
+    {
+      "title": "receptionist",
+      "company": "securitas uk",
+      "company_industry": "security and investigations",
+      "start_date": "2009-08",
+      "end_date": "2016-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "it - universitetet i københavn",
+      "majors": [
+        "communication",
+        "multimedia"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2017"
+    },
+    {
+      "school": "syddansk universitet - university of southern denmark",
+      "majors": [
+        "communication",
+        "media studies"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2012-01",
+      "end_date": "2015"
+    },
+    {
+      "school": "aalborg universitet esbjerg",
+      "majors": [
+        "humanities"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2011",
+      "end_date": "2012"
+    }
+  ]
+}

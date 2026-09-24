@@ -1,0 +1,198 @@
+{
+  "record_id": "speaker-dubrovnik-125",
+  "speaker_name": "Maaike Addicks",
+  "linkedin_url": "https://www.linkedin.com/in/maaike-addicks/",
+  "likelihood": 9,
+  "full_name": "maaike addicks",
+  "job_title": "director and co-founder school of medical affairs",
+  "industry": "pharmaceuticals",
+  "current_company": "school of medical affairs",
+  "current_company_website": "schoolofmedicalaffairs.nl",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "netherlands",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business strategy",
+    "change management",
+    "consultancy services",
+    "keynote speaking",
+    "leadership",
+    "medical affairs",
+    "operational excellence",
+    "people management",
+    "pharmaceutical industry",
+    "product launch",
+    "training and development",
+    "training and development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director and co-founder school of medical affairs",
+      "company": "school of medical affairs",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "chief medical officer",
+      "company": "ligalli",
+      "company_industry": "medical devices",
+      "start_date": "2023-08",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "board member dutch association of pharmaceutical medicine (nvfg) + chair medical affairs committee",
+      "company": "dutch association for pharmaceutical medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "ad interim medical lead benelux",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2019-05",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "senior strategy consultant - medical affairs omnichannel engagement",
+      "company": "precision aq - international",
+      "company_industry": "management consulting",
+      "start_date": "2018-04",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "ad interim head of medical affairs immunology",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-11",
+      "end_date": "2018-02",
+      "is_primary": false
+    },
+    {
+      "title": "medical affairs expert",
+      "company": "medical affairs solutions nl",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "expert trainer",
+      "company": "celforpharma",
+      "company_industry": "professional training & coaching",
+      "start_date": "2017-04",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "head of medical affairs scd",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2017-04",
+      "is_primary": false
+    },
+    {
+      "title": "medical manager hpc",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-11",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "country medical director",
+      "company": "solvay pharma",
+      "company_industry": null,
+      "start_date": "2008-09",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "associate director medical affairs gynaecology, europe",
+      "company": "organon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-03",
+      "end_date": "2008-09",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor contraception",
+      "company": "organon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-02",
+      "end_date": "2007-02",
+      "is_primary": false
+    },
+    {
+      "title": "medical advisor cns, psychiatry",
+      "company": "organon",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2002-02",
+      "end_date": "2004-02",
+      "is_primary": false
+    },
+    {
+      "title": "resident physician psychiatry",
+      "company": "altrecht ambulatory psychiatric institute",
+      "company_industry": null,
+      "start_date": "2000-01",
+      "end_date": "2002-02",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "utrecht university",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [],
+      "start_date": "1993-01",
+      "end_date": "2000-12"
+    },
+    {
+      "school": "marion high school, mi, usa",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992",
+      "end_date": "1993"
+    },
+    {
+      "school": "marion high school, mi, us",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1993-12"
+    },
+    {
+      "school": "marion high school, mi, us",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992-01",
+      "end_date": "1993-01"
+    },
+    {
+      "school": "christelijk lyceum zandvliet",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1986-01",
+      "end_date": "1992-12"
+    },
+    {
+      "school": "christelijk lyceum zandvliet",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1986-01",
+      "end_date": "1992-01"
+    }
+  ]
+}

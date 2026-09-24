@@ -1,0 +1,230 @@
+{
+  "record_id": "speaker-dubrovnik-043",
+  "speaker_name": "Greg Symber",
+  "linkedin_url": "https://www.linkedin.com/in/greg-symber/",
+  "likelihood": 9,
+  "full_name": "greg symber",
+  "job_title": "director, omnichannel operations and analytics",
+  "industry": "pharmaceuticals",
+  "current_company": "novartis",
+  "current_company_website": "novartis.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "agency relationship management",
+    "analytical skills",
+    "biotechnology",
+    "budget management",
+    "business",
+    "business insights",
+    "business process improvement",
+    "change management",
+    "commercial",
+    "commercial insights and analytics",
+    "content adaptation",
+    "content effectiveness",
+    "content supply chain",
+    "cross functional team leadership",
+    "customer engagement",
+    "customer experience",
+    "customer insight",
+    "customer relationship management",
+    "data analysis",
+    "digital marketing",
+    "fda",
+    "financial analysis",
+    "global to local content",
+    "international marketing",
+    "joint business partnerships",
+    "key performance indicators",
+    "leadership",
+    "life sciences",
+    "managing agency relationships",
+    "marketing",
+    "marketing governance",
+    "marketing operations",
+    "matrix leadership",
+    "media agencies",
+    "microsoft excel",
+    "microsoft outlook",
+    "negotiation",
+    "omni channel marketing",
+    "operating models",
+    "operational excellence",
+    "operations",
+    "performance analysis",
+    "pharma",
+    "pharmaceutical consulting",
+    "pharmaceutical industry",
+    "pharmaceutical management",
+    "pharmaceutical manufacturing",
+    "presentations",
+    "procurement",
+    "product development",
+    "resource management",
+    "return on investment",
+    "sales",
+    "sales and marketing",
+    "sap",
+    "social media marketing",
+    "spss",
+    "stakeholder engagement",
+    "strategic influence",
+    "strategic partnerships",
+    "strategic planning",
+    "strategic sourcing",
+    "strategy",
+    "tableau",
+    "team leadership",
+    "vendor management"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director, omnichannel operations and analytics",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "director, international partnerships & performance",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-09",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "director, head of us media operations and procurement",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-12",
+      "end_date": "2023-09",
+      "is_primary": false
+    },
+    {
+      "title": "associate director, global media and digital procurement",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2021-11",
+      "is_primary": false
+    },
+    {
+      "title": "global media category lead, sourcing & enterprise services",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-02",
+      "end_date": "2020-12",
+      "is_primary": false
+    },
+    {
+      "title": "decision support manager, sourcing & enterprise services",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-08",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "associate, sourcing & enterprise services",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-06",
+      "end_date": "2015-08",
+      "is_primary": false
+    },
+    {
+      "title": "scientist",
+      "company": "pfizer",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-05",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "associate chemist",
+      "company": "sgs",
+      "company_industry": "information technology and services",
+      "start_date": "2009",
+      "end_date": "2011",
+      "is_primary": false
+    },
+    {
+      "title": "quality control chemist",
+      "company": "hikma pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2008",
+      "end_date": "2009",
+      "is_primary": false
+    },
+    {
+      "title": "stability lab technician",
+      "company": "colgate-palmolive",
+      "company_industry": "consumer goods",
+      "start_date": "2007",
+      "end_date": "2008",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "rutgers business school",
+      "majors": [
+        "finance",
+        "management"
+      ],
+      "degrees": [
+        "master of business administration",
+        "masters"
+      ],
+      "start_date": "2009",
+      "end_date": "2012"
+    },
+    {
+      "school": "rutgers university",
+      "majors": [
+        "business economics",
+        "chemistry",
+        "economics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2003",
+      "end_date": "2008"
+    },
+    {
+      "school": "rutgers university",
+      "majors": [],
+      "degrees": [
+        "masters",
+        "master of business administration"
+      ],
+      "start_date": null,
+      "end_date": "2013-05"
+    },
+    {
+      "school": "school of environmental and civil engineering technology",
+      "majors": [],
+      "degrees": [
+        "bachelors",
+        "bachelor of arts"
+      ],
+      "start_date": null,
+      "end_date": "2008-05"
+    },
+    {
+      "school": "forrest laboratories las",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

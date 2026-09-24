@@ -1,0 +1,294 @@
+{
+  "record_id": "speaker-dubrovnik-026",
+  "speaker_name": "Marc Ryning",
+  "linkedin_url": "https://www.linkedin.com/in/marc-ryning/",
+  "likelihood": 9,
+  "full_name": "marc ryning",
+  "job_title": "senior omnichannel customer engagement manager - region europe & canada",
+  "industry": "pharmaceuticals",
+  "current_company": "novo nordisk",
+  "current_company_website": "novonordisk.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "denmark",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "adobe experience manager",
+    "advertising",
+    "affiliate marketing",
+    "affiliate relations",
+    "agency relationship management",
+    "analytical skills",
+    "apparel",
+    "artificial intelligence",
+    "assortment optimization",
+    "bigcommerce",
+    "brand management",
+    "business analytics",
+    "business development",
+    "business insights",
+    "business strategy",
+    "campaigns",
+    "category management",
+    "commercial planning",
+    "communication",
+    "community management",
+    "consumer behavior",
+    "conversion optimization",
+    "corporate communications",
+    "customer engagement",
+    "customer experience",
+    "customer relationship management",
+    "customer service",
+    "data analysis",
+    "digital marketing",
+    "digital media",
+    "e commerce",
+    "e commerce optimization",
+    "email marketing",
+    "event management",
+    "facebook",
+    "fashion",
+    "fashion buying",
+    "frontline support",
+    "google analytics",
+    "identifying sales opportunities",
+    "key performance indicators",
+    "leadership",
+    "luxury brand marketing",
+    "luxury goods",
+    "management",
+    "market planning",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing research",
+    "marketing strategy",
+    "media planning",
+    "merchandising",
+    "microsoft office",
+    "omni channel marketing",
+    "online marketing",
+    "online merchandising",
+    "people management",
+    "pharmaceutical marketing",
+    "product assortment planning",
+    "project management",
+    "public relations",
+    "recruiting",
+    "retail",
+    "retail category management",
+    "sales",
+    "sales operations",
+    "search engine optimization",
+    "shogun",
+    "social media",
+    "social media marketing",
+    "strategic planning",
+    "strategy",
+    "tableau",
+    "team leadership",
+    "team management",
+    "trend analysis",
+    "visual merchandising",
+    "web development",
+    "wholesale marketing",
+    "wholesale operations",
+    "ynap"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "senior omnichannel customer engagement manager - region europe & canada",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior multichannel customer engagement manager - region north west europe",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-07",
+      "end_date": "2025-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of e-commerce",
+      "company": "louis poulsen",
+      "company_industry": "design",
+      "start_date": "2022-06",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "global e-tailer sales development manager",
+      "company": "louis poulsen",
+      "company_industry": "design",
+      "start_date": "2022-05",
+      "end_date": "2022-06",
+      "is_primary": false
+    },
+    {
+      "title": "webstore director",
+      "company": "carpe diem beds",
+      "company_industry": "furniture",
+      "start_date": "2021-03",
+      "end_date": "2022-04",
+      "is_primary": false
+    },
+    {
+      "title": "e-commerce & website manager",
+      "company": "montblanc",
+      "company_industry": "luxury goods & jewelry",
+      "start_date": "2020-05",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "global e-commerce visual merchandising manager",
+      "company": "cos",
+      "company_industry": "apparel & fashion",
+      "start_date": "2018-11",
+      "end_date": "2020-04",
+      "is_primary": false
+    },
+    {
+      "title": "e-commerce visual merchandising manager - usa",
+      "company": "h&m",
+      "company_industry": "retail",
+      "start_date": "2016-09",
+      "end_date": "2018-10",
+      "is_primary": false
+    },
+    {
+      "title": "online merchandiser",
+      "company": "h&m",
+      "company_industry": "retail",
+      "start_date": "2015-02",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "online buyer assistant",
+      "company": "h&m",
+      "company_industry": "retail",
+      "start_date": "2014-03",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "omd sweden",
+      "company_industry": "marketing and advertising",
+      "start_date": "2013-12",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "media planner",
+      "company": "omd sweden",
+      "company_industry": "marketing and advertising",
+      "start_date": "2013-02",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "public relations consultant",
+      "company": "9pr personal relations",
+      "company_industry": "public relations and communications",
+      "start_date": "2012-11",
+      "end_date": "2013-01",
+      "is_primary": false
+    },
+    {
+      "title": "sales advisor",
+      "company": "cos",
+      "company_industry": "apparel & fashion",
+      "start_date": "2012-01",
+      "end_date": "2013-01",
+      "is_primary": false
+    },
+    {
+      "title": "sales advisor",
+      "company": "acne studios",
+      "company_industry": "luxury goods & jewelry",
+      "start_date": "2011-05",
+      "end_date": "2011-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "korea university",
+      "majors": [
+        "international studies"
+      ],
+      "degrees": [],
+      "start_date": "2011-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "copenhagen business school",
+      "majors": [
+        "business administration",
+        "communications",
+        "economics",
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "boston college carroll school of management",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009-01"
+    },
+    {
+      "school": "copenhagen business school",
+      "majors": [
+        "business administration",
+        "management"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "boston college",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "school": "korea university business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "malmö university",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "record_id": "speaker-dubrovnik-109",
+  "speaker_name": "Mark Pringle",
+  "event_name": "Dubrovnik",
+  "linkedin_url": "https://www.linkedin.com/in/mark-pringle-114750/",
+  "scraped_at": "2026-09-18T10:23:26.743434+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "ldJxR6B2dIVAxp3F0WwrXA_0000",
+    "full_name": "mark pringle",
+    "first_name": "mark",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "p",
+    "last_name": "pringle",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/mark-pringle-114750",
+    "linkedin_username": "mark-pringle-114750",
+    "linkedin_id": "1845664",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/markpringle67",
+    "twitter_username": "markpringle67",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "senior principal, bepossible | strategic consultancy for pharma leaders",
+    "job_title_role": "health",
+    "job_title_sub_role": "pharmacy",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "senior"
+    ],
+    "job_company_id": "UDAFJAHS5fCTMgFozuovywizuund",
+    "job_company_name": "bepossible - strategic healthcare consultants",
+    "job_company_website": "bepossible.co.uk",
+    "job_company_size": "1-10",
+    "job_company_founded": 2021,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/bepossibleuk",
+    "job_company_linkedin_id": "72100740",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "guildford, england, united kingdom",
+    "job_company_location_locality": "guildford",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.23,-0.58",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-02-27",
+    "job_last_verified": "2026-07-19",
+    "job_start_date": "2025-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-19",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "360 feedback",
+      "action learning",
+      "assessment center",
+      "behavioural change",
+      "business coaching",
+      "business planning",
+      "career development",
+      "change management",
+      "coaching",
+      "coaching and mentoring",
+      "consulting",
+      "cross functional team leadership",
+      "culture change",
+      "diabetes",
+      "emotional intelligence",
+      "employee engagement",
+      "executive coaching",
+      "executive development",
+      "facilitators",
+      "healthcare",
+      "hospital sales",
+      "instructional design",
+      "leadership",
+      "leadership development",
+      "management",
+      "management development",
+      "market access",
+      "mbti",
+      "mentoring",
+      "nlp",
+      "organizational culture",
+      "organizational design",
+      "organizational development",
+      "organizational effectiveness",
+      "organizational learning",
+      "performance improvement",
+      "performance management",
+      "performing",
+      "personal development",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "presentation coaching",
+      "programmes",
+      "psychometrics",
+      "sales effectiveness",
+      "strategic planning",
+      "strategic thinking",
+      "strategy",
+      "teaching",
+      "team building",
+      "training",
+      "training delivery",
+      "training programme design",
+      "workshop facilitation"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "bepossible - strategic healthcare consultants",
+          "size": "1-10",
+          "id": "UDAFJAHS5fCTMgFozuovywizuund",
+          "founded": 2021,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "guildford, england, united kingdom",
+            "locality": "guildford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.23,-0.58"
+          },
+          "linkedin_url": "linkedin.com/company/bepossibleuk",
+          "linkedin_id": "72100740",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bepossible.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-11",
+        "title": {
+          "name": "senior principal, bepossible | strategic consultancy for pharma leaders",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "bepossible - strategic healthcare consultants",
+          "size": "1-10",
+          "id": "UDAFJAHS5fCTMgFozuovywizuund",
+          "founded": 2021,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "guildford, england, united kingdom",
+            "locality": "guildford",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.23,-0.58"
+          },
+          "linkedin_url": "linkedin.com/company/bepossibleuk",
+          "linkedin_id": "72100740",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bepossible.co.uk"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-10",
+        "title": {
+          "name": "senior principal",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "comentra development",
+          "size": "1-10",
+          "id": "Q0w4ixD1daTD43enqJWBhQiJL9Fy",
+          "founded": 2024,
+          "industry": "professional training & coaching",
+          "industry_v2": "professional training and coaching",
+          "location": {
+            "name": "stoke-on-trent, england, united kingdom",
+            "locality": "stoke-on-trent",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.98,-2.14"
+          },
+          "linkedin_url": "linkedin.com/company/comentra-development",
+          "linkedin_id": "105532064",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "comentra.uk"
+        },
+        "location_names": [
+          "stoke-on-trent, england, united kingdom"
+        ],
+        "end_date": "2025-10",
+        "start_date": "2024-10",
+        "title": {
+          "name": "coach",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "neohealthhub",
+          "size": "51-200",
+          "id": "sz1oSO9lpRPetlQaSzdhpgPh8B3n",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lutterworth, england, united kingdom",
+            "locality": "lutterworth",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le17 4hb",
+            "geo": "52.45,-1.21"
+          },
+          "linkedin_url": "linkedin.com/company/neonavitas-group-holdings-limited",
+          "linkedin_id": "66611837",
+          "facebook_url": "facebook.com/neohealthhub",
+          "twitter_url": null,
+          "website": "neohealthhub.com"
+        },
+        "location_names": [
+          "city of stoke-on-trent (b), england, united kingdom",
+          "stoke-on-trent, england, united kingdom",
+          "uttoxeter, england, united kingdom"
+        ],
+        "end_date": "2024-10",
+        "start_date": "2021-07",
+        "title": {
+          "name": "chief solutions officer",
+          "class": "sales_and_marketing",
+          "role": "sales_engineering",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "neohealthhub",
+          "size": "51-200",
+          "id": "sz1oSO9lpRPetlQaSzdhpgPh8B3n",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lutterworth, england, united kingdom",
+            "locality": "lutterworth",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le17 4hb",
+            "geo": "52.45,-1.21"
+          },
+          "linkedin_url": "linkedin.com/company/neonavitas-group-holdings-limited",
+          "linkedin_id": "66611837",
+          "facebook_url": "facebook.com/neohealthhub",
+          "twitter_url": null,
+          "website": "neohealthhub.com"
+        },
+        "location_names": [],
+        "end_date": "2021-07",
+        "start_date": "2020-08",
+        "title": {
+          "name": "senior vice president capabilities",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "morexcellent ltd",
+          "size": "1-10",
+          "id": "ByVO1bBsB1H67sYm1izXHw7IlrH0",
+          "founded": 2018,
+          "industry": "human resources",
+          "industry_v2": null,
+          "location": {
+            "name": "stoke-on-trent, england, united kingdom",
+            "locality": "stoke-on-trent",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.98,-2.14"
+          },
+          "linkedin_url": "linkedin.com/company/morexcellent-ltd",
+          "linkedin_id": "20278456",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "staffordshire, england, united kingdom"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2018-09",
+        "title": {
+          "name": "founding director",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ashfield, part of udg healthcare (now inizio)",
+          "size": "5001-10000",
+          "id": "o5JPIs8XoJPzVDRhLxtHYwQOGcPm",
+          "founded": 1997,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ashby-de-la-zouch, england, united kingdom",
+            "locality": "ashby-de-la-zouch",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le65 1hw",
+            "geo": "52.73,-1.46"
+          },
+          "linkedin_url": "linkedin.com/company/ashfield-part-of-udg-healthcare",
+          "linkedin_id": "3479097",
+          "facebook_url": "facebook.com/ashfield.careers.uk",
+          "twitter_url": "twitter.com/ashfieldcm",
+          "website": "oneashfield.com"
+        },
+        "location_names": [
+          "ashby-de-la-zouch, england, united kingdom"
+        ],
+        "end_date": "2018-07",
+        "start_date": "2015-01",
+        "title": {
+          "name": "divisional performance director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "business edge solutions & training",
+          "size": "1-10",
+          "id": "ZC8P1P8zqNPFlPVYSvtKPgQKAT2I",
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": "linkedin.com/company/business-edge-solutions-&-training",
+          "linkedin_id": "2890095",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2015-01",
+        "start_date": "2012-10",
+        "title": {
+          "name": "managing director",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ashfield, part of udg healthcare (now inizio)",
+          "size": "5001-10000",
+          "id": "o5JPIs8XoJPzVDRhLxtHYwQOGcPm",
+          "founded": 1997,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ashby-de-la-zouch, england, united kingdom",
+            "locality": "ashby-de-la-zouch",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "le65 1hw",
+            "geo": "52.73,-1.46"
+          },
+          "linkedin_url": "linkedin.com/company/ashfield-part-of-udg-healthcare",
+          "linkedin_id": "3479097",
+          "facebook_url": "facebook.com/ashfield.careers.uk",
+          "twitter_url": "twitter.com/ashfieldcm",
+          "website": "oneashfield.com"
+        },
+        "location_names": [],
+        "end_date": "2018-09",
+        "start_date": "2002",
+        "title": {
+          "name": "ashfield till 1st oct",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "business edge solutions and training",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2012-10",
+        "start_date": "2001-02",
+        "title": {
+          "name": "director and principal consultant",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "elan pharmaceuticals",
+          "size": "201-500",
+          "id": "qbq4CyWMtHeYSiZmJyp6yAfUyYq7",
+          "founded": 1969,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "dublin 2, leinster, ireland",
+            "locality": "dublin 2",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "lower grand canal street",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.34,-6.25"
+          },
+          "linkedin_url": "linkedin.com/company/elan-pharmaceuticals",
+          "linkedin_id": "3924",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "elan.com"
+        },
+        "location_names": [],
+        "end_date": "2001",
+        "start_date": "1999",
+        "title": {
+          "name": "head of training and development",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astra pharmaceuticals",
+          "size": "10001+",
+          "id": "eiLCUyC3PLazfTohr30I2QyeU5uT",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/astra-pharmaceuticals",
+          "linkedin_id": "6289",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1999",
+        "start_date": "1997",
+        "title": {
+          "name": "head of training and development",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "napp pharmaceuticals limited",
+          "size": "51-200",
+          "id": "MIAAdz6OO733qNxv2xTj4QfAKKDF",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cb4 0ab",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/napp-pharmaceuticals",
+          "linkedin_id": "27552",
+          "facebook_url": "facebook.com/londonlawagency",
+          "twitter_url": null,
+          "website": "napp.co.uk"
+        },
+        "location_names": [],
+        "end_date": "1996",
+        "start_date": "1992",
+        "title": {
+          "name": "head of training and development",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "lancaster university",
+          "type": "post-secondary institution",
+          "id": "GD9Qp3AJgqPtGP9teld3vw_0000",
+          "location": {
+            "name": "bailrigg, england, united kingdom",
+            "locality": "bailrigg",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/lancaster-university",
+          "facebook_url": "facebook.com/lancasteruniversity",
+          "twitter_url": "twitter.com/lancasteruni",
+          "linkedin_id": "10250",
+          "website": "lancaster.ac.uk",
+          "domain": "lancaster.ac.uk"
+        },
+        "degrees": [],
+        "start_date": "1985-01",
+        "end_date": "1988",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "preston university",
+          "type": "post-secondary institution",
+          "id": "8vwvrvpBs6El71KonH6ZLw_0000",
+          "location": {
+            "name": "islamabad, islamabad, pakistan",
+            "locality": "islamabad",
+            "region": "islamabad",
+            "country": "pakistan",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/preston-university",
+          "facebook_url": "facebook.com/preston.university",
+          "twitter_url": "twitter.com/prestonuni",
+          "linkedin_id": "15098176",
+          "website": "preston.edu.pk",
+          "domain": "preston.edu.pk"
+        },
+        "degrees": [],
+        "start_date": "1985-01",
+        "end_date": "1988",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cramlington high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1981-01",
+        "end_date": "1985",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "1845664",
+        "url": "linkedin.com/in/mark-pringle-114750",
+        "username": "mark-pringle-114750"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/markpringle67",
+        "username": "markpringle67"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}
