@@ -8,6 +8,7 @@ import json
 import re
 from pathlib import Path
 
+import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,6 +19,7 @@ AGENDA_GOLD = ROOT / "agenda" / "data" / "gold" / "sessions.json"
 SPONSORS_GOLD = ROOT / "sponsors" / "data" / "gold" / "sponsors.json"
 EXHIBITION_STATS_GOLD = ROOT / "sponsors" / "data" / "gold" / "exhibition_stats.json"
 TICKETS_GOLD = ROOT / "tickets" / "data" / "gold" / "tickets.json"
+AI_LANDSCAPE_GOLD = ROOT / "ai_landscape" / "data" / "gold" / "ai_landscape.parquet"
 
 # Professional-backbone / social-layer fields that decide a speaker's data tier.
 # Mirrors the split used in the enrichment coverage report: a profile only
@@ -154,6 +156,15 @@ def load_exhibition_stats() -> list[dict]:
 @st.cache_data(ttl="10m")
 def load_tickets() -> list[dict]:
     return _load_json(TICKETS_GOLD) or []
+
+
+@st.cache_data(ttl="10m")
+def load_ai_landscape() -> list[dict]:
+    """One row per AI work item (company, concept, source, gold record ids, map position)
+    for the AI landscape page. Built by ai_landscape/scripts/gold/layout_work_items.py."""
+    if not AI_LANDSCAPE_GOLD.exists():
+        return []
+    return pd.read_parquet(AI_LANDSCAPE_GOLD).to_dict("records")
 
 
 def unique_speakers(records: list[dict]) -> list[dict]:

@@ -9,6 +9,7 @@ page = st.navigation(
         st.Page("app_pages/agenda.py", title="Agenda", icon=":material/event_note:"),
         st.Page("app_pages/sponsors.py", title="Sponsors", icon=":material/handshake:"),
         st.Page("app_pages/tickets.py", title="Tickets", icon=":material/confirmation_number:"),
+        st.Page("app_pages/ai_landscape.py", title="AI landscape", icon=":material/hub:"),
     ],
     position="sidebar",
 )
