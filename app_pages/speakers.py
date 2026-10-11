@@ -169,14 +169,18 @@ def show_detail(record: dict):
 
     if tab_alt:
         with tab_alt:
-            st.caption("LinkedIn access was incomplete for this speaker, so these independently "
-                       "verified sources fill the gap.")
+            if record.get("alt_mention_only"):
+                st.caption("No LinkedIn profile was found for this speaker. The source below only confirms their "
+                           "part in a session; it gives no career history.")
+            else:
+                st.caption("LinkedIn access was incomplete for this speaker, so these independently "
+                           "verified sources fill the gap.")
             verification = record.get("alt_sources_verification")
             if verification:
                 st.info(verification, icon=":material/verified_user:")
             for src in record.get("alt_sources") or []:
                 with st.container(border=True):
-                    st.markdown(f"**{src.get('title') or src['url']}**")
+                    st.markdown(f"**{src.get('title') or src.get('url')}**")
                     text = (src.get("text") or "").strip()
                     # Some JS-rendered pages get scraped mid-render, leaving a
                     # "Loading...\n\nEdited <date>\n\n" stub before the real
@@ -184,7 +188,8 @@ def show_detail(record: dict):
                     text = re.sub(r"^Loading\.\.\.\s*\n+Edited[^\n]*\n+", "", text)
                     preview = text[:600] + ("..." if len(text) > 600 else "")
                     st.write(preview)
-                    st.link_button("View source", src["url"], icon=":material/open_in_new:")
+                    if src.get("url"):
+                        st.link_button("View source", src["url"], icon=":material/open_in_new:")
 
 
 st.title("Speakers", icon=":material/groups:")

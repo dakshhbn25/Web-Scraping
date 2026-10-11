@@ -152,8 +152,8 @@ def build(df, items):
         bits = [f"**{md(name)}**", md(_clip(title, 90)), ", ".join(sorted(events))]
         if url:
             bits.append(link("LinkedIn", url))
-        elif a and a.get("sources"):
-            bits.append(link("profile source", a["sources"][0]["url"]))
+        elif a and any(s.get("url") for s in a.get("sources", [])):
+            bits.append(link("profile source", next(s["url"] for s in a["sources"] if s.get("url"))))
         if e.get("linkedin_location"):
             bits.append(md(e["linkedin_location"]))
         reach = []

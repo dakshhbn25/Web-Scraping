@@ -97,6 +97,9 @@
       "linkedin_url": "https://www.linkedin.com/in/julia-azfar",
       "confidence": "check",
       "update": "Same person on several sources (Brain Station SVP Sales & Marketing, Duesseldorf). The profile text we could extract is an older view (headline VP Product Management - Tolling, same city), so treat the profile data as dated."
+    },
+    "Beth Luyten": {
+      "update": "No LinkedIn profile found. A LinkedIn post by Philip Vyt names them as one of the three who delivered the NEXT Medical worksession on building a focused Field Medical plan, with Lorna Fergusson (also Amgen) and Maja Beilmann-Schramm (checked 2026-10-11)"
     }
   }
 }

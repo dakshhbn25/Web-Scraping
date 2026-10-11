@@ -93,7 +93,7 @@ def compute_tier(record: dict) -> str:
     confirmed independent bio is as usable as one with full LinkedIn data,
     even if LinkedIn itself never gave up the About/Activity fields."""
     has_li = bool(record.get("has_enrichment"))
-    has_alt = bool(record.get("has_alt_sources"))
+    has_alt = bool(record.get("has_alt_sources")) and not record.get("alt_mention_only")
     prof = sum(bool(record.get(f)) for f in _PROFESSIONAL_FIELDS) if has_li else 0
     soc = sum(bool(record.get(f)) for f in _SOCIAL_FIELDS)
 
@@ -104,8 +104,8 @@ def compute_tier(record: dict) -> str:
         return "Rich"
     if full_prof or has_alt:
         return "Good"
-    if has_li:
-        return "Moderate"
+    if has_li or record.get("has_alt_sources"):
+        return "Moderate"  # a mention-only alt source (kind="mention") confirms a session role but gives no bio
     return "No LinkedIn data"
 
 
@@ -173,6 +173,7 @@ def load_agenda_speakers() -> list[dict]:
         record["has_alt_sources"] = alt is not None
         record["alt_sources"] = alt.get("sources") if alt else []
         record["alt_sources_verification"] = alt.get("identity_verification") if alt else None
+        record["alt_mention_only"] = bool(alt and alt.get("kind") == "mention")
         record["linkedin_url"] = person.get("linkedin_url") or record.get("linkedin_url")
         fix = corrections.get(person["speaker_name"])
         if fix:
