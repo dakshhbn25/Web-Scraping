@@ -1,0 +1,675 @@
+{
+  "record_id": "agenda-speaker-medical-022",
+  "speaker_name": "Victoria Ho",
+  "event_name": "Medical",
+  "linkedin_url": "https://uk.linkedin.com/in/vic-ho-medical-excellence",
+  "scraped_at": "2026-10-11T13:03:36.680052+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "ZsHwY1-LGn74jWNfqr2Rvw_0000",
+    "full_name": "victoria ho",
+    "first_name": "victoria",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "h",
+    "last_name": "ho",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/vic-ho-medical-excellence",
+    "linkedin_username": "vic-ho-medical-excellence",
+    "linkedin_id": "271749689",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global head of field medical (msls)",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+    "job_company_name": "ipsen",
+    "job_company_website": "ipsen.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1929,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ipsen",
+    "job_company_linkedin_id": "8511",
+    "job_company_facebook_url": "facebook.com/ipsengroup",
+    "job_company_twitter_url": "twitter.com/ipsengroup",
+    "job_company_location_name": "paris, île-de-france, france",
+    "job_company_location_locality": "paris",
+    "job_company_location_metro": null,
+    "job_company_location_region": "île-de-france",
+    "job_company_location_geo": "48.86,2.35",
+    "job_company_location_street_address": "70 rue balard",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "75015",
+    "job_company_location_country": "france",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-08-07",
+    "job_last_verified": "2026-08-07",
+    "job_start_date": "2026-05",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-07",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "active listening",
+      "artificial intelligence",
+      "behavioral neuroscience",
+      "biopharmaceuticals",
+      "capability development",
+      "certified professional coach",
+      "coaching",
+      "coaching ethics",
+      "coaching presence",
+      "communication training",
+      "cross functional team leadership",
+      "customer service",
+      "education strategy",
+      "english",
+      "gxp",
+      "ica coach",
+      "impact evaluation",
+      "key opinion leaders",
+      "leadership",
+      "management",
+      "medical communications",
+      "medical directors",
+      "medical excellence",
+      "metric development",
+      "onboarding",
+      "patient centric strategic focus",
+      "people development",
+      "pharmaceutical industry",
+      "powerful questions",
+      "presentations",
+      "product launch",
+      "project management",
+      "relationship building",
+      "requirements management",
+      "scientific communications",
+      "scientific presentation",
+      "strategic planning",
+      "strategy",
+      "strategy alignment",
+      "subject matter experts",
+      "technical training",
+      "technology change management",
+      "training and development"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ipsen",
+          "size": "5001-10000",
+          "id": "RhfWDnvGwTCZPmy8GzH79AFFCaW0",
+          "founded": 1929,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "70 rue balard",
+            "address_line_2": null,
+            "postal_code": "75015",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/ipsen",
+          "linkedin_id": "8511",
+          "facebook_url": "facebook.com/ipsengroup",
+          "twitter_url": "twitter.com/ipsengroup",
+          "website": "ipsen.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2026-05",
+        "title": {
+          "name": "global head of field medical (msls)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sorcero",
+          "size": "51-200",
+          "id": "H1FtE262xtdQITABrRRUUATGtA5a",
+          "founded": 2018,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1301 k street northwest",
+            "address_line_2": null,
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/sorceroai",
+          "linkedin_id": "27143444",
+          "facebook_url": "facebook.com/sorceroai",
+          "twitter_url": null,
+          "website": "sorcero.com"
+        },
+        "location_names": [],
+        "end_date": "2026-05",
+        "start_date": "2025-11",
+        "title": {
+          "name": "vice president, medical strategy and solutions",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "paramita project services",
+          "size": "1-10",
+          "id": "EXnzjeSn0mEMX5PO1zfWeQyqMqsm",
+          "founded": 2011,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "coventry, england, united kingdom",
+            "locality": "coventry",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "52.37,-1.53"
+          },
+          "linkedin_url": "linkedin.com/company/paramita-project-services-ltd",
+          "linkedin_id": "29119912",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "paramitapsltd.wordpress.com"
+        },
+        "location_names": [],
+        "end_date": "2025-11",
+        "start_date": "2023-01",
+        "title": {
+          "name": "medical excellence consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "jazz pharmaceuticals",
+          "size": "1001-5000",
+          "id": "ElvCphuk87c9waqb7ACPNQ4ywrz3",
+          "founded": 2003,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "dublin 4, leinster, ireland",
+            "locality": "dublin 4",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "waterloo road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.33,-6.23"
+          },
+          "linkedin_url": "linkedin.com/company/jazz-pharmaceuticals",
+          "linkedin_id": "164525",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "jazzpharma.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2022-12",
+        "start_date": "2020-05",
+        "title": {
+          "name": "head of medical capabilities and excellence- eu / row",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "jazz pharmaceuticals",
+          "size": "1001-5000",
+          "id": "ElvCphuk87c9waqb7ACPNQ4ywrz3",
+          "founded": 2003,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "dublin 4, leinster, ireland",
+            "locality": "dublin 4",
+            "region": "leinster",
+            "metro": null,
+            "country": "ireland",
+            "continent": "europe",
+            "street_address": "waterloo road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "53.33,-6.23"
+          },
+          "linkedin_url": "linkedin.com/company/jazz-pharmaceuticals",
+          "linkedin_id": "164525",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "jazzpharma.com"
+        },
+        "location_names": [
+          "international falls, minnesota, united states"
+        ],
+        "end_date": "2020-05",
+        "start_date": "2019-09",
+        "title": {
+          "name": "director of msl excellence, eu / row",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2019-09",
+        "start_date": "2015-12",
+        "title": {
+          "name": "worldwide field medical and communications lead - cardiovascular",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2009-04",
+        "title": {
+          "name": "msm (msl) manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2009-04",
+        "start_date": "2004-05",
+        "title": {
+          "name": "regional / medical science manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rts",
+          "size": "11-50",
+          "id": "swsCll7ZoQUrx3mFYjmC4QINcOGt",
+          "founded": null,
+          "industry": "industrial automation",
+          "industry_v2": "automation machinery manufacturing",
+          "location": {
+            "name": "bahía blanca, buenos aires, argentina",
+            "locality": "bahía blanca",
+            "region": "buenos aires",
+            "metro": null,
+            "country": "argentina",
+            "continent": "south america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "8000",
+            "geo": "-38.71,-62.26"
+          },
+          "linkedin_url": "linkedin.com/company/rts_2",
+          "linkedin_id": "250929",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "realtimeservice.com.ar"
+        },
+        "location_names": [],
+        "end_date": "2004-05",
+        "start_date": "2001-09",
+        "title": {
+          "name": "marketing coordinator",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medeval group limited",
+          "size": "11-50",
+          "id": "6hQ3B5tTO5uMYB4Zdam3bQn35mwF",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "m14 4qb",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/medeval-group-limited",
+          "linkedin_id": "8884495",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2001-09",
+        "start_date": "2000-08",
+        "title": {
+          "name": "quality assurance officer",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "quality_assurance",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "smithkline beecham corporation",
+          "size": "201-500",
+          "id": "fKJli9xre60eJMvS4lzgOAP0Ai10",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "madrid, community of madrid, spain",
+            "locality": "madrid",
+            "region": "community of madrid",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "16 edificio adriana calle laguna del marquesado nª 19 nave",
+            "address_line_2": "1ª planta",
+            "postal_code": "28021",
+            "geo": "40.43,-3.72"
+          },
+          "linkedin_url": "linkedin.com/company/smithkline-beecham-corporation",
+          "linkedin_id": "6523627",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1999-09",
+        "start_date": "1998-08",
+        "title": {
+          "name": "neurobehavioural research scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "international coach academy",
+          "type": "post-secondary institution",
+          "id": "V0Q-x5MfJMTfDrAedL9XLw_0000",
+          "location": {
+            "name": "melbourne, victoria, australia",
+            "locality": "melbourne",
+            "region": "victoria",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/internationalcoachacademy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "16166493",
+          "website": "coachcampus.com",
+          "domain": "coachcampus.com"
+        },
+        "degrees": [],
+        "start_date": "2025",
+        "end_date": "2025-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cardiff university / prifysgol caerdydd",
+          "type": "post-secondary institution",
+          "id": "3BMi3SlOB82smUKAMCezYg_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cardiff-university",
+          "facebook_url": "facebook.com/cardiffuni",
+          "twitter_url": "twitter.com/cardiffuni",
+          "linkedin_id": "9126",
+          "website": "cardiff.ac.uk",
+          "domain": "cardiff.ac.uk"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "1996-01",
+        "end_date": "2000",
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "international coach academy",
+          "type": "post-secondary institution",
+          "id": "V0Q-x5MfJMTfDrAedL9XLw_0000",
+          "location": {
+            "name": "melbourne, victoria, australia",
+            "locality": "melbourne",
+            "region": "victoria",
+            "country": "australia",
+            "continent": "oceania"
+          },
+          "linkedin_url": "linkedin.com/school/internationalcoachacademy",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "16166493",
+          "website": "coachcampus.com",
+          "domain": "coachcampus.com"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "2025-09",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "271749689",
+        "url": "linkedin.com/in/vic-ho-medical-excellence",
+        "username": "vic-ho-medical-excellence"
+      },
+      {
+        "network": "linkedin",
+        "id": "271749689",
+        "url": "linkedin.com/in/victoria-ho-67501277",
+        "username": "victoria-ho-67501277"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

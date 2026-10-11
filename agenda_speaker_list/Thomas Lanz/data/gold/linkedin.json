@@ -1,0 +1,139 @@
+{
+  "record_id": "agenda-speaker-medical-019",
+  "speaker_name": "Thomas Lanz",
+  "designation": "Medical Affairs Development Lead",
+  "company": "Boehringer Ingelheim",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://de.linkedin.com/in/thomas-lanz-847aa5106",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "827",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": "- **HMX Pro Pharmacology - Drug Discovery and Development**, Harvard Medical School (2023)\n- **HMX Fundamentals - Genetics**, Harvard Medical School (2023)\n- **Elevate Customers Program**, Harvard Medical School (2024)\n\n**Languages:** Deutsch (Native or bilingual proficiency), Englisch (Full professional proficiency), Spanisch (Elementary proficiency), Portugiesisch (Elementary proficiency)",
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "boehringer ingelheim",
+  "linkedin_current_company_website": "boehringer-ingelheim.com",
+  "linkedin_skills": [
+    "corporate development",
+    "corporate finance",
+    "digitale strategie",
+    "evidenzbasierte medizin",
+    "excel wizard",
+    "genetik",
+    "m&a",
+    "microsoft office",
+    "pharmakologie",
+    "powerpoint artist",
+    "project management",
+    "projektmanagement",
+    "strategie",
+    "valuation",
+    "zwischenmenschliche kommunikation"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "medical affairs development lead",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior manager internal consulting",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-08",
+      "end_date": "2024-06",
+      "is_primary": false
+    },
+    {
+      "title": "manager / consultant internal consulting",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-08",
+      "end_date": "2022-07",
+      "is_primary": false
+    },
+    {
+      "title": "project manager corporate development",
+      "company": "schufa holding ag",
+      "company_industry": "financial services",
+      "start_date": "2019-05",
+      "end_date": "2021-06",
+      "is_primary": false
+    },
+    {
+      "title": "senior consultant",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2018-06",
+      "end_date": "2019-03",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2016-11",
+      "end_date": "2018-05",
+      "is_primary": false
+    },
+    {
+      "title": "investment banking division (intern)",
+      "company": "barclays",
+      "company_industry": "financial services",
+      "start_date": "2015-09",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "corporate finance - valuation services (intern)",
+      "company": "deloitte",
+      "company_industry": "management consulting",
+      "start_date": "2014-09",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "processes and organization (intern)",
+      "company": "bsh home appliances group",
+      "company_industry": "consumer goods",
+      "start_date": "2012-08",
+      "end_date": "2012-10",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "university of bayreuth",
+      "majors": [
+        "business administration"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2016"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

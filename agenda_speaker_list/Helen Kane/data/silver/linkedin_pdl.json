@@ -1,0 +1,139 @@
+{
+  "record_id": "agenda-speaker-medical-009",
+  "speaker_name": "Helen Kane",
+  "linkedin_url": "https://uk.linkedin.com/in/helen-kane-15b4548",
+  "likelihood": 9,
+  "full_name": "helen kane",
+  "job_title": "chief executive officer",
+  "industry": "pharmaceuticals",
+  "current_company": "one msl",
+  "current_company_website": "onemsl.com",
+  "current_company_industry": "management consulting",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biotechnology",
+    "cardiology",
+    "clinical development",
+    "clinical trial management system",
+    "clinical trials",
+    "coaching",
+    "cro",
+    "ctms",
+    "dermatology",
+    "diabetes",
+    "drug development",
+    "gcp",
+    "health economics",
+    "hematology",
+    "infectious diseases",
+    "leadership",
+    "lifesciences",
+    "management",
+    "market access",
+    "medical affairs",
+    "medical writing",
+    "medicine",
+    "neurology",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmacovigilance",
+    "product launch",
+    "regulatory submissions",
+    "rheumatology",
+    "sales effectiveness",
+    "strategy",
+    "therapeutic areas"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief executive officer",
+      "company": "one msl",
+      "company_industry": "management consulting",
+      "start_date": "2015-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "co-chapter lead uk and ireland",
+      "company": "medical affairs professional society (maps)",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022",
+      "end_date": "2024",
+      "is_primary": false
+    },
+    {
+      "title": "founder",
+      "company": "pivot msl limited",
+      "company_industry": "management consulting",
+      "start_date": "2016-10",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "chairman msla",
+      "company": "medical science liaison association",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2012-10",
+      "end_date": "2015-04",
+      "is_primary": false
+    },
+    {
+      "title": "associate director,national msl manager",
+      "company": "celgene",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-08",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "director",
+      "company": "napp pharmaceuticals limited",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2010-08",
+      "end_date": "2011-08",
+      "is_primary": false
+    },
+    {
+      "title": "medical liaison manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2006",
+      "end_date": "2010",
+      "is_primary": false
+    },
+    {
+      "title": "medical liaison team manager / functional lead medical",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2006-09",
+      "end_date": "2010-07",
+      "is_primary": false
+    },
+    {
+      "title": "scientific advisor",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1990",
+      "end_date": "2005",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of brighton",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1983-01-01",
+      "end_date": "1986"
+    }
+  ]
+}

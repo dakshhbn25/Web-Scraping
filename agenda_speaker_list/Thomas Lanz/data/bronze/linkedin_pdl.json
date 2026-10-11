@@ -1,0 +1,523 @@
+{
+  "record_id": "agenda-speaker-medical-019",
+  "speaker_name": "Thomas Lanz",
+  "event_name": "Medical",
+  "linkedin_url": "https://de.linkedin.com/in/thomas-lanz-847aa5106",
+  "scraped_at": "2026-10-11T13:03:30.219466+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "nyEsLaBk6Sh6FywW5ud2YA_0000",
+    "full_name": "thomas lanz",
+    "first_name": "thomas",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "l",
+    "last_name": "lanz",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/thomas-lanz-847aa5106",
+    "linkedin_username": "thomas-lanz-847aa5106",
+    "linkedin_id": "450603127",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "medical affairs development lead",
+    "job_title_role": "engineering",
+    "job_title_sub_role": null,
+    "job_title_class": "research_and_development",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+    "job_company_name": "boehringer ingelheim",
+    "job_company_website": "boehringer-ingelheim.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1885,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+    "job_company_linkedin_id": "3235",
+    "job_company_facebook_url": "facebook.com/boehringeringelheim",
+    "job_company_twitter_url": "twitter.com/boehringerus",
+    "job_company_location_name": "ingelheim, rhineland-palatinate, germany",
+    "job_company_location_locality": "ingelheim",
+    "job_company_location_metro": null,
+    "job_company_location_region": "rhineland-palatinate",
+    "job_company_location_geo": "49.97,8.05",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "55218",
+    "job_company_location_country": "germany",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-08-23",
+    "job_last_verified": "2026-07-15",
+    "job_start_date": "2024-07",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-15",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "corporate development",
+      "corporate finance",
+      "digitale strategie",
+      "evidenzbasierte medizin",
+      "excel wizard",
+      "genetik",
+      "m&a",
+      "microsoft office",
+      "pharmakologie",
+      "powerpoint artist",
+      "project management",
+      "projektmanagement",
+      "strategie",
+      "valuation",
+      "zwischenmenschliche kommunikation"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "ingelheim, rhineland-palatinate, germany"
+        ],
+        "end_date": null,
+        "start_date": "2024-07",
+        "title": {
+          "name": "medical affairs development lead",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "ingelheim, rhineland-palatinate, germany"
+        ],
+        "end_date": "2024-06",
+        "start_date": "2022-08",
+        "title": {
+          "name": "senior manager internal consulting",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [
+          "ingelheim, rhineland-palatinate, germany"
+        ],
+        "end_date": "2022-07",
+        "start_date": "2021-08",
+        "title": {
+          "name": "manager / consultant internal consulting",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "schufa holding ag",
+          "size": "501-1000",
+          "id": "ZO44ErTHn6xBhwVl7oqx8AobTytD",
+          "founded": 1927,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "germany",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/schufa-holding-ag",
+          "linkedin_id": "107061",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "schufa.de"
+        },
+        "location_names": [
+          "wiesbaden, hesse, germany"
+        ],
+        "end_date": "2021-06",
+        "start_date": "2019-05",
+        "title": {
+          "name": "project manager corporate development",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deloitte",
+          "size": "10001+",
+          "id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+          "founded": 1845,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 rockefeller plaza",
+            "address_line_2": null,
+            "postal_code": "10112",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/deloitte",
+          "linkedin_id": "1038",
+          "facebook_url": "facebook.com/deloitte",
+          "twitter_url": "twitter.com/deloitte",
+          "website": "deloitte.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": "2019-03",
+        "start_date": "2018-06",
+        "title": {
+          "name": "senior consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deloitte",
+          "size": "10001+",
+          "id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+          "founded": 1845,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 rockefeller plaza",
+            "address_line_2": null,
+            "postal_code": "10112",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/deloitte",
+          "linkedin_id": "1038",
+          "facebook_url": "facebook.com/deloitte",
+          "twitter_url": "twitter.com/deloitte",
+          "website": "deloitte.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2016-11",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "barclays",
+          "size": "10001+",
+          "id": "oVIfmhSCFfeTITMd8dpW0AWUhIj6",
+          "founded": 1690,
+          "industry": "financial services",
+          "industry_v2": "financial services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 churchill place",
+            "address_line_2": null,
+            "postal_code": "e14 5hp",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/barclays-bank",
+          "linkedin_id": "1426",
+          "facebook_url": "facebook.com/barclaysuk",
+          "twitter_url": "twitter.com/barclaysplc",
+          "website": "barclays.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": "2015-12",
+        "start_date": "2015-09",
+        "title": {
+          "name": "investment banking division (intern)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "investment_banking",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "deloitte",
+          "size": "10001+",
+          "id": "PHLoJtHW3DBdBvjKRBkHKgCxwFUt",
+          "founded": 1845,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "30 rockefeller plaza",
+            "address_line_2": null,
+            "postal_code": "10112",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/deloitte",
+          "linkedin_id": "1038",
+          "facebook_url": "facebook.com/deloitte",
+          "twitter_url": "twitter.com/deloitte",
+          "website": "deloitte.com"
+        },
+        "location_names": [
+          "frankfurt, hesse, germany"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2014-09",
+        "title": {
+          "name": "corporate finance - valuation services (intern)",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bsh home appliances group",
+          "size": "10001+",
+          "id": "6p6B59rWrNMqY6dd0ZBEjQzaPIbt",
+          "founded": 1967,
+          "industry": "consumer goods",
+          "industry_v2": "manufacturing",
+          "location": {
+            "name": "münchen, bavaria, germany",
+            "locality": "münchen",
+            "region": "bavaria",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "34 carl-wery-street",
+            "address_line_2": null,
+            "postal_code": "81739",
+            "geo": "48.15,11.55"
+          },
+          "linkedin_url": "linkedin.com/company/bsh-home-appliances-group",
+          "linkedin_id": "5810",
+          "facebook_url": "facebook.com/bshgroup.de",
+          "twitter_url": "twitter.com/thebshgroup",
+          "website": "bsh-group.com"
+        },
+        "location_names": [
+          "feldkirchen an der donau, upper austria, austria"
+        ],
+        "end_date": "2012-10",
+        "start_date": "2012-08",
+        "title": {
+          "name": "processes and organization (intern)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of bayreuth",
+          "type": "post-secondary institution",
+          "id": "yFPhlcoakBGV7T5K3hFs2w_0000",
+          "location": {
+            "name": "bayreuth, bavaria, germany",
+            "locality": "bayreuth",
+            "region": "bavaria",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bayreuth",
+          "facebook_url": "facebook.com/unibayreuth",
+          "twitter_url": "twitter.com/unibt",
+          "linkedin_id": "30761",
+          "website": "uni-bayreuth.de",
+          "domain": "uni-bayreuth.de"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2014-01",
+        "end_date": "2016",
+        "majors": [
+          "business administration"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "450603127",
+        "url": "linkedin.com/in/thomas-lanz-847aa5106",
+        "username": "thomas-lanz-847aa5106"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

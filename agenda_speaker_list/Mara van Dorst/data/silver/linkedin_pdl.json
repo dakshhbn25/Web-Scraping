@@ -1,0 +1,141 @@
+{
+  "record_id": "agenda-speaker-medical-013",
+  "speaker_name": "Mara van Dorst",
+  "linkedin_url": "https://be.linkedin.com/in/maravandorst",
+  "likelihood": 9,
+  "full_name": "mara van dorst",
+  "job_title": "head of digital technology medical",
+  "industry": "pharmaceuticals",
+  "current_company": "ucb",
+  "current_company_website": "ucb.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [],
+  "interests": [
+    "arts and culture"
+  ],
+  "experience": [
+    {
+      "title": "head of digital technology medical",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "program lead clinical development transformation",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "it g2m crm & omnichannel lead",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-04",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "digital customer experience consultant",
+      "company": "capgemini",
+      "company_industry": "information technology and services",
+      "start_date": "2017-09",
+      "end_date": "2018-03",
+      "is_primary": false
+    },
+    {
+      "title": "consultancy project intern",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2017-07",
+      "is_primary": false
+    },
+    {
+      "title": "events & marketing",
+      "company": "180 degrees consulting",
+      "company_industry": "non-profit organization management",
+      "start_date": "2015-09",
+      "end_date": "2016-04",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "180 degrees consulting",
+      "company_industry": "non-profit organization management",
+      "start_date": "2015-03",
+      "end_date": "2015-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "vlerick business school",
+      "majors": [
+        "corporate finance",
+        "management",
+        "marketing"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2016-01",
+      "end_date": "2017-12"
+    },
+    {
+      "school": "ghent university",
+      "majors": [
+        "business economics",
+        "demography",
+        "marketing"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2014-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "liaoning university",
+      "majors": [
+        "chinese language"
+      ],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "ghent university",
+      "majors": [
+        "chinese language and culture"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelors"
+      ],
+      "start_date": "2011-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "reynaertcollege",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2011-12"
+    },
+    {
+      "school": "reynaertcollege",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2004-01",
+      "end_date": "2011-01"
+    }
+  ]
+}

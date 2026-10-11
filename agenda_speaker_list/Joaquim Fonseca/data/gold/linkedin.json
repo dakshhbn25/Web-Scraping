@@ -1,0 +1,237 @@
+{
+  "record_id": "agenda-speaker-medical-010",
+  "speaker_name": "Joaquim Fonseca",
+  "designation": "Global Medical Excellence Lead",
+  "company": "Takeda",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://ch.linkedin.com/in/joaquim-fonseca",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "3417",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "takeda",
+  "linkedin_current_company_website": "takeda.com",
+  "linkedin_skills": [
+    "attitude change",
+    "biotechnology",
+    "budget oversight",
+    "building organizational capability",
+    "change management",
+    "clinical development",
+    "clinical pharmacology",
+    "clinical research",
+    "clinical trials",
+    "command",
+    "communication skills",
+    "costumer focus",
+    "cross functional team leadership",
+    "cross team collaboration",
+    "customer engagement",
+    "customer insight",
+    "decision making",
+    "digital transformation",
+    "executive stakeholder management",
+    "executive visibility",
+    "experience working in multifunctional teams",
+    "framework design",
+    "gcps",
+    "global solutions",
+    "healthcare",
+    "knowledge acquisition",
+    "kol management",
+    "launch experience",
+    "leadership",
+    "life sciences",
+    "management",
+    "matrix leadership",
+    "medical affairs",
+    "medical affairs strategy",
+    "medical education",
+    "medical excellence",
+    "medical information systems",
+    "medical scientific liaison",
+    "medical writing",
+    "msl excellence",
+    "msl onboarding and training",
+    "msl value demonstration",
+    "multiple sclerosis",
+    "neuroscience",
+    "pharmaceutical industry",
+    "pharmaceutical medicine",
+    "pharmacists",
+    "presentation skills",
+    "product launch",
+    "project management",
+    "selling skills",
+    "senior stakeholder management",
+    "strategic leadership",
+    "strategic planning",
+    "supplier evaluation",
+    "team leadership",
+    "training",
+    "training skills",
+    "vendas",
+    "workable solutions"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "global medical excellence lead",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "global field medical excellence lead",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-02",
+      "end_date": "2020-08",
+      "is_primary": false
+    },
+    {
+      "title": "global medical clrm engagement manager",
+      "company": "ucb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2019-01",
+      "is_primary": false
+    },
+    {
+      "title": "scientific project manager - neuroscience",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-02",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical scientific liaison - multiple sclerosis",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-10",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical scientific liaison - multiple sclerosis",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-03",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative",
+      "company": "novartis",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2006-08",
+      "end_date": "2011-02",
+      "is_primary": false
+    },
+    {
+      "title": "chief pharmacist (director técnico)",
+      "company": "clinica particular de barcelos",
+      "company_industry": null,
+      "start_date": "2004-06",
+      "end_date": "2008-02",
+      "is_primary": false
+    },
+    {
+      "title": "acting superintendent pharmacist (director técnico adjunto)",
+      "company": "farmácia avenida",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-05",
+      "end_date": "2006-07",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "institute of social and preventive medicine (ispm)",
+      "majors": [
+        "epidemiology"
+      ],
+      "degrees": [],
+      "start_date": "2014",
+      "end_date": "2014"
+    },
+    {
+      "school": "católica lisbon school of business and economics",
+      "majors": [
+        "healthcare"
+      ],
+      "degrees": [],
+      "start_date": "2013-01-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "universidade de aveiro",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2012-01-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "católica lisbon school of business and economics",
+      "majors": [
+        "leadership",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2011-01-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "universidade do porto",
+      "majors": [
+        "pharmacy"
+      ],
+      "degrees": [
+        "doctor of pharmacy",
+        "doctorates"
+      ],
+      "start_date": "1996-01-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "escola secundária alcaides de faria",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1992",
+      "end_date": "1995"
+    },
+    {
+      "school": "trainings",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

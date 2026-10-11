@@ -1,0 +1,537 @@
+{
+  "record_id": "agenda-speaker-medical-000",
+  "speaker_name": "Amy FitzPatrick",
+  "event_name": "Medical",
+  "linkedin_url": "https://nl.linkedin.com/in/amyfitzp",
+  "scraped_at": "2026-10-11T13:02:59.557857+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "eh61-tn3KdFexPGBaTT6xA_0000",
+    "full_name": "amy fitzpatrick",
+    "first_name": "amy",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "fitzpatrick",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/amy-fitzpatrick-msc-9223498",
+    "linkedin_username": "amy-fitzpatrick-msc-9223498",
+    "linkedin_id": "24734186",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/amyfitzp",
+    "twitter_username": "amyfitzp",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "hospital & health care",
+    "job_title": "founder | chief executive officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "4jYOc55rBm6A7EYAN3fMZwPrARCL",
+    "job_company_name": "decipher women",
+    "job_company_website": "decipherwomen.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2021,
+    "job_company_industry": null,
+    "job_company_industry_v2": "health and human services",
+    "job_company_linkedin_url": "linkedin.com/company/decipherwomen",
+    "job_company_linkedin_id": "109283297",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "rotterdam, south holland, netherlands",
+    "job_company_location_locality": "rotterdam",
+    "job_company_location_metro": null,
+    "job_company_location_region": "south holland",
+    "job_company_location_geo": "51.90,4.48",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "netherlands",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2025-10-01",
+    "job_last_verified": "2026-08-27",
+    "job_start_date": "2025-08",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "netherlands",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-27",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "active server pages",
+      "acupuncture",
+      "allergy",
+      "alternative medicine",
+      "biotechnology",
+      "business development",
+      "chinese herbal medicine",
+      "chronic illness",
+      "clinical",
+      "clinical data management",
+      "clinical research",
+      "content strategy",
+      "continuing medical education",
+      "diabetes",
+      "diagnostics",
+      "entrepreneurship",
+      "executive leadership",
+      "fda",
+      "hardware diagnostics",
+      "health insurance claims",
+      "healthcare",
+      "herbal",
+      "herbal medicine",
+      "hospitals",
+      "infectious diseases",
+      "integrative medicine",
+      "internal medicine",
+      "leadership",
+      "marketing strategy",
+      "medical affairs",
+      "medical devices",
+      "medical education",
+      "medical research",
+      "medical science liaison",
+      "medical writing",
+      "medicine",
+      "neurology",
+      "neuroscience",
+      "nutrition",
+      "nutritional counseling",
+      "oncology",
+      "pain management",
+      "pharmaceutical industry",
+      "pitches",
+      "public speaking",
+      "research",
+      "science journalism",
+      "science writing",
+      "strategic planning",
+      "strategy",
+      "stress",
+      "traditional chinese medicine",
+      "u.s. health insurance portability and accountability act",
+      "wellness",
+      "women's health",
+      "writing"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "netherlands",
+      "canada",
+      "united states"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "decipher women",
+          "size": "1-10",
+          "id": "4jYOc55rBm6A7EYAN3fMZwPrARCL",
+          "founded": 2021,
+          "industry": null,
+          "industry_v2": "health and human services",
+          "location": {
+            "name": "rotterdam, south holland, netherlands",
+            "locality": "rotterdam",
+            "region": "south holland",
+            "metro": null,
+            "country": "netherlands",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.90,4.48"
+          },
+          "linkedin_url": "linkedin.com/company/decipherwomen",
+          "linkedin_id": "109283297",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "decipherwomen.com"
+        },
+        "location_names": [
+          "rotterdam, south holland, netherlands"
+        ],
+        "end_date": null,
+        "start_date": "2025-08",
+        "title": {
+          "name": "founder | chief executive officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "formerly ethos health communications",
+          "size": "51-200",
+          "id": "SIbK77l89Tl09SvyrKPz7geBuVtp",
+          "founded": 2002,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "yardley, pennsylvania, united states",
+            "locality": "yardley",
+            "region": "pennsylvania",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "777 township line road",
+            "address_line_2": "suite 300",
+            "postal_code": "19067",
+            "geo": "40.22,-74.80"
+          },
+          "linkedin_url": "linkedin.com/company/ethos-health-communications",
+          "linkedin_id": "672393",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ethoshc.com"
+        },
+        "location_names": [],
+        "end_date": "2014-03",
+        "start_date": "2013-01",
+        "title": {
+          "name": "scientific director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "yin yang balance acupuncture",
+          "size": "1-10",
+          "id": "5fXt48G3HaGICQ3yeSKXngT8hPT2",
+          "founded": null,
+          "industry": "medical practice",
+          "industry_v2": null,
+          "location": {
+            "name": "costa mesa, california, united states",
+            "locality": "costa mesa",
+            "region": "california",
+            "metro": "los angeles, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "33.64,-117.90"
+          },
+          "linkedin_url": "linkedin.com/company/yin-yang-balance",
+          "linkedin_id": "1934606",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "yin-yangbalance.com"
+        },
+        "location_names": [],
+        "end_date": "2018-07",
+        "start_date": "2010-11",
+        "title": {
+          "name": "owner l integrative hcp l chinese medicine acupuncturist & herbalist",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mount sinai health system",
+          "size": "10001+",
+          "id": "jNaP1KJb7ug4S8H6gZlWiguCzW1m",
+          "founded": 2013,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "150 east 42nd street",
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/mountsinainyc",
+          "linkedin_id": "8031",
+          "facebook_url": "facebook.com/mountsinainyc",
+          "twitter_url": "twitter.com/mountsinainyc",
+          "website": "mountsinai.org"
+        },
+        "location_names": [],
+        "end_date": "2011-11",
+        "start_date": "2010-09",
+        "title": {
+          "name": "acupuncturist beth israel medical center - integrative medicine department",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amy fitzpatrick consulting also ee research",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": null,
+        "start_date": "2008-08",
+        "title": {
+          "name": "owner i executive scientific director i strategist",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "journalism",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ghi",
+          "size": "1001-5000",
+          "id": "QdmXKShw5dpumcpabVCmjAiK5ySZ",
+          "founded": null,
+          "industry": "insurance",
+          "industry_v2": "insurance",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/ghi",
+          "linkedin_id": "163987",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "new york, new york, united states"
+        ],
+        "end_date": "2004",
+        "start_date": "2000",
+        "title": {
+          "name": "senior manager, electronic communications",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "american college of traditional chinese medicine",
+          "type": "post-secondary institution",
+          "id": "xTHjgF9djatvO19oxRyzbg_0000",
+          "location": {
+            "name": "san francisco, california, united states",
+            "locality": "san francisco",
+            "region": "california",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/american-college-of-traditional-chinese-medicine",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "1394806",
+          "website": "actcm.edu",
+          "domain": "actcm.edu"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2006",
+        "end_date": "2010",
+        "majors": [
+          "chinese",
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the graduate center, city university of new york",
+          "type": "post-secondary institution",
+          "id": "r4JhRlXp56qKRtXg8dmBng_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/thegraduatecenter",
+          "facebook_url": "facebook.com/johnjaycollege",
+          "twitter_url": "twitter.com/johnjaycollege",
+          "linkedin_id": "2677812",
+          "website": "gc.cuny.edu",
+          "domain": "cuny.edu"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates",
+          "masters"
+        ],
+        "start_date": "2004",
+        "end_date": "2005",
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "columbia university",
+          "type": "post-secondary institution",
+          "id": "8XSNawBZ1Dn3FFARfronJQ_0000",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/columbia-university",
+          "facebook_url": "facebook.com/columbia",
+          "twitter_url": "twitter.com/columbia",
+          "linkedin_id": "2624",
+          "website": "columbia.edu",
+          "domain": "columbia.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1995",
+        "end_date": "1999",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "columbia university in the city of new york - arts & sciences",
+          "type": "post-secondary institution",
+          "id": "BX-TH-GVBg9s8DcG2-6gOg_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/columbia-university-in-the-city-of-new-york-arts-sciences",
+          "facebook_url": "facebook.com/columbia",
+          "twitter_url": "twitter.com/columbia",
+          "linkedin_id": "91617852",
+          "website": "columbia.edu",
+          "domain": "columbia.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1995",
+        "end_date": "1999",
+        "majors": [
+          "psychology"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "24734186",
+        "url": "linkedin.com/in/amy-fitzpatrick-msc-9223498",
+        "username": "amy-fitzpatrick-msc-9223498"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/amyfitzp",
+        "username": "amyfitzp"
+      },
+      {
+        "network": "linkedin",
+        "id": "24734186",
+        "url": "linkedin.com/in/amyfitzp",
+        "username": "amyfitzp"
+      },
+      {
+        "network": "linkedin",
+        "id": "24734186",
+        "url": "linkedin.com/in/amy-fitzpatrick-9223498",
+        "username": "amy-fitzpatrick-9223498"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

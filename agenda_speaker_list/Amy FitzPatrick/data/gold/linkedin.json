@@ -1,0 +1,196 @@
+{
+  "record_id": "agenda-speaker-medical-000",
+  "speaker_name": "Amy FitzPatrick",
+  "designation": "Founder & Chief Innovation & Science Officer",
+  "company": "decipHER women",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://nl.linkedin.com/in/amyfitzp",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "2035",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "hospital & health care",
+  "linkedin_current_company": "decipher women",
+  "linkedin_current_company_website": "decipherwomen.com",
+  "linkedin_skills": [
+    "active server pages",
+    "acupuncture",
+    "allergy",
+    "alternative medicine",
+    "biotechnology",
+    "business development",
+    "chinese herbal medicine",
+    "chronic illness",
+    "clinical",
+    "clinical data management",
+    "clinical research",
+    "content strategy",
+    "continuing medical education",
+    "diabetes",
+    "diagnostics",
+    "entrepreneurship",
+    "executive leadership",
+    "fda",
+    "hardware diagnostics",
+    "health insurance claims",
+    "healthcare",
+    "herbal",
+    "herbal medicine",
+    "hospitals",
+    "infectious diseases",
+    "integrative medicine",
+    "internal medicine",
+    "leadership",
+    "marketing strategy",
+    "medical affairs",
+    "medical devices",
+    "medical education",
+    "medical research",
+    "medical science liaison",
+    "medical writing",
+    "medicine",
+    "neurology",
+    "neuroscience",
+    "nutrition",
+    "nutritional counseling",
+    "oncology",
+    "pain management",
+    "pharmaceutical industry",
+    "pitches",
+    "public speaking",
+    "research",
+    "science journalism",
+    "science writing",
+    "strategic planning",
+    "strategy",
+    "stress",
+    "traditional chinese medicine",
+    "u.s. health insurance portability and accountability act",
+    "wellness",
+    "women's health",
+    "writing"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "founder | chief executive officer",
+      "company": "decipher women",
+      "company_industry": null,
+      "start_date": "2025-08",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "scientific director",
+      "company": "formerly ethos health communications",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "owner l integrative hcp l chinese medicine acupuncturist & herbalist",
+      "company": "yin yang balance acupuncture",
+      "company_industry": "medical practice",
+      "start_date": "2010-11",
+      "end_date": "2018-07",
+      "is_primary": false
+    },
+    {
+      "title": "acupuncturist beth israel medical center - integrative medicine department",
+      "company": "mount sinai health system",
+      "company_industry": "hospital & health care",
+      "start_date": "2010-09",
+      "end_date": "2011-11",
+      "is_primary": false
+    },
+    {
+      "title": "owner i executive scientific director i strategist",
+      "company": "amy fitzpatrick consulting also ee research",
+      "company_industry": null,
+      "start_date": "2008-08",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "senior manager, electronic communications",
+      "company": "ghi",
+      "company_industry": "insurance",
+      "start_date": "2000",
+      "end_date": "2004",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "american college of traditional chinese medicine",
+      "majors": [
+        "chinese",
+        "medicine"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2006",
+      "end_date": "2010"
+    },
+    {
+      "school": "the graduate center, city university of new york",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates",
+        "masters"
+      ],
+      "start_date": "2004",
+      "end_date": "2005"
+    },
+    {
+      "school": "columbia university",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1995",
+      "end_date": "1999"
+    },
+    {
+      "school": "columbia university in the city of new york - arts & sciences",
+      "majors": [
+        "psychology"
+      ],
+      "degrees": [
+        "bachelor of arts",
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "1995",
+      "end_date": "1999"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

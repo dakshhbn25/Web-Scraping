@@ -19,7 +19,8 @@ AGENDA_GOLD = ROOT / "agenda" / "data" / "gold" / "sessions.json"
 SPONSORS_GOLD = ROOT / "sponsors" / "data" / "gold" / "sponsors.json"
 EXHIBITION_STATS_GOLD = ROOT / "sponsors" / "data" / "gold" / "exhibition_stats.json"
 TICKETS_GOLD = ROOT / "tickets" / "data" / "gold" / "tickets.json"
-AI_LANDSCAPE_GOLD = ROOT / "ai_landscape" / "data" / "gold" / "ai_landscape.parquet"
+AGENDA_SPEAKERS_GOLD = ROOT / "agenda_speaker_list" / "agenda_speakers.json"
+AI_LANDSCAPE_GOLD =ROOT / "ai_landscape" / "data" / "gold" / "ai_landscape.parquet"
 
 # Professional-backbone / social-layer fields that decide a speaker's data tier.
 # Mirrors the split used in the enrichment coverage report: a profile only
@@ -46,14 +47,16 @@ def _load_json(path: Path):
 
 
 @st.cache_data(ttl="10m")
-def load_enrichment_by_name() -> dict:
+def load_enrichment_by_name(base: str = "speaker_list") -> dict:
     """One enrichment record per unique speaker name (not per event
     appearance) -- speakers at two events share a single speaker_list/
-    folder, so this is looked up by name rather than record_id."""
+    folder, so this is looked up by name rather than record_id.
+    base="agenda_speaker_list" reads the agenda speakers' folders instead."""
     enrichment = {}
-    if not SPEAKER_LIST_DIR.exists():
+    base_dir = ROOT / base
+    if not base_dir.exists():
         return enrichment
-    for folder in SPEAKER_LIST_DIR.iterdir():
+    for folder in base_dir.iterdir():
         if not folder.is_dir() or folder.name == "scripts":
             continue
         gold_path = folder / "data" / "gold" / "linkedin.json"
@@ -64,15 +67,16 @@ def load_enrichment_by_name() -> dict:
 
 
 @st.cache_data(ttl="10m")
-def load_alt_sources_by_name() -> dict:
+def load_alt_sources_by_name(base: str = "speaker_list") -> dict:
     """Verified non-LinkedIn sources (company bios, press, conference
     profiles) for speakers LinkedIn couldn't fully cover. See
     speaker_list/scripts/bronze/Bronze-layer-AltSources.py for how each
     entry's identity was confirmed before being added."""
     sources = {}
-    if not SPEAKER_LIST_DIR.exists():
+    base_dir = ROOT / base
+    if not base_dir.exists():
         return sources
-    for folder in SPEAKER_LIST_DIR.iterdir():
+    for folder in base_dir.iterdir():
         if not folder.is_dir() or folder.name == "scripts":
             continue
         gold_path = folder / "data" / "gold" / "alt_sources.json"
@@ -133,6 +137,47 @@ def load_speakers() -> list[dict]:
         record["alt_sources"] = alt.get("sources") if alt else []
         record["alt_sources_verification"] = alt.get("identity_verification") if alt else None
 
+        record["tier"] = compute_tier(record)
+        merged.append(record)
+    return merged
+
+
+@st.cache_data(ttl="10m")
+def load_agenda_speakers() -> list[dict]:
+    """People who speak in the agenda sessions but are NOT in the speakers
+    list (built by agenda_speaker_list/scripts/build_agenda_speakers.py;
+    anyone already in the speakers list is mapped there, not repeated here).
+    Each is merged with the same LinkedIn / alternate-source data the
+    speakers list has, so the Speakers page can show them the same way."""
+    base = "agenda_speaker_list"
+    master = _load_json(AGENDA_SPEAKERS_GOLD) or []
+    enrichment_by_name = load_enrichment_by_name(base)
+    alt_sources_by_name = load_alt_sources_by_name(base)
+
+    corrections = (_load_json(ROOT / "agenda_speaker_list" / "corrections.json") or {}).get("corrections", {})
+
+    merged = []
+    for person in master:
+        record = dict(person)
+        enrichment = enrichment_by_name.get(person["speaker_name"])
+        record["has_enrichment"] = enrichment is not None
+        if enrichment:
+            for key, value in enrichment.items():
+                if key.startswith("linkedin_") or key.endswith("_en"):
+                    record[key] = value
+            record["enrichment_sources"] = enrichment.get("data_sources", {})
+        else:
+            record["enrichment_sources"] = {}
+
+        alt = alt_sources_by_name.get(person["speaker_name"])
+        record["has_alt_sources"] = alt is not None
+        record["alt_sources"] = alt.get("sources") if alt else []
+        record["alt_sources_verification"] = alt.get("identity_verification") if alt else None
+        record["linkedin_url"] = person.get("linkedin_url") or record.get("linkedin_url")
+        fix = corrections.get(person["speaker_name"])
+        if fix:
+            record.update(fix["fields"])
+            record["correction_note"] = fix["why"]
         record["tier"] = compute_tier(record)
         merged.append(record)
     return merged

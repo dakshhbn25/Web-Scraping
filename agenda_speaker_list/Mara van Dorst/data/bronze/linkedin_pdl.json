@@ -1,0 +1,559 @@
+{
+  "record_id": "agenda-speaker-medical-013",
+  "speaker_name": "Mara van Dorst",
+  "event_name": "Medical",
+  "linkedin_url": "https://be.linkedin.com/in/maravandorst",
+  "scraped_at": "2026-10-11T13:03:21.708566+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "IyoR5XehoqOIII9LSmcrlw_0000",
+    "full_name": "mara van dorst",
+    "first_name": "mara",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "v",
+    "last_name": "van dorst",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/maravandorst",
+    "linkedin_username": "maravandorst",
+    "linkedin_id": "362958755",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "head of digital technology medical",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+    "job_company_name": "ucb",
+    "job_company_website": "ucb.com",
+    "job_company_size": "5001-10000",
+    "job_company_founded": 1928,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/ucb-pharma",
+    "job_company_linkedin_id": "26195",
+    "job_company_facebook_url": "facebook.com/ucbbiopharma",
+    "job_company_twitter_url": "twitter.com/ucb_news",
+    "job_company_location_name": "brussels, brussels, belgium",
+    "job_company_location_locality": "brussels",
+    "job_company_location_metro": null,
+    "job_company_location_region": "brussels",
+    "job_company_location_geo": "50.84,4.34",
+    "job_company_location_street_address": "60 allée de la recherche",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-29",
+    "job_last_verified": "2026-06-29",
+    "job_start_date": "2023-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2021-02-12",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts and culture"
+    ],
+    "skills": [],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "head of digital technology medical",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-06",
+        "title": {
+          "name": "program lead clinical development transformation",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2023-06",
+        "start_date": "2018-04",
+        "title": {
+          "name": "it g2m crm & omnichannel lead",
+          "class": "research_and_development",
+          "role": "engineering",
+          "sub_role": "information_technology",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "capgemini",
+          "size": "10001+",
+          "id": "GissKnmvV87kScpnpZndaguePyVN",
+          "founded": 1967,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/capgemini",
+          "linkedin_id": "157240",
+          "facebook_url": "facebook.com/capgemini",
+          "twitter_url": "twitter.com/capgemini",
+          "website": "capgemini.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2018-03",
+        "start_date": "2017-09",
+        "title": {
+          "name": "digital customer experience consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2017-07",
+        "start_date": "2017-05",
+        "title": {
+          "name": "consultancy project intern",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "180 degrees consulting",
+          "size": "10001+",
+          "id": "Tb38E4HgBJAjkQNXZTcX7Ak0Wt2l",
+          "founded": 2007,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "sydney, new south wales, australia",
+            "locality": "sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "60 margaret street",
+            "address_line_2": "level 34",
+            "postal_code": "2000",
+            "geo": "-33.86,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/180degreesconsulting",
+          "linkedin_id": "460942",
+          "facebook_url": "facebook.com/180degreesconsulting",
+          "twitter_url": "twitter.com/180degrees",
+          "website": "180dc.org"
+        },
+        "location_names": [
+          "gent, flanders, belgium"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2015-09",
+        "title": {
+          "name": "events & marketing",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "180 degrees consulting",
+          "size": "10001+",
+          "id": "Tb38E4HgBJAjkQNXZTcX7Ak0Wt2l",
+          "founded": 2007,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "sydney, new south wales, australia",
+            "locality": "sydney",
+            "region": "new south wales",
+            "metro": null,
+            "country": "australia",
+            "continent": "oceania",
+            "street_address": "60 margaret street",
+            "address_line_2": "level 34",
+            "postal_code": "2000",
+            "geo": "-33.86,151.2"
+          },
+          "linkedin_url": "linkedin.com/company/180degreesconsulting",
+          "linkedin_id": "460942",
+          "facebook_url": "facebook.com/180degreesconsulting",
+          "twitter_url": "twitter.com/180degrees",
+          "website": "180dc.org"
+        },
+        "location_names": [
+          "gent, flanders, belgium"
+        ],
+        "end_date": "2015-08",
+        "start_date": "2015-03",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "vlerick business school",
+          "type": "post-secondary institution",
+          "id": "3pFnaEjejnuakleMkBpg2g_0000",
+          "location": {
+            "name": "sint-joost-ten-node, brussels, belgium",
+            "locality": "sint-joost-ten-node",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/vlerick-business-school",
+          "facebook_url": "facebook.com/vlerickbusinessschool",
+          "twitter_url": "twitter.com/vlerick",
+          "linkedin_id": "11098",
+          "website": "vlerick.com",
+          "domain": "vlerick.com"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2016-01",
+        "end_date": "2017-12",
+        "majors": [
+          "corporate finance",
+          "management",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ghent university",
+          "type": "post-secondary institution",
+          "id": "7VGcAvE08s3YNsujh7ajyA_0000",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ghent-university",
+          "facebook_url": "facebook.com/ugent",
+          "twitter_url": "twitter.com/ugent",
+          "linkedin_id": "4815",
+          "website": "ugent.be",
+          "domain": "ugent.be"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2014-01",
+        "end_date": "2016",
+        "majors": [
+          "business economics",
+          "demography",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "liaoning university",
+          "type": "post-secondary institution",
+          "id": "TXtBf3mrAawub1KzSatP-A_0000",
+          "location": {
+            "name": "shenyang, liaoning, china",
+            "locality": "shenyang",
+            "region": "liaoning",
+            "country": "china",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/辽宁大学",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "15090874",
+          "website": "lnu.edu.cn",
+          "domain": "lnu.edu.cn"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2013",
+        "majors": [
+          "chinese language"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ghent university",
+          "type": "post-secondary institution",
+          "id": "7VGcAvE08s3YNsujh7ajyA_0000",
+          "location": {
+            "name": "gent, flanders, belgium",
+            "locality": "gent",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ghent-university",
+          "facebook_url": "facebook.com/ugent",
+          "twitter_url": "twitter.com/ugent",
+          "linkedin_id": "4815",
+          "website": "ugent.be",
+          "domain": "ugent.be"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelors"
+        ],
+        "start_date": "2011-01",
+        "end_date": "2014",
+        "majors": [
+          "chinese language and culture"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "reynaertcollege",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2011-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "reynaertcollege",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2004-01",
+        "end_date": "2011-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "362958755",
+        "url": "linkedin.com/in/maravandorst",
+        "username": "maravandorst"
+      },
+      {
+        "network": "linkedin",
+        "id": "362958755",
+        "url": "linkedin.com/in/mara-van-dorst-6ab679a1",
+        "username": "mara-van-dorst-6ab679a1"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

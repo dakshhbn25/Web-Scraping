@@ -1,0 +1,808 @@
+{
+  "record_id": "agenda-speaker-medical-011",
+  "speaker_name": "Lode Dewulf",
+  "event_name": "Medical",
+  "linkedin_url": "https://be.linkedin.com/in/lodedewulf",
+  "scraped_at": "2026-10-11T13:03:17.154226+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "obUkK6I6YJpufbTtS1jmQA_0000",
+    "full_name": "lode dewulf",
+    "first_name": "lode",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "d",
+    "last_name": "dewulf",
+    "sex": null,
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/lodedewulf",
+    "linkedin_username": "lodedewulf",
+    "linkedin_id": "17918203",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/lodedewulf",
+    "twitter_username": "lodedewulf",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "co-founder and director",
+    "job_title_role": "human_resources",
+    "job_title_sub_role": "training",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "director",
+      "owner"
+    ],
+    "job_company_id": null,
+    "job_company_name": "corvalus",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2018-11-11",
+    "job_last_verified": "2026-01-27",
+    "job_start_date": "2017-03",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2025-02-07",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biopharmaceuticals",
+      "board governance",
+      "cardiology",
+      "clinical development",
+      "clinical research",
+      "clinical trial management",
+      "clinical trials",
+      "coaching and mentoring",
+      "cro",
+      "ctms",
+      "dermatology",
+      "development of strategy",
+      "diabetes",
+      "drug development",
+      "endocrinology",
+      "external communications",
+      "gastroenterology",
+      "gcp",
+      "group activities",
+      "health economics",
+      "immunology",
+      "infectious diseases",
+      "inspiring leadership",
+      "internal medicine",
+      "life cycle management",
+      "life sciences",
+      "lifesciences",
+      "market access",
+      "medical affairs",
+      "medical education",
+      "medical interpretation",
+      "medical writing",
+      "medicine",
+      "neurology",
+      "oncology",
+      "osteoporosis",
+      "patient affairs and patient engagement",
+      "patient engagement",
+      "personal development",
+      "pharmaceutical industry",
+      "pharmaceuticals",
+      "pharmaceutics",
+      "pharmacovigilance",
+      "presentation skills",
+      "presentations",
+      "professional development",
+      "regulatory affairs",
+      "regulatory submissions",
+      "rheumatology",
+      "therapeutic areas",
+      "thought leadership",
+      "vaccines"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium",
+      "france"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "corvalus",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "neerijse, flanders, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2017-03",
+        "title": {
+          "name": "co-founder and director",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "servier group",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2018-03",
+        "title": {
+          "name": "chief patient officer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "open medicine institute",
+          "size": "11-50",
+          "id": "mmCHnMtVLff4vOtIBm8wBQQXzc4S",
+          "founded": 2009,
+          "industry": "health, wellness and fitness",
+          "industry_v2": "wellness and fitness services",
+          "location": {
+            "name": "mountain view, california, united states",
+            "locality": "mountain view",
+            "region": "california",
+            "metro": "san jose, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "37.38,-122.07"
+          },
+          "linkedin_url": "linkedin.com/company/open-medicine-institute",
+          "linkedin_id": "2861761",
+          "facebook_url": "facebook.com/openmedicineinstitute",
+          "twitter_url": null,
+          "website": "openmedicineinstitute.org"
+        },
+        "location_names": [],
+        "end_date": "2020-12",
+        "start_date": "2017-12",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "doctors of the world belgium medecins du monde",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2017-11",
+        "start_date": "2016-12",
+        "title": {
+          "name": "medical coordinator",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "vertero therapeutics, inc.",
+          "size": "11-50",
+          "id": "pGep5EvWXBpyLP6mCeYCbAypGGqg",
+          "founded": 2016,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "woburn, massachusetts, united states",
+            "locality": "woburn",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "400 tradecenter drive",
+            "address_line_2": "suite 5900",
+            "postal_code": null,
+            "geo": "42.47,-71.15"
+          },
+          "linkedin_url": "linkedin.com/company/vertero-tx",
+          "linkedin_id": "10987966",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/axialbiotx",
+          "website": "vertero.com"
+        },
+        "location_names": [
+          "boston, massachusetts, united states"
+        ],
+        "end_date": null,
+        "start_date": "2016-12",
+        "title": {
+          "name": "scientific advisory board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "advisor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfmd .org",
+          "size": "11-50",
+          "id": "kHNObuY7jHr01KyLBJaodwG3OxAT",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "523 avenue louise",
+            "address_line_2": null,
+            "postal_code": "1050",
+            "geo": "50.83,4.36"
+          },
+          "linkedin_url": "linkedin.com/company/pfmd",
+          "linkedin_id": "27104519",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2016-10",
+        "title": {
+          "name": "board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "board_member",
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium",
+          "anderlecht, brussels, belgium"
+        ],
+        "end_date": "2017-04",
+        "start_date": "2012-09",
+        "title": {
+          "name": "vice president, chief patient affairs officer",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "cxo",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": "2012-09",
+        "start_date": "2009-07",
+        "title": {
+          "name": "vice president, head global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [],
+        "end_date": "2009-06",
+        "start_date": "2007-08",
+        "title": {
+          "name": "vice president medical affairs, cns",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [],
+        "end_date": "2007",
+        "start_date": "2001",
+        "title": {
+          "name": "senior global medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "schering-plough benelux",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2006",
+        "start_date": "2001",
+        "title": {
+          "name": "medical director",
+          "class": "general_and_administrative",
+          "role": "human_resources",
+          "sub_role": "training",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-03-01",
+        "end_date": "2021-11",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "insead",
+          "type": "post-secondary institution",
+          "id": "hDpNf7WxZBsLuOPCsudSMQ_0000",
+          "location": {
+            "name": "fontainebleau, île-de-france, france",
+            "locality": "fontainebleau",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/insead",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "5176",
+          "website": "insead.edu",
+          "domain": "insead.edu"
+        },
+        "degrees": [],
+        "start_date": "2021-01-01",
+        "end_date": "2021-12-31",
+        "majors": [
+          "business administration",
+          "business administration and management",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "leiden university",
+          "type": "post-secondary institution",
+          "id": "WBgrghEBRoh8AtvXhxnj1Q_0000",
+          "location": {
+            "name": "leiden, south holland, netherlands",
+            "locality": "leiden",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/leiden-university",
+          "facebook_url": "facebook.com/universiteitleiden",
+          "twitter_url": "twitter.com/unileiden",
+          "linkedin_id": "6077",
+          "website": "universiteitleiden.nl",
+          "domain": "universiteitleiden.nl"
+        },
+        "degrees": [],
+        "start_date": "1990",
+        "end_date": "1992",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "leiden science - universiteit leiden",
+          "type": "post-secondary institution",
+          "id": "fYqEY8KeHRahz83MyrgOHQ_0000",
+          "location": {
+            "name": "leiden, south holland, netherlands",
+            "locality": "leiden",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/faculty-of-science-universiteit-leiden",
+          "facebook_url": "facebook.com/universiteitleiden",
+          "twitter_url": "twitter.com/unileiden",
+          "linkedin_id": "593845",
+          "website": "universiteitleiden.nl",
+          "domain": "universiteitleiden.nl"
+        },
+        "degrees": [],
+        "start_date": "1990-09-01",
+        "end_date": "1991-09",
+        "majors": [
+          "finance",
+          "management",
+          "medicine",
+          "toxicology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "leiden university",
+          "type": "post-secondary institution",
+          "id": "WBgrghEBRoh8AtvXhxnj1Q_0000",
+          "location": {
+            "name": "leiden, south holland, netherlands",
+            "locality": "leiden",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/leiden-university",
+          "facebook_url": "facebook.com/universiteitleiden",
+          "twitter_url": "twitter.com/unileiden",
+          "linkedin_id": "6077",
+          "website": "universiteitleiden.nl",
+          "domain": "universiteitleiden.nl"
+        },
+        "degrees": [],
+        "start_date": "1990-01-01",
+        "end_date": "1992",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "leiden science - universiteit leiden",
+          "type": "post-secondary institution",
+          "id": "fYqEY8KeHRahz83MyrgOHQ_0000",
+          "location": {
+            "name": "leiden, south holland, netherlands",
+            "locality": "leiden",
+            "region": "south holland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/company/faculty-of-science-universiteit-leiden",
+          "facebook_url": "facebook.com/universiteitleiden",
+          "twitter_url": "twitter.com/unileiden",
+          "linkedin_id": "593845",
+          "website": "universiteitleiden.nl",
+          "domain": "universiteitleiden.nl"
+        },
+        "degrees": [],
+        "start_date": "1990-01-01",
+        "end_date": "1991-12-31",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ku leuven",
+          "type": "post-secondary institution",
+          "id": "EwX2xwU0kxY2DDzP58BoRw_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ku_leuven",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "linkedin_id": "3629",
+          "website": "kuleuven.be",
+          "domain": "kuleuven.be"
+        },
+        "degrees": [
+          "doctor of medicine",
+          "doctorates"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ku leuven",
+          "type": "post-secondary institution",
+          "id": "EwX2xwU0kxY2DDzP58BoRw_0000",
+          "location": {
+            "name": "leuven, flanders, belgium",
+            "locality": "leuven",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ku_leuven",
+          "facebook_url": "facebook.com/kuleuven",
+          "twitter_url": "twitter.com/ku_leuven",
+          "linkedin_id": "3629",
+          "website": "kuleuven.be",
+          "domain": "kuleuven.be"
+        },
+        "degrees": [
+          "doctorates",
+          "doctor of medicine"
+        ],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "17918203",
+        "url": "linkedin.com/in/lodedewulf",
+        "username": "lodedewulf"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/lodedewulf",
+        "username": "lodedewulf"
+      },
+      {
+        "network": "linkedin",
+        "id": "17918203",
+        "url": "linkedin.com/in/lode-dewulf-3b70016",
+        "username": "lode-dewulf-3b70016"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

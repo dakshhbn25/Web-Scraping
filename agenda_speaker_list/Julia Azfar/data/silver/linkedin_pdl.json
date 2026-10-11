@@ -1,0 +1,130 @@
+{
+  "record_id": "agenda-speaker-viennacx-000",
+  "speaker_name": "Julia Azfar",
+  "linkedin_url": "https://www.linkedin.com/in/julia-azfar",
+  "likelihood": 9,
+  "full_name": "julia azfar",
+  "job_title": "senior vice president sales & marketing",
+  "industry": "computer hardware",
+  "current_company": "brain station 23",
+  "current_company_website": "brainstation-23.com",
+  "current_company_industry": "computer software",
+  "location_country": "germany",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "business development",
+    "business strategy",
+    "business to business",
+    "internationaler vertrieb",
+    "logistik",
+    "marketing strategy",
+    "new business development",
+    "process improvement",
+    "program management",
+    "project management",
+    "projektmanagement",
+    "prozessverbesserung",
+    "sap",
+    "unternehmensstrategie",
+    "vertrieb"
+  ],
+  "interests": [
+    "children",
+    "civil rights and social action",
+    "environment",
+    "human rights",
+    "politics",
+    "poverty alleviation"
+  ],
+  "experience": [
+    {
+      "title": "senior vice president sales & marketing",
+      "company": "brain station 23",
+      "company_industry": "computer software",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president product management tolling",
+      "company": "kapsch trafficcom ag",
+      "company_industry": "information technology and services",
+      "start_date": "2022-08",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "principal product manager toll",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2020-07",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "team manager product management toll central, east & eurasia",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2018",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "team manager product management toll eastern europe at dkv euroservice",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2016-03",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2008-08",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "sales organisation (staff position)",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2002",
+      "end_date": "2008",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "kmc klausmeier marketing consultants",
+      "company_industry": null,
+      "start_date": "1999-03",
+      "end_date": "2002-07",
+      "is_primary": false
+    },
+    {
+      "title": "graduate student",
+      "company": "kmc klausmeier marketing consultants",
+      "company_industry": null,
+      "start_date": "1998",
+      "end_date": "1999",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "johannes gutenberg university mainz",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-12"
+    },
+    {
+      "school": "johannes gutenberg university mainz",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-01"
+    }
+  ]
+}

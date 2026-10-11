@@ -1,0 +1,161 @@
+{
+  "record_id": "agenda-speaker-medical-020",
+  "speaker_name": "Valerie Storms",
+  "linkedin_url": "https://be.linkedin.com/in/valerie-storms",
+  "likelihood": 9,
+  "full_name": "valerie storms",
+  "job_title": "head of digital health innovation, eu mid sized countries",
+  "industry": "government administration",
+  "current_company": "daiichi sankyo europe gmbh",
+  "current_company_website": "daiichi-sankyo.eu",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "belgium",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biochemistry",
+    "bioinformatics",
+    "biotechnology",
+    "cell biology",
+    "change management",
+    "cross functional team leadership",
+    "device development",
+    "digital health strategy",
+    "digital innovation",
+    "european union",
+    "executive leadership",
+    "genetics",
+    "health data",
+    "healthcare ecosystems",
+    "healthdata",
+    "intercultural communication",
+    "leadership",
+    "life sciences",
+    "lifesciences",
+    "moderating",
+    "molecular biology",
+    "multi country",
+    "organizational culture",
+    "panel discussions",
+    "patient advocacy",
+    "patient centered innovation",
+    "presentations",
+    "proteomics",
+    "public private partnerships",
+    "public speaking",
+    "r&d",
+    "research",
+    "science",
+    "stakeholder management",
+    "statistics",
+    "strategic partnerships",
+    "team development"
+  ],
+  "interests": [
+    "bio informatics",
+    "chronic diseases",
+    "data mining",
+    "mobile health",
+    "science in general",
+    "see 1+see less",
+    "statistics",
+    "systems biology",
+    "teaching",
+    "telehealth",
+    "telemonitoring"
+  ],
+  "experience": [
+    {
+      "title": "head of digital health innovation, eu mid sized countries",
+      "company": "daiichi sankyo europe gmbh",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-07",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "board member cf europe",
+      "company": "cf europe",
+      "company_industry": "non-profit organization management",
+      "start_date": "2025-07",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "global patient partnership director - digital & patient data (on rotation)",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2022-10",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "patient expert",
+      "company": "pep matters",
+      "company_industry": null,
+      "start_date": "2022-05",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "patient center of excellence lead",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2021-03",
+      "end_date": "2023-06",
+      "is_primary": false
+    },
+    {
+      "title": "visiting professor - patient engagement & health innovation",
+      "company": "hasselt university",
+      "company_industry": "higher education",
+      "start_date": "2020-06",
+      "end_date": "2024-06",
+      "is_primary": false
+    },
+    {
+      "title": "patient engagement manager",
+      "company": "roche",
+      "company_industry": "biotechnology",
+      "start_date": "2020-05",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "head - mobile health unit (r & d in mobile health applications)",
+      "company": "hasselt university",
+      "company_industry": "higher education",
+      "start_date": "2012-02",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "phd in bioinformatics",
+      "company": "ku leuven",
+      "company_industry": "research",
+      "start_date": "2006-10",
+      "end_date": "2011-03",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ku leuven",
+      "majors": [
+        "engineering"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2001-01",
+      "end_date": "2006-12"
+    },
+    {
+      "school": "kindsheid jesu hasselt",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

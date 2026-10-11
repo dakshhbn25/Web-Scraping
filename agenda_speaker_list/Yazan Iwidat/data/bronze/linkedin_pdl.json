@@ -1,0 +1,723 @@
+{
+  "record_id": "agenda-speaker-medical-023",
+  "speaker_name": "Yazan Iwidat",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/yazaniwidat",
+  "scraped_at": "2026-10-11T13:03:38.793655+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "VWpWzKpQVoyoYzoD0HzhcQ_0000",
+    "full_name": "yazan iwidat",
+    "first_name": "yazan",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "i",
+    "last_name": "iwidat",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/yazaniwidat",
+    "linkedin_username": "yazaniwidat",
+    "linkedin_id": "257941787",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/yazaneweidat",
+    "twitter_username": "yazaneweidat",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "associate director, enterprise content architecture & intelligent content",
+    "job_title_role": "marketing",
+    "job_title_sub_role": "content",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [],
+    "job_company_id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+    "job_company_name": "msd",
+    "job_company_website": "msd.com",
+    "job_company_size": "10001+",
+    "job_company_founded": null,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/msd-global",
+    "job_company_linkedin_id": "2848937",
+    "job_company_facebook_url": "facebook.com/msdinvents",
+    "job_company_twitter_url": "twitter.com/msdmanualhome",
+    "job_company_location_name": "rahway, new jersey, united states",
+    "job_company_location_locality": "rahway",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_region": "new jersey",
+    "job_company_location_geo": "40.6,-74.28",
+    "job_company_location_street_address": "90 east scott avenue",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "07065",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2026-04-22",
+    "job_last_verified": "2026-07-30",
+    "job_start_date": "2026-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-30",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "children",
+      "civil rights and social action",
+      "education",
+      "human rights",
+      "social services"
+    ],
+    "skills": [
+      "analytical skills",
+      "arts administration",
+      "brand strategy",
+      "capabilities development",
+      "communication",
+      "communication skills",
+      "community development",
+      "consulting",
+      "contemporary dance",
+      "creative writing",
+      "creativity skills",
+      "cross functional team leadership",
+      "customer experience",
+      "customer service",
+      "dance",
+      "dance education",
+      "design thinking",
+      "digital channels",
+      "digital marketing",
+      "digital transformation",
+      "event management",
+      "festivals",
+      "google ads",
+      "google data studio",
+      "improvisation",
+      "inbound marketing",
+      "leadership",
+      "management",
+      "market research",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "microsoft office",
+      "microsoft outlook",
+      "non profit volunteer",
+      "omni channel marketing",
+      "operations management",
+      "organization skills",
+      "performing arts",
+      "pharmaceutical marketing",
+      "public relations",
+      "public speaking",
+      "research",
+      "salesforce.com administration",
+      "search engine marketing",
+      "search engine optimization",
+      "self learning",
+      "social media",
+      "social media marketing",
+      "social networking",
+      "stage",
+      "strategic planning",
+      "team building",
+      "team leadership",
+      "team management",
+      "teamwork",
+      "time management",
+      "volunteering"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium",
+      "palestine"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2026-01",
+        "title": {
+          "name": "associate director, enterprise content architecture & intelligent content",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "content",
+          "levels": []
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "académie royale des beaux-arts de bruxelles - ecole supérieure des arts",
+          "size": "51-200",
+          "id": "Xh5Vj2Be03RGrODIixHtJQJBnkcu",
+          "founded": 1711,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "144 rue du midi",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/school/académie-royale-des-beaux-arts-de-bruxelles---ecole-supérieure-des-arts",
+          "linkedin_id": "15092361",
+          "facebook_url": "facebook.com/arba.esa",
+          "twitter_url": null,
+          "website": "arba-esa.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": null,
+        "start_date": "2025-01",
+        "title": {
+          "name": "college lecturer marketing",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2025-12",
+        "start_date": "2023-02",
+        "title": {
+          "name": "associate director, global omnichannel experience standards",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd belgium",
+          "size": "501-1000",
+          "id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "watermael-boitsfort, brussels, belgium",
+            "locality": "watermael-boitsfort",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "25 vorstlaan",
+            "address_line_2": null,
+            "postal_code": "1170",
+            "geo": "50.8,4.41"
+          },
+          "linkedin_url": "linkedin.com/company/msd-belgium",
+          "linkedin_id": "2498507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msd-belgium.be"
+        },
+        "location_names": [],
+        "end_date": "2023-02",
+        "start_date": "2020-10",
+        "title": {
+          "name": "customer experience & digital marketing lead",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd belgium",
+          "size": "501-1000",
+          "id": "4L5MS4O2zBpNU3VuEFvKDgroPyXe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "watermael-boitsfort, brussels, belgium",
+            "locality": "watermael-boitsfort",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "25 vorstlaan",
+            "address_line_2": null,
+            "postal_code": "1170",
+            "geo": "50.8,4.41"
+          },
+          "linkedin_url": "linkedin.com/company/msd-belgium",
+          "linkedin_id": "2498507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msd-belgium.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-10",
+        "start_date": "2019-06",
+        "title": {
+          "name": "customer experience manager - primary care",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lifescan",
+          "size": "1001-5000",
+          "id": "tDaFyTFJWrrBOsHVLMXGuwSlwKkP",
+          "founded": null,
+          "industry": "medical devices",
+          "industry_v2": "medical equipment manufacturing",
+          "location": {
+            "name": "malvern, pennsylvania, united states",
+            "locality": "malvern",
+            "region": "pennsylvania",
+            "metro": "philadelphia, pennsylvania",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "20 valley stream parkway",
+            "address_line_2": null,
+            "postal_code": "19355",
+            "geo": "40.03,-75.52"
+          },
+          "linkedin_url": "linkedin.com/company/lifescan",
+          "linkedin_id": "1203",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/lifescangh",
+          "website": "lifescan.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2019-05",
+        "start_date": "2018-04",
+        "title": {
+          "name": "product manager - marketing & channels",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "precision aq - international",
+          "size": "1-10",
+          "id": "zEIJGkQitCU6NgpX9Kd26g6ZoWv8",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "29 throgmorton street",
+            "address_line_2": null,
+            "postal_code": "ec2n 2at",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/precision-aq-international",
+          "linkedin_id": "53963",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "gent, flanders, belgium"
+        ],
+        "end_date": "2019-05",
+        "start_date": "2016-11",
+        "title": {
+          "name": "marketing consultant, digital and multichannel",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "zonder handen circus school",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2016-07",
+        "start_date": "2016-03",
+        "title": {
+          "name": "marketing consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kvs (koninklijke vlaamse schouwburg)",
+          "size": "51-200",
+          "id": "UFZ3ZxEmA90BBglrfF6KhQza4UMT",
+          "founded": 1894,
+          "industry": "performing arts",
+          "industry_v2": "performing arts",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "9 9 arduinkaai",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/kvs-koninklijke-vlaamse-schouwburg",
+          "linkedin_id": "10494593",
+          "facebook_url": "facebook.com/kvsbxl",
+          "twitter_url": "twitter.com/kvsbrussels",
+          "website": "kvs.be"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2015-07",
+        "start_date": "2014-07",
+        "title": {
+          "name": "tour manager assistant",
+          "class": "services",
+          "role": "creative",
+          "sub_role": "entertainment",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "rozana association",
+          "size": "1-10",
+          "id": "8wxuNpssj7KKTmu5Qh8YowRTcYSR",
+          "founded": 2007,
+          "industry": "non-profit organization management",
+          "industry_v2": "non-profit organizations",
+          "location": {
+            "name": "ramallah, ramallah and al-bireh governorate, palestine",
+            "locality": "ramallah",
+            "region": "ramallah and al-bireh governorate",
+            "metro": null,
+            "country": "palestine",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "31.9,35.2"
+          },
+          "linkedin_url": "linkedin.com/company/rozana-association",
+          "linkedin_id": "18323244",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "rozana.ps"
+        },
+        "location_names": [],
+        "end_date": "2014-12",
+        "start_date": "2014-01",
+        "title": {
+          "name": "communication officer",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "al markaz for development & marketing consultancies",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "ramallah, ramallah and al-bireh governorate, palestine"
+        ],
+        "end_date": "2014-03",
+        "start_date": "2013-09",
+        "title": {
+          "name": "research assistant",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sky advertising, pr and events management",
+          "size": "11-50",
+          "id": "4zbpN68uwDeHV00ZPVsBzgtmb0aH",
+          "founded": 1996,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "ramallah, ramallah and al-bireh governorate, palestine",
+            "locality": "ramallah",
+            "region": "ramallah and al-bireh governorate",
+            "metro": null,
+            "country": "palestine",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "31.9,35.2"
+          },
+          "linkedin_url": "linkedin.com/company/sky--advertising-pr-events-",
+          "linkedin_id": "2146596",
+          "facebook_url": "facebook.com/skyadvertising",
+          "twitter_url": null,
+          "website": "sky.ps"
+        },
+        "location_names": [
+          "ramallah, ramallah and al-bireh governorate, palestine"
+        ],
+        "end_date": "2014-01",
+        "start_date": "2012-10",
+        "title": {
+          "name": "coordinator of promoters",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "solvay brussels school of economics and management",
+          "type": "post-secondary institution",
+          "id": "R2JNUlpJ8N4Y0KSivyYKqQ_0000",
+          "location": {
+            "name": "ixelles, brussels, belgium",
+            "locality": "ixelles",
+            "region": "brussels",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/solvay-brussels-school",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "6258195",
+          "website": "solvay.edu",
+          "domain": "solvay.edu"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2015-01",
+        "end_date": "2016",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "birzeit university",
+          "type": "post-secondary institution",
+          "id": "3UY7w3RsOuZN-feTFFvXDw_0000",
+          "location": {
+            "name": "ramallah, ramallah and al-bireh governorate, palestine",
+            "locality": "ramallah",
+            "region": "ramallah and al-bireh governorate",
+            "country": "palestine",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/birzeit-university",
+          "facebook_url": "facebook.com/birzeituniversity",
+          "twitter_url": "twitter.com/birzeituniv",
+          "linkedin_id": "67201",
+          "website": "birzeit.edu",
+          "domain": "birzeit.edu"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2009-01",
+        "end_date": "2013",
+        "majors": [
+          "business administration",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "greek catholic school of our lady annunciation",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "257941787",
+        "url": "linkedin.com/in/yazaniwidat",
+        "username": "yazaniwidat"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/yazaneweidat",
+        "username": "yazaneweidat"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/yazan-iwidat-a4b47372",
+        "username": "yazan-iwidat-a4b47372"
+      },
+      {
+        "network": "linkedin",
+        "id": "257941787",
+        "url": "linkedin.com/in/yazan-eweidat-a4b47372",
+        "username": "yazan-eweidat-a4b47372"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

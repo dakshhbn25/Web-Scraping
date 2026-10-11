@@ -1,0 +1,528 @@
+{
+  "record_id": "agenda-speaker-medical-009",
+  "speaker_name": "Helen Kane",
+  "event_name": "Medical",
+  "linkedin_url": "https://uk.linkedin.com/in/helen-kane-15b4548",
+  "scraped_at": "2026-10-11T13:03:12.530997+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "JPq3i5hfNOiDiJD0ibThZA_0000",
+    "full_name": "helen kane",
+    "first_name": "helen",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "k",
+    "last_name": "kane",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/helen-kane-15b4548",
+    "linkedin_username": "helen-kane-15b4548",
+    "linkedin_id": "24994007",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "chief executive officer",
+    "job_title_role": "professional_service",
+    "job_title_sub_role": "consulting",
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "1mMAexNKVW4Y1TsZdsF2LAYTacll",
+    "job_company_name": "one msl",
+    "job_company_website": "onemsl.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2019,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/onemsl",
+    "job_company_linkedin_id": "11130956",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "farnham, england, united kingdom",
+    "job_company_location_locality": "farnham",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "51.21,-0.78",
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "gu9 7ud",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2020-03-11",
+    "job_last_verified": "2026-09-02",
+    "job_start_date": "2015-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-09-02",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biotechnology",
+      "cardiology",
+      "clinical development",
+      "clinical trial management system",
+      "clinical trials",
+      "coaching",
+      "cro",
+      "ctms",
+      "dermatology",
+      "diabetes",
+      "drug development",
+      "gcp",
+      "health economics",
+      "hematology",
+      "infectious diseases",
+      "leadership",
+      "lifesciences",
+      "management",
+      "market access",
+      "medical affairs",
+      "medical writing",
+      "medicine",
+      "neurology",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmacovigilance",
+      "product launch",
+      "regulatory submissions",
+      "rheumatology",
+      "sales effectiveness",
+      "strategy",
+      "therapeutic areas"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "one msl",
+          "size": "1-10",
+          "id": "1mMAexNKVW4Y1TsZdsF2LAYTacll",
+          "founded": 2019,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "farnham, england, united kingdom",
+            "locality": "farnham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "gu9 7ud",
+            "geo": "51.21,-0.78"
+          },
+          "linkedin_url": "linkedin.com/company/onemsl",
+          "linkedin_id": "11130956",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "onemsl.com"
+        },
+        "location_names": [
+          "farnham, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2015-01",
+        "title": {
+          "name": "chief executive officer",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "medical affairs professional society (maps)",
+          "size": "11-50",
+          "id": "nqw4VDrbOlcUMCalsJqCqg5y8UqH",
+          "founded": 2016,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "golden, colorado, united states",
+            "locality": "golden",
+            "region": "colorado",
+            "metro": "denver, colorado",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "602 park point drive",
+            "address_line_2": "suite 105",
+            "postal_code": "80401",
+            "geo": "39.70,-105.23"
+          },
+          "linkedin_url": "linkedin.com/company/mapsmedaffairs",
+          "linkedin_id": "10864253",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "medicalaffairs.org"
+        },
+        "location_names": [],
+        "end_date": "2024",
+        "start_date": "2022",
+        "title": {
+          "name": "co-chapter lead uk and ireland",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pivot msl limited",
+          "size": "1-10",
+          "id": "fpBZWT0h7od7k0jbJVfqxAexpNGD",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "farnham, england, united kingdom",
+            "locality": "farnham",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "gu9 7pt",
+            "geo": "51.21,-0.78"
+          },
+          "linkedin_url": "linkedin.com/company/pivot-msl-limited",
+          "linkedin_id": "21649630",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2016-10",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medical science liaison association",
+          "size": "1-10",
+          "id": "wkOw7SULNaHA4xX8JFJCLAEa6RBe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bexhill, england, united kingdom",
+            "locality": "bexhill",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "city road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.85,0.48"
+          },
+          "linkedin_url": "linkedin.com/company/medscila",
+          "linkedin_id": "11750427",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msla.org.uk"
+        },
+        "location_names": [
+          "surrey, british columbia, canada"
+        ],
+        "end_date": "2015-04",
+        "start_date": "2012-10",
+        "title": {
+          "name": "chairman msla",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "celgene",
+          "size": "5001-10000",
+          "id": "fg8PAfQVDTINnwFGlFFb0As6wYPo",
+          "founded": 1986,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "summit, new jersey, united states",
+            "locality": "summit",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "86 morris avenue",
+            "address_line_2": null,
+            "postal_code": "07901",
+            "geo": "40.71,-74.36"
+          },
+          "linkedin_url": "linkedin.com/company/celgene",
+          "linkedin_id": "8348",
+          "facebook_url": "facebook.com/celgene",
+          "twitter_url": "twitter.com/celgene",
+          "website": "celgene.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2011-08",
+        "title": {
+          "name": "associate director,national msl manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "napp pharmaceuticals limited",
+          "size": "51-200",
+          "id": "MIAAdz6OO733qNxv2xTj4QfAKKDF",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "cb4 0ab",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/napp-pharmaceuticals",
+          "linkedin_id": "27552",
+          "facebook_url": "facebook.com/londonlawagency",
+          "twitter_url": null,
+          "website": "napp.co.uk"
+        },
+        "location_names": [],
+        "end_date": "2011-08",
+        "start_date": "2010-08",
+        "title": {
+          "name": "director",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2010",
+        "start_date": "2006",
+        "title": {
+          "name": "medical liaison manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "roche",
+          "size": "10001+",
+          "id": "4O9Hj7iBfxC1eJVr3pfJXgY2zY14",
+          "founded": 1896,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4070",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/roche",
+          "linkedin_id": "1602",
+          "facebook_url": "facebook.com/rochecareers",
+          "twitter_url": "twitter.com/roche",
+          "website": "roche.com"
+        },
+        "location_names": [],
+        "end_date": "2010-07",
+        "start_date": "2006-09",
+        "title": {
+          "name": "medical liaison team manager / functional lead medical",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2005",
+        "start_date": "1990",
+        "title": {
+          "name": "scientific advisor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of brighton",
+          "type": "post-secondary institution",
+          "id": "ajeIfStVyHrUXavzzrlosA_0000",
+          "location": {
+            "name": "brighton, england, united kingdom",
+            "locality": "brighton",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-brighton",
+          "facebook_url": "facebook.com/universityofbrighton",
+          "twitter_url": "twitter.com/uniofbrighton",
+          "linkedin_id": "14023",
+          "website": "brighton.ac.uk",
+          "domain": "brighton.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "1983-01-01",
+        "end_date": "1986",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "24994007",
+        "url": "linkedin.com/in/helen-kane-15b4548",
+        "username": "helen-kane-15b4548"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

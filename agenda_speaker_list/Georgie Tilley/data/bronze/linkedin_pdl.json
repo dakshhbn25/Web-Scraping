@@ -1,0 +1,775 @@
+{
+  "record_id": "agenda-speaker-medical-007",
+  "speaker_name": "Georgie Tilley",
+  "event_name": "Medical",
+  "linkedin_url": "https://uk.linkedin.com/in/georgina-tilley-phd-39802251",
+  "scraped_at": "2026-10-11T13:03:08.059781+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "bPa3Sne2zCh8SsppBtJY0w_0000",
+    "full_name": "georgina tilley",
+    "first_name": "georgina",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "t",
+    "last_name": "tilley",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/georgina-tilley-phd-39802251",
+    "linkedin_username": "georgina-tilley-phd-39802251",
+    "linkedin_id": "182190500",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/georgie_c85",
+    "twitter_username": "georgie_c85",
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "director global medical strategy and execution",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "director"
+    ],
+    "job_company_id": "bcYqBWvAViFmfYj2Kg58DgUlDs4x",
+    "job_company_name": "leo pharma",
+    "job_company_website": "leo-pharma.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1908,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/leo-pharma",
+    "job_company_linkedin_id": "164713",
+    "job_company_facebook_url": "facebook.com/leopharmaas",
+    "job_company_twitter_url": "twitter.com/leohealthyskin",
+    "job_company_location_name": "ballerup, hovedstaden, denmark",
+    "job_company_location_locality": "ballerup",
+    "job_company_location_metro": null,
+    "job_company_location_region": "hovedstaden",
+    "job_company_location_geo": "55.72,12.35",
+    "job_company_location_street_address": "55 industriparken",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "2750",
+    "job_company_location_country": "denmark",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2026-04-27",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2026-04",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": false,
+    "emails": false,
+    "interests": [
+      "health",
+      "jewellery making",
+      "live music"
+    ],
+    "skills": [
+      "building strong business relationships",
+      "cardiovascular medicine",
+      "childhood obesity",
+      "clinical data management",
+      "clinical nutrition",
+      "clinical research",
+      "clinical trials",
+      "communication",
+      "corporate communications",
+      "critical thinking",
+      "data analysis",
+      "diabetes",
+      "diabetes care",
+      "diabetes management",
+      "healthcare",
+      "hitting targets",
+      "influence at all levels",
+      "life sciences",
+      "management",
+      "medical devices",
+      "medicine",
+      "obesity",
+      "organization",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "procedure manuals",
+      "public speaking",
+      "reference management",
+      "report writing",
+      "sales",
+      "social influence",
+      "talent development",
+      "territory development",
+      "thinking skills",
+      "type 2 diabetes"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "leo pharma",
+          "size": "1001-5000",
+          "id": "bcYqBWvAViFmfYj2Kg58DgUlDs4x",
+          "founded": 1908,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ballerup, hovedstaden, denmark",
+            "locality": "ballerup",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": "55 industriparken",
+            "address_line_2": null,
+            "postal_code": "2750",
+            "geo": "55.72,12.35"
+          },
+          "linkedin_url": "linkedin.com/company/leo-pharma",
+          "linkedin_id": "164713",
+          "facebook_url": "facebook.com/leopharmaas",
+          "twitter_url": "twitter.com/leohealthyskin",
+          "website": "leo-pharma.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2026-04",
+        "title": {
+          "name": "director global medical strategy and execution",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "sorcero",
+          "size": "51-200",
+          "id": "H1FtE262xtdQITABrRRUUATGtA5a",
+          "founded": 2018,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "washington, district of columbia, united states",
+            "locality": "washington",
+            "region": "district of columbia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1301 k street northwest",
+            "address_line_2": null,
+            "postal_code": "20005",
+            "geo": "38.87,-77.00"
+          },
+          "linkedin_url": "linkedin.com/company/sorceroai",
+          "linkedin_id": "27143444",
+          "facebook_url": "facebook.com/sorceroai",
+          "twitter_url": null,
+          "website": "sorcero.com"
+        },
+        "location_names": [],
+        "end_date": "2026-04",
+        "start_date": "2025-11",
+        "title": {
+          "name": "medical solutions lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": "2025-10",
+        "start_date": "2025-01",
+        "title": {
+          "name": "director of medical excellence eucan",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medical science liaison association",
+          "size": "1-10",
+          "id": "wkOw7SULNaHA4xX8JFJCLAEa6RBe",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bexhill, england, united kingdom",
+            "locality": "bexhill",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "city road",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.85,0.48"
+          },
+          "linkedin_url": "linkedin.com/company/medscila",
+          "linkedin_id": "11750427",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msla.org.uk"
+        },
+        "location_names": [
+          "birmingham, england, united kingdom"
+        ],
+        "end_date": "2024-12",
+        "start_date": "2023-10",
+        "title": {
+          "name": "chair",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novo nordisk",
+          "size": "10001+",
+          "id": "BiyTkIwR5I7b3EhR9zuGwADVoqP2",
+          "founded": 1923,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "bagsværd, hovedstaden, denmark",
+            "locality": "bagsværd",
+            "region": "hovedstaden",
+            "metro": null,
+            "country": "denmark",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "2880",
+            "geo": "55.75,12.45"
+          },
+          "linkedin_url": "linkedin.com/company/novo-nordisk",
+          "linkedin_id": "2227",
+          "facebook_url": "facebook.com/novonordisk",
+          "twitter_url": "twitter.com/novonordisk",
+          "website": "novonordisk.com"
+        },
+        "location_names": [],
+        "end_date": "2025-01",
+        "start_date": "2021-03",
+        "title": {
+          "name": "director of frontline medical excellence nw europe",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2021-03",
+        "start_date": "2019-07",
+        "title": {
+          "name": "msl team lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2019-07",
+        "start_date": "2019-01",
+        "title": {
+          "name": "senior cardiometabolic msl",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "boehringer ingelheim",
+          "size": "10001+",
+          "id": "p6RktD1CPF9TVIgxHWAJaAdxXCbI",
+          "founded": 1885,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "ingelheim, rhineland-palatinate, germany",
+            "locality": "ingelheim",
+            "region": "rhineland-palatinate",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "55218",
+            "geo": "49.97,8.05"
+          },
+          "linkedin_url": "linkedin.com/company/boehringer-ingelheim",
+          "linkedin_id": "3235",
+          "facebook_url": "facebook.com/boehringeringelheim",
+          "twitter_url": "twitter.com/boehringerus",
+          "website": "boehringer-ingelheim.com"
+        },
+        "location_names": [],
+        "end_date": "2019-07",
+        "start_date": "2016-01",
+        "title": {
+          "name": "diabetes msl",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astrazeneca",
+          "size": "10001+",
+          "id": "ejCSbJ8hflYfmgZeNarIEwu3pqDP",
+          "founded": 1999,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "cambridge, england, united kingdom",
+            "locality": "cambridge",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "1 francis crick avenue",
+            "address_line_2": null,
+            "postal_code": "cb2 0aa",
+            "geo": "52.19,0.11"
+          },
+          "linkedin_url": "linkedin.com/company/astrazeneca",
+          "linkedin_id": "1603",
+          "facebook_url": "facebook.com/astrazenecacareers",
+          "twitter_url": "twitter.com/astrazeneca",
+          "website": "astrazeneca.com"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2016-01",
+        "start_date": "2014-11",
+        "title": {
+          "name": "medical science liaison",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [
+          "abbott park, illinois, united states",
+          "bristol, england, united kingdom"
+        ],
+        "end_date": "2014-11",
+        "start_date": "2013-06",
+        "title": {
+          "name": "diabetes care specialist",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson",
+          "size": "10001+",
+          "id": "NwG9dY7zNopEpo9tHllLiAaRSs1R",
+          "founded": 1887,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": null,
+            "country": "united states",
+            "continent": null,
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson",
+          "linkedin_id": "1207",
+          "facebook_url": "facebook.com/jnj",
+          "twitter_url": "twitter.com/jnjcares",
+          "website": "jnj.com"
+        },
+        "location_names": [],
+        "end_date": "2013-06",
+        "start_date": "2012-06",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck",
+          "size": "10001+",
+          "id": "ClO5BpY7fpAR9MK3c0edCQXpTDN9",
+          "founded": 1891,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "126 east lincoln avenue",
+            "address_line_2": "po box 2000",
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/merck",
+          "linkedin_id": "1486",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/merck",
+          "website": "merck.com"
+        },
+        "location_names": [],
+        "end_date": "2012-06",
+        "start_date": "2011-03",
+        "title": {
+          "name": "medical representative- cardio metabolic division",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "university of bristol",
+          "size": "1001-5000",
+          "id": "TMYXj9J5BUJNTiAhFpQc0Q025bmK",
+          "founded": null,
+          "industry": "higher education",
+          "industry_v2": "higher education",
+          "location": {
+            "name": "bristol, england, united kingdom",
+            "locality": "bristol",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "bs8 1th",
+            "geo": "51.45,-2.59"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bristol",
+          "linkedin_id": "8094",
+          "facebook_url": "facebook.com/bristoluniversity",
+          "twitter_url": "twitter.com/bristoluni",
+          "website": "bristol.ac.uk"
+        },
+        "location_names": [
+          "university of tampa, florida, united states"
+        ],
+        "end_date": "2010-12",
+        "start_date": "2007-10",
+        "title": {
+          "name": "phd student",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "academic",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "gsk",
+          "size": "10001+",
+          "id": "KxWnnuFp5BMWIUgJFRFX3gAzDdya",
+          "founded": 1830,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "ub11 1bt",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/glaxosmithkline",
+          "linkedin_id": "1399",
+          "facebook_url": "facebook.com/gsk",
+          "twitter_url": "twitter.com/gsk",
+          "website": "gsk.com"
+        },
+        "location_names": [
+          "harlow, england, united kingdom"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2005-09",
+        "title": {
+          "name": "discovery scientist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "university of bristol",
+          "type": "post-secondary institution",
+          "id": "6W9HEMM6lB0RVO3dwnucXQ_0000",
+          "location": {
+            "name": "bristol, england, united kingdom",
+            "locality": "bristol",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-bristol",
+          "facebook_url": "facebook.com/bristoluniversity",
+          "twitter_url": "twitter.com/bristoluni",
+          "linkedin_id": "8094",
+          "website": "bristol.ac.uk",
+          "domain": "bristol.ac.uk"
+        },
+        "degrees": [
+          "doctor of philosophy",
+          "doctorates"
+        ],
+        "start_date": "2007-01",
+        "end_date": "2010",
+        "majors": [
+          "philosophy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of the west of england",
+          "type": "post-secondary institution",
+          "id": "761lPhq97WSnRBfFMc3KDw_0000",
+          "location": {
+            "name": "bristol, england, united kingdom",
+            "locality": "bristol",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-the-west-of-england",
+          "facebook_url": "facebook.com/uwebristol",
+          "twitter_url": "twitter.com/uwebristol",
+          "linkedin_id": "14751",
+          "website": "uwe.ac.uk",
+          "domain": "uwe.ac.uk"
+        },
+        "degrees": [
+          "bachelor of science",
+          "bachelors"
+        ],
+        "start_date": "2003-01",
+        "end_date": "2007",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "182190500",
+        "url": "linkedin.com/in/georgina-tilley-phd-39802251",
+        "username": "georgina-tilley-phd-39802251"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/georgie_c85",
+        "username": "georgie_c85"
+      },
+      {
+        "network": "linkedin",
+        "id": "182190500",
+        "url": "linkedin.com/in/georgina-coade-phd-39802251",
+        "username": "georgina-coade-phd-39802251"
+      },
+      {
+        "network": "linkedin",
+        "id": "182190500",
+        "url": "linkedin.com/in/georgina-coade-39802251",
+        "username": "georgina-coade-39802251"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

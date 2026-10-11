@@ -1,0 +1,223 @@
+{
+  "record_id": "agenda-speaker-medical-001",
+  "speaker_name": "Andressa van der Laan",
+  "linkedin_url": "https://ch.linkedin.com/in/andressavdl",
+  "likelihood": 9,
+  "full_name": "bms andressa van der laan",
+  "job_title": "global medical lead - digital health & medical excellence",
+  "industry": "pharmaceuticals",
+  "current_company": "abbott",
+  "current_company_website": "pk.abbott",
+  "current_company_industry": "hospital & health care",
+  "location_country": "switzerland",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "biochemistry",
+    "biomedicine",
+    "biotechnology",
+    "business planning",
+    "business strategy",
+    "cardiology",
+    "clinical analytics",
+    "clinical research",
+    "clinical trials",
+    "cross functional team leadership",
+    "design thinking",
+    "diabetes",
+    "digital",
+    "english",
+    "immunology",
+    "logistics",
+    "management",
+    "market access",
+    "market analysis",
+    "market planning",
+    "marketing",
+    "marketing strategy",
+    "medical affairs",
+    "microbiology",
+    "microsoft office",
+    "molecular biology",
+    "negotiation",
+    "oncology",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "product launch",
+    "sales",
+    "sales effectiveness",
+    "spanish",
+    "strategic planning",
+    "strategy",
+    "type 2 diabetes"
+  ],
+  "interests": [
+    "civil rights and social action",
+    "education",
+    "health",
+    "politics",
+    "science and technology",
+    "social services"
+  ],
+  "experience": [
+    {
+      "title": "global medical lead - digital health & medical excellence",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2022-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "business unit director - rare diseases",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2022-01",
+      "end_date": "2022-11",
+      "is_primary": false
+    },
+    {
+      "title": "senior manager medical affairs and patient advocacy",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-05",
+      "end_date": "2021-12",
+      "is_primary": false
+    },
+    {
+      "title": "medical manager - cns",
+      "company": "teva pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-05",
+      "end_date": "2019-04",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical science liaison (msl) - oncology",
+      "company": "astellas pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-03",
+      "end_date": "2017-05",
+      "is_primary": false
+    },
+    {
+      "title": "senior sales representative",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2016-03",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison - metabolics",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-01",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "senior marketing analyst - diabetes",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-12",
+      "end_date": "2015-01",
+      "is_primary": false
+    },
+    {
+      "title": "marketing trainee - pain",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-01",
+      "end_date": "2013-12",
+      "is_primary": false
+    },
+    {
+      "title": "commercial trainee - oncology",
+      "company": "johnson & johnson innovative medicine",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-12",
+      "end_date": "2012-12",
+      "is_primary": false
+    },
+    {
+      "title": "sales representative intern",
+      "company": "trb pharma brasil",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2007-01",
+      "end_date": "2008-01",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "escola paulista de medicina - epm/unifesp",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2021-08",
+      "end_date": "2023"
+    },
+    {
+      "school": "ulbra",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2011",
+      "end_date": "2011"
+    },
+    {
+      "school": "ulbra",
+      "majors": [
+        "genetics",
+        "molecular biology"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2010-01",
+      "end_date": "2011"
+    },
+    {
+      "school": "universidad de león",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2009",
+      "end_date": "2010"
+    },
+    {
+      "school": "universidad de león",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "ulbra",
+      "majors": [],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "colegio ulbra são lucas",
+      "majors": [
+        "business management",
+        "logistics",
+        "marketing",
+        "supply chain management"
+      ],
+      "degrees": [],
+      "start_date": "2002-01",
+      "end_date": "2003"
+    }
+  ]
+}

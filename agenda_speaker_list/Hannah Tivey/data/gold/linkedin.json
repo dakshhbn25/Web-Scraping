@@ -1,0 +1,177 @@
+{
+  "record_id": "agenda-speaker-medical-008",
+  "speaker_name": "Hannah Tivey",
+  "designation": "Chief Strategy & Innovation Officer",
+  "company": "fusionScientific",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://uk.linkedin.com/in/hannah-tivey-71b36a30",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "1132",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "fusionscientific",
+  "linkedin_current_company_website": null,
+  "linkedin_skills": [
+    "artificial intelligence",
+    "clinical development",
+    "diabetes",
+    "interpersonal skills",
+    "life sciences",
+    "medical communications",
+    "medical education",
+    "medical writing",
+    "medicine",
+    "oncology",
+    "pharmaceutical industry",
+    "publication planning",
+    "rare/orphan diseases",
+    "scientific communications",
+    "scientific writing",
+    "strategic communications"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "chief strategy & innovation officer (csio) @ fusionscientific",
+      "company": "fusionscientific",
+      "company_industry": null,
+      "start_date": "2025-09",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "executive director of strategy & innovation",
+      "company": "open health",
+      "company_industry": "management consulting",
+      "start_date": "2024-09",
+      "end_date": "2025-09",
+      "is_primary": false
+    },
+    {
+      "title": "scientific & creative strategy director",
+      "company": "open health",
+      "company_industry": "management consulting",
+      "start_date": "2022-12",
+      "end_date": "2024-10",
+      "is_primary": false
+    },
+    {
+      "title": "chief scientific officer & executive creative director",
+      "company": "mccglc",
+      "company_industry": "marketing and advertising",
+      "start_date": "2021-01",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "scientific director - executive board member",
+      "company": "mccglc",
+      "company_industry": "marketing and advertising",
+      "start_date": "2019-02",
+      "end_date": "2021-02",
+      "is_primary": false
+    },
+    {
+      "title": "scientific director",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2017-10",
+      "end_date": "2019-02",
+      "is_primary": false
+    },
+    {
+      "title": "principal medical writer",
+      "company": "lucid group",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-02",
+      "end_date": "2017-10",
+      "is_primary": false
+    },
+    {
+      "title": "principal medical writer",
+      "company": "ogilvy health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-10",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical writer",
+      "company": "ogilvy health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2013-11",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "senior medical writer",
+      "company": "apothecom scopemedical",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-03",
+      "end_date": "2013-11",
+      "is_primary": false
+    },
+    {
+      "title": "medical writer",
+      "company": "apothecom scopemedical",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-05",
+      "end_date": "2013-03",
+      "is_primary": false
+    },
+    {
+      "title": "mrc fellowship - community health strategy department",
+      "company": "welsh national assembly- the senedd",
+      "company_industry": "government administration",
+      "start_date": "2008",
+      "end_date": "2008",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "cardiff university / prifysgol caerdydd",
+      "majors": [
+        "biology"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2006",
+      "end_date": "2010"
+    },
+    {
+      "school": "university of nottingham",
+      "majors": [
+        "biochemistry",
+        "genetics"
+      ],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2003",
+      "end_date": "2006"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

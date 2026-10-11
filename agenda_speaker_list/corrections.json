@@ -1,0 +1,15 @@
+{
+  "note": "Hand corrections applied on top of the scraped agenda speaker data when the app loads it. Each entry says what was checked. The raw bronze, silver and gold files are left as scraped.",
+  "corrections": {
+    "Michelle Bridenbaker": {
+      "fields": {"linkedin_current_company": "Recordati"},
+      "checked": "2026-10-11",
+      "why": "PDL gave 'Vital Statistics Consulting' (an earlier COO role) as the current company. Her LinkedIn experience list shows Recordati, full time, 3 years: Global Head of Medical Excellence & Communications since Dec 2025, before that Corporate Head of Medical Information (Nov 2023 to Dec 2025, Basel). Headline: COO Unbiased Science | Vice President Medical Information Leaders in Europe."
+    },
+    "Julia Azfar": {
+      "fields": {"linkedin_current_company": "Brain Station"},
+      "checked": "2026-10-11",
+      "why": "The LinkedIn text we could extract is an older view (headline VP Product Management - Tolling). Her own posts, the Brain Station site and the ViennaCX speakers page show her as SVP Sales & Marketing at Brain Station, Duesseldorf."
+    }
+  }
+}

@@ -1,0 +1,1436 @@
+{
+  "record_id": "agenda-speaker-medical-014",
+  "speaker_name": "Michelle Bridenbaker",
+  "event_name": "Medical",
+  "linkedin_url": "https://www.linkedin.com/in/michelle-bridenbaker/",
+  "scraped_at": "2026-10-11T13:03:23.846250+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "5lHSQySHrjXLdH3XQmzMJQ_0000",
+    "full_name": "michelle bridenbaker",
+    "first_name": "michelle",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bridenbaker",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/michelle-bridenbaker",
+    "linkedin_username": "michelle-bridenbaker",
+    "linkedin_id": "81079175",
+    "facebook_url": "facebook.com/mbridenbaker",
+    "facebook_username": "mbridenbaker",
+    "facebook_id": "816130281",
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "chief operating officer",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "ZB60LlQU7ek9mCqHxsnX8QOIXapi",
+    "job_company_name": "vital statistics consulting",
+    "job_company_website": "vitalstatisticsconsulting.com",
+    "job_company_size": "1-10",
+    "job_company_founded": 2016,
+    "job_company_industry": "research",
+    "job_company_industry_v2": "research services",
+    "job_company_linkedin_url": "linkedin.com/company/vital-statistics-consulting",
+    "job_company_linkedin_id": "10668079",
+    "job_company_facebook_url": "facebook.com/vitalstatisticsconsulting",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "united states",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-03-01",
+    "job_last_verified": "2026-08-10",
+    "job_start_date": "2024-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-10",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "animal welfare",
+      "children",
+      "civil rights and social action",
+      "disaster and humanitarian relief",
+      "economic empowerment",
+      "education",
+      "environment",
+      "health",
+      "human rights",
+      "poverty alleviation",
+      "science and technology",
+      "social services"
+    ],
+    "skills": [
+      "board development",
+      "budget management",
+      "business development",
+      "business intelligence",
+      "business planning",
+      "cardiology",
+      "clinical development",
+      "clinical research",
+      "communication",
+      "contact center management",
+      "crisis communications",
+      "crisis management",
+      "cro",
+      "cross functional team leadership",
+      "data analysis",
+      "decision making",
+      "diabetes",
+      "digital strategy",
+      "direct line management",
+      "drug safety",
+      "endocrinology",
+      "fda",
+      "global management",
+      "global strategy",
+      "globalization",
+      "good clinical practice",
+      "gxp",
+      "healthcare",
+      "hospitals",
+      "infectious diseases",
+      "informatics",
+      "international business",
+      "medical affairs",
+      "medical devices",
+      "medical information systems",
+      "medical technology",
+      "medical writing",
+      "medicine",
+      "medico legal",
+      "multi channel",
+      "neuroscience",
+      "operations management",
+      "pharmaceutical industry",
+      "pharmacy",
+      "project management",
+      "protocol",
+      "public health",
+      "regulatory affairs",
+      "regulatory compliance",
+      "sales",
+      "social media communications",
+      "strategic planning",
+      "strategy",
+      "surveillance",
+      "team development",
+      "therapeutic areas",
+      "toxicology",
+      "u.s. food and drug administration",
+      "urology",
+      "vendor management"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "vital statistics consulting",
+          "size": "1-10",
+          "id": "ZB60LlQU7ek9mCqHxsnX8QOIXapi",
+          "founded": 2016,
+          "industry": "research",
+          "industry_v2": "research services",
+          "location": {
+            "name": "united states",
+            "locality": null,
+            "region": null,
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/vital-statistics-consulting",
+          "linkedin_id": "10668079",
+          "facebook_url": "facebook.com/vitalstatisticsconsulting",
+          "twitter_url": null,
+          "website": "vitalstatisticsconsulting.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-06",
+        "title": {
+          "name": "chief operating officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "recordati",
+          "size": "1001-5000",
+          "id": "RKkoWjYQ9Sr2RptZZns0uAvGPg8L",
+          "founded": 1926,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/recordati",
+          "linkedin_id": "36507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "recordati.it"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2025-12",
+        "title": {
+          "name": "global head of medical excellence & communications",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "stethoscover™",
+          "size": "11-50",
+          "id": "zB3qb13zZu3H1NXL4k4l7A3GRp7H",
+          "founded": 2020,
+          "industry": "medical devices",
+          "industry_v2": null,
+          "location": {
+            "name": "fort lauderdale, florida, united states",
+            "locality": "fort lauderdale",
+            "region": "florida",
+            "metro": "miami, florida",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "26.10,-80.29"
+          },
+          "linkedin_url": "linkedin.com/company/stethoscover™",
+          "linkedin_id": "71477692",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "maskyourscope.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-05",
+        "title": {
+          "name": "scientific advisory board member",
+          "class": "general_and_administrative",
+          "role": "advisory",
+          "sub_role": "advisor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "recordati",
+          "size": "1001-5000",
+          "id": "RKkoWjYQ9Sr2RptZZns0uAvGPg8L",
+          "founded": 1926,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "milan, lombardy, italy",
+            "locality": "milan",
+            "region": "lombardy",
+            "metro": null,
+            "country": "italy",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "45.46,9.18"
+          },
+          "linkedin_url": "linkedin.com/company/recordati",
+          "linkedin_id": "36507",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "recordati.it"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2025-12",
+        "start_date": "2023-11",
+        "title": {
+          "name": "corporate medical information lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mile - medical information leaders in europe",
+          "size": "201-500",
+          "id": "gbLnO6webddS0CgUzsohxApvmGoy",
+          "founded": 2014,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/mile-medical-information-leaders-in-europe",
+          "linkedin_id": "79649572",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mile-association.org"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-05",
+        "title": {
+          "name": "vice president mile",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "idorsia pharmaceuticals ltd",
+          "size": "501-1000",
+          "id": "UNvIsJcOqQk1VBWHI7vbPglCZpr2",
+          "founded": 2017,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "allschwil, basel-landschaft, switzerland",
+            "locality": "allschwil",
+            "region": "basel-landschaft",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": "91 hegenheimermattweg",
+            "address_line_2": null,
+            "postal_code": "4123",
+            "geo": "47.54,7.53"
+          },
+          "linkedin_url": "linkedin.com/company/idorsia",
+          "linkedin_id": "11051230",
+          "facebook_url": "facebook.com/idorsia",
+          "twitter_url": "twitter.com/idorsia",
+          "website": "idorsia.com"
+        },
+        "location_names": [],
+        "end_date": "2023-11",
+        "start_date": "2021-02",
+        "title": {
+          "name": "global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2021-02",
+        "start_date": "2020-08",
+        "title": {
+          "name": "medical affairs & operations consultant",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2020-06",
+        "start_date": "2018-04",
+        "title": {
+          "name": "global scientific partnerships",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "partnerships",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2018-05",
+        "start_date": "2017-09",
+        "title": {
+          "name": "interim director of business operations medical eu+ (secondment while also med info lead)",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "revenue_operations",
+          "levels": [
+            "director",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "biogen",
+          "size": "5001-10000",
+          "id": "JQKzJmFtWpBWxCHpq7TRjgfN0KrW",
+          "founded": 1978,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "metro": "boston, massachusetts",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "225 binney street",
+            "address_line_2": null,
+            "postal_code": "02142",
+            "geo": "42.37,-71.11"
+          },
+          "linkedin_url": "linkedin.com/company/biogen-",
+          "linkedin_id": "3961",
+          "facebook_url": "facebook.com/biogen",
+          "twitter_url": "twitter.com/biogen",
+          "website": "biogen.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2018-04",
+        "start_date": "2016-04",
+        "title": {
+          "name": "global head, medical information, pv, qa and alliance management europe-cee biosimilars",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2016-04",
+        "start_date": "2014-11",
+        "title": {
+          "name": "regional director, medical information & communications europe-cee / mea",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": "brand",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "amgen",
+          "size": "10001+",
+          "id": "ZLZxWmsmC9clKC8pauGroQINAtST",
+          "founded": 1980,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "thousand oaks, california, united states",
+            "locality": "thousand oaks",
+            "region": "california",
+            "metro": "oxnard, california",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "91320",
+            "geo": "34.18,-118.85"
+          },
+          "linkedin_url": "linkedin.com/company/amgen",
+          "linkedin_id": "2068",
+          "facebook_url": "facebook.com/amgenbiotech",
+          "twitter_url": "twitter.com/amgen",
+          "website": "amgen.com.sg"
+        },
+        "location_names": [
+          "zug, zug, switzerland"
+        ],
+        "end_date": "2014-10",
+        "start_date": "2013-05",
+        "title": {
+          "name": "medical information & communications - nephrology / cardiology / hematology ta lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "tadworth, england, united kingdom"
+        ],
+        "end_date": "2013-04",
+        "start_date": "2013-01",
+        "title": {
+          "name": "acting medical director - established products business unit - united kingdom",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [],
+        "end_date": "2012-10",
+        "start_date": "2012-02",
+        "title": {
+          "name": "interim medical advisor - established products (ireland) (secondment while also team lead med info)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2013-01",
+        "start_date": "2010-01",
+        "title": {
+          "name": "team leader established products - europe, middle east, africa",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "pfizer",
+          "size": "10001+",
+          "id": "w9C0Znhx6QgUFVBDCwL5kQhGY93j",
+          "founded": 1848,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/pfizer",
+          "linkedin_id": "1185",
+          "facebook_url": "facebook.com/pfizer",
+          "twitter_url": null,
+          "website": "pfizer.com"
+        },
+        "location_names": [
+          "tadworth, england, united kingdom"
+        ],
+        "end_date": "2009-12",
+        "start_date": "2007-12",
+        "title": {
+          "name": "drug safety / pv - uk / ireland team leader",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "health_and_safety",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "basingstoke, england, united kingdom"
+        ],
+        "end_date": "2007-12",
+        "start_date": "2006-10",
+        "title": {
+          "name": "drug safety associate",
+          "class": "services",
+          "role": "manufacturing",
+          "sub_role": "health_and_safety",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "indianapolis, indiana, united states"
+        ],
+        "end_date": "2006-09",
+        "start_date": "2006-01",
+        "title": {
+          "name": "global regulatory and drug safety associate",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "eli lilly and company",
+          "size": "10001+",
+          "id": "B3M13aZmIy1uMzEkwtvzwwqZ7g1E",
+          "founded": 1876,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "46285",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/eli-lilly-and-company",
+          "linkedin_id": "1663",
+          "facebook_url": "facebook.com/elilillyandco",
+          "twitter_url": null,
+          "website": "lilly.com"
+        },
+        "location_names": [
+          "indianapolis, indiana, united states"
+        ],
+        "end_date": "2006-01",
+        "start_date": "2005-03",
+        "title": {
+          "name": "global regulatory safety contractor",
+          "class": "general_and_administrative",
+          "role": "legal",
+          "sub_role": "compliance",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "franciscan st. francis health",
+          "size": "1001-5000",
+          "id": "hY47Lr9vn70UxyDstBVmyQeBkqya",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "8111 south emerson avenue",
+            "address_line_2": null,
+            "postal_code": "46237",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/franciscan-st.-francis-health",
+          "linkedin_id": "10138",
+          "facebook_url": "facebook.com/franciscanstfrancishealth",
+          "twitter_url": "twitter.com/stfrancishealth",
+          "website": "franciscanstfrancis.org"
+        },
+        "location_names": [
+          "beech grove, indiana, united states"
+        ],
+        "end_date": "2005-04",
+        "start_date": "2004-05",
+        "title": {
+          "name": "critical care nurse ii / diabetic educator",
+          "class": "services",
+          "role": "education",
+          "sub_role": "primary_and_secondary",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "franciscan st. francis health",
+          "size": "1001-5000",
+          "id": "hY47Lr9vn70UxyDstBVmyQeBkqya",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "8111 south emerson avenue",
+            "address_line_2": null,
+            "postal_code": "46237",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/franciscan-st.-francis-health",
+          "linkedin_id": "10138",
+          "facebook_url": "facebook.com/franciscanstfrancishealth",
+          "twitter_url": "twitter.com/stfrancishealth",
+          "website": "franciscanstfrancis.org"
+        },
+        "location_names": [
+          "beech grove, indiana, united states"
+        ],
+        "end_date": "2004-05",
+        "start_date": "2003-04",
+        "title": {
+          "name": "critical care student nurse",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "medscape",
+          "size": "501-1000",
+          "id": "BrGnuKK7poaEpjGxb21GPw3DNsZ7",
+          "founded": 1995,
+          "industry": "health, wellness and fitness",
+          "industry_v2": null,
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "395 hudson street",
+            "address_line_2": null,
+            "postal_code": "10014",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/medscape",
+          "linkedin_id": "24356",
+          "facebook_url": "facebook.com/medscape",
+          "twitter_url": "twitter.com/medscape",
+          "website": "medscape.com"
+        },
+        "location_names": [
+          "heath and reach, england, united kingdom"
+        ],
+        "end_date": "2008-01",
+        "start_date": "2002-07",
+        "title": {
+          "name": "freelance medical writer - cardiology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "windover publishing",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2003-03",
+        "start_date": "2002-03",
+        "title": {
+          "name": "copy editor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "franciscan st. francis health",
+          "size": "1001-5000",
+          "id": "hY47Lr9vn70UxyDstBVmyQeBkqya",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "8111 south emerson avenue",
+            "address_line_2": null,
+            "postal_code": "46237",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/franciscan-st.-francis-health",
+          "linkedin_id": "10138",
+          "facebook_url": "facebook.com/franciscanstfrancishealth",
+          "twitter_url": "twitter.com/stfrancishealth",
+          "website": "franciscanstfrancis.org"
+        },
+        "location_names": [
+          "beech grove, indiana, united states"
+        ],
+        "end_date": "2003-04",
+        "start_date": "2002-02",
+        "title": {
+          "name": "nationally certified pharmacy technician",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "franciscan st. francis health",
+          "size": "1001-5000",
+          "id": "hY47Lr9vn70UxyDstBVmyQeBkqya",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "metro": "indianapolis, indiana",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "8111 south emerson avenue",
+            "address_line_2": null,
+            "postal_code": "46237",
+            "geo": "39.83,-86.09"
+          },
+          "linkedin_url": "linkedin.com/company/franciscan-st.-francis-health",
+          "linkedin_id": "10138",
+          "facebook_url": "facebook.com/franciscanstfrancishealth",
+          "twitter_url": "twitter.com/stfrancishealth",
+          "website": "franciscanstfrancis.org"
+        },
+        "location_names": [
+          "beech grove, indiana, united states"
+        ],
+        "end_date": "2002-06",
+        "start_date": "2001-03",
+        "title": {
+          "name": "phlebotomist",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson medtech",
+          "size": "10001+",
+          "id": "WCbEUqMsvkXzqpAAuZvRAQZXGZ6K",
+          "founded": null,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "new brunswick, new jersey, united states",
+            "locality": "new brunswick",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 johnson and johnson plaza",
+            "address_line_2": null,
+            "postal_code": "08901",
+            "geo": "40.47,-74.44"
+          },
+          "linkedin_url": "linkedin.com/company/johnson-&-johnson-medical-devices-companies",
+          "linkedin_id": "11542591",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/jnjmeddevices",
+          "website": "jnjmedtech.com"
+        },
+        "location_names": [],
+        "end_date": "2000-12",
+        "start_date": "1999-01",
+        "title": {
+          "name": "surgical sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "information management services",
+          "size": "11-50",
+          "id": "g0XZJKGOltpv8WIkOD79kQrJNoEN",
+          "founded": 1982,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "columbus, ohio, united states",
+            "locality": "columbus",
+            "region": "ohio",
+            "metro": "columbus, ohio",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "5047 transamerica drive",
+            "address_line_2": null,
+            "postal_code": "43228",
+            "geo": "40.08,-82.96"
+          },
+          "linkedin_url": "linkedin.com/company/information-management-services",
+          "linkedin_id": "2419282",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "imsimaging.com"
+        },
+        "location_names": [
+          "silver spring, maryland, united states"
+        ],
+        "end_date": "1999-01",
+        "start_date": "1998-07",
+        "title": {
+          "name": "biologist",
+          "class": "research_and_development",
+          "role": "research",
+          "sub_role": "scientific",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "kfk - kommando führungs - und kommunikationsausbildung",
+          "type": "post-secondary institution",
+          "id": "DoJ3eiASzdS-ajJ1Ff14mQ_0000",
+          "location": {
+            "name": "lucerne, lucerne, switzerland",
+            "locality": "lucerne",
+            "region": "lucerne",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/kdo-kfk",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "36112944",
+          "website": "bundesheer.at",
+          "domain": "bundesheer.at"
+        },
+        "degrees": [],
+        "start_date": "2025-10",
+        "end_date": null,
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hec lausanne - the faculty of business and economics of the university of lausanne",
+          "type": "post-secondary institution",
+          "id": "hxhigNXByQDAoyzQBPvoCA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/heclausanne",
+          "facebook_url": "facebook.com/unil.ch",
+          "twitter_url": "twitter.com/unil",
+          "linkedin_id": "15092433",
+          "website": "unil.ch",
+          "domain": "unil.ch"
+        },
+        "degrees": [
+          "master of business administration",
+          "masters"
+        ],
+        "start_date": "2021-08",
+        "end_date": "2022-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "hec lausanne - the faculty of business and economics of the university of lausanne",
+          "type": "post-secondary institution",
+          "id": "hxhigNXByQDAoyzQBPvoCA_0000",
+          "location": {
+            "name": "lausanne, vaud, switzerland",
+            "locality": "lausanne",
+            "region": "vaud",
+            "country": "switzerland",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/heclausanne",
+          "facebook_url": "facebook.com/unil.ch",
+          "twitter_url": "twitter.com/unil",
+          "linkedin_id": "15092433",
+          "website": "unil.ch",
+          "domain": "unil.ch"
+        },
+        "degrees": [
+          "masters",
+          "master of business administration"
+        ],
+        "start_date": "2021-01",
+        "end_date": "2022-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cardiff university / prifysgol caerdydd",
+          "type": "post-secondary institution",
+          "id": "3BMi3SlOB82smUKAMCezYg_0000",
+          "location": {
+            "name": "caerdydd, wales, united kingdom",
+            "locality": "caerdydd",
+            "region": "wales",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/cardiff-university",
+          "facebook_url": "facebook.com/cardiffuni",
+          "twitter_url": "twitter.com/cardiffuni",
+          "linkedin_id": "9126",
+          "website": "cardiff.ac.uk",
+          "domain": "cardiff.ac.uk"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2011",
+        "majors": [
+          "toxicology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "marian university indianapolis",
+          "type": "post-secondary institution",
+          "id": "wQkqG42DkuUFYIdvgwTs9A_0000",
+          "location": {
+            "name": "indianapolis, indiana, united states",
+            "locality": "indianapolis",
+            "region": "indiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/marian-university-indianapolis",
+          "facebook_url": "facebook.com/marianuniversity",
+          "twitter_url": "twitter.com/marianuniv",
+          "linkedin_id": "164847",
+          "website": "marian.edu",
+          "domain": "marian.edu"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2001-01",
+        "end_date": "2004",
+        "majors": [
+          "nursing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "colgate university",
+          "type": "post-secondary institution",
+          "id": "aB7cqQX5PQ0d3V-CsDhbrg_0000",
+          "location": {
+            "name": "hamilton, new york, united states",
+            "locality": "hamilton",
+            "region": "new york",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/colgateuniversity",
+          "facebook_url": "facebook.com/colgateuniversity",
+          "twitter_url": "twitter.com/colgateuniv",
+          "linkedin_id": "18149",
+          "website": "colgate.edu",
+          "domain": "colgate.edu"
+        },
+        "degrees": [
+          "bachelor of arts",
+          "bachelor of arts in business administration",
+          "bachelors"
+        ],
+        "start_date": "1994-01",
+        "end_date": "1998",
+        "majors": [
+          "biology",
+          "english"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "cleveland hill high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": "1994",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "81079175",
+        "url": "linkedin.com/in/michelle-bridenbaker",
+        "username": "michelle-bridenbaker"
+      },
+      {
+        "network": "facebook",
+        "id": "816130281",
+        "url": "facebook.com/mbridenbaker",
+        "username": "mbridenbaker"
+      },
+      {
+        "network": "linkedin",
+        "id": "81079175",
+        "url": "linkedin.com/in/michelle-bridenbaker-99b1a023",
+        "username": "michelle-bridenbaker-99b1a023"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

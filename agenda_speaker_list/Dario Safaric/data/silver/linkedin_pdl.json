@@ -1,0 +1,103 @@
+{
+  "record_id": "agenda-speaker-dubrovnik-000",
+  "speaker_name": "Dario Safaric",
+  "linkedin_url": "https://hr.linkedin.com/in/dariosafaric",
+  "likelihood": 9,
+  "full_name": "dario safaric",
+  "job_title": "chairman",
+  "industry": "pharmaceuticals",
+  "current_company": "next pharma summit",
+  "current_company_website": "nextpharmasummit.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "croatia",
+  "location_region": false,
+  "location_locality": false,
+  "skills": [
+    "biotechnology",
+    "crm",
+    "customer relationship management",
+    "guerrilla marketing",
+    "international marketing",
+    "international sales",
+    "key account management",
+    "life sciences",
+    "management",
+    "market analysis",
+    "marketing",
+    "marketing communications",
+    "marketing management",
+    "marketing strategy",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceuticals",
+    "product launch",
+    "sales effectiveness",
+    "sales force effectiveness",
+    "sales management",
+    "sales operations",
+    "sales process",
+    "sales support",
+    "sales vision crm",
+    "segmentation",
+    "social media marketing"
+  ],
+  "interests": [
+    "design",
+    "lifestyle",
+    "marketing",
+    "petrolhead",
+    "sales",
+    "technology"
+  ],
+  "experience": [
+    {
+      "title": "chairman",
+      "company": "next pharma summit",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "co-founder and chief creative officer",
+      "company": "geno kids - cartoons & nursery rhymes",
+      "company_industry": "entertainment",
+      "start_date": "2021-03",
+      "end_date": "2023-04",
+      "is_primary": false
+    },
+    {
+      "title": "vice president of marketing",
+      "company": "storypad",
+      "company_industry": "information technology and services",
+      "start_date": "2015-01",
+      "end_date": "2018-06",
+      "is_primary": false
+    },
+    {
+      "title": "country manager",
+      "company": "media-soft",
+      "company_industry": "computer software",
+      "start_date": "2009-10",
+      "end_date": "2015-02",
+      "is_primary": false
+    },
+    {
+      "title": "vice president of sales and marketing",
+      "company": "media-soft",
+      "company_industry": "computer software",
+      "start_date": "2009-08",
+      "end_date": "2025-07",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of applied sciences, vern, zagreb",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

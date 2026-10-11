@@ -1,0 +1,526 @@
+{
+  "record_id": "agenda-speaker-viennacx-000",
+  "speaker_name": "Julia Azfar",
+  "event_name": "ViennaCX",
+  "linkedin_url": "https://www.linkedin.com/in/julia-azfar",
+  "scraped_at": "2026-10-11T13:06:01.405177+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "la4quO1CDW2gdQc4IovYDA_0000",
+    "full_name": "julia azfar",
+    "first_name": "julia",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "azfar",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/julia-azfar",
+    "linkedin_username": "julia-azfar",
+    "linkedin_id": "87164606",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "computer hardware",
+    "job_title": "senior vice president sales & marketing",
+    "job_title_role": "partnerships",
+    "job_title_sub_role": "business_development",
+    "job_title_class": "sales_and_marketing",
+    "job_title_levels": [
+      "senior",
+      "vp"
+    ],
+    "job_company_id": "M3nHQOqm5CZGCP1XbrXRQwkPfnjv",
+    "job_company_name": "brain station 23",
+    "job_company_website": "brainstation-23.com",
+    "job_company_size": "501-1000",
+    "job_company_founded": 2006,
+    "job_company_industry": "computer software",
+    "job_company_industry_v2": "software development",
+    "job_company_linkedin_url": "linkedin.com/company/brain-station-23",
+    "job_company_linkedin_id": "399182",
+    "job_company_facebook_url": "facebook.com/brainstation23",
+    "job_company_twitter_url": "twitter.com/brainstation23",
+    "job_company_location_name": "springfield, virginia, united states",
+    "job_company_location_locality": "springfield",
+    "job_company_location_metro": "district of columbia",
+    "job_company_location_region": "virginia",
+    "job_company_location_geo": "38.76,-77.19",
+    "job_company_location_street_address": "7426 alban station boulevard",
+    "job_company_location_address_line_2": "suite a101",
+    "job_company_location_postal_code": "22150",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-07-07",
+    "job_last_verified": "2026-08-21",
+    "job_start_date": "2024-12",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-21",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [
+      "children",
+      "civil rights and social action",
+      "environment",
+      "human rights",
+      "politics",
+      "poverty alleviation"
+    ],
+    "skills": [
+      "business development",
+      "business strategy",
+      "business to business",
+      "internationaler vertrieb",
+      "logistik",
+      "marketing strategy",
+      "new business development",
+      "process improvement",
+      "program management",
+      "project management",
+      "projektmanagement",
+      "prozessverbesserung",
+      "sap",
+      "unternehmensstrategie",
+      "vertrieb"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany",
+      "netherlands"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "brain station 23",
+          "size": "501-1000",
+          "id": "M3nHQOqm5CZGCP1XbrXRQwkPfnjv",
+          "founded": 2006,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "springfield, virginia, united states",
+            "locality": "springfield",
+            "region": "virginia",
+            "metro": "district of columbia",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "7426 alban station boulevard",
+            "address_line_2": "suite a101",
+            "postal_code": "22150",
+            "geo": "38.76,-77.19"
+          },
+          "linkedin_url": "linkedin.com/company/brain-station-23",
+          "linkedin_id": "399182",
+          "facebook_url": "facebook.com/brainstation23",
+          "twitter_url": "twitter.com/brainstation23",
+          "website": "brainstation-23.com"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2024-12",
+        "title": {
+          "name": "senior vice president sales & marketing",
+          "class": "sales_and_marketing",
+          "role": "partnerships",
+          "sub_role": "business_development",
+          "levels": [
+            "senior",
+            "vp"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "kapsch trafficcom ag",
+          "size": "1001-5000",
+          "id": "ilNLLuFjS7apaaTIDGZHkQpoZsOL",
+          "founded": 2002,
+          "industry": "information technology and services",
+          "industry_v2": "it services and it consulting",
+          "location": {
+            "name": "vienna, wien, austria",
+            "locality": "vienna",
+            "region": "wien",
+            "metro": null,
+            "country": "austria",
+            "continent": "europe",
+            "street_address": "2 am europlatz",
+            "address_line_2": null,
+            "postal_code": "1120",
+            "geo": "48.20,16.37"
+          },
+          "linkedin_url": "linkedin.com/company/kapsch-trafficcom-ag",
+          "linkedin_id": "6584",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "kapschtraffic.com"
+        },
+        "location_names": [],
+        "end_date": "2024-12",
+        "start_date": "2022-08",
+        "title": {
+          "name": "vice president product management tolling",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dkv mobility",
+          "size": "1001-5000",
+          "id": "tSz4WQEtCr29WfJZCIRmGggXHP1j",
+          "founded": 1934,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "ratingen, north rhine-westphalia, germany",
+            "locality": "ratingen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "3 balcke-dürr-alley",
+            "address_line_2": null,
+            "postal_code": "40882",
+            "geo": "51.3,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/dkv-euro-service",
+          "linkedin_id": "89214",
+          "facebook_url": "facebook.com/dkvmobility",
+          "twitter_url": null,
+          "website": "dkv-mobility.com"
+        },
+        "location_names": [],
+        "end_date": "2022-08",
+        "start_date": "2020-07",
+        "title": {
+          "name": "principal product manager toll",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dkv mobility",
+          "size": "1001-5000",
+          "id": "tSz4WQEtCr29WfJZCIRmGggXHP1j",
+          "founded": 1934,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "ratingen, north rhine-westphalia, germany",
+            "locality": "ratingen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "3 balcke-dürr-alley",
+            "address_line_2": null,
+            "postal_code": "40882",
+            "geo": "51.3,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/dkv-euro-service",
+          "linkedin_id": "89214",
+          "facebook_url": "facebook.com/dkvmobility",
+          "twitter_url": null,
+          "website": "dkv-mobility.com"
+        },
+        "location_names": [],
+        "end_date": "2020-07",
+        "start_date": "2018",
+        "title": {
+          "name": "team manager product management toll central, east & eurasia",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dkv mobility",
+          "size": "1001-5000",
+          "id": "tSz4WQEtCr29WfJZCIRmGggXHP1j",
+          "founded": 1934,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "ratingen, north rhine-westphalia, germany",
+            "locality": "ratingen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "3 balcke-dürr-alley",
+            "address_line_2": null,
+            "postal_code": "40882",
+            "geo": "51.3,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/dkv-euro-service",
+          "linkedin_id": "89214",
+          "facebook_url": "facebook.com/dkvmobility",
+          "twitter_url": null,
+          "website": "dkv-mobility.com"
+        },
+        "location_names": [
+          "ratingen, north rhine-westphalia, germany"
+        ],
+        "end_date": "2018-01",
+        "start_date": "2016-03",
+        "title": {
+          "name": "team manager product management toll eastern europe at dkv euroservice",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dkv mobility",
+          "size": "1001-5000",
+          "id": "tSz4WQEtCr29WfJZCIRmGggXHP1j",
+          "founded": 1934,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "ratingen, north rhine-westphalia, germany",
+            "locality": "ratingen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "3 balcke-dürr-alley",
+            "address_line_2": null,
+            "postal_code": "40882",
+            "geo": "51.3,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/dkv-euro-service",
+          "linkedin_id": "89214",
+          "facebook_url": "facebook.com/dkvmobility",
+          "twitter_url": null,
+          "website": "dkv-mobility.com"
+        },
+        "location_names": [
+          "ratingen, north rhine-westphalia, germany"
+        ],
+        "end_date": "2016-02",
+        "start_date": "2008-08",
+        "title": {
+          "name": "product manager",
+          "class": "research_and_development",
+          "role": "product",
+          "sub_role": "product_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "dkv mobility",
+          "size": "1001-5000",
+          "id": "tSz4WQEtCr29WfJZCIRmGggXHP1j",
+          "founded": 1934,
+          "industry": "logistics and supply chain",
+          "industry_v2": "transportation, logistics, supply chain and storage",
+          "location": {
+            "name": "ratingen, north rhine-westphalia, germany",
+            "locality": "ratingen",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "3 balcke-dürr-alley",
+            "address_line_2": null,
+            "postal_code": "40882",
+            "geo": "51.3,6.84"
+          },
+          "linkedin_url": "linkedin.com/company/dkv-euro-service",
+          "linkedin_id": "89214",
+          "facebook_url": "facebook.com/dkvmobility",
+          "twitter_url": null,
+          "website": "dkv-mobility.com"
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany"
+        ],
+        "end_date": "2008",
+        "start_date": "2002",
+        "title": {
+          "name": "sales organisation (staff position)",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kmc klausmeier marketing consultants",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "düsseldorf, north rhine-westphalia, germany",
+          "munich, bavaria, germany"
+        ],
+        "end_date": "2002-07",
+        "start_date": "1999-03",
+        "title": {
+          "name": "consultant",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "kmc klausmeier marketing consultants",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "munich, bavaria, germany"
+        ],
+        "end_date": "1999",
+        "start_date": "1998",
+        "title": {
+          "name": "graduate student",
+          "class": "services",
+          "role": "education",
+          "sub_role": "student",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "johannes gutenberg university mainz",
+          "type": "post-secondary institution",
+          "id": "FPiEwuBDs40x953rre733w_0000",
+          "location": {
+            "name": "mainz, rhineland-palatinate, germany",
+            "locality": "mainz",
+            "region": "rhineland-palatinate",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unimainz",
+          "facebook_url": "facebook.com/uni.mainz",
+          "twitter_url": "twitter.com/uni_mainz",
+          "linkedin_id": "15091818",
+          "website": "uni-mainz.de",
+          "domain": "uni-mainz.de"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2000-12",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "johannes gutenberg university mainz",
+          "type": "post-secondary institution",
+          "id": "FPiEwuBDs40x953rre733w_0000",
+          "location": {
+            "name": "mainz, rhineland-palatinate, germany",
+            "locality": "mainz",
+            "region": "rhineland-palatinate",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/unimainz",
+          "facebook_url": "facebook.com/uni.mainz",
+          "twitter_url": "twitter.com/uni_mainz",
+          "linkedin_id": "15091818",
+          "website": "uni-mainz.de",
+          "domain": "uni-mainz.de"
+        },
+        "degrees": [],
+        "start_date": "1996-01",
+        "end_date": "2000-01",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "87164606",
+        "url": "linkedin.com/in/julia-azfar",
+        "username": "julia-azfar"
+      },
+      {
+        "network": "linkedin",
+        "id": "87164606",
+        "url": "linkedin.com/in/julia-azfar-59223625",
+        "username": "julia-azfar-59223625"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

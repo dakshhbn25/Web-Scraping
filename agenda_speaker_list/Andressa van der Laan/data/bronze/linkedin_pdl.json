@@ -1,0 +1,801 @@
+{
+  "record_id": "agenda-speaker-medical-001",
+  "speaker_name": "Andressa van der Laan",
+  "event_name": "Medical",
+  "linkedin_url": "https://ch.linkedin.com/in/andressavdl",
+  "scraped_at": "2026-10-11T13:03:01.664298+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "4UuS3xWGvl-NTJz7lRGKOw_0000",
+    "full_name": "bms andressa van der laan",
+    "first_name": "bms",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "a",
+    "last_name": "andressa van der laan",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/andressavdl",
+    "linkedin_username": "andressavdl",
+    "linkedin_id": "114149287",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/andressavdl",
+    "twitter_username": "andressavdl",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical lead - digital health & medical excellence",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+    "job_company_name": "abbott",
+    "job_company_website": "pk.abbott",
+    "job_company_size": "10001+",
+    "job_company_founded": 1980,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/abbott-",
+    "job_company_linkedin_id": "1612",
+    "job_company_facebook_url": "facebook.com/abbott",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "abbott park, illinois, united states",
+    "job_company_location_locality": "abbott park",
+    "job_company_location_metro": null,
+    "job_company_location_region": "illinois",
+    "job_company_location_geo": "42.32,-87.86",
+    "job_company_location_street_address": "100 abbott park road",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "60064",
+    "job_company_location_country": "united states",
+    "job_company_location_continent": "north america",
+    "job_last_changed": "2025-05-09",
+    "job_last_verified": "2026-04-15",
+    "job_start_date": "2022-11",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-04-20",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "civil rights and social action",
+      "education",
+      "health",
+      "politics",
+      "science and technology",
+      "social services"
+    ],
+    "skills": [
+      "advertising",
+      "biochemistry",
+      "biomedicine",
+      "biotechnology",
+      "business planning",
+      "business strategy",
+      "cardiology",
+      "clinical analytics",
+      "clinical research",
+      "clinical trials",
+      "cross functional team leadership",
+      "design thinking",
+      "diabetes",
+      "digital",
+      "english",
+      "immunology",
+      "logistics",
+      "management",
+      "market access",
+      "market analysis",
+      "market planning",
+      "marketing",
+      "marketing strategy",
+      "medical affairs",
+      "microbiology",
+      "microsoft office",
+      "molecular biology",
+      "negotiation",
+      "oncology",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaceutics",
+      "product launch",
+      "sales",
+      "sales effectiveness",
+      "spanish",
+      "strategic planning",
+      "strategy",
+      "type 2 diabetes"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "chile",
+      "brazil"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "abbott",
+          "size": "10001+",
+          "id": "GeAxWp91RK4XGTQkhVQYTQ8aE4vg",
+          "founded": 1980,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "abbott park, illinois, united states",
+            "locality": "abbott park",
+            "region": "illinois",
+            "metro": null,
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "100 abbott park road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.86"
+          },
+          "linkedin_url": "linkedin.com/company/abbott-",
+          "linkedin_id": "1612",
+          "facebook_url": "facebook.com/abbott",
+          "twitter_url": null,
+          "website": "pk.abbott"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2022-11",
+        "title": {
+          "name": "global medical lead - digital health & medical excellence",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [],
+        "end_date": "2022-11",
+        "start_date": "2022-01",
+        "title": {
+          "name": "business unit director - rare diseases",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [],
+        "end_date": "2021-12",
+        "start_date": "2019-05",
+        "title": {
+          "name": "senior manager medical affairs and patient advocacy",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "teva pharmaceuticals",
+          "size": "10001+",
+          "id": "0yvz9YOSGy5tnbYa0DWPdACWQgex",
+          "founded": 1901,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tel aviv-yafo, tel aviv, israel",
+            "locality": "tel aviv-yafo",
+            "region": "tel aviv",
+            "metro": null,
+            "country": "israel",
+            "continent": "asia",
+            "street_address": "124 dvora hanevi'a",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "32.08,34.78"
+          },
+          "linkedin_url": "linkedin.com/company/teva-pharmaceuticals",
+          "linkedin_id": "5239",
+          "facebook_url": "facebook.com/tevapharm",
+          "twitter_url": null,
+          "website": "tevapharm.com"
+        },
+        "location_names": [],
+        "end_date": "2019-04",
+        "start_date": "2017-05",
+        "title": {
+          "name": "medical manager - cns",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "astellas pharma",
+          "size": "10001+",
+          "id": "822KYOD0DNbeIwl57r9x8A2hrhkQ",
+          "founded": 2005,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "nihombashihoncho, tokio, japan",
+            "locality": "nihombashihoncho",
+            "region": "tokio",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": "2-5-1 nihonbashi-honcho",
+            "address_line_2": null,
+            "postal_code": "103-8411",
+            "geo": "35.67,139.77"
+          },
+          "linkedin_url": "linkedin.com/company/astellaspharmainc",
+          "linkedin_id": "33408697",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "astellas.com"
+        },
+        "location_names": [],
+        "end_date": "2017-05",
+        "start_date": "2016-03",
+        "title": {
+          "name": "senior medical science liaison (msl) - oncology",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2016-03",
+        "start_date": "2016-01",
+        "title": {
+          "name": "senior sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2015-12",
+        "start_date": "2015-01",
+        "title": {
+          "name": "medical science liaison - metabolics",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2015-01",
+        "start_date": "2013-12",
+        "title": {
+          "name": "senior marketing analyst - diabetes",
+          "class": "general_and_administrative",
+          "role": "analyst",
+          "sub_role": "business_analyst",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2013-12",
+        "start_date": "2013-01",
+        "title": {
+          "name": "marketing trainee - pain",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "johnson & johnson innovative medicine",
+          "size": "10001+",
+          "id": "XExGSwxkCuOmzNrSfuDsCAkHNcCO",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/jnjinnovativemedicine",
+          "linkedin_id": "98725034",
+          "facebook_url": "facebook.com/jnjinnovativemedicine",
+          "twitter_url": null,
+          "website": "janssen.com"
+        },
+        "location_names": [],
+        "end_date": "2012-12",
+        "start_date": "2011-12",
+        "title": {
+          "name": "commercial trainee - oncology",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "trb pharma brasil",
+          "size": "51-200",
+          "id": "sDrAGl3CALnoBBmpV00p4AKeGUHM",
+          "founded": 1989,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "campinas, são paulo, brazil",
+            "locality": "campinas",
+            "region": "são paulo",
+            "metro": null,
+            "country": "brazil",
+            "continent": "south america",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "-22.89,-47.05"
+          },
+          "linkedin_url": "linkedin.com/company/trb-pharma",
+          "linkedin_id": "10235635",
+          "facebook_url": "facebook.com/trbpharma",
+          "twitter_url": null,
+          "website": "trbpharma.com.br"
+        },
+        "location_names": [
+          "porto alegre, rio grande do sul, brazil"
+        ],
+        "end_date": "2008-01",
+        "start_date": "2007-01",
+        "title": {
+          "name": "sales representative intern",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "training"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "escola paulista de medicina - epm/unifesp",
+          "type": "post-secondary institution",
+          "id": "rCBvozHgtw27Oero3gzOUQ_0000",
+          "location": {
+            "name": "são paulo, são paulo, brazil",
+            "locality": "são paulo",
+            "region": "são paulo",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/escola-paulista-de-medicina",
+          "facebook_url": "facebook.com/unifespoficial",
+          "twitter_url": "twitter.com/unifesp",
+          "linkedin_id": "30698759",
+          "website": "unifesp.br",
+          "domain": "unifesp.br"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2021-08",
+        "end_date": "2023",
+        "majors": [
+          "neuroscience"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ulbra",
+          "type": "post-secondary institution",
+          "id": "w3YoVJClERtmSg7LPwxQdQ_0000",
+          "location": {
+            "name": "ibiraiaras, rio grande do sul, brazil",
+            "locality": "ibiraiaras",
+            "region": "rio grande do sul",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/ulbra",
+          "facebook_url": "facebook.com/ulbrabr",
+          "twitter_url": "twitter.com/ulbrabr",
+          "linkedin_id": "15093247",
+          "website": "ulbra.br",
+          "domain": "ulbra.br"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2011",
+        "end_date": "2011",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ulbra",
+          "type": "post-secondary institution",
+          "id": "w3YoVJClERtmSg7LPwxQdQ_0000",
+          "location": {
+            "name": "ibiraiaras, rio grande do sul, brazil",
+            "locality": "ibiraiaras",
+            "region": "rio grande do sul",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/ulbra",
+          "facebook_url": "facebook.com/ulbrabr",
+          "twitter_url": "twitter.com/ulbrabr",
+          "linkedin_id": "15093247",
+          "website": "ulbra.br",
+          "domain": "ulbra.br"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2010-01",
+        "end_date": "2011",
+        "majors": [
+          "genetics",
+          "molecular biology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad de león",
+          "type": "post-secondary institution",
+          "id": "UEuB3oNQp-4AyumpBCTA7Q_0000",
+          "location": {
+            "name": "leon, castilla and león, spain",
+            "locality": "leon",
+            "region": "castilla and león",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-leon",
+          "facebook_url": "facebook.com/unileon",
+          "twitter_url": "twitter.com/unileon",
+          "linkedin_id": "108566",
+          "website": "unileon.es",
+          "domain": "unileon.es"
+        },
+        "degrees": [],
+        "start_date": "2009",
+        "end_date": "2010",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidad de león",
+          "type": "post-secondary institution",
+          "id": "UEuB3oNQp-4AyumpBCTA7Q_0000",
+          "location": {
+            "name": "leon, castilla and león, spain",
+            "locality": "leon",
+            "region": "castilla and león",
+            "country": "spain",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidad-de-leon",
+          "facebook_url": "facebook.com/unileon",
+          "twitter_url": "twitter.com/unileon",
+          "linkedin_id": "108566",
+          "website": "unileon.es",
+          "domain": "unileon.es"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ulbra",
+          "type": "post-secondary institution",
+          "id": "w3YoVJClERtmSg7LPwxQdQ_0000",
+          "location": {
+            "name": "ibiraiaras, rio grande do sul, brazil",
+            "locality": "ibiraiaras",
+            "region": "rio grande do sul",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/school/ulbra",
+          "facebook_url": "facebook.com/ulbrabr",
+          "twitter_url": "twitter.com/ulbrabr",
+          "linkedin_id": "15093247",
+          "website": "ulbra.br",
+          "domain": "ulbra.br"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2009",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "colegio ulbra são lucas",
+          "type": "post-secondary institution",
+          "id": "9hGiMBbn2XTvMk-s0UShaA_0000",
+          "location": {
+            "name": "sapucaia do sul, rio grande do sul, brazil",
+            "locality": "sapucaia do sul",
+            "region": "rio grande do sul",
+            "country": "brazil",
+            "continent": "south america"
+          },
+          "linkedin_url": "linkedin.com/company/ulbrasaolucas",
+          "facebook_url": "facebook.com/ulbrabr",
+          "twitter_url": "twitter.com/ulbrabr",
+          "linkedin_id": "88395583",
+          "website": "ulbra.br",
+          "domain": "ulbra.br"
+        },
+        "degrees": [],
+        "start_date": "2002-01",
+        "end_date": "2003",
+        "majors": [
+          "business management",
+          "logistics",
+          "marketing",
+          "supply chain management"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "114149287",
+        "url": "linkedin.com/in/andressavdl",
+        "username": "andressavdl"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/andressavdl",
+        "username": "andressavdl"
+      },
+      {
+        "network": "linkedin",
+        "id": "114149287",
+        "url": "linkedin.com/in/andressa-van-der-laan-74728a32",
+        "username": "andressa-van-der-laan-74728a32"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

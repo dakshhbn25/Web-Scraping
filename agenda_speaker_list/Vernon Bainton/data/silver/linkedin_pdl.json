@@ -1,0 +1,211 @@
+{
+  "record_id": "agenda-speaker-medical-021",
+  "speaker_name": "Vernon Bainton",
+  "linkedin_url": "https://uk.linkedin.com/in/vernon-bainton-9071a817",
+  "likelihood": 9,
+  "full_name": "vernon bainton",
+  "job_title": "chief medical officer",
+  "industry": "marketing and advertising",
+  "current_company": "havas lynx",
+  "current_company_website": "havaslynx.com",
+  "current_company_industry": "marketing and advertising",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "biosimilars",
+    "cardiovascular disease",
+    "clinical research",
+    "clinical trials",
+    "diabetes",
+    "digital marketing",
+    "endocrinology",
+    "gastroenterology",
+    "healthcare",
+    "hematology",
+    "hospitals",
+    "immunology",
+    "infectious diseases",
+    "market access",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "medical communications",
+    "medical devices",
+    "medical education",
+    "medical writing",
+    "medicine",
+    "mental health",
+    "nephrology",
+    "neurology",
+    "oncology",
+    "pain management",
+    "pharmaceutical industry",
+    "product launch",
+    "pulmonology",
+    "rheumatology",
+    "therapeutic areas"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "chief medical officer",
+      "company": "havas lynx",
+      "company_industry": "marketing and advertising",
+      "start_date": "2017-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "medical director",
+      "company": "havas lynx",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-11",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "client partner",
+      "company": "digitas uk",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-02",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "vice president, medical director",
+      "company": "havas creative network",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-02",
+      "end_date": "2014-01",
+      "is_primary": false
+    },
+    {
+      "title": "medical director",
+      "company": "sudler & hennessey",
+      "company_industry": "marketing and advertising",
+      "start_date": "2009-06",
+      "end_date": "2012-02",
+      "is_primary": false
+    },
+    {
+      "title": "group account director",
+      "company": "sudler & henessey",
+      "company_industry": null,
+      "start_date": "2009-01",
+      "end_date": "2009-06",
+      "is_primary": false
+    },
+    {
+      "title": "account director",
+      "company": "transart - the business software company",
+      "company_industry": "computer software",
+      "start_date": "2008-01",
+      "end_date": "2009-01",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "transart - the business software company",
+      "company_industry": "computer software",
+      "start_date": "2006-11",
+      "end_date": "2008-01",
+      "is_primary": false
+    },
+    {
+      "title": "senior account executive",
+      "company": "ogilvy 4d",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-04",
+      "end_date": "2006-10",
+      "is_primary": false
+    },
+    {
+      "title": "contract medical affairs / key account manager",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-11",
+      "end_date": "2004-11",
+      "is_primary": false
+    },
+    {
+      "title": "contract medical affairs / key account manager",
+      "company": "the janssen pharmaceutical companies of johnson & johnson",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2003-01",
+      "end_date": "2003-07",
+      "is_primary": false
+    },
+    {
+      "title": "sho anaesthetics",
+      "company": "nhs nottingham queens medical centre acute hospital trust",
+      "company_industry": null,
+      "start_date": "2000-08",
+      "end_date": "2002-08",
+      "is_primary": false
+    },
+    {
+      "title": "sho general medicine",
+      "company": "nhs birmingham queen elizabeth and selly oak acute hospital trusts",
+      "company_industry": null,
+      "start_date": "1999-08",
+      "end_date": "2000-08",
+      "is_primary": false
+    },
+    {
+      "title": "ho general medicine and surgery",
+      "company": "nhs birmingham queen elizabeth and hereford general hospital acute trusts",
+      "company_industry": null,
+      "start_date": "1998-08",
+      "end_date": "1999-08",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "the london school of economics and political science (lse)",
+      "majors": [
+        "economics",
+        "management"
+      ],
+      "degrees": [
+        "master of science",
+        "masters"
+      ],
+      "start_date": "2018-01",
+      "end_date": "2021"
+    },
+    {
+      "school": "university of birmingham",
+      "majors": [
+        "medicine",
+        "pharmacology"
+      ],
+      "degrees": [
+        "bachelor of medicine",
+        "bachelors"
+      ],
+      "start_date": "1992-10",
+      "end_date": "1998"
+    },
+    {
+      "school": "university of birmingham",
+      "majors": [
+        "medicine"
+      ],
+      "degrees": [
+        "bachelors",
+        "bachelor of medicine"
+      ],
+      "start_date": "1992-10",
+      "end_date": "1998-08"
+    },
+    {
+      "school": "campion high school",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ]
+}

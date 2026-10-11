@@ -1,0 +1,846 @@
+{
+  "record_id": "agenda-speaker-medical-012",
+  "speaker_name": "Maja Beilmann-Schramm",
+  "event_name": "Medical",
+  "linkedin_url": "https://de.linkedin.com/in/maja-beilmann-schramm-msl-excellence",
+  "scraped_at": "2026-10-11T13:03:19.431791+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "EJ2FRtDnqAaS0cmx4LwMMg_0000",
+    "full_name": "maja beilmann-schramm",
+    "first_name": "maja",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "beilmann-schramm",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/maja-beilmann-schramm-msl-excellence-mentor",
+    "linkedin_username": "maja-beilmann-schramm-msl-excellence-mentor",
+    "linkedin_id": "241432246",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": false,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": null,
+    "job_company_name": "msl exzellenz experten treffen",
+    "job_company_website": null,
+    "job_company_size": null,
+    "job_company_founded": null,
+    "job_company_industry": null,
+    "job_company_industry_v2": null,
+    "job_company_linkedin_url": null,
+    "job_company_linkedin_id": null,
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": null,
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": null,
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": null,
+    "job_company_location_continent": null,
+    "job_last_changed": "2026-02-19",
+    "job_last_verified": "2026-07-31",
+    "job_start_date": "2023-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "germany",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-31",
+    "phone_numbers": false,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "adhd",
+      "analytical and strategic thinking",
+      "arztkommunikation durch feldbasierte teams",
+      "cns",
+      "cns disorders",
+      "dermatologie",
+      "dermatology",
+      "international leadership",
+      "kol engagement",
+      "medical affairs",
+      "medical education",
+      "medical science liaison",
+      "medical science liaisons",
+      "medical strategy",
+      "medical strategy",
+      "medicine",
+      "medizin",
+      "mentor",
+      "mentoring for field medical",
+      "msl excellence",
+      "msl mentor",
+      "msl strategie",
+      "msl und msl teamleiter coaching und mentoring",
+      "oncology",
+      "onkologie",
+      "pharmaceutical industry",
+      "pharmaceutical sales",
+      "pharmaindustrie",
+      "project management",
+      "sales effectiveness",
+      "strategisches management",
+      "virtual leadership"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "germany"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "msl exzellenz experten treffen",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2023-01",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "msl-excellence",
+          "size": "1-10",
+          "id": "HYANA0SJx4P1sjC4LJlMMgdpX4UT",
+          "founded": 2020,
+          "industry": "professional training & coaching",
+          "industry_v2": "professional training and coaching",
+          "location": {
+            "name": "sankt augustin, north rhine-westphalia, germany",
+            "locality": "sankt augustin",
+            "region": "north rhine-westphalia",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "53757",
+            "geo": "50.77,7.18"
+          },
+          "linkedin_url": "linkedin.com/company/msl-excellence",
+          "linkedin_id": "98746521",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "msl-excellence.de"
+        },
+        "location_names": [
+          "cologne, north rhine-westphalia, germany",
+          "bonn, north rhine-westphalia, germany"
+        ],
+        "end_date": null,
+        "start_date": "2020-05",
+        "title": {
+          "name": "consultancy, training and coaching on the role of the medical science liaison (msl)",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "healthcare shapers",
+          "size": "51-200",
+          "id": "at7k4OTs6t5LU69LJWEOTgn4UH0c",
+          "founded": 2013,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "eltville, hesse, germany",
+            "locality": "eltville",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/healthcare-shapers",
+          "linkedin_id": "18161252",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "healthcareshapers.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2020-03",
+        "title": {
+          "name": "partner",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck kgaa, darmstadt, germany",
+          "size": "10001+",
+          "id": "e2cbIQbRQBl6SC2yGzGEzQPwfXgL",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter street",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/emd-affiliates-of-merck-kgaa-darmstadt-germany",
+          "linkedin_id": "14328",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "emdgroup.com"
+        },
+        "location_names": [],
+        "end_date": "2024-01",
+        "start_date": "2020-02",
+        "title": {
+          "name": "director global field medical excellence & hcp exchange",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "merck kgaa, darmstadt, germany",
+          "size": "10001+",
+          "id": "e2cbIQbRQBl6SC2yGzGEzQPwfXgL",
+          "founded": 1668,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "darmstadt, hesse, germany",
+            "locality": "darmstadt",
+            "region": "hesse",
+            "metro": null,
+            "country": "germany",
+            "continent": "europe",
+            "street_address": "250 frankfurter street",
+            "address_line_2": null,
+            "postal_code": "64293",
+            "geo": "49.86,8.64"
+          },
+          "linkedin_url": "linkedin.com/company/emd-affiliates-of-merck-kgaa-darmstadt-germany",
+          "linkedin_id": "14328",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "emdgroup.com"
+        },
+        "location_names": [
+          "darmstadt, hesse, germany"
+        ],
+        "end_date": "2020-02",
+        "start_date": "2016-10",
+        "title": {
+          "name": "director global msl excellence",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [
+          "new york, new york, united states",
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2016-09",
+        "start_date": "2014-11",
+        "title": {
+          "name": "lead medical science manager onkologie",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "nyon, vaud, switzerland"
+        ],
+        "end_date": "2014-08",
+        "start_date": "2013-01",
+        "title": {
+          "name": "director - medical scientific strategy, global medical affairs",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "nyon, vaud, switzerland"
+        ],
+        "end_date": "2012-12",
+        "start_date": "2012-04",
+        "title": {
+          "name": "director - international medical science liaison",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2012-03",
+        "start_date": "2011-08",
+        "title": {
+          "name": "associate director - international medical science liaison",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [],
+        "end_date": "2011-08",
+        "start_date": "2007-11",
+        "title": {
+          "name": "senior productmanager cns",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "senior",
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "shire",
+          "size": "10001+",
+          "id": "LgvqNLPQjDZ7C5xsIgyDyA3LsmpX",
+          "founded": 1986,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "00000",
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/shire",
+          "linkedin_id": "5541",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/shireplc",
+          "website": "shirepharma.com"
+        },
+        "location_names": [
+          "cologne, north rhine-westphalia, germany"
+        ],
+        "end_date": "2007-10",
+        "start_date": "2006-04",
+        "title": {
+          "name": "productmanager dermatology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [],
+        "end_date": "2006-03",
+        "start_date": "2005-03",
+        "title": {
+          "name": "productmanager aesthetic dermatology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "bad soden am taunus, hesse, germany"
+        ],
+        "end_date": "2005-02",
+        "start_date": "2004-01",
+        "title": {
+          "name": "medical marketingmanager aesthetic dermatology",
+          "class": "services",
+          "role": "health",
+          "sub_role": "doctor",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "bad soden am taunus, hesse, germany"
+        ],
+        "end_date": "2004-03",
+        "start_date": "2003-04",
+        "title": {
+          "name": "sales representative dermatology",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sanofi",
+          "size": "10001+",
+          "id": "XXgRWvVo0CNoKDUxCPp8YQF9yDR8",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "46 avenue de la grande-armée",
+            "address_line_2": null,
+            "postal_code": "75017",
+            "geo": "48.86,2.35"
+          },
+          "linkedin_url": "linkedin.com/company/sanofi",
+          "linkedin_id": "1642",
+          "facebook_url": "facebook.com/sanofius",
+          "twitter_url": "twitter.com/sanofi",
+          "website": "sanofi.com"
+        },
+        "location_names": [
+          "bad soden am taunus, hesse, germany"
+        ],
+        "end_date": "2003-03",
+        "start_date": "2001-10",
+        "title": {
+          "name": "trainee marketing and sales",
+          "class": "sales_and_marketing",
+          "role": "marketing",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "email: info@msl - excellence.de",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "email: info@msl - excellence.de",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "info@msl - excellence.de",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "the university of bonn",
+          "type": "post-secondary institution",
+          "id": "MMSwnh3Nc9nZ0Gh000RMTw_0000",
+          "location": {
+            "name": "bonn, north rhine-westphalia, germany",
+            "locality": "bonn",
+            "region": "north rhine-westphalia",
+            "country": "germany",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/rheinische-friedrich-wilhelms-universität-bonn",
+          "facebook_url": "facebook.com/unibonn",
+          "twitter_url": "twitter.com/unibonn",
+          "linkedin_id": "15091826",
+          "website": "uni-bonn.de",
+          "domain": "uni-bonn.de"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "241432246",
+        "url": "linkedin.com/in/maja-beilmann-schramm-msl-excellence-mentor",
+        "username": "maja-beilmann-schramm-msl-excellence-mentor"
+      },
+      {
+        "network": "linkedin",
+        "id": "241432246",
+        "url": "linkedin.com/in/maja-beilmann-schramm-msl-excellence",
+        "username": "maja-beilmann-schramm-msl-excellence"
+      },
+      {
+        "network": "linkedin",
+        "id": null,
+        "url": "linkedin.com/in/beilmann-schramm-maja-89aa3168",
+        "username": "beilmann-schramm-maja-89aa3168"
+      },
+      {
+        "network": "linkedin",
+        "id": "241432246",
+        "url": "linkedin.com/in/maja-beilmann-schramm-89aa3168",
+        "username": "maja-beilmann-schramm-89aa3168"
+      },
+      {
+        "network": "linkedin",
+        "id": "241432246",
+        "url": "linkedin.com/in/schramm-maja-89aa3168",
+        "username": "schramm-maja-89aa3168"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

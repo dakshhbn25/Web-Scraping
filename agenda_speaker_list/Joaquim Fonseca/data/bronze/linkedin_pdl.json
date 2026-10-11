@@ -1,0 +1,717 @@
+{
+  "record_id": "agenda-speaker-medical-010",
+  "speaker_name": "Joaquim Fonseca",
+  "event_name": "Medical",
+  "linkedin_url": "https://ch.linkedin.com/in/joaquim-fonseca",
+  "scraped_at": "2026-10-11T13:03:14.859205+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "6GOHYmDnS1zIvXDgr64dxg_0000",
+    "full_name": "joaquim fonseca",
+    "first_name": "joaquim",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "f",
+    "last_name": "fonseca",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/joaquim-fonseca",
+    "linkedin_username": "joaquim-fonseca",
+    "linkedin_id": "9966954",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": null,
+    "twitter_username": null,
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": false,
+    "industry": "pharmaceuticals",
+    "job_title": "global medical excellence lead",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "manager"
+    ],
+    "job_company_id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+    "job_company_name": "takeda",
+    "job_company_website": "takeda.com",
+    "job_company_size": "10001+",
+    "job_company_founded": 1781,
+    "job_company_industry": "pharmaceuticals",
+    "job_company_industry_v2": "pharmaceutical manufacturing",
+    "job_company_linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+    "job_company_linkedin_id": "5482",
+    "job_company_facebook_url": "facebook.com/takedapharma",
+    "job_company_twitter_url": null,
+    "job_company_location_name": "tokyo, japan",
+    "job_company_location_locality": null,
+    "job_company_location_metro": null,
+    "job_company_location_region": "tokyo",
+    "job_company_location_geo": null,
+    "job_company_location_street_address": null,
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": null,
+    "job_company_location_country": "japan",
+    "job_company_location_continent": "asia",
+    "job_last_changed": "2024-03-13",
+    "job_last_verified": "2026-07-12",
+    "job_start_date": "2020-09",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "switzerland",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-12",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "films",
+      "music",
+      "off road motorcycling",
+      "rc models (helicopters and cars)",
+      "windsurf"
+    ],
+    "skills": [
+      "attitude change",
+      "biotechnology",
+      "budget oversight",
+      "building organizational capability",
+      "change management",
+      "clinical development",
+      "clinical pharmacology",
+      "clinical research",
+      "clinical trials",
+      "command",
+      "communication skills",
+      "costumer focus",
+      "cross functional team leadership",
+      "cross team collaboration",
+      "customer engagement",
+      "customer insight",
+      "decision making",
+      "digital transformation",
+      "executive stakeholder management",
+      "executive visibility",
+      "experience working in multifunctional teams",
+      "framework design",
+      "gcps",
+      "global solutions",
+      "healthcare",
+      "knowledge acquisition",
+      "kol management",
+      "launch experience",
+      "leadership",
+      "life sciences",
+      "management",
+      "matrix leadership",
+      "medical affairs",
+      "medical affairs strategy",
+      "medical education",
+      "medical excellence",
+      "medical information systems",
+      "medical scientific liaison",
+      "medical writing",
+      "msl excellence",
+      "msl onboarding and training",
+      "msl value demonstration",
+      "multiple sclerosis",
+      "neuroscience",
+      "pharmaceutical industry",
+      "pharmaceutical medicine",
+      "pharmacists",
+      "presentation skills",
+      "product launch",
+      "project management",
+      "selling skills",
+      "senior stakeholder management",
+      "strategic leadership",
+      "strategic planning",
+      "supplier evaluation",
+      "team leadership",
+      "training",
+      "training skills",
+      "vendas",
+      "workable solutions"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "switzerland",
+      "portugal",
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": null,
+        "start_date": "2020-09",
+        "title": {
+          "name": "global medical excellence lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2020-08",
+        "start_date": "2019-02",
+        "title": {
+          "name": "global field medical excellence lead",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ucb",
+          "size": "5001-10000",
+          "id": "x2YckpDgGB97ocAf5e4qjgnEM9Ix",
+          "founded": 1928,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "60 allée de la recherche",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/ucb-pharma",
+          "linkedin_id": "26195",
+          "facebook_url": "facebook.com/ucbbiopharma",
+          "twitter_url": "twitter.com/ucb_news",
+          "website": "ucb.com"
+        },
+        "location_names": [
+          "brussels, brussels, belgium"
+        ],
+        "end_date": "2019-01",
+        "start_date": "2016-09",
+        "title": {
+          "name": "global medical clrm engagement manager",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [
+          "basel, basel-stadt, switzerland"
+        ],
+        "end_date": "2016-08",
+        "start_date": "2016-02",
+        "title": {
+          "name": "scientific project manager - neuroscience",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2016-01",
+        "start_date": "2014-10",
+        "title": {
+          "name": "senior medical scientific liaison - multiple sclerosis",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2014-10",
+        "start_date": "2011-03",
+        "title": {
+          "name": "medical scientific liaison - multiple sclerosis",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "novartis",
+          "size": "10001+",
+          "id": "Aefrg8G2hrDQqAhlxtUnvAWdP097",
+          "founded": 1996,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "basel, basel-stadt, switzerland",
+            "locality": "basel",
+            "region": "basel-stadt",
+            "metro": null,
+            "country": "switzerland",
+            "continent": "europe",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": "4002",
+            "geo": "47.54,7.59"
+          },
+          "linkedin_url": "linkedin.com/company/novartis",
+          "linkedin_id": "1406",
+          "facebook_url": "facebook.com/novartis",
+          "twitter_url": "twitter.com/novartis",
+          "website": "novartis.com"
+        },
+        "location_names": [],
+        "end_date": "2011-02",
+        "start_date": "2006-08",
+        "title": {
+          "name": "sales representative",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "clinica particular de barcelos",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "barcelos, braga, portugal"
+        ],
+        "end_date": "2008-02",
+        "start_date": "2004-06",
+        "title": {
+          "name": "chief pharmacist (director técnico)",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "farmácia avenida",
+          "size": "1-10",
+          "id": "UejoBEuf4hqJos1I5lNklAuh1lib",
+          "founded": 2008,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "porto, porto, portugal",
+            "locality": "porto",
+            "region": "porto",
+            "metro": null,
+            "country": "portugal",
+            "continent": "europe",
+            "street_address": "20 rua o primeiro de janeiro",
+            "address_line_2": null,
+            "postal_code": "4300-068",
+            "geo": "41.14,-8.61"
+          },
+          "linkedin_url": "linkedin.com/company/farm-cia-avenida",
+          "linkedin_id": "1230576",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "farmacia-avenida.com"
+        },
+        "location_names": [
+          "barcelos, braga, portugal"
+        ],
+        "end_date": "2006-07",
+        "start_date": "2003-05",
+        "title": {
+          "name": "acting superintendent pharmacist (director técnico adjunto)",
+          "class": "services",
+          "role": "health",
+          "sub_role": "pharmacy",
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "institute of social and preventive medicine (ispm)",
+          "type": "post-secondary institution",
+          "id": "oNfET4Uz6Oa3Ht6itFWckQ_0000",
+          "location": {
+            "name": "bern, gelderland, netherlands",
+            "locality": "bern",
+            "region": "gelderland",
+            "country": "netherlands",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ispmbern",
+          "facebook_url": "facebook.com/unibern",
+          "twitter_url": "twitter.com/unibern",
+          "linkedin_id": "1205079",
+          "website": "ispm.unibe.ch",
+          "domain": "unibe.ch"
+        },
+        "degrees": [],
+        "start_date": "2014",
+        "end_date": "2014",
+        "majors": [
+          "epidemiology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "católica lisbon school of business and economics",
+          "type": "post-secondary institution",
+          "id": "pxgrDMn985Rjlqxkr7HMcg_0000",
+          "location": {
+            "name": "lisboa, lisbon, portugal",
+            "locality": "lisboa",
+            "region": "lisbon",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/catolica-lisbon-school-of-business-and-economics",
+          "facebook_url": "facebook.com/universidadecatolicaportuguesaoficial",
+          "twitter_url": null,
+          "linkedin_id": "2289796",
+          "website": "clsbe.lisboa.ucp.pt",
+          "domain": "ucp.pt"
+        },
+        "degrees": [],
+        "start_date": "2013-01-01",
+        "end_date": "2014",
+        "majors": [
+          "healthcare"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidade de aveiro",
+          "type": "post-secondary institution",
+          "id": "p-sBhrDZk2GlBTpB19OFdg_0000",
+          "location": {
+            "name": "aveiro, aveiro, portugal",
+            "locality": "aveiro",
+            "region": "aveiro",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidade-de-aveiro",
+          "facebook_url": "facebook.com/universidadedeaveiro",
+          "twitter_url": null,
+          "linkedin_id": "9250",
+          "website": "ua.pt",
+          "domain": "ua.pt"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2012-01-01",
+        "end_date": "2014",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "católica lisbon school of business and economics",
+          "type": "post-secondary institution",
+          "id": "pxgrDMn985Rjlqxkr7HMcg_0000",
+          "location": {
+            "name": "lisboa, lisbon, portugal",
+            "locality": "lisboa",
+            "region": "lisbon",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/catolica-lisbon-school-of-business-and-economics",
+          "facebook_url": "facebook.com/universidadecatolicaportuguesaoficial",
+          "twitter_url": null,
+          "linkedin_id": "2289796",
+          "website": "clsbe.lisboa.ucp.pt",
+          "domain": "ucp.pt"
+        },
+        "degrees": [],
+        "start_date": "2011-01-01",
+        "end_date": "2012",
+        "majors": [
+          "leadership",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "universidade do porto",
+          "type": "post-secondary institution",
+          "id": "bgkXRpIU2PvYxRfc3GuNzw_0000",
+          "location": {
+            "name": "porto, porto, portugal",
+            "locality": "porto",
+            "region": "porto",
+            "country": "portugal",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/universidadedoporto",
+          "facebook_url": "facebook.com/universidadedoporto",
+          "twitter_url": "twitter.com/uporto",
+          "linkedin_id": "6499",
+          "website": "up.pt",
+          "domain": "up.pt"
+        },
+        "degrees": [
+          "doctor of pharmacy",
+          "doctorates"
+        ],
+        "start_date": "1996-01-01",
+        "end_date": "2003",
+        "majors": [
+          "pharmacy"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "escola secundária alcaides de faria",
+          "type": "secondary school",
+          "id": "1SFGaXaDPr5a8zjlz9CZDA_0000",
+          "location": null,
+          "linkedin_url": "linkedin.com/company/escola-secundária-alcaides-de-faria",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "51818519",
+          "website": "esalcaidesdefaria.pt",
+          "domain": "esalcaidesdefaria.pt"
+        },
+        "degrees": [],
+        "start_date": "1992",
+        "end_date": "1995",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "trainings",
+          "type": "post-secondary institution",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "9966954",
+        "url": "linkedin.com/in/joaquim-fonseca",
+        "username": "joaquim-fonseca"
+      },
+      {
+        "network": "linkedin",
+        "id": "9966954",
+        "url": "linkedin.com/in/joaquim-fonseca-ab64073",
+        "username": "joaquim-fonseca-ab64073"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

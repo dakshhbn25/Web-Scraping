@@ -1,0 +1,205 @@
+{
+  "record_id": "agenda-speaker-medical-005",
+  "speaker_name": "Daniela Clape",
+  "linkedin_url": "https://es.linkedin.com/in/danielaclape/es",
+  "likelihood": 9,
+  "full_name": "daniela clape",
+  "job_title": "founder and chief executive officer xpeer medical education",
+  "industry": "hospital & health care",
+  "current_company": "xpeer business solutions",
+  "current_company_website": "xpeer.app",
+  "current_company_industry": "hospital & health care",
+  "location_country": "spain",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "advertising",
+    "budgeting",
+    "budgets",
+    "business advising",
+    "business strategy",
+    "business transformation",
+    "communication",
+    "consulting",
+    "continuing medical education",
+    "e learning",
+    "educational consulting",
+    "english",
+    "event management",
+    "event planning",
+    "foreign languages",
+    "french",
+    "growth hacking",
+    "growth management",
+    "growth strategies",
+    "healthcare consulting",
+    "healthcare management",
+    "international business",
+    "leadership",
+    "management",
+    "management consulting",
+    "marketing",
+    "marketing strategy",
+    "mentoring",
+    "negotiation",
+    "operations management",
+    "process consulting",
+    "production planning",
+    "professional mentoring",
+    "project management",
+    "project planning",
+    "revenue and profit growth",
+    "sales growth",
+    "sales management",
+    "sales operations",
+    "spanish",
+    "strategic consulting",
+    "strategy",
+    "upload your content on xpeer"
+  ],
+  "interests": [
+    "arts and culture",
+    "barcelona",
+    "cinema",
+    "civil rights and social action",
+    "communication",
+    "comunicación",
+    "coordinación de eventos",
+    "education",
+    "english",
+    "español",
+    "event planning",
+    "eventos",
+    "events",
+    "francés",
+    "french",
+    "health",
+    "inglés",
+    "internacional",
+    "international",
+    "management",
+    "marketing",
+    "operaciones",
+    "photography",
+    "reading",
+    "spanish",
+    "write poetry"
+  ],
+  "experience": [
+    {
+      "title": "founder and chief executive officer xpeer medical education",
+      "company": "xpeer business solutions",
+      "company_industry": "hospital & health care",
+      "start_date": "2019-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "business mentor",
+      "company": "profesional independiente",
+      "company_industry": null,
+      "start_date": "2023-06",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "chief executive officer",
+      "company": "lexic vivactis",
+      "company_industry": "marketing and advertising",
+      "start_date": "2014-06",
+      "end_date": "2020-01",
+      "is_primary": false
+    },
+    {
+      "title": "chief operations officer",
+      "company": "lexic vivactis",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-03",
+      "end_date": "2014-06",
+      "is_primary": false
+    },
+    {
+      "title": "project manager",
+      "company": "lexic vivactis",
+      "company_industry": "marketing and advertising",
+      "start_date": "2011-03",
+      "end_date": "2012-03",
+      "is_primary": false
+    },
+    {
+      "title": "freelance event manager",
+      "company": "momento m lana agence ccc",
+      "company_industry": null,
+      "start_date": "2009-01",
+      "end_date": "2011-02",
+      "is_primary": false
+    },
+    {
+      "title": "event manager",
+      "company": "agence ccc",
+      "company_industry": "events services",
+      "start_date": "2006-06",
+      "end_date": "2008-12",
+      "is_primary": false
+    },
+    {
+      "title": "account executive",
+      "company": "ogilvy health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2004-06",
+      "end_date": "2006-06",
+      "is_primary": false
+    },
+    {
+      "title": "account executive",
+      "company": "mccann health",
+      "company_industry": "marketing and advertising",
+      "start_date": "2003-10",
+      "end_date": "2004-06",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "ecol - educación continua on - line",
+      "majors": [
+        "operations management"
+      ],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2014"
+    },
+    {
+      "school": "esa3 - etudes supérieures appliquées aux affaires business school",
+      "majors": [
+        "communication",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2002",
+      "end_date": "2003"
+    },
+    {
+      "school": "isgp - esa3 - talis business school campus paris",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2002-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "université sorbonne nouvelle",
+      "majors": [
+        "international commerce",
+        "marketing",
+        "modern languages"
+      ],
+      "degrees": [],
+      "start_date": "1999-01",
+      "end_date": "2003-01"
+    }
+  ]
+}

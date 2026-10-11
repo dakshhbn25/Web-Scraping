@@ -1,0 +1,629 @@
+{
+  "record_id": "agenda-speaker-medical-005",
+  "speaker_name": "Daniela Clape",
+  "event_name": "Medical",
+  "linkedin_url": "https://es.linkedin.com/in/danielaclape/es",
+  "scraped_at": "2026-10-11T13:03:03.828886+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "FhpyBaarpPabxt1h8IWGXw_0000",
+    "full_name": "daniela clape",
+    "first_name": "daniela",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "c",
+    "last_name": "clape",
+    "sex": "female",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/danielaclape",
+    "linkedin_username": "danielaclape",
+    "linkedin_id": "47478541",
+    "facebook_url": null,
+    "facebook_username": null,
+    "facebook_id": null,
+    "twitter_url": "twitter.com/danielaclape",
+    "twitter_username": "danielaclape",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": false,
+    "industry": "hospital & health care",
+    "job_title": "founder and chief executive officer xpeer medical education",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo",
+      "owner"
+    ],
+    "job_company_id": "uHmF3KC7xfY5o9gAEHZAsAKYZgaM",
+    "job_company_name": "xpeer business solutions",
+    "job_company_website": "xpeer.app",
+    "job_company_size": "11-50",
+    "job_company_founded": 2019,
+    "job_company_industry": "hospital & health care",
+    "job_company_industry_v2": "hospitals and health care",
+    "job_company_linkedin_url": "linkedin.com/company/xpeercme",
+    "job_company_linkedin_id": "45040758",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "barcelona, catalonia, spain",
+    "job_company_location_locality": "barcelona",
+    "job_company_location_metro": null,
+    "job_company_location_region": "catalonia",
+    "job_company_location_geo": "41.38,2.17",
+    "job_company_location_street_address": "38 avinguda del portal de l'angel",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "08002",
+    "job_company_location_country": "spain",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2020-03-11",
+    "job_last_verified": "2026-07-06",
+    "job_start_date": "2019-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "spain",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-07-06",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [
+      "arts and culture",
+      "barcelona",
+      "cinema",
+      "civil rights and social action",
+      "communication",
+      "comunicación",
+      "coordinación de eventos",
+      "education",
+      "english",
+      "español",
+      "event planning",
+      "eventos",
+      "events",
+      "francés",
+      "french",
+      "health",
+      "inglés",
+      "internacional",
+      "international",
+      "management",
+      "marketing",
+      "operaciones",
+      "photography",
+      "reading",
+      "spanish",
+      "write poetry"
+    ],
+    "skills": [
+      "advertising",
+      "budgeting",
+      "budgets",
+      "business advising",
+      "business strategy",
+      "business transformation",
+      "communication",
+      "consulting",
+      "continuing medical education",
+      "e learning",
+      "educational consulting",
+      "english",
+      "event management",
+      "event planning",
+      "foreign languages",
+      "french",
+      "growth hacking",
+      "growth management",
+      "growth strategies",
+      "healthcare consulting",
+      "healthcare management",
+      "international business",
+      "leadership",
+      "management",
+      "management consulting",
+      "marketing",
+      "marketing strategy",
+      "mentoring",
+      "negotiation",
+      "operations management",
+      "process consulting",
+      "production planning",
+      "professional mentoring",
+      "project management",
+      "project planning",
+      "revenue and profit growth",
+      "sales growth",
+      "sales management",
+      "sales operations",
+      "spanish",
+      "strategic consulting",
+      "strategy",
+      "upload your content on xpeer"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "spain"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "xpeer business solutions",
+          "size": "11-50",
+          "id": "uHmF3KC7xfY5o9gAEHZAsAKYZgaM",
+          "founded": 2019,
+          "industry": "hospital & health care",
+          "industry_v2": "hospitals and health care",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "38 avinguda del portal de l'angel",
+            "address_line_2": null,
+            "postal_code": "08002",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/xpeercme",
+          "linkedin_id": "45040758",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "xpeer.app"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": null,
+        "start_date": "2019-06",
+        "title": {
+          "name": "founder and chief executive officer xpeer medical education",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo",
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "profesional independiente",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": null,
+        "start_date": "2023-06",
+        "title": {
+          "name": "business mentor",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lexic vivactis",
+          "size": "11-50",
+          "id": "4lK3vpCfHgmC5YjitqOzbAj9tAmH",
+          "founded": 2003,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "101 passeig de gràcia",
+            "address_line_2": "3ª 1º",
+            "postal_code": "08008",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/lexic",
+          "linkedin_id": "292022",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "lexic.es"
+        },
+        "location_names": [
+          "castelldefels, catalonia, spain"
+        ],
+        "end_date": "2020-01",
+        "start_date": "2014-06",
+        "title": {
+          "name": "chief executive officer",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lexic vivactis",
+          "size": "11-50",
+          "id": "4lK3vpCfHgmC5YjitqOzbAj9tAmH",
+          "founded": 2003,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "101 passeig de gràcia",
+            "address_line_2": "3ª 1º",
+            "postal_code": "08008",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/lexic",
+          "linkedin_id": "292022",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "lexic.es"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2014-06",
+        "start_date": "2012-03",
+        "title": {
+          "name": "chief operations officer",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "lexic vivactis",
+          "size": "11-50",
+          "id": "4lK3vpCfHgmC5YjitqOzbAj9tAmH",
+          "founded": 2003,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "barcelona, catalonia, spain",
+            "locality": "barcelona",
+            "region": "catalonia",
+            "metro": null,
+            "country": "spain",
+            "continent": "europe",
+            "street_address": "101 passeig de gràcia",
+            "address_line_2": "3ª 1º",
+            "postal_code": "08008",
+            "geo": "41.38,2.17"
+          },
+          "linkedin_url": "linkedin.com/company/lexic",
+          "linkedin_id": "292022",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "lexic.es"
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2012-03",
+        "start_date": "2011-03",
+        "title": {
+          "name": "project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "momento m lana agence ccc",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "barcelona, catalonia, spain"
+        ],
+        "end_date": "2011-02",
+        "start_date": "2009-01",
+        "title": {
+          "name": "freelance event manager",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "marketing_services",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "agence ccc",
+          "size": "11-50",
+          "id": "fQ6zYtfV5mdnHBbNk4MrDAedD7EY",
+          "founded": 2001,
+          "industry": "events services",
+          "industry_v2": "events services",
+          "location": {
+            "name": "issy-les-moulineaux, île-de-france, france",
+            "locality": "issy-les-moulineaux",
+            "region": "île-de-france",
+            "metro": null,
+            "country": "france",
+            "continent": "europe",
+            "street_address": "21 rue camille desmoulins",
+            "address_line_2": null,
+            "postal_code": "92130",
+            "geo": "48.82,2.27"
+          },
+          "linkedin_url": "linkedin.com/company/soci-t-ccc",
+          "linkedin_id": "333572",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ifda.fr"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2008-12",
+        "start_date": "2006-06",
+        "title": {
+          "name": "event manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ogilvy health",
+          "size": "1001-5000",
+          "id": "fOQitVZi7CHvOvPQqrcTgwnfTbgC",
+          "founded": null,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "175 greenwich street",
+            "address_line_2": null,
+            "postal_code": "10010",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/ogilvy-health-north-america",
+          "linkedin_id": "163162",
+          "facebook_url": "facebook.com/ogilvyhealth",
+          "twitter_url": "twitter.com/ogilvyhealth",
+          "website": "ogilvyhealth.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2006-06",
+        "start_date": "2004-06",
+        "title": {
+          "name": "account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "mccann health",
+          "size": "1001-5000",
+          "id": "lFrYezPunFFLy9vkMBrhyAttcx7Y",
+          "founded": 1996,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "622 3rd avenue",
+            "address_line_2": null,
+            "postal_code": "10017",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/mccannhealth",
+          "linkedin_id": "10203336",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "mccannhealth.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2004-06",
+        "start_date": "2003-10",
+        "title": {
+          "name": "account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "ecol - educación continua on - line",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2014",
+        "majors": [
+          "operations management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "esa3 - etudes supérieures appliquées aux affaires business school",
+          "type": null,
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2002",
+        "end_date": "2003",
+        "majors": [
+          "communication",
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "isgp - esa3 - talis business school campus paris",
+          "type": "post-secondary institution",
+          "id": "dVBpt5DG5oJxZS7mgkXvRg_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/isgp-talis-business-school-campus-paris",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "18336143",
+          "website": "talis-bs.com",
+          "domain": "talis-bs.com"
+        },
+        "degrees": [],
+        "start_date": "2002-01",
+        "end_date": "2003",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "université sorbonne nouvelle",
+          "type": "post-secondary institution",
+          "id": "lxX0BhWdxrHtFa3weQBJRg_0000",
+          "location": {
+            "name": "paris, île-de-france, france",
+            "locality": "paris",
+            "region": "île-de-france",
+            "country": "france",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sorbonne-nouvelle",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "348873",
+          "website": "sorbonne-nouvelle.fr",
+          "domain": "sorbonne-nouvelle.fr"
+        },
+        "degrees": [],
+        "start_date": "1999-01",
+        "end_date": "2003-01",
+        "majors": [
+          "international commerce",
+          "marketing",
+          "modern languages"
+        ],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "47478541",
+        "url": "linkedin.com/in/danielaclape",
+        "username": "danielaclape"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/danielaclape",
+        "username": "danielaclape"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

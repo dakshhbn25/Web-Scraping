@@ -2,7 +2,7 @@ import re
 
 import streamlit as st
 
-from utils.data import events, initials, load_speakers
+from utils.data import events, initials, load_agenda_speakers, load_speakers, unique_speakers
 
 PAGE_SIZE = 12
 TIER_COLOR = {"Rich": "green", "Good": "blue", "Moderate": "orange", "No LinkedIn data": "gray"}
@@ -16,7 +16,7 @@ def show_detail(record: dict):
         st.badge(initials(name), color=TIER_COLOR[record["tier"]])
     with col_head:
         st.markdown(f"### {name}")
-        st.caption(f"{record['event_name']} · {record.get('event_year', '')}")
+        st.caption(f"{', '.join(record.get('events') or [record['event_name']])} · {record.get('event_year', '')}")
 
     st.badge(record["tier"], color=TIER_COLOR[record["tier"]], icon=":material/verified:")
     sources = record.get("enrichment_sources") or {}
@@ -45,6 +45,15 @@ def show_detail(record: dict):
         if loc:
             st.markdown("**Location**")
             st.write(loc)
+
+        # Agenda speakers (people who are only in the agenda, not on the speakers pages): show what they speak in
+        if record.get("agenda_sessions"):
+            st.markdown(f"**Agenda sessions** ({len(record['agenda_sessions'])})")
+            for s in record["agenda_sessions"]:
+                st.markdown(f"- {s['title']}  \n  {s['event_name']} · {s['day']} {s['start_time']} · {s['track']}")
+            if record.get("linkedin_url_source"):
+                conf = record.get("linkedin_url_confidence")
+                st.caption(f"LinkedIn link: {record['linkedin_url_source']}" + (f" ({conf})" if conf else ""))
 
         about = record.get("linkedin_about_en") or record.get("linkedin_about")
         if about:
@@ -181,10 +190,11 @@ def show_detail(record: dict):
 st.title("Speakers", icon=":material/groups:")
 
 speakers = load_speakers()
-all_events = events(speakers)
+agenda_speakers = load_agenda_speakers()
+all_events = sorted(set(events(speakers)) | {e for s in agenda_speakers for e in (s.get("events") or [s["event_name"]])})
 
 TIER_ORDER = ["Rich", "Good", "Moderate", "No LinkedIn data"]
-available_tiers = [t for t in TIER_ORDER if any(s["tier"] == t for s in speakers)]
+available_tiers = [t for t in TIER_ORDER if any(s["tier"] == t for s in speakers + agenda_speakers)]
 
 with st.sidebar:
     st.subheader("Filters")
@@ -196,49 +206,71 @@ with st.sidebar:
         default=available_tiers,
     )
 
-search = st.text_input(
-    "Search speakers",
-    placeholder="Search by name, company, or title...",
-    icon=":material/search:",
-)
 
-filtered = speakers
-if selected_event != "All events":
-    filtered = [s for s in filtered if s["event_name"] == selected_event]
-filtered = [s for s in filtered if s["tier"] in (tier_filter or [])]
-if search:
-    q = search.lower()
-    filtered = [
-        s
-        for s in filtered
-        if q in s["speaker_name"].lower()
-        or q in (s.get("designation") or "").lower()
-        or q in (s.get("company") or "").lower()
-    ]
+def apply_filters(records: list[dict], search: str) -> list[dict]:
+    out = records
+    if selected_event != "All events":
+        out = [s for s in out if selected_event in (s.get("events") or [s["event_name"]])]
+    out = [s for s in out if s["tier"] in (tier_filter or [])]
+    if search:
+        q = search.lower()
+        out = [
+            s
+            for s in out
+            if q in s["speaker_name"].lower()
+            or q in (s.get("designation") or "").lower()
+            or q in (s.get("company") or "").lower()
+        ]
+    return out
 
-st.caption(f"Showing {len(filtered)} of {len(speakers)} speaker appearances")
 
-if not filtered:
-    st.info("No speakers match the current filters.")
-else:
-    num_pages = max(1, (len(filtered) + PAGE_SIZE - 1) // PAGE_SIZE)
+def render_cards(records: list[dict], page_key: str, noun: str):
+    st.caption(f"Showing {len(records)} of {noun}")
+    if not records:
+        st.info("No speakers match the current filters.")
+        return
+    num_pages = max(1, (len(records) + PAGE_SIZE - 1) // PAGE_SIZE)
     with st.container(horizontal_alignment="right"):
-        current_page = st.pagination(num_pages, key="speakers_page") if num_pages > 1 else 1
+        current_page = st.pagination(num_pages, key=page_key) if num_pages > 1 else 1
 
     start = (current_page - 1) * PAGE_SIZE
-    page_items = filtered[start : start + PAGE_SIZE]
-
-    for record in page_items:
+    for record in records[start : start + PAGE_SIZE]:
         with st.container(border=True):
             col_avatar, col_body, col_action = st.columns([1, 5, 2], vertical_alignment="center")
             with col_avatar:
                 st.badge(initials(record["speaker_name"]), color=TIER_COLOR[record["tier"]])
             with col_body:
                 st.markdown(f"**{record['speaker_name']}**")
-                st.caption(f"{record['event_name']} · {record.get('designation') or 'Speaker'}"
+                where = ", ".join(record.get("events") or [record["event_name"]])
+                st.caption(f"{where} · {record.get('designation') or 'Speaker'}"
                            + (f" at {record['company']}" if record.get("company") else ""))
             with col_action:
                 with st.container(horizontal=True, horizontal_alignment="right"):
                     st.badge(record["tier"], color=TIER_COLOR[record["tier"]])
                     if st.button("View details", key=f"view_{record['record_id']}", icon=":material/visibility:"):
                         show_detail(record)
+
+
+tab_list, tab_agenda = st.tabs([f"Speakers list ({len(unique_speakers(speakers))} people)", f"Agenda speakers ({len(agenda_speakers)} people)"])
+
+with tab_list:
+    search = st.text_input(
+        "Search speakers",
+        placeholder="Search by name, company, or title...",
+        icon=":material/search:",
+        key="search_speakers",
+    )
+    render_cards(apply_filters(speakers, search), "speakers_page", f"{len(speakers)} speaker appearances")
+
+with tab_agenda:
+    st.caption(
+        "People who speak in the agenda sessions but are not on the speakers pages. Anyone already in the speakers list is "
+        "matched to it and not repeated here, so each person appears once across both tabs."
+    )
+    search_agenda = st.text_input(
+        "Search agenda speakers",
+        placeholder="Search by name, company, or title...",
+        icon=":material/search:",
+        key="search_agenda_speakers",
+    )
+    render_cards(apply_filters(agenda_speakers, search_agenda), "agenda_speakers_page", f"{len(agenda_speakers)} agenda speakers")

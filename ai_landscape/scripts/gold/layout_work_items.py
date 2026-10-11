@@ -85,5 +85,8 @@ for n, it in enumerate(items):
     })
 OUT.parent.mkdir(parents=True, exist_ok=True)
 df = pd.DataFrame(rows)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sales_cards  # noqa: E402  (card fields: gold records written out, account signals, Phamax customer comparison)
+df = sales_cards.build(df, items)
 df.to_parquet(OUT, index=False)
 print(f"wrote {len(df)} rows to {OUT}; {int((df.tag_check == 'review').sum())} flagged for review")

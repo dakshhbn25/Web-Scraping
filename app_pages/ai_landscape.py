@@ -1,10 +1,12 @@
+import json
 from pathlib import Path
 
 import streamlit as st
 
 from utils.data import load_ai_landscape
 
-MAP_FILE = Path(__file__).resolve().parent.parent / "static" / "ai_landscape" / "index.html"
+CUSTOMERS_FILE = Path(__file__).resolve().parent.parent / "ai_landscape" / "data" / "silver" / "phamax_customers.json"
+MAP_FILE =Path(__file__).resolve().parent.parent / "static" / "ai_landscape" / "index.html"
 MAP_URL = "/app/static/ai_landscape/index.html"
 
 st.title("AI landscape", icon=":material/hub:")
@@ -42,9 +44,21 @@ st.caption(
     "Each dot is one AI work item, coloured by concept, so companies working on the same concept sit together. "
     "Hover a dot for the details, drag to select, and use the charts on the right to filter."
 )
+st.caption(
+    "Each card also carries sales fields built from the gold data: Phamax relationship, account priority (with the rule behind it), "
+    "event footprint, key contacts with LinkedIn, sponsor profile, and which Phamax customers work on the same AI concepts."
+)
 if MAP_FILE.exists():
     with st.container(border=True):
         st.iframe(MAP_URL, height=920)
+    customers = json.loads(CUSTOMERS_FILE.read_text(encoding="utf-8")) if CUSTOMERS_FILE.exists() else None
+    if customers:
+        absent = [c["name"] for c in customers["customers"] if not c["dataset_company"]]
+        st.caption(
+            f"Phamax customers named publicly ({len(customers['customers'])}): {len(customers['customers']) - len(absent)} appear in these events. "
+            f"Not seen at any of them: {', '.join(absent)}. Source: phamax.ch and ariya.ai, checked {customers['checked']}. "
+            "A company missing from that list may still be a customer."
+        )
 else:
     st.warning(
         "The map files are missing from static/ai_landscape. Rebuild them with ai_landscape/scripts/gold/export_atlas.py.",

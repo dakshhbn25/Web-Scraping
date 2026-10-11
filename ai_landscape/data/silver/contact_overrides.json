@@ -1,0 +1,102 @@
+{
+  "note": "LinkedIn links for people who appear in the gold agenda data but not in the speakers data, so the scrape has no profile for them. Applied on the map cards by sales_cards.py. 'confidence' is how sure the match is: high = name and company or role confirmed on the profile page text; check = name matches but the role or the link itself was only partly confirmed. 'update' is shown on the card when the profile shows the person has moved.",
+  "added": "2026-10-11",
+  "contacts": {
+    "Michelle Bridenbaker": {
+      "linkedin_url": "https://www.linkedin.com/in/michelle-bridenbaker/",
+      "confidence": "confirmed on the profile page",
+      "update": "Profile (checked 2026-10-11): Recordati for 3 years; Global Head of Medical Excellence & Communications since Dec 2025, before that Corporate Head of Medical Information (Nov 2023 to Dec 2025, Basel). Also COO of Unbiased Science and Vice President of Medical Information Leaders in Europe"
+    },
+    "Joaquim Fonseca": {
+      "linkedin_url": "https://ch.linkedin.com/in/joaquim-fonseca",
+      "confidence": "high"
+    },
+    "Mara van Dorst": {
+      "linkedin_url": "https://be.linkedin.com/in/maravandorst",
+      "confidence": "high",
+      "update": "Since Jun 2026 also Program Lead Clinical Development Transformation at UCB"
+    },
+    "Yazan Iwidat": {
+      "linkedin_url": "https://www.linkedin.com/in/yazaniwidat",
+      "confidence": "confirmed on the profile page and experience list",
+      "update": "Profile (checked 2026-10-11): MSD for 3 yrs 9 mos in the Brussels area, so Merck & Co. is settled (Merck is its US name). Associate Director, Enterprise Content Architecture & Intelligent Content (Jan to Oct 2026); since Oct 2026 Content Creation & Storage Director at Merck, covering the platforms, standards and AI capabilities behind content creation for global and US omnichannel engagement. Headline: AI-Ready Content Supply Chains in Pharma"
+    },
+    "Valerie Storms": {
+      "linkedin_url": "https://be.linkedin.com/in/valerie-storms",
+      "confidence": "high"
+    },
+    "Thomas Lanz": {
+      "linkedin_url": "https://de.linkedin.com/in/thomas-lanz-847aa5106",
+      "confidence": "high"
+    },
+    "Davina L.": {
+      "linkedin_url": "https://uk.linkedin.com/in/davina-lau",
+      "confidence": "check",
+      "update": "Surname looks like Lau; the title matches a podcast listing her as Therapy Area Lead Oncology at Astellas"
+    },
+    "Andressa van der Laan": {
+      "linkedin_url": "https://ch.linkedin.com/in/andressavdl",
+      "confidence": "high"
+    },
+    "Maja Beilmann-Schramm": {
+      "linkedin_url": "https://de.linkedin.com/in/maja-beilmann-schramm-msl-excellence",
+      "confidence": "confirmed on the profile page",
+      "update": "Profile (checked 2026-10-11): now runs msl-excellence, an MSL coaching, training and consulting business in the German-speaking market (Cologne Bonn). Not a pharma employee any more, so a partner or influencer rather than a client contact"
+    },
+    "Philippe Vyt": {
+      "linkedin_url": "https://be.linkedin.com/in/philip-vyt-83b36120",
+      "confidence": "high"
+    },
+    "Georgie Tilley": {
+      "linkedin_url": "https://uk.linkedin.com/in/georgina-tilley-phd-39802251",
+      "confidence": "confirmed on the profile page",
+      "update": "Profile (checked 2026-10-11) shows LEO Pharma as current employer; she spoke at the event as Sorcero's Medical Solutions Lead. Director, Global Medical Strategy and Execution at LEO Pharma since Apr 2026",
+      "moved_to": "LEO Pharma",
+      "new_title": "Director, Global Medical Strategy and Execution (spoke at the event for Sorcero)"
+    },
+    "Victoria Ho": {
+      "linkedin_url": "https://uk.linkedin.com/in/vic-ho-medical-excellence",
+      "confidence": "confirmed on the profile page",
+      "update": "Profile (checked 2026-10-11) shows Ipsen as current employer (plus International Coach Academy); she spoke at the event as Sorcero's VP Medical Strategy and Solutions. Global Head of Field Medical (MSLs) at Ipsen since May 2026",
+      "moved_to": "Ipsen",
+      "new_title": "Global Head of Field Medical, MSLs (spoke at the event for Sorcero)"
+    },
+    "Hannah Tivey": {
+      "linkedin_url": "https://uk.linkedin.com/in/hannah-tivey-71b36a30",
+      "confidence": "high"
+    },
+    "Vernon Bainton": {
+      "linkedin_url": "https://uk.linkedin.com/in/vernon-bainton-9071a817",
+      "confidence": "high"
+    },
+    "Helen Kane": {
+      "linkedin_url": "https://uk.linkedin.com/in/helen-kane-15b4548",
+      "confidence": "high"
+    },
+    "Amy FitzPatrick": {
+      "linkedin_url": "https://nl.linkedin.com/in/amyfitzp",
+      "confidence": "high"
+    },
+    "Daniela Clape": {
+      "linkedin_url": "https://es.linkedin.com/in/danielaclape/es",
+      "confidence": "high"
+    },
+    "Dario Safaric": {
+      "linkedin_url": "https://hr.linkedin.com/in/dariosafaric",
+      "confidence": "high"
+    },
+    "Lode Dewulf": {
+      "linkedin_url": "https://be.linkedin.com/in/lodedewulf",
+      "confidence": "high"
+    },
+    "Olivier Valcke": {
+      "linkedin_url": "https://fr.linkedin.com/in/olivier-valcke-58450030",
+      "confidence": "high"
+    },
+    "Julia Azfar": {
+      "linkedin_url": "https://www.linkedin.com/in/julia-azfar",
+      "confidence": "check",
+      "update": "Same person on several sources (Brain Station SVP Sales & Marketing, Duesseldorf). The profile text we could extract is an older view (headline VP Product Management - Tolling, same city), so treat the profile data as dated."
+    }
+  }
+}

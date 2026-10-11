@@ -1,0 +1,98 @@
+{
+ "checked": "2026-10-11",
+ "note": "Only customers named publicly on the two sites. phamax.ch also says '50+ customers', so a company that is not listed here may still be a customer.",
+ "customers": [
+  {
+   "name": "Teva",
+   "dataset_company": "Teva",
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "Tillotts Pharma",
+   "dataset_company": "Tillotts Pharma",
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "Angelini Pharma",
+   "dataset_company": "Angelini Pharma",
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "Bavarian Nordic",
+   "dataset_company": null,
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "CSL Vifor",
+   "dataset_company": "CSL",
+   "listed_on": [
+    "phamax.ch"
+   ],
+   "note": "Listed as CSL Vifor; the gold data names this company's speakers as CSL Vifor / csl.com"
+  },
+  {
+   "name": "Recordati",
+   "dataset_company": "Recordati",
+   "listed_on": [
+    "phamax.ch",
+    "ariya.ai"
+   ]
+  },
+  {
+   "name": "Galderma",
+   "dataset_company": null,
+   "listed_on": [
+    "phamax.ch",
+    "ariya.ai"
+   ]
+  },
+  {
+   "name": "Takeda",
+   "dataset_company": "Takeda",
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "KalVista",
+   "dataset_company": null,
+   "listed_on": [
+    "phamax.ch",
+    "ariya.ai"
+   ]
+  },
+  {
+   "name": "Pfizer",
+   "dataset_company": "Pfizer",
+   "listed_on": [
+    "phamax.ch"
+   ]
+  },
+  {
+   "name": "Phathom Pharmaceuticals",
+   "dataset_company": null,
+   "listed_on": [
+    "ariya.ai"
+   ]
+  },
+  {
+   "name": "Arcera",
+   "dataset_company": null,
+   "listed_on": [
+    "ariya.ai"
+   ]
+  }
+ ],
+ "sources": {
+  "phamax.ch": "https://www.phamax.ch/",
+  "ariya.ai": "https://www.ariya.ai/"
+ }
+}

@@ -1,0 +1,759 @@
+{
+  "record_id": "agenda-speaker-medical-021",
+  "speaker_name": "Vernon Bainton",
+  "event_name": "Medical",
+  "linkedin_url": "https://uk.linkedin.com/in/vernon-bainton-9071a817",
+  "scraped_at": "2026-10-11T13:03:34.576124+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "7DyAbPEuaWIdaKzsZed4JA_0000",
+    "full_name": "vernon bainton",
+    "first_name": "vernon",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "b",
+    "last_name": "bainton",
+    "sex": "male",
+    "birth_year": false,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/vernon-bainton-9071a817",
+    "linkedin_username": "vernon-bainton-9071a817",
+    "linkedin_id": "57205015",
+    "facebook_url": "facebook.com/vernon.bainton",
+    "facebook_username": "vernon.bainton",
+    "facebook_id": "100014113965887",
+    "twitter_url": "twitter.com/v_bainton",
+    "twitter_username": "v_bainton",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": true,
+    "recommended_personal_email": true,
+    "mobile_phone": true,
+    "industry": "marketing and advertising",
+    "job_title": "chief medical officer",
+    "job_title_role": "health",
+    "job_title_sub_role": null,
+    "job_title_class": "services",
+    "job_title_levels": [
+      "cxo"
+    ],
+    "job_company_id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+    "job_company_name": "havas lynx",
+    "job_company_website": "havaslynx.com",
+    "job_company_size": "1001-5000",
+    "job_company_founded": 1986,
+    "job_company_industry": "marketing and advertising",
+    "job_company_industry_v2": "advertising services",
+    "job_company_linkedin_url": "linkedin.com/company/havas-lynx",
+    "job_company_linkedin_id": "141380",
+    "job_company_facebook_url": "facebook.com/havaslynxgroup",
+    "job_company_twitter_url": "twitter.com/havaslynxeu",
+    "job_company_location_name": "manchester, england, united kingdom",
+    "job_company_location_locality": "manchester",
+    "job_company_location_metro": null,
+    "job_company_location_region": "england",
+    "job_company_location_geo": "53.51,-2.27",
+    "job_company_location_street_address": "52 princess street",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "m1 6jx",
+    "job_company_location_country": "united kingdom",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2018-10-11",
+    "job_last_verified": "2026-07-27",
+    "job_start_date": "2017-01",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "united kingdom",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-02-16",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "biosimilars",
+      "cardiovascular disease",
+      "clinical research",
+      "clinical trials",
+      "diabetes",
+      "digital marketing",
+      "endocrinology",
+      "gastroenterology",
+      "healthcare",
+      "hematology",
+      "hospitals",
+      "immunology",
+      "infectious diseases",
+      "market access",
+      "marketing",
+      "marketing communications",
+      "marketing strategy",
+      "medical communications",
+      "medical devices",
+      "medical education",
+      "medical writing",
+      "medicine",
+      "mental health",
+      "nephrology",
+      "neurology",
+      "oncology",
+      "pain management",
+      "pharmaceutical industry",
+      "product launch",
+      "pulmonology",
+      "rheumatology",
+      "therapeutic areas"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "united kingdom"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [
+          "manchester, england, united kingdom"
+        ],
+        "end_date": null,
+        "start_date": "2017-01",
+        "title": {
+          "name": "chief medical officer",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "cxo"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "havas lynx",
+          "size": "1001-5000",
+          "id": "MNvtDKhUXanS7uglf2DC8QYTqPQQ",
+          "founded": 1986,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "manchester, england, united kingdom",
+            "locality": "manchester",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "52 princess street",
+            "address_line_2": null,
+            "postal_code": "m1 6jx",
+            "geo": "53.51,-2.27"
+          },
+          "linkedin_url": "linkedin.com/company/havas-lynx",
+          "linkedin_id": "141380",
+          "facebook_url": "facebook.com/havaslynxgroup",
+          "twitter_url": "twitter.com/havaslynxeu",
+          "website": "havaslynx.com"
+        },
+        "location_names": [],
+        "end_date": "2017-01",
+        "start_date": "2014-11",
+        "title": {
+          "name": "medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "digitas uk",
+          "size": "501-1000",
+          "id": "0Bk5jHl8Yfl79jhPxBmnwwdrOcEm",
+          "founded": 2006,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "metro": null,
+            "country": "united kingdom",
+            "continent": "europe",
+            "street_address": "40 chancery lane",
+            "address_line_2": "level 3",
+            "postal_code": "wc2a 1ja",
+            "geo": "51.51,-0.18"
+          },
+          "linkedin_url": "linkedin.com/company/digitas-uk",
+          "linkedin_id": "3807",
+          "facebook_url": "facebook.com/digitas.uk",
+          "twitter_url": null,
+          "website": "digitas.co.uk"
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-10",
+        "start_date": "2014-02",
+        "title": {
+          "name": "client partner",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "havas creative network",
+          "size": "10001+",
+          "id": "eXgKLif9VjMkOK1NDICagADlJBVV",
+          "founded": 1835,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "200 hudson street",
+            "address_line_2": null,
+            "postal_code": "10013",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/havas_creative_network",
+          "linkedin_id": "2500",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [
+          "london, england, united kingdom"
+        ],
+        "end_date": "2014-01",
+        "start_date": "2012-02",
+        "title": {
+          "name": "vice president, medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director",
+            "vp"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sudler & hennessey",
+          "size": "501-1000",
+          "id": "km16xn0HfABkxA28OaJ4NwcUc4Hg",
+          "founded": 1935,
+          "industry": "marketing and advertising",
+          "industry_v2": "advertising services",
+          "location": {
+            "name": "new york, new york, united states",
+            "locality": "new york",
+            "region": "new york",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "230 park avenue south",
+            "address_line_2": null,
+            "postal_code": "10003",
+            "geo": "40.71,-73.99"
+          },
+          "linkedin_url": "linkedin.com/company/sudler-&-hennessey",
+          "linkedin_id": "9048",
+          "facebook_url": "facebook.com/sudlerny",
+          "twitter_url": "twitter.com/sudlerdigital",
+          "website": "sudler.com"
+        },
+        "location_names": [],
+        "end_date": "2012-02",
+        "start_date": "2009-06",
+        "title": {
+          "name": "medical director",
+          "class": "services",
+          "role": "health",
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "sudler & henessey",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2009-06",
+        "start_date": "2009-01",
+        "title": {
+          "name": "group account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "transart - the business software company",
+          "size": "51-200",
+          "id": "vEC56PrnRGuXjSmYlGEnswncgvhG",
+          "founded": 1997,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "cluj-napoca, cluj, romania",
+            "locality": "cluj-napoca",
+            "region": "cluj",
+            "metro": null,
+            "country": "romania",
+            "continent": "europe",
+            "street_address": "no. 241c calea turzii",
+            "address_line_2": null,
+            "postal_code": "400495",
+            "geo": "46.76,23.59"
+          },
+          "linkedin_url": "linkedin.com/company/transart",
+          "linkedin_id": "47953",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/noumax_roo",
+          "website": "transart.ro"
+        },
+        "location_names": [],
+        "end_date": "2009-01",
+        "start_date": "2008-01",
+        "title": {
+          "name": "account director",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "transart - the business software company",
+          "size": "51-200",
+          "id": "vEC56PrnRGuXjSmYlGEnswncgvhG",
+          "founded": 1997,
+          "industry": "computer software",
+          "industry_v2": "software development",
+          "location": {
+            "name": "cluj-napoca, cluj, romania",
+            "locality": "cluj-napoca",
+            "region": "cluj",
+            "metro": null,
+            "country": "romania",
+            "continent": "europe",
+            "street_address": "no. 241c calea turzii",
+            "address_line_2": null,
+            "postal_code": "400495",
+            "geo": "46.76,23.59"
+          },
+          "linkedin_url": "linkedin.com/company/transart",
+          "linkedin_id": "47953",
+          "facebook_url": null,
+          "twitter_url": "twitter.com/noumax_roo",
+          "website": "transart.ro"
+        },
+        "location_names": [],
+        "end_date": "2008-01",
+        "start_date": "2006-11",
+        "title": {
+          "name": "account manager",
+          "class": "services",
+          "role": "support",
+          "sub_role": "account_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ogilvy 4d",
+          "size": "1-10",
+          "id": "DezbvZnmxvgYXu2R0NB4agp6Q5Xn",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": "linkedin.com/company/ogilvy-4d",
+          "linkedin_id": "1315135",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "ouraset.com"
+        },
+        "location_names": [],
+        "end_date": "2006-10",
+        "start_date": "2005-04",
+        "title": {
+          "name": "senior account executive",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": [
+            "senior"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bristol myers squibb",
+          "size": "10001+",
+          "id": "RZ2v936mWC5ZMgdxZDTBIAu7xMhn",
+          "founded": 1887,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "lawrence township, new jersey, united states",
+            "locality": "lawrence township",
+            "region": "new jersey",
+            "metro": "trenton, new jersey",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "3401 princeton pike",
+            "address_line_2": null,
+            "postal_code": "08648",
+            "geo": "40.24,-74.72"
+          },
+          "linkedin_url": "linkedin.com/company/bristol-myers-squibb",
+          "linkedin_id": "1773",
+          "facebook_url": "facebook.com/bristolmyerssquibb",
+          "twitter_url": "twitter.com/bmsnews",
+          "website": "bms.com"
+        },
+        "location_names": [],
+        "end_date": "2004-11",
+        "start_date": "2003-11",
+        "title": {
+          "name": "contract medical affairs / key account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "the janssen pharmaceutical companies of johnson & johnson",
+          "size": "10001+",
+          "id": "5xpAzwXz1SLLY0O25K4VmQ5ZDNjS",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "raritan, new jersey, united states",
+            "locality": "raritan",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1000 u.south highway 202",
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": "40.53,-74.74"
+          },
+          "linkedin_url": "linkedin.com/company/janssen-pharmaceutical-companies-of-johnson-and-johnson",
+          "linkedin_id": "1204",
+          "facebook_url": "facebook.com/janssen-global-103430591396536",
+          "twitter_url": null,
+          "website": "janssenpharmaceuticalsinc.com"
+        },
+        "location_names": [],
+        "end_date": "2003-07",
+        "start_date": "2003-01",
+        "title": {
+          "name": "contract medical affairs / key account manager",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs nottingham queens medical centre acute hospital trust",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2002-08",
+        "start_date": "2000-08",
+        "title": {
+          "name": "sho anaesthetics",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs birmingham queen elizabeth and selly oak acute hospital trusts",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "2000-08",
+        "start_date": "1999-08",
+        "title": {
+          "name": "sho general medicine",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "nhs birmingham queen elizabeth and hereford general hospital acute trusts",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": "1999-08",
+        "start_date": "1998-08",
+        "title": {
+          "name": "ho general medicine and surgery",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "the london school of economics and political science (lse)",
+          "type": "post-secondary institution",
+          "id": "1Va1le70dmAVO47d67wrEg_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-school-of-economics",
+          "facebook_url": "facebook.com/lseps",
+          "twitter_url": "twitter.com/lsenews",
+          "linkedin_id": "6544",
+          "website": "lse.ac.uk",
+          "domain": "lse.ac.uk"
+        },
+        "degrees": [
+          "master of science",
+          "masters"
+        ],
+        "start_date": "2018-01",
+        "end_date": "2021",
+        "majors": [
+          "economics",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of birmingham",
+          "type": "post-secondary institution",
+          "id": "IZkjZ9CUVreuf8fXyZLCmQ_0000",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-birmingham",
+          "facebook_url": "facebook.com/unibirmingham",
+          "twitter_url": "twitter.com/unibirmingham",
+          "linkedin_id": "166627",
+          "website": "birmingham.ac.uk",
+          "domain": "birmingham.ac.uk"
+        },
+        "degrees": [
+          "bachelor of medicine",
+          "bachelors"
+        ],
+        "start_date": "1992-10",
+        "end_date": "1998",
+        "majors": [
+          "medicine",
+          "pharmacology"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "university of birmingham",
+          "type": "post-secondary institution",
+          "id": "IZkjZ9CUVreuf8fXyZLCmQ_0000",
+          "location": {
+            "name": "birmingham, england, united kingdom",
+            "locality": "birmingham",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/university-of-birmingham",
+          "facebook_url": "facebook.com/unibirmingham",
+          "twitter_url": "twitter.com/unibirmingham",
+          "linkedin_id": "166627",
+          "website": "birmingham.ac.uk",
+          "domain": "birmingham.ac.uk"
+        },
+        "degrees": [
+          "bachelors",
+          "bachelor of medicine"
+        ],
+        "start_date": "1992-10",
+        "end_date": "1998-08",
+        "majors": [
+          "medicine"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "campion high school",
+          "type": "secondary school",
+          "id": null,
+          "location": null,
+          "linkedin_url": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": null,
+          "website": null,
+          "domain": null
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "57205015",
+        "url": "linkedin.com/in/vernon-bainton-9071a817",
+        "username": "vernon-bainton-9071a817"
+      },
+      {
+        "network": "facebook",
+        "id": "100014113965887",
+        "url": "facebook.com/vernon.bainton",
+        "username": "vernon.bainton"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/v_bainton",
+        "username": "v_bainton"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

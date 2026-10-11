@@ -1,0 +1,178 @@
+{
+  "record_id": "agenda-speaker-medical-022",
+  "speaker_name": "Victoria Ho",
+  "linkedin_url": "https://uk.linkedin.com/in/vic-ho-medical-excellence",
+  "likelihood": 9,
+  "full_name": "victoria ho",
+  "job_title": "global head of field medical (msls)",
+  "industry": "pharmaceuticals",
+  "current_company": "ipsen",
+  "current_company_website": "ipsen.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "active listening",
+    "artificial intelligence",
+    "behavioral neuroscience",
+    "biopharmaceuticals",
+    "capability development",
+    "certified professional coach",
+    "coaching",
+    "coaching ethics",
+    "coaching presence",
+    "communication training",
+    "cross functional team leadership",
+    "customer service",
+    "education strategy",
+    "english",
+    "gxp",
+    "ica coach",
+    "impact evaluation",
+    "key opinion leaders",
+    "leadership",
+    "management",
+    "medical communications",
+    "medical directors",
+    "medical excellence",
+    "metric development",
+    "onboarding",
+    "patient centric strategic focus",
+    "people development",
+    "pharmaceutical industry",
+    "powerful questions",
+    "presentations",
+    "product launch",
+    "project management",
+    "relationship building",
+    "requirements management",
+    "scientific communications",
+    "scientific presentation",
+    "strategic planning",
+    "strategy",
+    "strategy alignment",
+    "subject matter experts",
+    "technical training",
+    "technology change management",
+    "training and development"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "global head of field medical (msls)",
+      "company": "ipsen",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-05",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president, medical strategy and solutions",
+      "company": "sorcero",
+      "company_industry": "computer software",
+      "start_date": "2025-11",
+      "end_date": "2026-05",
+      "is_primary": false
+    },
+    {
+      "title": "medical excellence consultant",
+      "company": "paramita project services",
+      "company_industry": "management consulting",
+      "start_date": "2023-01",
+      "end_date": "2025-11",
+      "is_primary": false
+    },
+    {
+      "title": "head of medical capabilities and excellence- eu / row",
+      "company": "jazz pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-05",
+      "end_date": "2022-12",
+      "is_primary": false
+    },
+    {
+      "title": "director of msl excellence, eu / row",
+      "company": "jazz pharmaceuticals",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-09",
+      "end_date": "2020-05",
+      "is_primary": false
+    },
+    {
+      "title": "worldwide field medical and communications lead - cardiovascular",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2015-12",
+      "end_date": "2019-09",
+      "is_primary": false
+    },
+    {
+      "title": "msm (msl) manager",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2009-04",
+      "end_date": "2015-12",
+      "is_primary": false
+    },
+    {
+      "title": "regional / medical science manager",
+      "company": "bristol myers squibb",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2004-05",
+      "end_date": "2009-04",
+      "is_primary": false
+    },
+    {
+      "title": "marketing coordinator",
+      "company": "rts",
+      "company_industry": "industrial automation",
+      "start_date": "2001-09",
+      "end_date": "2004-05",
+      "is_primary": false
+    },
+    {
+      "title": "quality assurance officer",
+      "company": "medeval group limited",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2000-08",
+      "end_date": "2001-09",
+      "is_primary": false
+    },
+    {
+      "title": "neurobehavioural research scientist",
+      "company": "smithkline beecham corporation",
+      "company_industry": "pharmaceuticals",
+      "start_date": "1998-08",
+      "end_date": "1999-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "international coach academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2025",
+      "end_date": "2025-12"
+    },
+    {
+      "school": "cardiff university / prifysgol caerdydd",
+      "majors": [
+        "neuroscience"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "1996-01",
+      "end_date": "2000"
+    },
+    {
+      "school": "international coach academy",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": "2025-09"
+    }
+  ]
+}

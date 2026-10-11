@@ -1,0 +1,141 @@
+{
+  "record_id": "agenda-speaker-viennacx-000",
+  "speaker_name": "Julia Azfar",
+  "designation": "SVP Sales & Marketing",
+  "company": "Brain Station",
+  "event_name": "ViennaCX",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/julia-azfar",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "2576",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "computer hardware",
+  "linkedin_current_company": "brain station 23",
+  "linkedin_current_company_website": "brainstation-23.com",
+  "linkedin_skills": [
+    "business development",
+    "business strategy",
+    "business to business",
+    "internationaler vertrieb",
+    "logistik",
+    "marketing strategy",
+    "new business development",
+    "process improvement",
+    "program management",
+    "project management",
+    "projektmanagement",
+    "prozessverbesserung",
+    "sap",
+    "unternehmensstrategie",
+    "vertrieb"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "senior vice president sales & marketing",
+      "company": "brain station 23",
+      "company_industry": "computer software",
+      "start_date": "2024-12",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "vice president product management tolling",
+      "company": "kapsch trafficcom ag",
+      "company_industry": "information technology and services",
+      "start_date": "2022-08",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "principal product manager toll",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2020-07",
+      "end_date": "2022-08",
+      "is_primary": false
+    },
+    {
+      "title": "team manager product management toll central, east & eurasia",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2018",
+      "end_date": "2020-07",
+      "is_primary": false
+    },
+    {
+      "title": "team manager product management toll eastern europe at dkv euroservice",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2016-03",
+      "end_date": "2018-01",
+      "is_primary": false
+    },
+    {
+      "title": "product manager",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2008-08",
+      "end_date": "2016-02",
+      "is_primary": false
+    },
+    {
+      "title": "sales organisation (staff position)",
+      "company": "dkv mobility",
+      "company_industry": "logistics and supply chain",
+      "start_date": "2002",
+      "end_date": "2008",
+      "is_primary": false
+    },
+    {
+      "title": "consultant",
+      "company": "kmc klausmeier marketing consultants",
+      "company_industry": null,
+      "start_date": "1999-03",
+      "end_date": "2002-07",
+      "is_primary": false
+    },
+    {
+      "title": "graduate student",
+      "company": "kmc klausmeier marketing consultants",
+      "company_industry": null,
+      "start_date": "1998",
+      "end_date": "1999",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "johannes gutenberg university mainz",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-12"
+    },
+    {
+      "school": "johannes gutenberg university mainz",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2000-01"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

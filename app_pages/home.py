@@ -3,6 +3,7 @@ import streamlit as st
 from utils.data import (
     events,
     load_agenda,
+    load_agenda_speakers,
     load_speakers,
     load_sponsors,
     load_tickets,
@@ -12,12 +13,14 @@ from utils.data import (
 st.title("Overview", icon=":material/home:")
 
 speaker_appearances = load_speakers()
-speakers = unique_speakers(speaker_appearances)  # one row per person, not per event
+speakers_list = unique_speakers(speaker_appearances)  # one row per person, not per event
+agenda_only = load_agenda_speakers()  # in the agenda but not on the speakers pages (anyone already in the speakers list is not repeated)
+speakers = speakers_list + agenda_only  # every unique person once
 agenda = load_agenda()
 sponsors = load_sponsors()
 tickets = load_tickets()
 
-all_events = events(speaker_appearances)
+all_events = sorted(set(events(speaker_appearances)) | {e for s in agenda_only for e in (s.get("events") or [s["event_name"]])})
 st.caption(f"Gold-layer summary across {len(all_events)} NEXT Pharma events")
 
 with st.container(horizontal=True):
@@ -25,8 +28,10 @@ with st.container(horizontal=True):
     st.metric("Sessions", len(agenda), border=True)
     st.metric("Sponsors", len(sponsors), border=True)
     st.metric("Events", len(all_events), border=True)
-st.caption(f"{len(speaker_appearances)} speaker-event appearances across {len(all_events)} events "
-           f"({len(speaker_appearances) - len(speakers)} people spoke at more than one)")
+st.caption(f"{len(speakers)} unique people: {len(speakers_list)} from the speakers pages plus {len(agenda_only)} who only appear in the agenda "
+           f"(agenda speakers already on the speakers pages are matched to them, not counted twice). "
+           f"The speakers pages hold {len(speaker_appearances)} speaker-event appearances across {len(all_events)} events "
+           f"({len(speaker_appearances) - len(speakers_list)} people spoke at more than one).")
 
 st.subheader("Speaker data completeness")
 st.caption("From LinkedIn plus verified non-LinkedIn sources where LinkedIn fell short -- "
@@ -55,13 +60,15 @@ with st.container(border=True):
             st.markdown(f"### {count}")
 
 st.subheader("Dataset counts by event")
-st.caption("Speakers here counts appearances (an event's own headcount), while the totals above count unique people.")
+st.caption("Speakers counts appearances on the speakers pages (an event's own headcount) and agenda-only speakers counts the extra people "
+           "who only appear in that event's agenda; the totals above count unique people.")
 event_rows = []
 for event in all_events:
     event_rows.append(
         {
             "Event": event,
             "Speakers": sum(1 for s in speaker_appearances if s["event_name"] == event),
+            "Agenda-only speakers": sum(1 for s in agenda_only if event in (s.get("events") or [s["event_name"]])),
             "Sessions": sum(1 for a in agenda if a["event_name"] == event),
             "Sponsors": sum(1 for sp in sponsors if sp["event_name"] == event),
         }

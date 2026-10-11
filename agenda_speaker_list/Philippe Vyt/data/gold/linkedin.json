@@ -1,0 +1,307 @@
+{
+  "record_id": "agenda-speaker-medical-016",
+  "speaker_name": "Philippe Vyt",
+  "designation": "Founder",
+  "company": "Shyft",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://be.linkedin.com/in/philip-vyt-83b36120",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "7232",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": null,
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "management consulting",
+  "linkedin_current_company": "shyft",
+  "linkedin_current_company_website": "theshyftagency.com",
+  "linkedin_skills": [
+    "business innovation",
+    "business strategy",
+    "change management",
+    "coaching",
+    "consulting",
+    "digital marketing",
+    "entrepreneurship",
+    "innovation consulting",
+    "innovation management",
+    "keynote speaking",
+    "leadership",
+    "management",
+    "management consulting",
+    "marketing strategy",
+    "multi channel marketing",
+    "outsourcing",
+    "people management",
+    "pmo",
+    "program management",
+    "project management",
+    "project management office",
+    "project planning",
+    "public speaking",
+    "stakeholder management",
+    "strategic marketing management",
+    "strategic planning",
+    "strategy",
+    "team management",
+    "training"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "founder",
+      "company": "shyft",
+      "company_industry": "management consulting",
+      "start_date": "2024-06",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "senior director global omnichannel capabilities & digital innovation",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2020-10",
+      "end_date": "2021-04",
+      "is_primary": false
+    },
+    {
+      "title": "global lead omnichannel",
+      "company": "galapagos",
+      "company_industry": "biotechnology",
+      "start_date": "2019-09",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "global digital & multichannel lead",
+      "company": "abbvie",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-08",
+      "end_date": "2019-10",
+      "is_primary": false
+    },
+    {
+      "title": "driving innovation at talent aquisition europe & canada",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2018-01",
+      "end_date": "2018-08",
+      "is_primary": false
+    },
+    {
+      "title": "innovation strategist & delivery eucan",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-12",
+      "end_date": "2017-12",
+      "is_primary": false
+    },
+    {
+      "title": "leading digital transformation & program realization",
+      "company": "takeda",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-06",
+      "end_date": "2017-01",
+      "is_primary": false
+    },
+    {
+      "title": "head of strategic innovation - managing partner",
+      "company": "bundl",
+      "company_industry": "management consulting",
+      "start_date": "2014-06",
+      "end_date": "2016-06",
+      "is_primary": false
+    },
+    {
+      "title": "pmo, change & transformation manager",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-02",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "change and communication manager global logistics emea",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2013-04",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "project manager internal communication & change",
+      "company": "bnp paribas fortis",
+      "company_industry": "banking",
+      "start_date": "2012-11",
+      "end_date": "2013-05",
+      "is_primary": false
+    },
+    {
+      "title": "international speaker and guest lecturer",
+      "company": "philipvyt gcv",
+      "company_industry": null,
+      "start_date": "2012-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "innovation partner for strategic projects",
+      "company": "bundl",
+      "company_industry": "management consulting",
+      "start_date": "2011-10",
+      "end_date": "2014-10",
+      "is_primary": false
+    },
+    {
+      "title": "program lead management dynamics & member delta change program (for ormit)",
+      "company": "bnp paribas fortis",
+      "company_industry": "banking",
+      "start_date": "2011-08",
+      "end_date": "2012-11",
+      "is_primary": false
+    },
+    {
+      "title": "independent consultant omnichannel in pharma & biotech",
+      "company": null,
+      "company_industry": null,
+      "start_date": "2011-01",
+      "end_date": "2024-06",
+      "is_primary": false
+    },
+    {
+      "title": "project manager management dynamics",
+      "company": "bnp paribas fortis",
+      "company_industry": "banking",
+      "start_date": "2010-10",
+      "end_date": "2011-08",
+      "is_primary": false
+    },
+    {
+      "title": "consultant atm operating model and sla project manager",
+      "company": "bnp paribas fortis",
+      "company_industry": "banking",
+      "start_date": "2010-05",
+      "end_date": "2010-10",
+      "is_primary": false
+    },
+    {
+      "title": "project manager (management trainee)",
+      "company": "ormit talent belgium",
+      "company_industry": "management consulting",
+      "start_date": "2008-08",
+      "end_date": "2011-08",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "alliance university",
+      "majors": [
+        "management",
+        "marketing",
+        "project management"
+      ],
+      "degrees": [],
+      "start_date": "2021-09",
+      "end_date": "2021"
+    },
+    {
+      "school": "alliance university",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [],
+      "start_date": "2021-08",
+      "end_date": "2021-10"
+    },
+    {
+      "school": "london business school",
+      "majors": [],
+      "degrees": [],
+      "start_date": "2013-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "mit sloan school of management",
+      "majors": [
+        "education",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2012-01",
+      "end_date": "2012"
+    },
+    {
+      "school": "management development institute, gurgaon",
+      "majors": [
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2009-01",
+      "end_date": "2009"
+    },
+    {
+      "school": "management development institute, gurgaon",
+      "majors": [
+        "communication",
+        "entrepreneurship",
+        "leadership",
+        "management"
+      ],
+      "degrees": [],
+      "start_date": "2008-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "thomas more university of applied sciences",
+      "majors": [
+        "economics"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2004-01",
+      "end_date": "2007"
+    },
+    {
+      "school": "karel de grote - hogeschool",
+      "majors": [
+        "logistics"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2000-01",
+      "end_date": "2003"
+    },
+    {
+      "school": "ap hogeschool antwerpen",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "school": "sint - jozef - klein - seminarie",
+      "majors": [],
+      "degrees": [],
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

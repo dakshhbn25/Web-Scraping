@@ -1,0 +1,1108 @@
+{
+  "record_id": "agenda-speaker-medical-016",
+  "speaker_name": "Philippe Vyt",
+  "event_name": "Medical",
+  "linkedin_url": "https://be.linkedin.com/in/philip-vyt-83b36120",
+  "scraped_at": "2026-10-11T13:03:28.127088+00:00",
+  "likelihood": 9,
+  "raw": {
+    "id": "eKCMFis61MnFz6kFdxWXXQ_0000",
+    "full_name": "philip vyt",
+    "first_name": "philip",
+    "middle_initial": null,
+    "middle_name": null,
+    "last_initial": "v",
+    "last_name": "vyt",
+    "sex": "male",
+    "birth_year": true,
+    "birth_date": false,
+    "linkedin_url": "linkedin.com/in/philip-vyt-83b36120",
+    "linkedin_username": "philip-vyt-83b36120",
+    "linkedin_id": "72537455",
+    "facebook_url": "facebook.com/philipvyt",
+    "facebook_username": "philipvyt",
+    "facebook_id": "1030389131",
+    "twitter_url": "twitter.com/philipvyt",
+    "twitter_username": "philipvyt",
+    "github_url": null,
+    "github_username": null,
+    "work_email": true,
+    "personal_emails": false,
+    "recommended_personal_email": false,
+    "mobile_phone": true,
+    "industry": "management consulting",
+    "job_title": "founder",
+    "job_title_role": "operations",
+    "job_title_sub_role": "executive",
+    "job_title_class": "general_and_administrative",
+    "job_title_levels": [
+      "owner"
+    ],
+    "job_company_id": "l8fRBWsvwBxvEOnDdlAySQ4ozu8B",
+    "job_company_name": "shyft",
+    "job_company_website": "theshyftagency.com",
+    "job_company_size": "1-10",
+    "job_company_founded": null,
+    "job_company_industry": "management consulting",
+    "job_company_industry_v2": "business consulting and services",
+    "job_company_linkedin_url": "linkedin.com/company/theshyftagency",
+    "job_company_linkedin_id": "104485174",
+    "job_company_facebook_url": null,
+    "job_company_twitter_url": null,
+    "job_company_location_name": "melsele, flanders, belgium",
+    "job_company_location_locality": "melsele",
+    "job_company_location_metro": null,
+    "job_company_location_region": "flanders",
+    "job_company_location_geo": "51.22,4.28",
+    "job_company_location_street_address": "2 goubaudreef",
+    "job_company_location_address_line_2": null,
+    "job_company_location_postal_code": "9120",
+    "job_company_location_country": "belgium",
+    "job_company_location_continent": "europe",
+    "job_last_changed": "2024-10-10",
+    "job_last_verified": "2026-08-21",
+    "job_start_date": "2024-06",
+    "location_name": true,
+    "location_locality": true,
+    "location_metro": false,
+    "location_region": true,
+    "location_country": "belgium",
+    "location_continent": "europe",
+    "location_street_address": false,
+    "location_address_line_2": null,
+    "location_postal_code": false,
+    "location_geo": true,
+    "location_last_updated": "2026-08-21",
+    "phone_numbers": true,
+    "emails": true,
+    "interests": [],
+    "skills": [
+      "business innovation",
+      "business strategy",
+      "change management",
+      "coaching",
+      "consulting",
+      "digital marketing",
+      "entrepreneurship",
+      "innovation consulting",
+      "innovation management",
+      "keynote speaking",
+      "leadership",
+      "management",
+      "management consulting",
+      "marketing strategy",
+      "multi channel marketing",
+      "outsourcing",
+      "people management",
+      "pmo",
+      "program management",
+      "project management",
+      "project management office",
+      "project planning",
+      "public speaking",
+      "stakeholder management",
+      "strategic marketing management",
+      "strategic planning",
+      "strategy",
+      "team management",
+      "training"
+    ],
+    "location_names": true,
+    "regions": true,
+    "countries": [
+      "belgium"
+    ],
+    "street_addresses": false,
+    "experience": [
+      {
+        "company": {
+          "name": "shyft",
+          "size": "1-10",
+          "id": "l8fRBWsvwBxvEOnDdlAySQ4ozu8B",
+          "founded": null,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "melsele, flanders, belgium",
+            "locality": "melsele",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "2 goubaudreef",
+            "address_line_2": null,
+            "postal_code": "9120",
+            "geo": "51.22,4.28"
+          },
+          "linkedin_url": "linkedin.com/company/theshyftagency",
+          "linkedin_id": "104485174",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "theshyftagency.com"
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2024-06",
+        "title": {
+          "name": "founder",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "executive",
+          "levels": [
+            "owner"
+          ]
+        },
+        "is_primary": true
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [
+          "mechelen, flanders, belgium"
+        ],
+        "end_date": "2021-04",
+        "start_date": "2020-10",
+        "title": {
+          "name": "senior director global omnichannel capabilities & digital innovation",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": [
+            "senior",
+            "director"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "galapagos",
+          "size": "501-1000",
+          "id": "bS401ohuIqsSERMcaBHBiwfm9pHs",
+          "founded": 1999,
+          "industry": "biotechnology",
+          "industry_v2": "biotechnology research",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "l11 a3 generaal de wittelaan",
+            "address_line_2": null,
+            "postal_code": "2800",
+            "geo": "51.02,4.47"
+          },
+          "linkedin_url": "linkedin.com/company/glpg",
+          "linkedin_id": "162714",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "glpg.com"
+        },
+        "location_names": [],
+        "end_date": "2020-10",
+        "start_date": "2019-09",
+        "title": {
+          "name": "global lead omnichannel",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "abbvie",
+          "size": "10001+",
+          "id": "WhF2dolCB1xuFw6yRPWPjQYWgH8t",
+          "founded": 2013,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "north chicago, illinois, united states",
+            "locality": "north chicago",
+            "region": "illinois",
+            "metro": "chicago, illinois",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "1 waukegan road",
+            "address_line_2": null,
+            "postal_code": "60064",
+            "geo": "42.32,-87.84"
+          },
+          "linkedin_url": "linkedin.com/company/abbvie",
+          "linkedin_id": "1304385",
+          "facebook_url": "facebook.com/abbviecareers",
+          "twitter_url": "twitter.com/abbvie",
+          "website": "abbvie.com"
+        },
+        "location_names": [
+          "paris, île-de-france, france"
+        ],
+        "end_date": "2019-10",
+        "start_date": "2018-08",
+        "title": {
+          "name": "global digital & multichannel lead",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [],
+        "end_date": "2018-08",
+        "start_date": "2018-01",
+        "title": {
+          "name": "driving innovation at talent aquisition europe & canada",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "zürich, zurich, switzerland"
+        ],
+        "end_date": "2017-12",
+        "start_date": "2016-12",
+        "title": {
+          "name": "innovation strategist & delivery eucan",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "strategy",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "takeda",
+          "size": "10001+",
+          "id": "t8os7wVvkOJMZQIx7X34CQBOZ0S6",
+          "founded": 1781,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "tokyo, japan",
+            "locality": null,
+            "region": "tokyo",
+            "metro": null,
+            "country": "japan",
+            "continent": "asia",
+            "street_address": null,
+            "address_line_2": null,
+            "postal_code": null,
+            "geo": null
+          },
+          "linkedin_url": "linkedin.com/company/takeda-pharmaceuticals",
+          "linkedin_id": "5482",
+          "facebook_url": "facebook.com/takedapharma",
+          "twitter_url": null,
+          "website": "takeda.com"
+        },
+        "location_names": [
+          "toronto, ontario, canada"
+        ],
+        "end_date": "2017-01",
+        "start_date": "2016-06",
+        "title": {
+          "name": "leading digital transformation & program realization",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bundl",
+          "size": "51-200",
+          "id": "Du68QVIweQdlapkIRkscsQb7F5nq",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "11 scheldestraat",
+            "address_line_2": null,
+            "postal_code": "2000",
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/bundl-venture-development-firm",
+          "linkedin_id": "202237",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bundl.com"
+        },
+        "location_names": [
+          "antwerp, flanders, belgium"
+        ],
+        "end_date": "2016-06",
+        "start_date": "2014-06",
+        "title": {
+          "name": "head of strategic innovation - managing partner",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": [
+            "director",
+            "partner"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [],
+        "end_date": "2014-10",
+        "start_date": "2014-02",
+        "title": {
+          "name": "pmo, change & transformation manager",
+          "class": "general_and_administrative",
+          "role": "operations",
+          "sub_role": "administrative",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "msd",
+          "size": "10001+",
+          "id": "HkBLps2Nzmi5coEnHWR4hwDKXdUZ",
+          "founded": null,
+          "industry": "pharmaceuticals",
+          "industry_v2": "pharmaceutical manufacturing",
+          "location": {
+            "name": "rahway, new jersey, united states",
+            "locality": "rahway",
+            "region": "new jersey",
+            "metro": "new york, new york",
+            "country": "united states",
+            "continent": "north america",
+            "street_address": "90 east scott avenue",
+            "address_line_2": null,
+            "postal_code": "07065",
+            "geo": "40.6,-74.28"
+          },
+          "linkedin_url": "linkedin.com/company/msd-global",
+          "linkedin_id": "2848937",
+          "facebook_url": "facebook.com/msdinvents",
+          "twitter_url": "twitter.com/msdmanualhome",
+          "website": "msd.com"
+        },
+        "location_names": [
+          "amsterdam, north holland, netherlands"
+        ],
+        "end_date": "2014-12",
+        "start_date": "2013-04",
+        "title": {
+          "name": "change and communication manager global logistics emea",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "logistics",
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bnp paribas fortis",
+          "size": "10001+",
+          "id": "pYACKxeaCxuOFAi54RM3zgLPFZKw",
+          "founded": null,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "3 rue montagne du parc",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/bnpparibasfortis",
+          "linkedin_id": "1519",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bnpparibasfortis.com"
+        },
+        "location_names": [],
+        "end_date": "2013-05",
+        "start_date": "2012-11",
+        "title": {
+          "name": "project manager internal communication & change",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "philipvyt gcv",
+          "size": null,
+          "id": null,
+          "founded": null,
+          "industry": null,
+          "industry_v2": null,
+          "location": null,
+          "linkedin_url": null,
+          "linkedin_id": null,
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "location_names": [],
+        "end_date": null,
+        "start_date": "2012-01",
+        "title": {
+          "name": "international speaker and guest lecturer",
+          "class": "services",
+          "role": "education",
+          "sub_role": "professor",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bundl",
+          "size": "51-200",
+          "id": "Du68QVIweQdlapkIRkscsQb7F5nq",
+          "founded": 2008,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "11 scheldestraat",
+            "address_line_2": null,
+            "postal_code": "2000",
+            "geo": "51.21,4.4"
+          },
+          "linkedin_url": "linkedin.com/company/bundl-venture-development-firm",
+          "linkedin_id": "202237",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bundl.com"
+        },
+        "location_names": [
+          "antwerp, flanders, belgium"
+        ],
+        "end_date": "2014-10",
+        "start_date": "2011-10",
+        "title": {
+          "name": "innovation partner for strategic projects",
+          "class": "services",
+          "role": "professional_service",
+          "sub_role": "consulting",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bnp paribas fortis",
+          "size": "10001+",
+          "id": "pYACKxeaCxuOFAi54RM3zgLPFZKw",
+          "founded": null,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "3 rue montagne du parc",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/bnpparibasfortis",
+          "linkedin_id": "1519",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bnpparibasfortis.com"
+        },
+        "location_names": [],
+        "end_date": "2012-11",
+        "start_date": "2011-08",
+        "title": {
+          "name": "program lead management dynamics & member delta change program (for ormit)",
+          "class": null,
+          "role": null,
+          "sub_role": null,
+          "levels": [
+            "manager"
+          ]
+        },
+        "is_primary": false
+      },
+      {
+        "company": null,
+        "location_names": [],
+        "end_date": "2024-06",
+        "start_date": "2011-01",
+        "title": {
+          "name": "independent consultant omnichannel in pharma & biotech",
+          "class": "sales_and_marketing",
+          "role": "sales",
+          "sub_role": "account_executive",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bnp paribas fortis",
+          "size": "10001+",
+          "id": "pYACKxeaCxuOFAi54RM3zgLPFZKw",
+          "founded": null,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "3 rue montagne du parc",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/bnpparibasfortis",
+          "linkedin_id": "1519",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bnpparibasfortis.com"
+        },
+        "location_names": [],
+        "end_date": "2011-08",
+        "start_date": "2010-10",
+        "title": {
+          "name": "project manager management dynamics",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "bnp paribas fortis",
+          "size": "10001+",
+          "id": "pYACKxeaCxuOFAi54RM3zgLPFZKw",
+          "founded": null,
+          "industry": "banking",
+          "industry_v2": "banking",
+          "location": {
+            "name": "brussels, brussels, belgium",
+            "locality": "brussels",
+            "region": "brussels",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "3 rue montagne du parc",
+            "address_line_2": null,
+            "postal_code": "1000",
+            "geo": "50.84,4.34"
+          },
+          "linkedin_url": "linkedin.com/company/bnpparibasfortis",
+          "linkedin_id": "1519",
+          "facebook_url": null,
+          "twitter_url": null,
+          "website": "bnpparibasfortis.com"
+        },
+        "location_names": [],
+        "end_date": "2010-10",
+        "start_date": "2010-05",
+        "title": {
+          "name": "consultant atm operating model and sla project manager",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      },
+      {
+        "company": {
+          "name": "ormit talent belgium",
+          "size": "51-200",
+          "id": "Cb4WCJuYDrqhaOOfIISCkAB6iYBN",
+          "founded": 1999,
+          "industry": "management consulting",
+          "industry_v2": "business consulting and services",
+          "location": {
+            "name": "diegem, flanders, belgium",
+            "locality": "diegem",
+            "region": "flanders",
+            "metro": null,
+            "country": "belgium",
+            "continent": "europe",
+            "street_address": "5a lambroekstraat",
+            "address_line_2": null,
+            "postal_code": "1831",
+            "geo": "50.89,4.43"
+          },
+          "linkedin_url": "linkedin.com/company/ormit-talent-belgium",
+          "linkedin_id": "305525",
+          "facebook_url": "facebook.com/ormit.belgium",
+          "twitter_url": "twitter.com/ormitbe",
+          "website": "ormit.be"
+        },
+        "location_names": [],
+        "end_date": "2011-08",
+        "start_date": "2008-08",
+        "title": {
+          "name": "project manager (management trainee)",
+          "class": "services",
+          "role": "fulfillment",
+          "sub_role": "project_management",
+          "levels": []
+        },
+        "is_primary": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "alliance university",
+          "type": "post-secondary institution",
+          "id": "tlJpl-ZRccLqf17Zd9xhVw_0000",
+          "location": {
+            "name": "central, indiana, united states",
+            "locality": "central",
+            "region": "indiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/allianceuniofcl",
+          "facebook_url": "facebook.com/allianceuniversity.official",
+          "twitter_url": "twitter.com/allianceu",
+          "linkedin_id": "1572407",
+          "website": "alliance.edu.in",
+          "domain": "alliance.edu.in"
+        },
+        "degrees": [],
+        "start_date": "2021-09",
+        "end_date": "2021",
+        "majors": [
+          "management",
+          "marketing",
+          "project management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "alliance university",
+          "type": "post-secondary institution",
+          "id": "tlJpl-ZRccLqf17Zd9xhVw_0000",
+          "location": {
+            "name": "central, indiana, united states",
+            "locality": "central",
+            "region": "indiana",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/allianceuniofcl",
+          "facebook_url": "facebook.com/allianceuniversity.official",
+          "twitter_url": "twitter.com/allianceu",
+          "linkedin_id": "1572407",
+          "website": "alliance.edu.in",
+          "domain": "alliance.edu.in"
+        },
+        "degrees": [],
+        "start_date": "2021-08",
+        "end_date": "2021-10",
+        "majors": [
+          "marketing"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "london business school",
+          "type": "post-secondary institution",
+          "id": "LwkowlBz-ITo0vo4g1vTKA_0000",
+          "location": {
+            "name": "london, england, united kingdom",
+            "locality": "london",
+            "region": "england",
+            "country": "united kingdom",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/london-business-school",
+          "facebook_url": "facebook.com/londonbusinessschool",
+          "twitter_url": "twitter.com/lbs",
+          "linkedin_id": "5954",
+          "website": "london.edu",
+          "domain": "london.edu"
+        },
+        "degrees": [],
+        "start_date": "2013-01",
+        "end_date": "2013",
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "mit sloan school of management",
+          "type": "post-secondary institution",
+          "id": "XL39DfoioBynJmN2iH9Umw_0000",
+          "location": {
+            "name": "cambridge, massachusetts, united states",
+            "locality": "cambridge",
+            "region": "massachusetts",
+            "country": "united states",
+            "continent": "north america"
+          },
+          "linkedin_url": "linkedin.com/school/mit-sloan-school-of-management",
+          "facebook_url": "facebook.com/mitnews",
+          "twitter_url": "twitter.com/mit",
+          "linkedin_id": "1501",
+          "website": "mitsloan.mit.edu",
+          "domain": "mit.edu"
+        },
+        "degrees": [],
+        "start_date": "2012-01",
+        "end_date": "2012",
+        "majors": [
+          "education",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "management development institute, gurgaon",
+          "type": "post-secondary institution",
+          "id": "S7-BTKryZd9MFTSWg1IIkQ_0000",
+          "location": {
+            "name": "gurgaon sector 17, haryana, india",
+            "locality": "gurgaon sector 17",
+            "region": "haryana",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/mdigurgaon",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "397797",
+          "website": "mdi.ac.in",
+          "domain": "mdi.ac.in"
+        },
+        "degrees": [],
+        "start_date": "2009-01",
+        "end_date": "2009",
+        "majors": [
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "management development institute, gurgaon",
+          "type": "post-secondary institution",
+          "id": "S7-BTKryZd9MFTSWg1IIkQ_0000",
+          "location": {
+            "name": "gurgaon sector 17, haryana, india",
+            "locality": "gurgaon sector 17",
+            "region": "haryana",
+            "country": "india",
+            "continent": "asia"
+          },
+          "linkedin_url": "linkedin.com/school/mdigurgaon",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "397797",
+          "website": "mdi.ac.in",
+          "domain": "mdi.ac.in"
+        },
+        "degrees": [],
+        "start_date": "2008-01",
+        "end_date": "2010",
+        "majors": [
+          "communication",
+          "entrepreneurship",
+          "leadership",
+          "management"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "thomas more university of applied sciences",
+          "type": "post-secondary institution",
+          "id": "Il4rHPftPUB8PpChWcP1Sw_0000",
+          "location": {
+            "name": "mechelen, flanders, belgium",
+            "locality": "mechelen",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/thomas-more-hogeschool",
+          "facebook_url": "facebook.com/thomasmorebe",
+          "twitter_url": "twitter.com/thomasmorebe",
+          "linkedin_id": "15250290",
+          "website": "thomasmore.be",
+          "domain": "thomasmore.be"
+        },
+        "degrees": [
+          "masters"
+        ],
+        "start_date": "2004-01",
+        "end_date": "2007",
+        "majors": [
+          "economics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "karel de grote - hogeschool",
+          "type": "post-secondary institution",
+          "id": "GcwF3bKmRRMFdoAsLmnPBQ_0000",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/karel-de-grote-hogeschool",
+          "facebook_url": "facebook.com/kareldegrotehogeschool",
+          "twitter_url": "twitter.com/kdghogeschool",
+          "linkedin_id": "36259",
+          "website": "kdg.be",
+          "domain": "kdg.be"
+        },
+        "degrees": [
+          "bachelors"
+        ],
+        "start_date": "2000-01",
+        "end_date": "2003",
+        "majors": [
+          "logistics"
+        ],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "ap hogeschool antwerpen",
+          "type": "post-secondary institution",
+          "id": "nWry8A1tUnqe5yRDbuO4OQ_0000",
+          "location": {
+            "name": "antwerp, flanders, belgium",
+            "locality": "antwerp",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/ap-hogeschool-antwerpen",
+          "facebook_url": "facebook.com/aphogeschool",
+          "twitter_url": "twitter.com/ap_hogeschool",
+          "linkedin_id": "15092372",
+          "website": "ap.be",
+          "domain": "ap.be"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      },
+      {
+        "school": {
+          "name": "sint - jozef - klein - seminarie",
+          "type": "post-secondary institution",
+          "id": "niStJwFrmqgAPLAAB00zkA_0000",
+          "location": {
+            "name": "sint-niklaas, flanders, belgium",
+            "locality": "sint-niklaas",
+            "region": "flanders",
+            "country": "belgium",
+            "continent": "europe"
+          },
+          "linkedin_url": "linkedin.com/school/sint-jozef-klein-seminarie",
+          "facebook_url": null,
+          "twitter_url": null,
+          "linkedin_id": "42117624",
+          "website": "sjks.be",
+          "domain": "sjks.be"
+        },
+        "degrees": [],
+        "start_date": null,
+        "end_date": null,
+        "majors": [],
+        "minors": [],
+        "gpa": null
+      }
+    ],
+    "profiles": [
+      {
+        "network": "linkedin",
+        "id": "72537455",
+        "url": "linkedin.com/in/philip-vyt-83b36120",
+        "username": "philip-vyt-83b36120"
+      },
+      {
+        "network": "facebook",
+        "id": "1030389131",
+        "url": "facebook.com/philipvyt",
+        "username": "philipvyt"
+      },
+      {
+        "network": "twitter",
+        "id": null,
+        "url": "twitter.com/philipvyt",
+        "username": "philipvyt"
+      }
+    ],
+    "dataset_version": "35.2"
+  },
+  "status": "success"
+}

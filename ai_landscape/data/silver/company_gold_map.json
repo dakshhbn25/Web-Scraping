@@ -1,0 +1,2179 @@
+{
+ "Closing Delta": {
+  "aliases": [
+   "closingdelta"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-042"
+  ],
+  "tickets": []
+ },
+ "G-Med": {
+  "aliases": [
+   "gmed"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-017"
+  ],
+  "tickets": []
+ },
+ "Health Relations": {
+  "aliases": [
+   "healthrelations"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-viennacx-013"
+  ],
+  "tickets": []
+ },
+ "Medscape": {
+  "aliases": [
+   "medscape"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-116"
+  ],
+  "sessions": [
+   "session-dubrovnik-022"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-001"
+  ],
+  "tickets": []
+ },
+ "MedTube": {
+  "aliases": [
+   "medtube"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-040",
+   "sponsor-viennacx-017"
+  ],
+  "tickets": []
+ },
+ "PharmaShots": {
+  "aliases": [
+   "pharmashots"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-038"
+  ],
+  "tickets": []
+ },
+ "PM360": {
+  "aliases": [
+   "pm360"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-035",
+   "sponsor-viennacx-015"
+  ],
+  "tickets": []
+ },
+ "SciencePOD": {
+  "aliases": [
+   "sciencepod"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-034",
+   "sponsor-medical-008",
+   "sponsor-viennacx-016"
+  ],
+  "tickets": []
+ },
+ "TrendMD": {
+  "aliases": [
+   "trendmd"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-037"
+  ],
+  "tickets": []
+ },
+ "Wiley": {
+  "aliases": [
+   "wiley"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-081",
+   "speaker-dubrovnik-082",
+   "speaker-dubrovnik-083"
+  ],
+  "sessions": [
+   "session-dubrovnik-018"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-016"
+  ],
+  "tickets": []
+ },
+ "World Pharma Today": {
+  "aliases": [
+   "worldpharmatoday"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-039"
+  ],
+  "tickets": []
+ },
+ "Abbott": {
+  "aliases": [
+   "abbott"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-016"
+  ],
+  "sessions": [
+   "session-dubrovnik-046",
+   "session-medical-004"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "AbbVie": {
+  "aliases": [
+   "abbvie",
+   "abbviecom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-048",
+   "speaker-viennacx-053"
+  ],
+  "sessions": [
+   "session-dubrovnik-015"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Alexion": {
+  "aliases": [
+   "alexion"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-000",
+   "speaker-dubrovnik-004",
+   "speaker-medical-011",
+   "speaker-medical-017"
+  ],
+  "sessions": [
+   "session-dubrovnik-026",
+   "session-dubrovnik-053"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Alfasigma": {
+  "aliases": [
+   "alfasigma",
+   "alfasigmacom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-087"
+  ],
+  "sessions": [
+   "session-dubrovnik-032"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "ALK-Abello": {
+  "aliases": [
+   "alk",
+   "alkabello",
+   "alknet"
+  ],
+  "speakers": [
+   "speaker-viennacx-054"
+  ],
+  "sessions": [
+   "session-viennacx-033"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Almirall": {
+  "aliases": [
+   "almirall",
+   "almirallcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-021",
+   "speaker-viennacx-020"
+  ],
+  "sessions": [
+   "session-dubrovnik-011"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Amgen": {
+  "aliases": [
+   "amgen"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-076"
+  ],
+  "sessions": [
+   "session-dubrovnik-030",
+   "session-medical-005",
+   "session-medical-007"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Amicus Therapeutics": {
+  "aliases": [
+   "amicusbiomarin",
+   "amicustherapeutics"
+  ],
+  "speakers": [
+   "speaker-medical-008"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Angelini Pharma": {
+  "aliases": [
+   "angelinipharma",
+   "angelinipharmacom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-005"
+  ],
+  "sessions": [
+   "session-dubrovnik-001"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Aspen Pharmacare": {
+  "aliases": [
+   "aspen",
+   "aspenpharma",
+   "aspenpharmacare",
+   "aspenpharmacom"
+  ],
+  "speakers": [
+   "speaker-viennacx-047"
+  ],
+  "sessions": [
+   "session-viennacx-011",
+   "session-viennacx-031"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Astellas": {
+  "aliases": [
+   "astellas",
+   "astellascom",
+   "astellaspharma"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-030",
+   "speaker-medical-026",
+   "speaker-viennacx-014",
+   "speaker-viennacx-032",
+   "speaker-viennacx-049"
+  ],
+  "sessions": [
+   "session-dubrovnik-022",
+   "session-medical-010",
+   "session-viennacx-012",
+   "session-viennacx-017"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "AstraZeneca": {
+  "aliases": [
+   "astrazeneca",
+   "astrazenecacom",
+   "astrazenecalogo"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-015",
+   "speaker-dubrovnik-032",
+   "speaker-dubrovnik-034",
+   "speaker-dubrovnik-072",
+   "speaker-viennacx-010",
+   "speaker-viennacx-018",
+   "speaker-viennacx-030"
+  ],
+  "sessions": [
+   "session-dubrovnik-019",
+   "session-dubrovnik-028",
+   "session-dubrovnik-042",
+   "session-dubrovnik-046",
+   "session-viennacx-007",
+   "session-viennacx-008"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "B. Braun": {
+  "aliases": [
+   "bbraun",
+   "bbraunhr"
+  ],
+  "speakers": [
+   "speaker-viennacx-045"
+  ],
+  "sessions": [
+   "session-viennacx-026"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Bayer": {
+  "aliases": [
+   "bayer",
+   "bayercom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-054",
+   "speaker-dubrovnik-056",
+   "speaker-dubrovnik-065",
+   "speaker-medical-002",
+   "speaker-viennacx-007",
+   "speaker-viennacx-037"
+  ],
+  "sessions": [
+   "session-dubrovnik-030",
+   "session-dubrovnik-042",
+   "session-dubrovnik-048",
+   "session-medical-013",
+   "session-viennacx-029"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "BeOne Medicines": {
+  "aliases": [
+   "beone",
+   "beonemedicines"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-045",
+   "speaker-viennacx-042"
+  ],
+  "sessions": [
+   "session-dubrovnik-046",
+   "session-viennacx-022"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Bial": {
+  "aliases": [
+   "bial",
+   "bialcom"
+  ],
+  "speakers": [
+   "speaker-viennacx-057"
+  ],
+  "sessions": [
+   "session-viennacx-007",
+   "session-viennacx-015"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Biogen": {
+  "aliases": [
+   "biogen",
+   "biogencom",
+   "biogenlogo"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-025",
+   "speaker-viennacx-034"
+  ],
+  "sessions": [
+   "session-dubrovnik-020"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "BioNTech": {
+  "aliases": [
+   "biontech"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-040"
+  ],
+  "sessions": [
+   "session-dubrovnik-004"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Boehringer Ingelheim": {
+  "aliases": [
+   "boehringeringelheim",
+   "boehringeringelheimcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-039",
+   "speaker-dubrovnik-049",
+   "speaker-dubrovnik-050",
+   "speaker-dubrovnik-077",
+   "speaker-medical-003",
+   "speaker-medical-012",
+   "speaker-viennacx-002",
+   "speaker-viennacx-003",
+   "speaker-viennacx-024",
+   "speaker-viennacx-063"
+  ],
+  "sessions": [
+   "session-dubrovnik-004",
+   "session-dubrovnik-037",
+   "session-medical-004",
+   "session-medical-014",
+   "session-viennacx-001",
+   "session-viennacx-012",
+   "session-viennacx-021"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Bristol Myers Squibb": {
+  "aliases": [
+   "bms",
+   "bristolmayerssquib",
+   "bristolmyerssquib",
+   "bristolmyerssquibb"
+  ],
+  "speakers": [
+   "speaker-viennacx-039"
+  ],
+  "sessions": [
+   "session-viennacx-025"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Chiesi": {
+  "aliases": [
+   "chiesi",
+   "chiesicom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-052",
+   "speaker-viennacx-036"
+  ],
+  "sessions": [
+   "session-dubrovnik-028",
+   "session-viennacx-011",
+   "session-viennacx-038"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "CSL": {
+  "aliases": [
+   "csl",
+   "cslcom",
+   "cslvifor"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-078",
+   "speaker-viennacx-056"
+  ],
+  "sessions": [
+   "session-dubrovnik-019",
+   "session-viennacx-017"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Daiichi Sankyo": {
+  "aliases": [
+   "daiichisankyo",
+   "daiichisankyocom"
+  ],
+  "speakers": [
+   "speaker-medical-025",
+   "speaker-viennacx-004",
+   "speaker-viennacx-023",
+   "speaker-viennacx-035"
+  ],
+  "sessions": [
+   "session-medical-015",
+   "session-viennacx-003",
+   "session-viennacx-005",
+   "session-viennacx-032"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Eli Lilly": {
+  "aliases": [
+   "elililly",
+   "lilly"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-009",
+   "speaker-dubrovnik-014",
+   "speaker-dubrovnik-073"
+  ],
+  "sessions": [
+   "session-dubrovnik-002",
+   "session-dubrovnik-024"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Ferring": {
+  "aliases": [
+   "ferring"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-006"
+  ],
+  "sessions": [
+   "session-dubrovnik-008",
+   "session-dubrovnik-011"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Gilead": {
+  "aliases": [
+   "gilead",
+   "gileadcom"
+  ],
+  "speakers": [
+   "speaker-viennacx-051"
+  ],
+  "sessions": [
+   "session-viennacx-004"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Grunenthal": {
+  "aliases": [
+   "grnenthal",
+   "grunenthal"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-033"
+  ],
+  "sessions": [
+   "session-dubrovnik-056"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "GSK": {
+  "aliases": [
+   "gsk",
+   "gskcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-010",
+   "speaker-dubrovnik-041",
+   "speaker-dubrovnik-051",
+   "speaker-medical-030",
+   "speaker-viennacx-028",
+   "speaker-viennacx-058"
+  ],
+  "sessions": [
+   "session-dubrovnik-006",
+   "session-dubrovnik-027",
+   "session-viennacx-035"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Incyte": {
+  "aliases": [
+   "incyte"
+  ],
+  "speakers": [
+   "speaker-viennacx-009"
+  ],
+  "sessions": [
+   "session-viennacx-016"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Ipsen": {
+  "aliases": [
+   "ipsen"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-017"
+  ],
+  "sessions": [
+   "session-dubrovnik-006",
+   "session-dubrovnik-013"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Jazz Pharmaceuticals": {
+  "aliases": [
+   "jazzpharma",
+   "jazzpharmaceuticals"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-020"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Johnson & Johnson": {
+  "aliases": [
+   "johnsonjohnson"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-001",
+   "speaker-dubrovnik-058"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Kyowa Kirin": {
+  "aliases": [
+   "kyowakirin"
+  ],
+  "speakers": [
+   "speaker-viennacx-019"
+  ],
+  "sessions": [
+   "session-viennacx-036"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "LEO Pharma": {
+  "aliases": [
+   "leopharma",
+   "leopharmacom"
+  ],
+  "speakers": [
+   "speaker-viennacx-050"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Medice": {
+  "aliases": [
+   "medice",
+   "medicethehealthfamily"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-071"
+  ],
+  "sessions": [
+   "session-dubrovnik-015",
+   "session-dubrovnik-021"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Menarini": {
+  "aliases": [
+   "menarini",
+   "menarinigroup"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-059"
+  ],
+  "sessions": [
+   "session-dubrovnik-034"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Merck KGaA": {
+  "aliases": [
+   "merck",
+   "merckkgaa"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-003"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Merz Therapeutics": {
+  "aliases": [
+   "merz",
+   "merztherapeutics"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-018",
+   "speaker-medical-022"
+  ],
+  "sessions": [
+   "session-dubrovnik-001",
+   "session-dubrovnik-019"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "MSD (Merck & Co.)": {
+  "aliases": [
+   "merck",
+   "merckcom",
+   "msd",
+   "msdlogo",
+   "msdmerckco"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-008",
+   "speaker-dubrovnik-024",
+   "speaker-dubrovnik-031",
+   "speaker-medical-023",
+   "speaker-medical-027",
+   "speaker-medical-031",
+   "speaker-viennacx-021"
+  ],
+  "sessions": [
+   "session-dubrovnik-001",
+   "session-dubrovnik-020",
+   "session-dubrovnik-036",
+   "session-medical-007",
+   "session-medical-009",
+   "session-viennacx-010",
+   "session-viennacx-024"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Mundipharma": {
+  "aliases": [
+   "mundipharma"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-064"
+  ],
+  "sessions": [
+   "session-dubrovnik-014"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Norgine": {
+  "aliases": [
+   "norgine"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-036"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Novartis": {
+  "aliases": [
+   "novartis"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-007",
+   "speaker-dubrovnik-043",
+   "speaker-dubrovnik-062",
+   "speaker-dubrovnik-063",
+   "speaker-viennacx-011"
+  ],
+  "sessions": [
+   "session-dubrovnik-005",
+   "session-dubrovnik-009",
+   "session-dubrovnik-014",
+   "session-dubrovnik-027",
+   "session-dubrovnik-057",
+   "session-viennacx-004",
+   "session-viennacx-028"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Novo Nordisk": {
+  "aliases": [
+   "novonordisk",
+   "novonordiskcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-011",
+   "speaker-dubrovnik-026",
+   "speaker-dubrovnik-028",
+   "speaker-dubrovnik-061",
+   "speaker-medical-007",
+   "speaker-medical-019",
+   "speaker-viennacx-016"
+  ],
+  "sessions": [
+   "session-dubrovnik-020",
+   "session-dubrovnik-027",
+   "session-dubrovnik-034",
+   "session-dubrovnik-050",
+   "session-viennacx-006",
+   "session-viennacx-035"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Opella": {
+  "aliases": [
+   "opella"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-viennacx-035"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Otsuka": {
+  "aliases": [
+   "otsuka",
+   "otsukaeuropecom"
+  ],
+  "speakers": [
+   "speaker-viennacx-013"
+  ],
+  "sessions": [
+   "session-viennacx-012"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Pfizer": {
+  "aliases": [
+   "pfizer"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-022",
+   "speaker-viennacx-041"
+  ],
+  "sessions": [
+   "session-dubrovnik-024",
+   "session-dubrovnik-038",
+   "session-viennacx-007",
+   "session-viennacx-024"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Recordati": {
+  "aliases": [
+   "recordati",
+   "recordaticom"
+  ],
+  "speakers": [
+   "speaker-medical-005"
+  ],
+  "sessions": [
+   "session-medical-000",
+   "session-medical-009"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Regeneron": {
+  "aliases": [
+   "regeneron"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Roche": {
+  "aliases": [
+   "roche",
+   "rochecom"
+  ],
+  "speakers": [
+   "speaker-medical-020",
+   "speaker-medical-029",
+   "speaker-viennacx-006",
+   "speaker-viennacx-015",
+   "speaker-viennacx-033"
+  ],
+  "sessions": [
+   "session-viennacx-001",
+   "session-viennacx-002",
+   "session-viennacx-011",
+   "session-viennacx-026"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Sanofi": {
+  "aliases": [
+   "sanofi",
+   "sanoficom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-012",
+   "speaker-dubrovnik-038",
+   "speaker-dubrovnik-057",
+   "speaker-dubrovnik-068",
+   "speaker-medical-018",
+   "speaker-medical-028",
+   "speaker-viennacx-001",
+   "speaker-viennacx-012",
+   "speaker-viennacx-017",
+   "speaker-viennacx-031"
+  ],
+  "sessions": [
+   "session-dubrovnik-005",
+   "session-dubrovnik-006",
+   "session-dubrovnik-017",
+   "session-dubrovnik-028",
+   "session-dubrovnik-034",
+   "session-medical-000",
+   "session-viennacx-004",
+   "session-viennacx-026",
+   "session-viennacx-031",
+   "session-viennacx-032"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Servier": {
+  "aliases": [
+   "servier",
+   "serviercom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-042",
+   "speaker-dubrovnik-055",
+   "speaker-viennacx-005"
+  ],
+  "sessions": [
+   "session-dubrovnik-011",
+   "session-dubrovnik-024",
+   "session-medical-004",
+   "session-viennacx-001"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Shionogi": {
+  "aliases": [
+   "shionogi"
+  ],
+  "speakers": [
+   "speaker-viennacx-025"
+  ],
+  "sessions": [
+   "session-medical-016",
+   "session-viennacx-012"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Sobi": {
+  "aliases": [
+   "sobi"
+  ],
+  "speakers": [
+   "speaker-viennacx-040",
+   "speaker-viennacx-055"
+  ],
+  "sessions": [
+   "session-viennacx-009"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Takeda": {
+  "aliases": [
+   "takeda",
+   "takedacom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-013",
+   "speaker-dubrovnik-029",
+   "speaker-dubrovnik-066",
+   "speaker-dubrovnik-067",
+   "speaker-medical-004",
+   "speaker-medical-009",
+   "speaker-medical-014",
+   "speaker-viennacx-022",
+   "speaker-viennacx-046",
+   "speaker-viennacx-052"
+  ],
+  "sessions": [
+   "session-dubrovnik-009",
+   "session-dubrovnik-055",
+   "session-medical-000",
+   "session-medical-005",
+   "session-viennacx-017",
+   "session-viennacx-024"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Teva": {
+  "aliases": [
+   "teva"
+  ],
+  "speakers": [
+   "speaker-viennacx-043"
+  ],
+  "sessions": [
+   "session-viennacx-032"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Tillotts Pharma": {
+  "aliases": [
+   "tillottscom",
+   "tillottspharma"
+  ],
+  "speakers": [
+   "speaker-viennacx-060"
+  ],
+  "sessions": [
+   "session-viennacx-026"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "UCB": {
+  "aliases": [
+   "ucb",
+   "ucbcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-027",
+   "speaker-medical-006",
+   "speaker-medical-013",
+   "speaker-medical-015",
+   "speaker-medical-024",
+   "speaker-viennacx-027"
+  ],
+  "sessions": [
+   "session-dubrovnik-053",
+   "session-medical-009"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Vertex": {
+  "aliases": [
+   "vertex"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-053"
+  ],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Viatris": {
+  "aliases": [
+   "mercedelogo",
+   "viatris",
+   "viatrissenioradvisorforal4purpose"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-046",
+   "speaker-medical-010"
+  ],
+  "sessions": [
+   "session-dubrovnik-005",
+   "session-medical-003"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "ViiV Healthcare": {
+  "aliases": [
+   "viiv",
+   "viivhealthcare",
+   "viivhealthcarecom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-060",
+   "speaker-viennacx-008",
+   "speaker-viennacx-029"
+  ],
+  "sessions": [
+   "session-dubrovnik-005",
+   "session-viennacx-004"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Woerwag Pharma": {
+  "aliases": [
+   "woerwagpharma",
+   "woerwagpharmacom",
+   "worwag"
+  ],
+  "speakers": [
+   "speaker-medical-001",
+   "speaker-viennacx-026"
+  ],
+  "sessions": [
+   "session-viennacx-009"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Circle Health Group": {
+  "aliases": [
+   "circle",
+   "circlehealthgroup"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-037"
+  ],
+  "sessions": [
+   "session-dubrovnik-007"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "decipHER women": {
+  "aliases": [
+   "decipherwomen"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-medical-001",
+   "session-medical-010"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "EuMGA": {
+  "aliases": [
+   "eumga"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-088"
+  ],
+  "sessions": [
+   "session-dubrovnik-026"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Healthcare Businesswomen's Association": {
+  "aliases": [
+   "hbanetorg",
+   "healthcarebusinesswomensassociation"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-093"
+  ],
+  "sessions": [
+   "session-dubrovnik-049"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-041"
+  ],
+  "tickets": []
+ },
+ "NHS": {
+  "aliases": [
+   "nhs",
+   "nhsuk"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-044",
+   "speaker-dubrovnik-069",
+   "speaker-dubrovnik-117",
+   "speaker-viennacx-059"
+  ],
+  "sessions": [
+   "session-dubrovnik-007",
+   "session-dubrovnik-022",
+   "session-viennacx-001",
+   "session-viennacx-009"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "School of Medical Affairs": {
+  "aliases": [
+   "schoolofma",
+   "schoolofmedicalaffairs"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-125"
+  ],
+  "sessions": [
+   "session-dubrovnik-047"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Accenture": {
+  "aliases": [
+   "accenture"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Adobe": {
+  "aliases": [
+   "adobe"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Aithena": {
+  "aliases": [
+   "aithena"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-092"
+  ],
+  "sessions": [
+   "session-dubrovnik-051"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-011"
+  ],
+  "tickets": []
+ },
+ "Astheria": {
+  "aliases": [
+   "astheria",
+   "logoastheria"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-122"
+  ],
+  "sessions": [
+   "session-dubrovnik-052"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Avalere Health": {
+  "aliases": [
+   "avalerehealth"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-viennacx-007"
+  ],
+  "tickets": []
+ },
+ "Avatia": {
+  "aliases": [
+   "avatia"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-viennacx-010"
+  ],
+  "tickets": []
+ },
+ "Axtria": {
+  "aliases": [
+   "axtria"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-089",
+   "speaker-dubrovnik-103",
+   "speaker-dubrovnik-104",
+   "speaker-dubrovnik-105"
+  ],
+  "sessions": [
+   "session-dubrovnik-006",
+   "session-dubrovnik-025"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-007"
+  ],
+  "tickets": []
+ },
+ "BePossible": {
+  "aliases": [
+   "bepossible",
+   "bepossibleltd"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-109"
+  ],
+  "sessions": [
+   "session-dubrovnik-023"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-020"
+  ],
+  "tickets": []
+ },
+ "Biond Health": {
+  "aliases": [
+   "biondhealth",
+   "bionthealth"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-124",
+   "speaker-viennacx-061"
+  ],
+  "sessions": [
+   "session-dubrovnik-007",
+   "session-medical-003",
+   "session-medical-020",
+   "session-viennacx-006"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Brain Station": {
+  "aliases": [
+   "brainstation"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-viennacx-018"
+  ],
+  "sponsors": [
+   "sponsor-viennacx-005"
+  ],
+  "tickets": []
+ },
+ "Buzz Radar": {
+  "aliases": [
+   "buzzradar"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-029"
+  ],
+  "tickets": []
+ },
+ "CAIRO": {
+  "aliases": [
+   "cairo"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-medical-010"
+  ],
+  "tickets": []
+ },
+ "ceel.ai": {
+  "aliases": [
+   "ceelai"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-102",
+   "speaker-dubrovnik-110"
+  ],
+  "sessions": [
+   "session-dubrovnik-035"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Cheemia": {
+  "aliases": [
+   "cheemia"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-111"
+  ],
+  "sessions": [
+   "session-dubrovnik-004",
+   "session-dubrovnik-011",
+   "session-dubrovnik-043"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-008"
+  ],
+  "tickets": []
+ },
+ "Clarivate": {
+  "aliases": [
+   "clarivate",
+   "clarivatecom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-118"
+  ],
+  "sessions": [
+   "session-dubrovnik-046"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-018"
+  ],
+  "tickets": []
+ },
+ "CMG.Digital": {
+  "aliases": [
+   "cmg",
+   "cmgdigital"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-026"
+  ],
+  "tickets": []
+ },
+ "CMI Media Group": {
+  "aliases": [
+   "cmi",
+   "cmigroup",
+   "cmimediagroup"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-112"
+  ],
+  "sessions": [
+   "session-dubrovnik-034"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-013"
+  ],
+  "tickets": []
+ },
+ "Cvent": {
+  "aliases": [
+   "cvent"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-025"
+  ],
+  "tickets": []
+ },
+ "Deloitte": {
+  "aliases": [
+   "deloitte"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-106"
+  ],
+  "sessions": [
+   "session-dubrovnik-010"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-002"
+  ],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Digitas Health (Publicis)": {
+  "aliases": [
+   "digitashealthpublicis",
+   "publicishealthcom",
+   "thedigitashealth"
+  ],
+  "speakers": [
+   "speaker-viennacx-065"
+  ],
+  "sessions": [
+   "session-viennacx-027"
+  ],
+  "sponsors": [
+   "sponsor-viennacx-006"
+  ],
+  "tickets": []
+ },
+ "Doceree": {
+  "aliases": [
+   "doceree"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-126"
+  ],
+  "sessions": [
+   "session-dubrovnik-039"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-004"
+  ],
+  "tickets": []
+ },
+ "Endava": {
+  "aliases": [
+   "endava"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-084"
+  ],
+  "sessions": [
+   "session-dubrovnik-045"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-024"
+  ],
+  "tickets": []
+ },
+ "Eversana": {
+  "aliases": [
+   "eversana",
+   "eversanaintouch"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-100"
+  ],
+  "sessions": [
+   "session-dubrovnik-005"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-006"
+  ],
+  "tickets": []
+ },
+ "Everybody": {
+  "aliases": [
+   "everybody"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-viennacx-009"
+  ],
+  "tickets": []
+ },
+ "Exaris Solutions": {
+  "aliases": [
+   "exaris",
+   "exarissolutions"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-090"
+  ],
+  "sessions": [
+   "session-dubrovnik-029",
+   "session-viennacx-022"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-014",
+   "sponsor-viennacx-002"
+  ],
+  "tickets": []
+ },
+ "Exeevo": {
+  "aliases": [
+   "exeevo"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-098",
+   "speaker-viennacx-067"
+  ],
+  "sessions": [
+   "session-dubrovnik-001",
+   "session-medical-009",
+   "session-medical-018",
+   "session-viennacx-009"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-000",
+   "sponsor-medical-000",
+   "sponsor-viennacx-000"
+  ],
+  "tickets": []
+ },
+ "Fusion ScientifIQ": {
+  "aliases": [
+   "fusionscientific",
+   "fusionscientifiq"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-medical-011"
+  ],
+  "sponsors": [
+   "sponsor-medical-002"
+  ],
+  "tickets": []
+ },
+ "Gate One": {
+  "aliases": [
+   "gateone"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-120"
+  ],
+  "sessions": [
+   "session-dubrovnik-031"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Google": {
+  "aliases": [
+   "google"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-002",
+   "speaker-dubrovnik-047"
+  ],
+  "sessions": [
+   "session-dubrovnik-003"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Havas": {
+  "aliases": [
+   "havas",
+   "havaslynxgroup"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-medical-013"
+  ],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Ingemark": {
+  "aliases": [
+   "ingemark"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-080"
+  ],
+  "sessions": [
+   "session-dubrovnik-027"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-009",
+   "sponsor-viennacx-004"
+  ],
+  "tickets": []
+ },
+ "ITSM Center": {
+  "aliases": [
+   "itsmcenter"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-028"
+  ],
+  "tickets": []
+ },
+ "KAI": {
+  "aliases": [
+   "kai"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-030"
+  ],
+  "tickets": []
+ },
+ "Kanga Health": {
+  "aliases": [
+   "kangahealth",
+   "kangahealthcom"
+  ],
+  "speakers": [
+   "speaker-viennacx-064"
+  ],
+  "sessions": [
+   "session-viennacx-011"
+  ],
+  "sponsors": [
+   "sponsor-viennacx-003"
+  ],
+  "tickets": []
+ },
+ "Kubbco": {
+  "aliases": [
+   "kubbco"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-091"
+  ],
+  "sessions": [
+   "session-dubrovnik-040"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Mama Health": {
+  "aliases": [
+   "mamahealth",
+   "mamahealthcom"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-086"
+  ],
+  "sessions": [
+   "session-dubrovnik-032"
+  ],
+  "sponsors": [
+   "sponsor-viennacx-008"
+  ],
+  "tickets": []
+ },
+ "Mediasoft": {
+  "aliases": [
+   "mediasoft"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-010"
+  ],
+  "tickets": []
+ },
+ "My Medical Affairs (MYMA)": {
+  "aliases": [
+   "myma",
+   "mymalogo",
+   "mymedicalaffairs",
+   "mymedicalaffairsmyma"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-119"
+  ],
+  "sessions": [
+   "session-dubrovnik-030",
+   "session-medical-009"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-036",
+   "sponsor-medical-009",
+   "sponsor-viennacx-014"
+  ],
+  "tickets": []
+ },
+ "One MSL": {
+  "aliases": [
+   "onemsl"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-medical-005",
+   "session-medical-020"
+  ],
+  "sponsors": [
+   "sponsor-medical-003"
+  ],
+  "tickets": []
+ },
+ "Onomi": {
+  "aliases": [
+   "onomi",
+   "onomiio"
+  ],
+  "speakers": [
+   "speaker-viennacx-068"
+  ],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-032",
+   "sponsor-viennacx-012"
+  ],
+  "tickets": []
+ },
+ "OxfordSM": {
+  "aliases": [
+   "oxford",
+   "oxfordsm"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-113",
+   "speaker-dubrovnik-114",
+   "speaker-dubrovnik-115"
+  ],
+  "sessions": [
+   "session-dubrovnik-012"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-012"
+  ],
+  "tickets": []
+ },
+ "PharmaForceIQ": {
+  "aliases": [
+   "pfiq",
+   "pharmaforceiq"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-101"
+  ],
+  "sessions": [
+   "session-dubrovnik-014"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-023"
+  ],
+  "tickets": []
+ },
+ "Poke": {
+  "aliases": [
+   "poke"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-079",
+   "speaker-viennacx-048"
+  ],
+  "sessions": [
+   "session-dubrovnik-045",
+   "session-viennacx-006"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "PwC": {
+  "aliases": [
+   "pwc"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Resonant Group": {
+  "aliases": [
+   "resonant",
+   "resonantgroup"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-121"
+  ],
+  "sessions": [
+   "session-dubrovnik-019"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-019",
+   "sponsor-medical-001"
+  ],
+  "tickets": []
+ },
+ "Rumi": {
+  "aliases": [
+   "rumi"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-033",
+   "sponsor-medical-006"
+  ],
+  "tickets": []
+ },
+ "Salesforce": {
+  "aliases": [
+   "salesforce"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-095",
+   "speaker-dubrovnik-099"
+  ],
+  "sessions": [
+   "session-dubrovnik-015",
+   "session-dubrovnik-021"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-003"
+  ],
+  "tickets": []
+ },
+ "Second Brain": {
+  "aliases": [
+   "secondbrain"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-viennacx-011"
+  ],
+  "tickets": []
+ },
+ "Semalytix": {
+  "aliases": [
+   "semaltyx",
+   "semalytix"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-085"
+  ],
+  "sessions": [
+   "session-dubrovnik-016"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-022",
+   "sponsor-medical-007"
+  ],
+  "tickets": []
+ },
+ "Seprotec": {
+  "aliases": [
+   "seprotec"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-027"
+  ],
+  "tickets": []
+ },
+ "Sermo": {
+  "aliases": [
+   "sermo"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Shyft": {
+  "aliases": [
+   "shyft"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-medical-011"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Sorcero": {
+  "aliases": [
+   "sorcero"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-096",
+   "speaker-dubrovnik-097"
+  ],
+  "sessions": [
+   "session-dubrovnik-028",
+   "session-dubrovnik-054",
+   "session-medical-003",
+   "session-medical-008",
+   "session-medical-020"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-021",
+   "sponsor-medical-004"
+  ],
+  "tickets": []
+ },
+ "The Customer Excellence Agency": {
+  "aliases": [
+   "thecustomerexcellenceagency"
+  ],
+  "speakers": [],
+  "sessions": [
+   "session-viennacx-019"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "The Human Algorithm": {
+  "aliases": [
+   "humanalgorithm",
+   "thehumanalgorithm",
+   "thehumanalgorithmadvisory"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-019",
+   "speaker-viennacx-038"
+  ],
+  "sessions": [
+   "session-dubrovnik-044",
+   "session-viennacx-030"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "Think Next": {
+  "aliases": [
+   "thinknext"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-123",
+   "speaker-medical-016"
+  ],
+  "sessions": [
+   "session-dubrovnik-053"
+  ],
+  "sponsors": [],
+  "tickets": []
+ },
+ "TrueBlue": {
+  "aliases": [
+   "trueblue"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "valantic": {
+  "aliases": [
+   "valantic"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-094"
+  ],
+  "sessions": [
+   "session-dubrovnik-021"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-005"
+  ],
+  "tickets": []
+ },
+ "Viseven": {
+  "aliases": [
+   "viseven"
+  ],
+  "speakers": [
+   "speaker-dubrovnik-108",
+   "speaker-viennacx-066"
+  ],
+  "sessions": [
+   "session-dubrovnik-024",
+   "session-dubrovnik-041",
+   "session-viennacx-007"
+  ],
+  "sponsors": [
+   "sponsor-dubrovnik-015",
+   "sponsor-viennacx-001"
+  ],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Visual Pharma by Powtoon": {
+  "aliases": [
+   "visualpharmabypowtoon"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-dubrovnik-031"
+  ],
+  "tickets": []
+ },
+ "Writer": {
+  "aliases": [
+   "writer"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ },
+ "Xpeer": {
+  "aliases": [
+   "xpeer"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [
+   "sponsor-medical-005"
+  ],
+  "tickets": []
+ },
+ "ZS": {
+  "aliases": [
+   "zs"
+  ],
+  "speakers": [],
+  "sessions": [],
+  "sponsors": [],
+  "tickets": [
+   "tickets-dubrovnik"
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+  "record_id": "agenda-speaker-medical-023",
+  "speaker_name": "Yazan Iwidat",
+  "designation": "Global Omnichannel Experience Standards Lead",
+  "company": "MSD",
+  "event_name": "Medical",
+  "event_year": 2026,
+  "linkedin_url": "https://www.linkedin.com/in/yazaniwidat",
+  "recovered_via_manual_research": false,
+  "linkedin_headline_company": null,
+  "linkedin_location": null,
+  "linkedin_connections": null,
+  "linkedin_followers": "3037",
+  "linkedin_about": null,
+  "linkedin_about_en": null,
+  "linkedin_languages": null,
+  "linkedin_languages_en": null,
+  "linkedin_certifications": "- **Inbound Certification**, HubSpot (2016)\n- **Adwords Certificate**, Google (2016)\n- **Human Centered Design Thinking Practitioner**, LUMA Institute (2024)\n\n## Awards\n- **Winning Student Company**, Injaz Palestine Association (2008)\n- **The Higher Education Award**, The Palestinian Ministry of Higher Education (2009)\n- **Honor List Award**, Birzeit University (2011)\n- **Honor List Award**, Birzeit University (2011)\n- **Honor List Award**, Birzeit University (2012)\n\n**Languages:** Arabic (Native or bilingual proficiency), English (Native or bilingual proficiency), French (Native or bilingual proficiency)\n\n## Recommendations (0)\n- **Marie-Pierre Sorba:** “Yazan is wonderful to work with. His enthusiasm and dedication lead to outstanding results. I had the chance to work with him on a challenging remote detailing project, his expertise and hard work were critical for the excellent results achieved. On top of being a great professional Yazan is a...\n- **Asmâa Mellah:** “J'ai eu l'occasion et le plaisir de travailler avec Yazan sur différents projets marketing. Il a fait preuve d'une grande capacité d'adaptation et de polyvalence. Aussi, ses qualités analytiques, créatives et digitales ont été des éléments clés au succès des opérations mises en place. Sa...",
+  "linkedin_certifications_en": null,
+  "linkedin_honors_and_awards": null,
+  "linkedin_honors_and_awards_en": null,
+  "linkedin_activity": [],
+  "linkedin_people_also_viewed": [],
+  "linkedin_industry": "pharmaceuticals",
+  "linkedin_current_company": "msd",
+  "linkedin_current_company_website": "msd.com",
+  "linkedin_skills": [
+    "analytical skills",
+    "arts administration",
+    "brand strategy",
+    "capabilities development",
+    "communication",
+    "communication skills",
+    "community development",
+    "consulting",
+    "contemporary dance",
+    "creative writing",
+    "creativity skills",
+    "cross functional team leadership",
+    "customer experience",
+    "customer service",
+    "dance",
+    "dance education",
+    "design thinking",
+    "digital channels",
+    "digital marketing",
+    "digital transformation",
+    "event management",
+    "festivals",
+    "google ads",
+    "google data studio",
+    "improvisation",
+    "inbound marketing",
+    "leadership",
+    "management",
+    "market research",
+    "marketing",
+    "marketing communications",
+    "marketing strategy",
+    "microsoft office",
+    "microsoft outlook",
+    "non profit volunteer",
+    "omni channel marketing",
+    "operations management",
+    "organization skills",
+    "performing arts",
+    "pharmaceutical marketing",
+    "public relations",
+    "public speaking",
+    "research",
+    "salesforce.com administration",
+    "search engine marketing",
+    "search engine optimization",
+    "self learning",
+    "social media",
+    "social media marketing",
+    "social networking",
+    "stage",
+    "strategic planning",
+    "team building",
+    "team leadership",
+    "team management",
+    "teamwork",
+    "time management",
+    "volunteering"
+  ],
+  "linkedin_experience": [
+    {
+      "title": "associate director, enterprise content architecture & intelligent content",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-01",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "college lecturer marketing",
+      "company": "académie royale des beaux-arts de bruxelles - ecole supérieure des arts",
+      "company_industry": "higher education",
+      "start_date": "2025-01",
+      "end_date": null,
+      "is_primary": false
+    },
+    {
+      "title": "associate director, global omnichannel experience standards",
+      "company": "msd",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-02",
+      "end_date": "2025-12",
+      "is_primary": false
+    },
+    {
+      "title": "customer experience & digital marketing lead",
+      "company": "msd belgium",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2020-10",
+      "end_date": "2023-02",
+      "is_primary": false
+    },
+    {
+      "title": "customer experience manager - primary care",
+      "company": "msd belgium",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-06",
+      "end_date": "2020-10",
+      "is_primary": false
+    },
+    {
+      "title": "product manager - marketing & channels",
+      "company": "lifescan",
+      "company_industry": "medical devices",
+      "start_date": "2018-04",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "marketing consultant, digital and multichannel",
+      "company": "precision aq - international",
+      "company_industry": "management consulting",
+      "start_date": "2016-11",
+      "end_date": "2019-05",
+      "is_primary": false
+    },
+    {
+      "title": "marketing consultant",
+      "company": "zonder handen circus school",
+      "company_industry": null,
+      "start_date": "2016-03",
+      "end_date": "2016-07",
+      "is_primary": false
+    },
+    {
+      "title": "tour manager assistant",
+      "company": "kvs (koninklijke vlaamse schouwburg)",
+      "company_industry": "performing arts",
+      "start_date": "2014-07",
+      "end_date": "2015-07",
+      "is_primary": false
+    },
+    {
+      "title": "communication officer",
+      "company": "rozana association",
+      "company_industry": "non-profit organization management",
+      "start_date": "2014-01",
+      "end_date": "2014-12",
+      "is_primary": false
+    },
+    {
+      "title": "research assistant",
+      "company": "al markaz for development & marketing consultancies",
+      "company_industry": null,
+      "start_date": "2013-09",
+      "end_date": "2014-03",
+      "is_primary": false
+    },
+    {
+      "title": "coordinator of promoters",
+      "company": "sky advertising, pr and events management",
+      "company_industry": "marketing and advertising",
+      "start_date": "2012-10",
+      "end_date": "2014-01",
+      "is_primary": false
+    }
+  ],
+  "linkedin_education": [
+    {
+      "school": "solvay brussels school of economics and management",
+      "majors": [
+        "marketing"
+      ],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2015-01",
+      "end_date": "2016"
+    },
+    {
+      "school": "birzeit university",
+      "majors": [
+        "business administration",
+        "marketing"
+      ],
+      "degrees": [
+        "bachelors"
+      ],
+      "start_date": "2009-01",
+      "end_date": "2013"
+    },
+    {
+      "school": "greek catholic school of our lady annunciation",
+      "majors": [],
+      "degrees": [],
+      "start_date": "1996-01",
+      "end_date": "2009"
+    }
+  ],
+  "data_sources": {
+    "tavily": true,
+    "pdl": true
+  },
+  "missing_fields": [
+    "linkedin_about"
+  ]
+}

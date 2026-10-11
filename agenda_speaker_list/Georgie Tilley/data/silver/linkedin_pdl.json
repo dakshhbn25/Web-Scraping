@@ -1,0 +1,196 @@
+{
+  "record_id": "agenda-speaker-medical-007",
+  "speaker_name": "Georgie Tilley",
+  "linkedin_url": "https://uk.linkedin.com/in/georgina-tilley-phd-39802251",
+  "likelihood": 9,
+  "full_name": "georgina tilley",
+  "job_title": "director global medical strategy and execution",
+  "industry": "pharmaceuticals",
+  "current_company": "leo pharma",
+  "current_company_website": "leo-pharma.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "united kingdom",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "building strong business relationships",
+    "cardiovascular medicine",
+    "childhood obesity",
+    "clinical data management",
+    "clinical nutrition",
+    "clinical research",
+    "clinical trials",
+    "communication",
+    "corporate communications",
+    "critical thinking",
+    "data analysis",
+    "diabetes",
+    "diabetes care",
+    "diabetes management",
+    "healthcare",
+    "hitting targets",
+    "influence at all levels",
+    "life sciences",
+    "management",
+    "medical devices",
+    "medicine",
+    "obesity",
+    "organization",
+    "pharmaceutical industry",
+    "pharmaceutical sales",
+    "pharmaceutics",
+    "procedure manuals",
+    "public speaking",
+    "reference management",
+    "report writing",
+    "sales",
+    "social influence",
+    "talent development",
+    "territory development",
+    "thinking skills",
+    "type 2 diabetes"
+  ],
+  "interests": [
+    "health",
+    "jewellery making",
+    "live music"
+  ],
+  "experience": [
+    {
+      "title": "director global medical strategy and execution",
+      "company": "leo pharma",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2026-04",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "medical solutions lead",
+      "company": "sorcero",
+      "company_industry": "computer software",
+      "start_date": "2025-11",
+      "end_date": "2026-04",
+      "is_primary": false
+    },
+    {
+      "title": "director of medical excellence eucan",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2025-01",
+      "end_date": "2025-10",
+      "is_primary": false
+    },
+    {
+      "title": "chair",
+      "company": "medical science liaison association",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2023-10",
+      "end_date": "2024-12",
+      "is_primary": false
+    },
+    {
+      "title": "director of frontline medical excellence nw europe",
+      "company": "novo nordisk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-03",
+      "end_date": "2025-01",
+      "is_primary": false
+    },
+    {
+      "title": "msl team lead",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-07",
+      "end_date": "2021-03",
+      "is_primary": false
+    },
+    {
+      "title": "senior cardiometabolic msl",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2019-01",
+      "end_date": "2019-07",
+      "is_primary": false
+    },
+    {
+      "title": "diabetes msl",
+      "company": "boehringer ingelheim",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-01",
+      "end_date": "2019-07",
+      "is_primary": false
+    },
+    {
+      "title": "medical science liaison",
+      "company": "astrazeneca",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2014-11",
+      "end_date": "2016-01",
+      "is_primary": false
+    },
+    {
+      "title": "diabetes care specialist",
+      "company": "abbott",
+      "company_industry": "hospital & health care",
+      "start_date": "2013-06",
+      "end_date": "2014-11",
+      "is_primary": false
+    },
+    {
+      "title": "account manager",
+      "company": "johnson & johnson",
+      "company_industry": "hospital & health care",
+      "start_date": "2012-06",
+      "end_date": "2013-06",
+      "is_primary": false
+    },
+    {
+      "title": "medical representative- cardio metabolic division",
+      "company": "merck",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2011-03",
+      "end_date": "2012-06",
+      "is_primary": false
+    },
+    {
+      "title": "phd student",
+      "company": "university of bristol",
+      "company_industry": "higher education",
+      "start_date": "2007-10",
+      "end_date": "2010-12",
+      "is_primary": false
+    },
+    {
+      "title": "discovery scientist",
+      "company": "gsk",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2005-09",
+      "end_date": "2006-09",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "university of bristol",
+      "majors": [
+        "philosophy"
+      ],
+      "degrees": [
+        "doctor of philosophy",
+        "doctorates"
+      ],
+      "start_date": "2007-01",
+      "end_date": "2010"
+    },
+    {
+      "school": "university of the west of england",
+      "majors": [],
+      "degrees": [
+        "bachelor of science",
+        "bachelors"
+      ],
+      "start_date": "2003-01",
+      "end_date": "2007"
+    }
+  ]
+}

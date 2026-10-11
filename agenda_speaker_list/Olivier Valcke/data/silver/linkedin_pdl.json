@@ -1,0 +1,115 @@
+{
+  "record_id": "agenda-speaker-medical-015",
+  "speaker_name": "Olivier Valcke",
+  "linkedin_url": "https://fr.linkedin.com/in/olivier-valcke-58450030",
+  "likelihood": 9,
+  "full_name": "olivier valcke",
+  "job_title": "director - biocodex microbiota institute",
+  "industry": "pharmaceuticals",
+  "current_company": "biocodex",
+  "current_company_website": "biocodex.com",
+  "current_company_industry": "pharmaceuticals",
+  "location_country": "france",
+  "location_region": true,
+  "location_locality": true,
+  "skills": [
+    "communication marketing",
+    "economics",
+    "editorial",
+    "gestion de projet",
+    "javascript",
+    "journalisme",
+    "microsoft office",
+    "relations publiques",
+    "rencontres de l'officine",
+    "social media",
+    "text editing"
+  ],
+  "interests": [],
+  "experience": [
+    {
+      "title": "director - biocodex microbiota institute",
+      "company": "biocodex",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2024-11",
+      "end_date": null,
+      "is_primary": true
+    },
+    {
+      "title": "directeur éditorial",
+      "company": "biocodex microbiota institute",
+      "company_industry": "information services",
+      "start_date": "2021-01",
+      "end_date": "2025-01",
+      "is_primary": false
+    },
+    {
+      "title": "public relation & editorial manager at biocodex microbiota institute",
+      "company": "biocodex",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2021-01",
+      "end_date": "2024-11",
+      "is_primary": false
+    },
+    {
+      "title": "conseiller informations et argumentaires",
+      "company": "leem",
+      "company_industry": "pharmaceuticals",
+      "start_date": "2016-09",
+      "end_date": "2021-01",
+      "is_primary": false
+    },
+    {
+      "title": "rédacteur en chef",
+      "company": "revue pharma",
+      "company_industry": null,
+      "start_date": "2010-08",
+      "end_date": "2016-08",
+      "is_primary": false
+    },
+    {
+      "title": "rédacteur",
+      "company": "angie",
+      "company_industry": "public relations and communications",
+      "start_date": "2008-01",
+      "end_date": "2010-08",
+      "is_primary": false
+    },
+    {
+      "title": "pigiste",
+      "company": "le canard enchaîné",
+      "company_industry": null,
+      "start_date": "2005",
+      "end_date": "2006",
+      "is_primary": false
+    },
+    {
+      "title": "rédacteur",
+      "company": "france-soir",
+      "company_industry": "newspapers",
+      "start_date": "2004",
+      "end_date": "2004",
+      "is_primary": false
+    }
+  ],
+  "education": [
+    {
+      "school": "celsa paris - sorbonne",
+      "majors": [
+        "communication"
+      ],
+      "degrees": [],
+      "start_date": "2018-01",
+      "end_date": "2018-12"
+    },
+    {
+      "school": "université lille 3 charles de gaulle",
+      "majors": [],
+      "degrees": [
+        "masters"
+      ],
+      "start_date": "2005-01",
+      "end_date": "2006-12"
+    }
+  ]
+}
