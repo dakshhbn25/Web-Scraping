@@ -17,7 +17,12 @@ def clean_location(loc) -> str:
     loc = re.sub(r"\s+", " ", str(loc or "")).strip()
     if len(loc) > 80 or re.search(r"linkedin|cookie|\]\(|skip to|sign in|join now", loc, re.I):
         return ""
-    return loc
+    parts, seen = [], set()
+    for part in (p.strip() for p in loc.split(",")):  # 'Zug, Zug, Switzerland, CH' -> 'Zug, Switzerland, CH'
+        if part and part.lower() not in seen:
+            seen.add(part.lower())
+            parts.append(part)
+    return ", ".join(parts)
 
 
 def read_pdl_country(person_folder) -> str:
