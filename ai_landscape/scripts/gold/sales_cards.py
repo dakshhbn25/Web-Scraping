@@ -10,7 +10,7 @@ Markdown renderer for those columns.
 
 Company fields (the same on every row of a company):
   phamax_relationship   customer of Phamax / Ariya (with the public source), or not publicly listed
-  account_priority      A / B / C for pharma prospects, "Existing customer: expand", or "Vendor / other" (not a client target: a competitor or possible partner, so no letter)
+  account_priority      A / B / C for pharma prospects, "Existing customer: expand", or "Non-pharma" (not a client target: a competitor or possible partner, so no letter)
   priority_why          the points behind the priority
   warm_paths            contacts who previously worked at a Phamax customer (a way in)
   event_footprint       per event: speakers, sessions, sponsor tier, ticket listing
@@ -18,7 +18,7 @@ Company fields (the same on every row of a company):
   ticket_signal         attendance claims of the events where the company is listed as attending
   sponsor_profile       the company's own sponsor text, tier and website
   key_contacts          every named person (up to 15): title, events, LinkedIn, location, reach, career history, relevant skills
-  swiss_region          Zug / Switzerland / Swiss-based contacts only / No Swiss presence found / Not verified (vendors whose company or location could not be established)
+  swiss_region          Zug / Switzerland / Swiss-based contacts only / Elsewhere / Not verified (vendors whose company or location could not be established)
   swiss_presence        the Swiss HQ or office (from swiss_presence.json) and how many named contacts are Swiss-based
   similar_to_customers  Phamax customers working on the same AI concepts
 Item fields:
@@ -356,10 +356,10 @@ def build(df, items):
             region = "Not verified"
             swiss_text = f"**Not verified:** {md(vendor_check['not_verified'][co])}. Nothing can be said about a Swiss office."
         elif co in vendor_check["not_in_switzerland"]:
-            region = "No Swiss presence found"
+            region = "Elsewhere"
             swiss_text = f"No Swiss office found. Based in {md(vendor_check['not_in_switzerland'][co])} (checked 2026-10-12). That does not prove there is none."
         else:
-            region = "No Swiss presence found"
+            region = "Elsewhere"
             swiss_text = "No Swiss office found in a web search and no Swiss-based named contact. That does not prove there is none."
         if co in customers:
             c = rel[co]
@@ -371,7 +371,7 @@ def build(df, items):
             if is_pharma:
                 priority = "A: approach now" if score >= A_MIN else ("B: nurture" if score >= B_MIN else "C: monitor")
             else:
-                priority = "Vendor / other"
+                priority = "Non-pharma"
             relationship = "Not publicly listed as a Phamax customer (phamax.ch and ariya.ai name only some customers)"
             shared = sorted(((len(concepts[co] & cc), cn) for cn, cc in cust_concepts.items() if concepts[co] & cc), key=lambda x: (-x[0], x[1]))
             similar = ", ".join(f"{cn} ({k} shared concept{'s' if k != 1 else ''})" for k, cn in shared[:3]) or "No overlap with listed customers"

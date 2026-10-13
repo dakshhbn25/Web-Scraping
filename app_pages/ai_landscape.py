@@ -2,6 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 
+from utils.atlas_filters import filter_groups, map_url
 from utils.data import load_ai_landscape
 
 MAP_FILE =Path(__file__).resolve().parent.parent / "static" / "ai_landscape" / "index.html"
@@ -20,33 +21,31 @@ companies = {i["company"] for i in items}
 concepts = {i["concept"] for i in work}
 swiss_cos = {i["company"]: i["swiss_region"] for i in items}
 with_swiss = sum(r in ("Zug", "Switzerland") for r in swiss_cos.values())
-in_zug = sum(r == "Zug" for r in swiss_cos.values())
 review_count = sum(i["tag_check"] == "review" for i in work)
-tiers = {t: len({i["company"] for i in items if i["relevance"] == t}) for t in ("High", "Medium", "Low", "None")}
-
-st.caption(
-    "What every company in our gold data is doing in AI, grouped by concept. "
-    "Each item is one thing a company is doing, taken from its sponsor text, agenda sessions, roles or public sources. "
-    f"Relevance to Ariya: {tiers['High']} high, {tiers['Medium']} medium, {tiers['Low']} low, {tiers['None']} none."
-)
 
 with st.container(horizontal=True):
     st.metric("AI work items", len(work), border=True)
     st.metric("Companies", len(companies), border=True)
     st.metric("AI concepts", len(concepts), border=True)
-    st.metric(
-        "Swiss Office", with_swiss, border=True,
-        help=f"Companies with a headquarters or office in Switzerland ({in_zug} of them in Zug, where Phamax is based). Found by web search, so a company with none listed may still have one.",
-    )
-    st.metric(
-        "Items to review", review_count, border=True,
-        help="Stray points: the wording sits closer to another concept than the one tagged. In the map, open the Tag check chart and click 'review' to see them.",
-    )
+    st.metric("Swiss Office", with_swiss, border=True)
+    st.metric("Items to review", review_count, border=True)
 
 st.subheader("Concept map")
 if MAP_FILE.exists():
+    groups = {g["label"]: g for g in filter_groups(items)}
+    picked = {}
+    company_col, *other_cols = st.columns([5, 3, 3, 3], vertical_alignment="bottom")
+    with company_col:
+        kind = st.segmented_control("Type", ["All", *groups["Type"]["values"]], default="All") or "All"
+        shown = sorted({i["company"] for i in items if kind in ("All", i["company_type"])})  # the type narrows the company list
+        picked[groups["Company"]["chart"]] = st.multiselect("Company", shown, placeholder="Search here")
+    if kind != "All":
+        picked[groups["Type"]["chart"]] = [kind]
+    for col, label in zip(other_cols, ("Location", "Priority", "Relevance to Ariya")):
+        values = [v for v in groups[label]["values"] if v != "Non-pharma"]  # non-pharma is picked with the Type switch
+        picked[groups[label]["chart"]] = col.multiselect(label, values, placeholder="Search here")
     with st.container(border=True):
-        st.iframe(MAP_URL, height=920)
+        st.iframe(map_url(MAP_URL, picked), height=920)
 else:
     st.warning(
         "The map files are missing from static/ai_landscape. Rebuild them with ai_landscape/scripts/gold/export_atlas.py.",

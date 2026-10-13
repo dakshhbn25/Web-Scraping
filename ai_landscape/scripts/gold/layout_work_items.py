@@ -74,7 +74,7 @@ rows = []
 for n, it in enumerate(items):
     gold = [f"{g['file']}:{g['record_id']}" for g in it["gold_records"]]
     rows.append({
-        "id": it["id"], "company": it["company"], "company_type": it["company_type"], "relevance": it["relevance"], "text": it["text"],
+        "id": it["id"], "company": it["company"], "company_type": "Non-pharma" if it["company_type"] == "Vendor / other" else it["company_type"], "relevance": it["relevance"], "text": it["text"],
         "concept": it["concept"], "concept_secondary": it["concept_secondary"] or "-", "team_served": it["team_served"],
         "decision_intelligence_fit": "n/a" if it["decision_intelligence_fit"] is None else ("Yes" if it["decision_intelligence_fit"] else "No"), "signal": it["signal"],
         "evidence_quality": it["evidence_quality"], "data_flag": it.get("data_flag", "none"), "date": it["date"],

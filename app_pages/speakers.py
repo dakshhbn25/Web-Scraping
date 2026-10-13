@@ -218,8 +218,6 @@ with st.sidebar:
     location_filter = st.selectbox(
         "Location",
         ["All locations", "Based in Switzerland", "Based in Zug", "Swiss-office employer, based elsewhere"],
-        help="Based in = the LinkedIn location (PDL's country where LinkedIn gave none). Swiss office = the person's current employer has a Swiss HQ or office "
-             "(ai_landscape/data/silver/swiss_presence.json), wherever the person is located. Swiss-based people are listed first, then people at Swiss-office companies.",
     )
 
 

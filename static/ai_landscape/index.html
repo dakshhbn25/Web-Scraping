@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-  <head><base target="_blank" />
+  <head><script id="atlas-dark-default">(function(){var mm=window.matchMedia.bind(window);window.matchMedia=function(q){if(/prefers-color-scheme:\s*dark/.test(q))return{matches:true,media:q,onchange:null,addEventListener:function(){},removeEventListener:function(){},addListener:function(){},removeListener:function(){},dispatchEvent:function(){return false}};return mm(q)}})()</script><base target="_blank" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Embedding Atlas</title>
@@ -12,7 +12,38 @@
     </style>
     <script type="module" crossorigin src="./assets/index-BuNyHkIX.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-Ddf5_PXc.css">
-  </head>
+  <script>if(new URLSearchParams(location.search).has('nopanel')){var s=document.createElement('style');s.textContent='.w-full.h-full.flex.flex-row>.overflow-y-scroll.overflow-x-hidden.h-full,.w-full.h-full.flex.flex-row>.w-2.flex-none{display:none!important}';document.head.appendChild(s)}</script><script id="atlas-card-expand">(function(){
+var SEL='.embedding-atlas-root > .p-2.border.shadow-md';
+function show(card){
+  var content=Array.prototype.find.call(card.children,function(c){return !c.hasAttribute('data-expand')});
+  if(!content)return;
+  var cs=getComputedStyle(card),host=document.querySelector('.dark')||document.getElementById('app')||document.body;
+  var ov=document.createElement('div');
+  ov.style.cssText='position:fixed;left:0;top:0;right:0;bottom:0;z-index:2147483647;overflow:auto;padding:24px 12px;box-sizing:border-box;background:rgba(0,0,0,.82)';
+  var sheet=document.createElement('div');
+  sheet.style.cssText='max-width:900px;margin:0 auto;padding:20px 24px;border-radius:8px;font-size:17px;line-height:1.5;background-color:'+(host.classList.contains('dark')?'#0f172a':'#fff')+';background-image:linear-gradient('+cs.backgroundColor+','+cs.backgroundColor+');color:'+cs.color;
+  var x=document.createElement('button');
+  x.textContent='✕ Close';
+  x.style.cssText='position:sticky;top:0;float:right;margin:-8px -12px 0 0;padding:4px 12px;border-radius:6px;border:1px solid currentColor;background:inherit;color:inherit;cursor:pointer;font:inherit;font-size:14px;z-index:1';
+  var copy=content.cloneNode(true);
+  sheet.appendChild(x);sheet.appendChild(copy);ov.appendChild(sheet);host.appendChild(ov);
+  function close(){document.removeEventListener('keydown',key,true);ov.remove()}
+  function key(e){if(e.key==='Escape'){e.stopPropagation();close()}}
+  x.onclick=close;ov.onclick=function(e){if(e.target===ov)close()};
+  document.addEventListener('keydown',key,true);
+}
+function enhance(){
+  document.querySelectorAll(SEL).forEach(function(card){
+    if(card.querySelector(':scope > [data-expand]'))return;
+    var b=document.createElement('button');
+    b.setAttribute('data-expand','1');b.textContent='⤢ Expand';b.title='Read this card full screen';
+    b.style.cssText='position:sticky;top:0;align-self:flex-end;height:22px;margin-bottom:-22px;z-index:2;padding:0 8px;font-size:12px;border-radius:4px;border:1px solid currentColor;background:inherit;color:inherit;cursor:pointer';
+    b.onclick=function(e){e.stopPropagation();show(card)};
+    card.insertBefore(b,card.firstChild);
+  });
+}
+var t=0;new MutationObserver(function(){if(!t)t=requestAnimationFrame(function(){t=0;enhance()})}).observe(document.documentElement,{childList:true,subtree:true});
+})()</script></head>
   <body>
     <div id="app" class="embedding-atlas-root"></div>
   </body>

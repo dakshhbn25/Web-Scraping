@@ -23,7 +23,6 @@ tickets = load_tickets()
 
 landscape = {r["company"]: r for r in load_ai_landscape()}  # one row per company is enough: the Swiss fields are company-level
 swiss_orgs = sum(r["swiss_region"] in ("Zug", "Switzerland") for r in landscape.values())
-swiss_pharma = sum(r["swiss_region"] in ("Zug", "Switzerland") and r["company_type"] == "Pharma" for r in landscape.values())
 zug_orgs = sum(r["swiss_region"] == "Zug" for r in landscape.values())
 all_events = sorted(set(events(speaker_appearances)) | {e for s in agenda_only for e in (s.get("events") or [s["event_name"]])})
 st.caption(f"Gold-layer summary across {len(all_events)} NEXT Pharma events")
@@ -33,10 +32,8 @@ with st.container(horizontal=True):
     st.metric("Sessions", len(agenda), border=True)
     st.metric("Sponsors", len(sponsors), border=True)
     st.metric("Events", len(all_events), border=True)
-    st.metric("Organization in Switzerland", swiss_orgs, border=True,
-              help=f"Companies on the AI landscape map with a headquarters or office in Switzerland: {swiss_pharma} pharma and {swiss_orgs - swiss_pharma} vendors and other organizations. Found by web search, so a company with none listed may still have one.")
-    st.metric("Organization in Zug", zug_orgs, border=True,
-              help="The same companies, limited to those with an HQ or office in the Zug area (Zug, Baar, Cham, Rotkreuz, Steinhausen and neighbours), where Phamax is based.")
+    st.metric("Organization in Switzerland", swiss_orgs, border=True)
+    st.metric("Organization in Zug", zug_orgs, border=True)
 
 st.subheader("Speaker data completeness")
 
