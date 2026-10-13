@@ -83,12 +83,31 @@ idx = out / "index.html"
 html = idx.read_text(encoding="utf-8")
 if "<base " not in html:
     html = html.replace("<head>", '<head><base target="_blank" />', 1)
-# With ?nopanel in the address the charts side panel is only hidden, not removed. The Streamlit boxes above the map filter through those charts,
-# so they must stay alive (a layout with showCharts=false drops them and the filters stop working).
-if "nopanel" not in html:
-    hide = ("<script>if(new URLSearchParams(location.search).has('nopanel')){var s=document.createElement('style');"
-            "s.textContent='.w-full.h-full.flex.flex-row>.overflow-y-scroll.overflow-x-hidden.h-full,.w-full.h-full.flex.flex-row>.w-2.flex-none{display:none!important}';"
-            "document.head.appendChild(s)}</script>")
+# With ?nopanel in the address the charts side panel starts hidden, but it is only hidden, not removed. The Streamlit boxes above the map filter through
+# those charts, so they must stay alive (a layout with showCharts=false drops them and the filters stop working). The map's own "Show / hide charts"
+# button would remove them, so this script takes over that button: it shows or hides the panel and flips the button's look (taken from the table button,
+# which starts "off", and the embedding button, which starts "on"). The button therefore works, and the filters keep working either way.
+if "atlas-panel-toggle" not in html:
+    hide = r"""<script id="atlas-panel-toggle">(function(){
+var hidden=new URLSearchParams(location.search).has('nopanel'),onCls=null,offCls=null;
+var st=document.createElement('style');
+st.textContent='html.atlas-nopanel .w-full.h-full.flex.flex-row>.overflow-y-scroll.overflow-x-hidden.h-full,html.atlas-nopanel .w-full.h-full.flex.flex-row>.w-2.flex-none{display:none!important}';
+document.head.appendChild(st);
+function apply(){document.documentElement.classList.toggle('atlas-nopanel',hidden)}
+function btn(t){return Array.prototype.find.call(document.querySelectorAll('button'),function(b){return b.title===t})}
+function setup(){
+  var c=btn('Show / hide charts');
+  if(!c||c.hasAttribute('data-panel-toggle'))return;
+  var e=btn('Show / hide embedding'),t=btn('Show / hide table');
+  if(!onCls&&e&&t){onCls=e.className;offCls=t.className}  // the first time, both still have their start-up look
+  if(!onCls)return;
+  c.setAttribute('data-panel-toggle','1');
+  c.className=hidden?offCls:onCls;
+  c.addEventListener('click',function(ev){ev.stopImmediatePropagation();ev.preventDefault();hidden=!hidden;apply();c.className=hidden?offCls:onCls},true);
+}
+apply();
+var q=0;new MutationObserver(function(){if(!q)q=requestAnimationFrame(function(){q=0;setup()})}).observe(document.documentElement,{childList:true,subtree:true});
+})()</script>"""
     html = html.replace("</head>", hide + "</head>", 1)
 # Dark by default: Atlas follows the browser's light/dark setting, so tell it the browser prefers dark. The viewer can still switch with the map's own
 # light/dark button. (Done here, not in metadata.json, because browsers keep serving a stale cached metadata.json.)

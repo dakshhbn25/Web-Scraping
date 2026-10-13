@@ -48,4 +48,5 @@ def map_url(base_url: str, picked: dict[str, list[str]]) -> str:
     packer = zlib.compressobj(wbits=-15)  # raw deflate, as Atlas expects
     packed = packer.compress(json.dumps(state, separators=(",", ":")).encode("utf-8")) + packer.flush()
     token = base64.urlsafe_b64encode(packed).decode().rstrip("=")
-    return f"{base_url}?nopanel&v={zlib.crc32(token.encode())}#?state={token}"
+    page_stamp = int(META.parent.parent.joinpath("index.html").stat().st_mtime)  # changes whenever the map page is re-exported, so browsers never reuse an old copy
+    return f"{base_url}?nopanel&v={zlib.crc32(f'{token}{page_stamp}'.encode())}#?state={token}"
