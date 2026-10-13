@@ -18,7 +18,12 @@ def show_detail(record: dict):
         st.markdown(f"### {name}")
         st.caption(f"{', '.join(record.get('events') or [record['event_name']])} · {record.get('event_year', '')}")
 
-    st.badge(record["tier"], color=TIER_COLOR[record["tier"]], icon=":material/verified:")
+    with st.container(horizontal=True):
+        st.badge(record["tier"], color=TIER_COLOR[record["tier"]], icon=":material/verified:")
+        if record.get("swiss_based"):
+            st.badge("Based in Switzerland" + (" (Zug)" if record.get("zug_canton") else ""), color="red", icon=":material/location_on:")
+        if record.get("swiss_company"):
+            st.badge(f"Works for {record['swiss_company']}, Swiss office: {', '.join(record['swiss_company_places'][:3])}", color="orange", icon=":material/business:")
     sources = record.get("enrichment_sources") or {}
     active = [n for n, on in [("Tavily", sources.get("tavily")), ("PDL", sources.get("pdl"))] if on]
     if record.get("has_alt_sources"):
@@ -210,6 +215,12 @@ with st.sidebar:
         selection_mode="multi",
         default=available_tiers,
     )
+    location_filter = st.selectbox(
+        "Location",
+        ["All locations", "Based in Switzerland", "Based in Zug", "Swiss-office employer, based elsewhere"],
+        help="Based in = the LinkedIn location (PDL's country where LinkedIn gave none). Swiss office = the person's current employer has a Swiss HQ or office "
+             "(ai_landscape/data/silver/swiss_presence.json), wherever the person is located. Swiss-based people are listed first, then people at Swiss-office companies.",
+    )
 
 
 def apply_filters(records: list[dict], search: str) -> list[dict]:
@@ -217,6 +228,12 @@ def apply_filters(records: list[dict], search: str) -> list[dict]:
     if selected_event != "All events":
         out = [s for s in out if selected_event in (s.get("events") or [s["event_name"]])]
     out = [s for s in out if s["tier"] in (tier_filter or [])]
+    if location_filter == "Swiss-office employer, based elsewhere":
+        out = [s for s in out if s.get("swiss_via_company_only")]
+    elif location_filter == "Based in Switzerland":
+        out = [s for s in out if s.get("swiss_based")]
+    elif location_filter == "Based in Zug":
+        out = [s for s in out if s.get("zug_canton")]
     if search:
         q = search.lower()
         out = [
@@ -226,7 +243,8 @@ def apply_filters(records: list[dict], search: str) -> list[dict]:
             or q in (s.get("designation") or "").lower()
             or q in (s.get("company") or "").lower()
         ]
-    return out
+    # Phamax is in Zug: people based in Switzerland first, then people at companies with a Swiss office, then the rest (order otherwise unchanged)
+    return sorted(out, key=lambda s: 0 if s.get("swiss_based") else (1 if s.get("swiss_company") else 2))
 
 
 def render_cards(records: list[dict], page_key: str, noun: str):
@@ -248,10 +266,17 @@ def render_cards(records: list[dict], page_key: str, noun: str):
                 st.markdown(f"**{record['speaker_name']}**")
                 where = ", ".join(record.get("events") or [record["event_name"]])
                 st.caption(f"{where} · {record.get('designation') or 'Speaker'}"
-                           + (f" at {record['company']}" if record.get("company") else ""))
+                           + (f" at {record['company']}" if record.get("company") else "")
+                           + (f" · {record['linkedin_location']}" if record.get("linkedin_location") else ""))
             with col_action:
+                # badges on one row, the button always on its own row below, so every card looks the same
                 with st.container(horizontal=True, horizontal_alignment="right"):
+                    if record.get("swiss_based"):
+                        st.badge("Zug" if record.get("zug_canton") else "Switzerland", color="red")
+                    elif record.get("swiss_company"):
+                        st.badge("Swiss-office company", color="orange")
                     st.badge(record["tier"], color=TIER_COLOR[record["tier"]])
+                with st.container(horizontal=True, horizontal_alignment="right"):
                     if st.button("View details", key=f"view_{record['record_id']}", icon=":material/visibility:"):
                         show_detail(record)
 
@@ -268,10 +293,6 @@ with tab_list:
     render_cards(apply_filters(speakers, search), "speakers_page", f"{len(speakers)} speaker appearances")
 
 with tab_agenda:
-    st.caption(
-        "People who speak in the agenda sessions but are not on the speakers pages. Anyone already in the speakers list is "
-        "matched to it and not repeated here, so each person appears once across both tabs."
-    )
     search_agenda = st.text_input(
         "Search agenda speakers",
         placeholder="Search by name, company, or title...",

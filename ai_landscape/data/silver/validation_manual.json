@@ -1,0 +1,131 @@
+{
+ "note": "Hand-checked evidence for entries whose cited page cannot be fetched by the validator (blocked, PDF or JavaScript). Each places_confirmed list holds only places that the quoted text states. Evidence is text read in the page title or snippet returned by a web search on 2026-10-12.",
+ "Opella": {
+  "places_confirmed": [
+   "Rotkreuz (ZG)"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Moneyhouse page title: 'Opella Healthcare Switzerland AG in Rotkreuz'; text: 'is a Company limited by shares (AG) with its legal headquarters in R...' (cut off)"
+ },
+ "BioNTech": {
+  "places_confirmed": [
+   "Basel"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Moneyhouse page title: 'BioNTech Switzerland GmbH in Basel' (CHE-189.526.416); business-informations.ch: 'situated in the canton Basel-Stadt'"
+ },
+ "Endava": {
+  "places_confirmed": [
+   "Zug"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Moneyhouse page: 'Endava Switzerland GmbH has its legal headquarters in Zug'"
+ },
+ "BeOne Medicines": {
+  "places_confirmed": [
+   "Basel"
+  ],
+  "hq_confirmed": true,
+  "evidence": "SEC 424B3 filing text: 'BeOne Medicines AG ... eine Aktiengesellschaft mit Sitz in Basel, Kanton Basel-Stadt, Schweiz'"
+ },
+ "KalVista": {
+  "places_confirmed": [
+   "Switzerland"
+  ],
+  "hq_confirmed": false,
+  "evidence": "SEC Exhibit 21.1 subsidiaries list: 'KalVista Pharmaceuticals Switzerland GmbH | Switzerland' (city not stated)"
+ },
+ "PwC": {
+  "places_confirmed": [
+   "Zurich",
+   "Basel",
+   "Geneva",
+   "Zug",
+   "Bern",
+   "Lausanne",
+   "Lucerne"
+  ],
+  "hq_confirmed": false,
+  "evidence": "pwc.ch locations page: 'PwC Switzerland: Aarau, Basel, Bern, Geneva, Lausanne, Liechtenstein, Lugano, Luzern, Neuchâtel, St. Gallen, Winterthur, Zug, Zurich'"
+ },
+ "ZS": {
+  "places_confirmed": [
+   "Zurich"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Moneyhouse (Swiss register mirror) via search result: 'ZS Associates International, Inc., Evanston (Illinois, US), Zweigniederlassung Zürich'; change-of-address notice (SHAB, 18 March 2022): Talstrasse 70, 8001 Zürich."
+ },
+ "Medice": {
+  "places_confirmed": [
+   "Basel"
+  ],
+  "hq_confirmed": false,
+  "evidence": "scienceindustries member list: 'Salmon Pharma GmbH, Basel'; Swiss Biotech listing describes Salmon Pharma as the Swiss subsidiary of MEDICE"
+ },
+ "Ferring": {
+  "places_confirmed": [
+   "Saint-Prex (VD)",
+   "Baar (ZG)"
+  ],
+  "hq_confirmed": true,
+  "evidence": "Saint-Prex: GlobalData and Bioalps list Ferring International Center SA, Chemin de la Vergognausaz 50, 1162 Saint-Prex, and Wikipedia names Saint-Prex as headquarters. Baar: scienceindustries member list 'Ferring AG, Baar'."
+ },
+ "Salesforce": {
+  "places_confirmed": [
+   "Zurich",
+   "Lausanne"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Salesforce's global offices page (salesforce.com/company/locations) lists 'Salesforce Sàrl' in Zürich and in Lausanne, Switzerland (read in a search result)."
+ },
+ "Accenture": {
+  "places_confirmed": [
+   "Zurich"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Swiss business register profile (business-monitor.ch) and yellowpages.swiss list Accenture AG, Sihlstrasse 34, 8001 Zürich; a January 2025 report says Accenture moved to Sihlstrasse and Pelikanstrasse in Zurich."
+ },
+ "Biogen": {
+  "hq_evidence": "Biogen's corporate page (biogen.com/biogen-international.html): international headquarters in Baar; global HQ is in Cambridge, USA."
+ },
+ "Incyte": {
+  "hq_evidence": "Incyte's locations page, 'Headquarters' entry: 1110 Morges, Switzerland (international headquarters)."
+ },
+ "Novartis": {
+  "hq_evidence": "Novartis global headquarters, Lichtstrasse 35, Basel (ZoomInfo HQ record; Wikipedia)."
+ },
+ "Roche": {
+  "hq_evidence": "Roche's own R&D locations page: 'F. Hoffmann-La Roche AG, Konzern-Hauptsitz, Grenzacherstrasse 124', Basel."
+ },
+ "Tillotts Pharma": {
+  "hq_evidence": "Tillotts' own site: 'Tillotts Pharma AG is headquartered in Rheinfelden, Switzerland', Baslerstrasse 15."
+ },
+ "Onomi": {
+  "hq_evidence": "Onomi's about page: 'The Onomi headquarters on Avenue du Théâtre in Lausanne, Switzerland'."
+ },
+ "Galderma": {
+  "hq_evidence": "Galderma's contact page: 'Galderma's Headquarters is based in Zug, Switzerland', Galderma SA, Zählerweg 10, 6300 Zug."
+ },
+ "Adobe": {
+  "places_confirmed": [
+   "Basel"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Moneyhouse (Swiss register mirror) via search result: 'Adobe Research (Schweiz) AG ... the legal headquarters are in Basel'; Basel is also described as a central Adobe R&D location in a 2019 report."
+ },
+ "Avalere Health": {
+  "places_confirmed": [
+   "Basel"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Avalere's own page (avalerehealth.com/company-information) lists 'Avalere Health GmbH' as registered in Switzerland; the Moneyhouse Basel-Stadt directory lists Avalere Health GmbH, domicile Aeschenvorstadt 4, 4051 Basel (registered 27.06.2002)."
+ },
+ "Havas": {
+  "places_confirmed": [
+   "Zurich",
+   "Geneva"
+  ],
+  "hq_confirmed": false,
+  "evidence": "Havas Switzerland site and AdForum: Havas Village Zürich, Morgartenstrasse 6, 8004 Zürich; Havas Village Genève, Rue Pécolat 1, 1201 Genève."
+ }
+}

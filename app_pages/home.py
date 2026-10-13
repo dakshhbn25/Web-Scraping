@@ -4,6 +4,7 @@ from utils.data import (
     events,
     load_agenda,
     load_agenda_speakers,
+    load_ai_landscape,
     load_speakers,
     load_sponsors,
     load_tickets,
@@ -20,6 +21,10 @@ agenda = load_agenda()
 sponsors = load_sponsors()
 tickets = load_tickets()
 
+landscape = {r["company"]: r for r in load_ai_landscape()}  # one row per company is enough: the Swiss fields are company-level
+swiss_orgs = sum(r["swiss_region"] in ("Zug", "Switzerland") for r in landscape.values())
+swiss_pharma = sum(r["swiss_region"] in ("Zug", "Switzerland") and r["company_type"] == "Pharma" for r in landscape.values())
+zug_orgs = sum(r["swiss_region"] == "Zug" for r in landscape.values())
 all_events = sorted(set(events(speaker_appearances)) | {e for s in agenda_only for e in (s.get("events") or [s["event_name"]])})
 st.caption(f"Gold-layer summary across {len(all_events)} NEXT Pharma events")
 
@@ -28,26 +33,18 @@ with st.container(horizontal=True):
     st.metric("Sessions", len(agenda), border=True)
     st.metric("Sponsors", len(sponsors), border=True)
     st.metric("Events", len(all_events), border=True)
-st.caption(f"{len(speakers)} unique people: {len(speakers_list)} from the speakers pages plus {len(agenda_only)} who only appear in the agenda "
-           f"(agenda speakers already on the speakers pages are matched to them, not counted twice). "
-           f"The speakers pages hold {len(speaker_appearances)} speaker-event appearances across {len(all_events)} events "
-           f"({len(speaker_appearances) - len(speakers_list)} people spoke at more than one).")
+    st.metric("Organization in Switzerland", swiss_orgs, border=True,
+              help=f"Companies on the AI landscape map with a headquarters or office in Switzerland: {swiss_pharma} pharma and {swiss_orgs - swiss_pharma} vendors and other organizations. Found by web search, so a company with none listed may still have one.")
+    st.metric("Organization in Zug", zug_orgs, border=True,
+              help="The same companies, limited to those with an HQ or office in the Zug area (Zug, Baar, Cham, Rotkreuz, Steinhausen and neighbours), where Phamax is based.")
 
 st.subheader("Speaker data completeness")
-st.caption("From LinkedIn plus verified non-LinkedIn sources where LinkedIn fell short -- "
-           "see the Speakers page for detail on any profile.")
 
-linkedin_count = sum(1 for s in speakers if s["has_enrichment"])
-alt_source_count = sum(1 for s in speakers if s["has_alt_sources"])
-any_data_count = sum(1 for s in speakers if s["has_enrichment"] or s["has_alt_sources"])
 tier_counts = {"Rich": 0, "Good": 0, "Moderate": 0, "No LinkedIn data": 0}
 for s in speakers:
     tier_counts[s["tier"]] += 1
 
 with st.container(border=True):
-    st.markdown(f"**{any_data_count} of {len(speakers)}** unique speakers have some data attached "
-                f"({linkedin_count} via LinkedIn, {alt_source_count} via a verified alternate source "
-                f"-- these overlap for speakers who have both).")
     # Only show tiers that actually have someone in them -- e.g. "No LinkedIn
     # data" naturally disappears once every gap is covered by an alt-source,
     # without needing to hardcode that removal.
@@ -60,8 +57,6 @@ with st.container(border=True):
             st.markdown(f"### {count}")
 
 st.subheader("Dataset counts by event")
-st.caption("Speakers counts appearances on the speakers pages (an event's own headcount) and agenda-only speakers counts the extra people "
-           "who only appear in that event's agenda; the totals above count unique people.")
 event_rows = []
 for event in all_events:
     event_rows.append(

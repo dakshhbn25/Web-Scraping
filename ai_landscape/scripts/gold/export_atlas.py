@@ -30,8 +30,8 @@ STATE = {
         "3": {"type": "count-plot", "title": "AI concept", "data": {"field": "concept"}},
         "4": {"type": "count-plot", "title": "Company", "data": {"field": "company"}},
         "11": {"type": "count-plot", "title": "Relevance to Ariya", "data": {"field": "relevance"}},
-        "12": {"type": "count-plot", "title": "Account priority (pharma prospects, customers, vendors)", "data": {"field": "account_priority"}},
-        "13": {"type": "count-plot", "title": "Phamax relationship", "data": {"field": "phamax_relationship"}},
+        "12": {"type": "count-plot", "title": "Account priority", "data": {"field": "account_priority"}},
+        "14": {"type": "count-plot", "title": "Swiss presence", "data": {"field": "swiss_region"}},
         "5": {"type": "count-plot", "title": "Company type", "data": {"field": "company_type"}},
         "6": {"type": "count-plot", "title": "Team served", "data": {"field": "team_served"}},
         "7": {"type": "count-plot", "title": "Decision Intelligence fit", "data": {"field": "decision_intelligence_fit"}},
@@ -39,12 +39,14 @@ STATE = {
         "9": {"type": "count-plot", "title": "Evidence quality", "data": {"field": "evidence_quality"}},
         "10": {"type": "count-plot", "title": "Tag check", "data": {"field": "tag_check"}},
     },
-    "layouts": {"1": {"type": "list", "name": "Default", "chartIds": ["1", "2", "3", "12", "13", "11", "4", "5", "6", "7", "8", "9", "10"]}},
+    "layouts": {"1": {"type": "list", "name": "Default", "chartIds": ["1", "2", "3", "12", "14", "11", "4", "5", "6", "7", "8", "9", "10"]}},
     "layoutOrder": ["1"], "currentLayout": "1",
     # long text columns are written as Markdown so links (LinkedIn, websites) are clickable; source_url renders as a link
     "columnStyles": {
-        **{c: {"display": "full", "renderer": "markdown"} for c in ("key_contacts", "warm_paths", "all_sessions", "sponsor_profile", "gold_evidence", "phamax_relationship")},
+        **{c: {"display": "full", "renderer": "markdown"} for c in ("key_contacts", "warm_paths", "all_sessions", "sponsor_profile", "gold_evidence", "phamax_relationship", "swiss_presence")},
         "source_url": {"display": "full", "renderer": "url"},
+        # kept in the data (the map and charts use them) but not shown on the card
+        **{c: {"display": "hidden"} for c in ("id", "data_flag", "x", "y", "ticket_signal", "date", "signal")},
     },
 }
 

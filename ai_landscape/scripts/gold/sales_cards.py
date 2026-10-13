@@ -10,7 +10,7 @@ Markdown renderer for those columns.
 
 Company fields (the same on every row of a company):
   phamax_relationship   customer of Phamax / Ariya (with the public source), or not publicly listed
-  account_priority      A / B / C for pharma prospects, "Existing customer: expand", or "Vendor / other: competitor or partner"
+  account_priority      A / B / C for pharma prospects, "Existing customer: expand", or "Vendor / other" (not a client target: a competitor or possible partner, so no letter)
   priority_why          the points behind the priority
   warm_paths            contacts who previously worked at a Phamax customer (a way in)
   event_footprint       per event: speakers, sessions, sponsor tier, ticket listing
@@ -18,12 +18,15 @@ Company fields (the same on every row of a company):
   ticket_signal         attendance claims of the events where the company is listed as attending
   sponsor_profile       the company's own sponsor text, tier and website
   key_contacts          every named person (up to 15): title, events, LinkedIn, location, reach, career history, relevant skills
+  swiss_region          Zug / Switzerland / Swiss-based contacts only / No Swiss presence found / Not verified (vendors whose company or location could not be established)
+  swiss_presence        the Swiss HQ or office (from swiss_presence.json) and how many named contacts are Swiss-based
   similar_to_customers  Phamax customers working on the same AI concepts
 Item fields:
   gold_evidence         the cited gold record(s) written out
   gold_ref              the record ids, for traceability
 """
 import glob
+import importlib.util
 import json
 import re
 from collections import Counter, defaultdict
@@ -32,9 +35,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[3]
 SILVER = ROOT / "ai_landscape" / "data" / "silver"
 
+_spec = importlib.util.spec_from_file_location("phamax_location", ROOT / "utils" / "location.py")
+location = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(location)
+
 SENIOR = re.compile(r"\b(chief|ceo|cto|cdo|cmo|coo|cfo|president|svp|evp|vp|vice president|head|director|general manager|founder|owner|partner|principal)\b", re.I)
 LEAD = re.compile(r"\b(lead|manager|senior|executive)\b", re.I)
 RELEVANT_SKILL = re.compile(r"\b(ai|artificial|machine learning|genai|generative|llm|analytics|data|digital|automation|omnichannel|crm|insight|commercial excellence|customer experience|medical affairs|market access|launch|marketing)\b", re.I)
+A_MIN, B_MIN = 7, 5  # on the 9-point score: A 7-9, B 5-6, C 0-4 (was 6 and 4 of 7 before the Swiss points were added)
+SWISS_OFFICE_POINTS, SWISS_CONTACT_POINTS = 2, 1  # Phamax is based in Zug: a Swiss office is worth 2 points, only Swiss-based contacts 1
 TIER_POINTS = {"High": 3, "Medium": 2, "Low": 1, "None": 0}
 MAX_CONTACTS = 15
 
@@ -119,6 +128,7 @@ def build(df, items):
     # speaker_list = people on the speakers pages; agenda_speaker_list = people who are only in the agenda
     for f in glob.glob(str(ROOT / "speaker_list" / "*" / "data" / "gold" / "linkedin.json")) + glob.glob(str(ROOT / "agenda_speaker_list" / "*" / "data" / "gold" / "linkedin.json")):
         d = _load(f)
+        d["_pdl_country"] = location.read_pdl_country(Path(f).parents[2])
         li.setdefault(d["speaker_name"], d)
     corr_path = ROOT / "agenda_speaker_list" / "corrections.json"
     for nm_c, c_ in (_load(corr_path)["corrections"].items() if corr_path.exists() else []):
@@ -133,6 +143,15 @@ def build(df, items):
     ov_path = SILVER / "contact_overrides.json"
     overrides_raw = _load(ov_path)["contacts"] if ov_path.exists() else {}
     overrides = NameDict(overrides_raw)
+    sp_path = SILVER / "swiss_presence.json"
+    vc_path = SILVER / "vendor_swiss_check.json"
+    vendor_check = _load(vc_path) if vc_path.exists() else {"not_in_switzerland": {}, "not_verified": {}}  # outcome of the per-vendor search
+    swiss_pres = location.validated_presence(_load(sp_path)["companies"]) if sp_path.exists() else {}  # validated entries only
+
+    def swiss_person(nm):
+        """(based in Switzerland, based in Zug) from the person's LinkedIn location, PDL country as fallback."""
+        e = li.get(nm, {})
+        return location.is_swiss(e.get("linkedin_location"), e.get("_pdl_country", "")), location.is_zug_canton(e.get("linkedin_location"))
     # which events each agenda person spoke at (for people who have since moved to another company)
     spoke_at = defaultdict(set)
     for s_ in sessions.values():
@@ -154,8 +173,12 @@ def build(df, items):
             bits.append(link("LinkedIn", url))
         elif a and any(s.get("url") for s in a.get("sources", [])):
             bits.append(link("profile source", next(s["url"] for s in a["sources"] if s.get("url"))))
-        if e.get("linkedin_location"):
-            bits.append(md(e["linkedin_location"]))
+        loc = location.clean_location(e.get("linkedin_location"))
+        if loc:
+            bits.append(md(loc))
+        ch, zug = swiss_person(name)
+        if ch:
+            bits.append("**Swiss-based" + (" (Zug)" if zug else "") + "**")
         reach = []
         if e.get("linkedin_followers"):
             reach.append(f"{int(float(e['linkedin_followers'])):,} followers")
@@ -266,7 +289,7 @@ def build(df, items):
                 web = sp.get("website_url") or ""
                 spons.append(f"- **{md((sp.get('sponsorship_tier') or 'Sponsor').title())} sponsor, {sp['event_name']}** · {link(host(web), web) if web else ''}" + (f"<br>{md(_clip(sp.get('description'), 300))}" if sp.get("description") else ""))
 
-        ordered = sorted(people.items(), key=lambda kv: (_rank(kv[1]["title"]), kv[0]))
+        ordered = sorted(people.items(), key=lambda kv: (not swiss_person(kv[0])[0], _rank(kv[1]["title"]), kv[0]))
         cards, ties = [], []
         for nm, p in ordered[:MAX_CONTACTS]:
             card, tie = person_card(nm, p["title"], p["events"], p["url"], al, own_is_customer)
@@ -283,6 +306,7 @@ def build(df, items):
             "contacts": "\n".join(cards) if cards else "No named contacts in the gold data",
             "warm": "\n".join(ties) if ties else "None found", "n_events": len(events), "sponsor": bool(spons),
             "senior": sum(1 for v in people.values() if _rank(v["title"]) == 0),
+            "swiss_contacts": sum(1 for k in people if swiss_person(k)[0]), "n_people": len(people),
         }
 
     # ---- AI concept profile per company (real work items only) for the lookalike hint
@@ -313,6 +337,30 @@ def build(df, items):
         if f["senior"]:
             score += 1
             why.append(f"{f['senior']} senior named contact{'s' if f['senior'] != 1 else ''}")
+        sp = swiss_pres.get(co)
+        n_sw, n_all = f["swiss_contacts"], f["n_people"]
+        if sp:
+            score += SWISS_OFFICE_POINTS
+            region = "Zug" if sp["zug"] else "Switzerland"
+            where = ", ".join(sp["places"])
+            why.append(f"Swiss {'HQ' if sp['kind'] == 'HQ' else 'office'} in {where}" + (" (Zug, Phamax's home)" if sp["zug"] else ""))
+            swiss_text = (f"**Swiss {'HQ' if sp['kind'] == 'HQ' else 'office'}: {md(where)}**" + (" · Zug, Phamax's home" if sp["zug"] else "")
+                          + (f" · {md(sp['note'])}" if sp.get("note") else "") + f" · {link('source', sp['source'])}"
+                          + (f"<br>{n_sw} of {n_all} named contacts are Swiss-based" if n_all else ""))
+        elif n_sw:
+            score += SWISS_CONTACT_POINTS
+            region = "Swiss-based contacts only"
+            why.append(f"{n_sw} Swiss-based named contact{'s' if n_sw != 1 else ''}")
+            swiss_text = f"**No Swiss office found, but {n_sw} of {n_all} named contacts are Swiss-based.** A web search found no Swiss site; that does not prove there is none."
+        elif co in vendor_check["not_verified"]:
+            region = "Not verified"
+            swiss_text = f"**Not verified:** {md(vendor_check['not_verified'][co])}. Nothing can be said about a Swiss office."
+        elif co in vendor_check["not_in_switzerland"]:
+            region = "No Swiss presence found"
+            swiss_text = f"No Swiss office found. Based in {md(vendor_check['not_in_switzerland'][co])} (checked 2026-10-12). That does not prove there is none."
+        else:
+            region = "No Swiss presence found"
+            swiss_text = "No Swiss office found in a web search and no Swiss-based named contact. That does not prove there is none."
         if co in customers:
             c = rel[co]
             priority = "Existing customer: expand"
@@ -321,14 +369,15 @@ def build(df, items):
         else:
             is_pharma = df.loc[df.company == co, "company_type"].iloc[0] == "Pharma"
             if is_pharma:
-                priority = "A: approach now" if score >= 6 else ("B: nurture" if score >= 4 else "C: monitor")
+                priority = "A: approach now" if score >= A_MIN else ("B: nurture" if score >= B_MIN else "C: monitor")
             else:
-                priority = "Vendor / other: competitor or partner"
+                priority = "Vendor / other"
             relationship = "Not publicly listed as a Phamax customer (phamax.ch and ariya.ai name only some customers)"
             shared = sorted(((len(concepts[co] & cc), cn) for cn, cc in cust_concepts.items() if concepts[co] & cc), key=lambda x: (-x[0], x[1]))
             similar = ", ".join(f"{cn} ({k} shared concept{'s' if k != 1 else ''})" for k, cn in shared[:3]) or "No overlap with listed customers"
         company_fields[co] = {
-            "phamax_relationship": relationship, "account_priority": priority, "priority_why": f"Score {score} of 7: " + "; ".join(why),
+            "phamax_relationship": relationship, "account_priority": priority, "priority_why": f"Score {score} of 9: " + "; ".join(why),
+            "swiss_region": region, "swiss_presence": swiss_text,
             "warm_paths": f["warm"], "event_footprint": f["footprint"], "all_sessions": f["sessions"], "ticket_signal": f["tickets"],
             "sponsor_profile": f["sponsor_profile"], "key_contacts": f["contacts"], "similar_to_customers": similar,
         }
@@ -370,7 +419,7 @@ def build(df, items):
         ref.append(" | ".join(f"{g['file']}:{g['record_id']}" for g in recs) if recs else "-")
 
     out = df.drop(columns=[c for c in ("gold_records", "all_sources") if c in df.columns]).copy()
-    for col in ("phamax_relationship", "account_priority", "priority_why", "warm_paths", "event_footprint", "all_sessions", "ticket_signal", "sponsor_profile", "key_contacts", "similar_to_customers"):
+    for col in ("phamax_relationship", "account_priority", "priority_why", "warm_paths", "event_footprint", "all_sessions", "ticket_signal", "sponsor_profile", "key_contacts", "similar_to_customers", "swiss_region", "swiss_presence"):
         out[col] = out["company"].map(lambda c: company_fields[c][col])
     out["gold_evidence"] = evidence
     out["gold_ref"] = ref

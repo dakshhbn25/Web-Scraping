@@ -1,0 +1,2017 @@
+{
+ "note": "Where each company has a headquarters or office in Switzerland, found by web search on 2026-10-12 and checked by reading the results. kind HQ = global, international or European headquarters; Office = a Swiss affiliate or site. zug = in the canton of Zug (Phamax's home canton). Companies not listed had no Swiss site found, which does not prove they have none. Vendors are included for information only.",
+ "checked": "2026-10-12",
+ "companies": {
+  "AbbVie": {
+   "kind": "Office",
+   "places": [
+    "Cham (ZG)",
+    "Zug",
+    "Schaffhausen"
+   ],
+   "zug": true,
+   "note": "Swiss HQ; in the canton of Zug for 58+ years (before 2013 as Abbott)",
+   "source": "https://www.abbvie.ch/en/who-we-are/strong-in-switzerland.html",
+   "sources_extra": [
+    "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+    "https://www.scienceindustries.ch/en/services/411/pharma-code"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.abbvie.ch/en/who-we-are/strong-in-switzerland.html",
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Cham (ZG)",
+     "Zug",
+     "Schaffhausen"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.abbvie.ch] ety in a positive way. around 280 abbvie employees... ...in cham, in zug, and at the site in schaffhausen are committed to t"
+   }
+  },
+  "Abbott": {
+   "kind": "Office",
+   "places": [
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "Abbott AG",
+   "source": "https://www.abbott.com/en-us/global-locations-contacts/switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.abbott.com/en-us/global-locations-contacts/switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.abbott.com] euticals abbott a.g.<br>\\r\\nneuhofstrasse 23<br>\\r\\nch 6341 baar/zug, switzerland</p>\\r\\n<p><br>\\r\\ntelephone: (41 41) 768 4"
+   }
+  },
+  "Alexion": {
+   "kind": "Office",
+   "places": [
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "Alexion Pharma GmbH, Neuhofstrasse 34",
+   "source": "https://www.alexion.com/worldwide/switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.alexion.com/worldwide/switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.alexion.com] mail and phone number alexion pharma gmbh neuhofstrasse 34, baar, switzerland alexion.switzerland@alexion.com +41 44 457 40 "
+   }
+  },
+  "Amgen": {
+   "kind": "Office",
+   "places": [
+    "Rotkreuz (ZG)"
+   ],
+   "zug": true,
+   "note": "Hub for Europe, Latin America, Middle East, Africa and Canada; Interpharma member",
+   "source": "https://careers.amgen.com/en/Switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://careers.amgen.com/en/Switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Rotkreuz (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[careers.amgen.com] ad, as he takes us on a tour of amgen switzerland office in rotkreuz, switzerland. you'll also learn how our team fosters an awa"
+   }
+  },
+  "Amicus Therapeutics": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Amicus Therapeutics Switzerland GmbH",
+   "source": "https://amicusrx.com/about-us/contact-us",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://amicusrx.com/about-us/contact-us"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[amicusrx.com] amicus therapeutics switzerland gmbh seefeldstrasse 69 8008 zurich switzerland phone: +41 44 562 70 98 info@amicusrx.ch www.am"
+   }
+  },
+  "Astellas": {
+   "kind": "Office",
+   "places": [
+    "Wallisellen (ZH)"
+   ],
+   "zug": false,
+   "note": "Astellas Swiss headquarters",
+   "source": "https://www.dreso.com/de/en/projects/details/astellas-swiss-headquarters-wallisellen-canton-of-zurich",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.dreso.com/de/en/projects/details/astellas-swiss-headquarters-wallisellen-canton-of-zurich"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Wallisellen (ZH)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.dreso.com]  astellas swiss headquarters, wallisellen (canton of zurich) drees & sommer markets back markets real"
+   }
+  },
+  "AstraZeneca": {
+   "kind": "Office",
+   "places": [
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "AstraZeneca AG, Neuhofstrasse 34; Interpharma member",
+   "source": "https://www.astrazeneca.com/az-suppliers/supplier-contact-information.html",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.astrazeneca.com/az-suppliers/supplier-contact-information.html"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.astrazeneca.com] azeneca ag zentraler rechnungseingang neuhofstrasse 34 6340 baar switzerland astrazeneca ag zentraler rechnungseingang neuho"
+   }
+  },
+  "Bayer": {
+   "kind": "Office",
+   "places": [
+    "Basel",
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Interpharma member",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] bayer located in: basel"
+   }
+  },
+  "Biogen": {
+   "kind": "HQ",
+   "places": [
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "International headquarters, Neuhofstrasse 30; global HQ is in Cambridge, USA",
+   "source": "https://www.biogen.com/biogen-international.html",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.biogen.com/biogen-international.html"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.biogen.com] biogen international from our international headquarters in baar, switzerland, biogen international gmbh brings our innovati",
+    "hq_evidence": "Biogen's corporate page (biogen.com/biogen-international.html): international headquarters in Baar; global HQ is in Cambridge, USA."
+   }
+  },
+  "Boehringer Ingelheim": {
+   "kind": "Office",
+   "places": [
+    "Basel",
+    "Geneva"
+   ],
+   "zug": false,
+   "note": "Boehringer Ingelheim (Schweiz); Interpharma member",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Geneva"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] boehringer ingelheim located in: basel"
+   }
+  },
+  "Bristol Myers Squibb": {
+   "kind": "Office",
+   "places": [
+    "Steinhausen (ZG)",
+    "Zofingen",
+    "Boudry"
+   ],
+   "zug": true,
+   "note": "Bristol-Myers Squibb SA; Interpharma lists Steinhausen, Zofingen and Boudry",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Steinhausen (ZG)",
+     "Zofingen",
+     "Boudry"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] bristol myers squibb steinhausen, bms located in: steinhausen"
+   }
+  },
+  "Daiichi Sankyo": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Daiichi Sankyo (Schweiz) AG",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] daiichi sankyo located in: zurich"
+   }
+  },
+  "Eli Lilly": {
+   "kind": "Office",
+   "places": [
+    "Vernier (GE)"
+   ],
+   "zug": false,
+   "note": "Eli Lilly (Suisse) SA, in Geneva since 1959",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Vernier (GE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] eli lilly located in: vernier"
+   }
+  },
+  "Ferring": {
+   "kind": "HQ",
+   "places": [
+    "Saint-Prex (VD)",
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "Global HQ (Ferring International Center SA) in Saint-Prex; the Swiss affiliate Ferring AG is in Baar",
+   "source": "https://bioalps.org/organizations/ferring-international-center-sa",
+   "sources_extra": [
+    "https://www.scienceindustries.ch/en/services/411/pharma-code",
+    "https://www.globaldata.com/company-profile/ferring-international-center-sa/locations/",
+    "https://en.wikipedia.org/wiki/Ferring_Pharmaceuticals"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://bioalps.org/organizations/ferring-international-center-sa",
+     "https://www.scienceindustries.ch/en/services/411/pharma-code",
+     "https://www.globaldata.com/company-profile/ferring-international-center-sa/locations/",
+     "https://en.wikipedia.org/wiki/Ferring_Pharmaceuticals"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Saint-Prex (VD)",
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.globaldata.com] r sa country switzerland address ch. de la vergognausaz 50, saint-prex, waadt, 1162 phone number 41 58 3010000 website www.ferring"
+   }
+  },
+  "Gilead": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Gilead Sciences Switzerland Sàrl",
+   "source": "https://www.gilead.com/en-ch/kontakt",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.gilead.com/en-ch/kontakt"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.gilead.com] mber contact us contact us gilead sciences switzerland sarl general-guisan-strasse 8 6300 zug switzerland tel.: +41 (0)41 580 02 00 fax: +41 (0)41 580 02 98 email: zu.reception@gilead"
+   }
+  },
+  "GSK": {
+   "kind": "Office",
+   "places": [
+    "Baar (ZG)"
+   ],
+   "zug": true,
+   "note": "About 260 people, including a global oncology hub",
+   "source": "https://www.gsk.com/en-gb/locations/switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.gsk.com/en-gb/locations/switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.gsk.com]  contact details glaxosmithkline ag neuhofstrasse 4 ch-6340 baar tel: +41 (0)31 862 21 11 email: swiss.info@gsk.com expand a"
+   }
+  },
+  "Incyte": {
+   "kind": "HQ",
+   "places": [
+    "Morges (VD)"
+   ],
+   "zug": false,
+   "note": "International headquarters",
+   "source": "https://incyte.com/contact-us/locations",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://incyte.com/contact-us/locations"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Morges (VD)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[incyte.com] 498.6700 view map europe incyte biosciences international sarl rue docteur-yersin 12 1110 morges, switzerland +41 (0) 21 581 50 00 view map austria dc tower 1, donau-city-strae 7 1220 vi",
+    "hq_evidence": "Incyte's locations page, 'Headquarters' entry: 1110 Morges, Switzerland (international headquarters)."
+   }
+  },
+  "Ipsen": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Ipsen Switzerland, Industriestrasse 47",
+   "source": "https://www.ipsen.com/contact-us/location",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.ipsen.com/contact-us/location"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.ipsen.com] 60 00 get directions ipsen switzerland industriestrasse 47, zug 6300 +41 041 501 58 08 get directions ipsen taiwan room d, "
+   }
+  },
+  "Johnson & Johnson": {
+   "kind": "Office",
+   "places": [
+    "Zug",
+    "Allschwil",
+    "Bern",
+    "Schaffhausen"
+   ],
+   "zug": true,
+   "note": "Zug campus, about 1,000 staff; Janssen is an Interpharma member",
+   "source": "https://www.jnj.com/CH/our-locations",
+   "sources_extra": [
+    "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.jnj.com/CH/our-locations",
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug",
+     "Allschwil",
+     "Bern",
+     "Schaffhausen"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] johnson & johnson homepage (jnj.ch) zug, janssen located in: zug"
+   }
+  },
+  "Jazz Pharmaceuticals": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "c/o address, so possibly a registered domicile rather than a staffed office",
+   "source": "https://www.jazzpharma.com/about/global-footprint/switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.jazzpharma.com/about/global-footprint/switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.jazzpharma.com] artnering contact jazz pharmaceuticals switzerland gmbh c/o zug grafenauweg centre ag grafenauweg 8, 6300 zug, switzerland "
+   }
+  },
+  "Kyowa Kirin": {
+   "kind": "Office",
+   "places": [
+    "Geneva (GE)"
+   ],
+   "zug": false,
+   "note": "Kyowa Kirin Sàrl",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "sources_extra": [],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Geneva (GE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] kyowa kirin sarl, geneve"
+   }
+  },
+  "LEO Pharma": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "The Circle 6",
+   "source": "https://leo-pharma.com/jobs",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://leo-pharma.com/jobs"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[leo-pharma.com] sweden (+46) 40 35 22 00 nordics.leo-pharma.com switzerland zurich leo pharmaceutical products sarath ltd. the circle 6 ch - 8"
+   }
+  },
+  "Menarini": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "A. Menarini AG, the Swiss subsidiary",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] menarini ag, zurich"
+   }
+  },
+  "Merck KGaA": {
+   "kind": "Office",
+   "places": [
+    "Zug",
+    "Aubonne (VD)",
+    "Corsier-sur-Vevey (VD)",
+    "Eysins (VD)",
+    "Schaffhausen"
+   ],
+   "zug": true,
+   "note": "Zug office runs Biopharma marketing and sales for Switzerland; Interpharma member",
+   "source": "https://www.merckgroup.com/ch-en/company/who-we-are/healthcare.html",
+   "sources_extra": [
+    "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.merckgroup.com/ch-en/company/who-we-are/healthcare.html",
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug",
+     "Aubonne (VD)",
+     "Corsier-sur-Vevey (VD)",
+     "Eysins (VD)",
+     "Schaffhausen"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.merckgroup.com] rivate partners in both developing and developed countries. zug (zg) 44 employees/healthcare starting in 1822 merck coopera"
+   }
+  },
+  "Merz Therapeutics": {
+   "kind": "Office",
+   "places": [
+    "Allschwil (BL)"
+   ],
+   "zug": false,
+   "note": "Merz Pharma (Schweiz) AG, commercial organization",
+   "source": "https://merzaesthetics.com/locations",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://merzaesthetics.com/locations"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Allschwil (BL)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[merzaesthetics.com] e to us merz pharma (schweiz) ag hegenheimermattweg 57 4123 allschwil switzerland activities switzerland commercial organization "
+   }
+  },
+  "MSD (Merck & Co.)": {
+   "kind": "Office",
+   "places": [
+    "Lucerne",
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Swiss HQ in Lucerne since April 2026; Zurich innovation hub",
+   "source": "https://www.msd.ch/en/career-msd-switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.msd.ch/en/career-msd-switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Lucerne",
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.msd.ch] our next career step with us! job offers msd in switzerland lucerne is at the center of our activities: in addition to our head"
+   }
+  },
+  "Norgine": {
+   "kind": "Office",
+   "places": [
+    "Lucerne"
+   ],
+   "zug": false,
+   "note": "Norgine AG, Werftestrasse 3",
+   "source": "https://norgine.com/locations",
+   "sources_extra": [
+    "https://www.scienceindustries.ch/en/services/411/pharma-code",
+    "https://search.ch/tel/luzern/werftestrasse-3/norgine-ag"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://norgine.com/locations",
+     "https://www.scienceindustries.ch/en/services/411/pharma-code",
+     "https://search.ch/tel/luzern/werftestrasse-3/norgine-ag"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Lucerne"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[norgine.com] 461 0875 postal address: norgine ag werftestrasse 3 ch-6005 luzern switzerland spepharm ag werftestrasse 3 ch-6005 luzern swit"
+   }
+  },
+  "Novartis": {
+   "kind": "HQ",
+   "places": [
+    "Basel",
+    "Rotkreuz (ZG)"
+   ],
+   "zug": true,
+   "note": "Global HQ in Basel; Novartis Pharma Schweiz AG sits in Rotkreuz",
+   "source": "https://www.novartis.com/about/locations",
+   "sources_extra": [
+    "https://en.wikipedia.org/wiki/Novartis"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.novartis.com/about/locations",
+     "https://en.wikipedia.org/wiki/Novartis"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Rotkreuz (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.novartis.com] zuela vietnam zambia showing 12 results biomedical research basel novartis pharma ag novartis institutes for biomed. research",
+    "hq_evidence": "Novartis global headquarters, Lichtstrasse 35, Basel (ZoomInfo HQ record; Wikipedia)."
+   }
+  },
+  "Novo Nordisk": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Novo Nordisk Pharma AG, The Circle",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] novo nordisk located in: zurich"
+   }
+  },
+  "Opella": {
+   "kind": "Office",
+   "places": [
+    "Rotkreuz (ZG)"
+   ],
+   "zug": true,
+   "note": "Opella Healthcare Switzerland AG, legal seat",
+   "source": "https://www.moneyhouse.ch/en/company/opella-healthcare-switzerland-ag-21470448041",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.moneyhouse.ch/en/company/opella-healthcare-switzerland-ag-21470448041"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Rotkreuz (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] osurez \"open in maps opens in new tab \" suurstoffi 18b 6343 rotkreuz neighbourhood https://www.moneyhouse.ch/en/company/opella-h"
+   }
+  },
+  "Otsuka": {
+   "kind": "Office",
+   "places": [
+    "Glattbrugg (ZH)"
+   ],
+   "zug": false,
+   "note": "Otsuka Pharmaceutical (Switzerland) GmbH. Taiho Oncology Europe, a group company, is in Zug but is not counted as Otsuka itself",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Glattbrugg (ZH)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] otsuka pharmaceutical (switzerland) gmbh, glattbrugg"
+   }
+  },
+  "Pfizer": {
+   "kind": "Office",
+   "places": [
+    "Zurich",
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Pfizer AG; Seagen's European HQ was in Zug",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich",
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] pfizer located in: zurich"
+   }
+  },
+  "Roche": {
+   "kind": "HQ",
+   "places": [
+    "Basel",
+    "Kaiseraugst",
+    "Rotkreuz (ZG)"
+   ],
+   "zug": true,
+   "note": "Global HQ in Basel; Roche Diagnostics International is in Rotkreuz",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "sources_extra": [
+    "https://en.wikipedia.org/wiki/Roche"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+     "https://en.wikipedia.org/wiki/Roche"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Kaiseraugst",
+     "Rotkreuz (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] roche located in: basel",
+    "hq_evidence": "Roche's own R&D locations page: 'F. Hoffmann-La Roche AG, Konzern-Hauptsitz, Grenzacherstrasse 124', Basel."
+   }
+  },
+  "Sanofi": {
+   "kind": "Office",
+   "places": [
+    "Rotkreuz (ZG)",
+    "Vernier (GE)"
+   ],
+   "zug": true,
+   "note": "Two Swiss sites; Interpharma member",
+   "source": "https://jobs.sanofi.com/en/switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://jobs.sanofi.com/en/switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Rotkreuz (ZG)",
+     "Vernier (GE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[jobs.sanofi.com] logie / rheumatologie (all genders) befristet auf 12 monate rotkreuz, switzerland view all sanofi roles in switzerland empowerme"
+   }
+  },
+  "Sobi": {
+   "kind": "Office",
+   "places": [
+    "Basel",
+    "Unterägeri (ZG)"
+   ],
+   "zug": true,
+   "note": "Swiss registered office and head office in Basel (4058); commercial and customer service, Zugerstrasse 41, Unterägeri (Sobi Switzerland contact page)",
+   "source": "https://www.sobi.com/switzerland/fr/contact",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.sobi.com/switzerland/fr/contact"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Unterägeri (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.sobi.com]  en suisse adresse postale & siege social swedish orphan biovitrum ag riehenring 182 4058 basel telephone +41 61 201 13 20 e-mail [email protected] service commercial & client suisse sw"
+   }
+  },
+  "Takeda": {
+   "kind": "Office",
+   "places": [
+    "Zurich (Glattpark-Opfikon)",
+    "Neuchâtel"
+   ],
+   "zug": false,
+   "note": "Takeda Pharma AG; Takeda Pharmaceuticals International",
+   "source": "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.interpharma.ch/en/ueber-uns/interaktive-karte/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich (Glattpark-Opfikon)",
+     "Neuchâtel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.interpharma.ch] takeda in der schweiz zurich, takeda located in: zurich"
+   }
+  },
+  "Teva": {
+   "kind": "Office",
+   "places": [
+    "Basel",
+    "Aesch (BL)"
+   ],
+   "zug": false,
+   "note": "Teva Pharma AG in Basel; Mepha / Teva site in Aesch",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "sources_extra": [
+    "https://www.cbinsights.com/company/mepha-schweiz"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code",
+     "https://www.cbinsights.com/company/mepha-schweiz"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel",
+     "Aesch (BL)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] teva pharma ag, basel"
+   }
+  },
+  "Tillotts Pharma": {
+   "kind": "HQ",
+   "places": [
+    "Rheinfelden (AG)"
+   ],
+   "zug": false,
+   "note": "Headquarters, Baslerstrasse 15 (Tillotts' own contact page)",
+   "source": "https://www.tillotts.com/contact-us/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.tillotts.com/contact-us/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Rheinfelden (AG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.tillotts.com] 50000005 switzerland tillotts pharma ag is headquartered in rheinfelden, switzerland, close to basel. our contract manufacturing si",
+    "hq_evidence": "Tillotts' own site: 'Tillotts Pharma AG is headquartered in Rheinfelden, Switzerland', Baslerstrasse 15."
+   }
+  },
+  "UCB": {
+   "kind": "Office",
+   "places": [
+    "Bulle (FR)"
+   ],
+   "zug": false,
+   "note": "UCB Farchim; Interpharma member",
+   "source": "https://www.ucb.com/ucb-worldwide",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.ucb.com/ucb-worldwide"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Bulle (FR)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.ucb.com] elle de planchy d'avau chemin de croix-blanche 10 ch - 1630 bulle tel: +41 (0)58 822 32 00 fax: +41 (0)58 822 32 40 ucb-pharm"
+   }
+  },
+  "Vertex": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Vertex Pharmaceuticals (CH) GmbH, Baarerstrasse 88",
+   "source": "https://www.northdata.com/Vertex%20Pharmaceuticals%20(CH)%20GmbH,%20Zug/CHE-267.427.746",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.northdata.com/Vertex%20Pharmaceuticals%20(CH)%20GmbH,%20Zug/CHE-267.427.746"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.northdata.com]  vertex pharmaceuticals (ch) gmbh, zug, switzerland, schweizer handelsregister che-267.427.746: ne"
+   }
+  },
+  "ViiV Healthcare": {
+   "kind": "Office",
+   "places": [
+    "Münchenbuchsee (BE)"
+   ],
+   "zug": false,
+   "note": "ViiV Healthcare, Talstrasse 3-5 (ViiV's own locations page); an older page listed Baar, which is GSK's site",
+   "source": "https://viivhealthcare.com/en-us/our-locations",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://viivhealthcare.com/en-us/our-locations"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Münchenbuchsee (BE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[viivhealthcare.com]  2030038-10 switzerland viiv healthcare talstrasse 3-5 3053 munchenbuchsee switzerland tel: +41 31 560 7670 italy viiv healthcare s.r."
+   }
+  },
+  "Viatris": {
+   "kind": "Office",
+   "places": [
+    "Steinhausen (ZG)"
+   ],
+   "zug": true,
+   "note": "Viatris Pharma GmbH",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Steinhausen (ZG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] viatris pharma gmbh, steinhausen"
+   }
+  },
+  "B. Braun": {
+   "kind": "Office",
+   "places": [
+    "Sempach (LU)"
+   ],
+   "zug": false,
+   "note": "B. Braun Medical AG, the Swiss subsidiary (new factory in Sempach)",
+   "source": "https://www.s-ge.com/invest/en/articles/news/b-braun-medical-opens-new-factory-sempach",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.s-ge.com/invest/en/articles/news/b-braun-medical-opens-new-factory-sempach"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Sempach (LU)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.s-ge.com]  b. braun medical opens new factory in sempach | s-ge switch to export contact en english switch to englis"
+   }
+  },
+  "CSL": {
+   "kind": "Office",
+   "places": [
+    "Glattbrugg (ZH)"
+   ],
+   "zug": false,
+   "note": "CSL Vifor, Glattbrugg (CSL's locations page); the Phamax customer is CSL Vifor",
+   "source": "https://www.csl.com/we-are-csl/worldwide-locations",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.csl.com/we-are-csl/worldwide-locations"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Glattbrugg (ZH)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.csl.com] il: medinfo@viforpharma.com flughofstrasse 61 p.o. box 8152 glattbrugg switzerland csl australia, broadmeadows phone: +61 3 9389 1"
+   }
+  },
+  "ALK-Abello": {
+   "kind": "Office",
+   "places": [
+    "Wallisellen (ZH)"
+   ],
+   "zug": false,
+   "note": "ALK-Abelló AG",
+   "source": "https://www.alk.net/affiliate-list",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.alk.net/affiliate-list"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Wallisellen (ZH)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.alk.net] _at@alk.net switzerland alk-abello ag richtistrasse 11 8304 wallisellen t: +41 44 908 21 00 netherlands alk-abello b.v. transistors"
+   }
+  },
+  "Alfasigma": {
+   "kind": "Office",
+   "places": [
+    "Zofingen (AG)"
+   ],
+   "zug": false,
+   "note": "Alfasigma Schweiz AG, Luzernerstrasse 2",
+   "source": "https://ch.alfasigma.com/fr/contacts",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://ch.alfasigma.com/fr/contacts"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zofingen (AG)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[ch.alfasigma.com] gma schweiz ag alfasigma schweiz ag luzernerstrasse 2, 4800 zofingen, switzerland tel. +41 627460505 e-mail: [email protected] p"
+   }
+  },
+  "Almirall": {
+   "kind": "Office",
+   "places": [
+    "Wallisellen (ZH)"
+   ],
+   "zug": false,
+   "note": "Almirall AG, Alte Winterthurerstrasse 14",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Wallisellen (ZH)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] almirall ag, wallisellen"
+   }
+  },
+  "Bial": {
+   "kind": "Office",
+   "places": [
+    "Nyon (VD)"
+   ],
+   "zug": false,
+   "note": "Bial SA",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Nyon (VD)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] bial sa, nyon"
+   }
+  },
+  "Chiesi": {
+   "kind": "Office",
+   "places": [
+    "Villars-sur-Glâne (FR)"
+   ],
+   "zug": false,
+   "note": "Chiesi SA",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Villars-sur-Glâne (FR)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] chiesi sa, villars-sur-glane"
+   }
+  },
+  "Medice": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Salmon Pharma GmbH, Medice's Swiss subsidiary (Swiss Biotech listing); Basel from the scienceindustries member list",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed (manual)",
+    "places_confirmed": [
+     "Basel"
+    ],
+    "hq_confirmed": false,
+    "evidence": "scienceindustries member list: 'Salmon Pharma GmbH, Basel'; Swiss Biotech listing describes Salmon Pharma as the Swiss subsidiary of MEDICE"
+   }
+  },
+  "Mundipharma": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Mundipharma Medical Company, St. Alban-Rheinweg 74",
+   "source": "https://www.mundipharma.com/ouroffices",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.mundipharma.com/ouroffices"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.mundipharma.com] land mundipharma medical company st. alban-rheinweg 74 4052 basel post address: spaces - grosspeteranlage 29 4052 basel tel: "
+   }
+  },
+  "Regeneron": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Regeneron location in Basel",
+   "source": "https://www.regeneron.com/about/our-company/locations",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.regeneron.com/about/our-company/locations"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.regeneron.com] m, netherlands netherlands inquiries herikerbergweg 242 1101 ct amsterdam the netherlands basel, switzerland grosspeter tower grosspeteranlage 29, ch-4052 basel switzerland european bus"
+   }
+  },
+  "Servier": {
+   "kind": "Office",
+   "places": [
+    "Geneva (GE)"
+   ],
+   "zug": false,
+   "note": "Servier (Suisse) SA, about 42 staff",
+   "source": "https://www.moneyhouse.ch/en/company/servier-suisse-sa-4548874681",
+   "sources_extra": [
+    "https://www.scienceindustries.ch/en/services/411/pharma-code"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.moneyhouse.ch/en/company/servier-suisse-sa-4548874681",
+     "https://www.scienceindustries.ch/en/services/411/pharma-code"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Geneva (GE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] rez \"open in maps opens in new tab \" la voie-creuse 16 1202 geneve neighbourhood https://www.moneyhouse.ch/en/company/servier-"
+   }
+  },
+  "BioNTech": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "BioNTech Switzerland GmbH",
+   "source": "https://www.moneyhouse.ch/en/company/biontech-switzerland-gmbh-919422861",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.moneyhouse.ch/en/company/biontech-switzerland-gmbh-919422861"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] ns in new tab \" c/o cofigest audit ag hammerstrasse 44 4058 basel neighbourhood https://www.moneyhouse.ch/en/company/biontech"
+   }
+  },
+  "Grunenthal": {
+   "kind": "Office",
+   "places": [
+    "Mitlödi (GL)"
+   ],
+   "zug": false,
+   "note": "Production site (Proto Chemicals AG) only; no commercial office found",
+   "source": "https://www.grunenthal.com/company/global-capabilities/affiliates-europe",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.grunenthal.com/company/global-capabilities/affiliates-europe"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Mitlödi (GL)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.grunenthal.com] nenthal.com switzerland proto chemicals ag tschachen 2 8756 mitlodi switzerland +41 55 647 31 31 contact@grunenthal-pro.com swi"
+   }
+  },
+  "BeOne Medicines": {
+   "kind": "HQ",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Registered seat in Basel",
+   "source": "https://www.sec.gov/Archives/edgar/data/1651308/000110465925021902/tm2420735-10_424b3.htm",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.sec.gov/Archives/edgar/data/1651308/000110465925021902/tm2420735-10_424b3.htm"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.sec.gov] sociation of beone medicines ltd. with registered office in basel, switzerland a-1 table of contents https://www.sec.gov/arch"
+   }
+  },
+  "Recordati": {
+   "kind": "Office",
+   "places": [
+    "Baar (ZG)",
+    "Basel"
+   ],
+   "zug": true,
+   "note": "Recordati AG listed in Baar; its Rare Diseases branch is in Basel (Uferstrasse 90)",
+   "source": "https://www.scienceindustries.ch/en/services/411/pharma-code",
+   "sources_extra": [
+    "https://recordatirarediseases.com/contact-us"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.scienceindustries.ch/en/services/411/pharma-code",
+     "https://recordatirarediseases.com/contact-us"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Baar (ZG)",
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.scienceindustries.ch] recordati ag, baar"
+   }
+  },
+  "Angelini Pharma": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Angelini Pharma Zug S.p.A., Swiss branch",
+   "source": "https://www.angelinipharma.ch/en",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.angelinipharma.ch/en"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.angelinipharma.ch] harmonia mentis angelini pharma switzerland angelini pharma zug s.p.a. is the pharmaceutical division of angelini industrie"
+   }
+  },
+  "Onomi": {
+   "kind": "HQ",
+   "places": [
+    "Lausanne (VD)"
+   ],
+   "zug": false,
+   "note": "Headquarters",
+   "source": "https://www.onomi.io/about",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.onomi.io/about"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Lausanne (VD)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.onomi.io] at the speed, scale, and rigor a top 20 pharma operates at. lausanne, switzerland: building the platform since 2000. where onomi",
+    "hq_evidence": "Onomi's about page: 'The Onomi headquarters on Avenue du Théâtre in Lausanne, Switzerland'."
+   }
+  },
+  "Axtria": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Axtria Swiss GmbH, Hochbergerstrasse 70 (Axtria's contact page)",
+   "source": "https://www.axtria.com/contact/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.axtria.com/contact/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.axtria.com] ondon, united kingdom aston house cornwall avenue london, n3 1lf locations \"> switzerland basel, switzerland hochbergerstrasse 70, basel ch 4057, switzerland locations \"> germany stuttg"
+   }
+  },
+  "Salesforce": {
+   "kind": "Office",
+   "places": [
+    "Zurich",
+    "Lausanne"
+   ],
+   "zug": false,
+   "note": "Salesforce Sàrl; Zurich and Lausanne on Salesforce's global offices page",
+   "source": "https://www.salesforce.com/eu/company/locations/",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.salesforce.com/eu/company/locations/"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich",
+     "Lausanne"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.salesforce.com]  office accessibility contact technical support switzerland zurich salesforce sarl zurich, switzerland contact sales office ac"
+   }
+  },
+  "Adobe": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Adobe Research (Schweiz) AG, Adobe's Swiss research entity (legal HQ Basel). Adobe Systems (Schweiz) GmbH is also listed, seat Zurich per an aggregator, not counted",
+   "source": "https://www.moneyhouse.ch/en/company/adobe-research-schweiz-ag-5698047841",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.moneyhouse.ch/en/company/adobe-research-schweiz-ag-5698047841"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] pen in maps opens in new tab \" peter merian-strasse 80 4052 basel neighbourhood https://www.moneyhouse.ch/en/company/adobe-re"
+   }
+  },
+  "Avalere Health": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "Avalere Health GmbH (Avalere's own company-information page lists it as registered in Switzerland); Basel from the Swiss register directory",
+   "source": "https://avalerehealth.com/company-information/",
+   "sources_extra": [
+    "https://www.moneyhouse.ch/fr/companydirectory/bs/a/av"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://avalerehealth.com/company-information/",
+     "https://www.moneyhouse.ch/fr/companydirectory/bs/a/av"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] -und-verwaltungs-ag-12898520821 st. jakobs-strasse 46, 4052 basel 29.12.1928 avalere health gmbh https://www.moneyhouse.ch/fr"
+   }
+  },
+  "valantic": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "valantic's own Zurich office page (Hagenholzstrasse 83a)",
+   "source": "https://valantic.com/en/cities/zurich",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://valantic.com/en/cities/zurich"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[valantic.com]  top topic en deutsch german contact our office valantic in zurich our offices in zurich are not far from the city center. val"
+   }
+  },
+  "Endava": {
+   "kind": "Office",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Endava Switzerland GmbH, legal seat",
+   "source": "https://www.moneyhouse.ch/en/company/endava-switzerland-gmbh-11291683591",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.moneyhouse.ch/en/company/endava-switzerland-gmbh-11291683591"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.moneyhouse.ch] /o tmf services sa, zug zweigniederlassung untermuli 1 6300 zug neighbourhood https://www.moneyhouse.ch/en/company/endava-s"
+   }
+  },
+  "Accenture": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Accenture AG, Sihlstrasse 34 (Swiss business register profile)",
+   "source": "https://business-monitor.ch/en/companies/208688-accenture-ag",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://business-monitor.ch/en/companies/208688-accenture-ag"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[business-monitor.ch] assic about accenture ag accenture ag is a limited based in zurich, in the canton of zurich, founded in 1983. its identificati"
+   }
+  },
+  "PwC": {
+   "kind": "Office",
+   "places": [
+    "Zurich",
+    "Basel",
+    "Geneva",
+    "Zug",
+    "Bern",
+    "Lausanne",
+    "Lucerne"
+   ],
+   "zug": true,
+   "note": "PwC Switzerland, 13 offices incl. Zug",
+   "source": "https://www.pwc.ch/en/about-pwc/locations.html",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.pwc.ch/en/about-pwc/locations.html"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich",
+     "Basel",
+     "Geneva",
+     "Zug",
+     "Bern",
+     "Lausanne",
+     "Lucerne"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.pwc.ch]  https://www.pwc.ch/en/about-pwc/locations/zug.html \"zug\" - zurich https://www.pwc.ch/en/about-pwc/locations/zurich.html \"zuri"
+   }
+  },
+  "Deloitte": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Deloitte Switzerland's flagship headquarters, Prime 2 in Zurich West (Deloitte's own press release)",
+   "source": "https://www2.deloitte.com/ch/en/pages/press-releases/articles/deloitte-secures-new-swiss-flagship-headquarters-prime-2-zurich-west.html",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www2.deloitte.com/ch/en/pages/press-releases/articles/deloitte-secures-new-swiss-flagship-headquarters-prime-2-zurich-west.html"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www2.deloitte.com] sion benefits career events our recruitment process jobs in zurich jobs in geneva your career at deloitte careers your career "
+   }
+  },
+  "ZS": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "ZS Associates International, Inc., Zurich branch (Swiss register, Talstrasse 70 per a 2022 notice)",
+   "source": "https://moneyhouse.ch/en/company/zs-associates-international-inc-evanston-illi-3112509301",
+   "aliases_extra": [
+    "ZS Associates International",
+    "ZS Associates"
+   ],
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://moneyhouse.ch/en/company/zs-associates-international-inc-evanston-illi-3112509301"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[moneyhouse.ch] rnational, inc., evanston illinois, us , zweigniederlassung zurich - zs associates international, inc., evanston illinois, us "
+   }
+  },
+  "Google": {
+   "kind": "Office",
+   "places": [
+    "Zurich"
+   ],
+   "zug": false,
+   "note": "Google Switzerland",
+   "source": "https://www.greaterzuricharea.com/en/success-stories/google-switzerland",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.greaterzuricharea.com/en/success-stories/google-switzerland"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.greaterzuricharea.com]  google switzerland | greater zurich skip to main content main navigation how we help our servic"
+   }
+  },
+  "Havas": {
+   "kind": "Office",
+   "places": [
+    "Zurich",
+    "Geneva"
+   ],
+   "zug": false,
+   "note": "Havas Village Zurich and Havas Village Geneva (Havas Switzerland site)",
+   "source": "https://swiss.havas.com/?p=378",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://swiss.havas.com/?p=378"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zurich",
+     "Geneva"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[swiss.havas.com]  two villages. one mindset. genuinely swiss. from geneva to zurich. welcome to a swiss human-sized agency. the havas village i"
+   }
+  },
+  "Seprotec": {
+   "kind": "Office",
+   "places": [
+    "Basel"
+   ],
+   "zug": false,
+   "note": "New office in Basel",
+   "source": "https://slator.com/seprotec-multilingual-solutions-opens-new-office-swiss-city-basel",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://slator.com/seprotec-multilingual-solutions-opens-new-office-swiss-city-basel"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Basel"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[slator.com] tilingual solutions opens a new office in the swiss city of basel press release 31 oct 2017 2 min read by seprotec multilingu"
+   }
+  },
+  "Wiley": {
+   "kind": "Office",
+   "places": [
+    "Bern"
+   ],
+   "zug": false,
+   "note": "Publishing office in Bern",
+   "source": "https://www.wiley-vch.de/en/about-wiley/wiley-worldwide",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.wiley-vch.de/en/about-wiley/wiley-worldwide"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Bern"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.wiley-vch.de] of wiley europe. the company also has publishing offices in bern, london, and paris. wiley europe is a major indigenous publ"
+   }
+  }
+ },
+ "customers_not_on_map": {
+  "Galderma": {
+   "kind": "HQ",
+   "places": [
+    "Zug"
+   ],
+   "zug": true,
+   "note": "Global headquarters, Zählerweg 10",
+   "source": "https://www.galderma.com/contact-us",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.galderma.com/contact-us"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.galderma.com] bout? * send head office galdermas headquarters is based in zug, switzerland. galderma sa zahlerweg 10 6300 zug switzerland",
+    "hq_evidence": "Galderma's contact page: 'Galderma's Headquarters is based in Zug, Switzerland', Galderma SA, Zählerweg 10, 6300 Zug."
+   }
+  },
+  "Bavarian Nordic": {
+   "kind": "Office",
+   "places": [
+    "Zug",
+    "Thörishaus (BE)"
+   ],
+   "zug": true,
+   "note": "Bavarian Nordic Switzerland AG, Zug; oral-vaccine manufacturing site in Thörishaus",
+   "source": "https://www.bavarian-nordic.com/privacy.aspx",
+   "validation": {
+    "checked": "2026-10-12",
+    "source_read": true,
+    "fetch_error": "",
+    "sources_read": [
+     "https://www.bavarian-nordic.com/privacy.aspx"
+    ],
+    "status": "confirmed",
+    "company_found": true,
+    "places_confirmed": [
+     "Zug",
+     "Thörishaus (BE)"
+    ],
+    "places_unconfirmed": [],
+    "hq_confirmed": true,
+    "evidence": "[www.bavarian-nordic.com] itzerland ag reg. no. che-259.519.429 grafenauweg 8 ch-6301 zug switzerland bavarian nordic sweden ab reg. no. 559305-6186 "
+   }
+  }
+ },
+ "checked_no_swiss_office": {
+  "KalVista": "KalVista Pharmaceuticals Switzerland GmbH exists (SEC subsidiary list) but no city could be confirmed, so no office is counted.",
+  "Aspen Pharmacare": "Aspen Pharma Schweiz GmbH was in Baar in a 2016 letter and the 2019 annual report, but a current address could not be confirmed, so no Swiss office is counted.",
+  "Shionogi": "Shionogi's own European affiliate list (Italy, Germany, Spain, Netherlands, UK) has no Swiss entity; searched 2026-10-12.",
+  "Woerwag Pharma": "No Swiss subsidiary found. Wörwag works with the Swiss partner Biomed AG (Dübendorf) from 1 April 2026 (woerwagpharma.com press release)."
+ }
+}

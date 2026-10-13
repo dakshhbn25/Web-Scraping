@@ -11,6 +11,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+from utils.location import clean_location, is_swiss, is_zug_canton, read_pdl_country, validated_presence
+
 ROOT = Path(__file__).resolve().parent.parent
 
 SPEAKERS_GOLD = ROOT / "speaker" / "data" / "gold" / "speakers.json"
@@ -62,6 +64,7 @@ def load_enrichment_by_name(base: str = "speaker_list") -> dict:
         gold_path = folder / "data" / "gold" / "linkedin.json"
         data = _load_json(gold_path)
         if data:
+            data["pdl_country"] = read_pdl_country(folder)
             enrichment[data["speaker_name"]] = data
     return enrichment
 
@@ -84,6 +87,55 @@ def load_alt_sources_by_name(base: str = "speaker_list") -> dict:
         if data:
             sources[data["speaker_name"]] = data
     return sources
+
+
+def _norm(text) -> str:
+    return re.sub(r"[^a-z0-9]+", "", (text or "").lower())
+
+
+@st.cache_data(ttl="10m")
+def _swiss_company_index() -> tuple[dict, dict]:
+    """(alias -> company, company -> Swiss HQ/office record) from ai_landscape/data/silver/company_gold_map.json and swiss_presence.json."""
+    silver = ROOT / "ai_landscape" / "data" / "silver"
+    company_map = _load_json(silver / "company_gold_map.json") or {}
+    presence = validated_presence((_load_json(silver / "swiss_presence.json") or {}).get("companies", {}))
+    alias = {}
+    for company, m in company_map.items():
+        for a in [company, *m.get("aliases", [])]:
+            alias[_norm(a)] = company
+    # 'merck' alone is claimed by both Merck KGaA and MSD (Merck & Co.), so it decides nothing; the explicit forms do
+    alias.pop("merck", None)
+    alias.update({"merckgroup": "Merck KGaA", "merckhealthcare": "Merck KGaA", "merckkgaa": "Merck KGaA", "merckserono": "Merck KGaA"})
+    return alias, presence
+
+
+def _company_of(record: dict, alias: dict):
+    """The mapped company a person works for now. The LinkedIn current company decides (exact alias, else the longest alias contained in it, e.g.
+    'takeda pharmaceuticals international gmbh glattpark ch' -> Takeda). Only when LinkedIn gives no current company is the event company used,
+    so someone who has left (e.g. now an independent consultant) is not tied to their old employer."""
+    current = _norm(record.get("linkedin_current_company"))
+    if current:
+        if current in alias:
+            return alias[current]
+        inside = [k for k in alias if (len(k) >= 4 and k in current) or (len(k) >= 3 and current.startswith(k))]  # 'msd belgium' -> MSD
+        return alias[max(inside, key=len)] if inside else None
+    return alias.get(_norm(record.get("company")))
+
+
+def _add_location(record: dict) -> None:
+    """Cleaned location plus Swiss / Zug-canton flags (LinkedIn text first, PDL country as fallback), and whether the person's employer has a
+    Swiss HQ or office. The employer is the current company from LinkedIn, else the company at the event, so people who moved are judged on where they are now."""
+    loc = clean_location(record.get("linkedin_location"))
+    record["linkedin_location"] = loc
+    record["swiss_based"] = is_swiss(loc, record.get("pdl_country", ""))
+    record["zug_canton"] = is_zug_canton(loc)
+    alias, presence = _swiss_company_index()
+    company = _company_of(record, alias)
+    office = presence.get(company) if company else None
+    record["swiss_company"] = company if office else ""
+    record["swiss_company_places"] = office["places"] if office else []
+    record["swiss_company_zug"] = bool(office and office["zug"])
+    record["swiss_via_company_only"] = bool(office) and not record["swiss_based"]  # works for a company with a Swiss office but is located elsewhere
 
 
 def compute_tier(record: dict) -> str:
@@ -129,6 +181,7 @@ def load_speakers() -> list[dict]:
                 if key.startswith("linkedin_") or key.endswith("_en"):
                     record[key] = value
             record["enrichment_sources"] = enrichment.get("data_sources", {})
+            record["pdl_country"] = enrichment.get("pdl_country", "")
         else:
             record["enrichment_sources"] = {}
 
@@ -137,6 +190,7 @@ def load_speakers() -> list[dict]:
         record["alt_sources"] = alt.get("sources") if alt else []
         record["alt_sources_verification"] = alt.get("identity_verification") if alt else None
 
+        _add_location(record)
         record["tier"] = compute_tier(record)
         merged.append(record)
     return merged
@@ -166,6 +220,7 @@ def load_agenda_speakers() -> list[dict]:
                 if key.startswith("linkedin_") or key.endswith("_en"):
                     record[key] = value
             record["enrichment_sources"] = enrichment.get("data_sources", {})
+            record["pdl_country"] = enrichment.get("pdl_country", "")
         else:
             record["enrichment_sources"] = {}
 
@@ -179,6 +234,7 @@ def load_agenda_speakers() -> list[dict]:
         if fix:
             record.update(fix["fields"])
             record["correction_note"] = fix["why"]
+        _add_location(record)
         record["tier"] = compute_tier(record)
         merged.append(record)
     return merged
